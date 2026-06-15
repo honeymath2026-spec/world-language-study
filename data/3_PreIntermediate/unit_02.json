@@ -1,0 +1,1900 @@
+{
+  "title": {
+    "en": "SHOPS",
+    "ja": "ショップ",
+    "fr": "MAGASINS",
+    "ko": "쇼핑"
+  },
+  "topic": {
+    "en": "Shopping experiences, customer service, product quality",
+    "ja": "ショッピング体験、カスタマーサービス、製品品質",
+    "fr": "Expériences d'achat, service client, qualité des produits",
+    "ko": "쇼핑 경험, 고객 서비스, 제품 품질"
+  },
+  "core_title": {
+    "en": "The Way We Shop",
+    "ja": "私たちの買い物方法",
+    "fr": "Notre façon de faire les courses",
+    "ko": "우리의 쇼핑 방식"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>Shopping is more than just buying things — it's an experience shaped by where we go, who serves us, and what we value. Some people love visiting <strong>small, specialist shops</strong> or boutiques to find <strong><span class='vocab-link' id='text-unique' onclick='speakAndScroll(\"unique\", \"vocab-unique\")'>unique</span></strong> items that aren't mass-produced for world consumption. They enjoy personal service and high-quality goods. Others prefer large department stores because they offer a massive <strong><span class='vocab-link' id='text-selection' onclick='speakAndScroll(\"selection\", \"vocab-selection\")'>selection</span></strong> under one roof. But no matter where we shop, certain moments define our experience: a helpful assistant, a damaged product, or the joy of discovering something truly special.</p><p>When we buy a present for an occasion, little gestures matter. A shop assistant might ask, 'Would you like it <strong><span class='vocab-link' id='text-wrapped' onclick='speakAndScroll(\"wrapped\", \"vocab-wrapped\")'>wrapped</span></strong>?' This adds a personal touch. However, shopping isn't always perfect. We have all felt frustrated when a shop is <strong><span class='vocab-link' id='text-understaffed' onclick='speakAndScroll(\"understaffed\", \"vocab-understaffed\")'>understaffed</span></strong> and no one is <strong><span class='vocab-link' id='text-serving' onclick='speakAndScroll(\"serving\", \"vocab-serving\")'>serving</span></strong>, or when the item we want is <strong><span class='vocab-link' id='text-out_of_stock' onclick='speakAndScroll(\"out_of_stock\", \"vocab-out_of_stock\")'>out of stock</span></strong>. Even worse, we sometimes open the box at home only to find it <strong><span class='vocab-link' id='text-damaged' onclick='speakAndScroll(\"damaged\", \"vocab-damaged\")'>damaged</span></strong> — a loose button or a real <strong><span class='vocab-link' id='text-manufacturing_fault' onclick='speakAndScroll(\"manufacturing_fault\", \"vocab-manufacturing_fault\")'>manufacturing fault</span></strong>. In these cases, keeping your <strong><span class='vocab-link' id='text-receipt' onclick='speakAndScroll(\"receipt\", \"vocab-receipt\")'>receipt</span></strong> is essential. Without it, you can't get a <strong><span class='vocab-link' id='text-refund' onclick='speakAndScroll(\"refund\", \"vocab-refund\")'>refund</span></strong> or <strong><span class='vocab-link' id='text-exchange' onclick='speakAndScroll(\"exchange\", \"vocab-exchange\")'>exchange</span></strong>. A <strong><span class='vocab-link' id='text-reliable' onclick='speakAndScroll(\"reliable\", \"vocab-reliable\")'>reliable</span></strong> shop with good customer service will solve these problems quickly and professionally — exactly as you will hear in the conversations in this unit.</p><p>For those who see shopping as an adventure, some streets feel like paradise. Take Warsaw's <strong>Nowy Świat</strong>, recently named the busiest shopping street in the world. Unlike typical high streets, it has <strong>no loud music, no neon lights, and almost no tourists</strong>. Instead, you'll find wide pavements, statues, palaces, and a mix of <strong><span class='vocab-link' id='text-exclusive' onclick='speakAndScroll(\"exclusive\", \"vocab-exclusive\")'>exclusive</span> cafes</strong> and high-quality boutiques. The buildings look old, but the whole city was <strong>rebuilt after World War II</strong>. What makes Nowy Świat special? It is full of <strong>small specialist shops</strong> — not huge department stores that sell the same things everywhere. As you will read in Section 1.3, this is why it is called a paradise for shoppers.</p><p>Here you can buy an <strong><span class='vocab-link' id='text-exquisite' onclick='speakAndScroll(\"exquisite\", \"vocab-exquisite\")'>exquisite</span> handmade suit</strong> for £1,000, beautiful French baby clothes at Petit Bateau, or a 19th-century Russian icon. But not everything is expensive. Small boutiques sell affordable clothes, and <strong>Cafe Blikle</strong> is a <strong><span class='vocab-link' id='text-lively' onclick='speakAndScroll(\"lively\", \"vocab-lively\")'>lively</span></strong> place for famous doughnuts. Polish manufacturers now produce goods that are <strong>not mass-produced for world consumption</strong>. That is what makes them unique. It is possible to travel the world and find the same things everywhere, but the best shops offer something truly unique and reliable service.</p><p>So what makes a shop or a street truly great? Is it <strong>reliable service</strong>? <strong>Exclusive</strong> products? Or the chance to find something <strong>exquisite</strong> that you can't get anywhere else? In the speaking and writing sections of this unit, you will discuss these questions, compare mass-produced versus local items, and even get AI feedback on your own answer. In the end, shopping is not just about spending money — it's about the atmosphere, the lively experience, and the unique treasures you discover along the way.</p>",
+    "ja": "<p style='margin-top:0;'>ショッピングは単なる買い物ではなく、どこで、誰に接客され、何を大切にするかによって形作られる体験です。大量生産された画一的な商品ではなく、<strong><span class='vocab-link' id='text-unique' onclick='speakAndScroll(\"unique\", \"vocab-unique\")'>ユニーク</span></strong>なアイテムを求めて、<strong>小さな専門店</strong>やブティックを訪れるのが好きな人もいます。丁寧なサービスと高品質な商品を楽しむのです。一方、<strong><span class='vocab-link' id='text-selection' onclick='speakAndScroll(\"selection\", \"vocab-selection\")'>巨大な品揃え</span></strong>を一か所で提供してくれるデパートを好む人もいます。しかし、どこで買い物をするにしても、感じの良い店員、破損した商品、特別な発見の喜びといった瞬間が、私たちの経験を形作ります。</p><p>何かの記念日にプレゼントを買うとき、ちょっとした心遣いが大切です。店員が「<strong><span class='vocab-link' id='text-wrapped' onclick='speakAndScroll(\"wrapped\", \"vocab-wrapped\")'>ラッピング</span></strong>はお付けしますか？」と尋ねてくれると、温かみが増します。しかし、買い物がいつも完璧とは限りません。<strong><span class='vocab-link' id='text-understaffed' onclick='speakAndScroll(\"understaffed\", \"vocab-understaffed\")'>スタッフが足りず</span></strong>に誰も<strong><span class='vocab-link' id='text-serving' onclick='speakAndScroll(\"serving\", \"vocab-serving\")'>接客</span></strong>してくれない、欲しい商品が<strong><span class='vocab-link' id='text-out_of_stock' onclick='speakAndScroll(\"out_of_stock\", \"vocab-out_of_stock\")'>在庫切れ</span></strong>だとイライラした経験は誰にでもあるでしょう。さらに悪いことに、家で箱を開けたら商品が<strong><span class='vocab-link' id='text-damaged' onclick='speakAndScroll(\"damaged\", \"vocab-damaged\")'>破損</span></strong>していた——ボタンが取れかけていたり、明らかな<strong><span class='vocab-link' id='text-manufacturing_fault' onclick='speakAndScroll(\"manufacturing_fault\", \"vocab-manufacturing_fault\")'>製造上の欠陥</span></strong>があったりすることもあります。こうした場合、<strong><span class='vocab-link' id='text-receipt' onclick='speakAndScroll(\"receipt\", \"vocab-receipt\")'>レシート</span></strong>を保管しておくことが欠かせません。レシートがないと、<strong><span class='vocab-link' id='text-refund' onclick='speakAndScroll(\"refund\", \"vocab-refund\")'>返金</span></strong>や<strong><span class='vocab-link' id='text-exchange' onclick='speakAndScroll(\"exchange\", \"vocab-exchange\")'>交換</span></strong>はできません。顧客サービスが行き届いた<strong><span class='vocab-link' id='text-reliable' onclick='speakAndScroll(\"reliable\", \"vocab-reliable\")'>信頼できる</span></strong>店なら、こうした問題を迅速かつ専門的に解決してくれるでしょう。</p><p>買い物を冒険と捉える人にとって、ある通りはまさに楽園のように感じられます。ワルシャワの「<strong>Nowy Świat</strong>」は、世界で最も賑わうショッピングストリートに選ばれました。典型的な目抜き通りと違い、<strong>大音量の音楽もネオンもなく、観光客もほとんどいません</strong>。その代わり、広い歩道、彫像、宮殿、そして<strong><span class='vocab-link' id='text-exclusive' onclick='speakAndScroll(\"exclusive\", \"vocab-exclusive\")'>高級カフェ</span></strong>や高品質のブティックが混在しています。建物は古く見えますが、街全体は<strong>第二次世界大戦後に再建</strong>されました。Nowy Światの何が特別なのでしょうか？そこには、どこでも同じ商品を売っている巨大デパートではなく、<strong>小さな専門店</strong>が並んでいるからです。</p><p>ここでは、1,000ポンドの<strong><span class='vocab-link' id='text-exquisite' onclick='speakAndScroll(\"exquisite\", \"vocab-exquisite\")'>精巧な</span>オーダースーツ</strong>、プティ・バトーのかわいいフランス製ベビー服、あるいは19世紀のロシアのイコンを購入できます。しかし、すべてが高価なわけではありません。小さなブティックでは手頃な服も売られており、<strong>Cafe Blikle</strong>は有名なドーナツで<strong><span class='vocab-link' id='text-lively' onclick='speakAndScroll(\"lively\", \"vocab-lively\")'>賑わう</span></strong>場所です。ポーランドのメーカーは現在、<strong>大量生産されて世界に出回る</strong>ことのない商品を生み出しています。それがユニークさの理由です。</p><p>では、何が店や通りを本当に素晴らしいものにするのでしょうか。信頼できるサービス、高級で特別な製品、それとも他では手に入らない精巧な何かを見つけるチャンス。このような問いについて、このユニットのスピーキングとライティングのセクションで議論することになります。</p>",
+    "fr": "<p style='margin-top:0;'>Faire du shopping est bien plus qu'un simple achat — c'est une expérience façonnée par l'endroit où l'on va, qui nous sert et ce que l'on valorise. Certaines personnes aiment visiter des <strong>petites boutiques spécialisées</strong> pour trouver des articles <strong><span class='vocab-link' id='text-unique' onclick='speakAndScroll(\"unique\", \"vocab-unique\")'>uniques</span></strong> qui ne sont pas produits en masse pour la consommation mondiale. Ils apprécient le service personnalisé et les produits de qualité. D'autres préfèrent les grands magasins car ils offrent un vaste <strong><span class='vocab-link' id='text-selection' onclick='speakAndScroll(\"selection\", \"vocab-selection\")'>choix</span></strong> sous un même toit. Mais quel que soit l'endroit, certains moments définissent notre expérience : un vendeur serviable, un produit endommagé, ou la joie de découvrir quelque chose de vraiment spécial.</p><p>Lorsque nous achetons un cadeau pour une occasion, les petits gestes comptent. Un vendeur peut demander : « Souhaitez-vous qu'il soit <strong><span class='vocab-link' id='text-wrapped' onclick='speakAndScroll(\"wrapped\", \"vocab-wrapped\")'>emballé</span></strong> ? » Cela ajoute une touche personnelle. Cependant, le shopping n'est pas toujours parfait. Nous avons tous ressenti de la frustration quand un magasin <strong><span class='vocab-link' id='text-understaffed' onclick='speakAndScroll(\"understaffed\", \"vocab-understaffed\")'>manque de personnel</span></strong> et que personne ne <strong><span class='vocab-link' id='text-serving' onclick='speakAndScroll(\"serving\", \"vocab-serving\")'>sert</span></strong>, ou quand l'article que nous voulons est <strong><span class='vocab-link' id='text-out_of_stock' onclick='speakAndScroll(\"out_of_stock\", \"vocab-out_of_stock\")'>en rupture de stock</span></strong>. Pire encore, nous ouvrons parfois la boîte à la maison pour constater qu'elle est <strong><span class='vocab-link' id='text-damaged' onclick='speakAndScroll(\"damaged\", \"vocab-damaged\")'>endommagée</span></strong> — un bouton lâche ou un véritable <strong><span class='vocab-link' id='text-manufacturing_fault' onclick='speakAndScroll(\"manufacturing_fault\", \"vocab-manufacturing_fault\")'>défaut de fabrication</span></strong>. Dans ces cas, conserver son <strong><span class='vocab-link' id='text-receipt' onclick='speakAndScroll(\"receipt\", \"vocab-receipt\")'>reçu</span></strong> est essentiel. Sans lui, pas de <strong><span class='vocab-link' id='text-refund' onclick='speakAndScroll(\"refund\", \"vocab-refund\")'>remboursement</span></strong> ni d'<strong><span class='vocab-link' id='text-exchange' onclick='speakAndScroll(\"exchange\", \"vocab-exchange\")'>échange</span></strong>. Un magasin <strong><span class='vocab-link' id='text-reliable' onclick='speakAndScroll(\"reliable\", \"vocab-reliable\")'>fiable</span></strong> avec un bon service client résoudra ces problèmes rapidement et professionnellement.</p><p>Pour ceux qui voient le shopping comme une aventure, certaines rues sont un paradis. La rue <strong>Nowy Świat</strong> à Varsovie a été récemment nommée la rue commerçante la plus animée du monde. Contrairement aux grandes artères typiques, elle n'a <strong>pas de musique forte, pas de néons, et presque pas de touristes</strong>. On y trouve de larges trottoirs, des statues, des palais, et un mélange de <strong>cafés <span class='vocab-link' id='text-exclusive' onclick='speakAndScroll(\"exclusive\", \"vocab-exclusive\")'>exclusifs</span></strong> et de boutiques de qualité. Les bâtiments ont l'air anciens, mais toute la ville a été <strong>reconstruite après la Seconde Guerre mondiale</strong>. Ce qui rend Nowy Świat spéciale, c'est qu'elle est pleine de <strong>petites boutiques spécialisées</strong> — pas de grands magasins qui vendent les mêmes choses partout.</p><p>Vous y trouverez un <strong>costume sur mesure <span class='vocab-link' id='text-exquisite' onclick='speakAndScroll(\"exquisite\", \"vocab-exquisite\")'>exquis</span></strong> à 1 000 £, de jolis vêtements français pour bébé chez Petit Bateau, ou une icône russe du XIXe siècle. Mais tout n'est pas cher. De petites boutiques vendent des vêtements abordables, et le <strong>Cafe Blikle</strong> est un endroit <strong><span class='vocab-link' id='text-lively' onclick='speakAndScroll(\"lively\", \"vocab-lively\")'>animé</span></strong> pour ses célèbres beignets. Les fabricants polonais produisent désormais des biens qui ne sont <strong>pas massifiés pour la consommation mondiale</strong>. C'est ce qui les rend uniques.</p><p>Alors, qu'est-ce qui rend un magasin ou une rue vraiment génial ? Un service fiable ? Des produits exclusifs ? Ou la chance de trouver quelque chose d'exquis que l'on ne peut obtenir ailleurs ? Ce sont ces questions que vous discuterez dans les sections d'expression orale et écrite de cette unité.</p>",
+    "ko": "<p style='margin-top:0;'>쇼핑은 단순히 물건을 사는 것이 아니라, 어디에서 누가 서비스를 제공하며 무엇을 중요하게 생각하느냐에 따라 형성되는 경험입니다. 어떤 사람들은 전 세계 소비를 위해 대량 생산되지 않은 <strong><span class='vocab-link' id='text-unique' onclick='speakAndScroll(\"unique\", \"vocab-unique\")'>고유한</span></strong> 물건을 찾기 위해 <strong>작은 전문 상점</strong>이나 부티크를 방문하는 것을 좋아합니다. 그들은 개인화된 서비스와 고품질 제품을 즐깁니다. 반면, 한 지붕 아래 방대한 <strong><span class='vocab-link' id='text-selection' onclick='speakAndScroll(\"selection\", \"vocab-selection\")'>선택의 폭</span></strong>을 제공하는 백화점을 선호하는 사람들도 있습니다. 하지만 어디에서 쇼핑하든, 도움이 되는 점원, 손상된 제품, 또는 특별한 것을 발견하는 기쁨과 같은 특정 순간들이 우리의 경험을 정의합니다.</p><p>특별한 날 선물을 살 때는 작은 정성이 중요합니다. 점원이 \"<strong><span class='vocab-link' id='text-wrapped' onclick='speakAndScroll(\"wrapped\", \"vocab-wrapped\")'>포장</span></strong>해 드릴까요?\"라고 묻는다면 개인적인 느낌을 더해줍니다. 그러나 쇼핑이 항상 완벽한 것은 아닙니다. 매장에 <strong><span class='vocab-link' id='text-understaffed' onclick='speakAndScroll(\"understaffed\", \"vocab-understaffed\")'>직원이 부족해서</span></strong> 아무도 <strong><span class='vocab-link' id='text-serving' onclick='speakAndScroll(\"serving\", \"vocab-serving\")'>서빙</span></strong>하지 않거나, 원하는 물건이 <strong><span class='vocab-link' id='text-out_of_stock' onclick='speakAndScroll(\"out_of_stock\", \"vocab-out_of_stock\")'>품절</span></strong>되었을 때 답답함을 느껴본 적이 있을 것입니다. 더 나쁜 경우, 집에서 상자를 열어보니 제품이 <strong><span class='vocab-link' id='text-damaged' onclick='speakAndScroll(\"damaged\", \"vocab-damaged\")'>손상</span></strong>되어 있기도 합니다 — 느슨한 단추나 명백한 <strong><span class='vocab-link' id='text-manufacturing_fault' onclick='speakAndScroll(\"manufacturing_fault\", \"vocab-manufacturing_fault\")'>제조상의 결함</span></strong> 말이죠. 이런 경우 <strong><span class='vocab-link' id='text-receipt' onclick='speakAndScroll(\"receipt\", \"vocab-receipt\")'>영수증</span></strong>을 보관하는 것이 필수적입니다. 영수증이 없으면 <strong><span class='vocab-link' id='text-refund' onclick='speakAndScroll(\"refund\", \"vocab-refund\")'>환불</span></strong>이나 <strong><span class='vocab-link' id='text-exchange' onclick='speakAndScroll(\"exchange\", \"vocab-exchange\")'>교환</span></strong>을 받을 수 없습니다. 고객 서비스가 좋은 <strong><span class='vocab-link' id='text-reliable' onclick='speakAndScroll(\"reliable\", \"vocab-reliable\")'>신뢰할 수 있는</span></strong> 매장이라면 이런 문제를 신속하고 전문적으로 해결해 줄 것입니다.</p><p>쇼핑을 모험으로 보는 사람들에게는 어떤 거리는 낙원처럼 느껴집니다. 바르샤바의 <strong>노비 샤트(Nowy Świat)</strong>는 최근 세계에서 가장 붐비는 쇼핑 거리로 선정되었습니다. 전형적인 번화가와는 달리, <strong>시끄러운 음악도, 네온사인도, 관광객도 거의 없습니다</strong>. 대신 넓은 인도, 동상, 궁전, 그리고 <strong><span class='vocab-link' id='text-exclusive' onclick='speakAndScroll(\"exclusive\", \"vocab-exclusive\")'>고급 </span></strong>카페와 고품질 부티크가 어우러져 있습니다. 건물들은 낡아 보이지만, 도시 전체는 <strong>제2차 세계대전 이후 재건</strong>되었습니다. 노비 샤트가 특별한 이유는 무엇일까요? 바로 그곳에는 어디서나 똑같은 물건을 파는 거대 백화점이 아닌, <strong>작은 전문 상점들</strong>이 가득하기 때문입니다.</p><p>여기에서는 1,000파운드짜리 <strong><span class='vocab-link' id='text-exquisite' onclick='speakAndScroll(\"exquisite\", \"vocab-exquisite\")'>정교한</span> 맞춤 정장</strong>, 프티 바토(Petit Bateau)의 예쁜 프랑스 베이비 옷, 또는 19세기 러시아 성화를 살 수 있습니다. 하지만 모든 것이 비싼 것은 아닙니다. 작은 부티크에서는 합리적인 가격의 옷을 판매하며, <strong>카페 블리클(Cafe Blikle)</strong>은 유명한 도넛으로 <strong><span class='vocab-link' id='text-lively' onclick='speakAndScroll(\"lively\", \"vocab-lively\")'>활기찬</span></strong> 장소입니다. 폴란드 제조업체들은 이제 <strong>대량 생산되어 전 세계 소비를 위해 유통되지 않는</strong> 제품을 생산합니다. 그것이 바로 그들을 독특하게 만드는 이유입니다.</p><p>그렇다면 무엇이 매장이나 거리를 진정으로 훌륭하게 만드는 걸까요. 신뢰할 수 있는 서비스, 고급스럽고 독점적인 제품, 아니면 다른 곳에서는 얻을 수 없는 정교한 무언가를 발견할 기회. 이러한 질문들에 대해 이 유닛의 말하기 및 쓰기 섹션에서 토론하게 될 것입니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "unique",
+        "word": "Unique",
+        "definition": "Being the only one of its kind; very special."
+      },
+      {
+        "id": "selection",
+        "word": "Selection",
+        "definition": "A range of different things you can choose from."
+      },
+      {
+        "id": "wrapped",
+        "word": "Wrapped",
+        "definition": "Covered in paper or other material."
+      },
+      {
+        "id": "understaffed",
+        "word": "Understaffed",
+        "definition": "Not having enough workers."
+      },
+      {
+        "id": "serving",
+        "word": "Serving",
+        "definition": "Helping customers in a shop."
+      },
+      {
+        "id": "out_of_stock",
+        "word": "Out of stock",
+        "definition": "Not available to buy right now."
+      },
+      {
+        "id": "damaged",
+        "word": "Damaged",
+        "definition": "Broken or harmed physically."
+      },
+      {
+        "id": "manufacturing_fault",
+        "word": "Manufacturing fault",
+        "definition": "A mistake made when the product was made."
+      },
+      {
+        "id": "receipt",
+        "word": "Receipt",
+        "definition": "A small piece of paper proving you paid for something."
+      },
+      {
+        "id": "refund",
+        "word": "Refund",
+        "definition": "Money given back when you return an item."
+      },
+      {
+        "id": "exchange",
+        "word": "Exchange",
+        "definition": "Giving back an item and getting another one instead."
+      },
+      {
+        "id": "reliable",
+        "word": "Reliable",
+        "definition": "That can be trusted to do something well; dependable."
+      },
+      {
+        "id": "exclusive",
+        "word": "Exclusive",
+        "definition": "Only available to or used by the richest or best people; expensive and high-class."
+      },
+      {
+        "id": "exquisite",
+        "word": "Exquisite",
+        "definition": "Extremely beautiful, delicate, and carefully made."
+      },
+      {
+        "id": "lively",
+        "word": "Lively",
+        "definition": "Full of energy and activity."
+      }
+    ],
+    "ja": [
+      {
+        "id": "unique",
+        "word": "ユニーク",
+        "definition": "唯一無二であること。非常に特別なこと。"
+      },
+      {
+        "id": "selection",
+        "word": "品揃え",
+        "definition": "選ぶことができるさまざまな種類の商品。"
+      },
+      {
+        "id": "wrapped",
+        "word": "ラッピングされた",
+        "definition": "紙や他の素材で包まれた。"
+      },
+      {
+        "id": "understaffed",
+        "word": "人員不足",
+        "definition": "十分な数の従業員がいない。"
+      },
+      {
+        "id": "serving",
+        "word": "接客する",
+        "definition": "店で顧客を助けること。"
+      },
+      {
+        "id": "out_of_stock",
+        "word": "在庫切れ",
+        "definition": "今すぐ購入できない状態。"
+      },
+      {
+        "id": "damaged",
+        "word": "破損した",
+        "definition": "壊れていたり、物理的に傷ついている。"
+      },
+      {
+        "id": "manufacturing_fault",
+        "word": "製造上の欠陥",
+        "definition": "製品の製造時に生じたミス。"
+      },
+      {
+        "id": "receipt",
+        "word": "レシート",
+        "definition": "支払いを証明する小さな紙。"
+      },
+      {
+        "id": "refund",
+        "word": "返金",
+        "definition": "商品を返品したときに戻ってくるお金。"
+      },
+      {
+        "id": "exchange",
+        "word": "交換",
+        "definition": "商品を返して別のものと引き換えること。"
+      },
+      {
+        "id": "reliable",
+        "word": "信頼できる",
+        "definition": "よくやってくれると期待できる。頼りになる。"
+      },
+      {
+        "id": "exclusive",
+        "word": "高級な / 特別な",
+        "definition": "最も裕福な人々だけが利用できる、高価で上質な。"
+      },
+      {
+        "id": "exquisite",
+        "word": "精巧な",
+        "definition": "非常に美しく、繊細で、丁寧に作られた。"
+      },
+      {
+        "id": "lively",
+        "word": "賑やかな",
+        "definition": "エネルギーと活動に満ちている。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "unique",
+        "word": "Unique",
+        "definition": "Qui est le seul de son genre ; très spécial."
+      },
+      {
+        "id": "selection",
+        "word": "Choix",
+        "definition": "Une gamme de différentes choses parmi lesquelles choisir."
+      },
+      {
+        "id": "wrapped",
+        "word": "Emballé",
+        "definition": "Recouvert de papier ou d'autre matériau."
+      },
+      {
+        "id": "understaffed",
+        "word": "Manque de personnel",
+        "definition": "Situation où il n'y a pas assez d'employés dans un magasin."
+      },
+      {
+        "id": "serving",
+        "word": "Servir",
+        "definition": "Aider les clients dans un magasin."
+      },
+      {
+        "id": "out_of_stock",
+        "word": "Rupture de stock",
+        "definition": "Non disponible à l'achat immédiat."
+      },
+      {
+        "id": "damaged",
+        "word": "Endommagé",
+        "definition": "Cassé ou abîmé physiquement."
+      },
+      {
+        "id": "manufacturing_fault",
+        "word": "Défaut de fabrication",
+        "definition": "Une erreur survenue lors de la fabrication du produit."
+      },
+      {
+        "id": "receipt",
+        "word": "Reçu",
+        "definition": "Un petit papier prouvant que vous avez payé."
+      },
+      {
+        "id": "refund",
+        "word": "Remboursement",
+        "definition": "Argent rendu lorsque vous retournez un article."
+      },
+      {
+        "id": "exchange",
+        "word": "Échange",
+        "definition": "Rendre un article et en obtenir un autre à la place."
+      },
+      {
+        "id": "reliable",
+        "word": "Fiable",
+        "definition": "À qui on peut faire confiance ; digne de confiance."
+      },
+      {
+        "id": "exclusive",
+        "word": "Exclusif",
+        "definition": "Accessible uniquement aux plus riches ou aux meilleurs ; cher et haut de gamme."
+      },
+      {
+        "id": "exquisite",
+        "word": "Exquis",
+        "definition": "Extrêmement beau, délicat et fabriqué avec soin."
+      },
+      {
+        "id": "lively",
+        "word": "Animé",
+        "definition": "Plein d'énergie et d'activité."
+      }
+    ],
+    "ko": [
+      {
+        "id": "unique",
+        "word": "고유한 / 독특한",
+        "definition": "그 종류가 하나뿐인, 매우 특별한."
+      },
+      {
+        "id": "selection",
+        "word": "선택의 폭",
+        "definition": "선택할 수 있는 다양한 종류의 것들."
+      },
+      {
+        "id": "wrapped",
+        "word": "포장된",
+        "definition": "종이나 다른 재질로 싸인."
+      },
+      {
+        "id": "understaffed",
+        "word": "직원이 부족한",
+        "definition": "충분한 직원 수가 없는."
+      },
+      {
+        "id": "serving",
+        "word": "서빙 / 응대",
+        "definition": "가게에서 고객을 도와주는 것."
+      },
+      {
+        "id": "out_of_stock",
+        "word": "품절",
+        "definition": "현재 구매할 수 없는 상태."
+      },
+      {
+        "id": "damaged",
+        "word": "손상된",
+        "definition": "물리적으로 깨지거나 훼손된."
+      },
+      {
+        "id": "manufacturing_fault",
+        "word": "제조상의 결함",
+        "definition": "제품을 만들 때 발생한 실수."
+      },
+      {
+        "id": "receipt",
+        "word": "영수증",
+        "definition": "지불을 증명하는 작은 종이."
+      },
+      {
+        "id": "refund",
+        "word": "환불",
+        "definition": "물건을 반품할 때 돌려받는 돈."
+      },
+      {
+        "id": "exchange",
+        "word": "교환",
+        "definition": "물건을 반납하고 다른 것으로 바꾸는 것."
+      },
+      {
+        "id": "reliable",
+        "word": "신뢰할 수 있는",
+        "definition": "무언가를 잘 해낼 것이라고 믿을 수 있는."
+      },
+      {
+        "id": "exclusive",
+        "word": "고급의 / 독점적인",
+        "definition": "가장 부유하거나 최고의 사람들만 사용할 수 있는, 비싸고 고품질의."
+      },
+      {
+        "id": "exquisite",
+        "word": "정교한 / 아름다운",
+        "definition": "매우 아름답고 섬세하며 정성스럽게 만들어진."
+      },
+      {
+        "id": "lively",
+        "word": "활기찬",
+        "definition": "에너지와 활동으로 가득 찬."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Weekend Catch-up at Work",
+        "label": "Conversation: A New Camera and Second-hand Finds",
+        "script": [
+          {
+            "speaker": "K",
+            "text": "Did you have a nice weekend?"
+          },
+          {
+            "speaker": "C",
+            "text": "Yeah, it was good."
+          },
+          {
+            "speaker": "K",
+            "text": "What did you do?"
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, nothing much. I went for a walk with some friends round Sutton Park yesterday."
+          },
+          {
+            "speaker": "K",
+            "text": "Oh, nice. It was a lovely clear day."
+          },
+          {
+            "speaker": "C",
+            "text": "Yeah, it was a bit cold, but it was great. I was taking photos with my new camera."
+          },
+          {
+            "speaker": "K",
+            "text": "That one? Let's have a look. Oh wow! That's really neat. Where did you get it?"
+          },
+          {
+            "speaker": "C",
+            "text": "In Jessops in town. I'm really pleased with it. It's really good quality and it's got quite a few different functions."
+          },
+          {
+            "speaker": "K",
+            "text": "Really? Is it complicated to use?"
+          },
+          {
+            "speaker": "C",
+            "text": "No, not really. There are a few things I don't know yet, but it's okay."
+          },
+          {
+            "speaker": "K",
+            "text": "Yeah. Well, the pictures look good, and it's nice and light as well."
+          },
+          {
+            "speaker": "C",
+            "text": "Mm, yeah. It's cool, isn't it? Anyway, what about you two? Did you do anything?"
+          },
+          {
+            "speaker": "D",
+            "text": "Yeah, we went shopping."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh okay. Did you buy anything nice?"
+          },
+          {
+            "speaker": "K",
+            "text": "Well, I got these earrings."
+          },
+          {
+            "speaker": "C",
+            "text": "They're lovely! They look quite old."
+          },
+          {
+            "speaker": "K",
+            "text": "Yeah, they are. I got them in a second-hand shop near here."
+          },
+          {
+            "speaker": "K",
+            "text": "They've got all kinds of things there—books, CDs, clothes. Dan got that jacket there."
+          },
+          {
+            "speaker": "C",
+            "text": "Really? I love it. It looks really nice and warm."
+          },
+          {
+            "speaker": "D",
+            "text": "Yeah, it is. It's pure wool and it's nice and thick. And it only cost fifteen pounds."
+          },
+          {
+            "speaker": "C",
+            "text": "You're joking! That's fantastic. It really suits you as well. It's a great style and colour."
+          },
+          {
+            "speaker": "D",
+            "text": "Thanks."
+          },
+          {
+            "speaker": "C",
+            "text": "Did you get any clothes, Keira?"
+          },
+          {
+            "speaker": "K",
+            "text": "No, there were some really nice things, but I didn't find anything that fitted me."
+          },
+          {
+            "speaker": "K",
+            "text": "Everything was either too big or too small."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Wrapping a Gift",
+        "label": "Conversation 1: Gift Wrapping Service",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "Would you like it wrapped?"
+          },
+          {
+            "speaker": "D",
+            "text": "Um... what's the paper like?"
+          },
+          {
+            "speaker": "C",
+            "text": "It's this green paper."
+          },
+          {
+            "speaker": "D",
+            "text": "Hmm, it's a bit plain. Do you have anything a bit prettier? It's a special present."
+          },
+          {
+            "speaker": "C",
+            "text": "Well, there's quite a big selection in the stationery department."
+          },
+          {
+            "speaker": "C",
+            "text": "Do you want to choose something and bring it here and I'll wrap it for you?"
+          },
+          {
+            "speaker": "D",
+            "text": "Really? You don't mind?"
+          },
+          {
+            "speaker": "C",
+            "text": "Of course not."
+          },
+          {
+            "speaker": "D",
+            "text": "Thanks."
+          }
+        ]
+      },
+      {
+        "title": "1-3. A Damaged Item",
+        "label": "Conversation 2: Returning Faulty Goods",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "Yes sir. How can I help you?"
+          },
+          {
+            "speaker": "F",
+            "text": "I bought this the other day and it's damaged."
+          },
+          {
+            "speaker": "F",
+            "text": "When I got it home and took it out of the box, I found the button was loose and it's damaged here. Look, you see?"
+          },
+          {
+            "speaker": "E",
+            "text": "Are you sure you didn't drop it or anything?"
+          },
+          {
+            "speaker": "F",
+            "text": "No, of course not!"
+          },
+          {
+            "speaker": "E",
+            "text": "It's just that this kind of damage doesn't happen unless you do something. It's not a manufacturing fault."
+          },
+          {
+            "speaker": "F",
+            "text": "Honestly, when I got home I took it out of the box and it was already damaged."
+          },
+          {
+            "speaker": "E",
+            "text": "Have you got a receipt and the box?"
+          },
+          {
+            "speaker": "F",
+            "text": "I didn't bring the box. I've got the receipt, though."
+          }
+        ]
+      },
+      {
+        "title": "1-4. Stock and Service",
+        "label": "Conversation 3: Waiting for Service",
+        "script": [
+          {
+            "speaker": "G",
+            "text": "Is there anyone serving here?"
+          },
+          {
+            "speaker": "H",
+            "text": "Yes, but I don't think you can pay here."
+          },
+          {
+            "speaker": "G",
+            "text": "That's OK. I just want to find out if they have something in stock."
+          },
+          {
+            "speaker": "H",
+            "text": "Well, there was a guy here and he said he would be back in a minute, but that was ten minutes ago."
+          },
+          {
+            "speaker": "G",
+            "text": "Oh right."
+          },
+          {
+            "speaker": "H",
+            "text": "It's typical! The service is always terrible here."
+          },
+          {
+            "speaker": "G",
+            "text": "Hmm."
+          },
+          {
+            "speaker": "H",
+            "text": "Hatton's is better really. Their service is much more reliable and their things are generally better quality."
+          },
+          {
+            "speaker": "G",
+            "text": "Really? Well, why didn't you go there?"
+          },
+          {
+            "speaker": "H",
+            "text": "Well, I do normally, but I saw in the window they had a sale here."
+          },
+          {
+            "speaker": "G",
+            "text": "Ah!"
+          },
+          {
+            "speaker": "H",
+            "text": "There he is! About time!"
+          },
+          {
+            "speaker": "I",
+            "text": "Sorry."
+          },
+          {
+            "speaker": "H",
+            "text": "That's OK."
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. 週末の近況報告 (職場にて)",
+        "label": "会話: 新しいカメラとリサイクルショップの掘り出し物",
+        "script": [
+          {
+            "speaker": "K",
+            "text": "週末は楽しかった？"
+          },
+          {
+            "speaker": "C",
+            "text": "うん、良かったよ。"
+          },
+          {
+            "speaker": "K",
+            "text": "何してたの？"
+          },
+          {
+            "speaker": "C",
+            "text": "特に何もないよ。昨日、友達とサットン・パークを散歩してたんだ。"
+          },
+          {
+            "speaker": "K",
+            "text": "いいね。すごく晴れてたもんね。"
+          },
+          {
+            "speaker": "C",
+            "text": "うん、ちょっと寒かったけど、最高だったよ。新しいカメラで写真を撮ってたんだ。"
+          },
+          {
+            "speaker": "K",
+            "text": "あのカメラ？見せてよ。わあ、すごくいいね！どこで買ったの？"
+          },
+          {
+            "speaker": "C",
+            "text": "町のジェソップスで。すごく気に入ってるんだ。画質もいいし、いろんな機能がついてるんだよ。"
+          },
+          {
+            "speaker": "K",
+            "text": "本当？使うの複雑じゃない？"
+          },
+          {
+            "speaker": "C",
+            "text": "ううん、そんなことないよ。まだよくわかってないこともあるけど、大丈夫。"
+          },
+          {
+            "speaker": "K",
+            "text": "そうなんだ。でも写真はきれいだし、軽くて持ち運びも楽そうだね。"
+          },
+          {
+            "speaker": "C",
+            "text": "うん、そうなんだ。かっこいいでしょ？ところで、あなたたちは？何かしたの？"
+          },
+          {
+            "speaker": "D",
+            "text": "うん、買い物に行ってきたよ。"
+          },
+          {
+            "speaker": "C",
+            "text": "そうなんだ。何かいいもの買った？"
+          },
+          {
+            "speaker": "K",
+            "text": "うん、このイヤリングを買ったんだ。"
+          },
+          {
+            "speaker": "C",
+            "text": "かわいいね！ずいぶんアンティークっぽいね。"
+          },
+          {
+            "speaker": "K",
+            "text": "うん、そうなんだ。この近くのリサイクルショップで見つけたの。"
+          },
+          {
+            "speaker": "K",
+            "text": "そこには本やCD、洋服とかいろんなものが置いてあるんだよ。ダンが買ったジャケットもそこ。"
+          },
+          {
+            "speaker": "C",
+            "text": "本当？それ、すごくいいね。暖かそうで素敵。"
+          },
+          {
+            "speaker": "D",
+            "text": "うん、そうなんだ。ピュアウールで、厚みもあって暖かいよ。しかもたったの15ポンドだったんだ。"
+          },
+          {
+            "speaker": "C",
+            "text": "うそでしょ！それはすごいね。とても似合ってるよ。スタイルも色も素敵。"
+          },
+          {
+            "speaker": "D",
+            "text": "ありがとう。"
+          },
+          {
+            "speaker": "C",
+            "text": "キーラは何か服を買ったの？"
+          },
+          {
+            "speaker": "K",
+            "text": "ううん、素敵なものはたくさんあったんだけど、サイズが合わなくて。"
+          },
+          {
+            "speaker": "K",
+            "text": "大きすぎるか小さすぎるかで、どれもダメだったんだ。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. ギフトラッピング",
+        "label": "会話1: ラッピングサービス",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "ラッピングはいかがですか？"
+          },
+          {
+            "speaker": "D",
+            "text": "ええと…どんな紙ですか？"
+          },
+          {
+            "speaker": "C",
+            "text": "この緑の紙です。"
+          },
+          {
+            "speaker": "D",
+            "text": "うーん、ちょっと地味ですね。もっと可愛いものはありますか？特別なプレゼントなんです。"
+          },
+          {
+            "speaker": "C",
+            "text": "それでは、ステーショナリー売り場にたくさん種類がありますよ。"
+          },
+          {
+            "speaker": "C",
+            "text": "お好きなものを選んで持ってきていただければ、こちらでお包みしますよ。"
+          },
+          {
+            "speaker": "D",
+            "text": "本当ですか？お手数じゃなければ。"
+          },
+          {
+            "speaker": "C",
+            "text": "もちろんです。"
+          },
+          {
+            "speaker": "D",
+            "text": "ありがとうございます。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. 商品の破損",
+        "label": "会話2: 不良品の返品",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "はい、いらっしゃいませ。どのようなご用件でしょうか？"
+          },
+          {
+            "speaker": "F",
+            "text": "先日これを買ったんですが、破損しています。"
+          },
+          {
+            "speaker": "F",
+            "text": "家に帰って箱から出してみたら、ボタンが緩んでいて、ここも傷ついていました。ほら、ここ、見えますか？"
+          },
+          {
+            "speaker": "E",
+            "text": "落としたりなさいませんでしたか？"
+          },
+          {
+            "speaker": "F",
+            "text": "いいえ、そんなことはありません！"
+          },
+          {
+            "speaker": "E",
+            "text": "ただですね、こういう傷は何かしない限りつかないものなんです。製造上の欠陥ではありませんよ。"
+          },
+          {
+            "speaker": "F",
+            "text": "正直言って、家に帰って箱から出した時には、もうすでに破損していたんです。"
+          },
+          {
+            "speaker": "E",
+            "text": "レシートと箱はお持ちですか？"
+          },
+          {
+            "speaker": "F",
+            "text": "箱は持ってきていません。でもレシートはあります。"
+          }
+        ]
+      },
+      {
+        "title": "1-4. 在庫とサービス",
+        "label": "会話3: 接客を待つ",
+        "script": [
+          {
+            "speaker": "G",
+            "text": "ここ、誰か接客してくれる人はいますか？"
+          },
+          {
+            "speaker": "H",
+            "text": "ええ、でもここでは支払いはできないと思いますよ。"
+          },
+          {
+            "speaker": "G",
+            "text": "大丈夫です。ただ、ある商品の在庫があるかどうか知りたいだけなので。"
+          },
+          {
+            "speaker": "H",
+            "text": "あのね、さっきまでここに店員がいたんだけど、『すぐ戻ります』って言ってからもう10分経つんだよね。"
+          },
+          {
+            "speaker": "G",
+            "text": "ああ、そうなんですね。"
+          },
+          {
+            "speaker": "H",
+            "text": "ほんと、いつもこうなんだよ！ここのサービスはいつも最悪なんだから。"
+          },
+          {
+            "speaker": "G",
+            "text": "ふーん。"
+          },
+          {
+            "speaker": "H",
+            "text": "やっぱりハットンズの方がいいよね。あそこのサービスの方がずっと信頼できるし、商品の質も全般的に高いし。"
+          },
+          {
+            "speaker": "G",
+            "text": "そうなんだ？じゃあ、どうしてそこに行かなかったの？"
+          },
+          {
+            "speaker": "H",
+            "text": "それがね、普段はそうしてるんだけど、ここがセール中ってウィンドウに見つけちゃって。"
+          },
+          {
+            "speaker": "G",
+            "text": "ああ～！"
+          },
+          {
+            "speaker": "H",
+            "text": "あ、来た来た！やっとね！"
+          },
+          {
+            "speaker": "I",
+            "text": "すみません。"
+          },
+          {
+            "speaker": "H",
+            "text": "いいえ、大丈夫ですよ。"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Retour du week-end au travail",
+        "label": "Conversation : Un nouvel appareil photo et des trouvailles d'occasion",
+        "script": [
+          {
+            "speaker": "K",
+            "text": "Tu as passé un bon week-end ?"
+          },
+          {
+            "speaker": "C",
+            "text": "Oui, c'était bien."
+          },
+          {
+            "speaker": "K",
+            "text": "Qu'est-ce que tu as fait ?"
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, pas grand-chose. Je suis allé me promener avec des amis à Sutton Park hier."
+          },
+          {
+            "speaker": "K",
+            "text": "Oh, sympa. Il faisait très beau."
+          },
+          {
+            "speaker": "C",
+            "text": "Oui, il faisait un peu froid, mais c'était super. Je prenais des photos avec mon nouvel appareil."
+          },
+          {
+            "speaker": "K",
+            "text": "Celui-ci ? Fais voir. Oh wow ! Il est vraiment chouette. Où tu l'as acheté ?"
+          },
+          {
+            "speaker": "C",
+            "text": "Chez Jessops en ville. J'en suis très content. Il est de très bonne qualité et il a pas mal de fonctions différentes."
+          },
+          {
+            "speaker": "K",
+            "text": "Vraiment ? C'est compliqué à utiliser ?"
+          },
+          {
+            "speaker": "C",
+            "text": "Non, pas vraiment. Il y a encore quelques trucs que je ne maîtrise pas, mais ça va."
+          },
+          {
+            "speaker": "K",
+            "text": "D'accord. En tout cas, les photos sont belles, et il est léger en plus."
+          },
+          {
+            "speaker": "C",
+            "text": "Mm, oui. Il est cool, non ? Bref, et vous deux ? Vous avez fait quelque chose ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Oui, on a fait du shopping."
+          },
+          {
+            "speaker": "C",
+            "text": "D'accord. Vous avez acheté quelque chose de bien ?"
+          },
+          {
+            "speaker": "K",
+            "text": "Eh bien, j'ai acheté ces boucles d'oreilles."
+          },
+          {
+            "speaker": "C",
+            "text": "Elles sont adorables ! Elles ont l'air assez anciennes."
+          },
+          {
+            "speaker": "K",
+            "text": "Oui, c'est le cas. Je les ai trouvées dans une boutique d'occasion près d'ici."
+          },
+          {
+            "speaker": "K",
+            "text": "Ils ont toutes sortes de choses — livres, CD, vêtements. Dan a acheté sa veste là-bas."
+          },
+          {
+            "speaker": "C",
+            "text": "Vraiment ? Je l'adore. Elle a l'air très chaude et sympa."
+          },
+          {
+            "speaker": "D",
+            "text": "Oui, c'est le cas. Elle est en pure laine, bien épaisse. Et elle n'a coûté que quinze livres."
+          },
+          {
+            "speaker": "C",
+            "text": "Tu plaisantes ! C'est fantastique. Elle te va très bien en plus. Le style et la couleur sont superbes."
+          },
+          {
+            "speaker": "D",
+            "text": "Merci."
+          },
+          {
+            "speaker": "C",
+            "text": "Tu as acheté des vêtements, Keira ?"
+          },
+          {
+            "speaker": "K",
+            "text": "Non, il y avait de très jolies choses, mais je n'ai rien trouvé à ma taille."
+          },
+          {
+            "speaker": "K",
+            "text": "Tout était soit trop grand, soit trop petit."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Emballer un cadeau",
+        "label": "Conversation 1 : Service d'emballage cadeau",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "Souhaitez-vous qu'il soit emballé ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Euh... à quoi ressemble le papier ?"
+          },
+          {
+            "speaker": "C",
+            "text": "C'est ce papier vert."
+          },
+          {
+            "speaker": "D",
+            "text": "Hum, c'est un peu simple. Vous avez quelque chose d'un peu plus joli ? C'est un cadeau spécial."
+          },
+          {
+            "speaker": "C",
+            "text": "Eh bien, il y a un très grand choix au rayon papeterie."
+          },
+          {
+            "speaker": "C",
+            "text": "Voulez-vous choisir quelque chose et l'apporter ici ? Je l'emballerai pour vous."
+          },
+          {
+            "speaker": "D",
+            "text": "Vraiment ? Cela ne vous dérange pas ?"
+          },
+          {
+            "speaker": "C",
+            "text": "Bien sûr que non."
+          },
+          {
+            "speaker": "D",
+            "text": "Merci."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Un article endommagé",
+        "label": "Conversation 2 : Retour de produit défectueux",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "Bonjour Monsieur. Comment puis-je vous aider ?"
+          },
+          {
+            "speaker": "F",
+            "text": "J'ai acheté ceci l'autre jour et il est endommagé."
+          },
+          {
+            "speaker": "F",
+            "text": "Quand je suis rentré chez moi et que je l'ai sorti de la boîte, j'ai vu que le bouton était lâche et qu'il y a une marque ici. Vous voyez ?"
+          },
+          {
+            "speaker": "E",
+            "text": "Vous êtes sûr que vous ne l'avez pas fait tomber ou quelque chose ?"
+          },
+          {
+            "speaker": "F",
+            "text": "Non, bien sûr que non !"
+          },
+          {
+            "speaker": "E",
+            "text": "C'est juste que ce genre de dommage n'arrive pas à moins de faire quelque chose. Ce n'est pas un défaut de fabrication."
+          },
+          {
+            "speaker": "F",
+            "text": "Honnêtement, quand je suis rentré, je l'ai sorti de la boîte et il était déjà endommagé."
+          },
+          {
+            "speaker": "E",
+            "text": "Vous avez le reçu et la boîte ?"
+          },
+          {
+            "speaker": "F",
+            "text": "Je n'ai pas apporté la boîte. Mais j'ai le reçu."
+          }
+        ]
+      },
+      {
+        "title": "1-4. Stock et service",
+        "label": "Conversation 3 : En attente de service",
+        "script": [
+          {
+            "speaker": "G",
+            "text": "Est-ce qu'il y a quelqu'un qui sert ici ?"
+          },
+          {
+            "speaker": "H",
+            "text": "Oui, mais je ne pense pas qu'on puisse payer ici."
+          },
+          {
+            "speaker": "G",
+            "text": "Ce n'est pas grave. Je veux juste savoir s'ils ont quelque chose en stock."
+          },
+          {
+            "speaker": "H",
+            "text": "Eh bien, il y avait un vendeur ici et il a dit qu'il revenait dans une minute, mais ça fait dix minutes."
+          },
+          {
+            "speaker": "G",
+            "text": "Ah d'accord."
+          },
+          {
+            "speaker": "H",
+            "text": "C'est typique ! Le service est toujours terrible ici."
+          },
+          {
+            "speaker": "G",
+            "text": "Hmm."
+          },
+          {
+            "speaker": "H",
+            "text": "Hatton's est vraiment mieux. Leur service est beaucoup plus fiable et leurs produits sont généralement de meilleure qualité."
+          },
+          {
+            "speaker": "G",
+            "text": "Vraiment ? Alors pourquoi tu n'y es pas allé ?"
+          },
+          {
+            "speaker": "H",
+            "text": "Eh bien, d'habitude oui, mais j'ai vu dans la vitrine qu'ils faisaient des soldes ici."
+          },
+          {
+            "speaker": "G",
+            "text": "Ah !"
+          },
+          {
+            "speaker": "H",
+            "text": "Le voilà ! C'est pas trop tôt !"
+          },
+          {
+            "speaker": "I",
+            "text": "Désolé."
+          },
+          {
+            "speaker": "H",
+            "text": "Ce n'est pas grave."
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 직장에서의 주말 이야기",
+        "label": "대화: 새 카메라와 중고샷 발견",
+        "script": [
+          {
+            "speaker": "K",
+            "text": "주말 잘 보냈어?"
+          },
+          {
+            "speaker": "C",
+            "text": "응, 좋았어."
+          },
+          {
+            "speaker": "K",
+            "text": "뭐 했어?"
+          },
+          {
+            "speaker": "C",
+            "text": "아, 별거 없어. 어제 친구들이랑 서튼 파크 산책했어."
+          },
+          {
+            "speaker": "K",
+            "text": "오, 좋겠다. 날씨가 정말 맑았지."
+          },
+          {
+            "speaker": "C",
+            "text": "응, 좀 췄지만 정말 좋았어. 새 카메라로 사진도 찍었어."
+          },
+          {
+            "speaker": "K",
+            "text": "그 카메라? 보자. 와 우와! 정말 깔끔하네. 어디서 샀어?"
+          },
+          {
+            "speaker": "C",
+            "text": "시내에 있는 Jessops에서. 정말 마음에 들어. 화질도 좋고 기능도 꽤 여러 개 있더라."
+          },
+          {
+            "speaker": "K",
+            "text": "정말? 사용하기 복잡하지 않아?"
+          },
+          {
+            "speaker": "C",
+            "text": "아니, 별로. 아직 잘 모르는 것도 몇 개 있지만 괜찮아."
+          },
+          {
+            "speaker": "K",
+            "text": "그래. 음, 사진도 좋아 보이고 가벼워서 좋네."
+          },
+          {
+            "speaker": "C",
+            "text": "응, 그렇지? 멋지지? 근데 너희 둘은? 뭐 했어?"
+          },
+          {
+            "speaker": "D",
+            "text": "응, 우리 쇼핑했어."
+          },
+          {
+            "speaker": "C",
+            "text": "아 그래. 좋은 거 샀어?"
+          },
+          {
+            "speaker": "K",
+            "text": "음, 내가 이 귀걸이를 샀어."
+          },
+          {
+            "speaker": "C",
+            "text": "예쁘다! 꽤 오래된 것처럼 보이네."
+          },
+          {
+            "speaker": "K",
+            "text": "응, 맞아. 여기 근처 중고샵에서 샀어."
+          },
+          {
+            "speaker": "K",
+            "text": "거기에는 책, CD, 옷 등 온갖 종류의 물건들이 있어. 댄이 산 저 재킷도 거기서 샀어."
+          },
+          {
+            "speaker": "C",
+            "text": "정말? 나 너무 마음에 들어. 정말 따뜻해 보이고 좋다."
+          },
+          {
+            "speaker": "D",
+            "text": "응, 그래. 순모이고 두껍고 따뜻해. 가격은 겨우 15파운드였어."
+          },
+          {
+            "speaker": "C",
+            "text": "장난하지? 정말 대박인데. 너한테도 정말 잘 어울려. 스타일과 색상 모두 훌륭해."
+          },
+          {
+            "speaker": "D",
+            "text": "고마워."
+          },
+          {
+            "speaker": "C",
+            "text": "키라, 옷은 안 샀어?"
+          },
+          {
+            "speaker": "K",
+            "text": "아니, 정말 예쁜 것들이 많았는데 내 사이즈에 맞는 게 없더라."
+          },
+          {
+            "speaker": "K",
+            "text": "모든 게 너무 크거나 너무 작았어."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 선물 포장하기",
+        "label": "대화 1: 선물 포장 서비스",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "포장해 드릴까요?"
+          },
+          {
+            "speaker": "D",
+            "text": "음... 포장지는 어떤 건가요?"
+          },
+          {
+            "speaker": "C",
+            "text": "이 초록색 종이입니다."
+          },
+          {
+            "speaker": "D",
+            "text": "음, 좀 밋밋하네요. 좀 더 예쁜 거 없나요? 특별한 선물이라서요."
+          },
+          {
+            "speaker": "C",
+            "text": "문구류 매장에 아주 다양한 종류가 있습니다."
+          },
+          {
+            "speaker": "C",
+            "text": "마음에 드는 걸 골라서 가져오시면 제가 포장해 드리겠습니다."
+          },
+          {
+            "speaker": "D",
+            "text": "정말요? 괜찮으시겠어요?"
+          },
+          {
+            "speaker": "C",
+            "text": "물론이죠."
+          },
+          {
+            "speaker": "D",
+            "text": "감사합니다."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 손상된 물건",
+        "label": "대화 2: 불량품 반품",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "네, 고객님. 어떻게 도와드릴까요?"
+          },
+          {
+            "speaker": "F",
+            "text": "며칠 전에 이걸 샀는데 손상됐어요."
+          },
+          {
+            "speaker": "F",
+            "text": "집에 와서 상자에서 꺼냈더니 단추가 헐렁하고 여기도 손상됐더라고요. 여기, 보이시죠?"
+          },
+          {
+            "speaker": "E",
+            "text": "떨어뜨리거나 한 건 아니신가요?"
+          },
+          {
+            "speaker": "F",
+            "text": "아니요, 그런 적 없어요!"
+          },
+          {
+            "speaker": "E",
+            "text": "원래 이런 종류의 손상은 뭔가를 하지 않으면 생기지 않거든요. 제조상의 결함이 아닙니다."
+          },
+          {
+            "speaker": "F",
+            "text": "솔직히 말씀드려서, 집에 와서 상자에서 꺼냈을 때 이미 손상된 상태였어요."
+          },
+          {
+            "speaker": "E",
+            "text": "영수증과 상자는 가지고 계신가요?"
+          },
+          {
+            "speaker": "F",
+            "text": "상자는 안 가져왔어요. 하지만 영수증은 있어요."
+          }
+        ]
+      },
+      {
+        "title": "1-4. 재고와 서비스",
+        "label": "대화 3: 서비스를 기다리며",
+        "script": [
+          {
+            "speaker": "G",
+            "text": "여기 누가 서비스하시는 분 있나요?"
+          },
+          {
+            "speaker": "H",
+            "text": "네, 그런데 여기서는 계산이 안 될 거예요."
+          },
+          {
+            "speaker": "G",
+            "text": "괜찮아요. 그냥 물건이 재고로 있는지 알고 싶었을 뿐이라서요."
+          },
+          {
+            "speaker": "H",
+            "text": "저기요, 여기 직원이 있었는데 '금방 돌아오겠다'고 하고는 벌써 10분이나 지났어요."
+          },
+          {
+            "speaker": "G",
+            "text": "아, 그렇군요."
+          },
+          {
+            "speaker": "H",
+            "text": "여긴 항상 그래! 서비스가 항상 끔찍해."
+          },
+          {
+            "speaker": "G",
+            "text": "흠."
+          },
+          {
+            "speaker": "H",
+            "text": "Hatton's가 훨씬 낫지. 거기는 서비스가 훨씬 신뢰할 만하고, 물건도 전반적으로 품질이 더 좋아."
+          },
+          {
+            "speaker": "G",
+            "text": "정말? 그럼 왜 거기 안 갔어?"
+          },
+          {
+            "speaker": "H",
+            "text": "음, 평소에는 그런데, 여기 창문에 세일한다고 써 있어서 들어왔어."
+          },
+          {
+            "speaker": "G",
+            "text": "아!"
+          },
+          {
+            "speaker": "H",
+            "text": "저기 온다! 이제야 오네!"
+          },
+          {
+            "speaker": "I",
+            "text": "죄송합니다."
+          },
+          {
+            "speaker": "H",
+            "text": "괜찮아요."
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "The Best Shopping Street in the World",
+    "ja": "世界で最高のショッピングストリート",
+    "fr": "La Meilleure Rue Commerçante du Monde",
+    "ko": "세계 최고의 쇼핑 거리"
+  },
+  "extra_reading_html": {
+    "en": "<p>A recent survey has shown that the busiest shopping street in the world is not in London, New York, or Paris, but in Warsaw. It's called <strong>Nowy Świat</strong> (pronounced /nɔvɨ ɕvjat/), which means <em>New World</em>. An incredible 14,000 Poles walk down this main street every hour.</p><p>It is a lovely place to shop. The pavements are very wide. There are statues, palaces, attractive town houses, exclusive cafes, and high-class restaurants. The buildings aren't too tall. They look old, but in fact the whole city was rebuilt after World War II. There aren't any billboards or neon lights. There isn't any loud music, and there aren't many tourists. People think that Polish shops have nothing to sell, so nobody comes shopping here. The world doesn't know about this paradise for shoppers — yet.</p><p>It is now possible to buy almost everything in Warsaw. There are a lot of shops from the West, but the interesting thing is that Polish manufacturers are now producing high quality goods. They are good because they are not mass produced for world consumption.</p><p>Nowy Świat has a lot of small shops, specialist shops, and chic shops. It hasn't got the huge department stores that sell the same things everywhere. If you want an <strong>exquisite handmade suit</strong>, Nowy Świat is the place to go. It isn't cheap. You will pay up to £1,000.</p><p>For beautiful French baby clothes, go to <strong>Petit Bateau</strong>. You will pay £50 for a pair of blue jeans for a baby. A dress for a baby girl is about £90. At <strong>Desa</strong>, a famous antique shop, a desk costs £5,000, and a 19th century Russian icon is £200.</p><p>Not everything is expensive. At the shop <strong>Pantera</strong> you can buy leather goods — handbags, purses, coats, and belts. <strong>Cepelia</strong> specializes in folk art. There are also book shops and record shops. And there are a lot of small boutiques that sell men's and women's clothes that aren't too expensive.</p><p>If you're tired, stop at <strong>Cafe Blikle</strong>. This is a fashionable place to meet. You'll find a lively atmosphere, and a lot of well-known Poles. The frozen yoghurt and ice-creams are excellent, and its famous doughnuts are delicious.</p><p>It is possible to travel the world and find the same things for sale in every country. But Warsaw is different because its shops are unique — and they're in Nowy Świat.</p>",
+    "ja": "<p>最近の調査によると、世界で最も賑わうショッピングストリートはロンドン、ニューヨーク、パリではなく、ワルシャワにあることが示されています。それは<strong>ノヴィ・フィアット</strong>（/nɔvɨ ɕvjat/と発音）と呼ばれ、<em>新世界</em>を意味します。毎時14,000人ものポーランド人がこのメインストリートを歩きます。</p><p>買い物をするのに素敵な場所です。歩道はとても広いです。像、宮殿、魅力的な町家、高級カフェ、高級レストランがあります。建物はあまり高くありません。古く見えますが、実際には都市全体が第二次世界大戦後に再建されました。看板やネオンサインはありません。大音量の音楽もなく、観光客も多くありません。人々はポーランドの店には売るものがないと思っているので、誰もここに買い物に来ません。世界はこの買い物客のための楽園をまだ知りません。</p><p>現在、ワルシャワではほとんどすべてのものを買うことが可能です。西洋からの店もたくさんありますが、興味深いのはポーランドの製造業者が今や高品質の商品を生産していることです。それらは世界消費のために大量生産されていないため、良いのです。</p><p>ノヴィ・フィアットには多くの小さな店、専門店、そしてシックな店があります。どこでも同じものを売っている巨大なデパートはありません。<strong>精巧な手作りのスーツ</strong>が必要なら、ノヴィ・フィアットが行くべき場所です。安くはありません。最大1,000ポンド支払うことになります。</p><p>美しいフランスのベビー服をお探しなら、<strong>プチ・バトー</strong>へ。赤ちゃん用のブルージーンズに50ポンド支払います。女の子の赤ちゃん用のドレスは約90ポンドです。有名なアンティークショップ<strong>デサ</strong>では、デスクが5,000ポンド、19世紀のロシアのイコンが200ポンドです。</p><p>すべてが高価というわけではありません。<strong>パンテラ</strong>では、革製品—ハンドバッグ、財布、コート、ベルト—を購入できます。<strong>ツェペリア</strong>は民芸品を専門に扱っています。本屋やレコード店もあります。そして、あまり高くない男性用・女性用の服を販売している小さなブティックもたくさんあります。</p><p>疲れたら、<strong>カフェ・ブリクレ</strong>に立ち寄ってください。ここは人気のある待ち合わせ場所です。活気ある雰囲気と多くの有名なポーランド人が見つかります。フローズンヨーグルトとアイスクリームは絶品で、有名なドーナツは美味しいです。</p><p>世界中を旅して、どの国でも同じものを見つけることは可能です。しかしワルシャワは違います。なぜならその店はユニークであり、そしてそれらはノヴィ・フィアットにあるからです。</p>",
+    "fr": "<p>Une enquête récente a montré que la rue commerçante la plus fréquentée au monde ne se trouve ni à Londres, ni à New York, ni à Paris, mais à Varsovie. Elle s'appelle <strong>Nowy Świat</strong> (prononcé /nɔvɨ ɕvjat/), ce qui signifie <em>Nouveau Monde</em>. 14 000 Polonais incroyables marchent sur cette rue principale chaque heure.</p><p>C'est un endroit charmant pour faire du shopping. Les trottoirs sont très larges. Il y a des statues, des palais, des maisons de ville attrayantes, des cafés exclusifs et des restaurants haut de gamme. Les bâtiments ne sont pas trop hauts. Ils semblent anciens, mais en fait toute la ville a été reconstruite après la Seconde Guerre mondiale. Il n'y a pas de panneaux publicitaires ni d'enseignes au néon. Il n'y a pas de musique forte et il n'y a pas beaucoup de touristes. Les gens pensent que les magasins polonais n'ont rien à vendre, alors personne ne vient faire du shopping ici. Le monde ne connaît pas encore ce paradis pour les acheteurs.</p><p>Il est désormais possible d'acheter presque tout à Varsovie. Il y a beaucoup de magasins occidentaux, mais ce qui est intéressant, c'est que les fabricants polonais produisent désormais des produits de haute qualité. Ils sont bons car ils ne sont pas produits en masse pour la consommation mondiale.</p><p>Nowy Świat compte de nombreux petits magasins, magasins spécialisés et magasins chics. Il n'a pas les grands magasins qui vendent les mêmes choses partout. Si vous voulez un <strong>costume fait main exquis</strong>, Nowy Świat est l'endroit où aller. Ce n'est pas bon marché. Vous paierez jusqu'à 1 000 £.</p><p>Pour de beaux vêtements français pour bébé, allez chez <strong>Petit Bateau</strong>. Vous paierez 50 £ pour un jean bleu pour bébé. Une robe pour une petite fille coûte environ 90 £. Chez <strong>Desa</strong>, une célèbre boutique d'antiquités, un bureau coûte 5 000 £ et une icône russe du 19e siècle coûte 200 £.</p><p>N'est pas tout cher. À la boutique <strong>Pantera</strong>, vous pouvez acheter des articles en cuir — sacs à main, portefeuilles, manteaux et ceintures. <strong>Cepelia</strong> est spécialisée dans l'art populaire. Il y a aussi des librairies et des disquaires. Et il y a beaucoup de petites boutiques qui vendent des vêtements pour hommes et femmes qui ne sont pas trop chers.</p><p>Si vous êtes fatigué, arrêtez-vous au <strong>Cafe Blikle</strong>. C'est un endroit à la mode pour se rencontrer. Vous y trouverez une atmosphère animée et beaucoup de Polonais célèbres. Les yaourts glacés et les glaces sont excellents, et ses célèbres beignets sont délicieux.</p><p>Il est possible de voyager dans le monde et de trouver les mêmes choses à vendre dans tous les pays. Mais Varsovie est différente parce que ses boutiques sont uniques — et elles sont à Nowy Świat.</p>",
+    "ko": "<p>최근 조사에 따르면 세계에서 가장 붐비는 쇼핑 거리는 런던, 뉴욕, 파리가 아니라 바르샤바에 있습니다. 그 거리는 <strong>노비 피아트</strong>(/nɔvɨ ɕvjat/로 발음)라고 불리며, <em>신세계</em>를 의미합니다. 놀랍게도 매시간 14,000명의 폴란드인들이 이 주요 거리를 걸어 다닙니다.</p><p>쇼핑하기에 아름다운 곳입니다. 보도는 매우 넓습니다. 동상, 궁전, 매력적인 타운하우스, 고급 카페, 고급 레스토랑이 있습니다. 건물들은 너무 높지 않습니다. 오래 보이지만, 사실 도시 전체가 2차 세계대전 이후 재건되었습니다. 광고판이나 네온사인은 없습니다. 시끄러운 음악도 없고, 관광객도 많지 않습니다. 사람들은 폴란드 상점에는 팔 물건이 없다고 생각하기 때문에 아무도 여기서 쇼핑하지 않습니다. 세계는 아직 이 쇼핑객들의 낙원을 모릅니다.</p><p>이제 바르샤바에서는 거의 모든 것을 살 수 있습니다. 서양에서 온 상점들이 많이 있지만, 흥미로운 점은 폴란드 제조업체들이 이제 고품질 상품을 생산하고 있다는 것입니다. 그들은 세계 소비를 위해 대량 생산되지 않았기 때문에 좋습니다.</p><p>노비 피아트에는 많은 작은 상점, 전문 상점, 세련된 상점들이 있습니다. 어디서나 같은 물건을 파는 거대한 백화점은 없습니다. <strong>정교한 핸드메이드 수트</strong>를 원한다면 노비 피아트가 가야 할 곳입니다. 싸지 않습니다. 최대 1,000파운드를 지불해야 합니다.</p><p>아름다운 프랑스 유아복을 찾으신다면, <strong>쁘띠 바토</strong>에 가보세요. 아기용 블루진 한 쌍에 50파운드를 지불합니다. 여자 아기용 드레스는 약 90파운드입니다. 유명한 골동품 가게인 <strong>데사</strong>에서는 책상이 5,000파운드, 19세기 러시아 성화상이 200파운드입니다.</p><p>모든 것이 비싼 것은 아닙니다. <strong>판테라</strong>에서는 핸드백, 지갑, 코트, 벨트 같은 가죽 제품을 살 수 있습니다. <strong>체펠리아</strong>는 민속 예술을 전문으로 합니다. 서점과 음반 가게도 있습니다. 그리고 너무 비싸지 않은 남성용 및 여성용 옷을 파는 많은 작은 부티크들이 있습니다.</p><p>피곤하면 <strong>카페 블리클레</strong>에 들러보세요. 이곳은 만남의 장소로 유명합니다. 활기찬 분위기와 많은 유명한 폴란드인들을 만날 수 있습니다. 프로즌 요구르트와 아이스크림이 훌륭하고, 유명한 도넛이 맛있습니다.</p><p>세계를 여행하며 모든 나라에서 똑같은 물건들을 판매하는 것을 찾을 수 있습니다. 그러나 바르샤바는 다릅니다. 그 상점들은 독특하고, 그것들이 노비 피아트에 있기 때문입니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Nowy Świat is the busiest shopping street in London.",
+        "correct": "F",
+        "explanation": "False (It's in Warsaw, Poland.)"
+      },
+      {
+        "question": "Most of the buildings on the street are actually new.",
+        "correct": "T",
+        "explanation": "True (The whole city was rebuilt after WWII.)"
+      },
+      {
+        "question": "You can find many exclusive and exquisite items at Cepelia.",
+        "correct": "T",
+        "explanation": "True (Cepelia specializes in unique folk art and exclusive jewelry.)"
+      },
+      {
+        "question": "You can find some clothes that are not very expensive.",
+        "correct": "T",
+        "explanation": "True (Small boutiques have cheaper options.)"
+      },
+      {
+        "question": "Polish manufacturers produce goods that are mass-produced for world consumption.",
+        "correct": "F",
+        "explanation": "False (They are NOT mass-produced for world consumption. The text says they are good because they are not mass produced.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "ノヴィ・フィアットはロンドンで最も賑わうショッピングストリートです。",
+        "correct": "F",
+        "explanation": "偽 (ポーランドのワルシャワにあります。)"
+      },
+      {
+        "question": "通りの建物のほとんどは実際には新しいものです。",
+        "correct": "T",
+        "explanation": "真 (都市全体が第二次世界大戦後に再建されました。)"
+      },
+      {
+        "question": "ツェペリアでは多くの高級で精巧なアイテムを見つけることができます。",
+        "correct": "T",
+        "explanation": "真 (ツェペリアはユニークな民芸品や高級宝飾品を専門としています。)"
+      },
+      {
+        "question": "それほど高くない服を見つけることができます。",
+        "correct": "T",
+        "explanation": "真 (小さなブティックにはより安い選択肢があります。)"
+      },
+      {
+        "question": "ポーランドの製造業者は、世界消費のために大量生産された商品を生産している。",
+        "correct": "F",
+        "explanation": "偽 (大量生産されていない。本文では「大量生産されていないから良い」と述べられている。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Nowy Świat est la rue commerçante la plus fréquentée de Londres.",
+        "correct": "F",
+        "explanation": "Faux (C'est à Varsovie, en Pologne.)"
+      },
+      {
+        "question": "La plupart des bâtiments de la rue sont en fait nouveaux.",
+        "correct": "T",
+        "explanation": "Vrai (La ville entière a été reconstruite après la Seconde Guerre mondiale.)"
+      },
+      {
+        "question": "Vous pouvez trouver de nombreux articles exclusifs et exquis chez Cepelia.",
+        "correct": "T",
+        "explanation": "Vrai (Cepelia est spécialisée dans l'art populaire unique et les bijoux exclusifs.)"
+      },
+      {
+        "question": "Vous pouvez trouver des vêtements qui ne sont pas très chers.",
+        "correct": "T",
+        "explanation": "Vrai (Les petites boutiques ont des options moins chères.)"
+      },
+      {
+        "question": "Les fabricants polonais produisent des biens fabriqués en série pour la consommation mondiale.",
+        "correct": "F",
+        "explanation": "Faux (Ils ne sont pas produits en série. Le texte dit qu'ils sont bons car ils ne sont pas produits en masse.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "노비 피아트는 런던에서 가장 붐비는 쇼핑 거리이다.",
+        "correct": "F",
+        "explanation": "거짓 (폴란드 바르샤바에 있습니다.)"
+      },
+      {
+        "question": "거리의 건물들 대부분은 실제로 새것이다.",
+        "correct": "T",
+        "explanation": "참 (도시 전체가 2차 세계대전 이후 재건되었습니다.)"
+      },
+      {
+        "question": "체펠리아에서 많은 고급스럽고 정교한 아이템을 찾을 수 있다.",
+        "correct": "T",
+        "explanation": "참 (체펠리아는 독특한 민속 예술과 고급 보석을 전문으로 합니다.)"
+      },
+      {
+        "question": "별로 비싸지 않은 옷들을 찾을 수 있다.",
+        "correct": "T",
+        "explanation": "참 (작은 부티크에는 더 저렴한 옵션이 있습니다.)"
+      },
+      {
+        "question": "폴란드 제조업체들은 세계 소비를 위해 대량 생산된 상품을 생산한다.",
+        "correct": "F",
+        "explanation": "거짓 (대량 생산되지 않는다. 본문에서는 대량 생산되지 않아서 좋다고 말한다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "the busiest shopping street",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "rebuilt after World War II",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Nowy Świat is the busiest shopping street in the world and was rebuilt after World War II.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "paradise for shoppers",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "nothing to sell",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "People think Polish shops have nothing to sell, but this street is a paradise for shoppers.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nowy Świat is the busiest shopping street, rebuilt after WWII. It's a paradise for shoppers, not a place with nothing to sell.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "high quality goods",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "not mass produced",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Polish manufacturers are producing high quality goods that are not mass produced for world consumption.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "exquisite handmade suit",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "fashionable place to meet",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "You can buy an exquisite handmade suit or visit a fashionable place to meet like Cafe Blikle.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Local shops offer high quality goods that are not mass produced. Whether you want an exquisite handmade suit or a fashionable place to meet, this street offers a unique experience.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nowy Świat is the busiest shopping street, rebuilt after World War II. It is a paradise for shoppers looking for high quality goods that are not mass produced. From an exquisite handmade suit to a fashionable place to meet, it proves that Warsaw has more than just nothing to sell.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "世界で最も賑わうショッピングストリート",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "第二次世界大戦後に再建された",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Nowy Światは世界で最も賑わうショッピングストリートであり、第二次世界大戦後に再建されました。",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "買い物客の楽園",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "売るものがない",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "ポーランドの店には売るものがないと思われているが、この通りは買い物客の楽園である。",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nowy Światは世界で最も賑わうショッピングストリートであり、第二次世界大戦後に再建された。そこは売るものがない場所ではなく、買い物客の楽園である。",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "高品質な商品",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "大量生産されていない",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "ポーランドのメーカーは、世界消費のために大量生産されていない高品質な商品を生産している。",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "精巧なオーダースーツ",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "おしゃれな待ち合わせスポット",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "精巧なオーダースーツを買ったり、Cafe Blikleのようなおしゃれな待ち合わせスポットを訪れたりすることができる。",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "地元の店では、大量生産されていない高品質な商品を提供している。精巧なオーダースーツを求めても、おしゃれな待ち合わせスポットを訪れても、この通りはユニークな体験を提供してくれる。",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nowy Światは世界で最も賑わうショッピングストリートであり、第二次世界大戦後に再建された。大量生産されていない高品質な商品を求める買い物客の楽園である。精巧なオーダースーツからおしゃれな待ち合わせスポットまで、ワルシャワには「売るものがない」以上のものがあることを証明している。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "la rue commerçante la plus animée",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "reconstruite après la Seconde Guerre mondiale",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Nowy Świat est la rue commerçante la plus animée du monde et a été reconstruite après la Seconde Guerre mondiale.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "paradis des acheteurs",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "rien à vendre",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Les gens pensent que les magasins polonais n'ont rien à vendre, mais cette rue est un paradis pour les acheteurs.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nowy Świat est la rue commerçante la plus animée, reconstruite après la Seconde Guerre mondiale. C'est un paradis pour les acheteurs, pas un endroit où il n'y a rien à vendre.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "produits de haute qualité",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "non produit en masse",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Les fabricants polonais produisent des produits de haute qualité qui ne sont pas fabriqués en masse pour la consommation mondiale.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "costume sur mesure exquis",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "lieu de rencontre branché",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Vous pouvez acheter un costume sur mesure exquis ou visiter un lieu de rencontre branché comme le Cafe Blikle.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les magasins locaux proposent des produits de haute qualité qui ne sont pas produits en masse. Que vous souhaitiez un costume sur mesure exquis ou un lieu de rencontre branché, cette rue offre une expérience unique.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nowy Świat est la rue commerçante la plus animée, reconstruite après la Seconde Guerre mondiale. C'est un paradis pour les acheteurs à la recherche de produits de haute qualité qui ne sont pas produits en masse. D'un costume sur mesure exquis à un lieu de rencontre branché, elle prouve que Varsovie a plus à offrir que « rien à vendre ».",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "세계에서 가장 붐비는 쇼핑 거리",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "제2차 세계대전 이후 재건된",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Nowy Świat는 세계에서 가장 붐비는 쇼핑 거리이며 제2차 세계대전 이후 재건되었습니다.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "쇼핑객의 낙원",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "팔 물건이 없다",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "사람들은 폴란드 상점에 팔 물건이 없다고 생각하지만, 이 거리는 쇼핑객의 낙원입니다.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nowy Świat는 세계에서 가장 붐비는 쇼핑 거리로, 제2차 세계대전 이후 재건되었습니다. 팔 물건이 없는 곳이 아니라 쇼핑객의 낙원입니다.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "고품질 상품",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "대량 생산되지 않은",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "폴란드 제조업체들은 세계 소비를 위해 대량 생산되지 않은 고품질 상품을 생산하고 있습니다.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "정교한 맞춤 정장",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "패셔너블한 만남의 장소",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "정교한 맞춤 정장을 사거나 Cafe Blikle와 같은 패셔너블한 만남의 장소를 방문할 수 있습니다.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "현지 상점들은 대량 생산되지 않은 고품질 상품을 제공합니다. 정교한 맞춤 정장을 원하든 패셔너블한 만남의 장소를 원하든, 이 거리는 독특한 경험을 선사합니다.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nowy Świat는 세계에서 가장 붐비는 쇼핑 거리로, 제2차 세계대전 이후 재건되었습니다. 대량 생산되지 않은 고품질 상품을 찾는 쇼핑객의 낙원입니다. 정교한 맞춤 정장부터 패셔너블한 만남의 장소까지, 이 거리는 바르샤바가 '팔 물건이 없다'는 말이 아니라는 것을 증명합니다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Form and Structure (Past Simple)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Affirmative</strong>: Subject + past form of verb (regular: add <strong>-ed</strong>; irregular: <strong>went, bought, saw</strong>).</p><p style='margin:5px 0;'><strong>• Negative</strong>: Subject + <strong>did not (didn't)</strong> + base form of verb.</p><p style='margin:5px 0;'><strong>• Question</strong>: <strong>Did</strong> + subject + base form of verb?</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> 'I <span style='color:#e67e22; font-weight:bold;'>bought</span> this the other day.'<br><i style='color:#7f8c8d;'>(Affirmative - irregular verb)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'She <span style='color:#16a085; font-weight:bold;'>didn't go</span> to the party.'<br><i style='color:#7f8c8d;'>(Negative form)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'Where <span style='color:#2980b9; font-weight:bold;'>did</span> you <span style='color:#2980b9; font-weight:bold;'>meet</span> him?'<br><i style='color:#7f8c8d;'>(Question form)</i></li></ul><h3>2. Using Comparatives to Describe Differences</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Short adjectives (1-2 syllables)</strong>: Add <strong>-er</strong> (e.g., <span style='font-weight:bold;'>small → smaller, big → bigger</span>).</p><p style='margin:5px 0;'><strong>• Long adjectives (2+ syllables)</strong>: Use <strong>more</strong> before the adjective (e.g., <span style='font-weight:bold;'>reliable → more reliable</span>).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'Do you have this in a <span style='color:#2980b9; font-weight:bold;'>smaller</span> size?'<br><i style='color:#7f8c8d;'>(Comparative with short adjective)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'This phone is <span style='color:#2980b9; font-weight:bold;'>more expensive</span> than that one.'<br><i style='color:#7f8c8d;'>(Comparative with long adjective)</i></li></ul><h3>3. Common Irregular Past Forms</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• go → went</strong> &nbsp;&nbsp; <strong>buy → bought</strong> &nbsp;&nbsp; <strong>see → saw</strong></p><p style='margin:5px 0;'><strong>• eat → ate</strong> &nbsp;&nbsp; <strong>meet → met</strong> &nbsp;&nbsp; <strong>have → had</strong></p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'I <span style='color:#d35400; font-weight:bold;'>saw</span> him yesterday.'<br><i style='color:#7f8c8d;'>(Past Simple of 'see')</i></li></ul>",
+    "ko": "<p><em>문법 노트는 현재 영어로만 제공됩니다. 한국어 버전은 추후 추가될 예정입니다.</em></p>",
+    "ja": "<p><em>文法ノートは現在英語のみ利用可能です。日本語版は後日追加されます。</em></p>",
+    "fr": "<p><em>Les notes de grammaire sont actuellement disponibles uniquement en anglais. La version française sera ajoutée ultérieurement.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Shopping Experience & Service</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: unique, selection, wrapped, understaffed, serving</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Is anyone <select class='vocab-select'><option value=''>── select ──</option><option value='unique'>unique</option><option value='selection'>selection</option><option value='wrapped'>wrapped</option><option value='understaffed'>understaffed</option><option value='serving'>serving</option></select> customers in this department?<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='serving' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Small boutiques offer <select class='vocab-select'><option value=''>── select ──</option><option value='unique'>unique</option><option value='selection'>selection</option><option value='wrapped'>wrapped</option><option value='understaffed'>understaffed</option><option value='serving'>serving</option></select> items that are not mass-produced for world consumption.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='unique' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. We feel frustrated when a shop is <select class='vocab-select'><option value=''>── select ──</option><option value='unique'>unique</option><option value='selection'>selection</option><option value='wrapped'>wrapped</option><option value='understaffed'>understaffed</option><option value='serving'>serving</option></select> and no one is available to help.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='understaffed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Large department stores offer a massive <select class='vocab-select'><option value=''>── select ──</option><option value='unique'>unique</option><option value='selection'>selection</option><option value='wrapped'>wrapped</option><option value='understaffed'>understaffed</option><option value='serving'>serving</option></select> of products under one roof.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='selection' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. The shop assistant asked, \"Would you like it <select class='vocab-select'><option value=''>── select ──</option><option value='unique'>unique</option><option value='selection'>selection</option><option value='wrapped'>wrapped</option><option value='understaffed'>understaffed</option><option value='serving'>serving</option></select>?\" to add a personal touch.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='wrapped' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Product Problems & Returns</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: out of stock, damaged, manufacturing fault, receipt, refund</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Without the <select class='vocab-select'><option value=''>── select ──</option><option value='out of stock'>out of stock</option><option value='damaged'>damaged</option><option value='manufacturing fault'>manufacturing fault</option><option value='receipt'>receipt</option><option value='refund'>refund</option></select>, you cannot get your money back or exchange the item.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='receipt' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. The item I wanted was <select class='vocab-select'><option value=''>── select ──</option><option value='out of stock'>out of stock</option><option value='damaged'>damaged</option><option value='manufacturing fault'>manufacturing fault</option><option value='receipt'>receipt</option><option value='refund'>refund</option></select>, so I couldn't buy it at all.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='out of stock' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. The store gave me a full <select class='vocab-select'><option value=''>── select ──</option><option value='out of stock'>out of stock</option><option value='damaged'>damaged</option><option value='manufacturing fault'>manufacturing fault</option><option value='receipt'>receipt</option><option value='refund'>refund</option></select> when I returned the faulty product.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='refund' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. I opened the box at home only to find the product was already <select class='vocab-select'><option value=''>── select ──</option><option value='out of stock'>out of stock</option><option value='damaged'>damaged</option><option value='manufacturing fault'>manufacturing fault</option><option value='receipt'>receipt</option><option value='refund'>refund</option></select> with a loose button.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='damaged' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. The broken part was not my fault — it was a real <select class='vocab-select'><option value=''>── select ──</option><option value='out of stock'>out of stock</option><option value='damaged'>damaged</option><option value='manufacturing fault'>manufacturing fault</option><option value='receipt'>receipt</option><option value='refund'>refund</option></select> from the factory.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='manufacturing fault' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Quality & Exclusivity</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: exchange, reliable, exclusive, exquisite, mass-produced</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Polish manufacturers produce goods that are not <select class='vocab-select'><option value=''>── select ──</option><option value='exchange'>exchange</option><option value='reliable'>reliable</option><option value='exclusive'>exclusive</option><option value='exquisite'>exquisite</option><option value='mass-produced'>mass-produced</option></select> for world consumption.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='mass-produced' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. The shirt didn't fit, so I asked for an <select class='vocab-select'><option value=''>── select ──</option><option value='exchange'>exchange</option><option value='reliable'>reliable</option><option value='exclusive'>exclusive</option><option value='exquisite'>exquisite</option><option value='mass-produced'>mass-produced</option></select> in a different size.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='exchange' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. You can buy an <select class='vocab-select'><option value=''>── select ──</option><option value='exchange'>exchange</option><option value='reliable'>reliable</option><option value='exclusive'>exclusive</option><option value='exquisite'>exquisite</option><option value='mass-produced'>mass-produced</option></select> handmade suit for £1,000 at a specialist shop.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='exquisite' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. A <select class='vocab-select'><option value=''>── select ──</option><option value='exchange'>exchange</option><option value='reliable'>reliable</option><option value='exclusive'>exclusive</option><option value='exquisite'>exquisite</option><option value='mass-produced'>mass-produced</option></select> shop with good customer service will solve your problems quickly and professionally.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='reliable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. Nowy Świat has a mix of <select class='vocab-select'><option value=''>── select ──</option><option value='exchange'>exchange</option><option value='reliable'>reliable</option><option value='exclusive'>exclusive</option><option value='exquisite'>exquisite</option><option value='mass-produced'>mass-produced</option></select> cafes and high-quality boutiques for wealthy customers.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='exclusive' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Atmosphere & Local Shopping</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: lively, boutique, customer service, atmosphere, second-hand</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. A shop with good <select class='vocab-select'><option value=''>── select ──</option><option value='lively'>lively</option><option value='boutique'>boutique</option><option value='customer service'>customer service</option><option value='atmosphere'>atmosphere</option><option value='second-hand'>second-hand</option></select> will handle returns quickly and professionally.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='customer service' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Cafe Blikle is a <select class='vocab-select'><option value=''>── select ──</option><option value='lively'>lively</option><option value='boutique'>boutique</option><option value='customer service'>customer service</option><option value='atmosphere'>atmosphere</option><option value='second-hand'>second-hand</option></select> place full of energy, famous for its delicious doughnuts.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='lively' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. I found these beautiful earrings at a <select class='vocab-select'><option value=''>── select ──</option><option value='lively'>lively</option><option value='boutique'>boutique</option><option value='customer service'>customer service</option><option value='atmosphere'>atmosphere</option><option value='second-hand'>second-hand</option></select> shop near the park.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='second-hand' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. The lively <select class='vocab-select'><option value=''>── select ──</option><option value='lively'>lively</option><option value='boutique'>boutique</option><option value='customer service'>customer service</option><option value='atmosphere'>atmosphere</option><option value='second-hand'>second-hand</option></select> of Nowy Świat makes shopping there a real pleasure.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='atmosphere' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. A small <select class='vocab-select'><option value=''>── select ──</option><option value='lively'>lively</option><option value='boutique'>boutique</option><option value='customer service'>customer service</option><option value='atmosphere'>atmosphere</option><option value='second-hand'>second-hand</option></select> near my house sells affordable and unique clothes.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='boutique' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ1：ショッピング体験とサービス</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク：ユニークな、品揃え、包装された、人手不足の、対応している</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. この売り場でお客様に対応している人はいますか？ <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='unique'>ユニークな</option><option value='selection'>品揃え</option><option value='wrapped'>包装された</option><option value='understaffed'>人手不足の</option><option value='serving'>対応している</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='serving' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 小さなブティックでは、世界向けに大量生産されていないユニークな商品を提供しています。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='unique'>ユニークな</option><option value='selection'>品揃え</option><option value='wrapped'>包装された</option><option value='understaffed'>人手不足の</option><option value='serving'>対応している</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='unique' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 店員不足で誰も手伝ってくれない店だと、私たちは不満を感じます。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='unique'>ユニークな</option><option value='selection'>品揃え</option><option value='wrapped'>包装された</option><option value='understaffed'>人手不足の</option><option value='serving'>対応している</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='understaffed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 大型デパートでは、一つの場所で豊富な商品を取り揃えています。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='unique'>ユニークな</option><option value='selection'>品揃え</option><option value='wrapped'>包装された</option><option value='understaffed'>人手不足の</option><option value='serving'>対応している</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='selection' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. 店員は『包装いたしましょうか？』と尋ね、特別な心遣いを加えました。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='unique'>ユニークな</option><option value='selection'>品揃え</option><option value='wrapped'>包装された</option><option value='understaffed'>人手不足の</option><option value='serving'>対応している</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='wrapped' style='display:none;'></span></div></div> <div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ2：商品の問題と返品</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク：在庫切れ、破損した、製造上の欠陥、レシート、返金</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. レシートがなければ、返金や商品の交換を受けることはできません。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='out of stock'>在庫切れ</option><option value='damaged'>破損した</option><option value='manufacturing fault'>製造上の欠陥</option><option value='receipt'>レシート</option><option value='refund'>返金</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='receipt' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 欲しかった商品は在庫切れだったので、まったく購入できませんでした。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='out of stock'>在庫切れ</option><option value='damaged'>破損した</option><option value='manufacturing fault'>製造上の欠陥</option><option value='receipt'>レシート</option><option value='refund'>返金</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='out of stock' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 不良品を返品したところ、店は全額返金してくれました。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='out of stock'>在庫切れ</option><option value='damaged'>破損した</option><option value='manufacturing fault'>製造上の欠陥</option><option value='receipt'>レシート</option><option value='refund'>返金</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='refund' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 家で箱を開けてみると、商品はすでにボタンが取れかかっていて破損していました。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='out of stock'>在庫切れ</option><option value='damaged'>破損した</option><option value='manufacturing fault'>製造上の欠陥</option><option value='receipt'>レシート</option><option value='refund'>返金</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='damaged' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 壊れた部分は私のせいではなく、工場で発生した本当の製造上の欠陥でした。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='out of stock'>在庫切れ</option><option value='damaged'>破損した</option><option value='manufacturing fault'>製造上の欠陥</option><option value='receipt'>レシート</option><option value='refund'>返金</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='manufacturing fault' style='display:none;'></span></div></div> <div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ3：品質と独自性</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク：交換、信頼できる、高級な、精巧な、大量生産された</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. ポーランドのメーカーは、世界向けに大量生産された商品ではない製品を作っています。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='exchange'>交換</option><option value='reliable'>信頼できる</option><option value='exclusive'>高級な</option><option value='exquisite'>精巧な</option><option value='mass-produced'>大量生産された</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='mass-produced' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. そのシャツはサイズが合わなかったので、別のサイズへの交換をお願いしました。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='exchange'>交換</option><option value='reliable'>信頼できる</option><option value='exclusive'>高級な</option><option value='exquisite'>精巧な</option><option value='mass-produced'>大量生産された</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='exchange' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 専門店では、1,000ポンドで精巧な手作りスーツを購入することができます。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='exchange'>交換</option><option value='reliable'>信頼できる</option><option value='exclusive'>高級な</option><option value='exquisite'>精巧な</option><option value='mass-produced'>大量生産された</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='exquisite' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 優れた顧客対応を行う信頼できる店は、問題を迅速かつ丁寧に解決してくれます。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='exchange'>交換</option><option value='reliable'>信頼できる</option><option value='exclusive'>高級な</option><option value='exquisite'>精巧な</option><option value='mass-produced'>大量生産された</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='reliable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. ノヴィ・シュフィアト通りには、裕福な顧客向けの高級カフェや高品質なブティックが立ち並んでいます。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='exchange'>交換</option><option value='reliable'>信頼できる</option><option value='exclusive'>高級な</option><option value='exquisite'>精巧な</option><option value='mass-produced'>大量生産された</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='exclusive' style='display:none;'></span></div></div> <div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ4：雰囲気と地域での買い物</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク：活気のある、ブティック、顧客サービス、雰囲気、中古の</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 優れた顧客サービスを提供する店は、返品対応を迅速かつ丁寧に行います。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='lively'>活気のある</option><option value='boutique'>ブティック</option><option value='customer service'>顧客サービス</option><option value='atmosphere'>雰囲気</option><option value='second-hand'>中古の</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='customer service' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. カフェ・ブリクレは、おいしいドーナツで有名な活気あふれる場所です。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='lively'>活気のある</option><option value='boutique'>ブティック</option><option value='customer service'>顧客サービス</option><option value='atmosphere'>雰囲気</option><option value='second-hand'>中古の</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='lively' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 公園の近くにある中古店で、この美しいイヤリングを見つけました。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='lively'>活気のある</option><option value='boutique'>ブティック</option><option value='customer service'>顧客サービス</option><option value='atmosphere'>雰囲気</option><option value='second-hand'>中古の</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='second-hand' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. ノヴィ・シュフィアト通りの活気ある雰囲気は、そこでの買い物を本当に楽しいものにしています。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='lively'>活気のある</option><option value='boutique'>ブティック</option><option value='customer service'>顧客サービス</option><option value='atmosphere'>雰囲気</option><option value='second-hand'>中古の</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='atmosphere' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 私の家の近くにある小さなブティックでは、手頃な価格で個性的な服を販売しています。 <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='lively'>活気のある</option><option value='boutique'>ブティック</option><option value='customer service'>顧客サービス</option><option value='atmosphere'>雰囲気</option><option value='second-hand'>中古の</option></select><button onclick='checkVocab(this)'>答え合わせ</button><span class='vocab-answer' data-correct='boutique' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1 : Expérience d'achat et service</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots : unique, sélection, emballé, en sous-effectif, au service de</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Y a-t-il quelqu'un qui est au service des clients dans ce rayon ? <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='unique'>unique</option><option value='selection'>sélection</option><option value='wrapped'>emballé</option><option value='understaffed'>en sous-effectif</option><option value='serving'>au service de</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='serving' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Les petites boutiques proposent des articles uniques qui ne sont pas fabriqués en série pour le marché mondial. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='unique'>unique</option><option value='selection'>sélection</option><option value='wrapped'>emballé</option><option value='understaffed'>en sous-effectif</option><option value='serving'>au service de</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='unique' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Nous nous sentons frustrés lorsqu'un magasin est en sous-effectif et que personne n'est disponible pour aider. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='unique'>unique</option><option value='selection'>sélection</option><option value='wrapped'>emballé</option><option value='understaffed'>en sous-effectif</option><option value='serving'>au service de</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='understaffed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Les grands magasins offrent une vaste sélection de produits sous un même toit. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='unique'>unique</option><option value='selection'>sélection</option><option value='wrapped'>emballé</option><option value='understaffed'>en sous-effectif</option><option value='serving'>au service de</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='selection' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. Le vendeur a demandé : « Souhaitez-vous qu'il soit emballé ? » afin d'ajouter une touche personnelle. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='unique'>unique</option><option value='selection'>sélection</option><option value='wrapped'>emballé</option><option value='understaffed'>en sous-effectif</option><option value='serving'>au service de</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='wrapped' style='display:none;'></span></div></div> <div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2 : Problèmes de produits et retours</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots : en rupture de stock, endommagé, défaut de fabrication, reçu, remboursement</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Sans le reçu, vous ne pouvez pas obtenir de remboursement ni échanger l'article. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='out of stock'>en rupture de stock</option><option value='damaged'>endommagé</option><option value='manufacturing fault'>défaut de fabrication</option><option value='receipt'>reçu</option><option value='refund'>remboursement</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='receipt' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. L'article que je voulais était en rupture de stock, je n'ai donc pas pu l'acheter du tout. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='out of stock'>en rupture de stock</option><option value='damaged'>endommagé</option><option value='manufacturing fault'>défaut de fabrication</option><option value='receipt'>reçu</option><option value='refund'>remboursement</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='out of stock' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Le magasin m'a accordé un remboursement complet lorsque j'ai retourné le produit défectueux. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='out of stock'>en rupture de stock</option><option value='damaged'>endommagé</option><option value='manufacturing fault'>défaut de fabrication</option><option value='receipt'>reçu</option><option value='refund'>remboursement</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='refund' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. J'ai ouvert la boîte chez moi pour découvrir que le produit était déjà endommagé avec un bouton desserré. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='out of stock'>en rupture de stock</option><option value='damaged'>endommagé</option><option value='manufacturing fault'>défaut de fabrication</option><option value='receipt'>reçu</option><option value='refund'>remboursement</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='damaged' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. La pièce cassée n'était pas de ma faute — c'était un véritable défaut de fabrication provenant de l'usine. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='out of stock'>en rupture de stock</option><option value='damaged'>endommagé</option><option value='manufacturing fault'>défaut de fabrication</option><option value='receipt'>reçu</option><option value='refund'>remboursement</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='manufacturing fault' style='display:none;'></span></div></div> <div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3 : Qualité et exclusivité</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots : échange, fiable, exclusif, exquis, produit en série</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Les fabricants polonais produisent des biens qui ne sont pas fabriqués en série pour la consommation mondiale. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='exchange'>échange</option><option value='reliable'>fiable</option><option value='exclusive'>exclusif</option><option value='exquisite'>exquis</option><option value='mass-produced'>produit en série</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='mass-produced' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. La chemise ne m'allait pas, j'ai donc demandé un échange dans une autre taille. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='exchange'>échange</option><option value='reliable'>fiable</option><option value='exclusive'>exclusif</option><option value='exquisite'>exquis</option><option value='mass-produced'>produit en série</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='exchange' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Vous pouvez acheter un costume artisanal exquis pour 1 000 £ dans un magasin spécialisé. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='exchange'>échange</option><option value='reliable'>fiable</option><option value='exclusive'>exclusif</option><option value='exquisite'>exquis</option><option value='mass-produced'>produit en série</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='exquisite' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Un magasin fiable offrant un bon service client résoudra vos problèmes rapidement et de manière professionnelle. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='exchange'>échange</option><option value='reliable'>fiable</option><option value='exclusive'>exclusif</option><option value='exquisite'>exquis</option><option value='mass-produced'>produit en série</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='reliable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. Nowy Świat offre un mélange de cafés exclusifs et de boutiques haut de gamme destinés à une clientèle aisée. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='exchange'>échange</option><option value='reliable'>fiable</option><option value='exclusive'>exclusif</option><option value='exquisite'>exquis</option><option value='mass-produced'>produit en série</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='exclusive' style='display:none;'></span></div></div> <div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4 : Ambiance et achats locaux</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots : animé, boutique, service client, ambiance, d'occasion</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Un magasin offrant un bon service client traitera les retours rapidement et de manière professionnelle. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='lively'>animé</option><option value='boutique'>boutique</option><option value='customer service'>service client</option><option value='atmosphere'>ambiance</option><option value='second-hand'>d'occasion</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='customer service' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Le Café Blikle est un lieu animé et plein d'énergie, célèbre pour ses délicieux beignets. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='lively'>animé</option><option value='boutique'>boutique</option><option value='customer service'>service client</option><option value='atmosphere'>ambiance</option><option value='second-hand'>d'occasion</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='lively' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. J'ai trouvé ces magnifiques boucles d'oreilles dans une boutique d'occasion près du parc. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='lively'>animé</option><option value='boutique'>boutique</option><option value='customer service'>service client</option><option value='atmosphere'>ambiance</option><option value='second-hand'>d'occasion</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='second-hand' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. L'ambiance animée de Nowy Świat rend les achats particulièrement agréables. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='lively'>animé</option><option value='boutique'>boutique</option><option value='customer service'>service client</option><option value='atmosphere'>ambiance</option><option value='second-hand'>d'occasion</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='atmosphere' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. Une petite boutique près de chez moi vend des vêtements abordables et uniques. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='lively'>animé</option><option value='boutique'>boutique</option><option value='customer service'>service client</option><option value='atmosphere'>ambiance</option><option value='second-hand'>d'occasion</option></select><button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='boutique' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 쇼핑 경험과 서비스</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 독특한, 선택 품목, 포장된, 인력 부족인, 응대하는</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 이 부서에서 고객을 응대하는 사람이 있나요? <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='unique'>독특한</option><option value='selection'>선택 품목</option><option value='wrapped'>포장된</option><option value='understaffed'>인력 부족인</option><option value='serving'>응대하는</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='serving' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 작은 부티크는 세계 시장을 위해 대량 생산되지 않은 독특한 상품을 제공합니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='unique'>독특한</option><option value='selection'>선택 품목</option><option value='wrapped'>포장된</option><option value='understaffed'>인력 부족인</option><option value='serving'>응대하는</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='unique' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 직원이 부족하여 아무도 도와주지 않는 가게에서는 우리는 불만을 느낍니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='unique'>독특한</option><option value='selection'>선택 품목</option><option value='wrapped'>포장된</option><option value='understaffed'>인력 부족인</option><option value='serving'>응대하는</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='understaffed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 대형 백화점은 한곳에서 다양한 상품의 선택 품목을 제공합니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='unique'>독특한</option><option value='selection'>선택 품목</option><option value='wrapped'>포장된</option><option value='understaffed'>인력 부족인</option><option value='serving'>응대하는</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='selection' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. 점원은 '포장해 드릴까요?'라고 물으며 특별한 배려를 더했습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='unique'>독특한</option><option value='selection'>선택 품목</option><option value='wrapped'>포장된</option><option value='understaffed'>인력 부족인</option><option value='serving'>응대하는</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='wrapped' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 상품 문제와 반품</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 품절된, 손상된, 제조 결함, 영수증, 환불</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 영수증이 없으면 환불을 받거나 상품을 교환할 수 없습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='out of stock'>품절된</option><option value='damaged'>손상된</option><option value='manufacturing fault'>제조 결함</option><option value='receipt'>영수증</option><option value='refund'>환불</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='receipt' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 내가 원했던 상품은 품절된 상태였기 때문에 전혀 구매할 수 없었습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='out of stock'>품절된</option><option value='damaged'>손상된</option><option value='manufacturing fault'>제조 결함</option><option value='receipt'>영수증</option><option value='refund'>환불</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='out of stock' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 결함이 있는 상품을 반품했을 때, 매장은 전액 환불을 해주었습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='out of stock'>품절된</option><option value='damaged'>손상된</option><option value='manufacturing fault'>제조 결함</option><option value='receipt'>영수증</option><option value='refund'>환불</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='refund' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 집에서 상자를 열어보니, 상품은 이미 단추가 느슨해져 손상된 상태였습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='out of stock'>품절된</option><option value='damaged'>손상된</option><option value='manufacturing fault'>제조 결함</option><option value='receipt'>영수증</option><option value='refund'>환불</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='damaged' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 부서진 부분은 내 잘못이 아니라 공장에서 발생한 실제 제조 결함이었습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='out of stock'>품절된</option><option value='damaged'>손상된</option><option value='manufacturing fault'>제조 결함</option><option value='receipt'>영수증</option><option value='refund'>환불</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='manufacturing fault' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3: 품질과 독점성</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 교환, 신뢰할 수 있는, 독점적인, 정교한, 대량 생산된</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 폴란드 제조업체들은 세계 소비를 위해 대량 생산된 제품이 아닌 상품을 생산합니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='exchange'>교환</option><option value='reliable'>신뢰할 수 있는</option><option value='exclusive'>독점적인</option><option value='exquisite'>정교한</option><option value='mass-produced'>대량 생산된</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='mass-produced' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 그 셔츠는 나에게 맞지 않았기 때문에 다른 사이즈로 교환을 요청했습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='exchange'>교환</option><option value='reliable'>신뢰할 수 있는</option><option value='exclusive'>독점적인</option><option value='exquisite'>정교한</option><option value='mass-produced'>대량 생산된</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='exchange' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 전문 매장에서 1,000파운드에 정교한 수제 정장을 구매할 수 있습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='exchange'>교환</option><option value='reliable'>신뢰할 수 있는</option><option value='exclusive'>독점적인</option><option value='exquisite'>정교한</option><option value='mass-produced'>대량 생산된</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='exquisite' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 훌륭한 고객 서비스를 제공하는 신뢰할 수 있는 매장은 문제를 빠르고 전문적으로 해결해 줄 것입니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='exchange'>교환</option><option value='reliable'>신뢰할 수 있는</option><option value='exclusive'>독점적인</option><option value='exquisite'>정교한</option><option value='mass-produced'>대량 생산된</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='reliable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. 노비 스비아트는 부유한 고객층을 대상으로 하는 독점적인 카페와 고급 부티크가 어우러진 곳입니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='exchange'>교환</option><option value='reliable'>신뢰할 수 있는</option><option value='exclusive'>독점적인</option><option value='exquisite'>정교한</option><option value='mass-produced'>대량 생산된</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='exclusive' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4: 분위기와 지역 쇼핑</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 활기찬, 부티크, 고객 서비스, 분위기, 중고의</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 훌륭한 고객 서비스를 제공하는 매장은 반품을 빠르고 전문적으로 처리할 것입니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='lively'>활기찬</option><option value='boutique'>부티크</option><option value='customer service'>고객 서비스</option><option value='atmosphere'>분위기</option><option value='second-hand'>중고의</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='customer service' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 카페 블리클레는 맛있는 도넛으로 유명한 활기찬 장소입니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='lively'>활기찬</option><option value='boutique'>부티크</option><option value='customer service'>고객 서비스</option><option value='atmosphere'>분위기</option><option value='second-hand'>중고의</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='lively' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 나는 공원 근처의 중고 상점에서 이 아름다운 귀걸이를 발견했습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='lively'>활기찬</option><option value='boutique'>부티크</option><option value='customer service'>고객 서비스</option><option value='atmosphere'>분위기</option><option value='second-hand'>중고의</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='second-hand' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 노비 스비아트의 활기찬 분위기는 그곳에서의 쇼핑을 정말 즐겁게 만듭니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='lively'>활기찬</option><option value='boutique'>부티크</option><option value='customer service'>고객 서비스</option><option value='atmosphere'>분위기</option><option value='second-hand'>중고의</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='atmosphere' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 우리 집 근처의 작은 부티크는 저렴하고 독특한 옷을 판매합니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='lively'>활기찬</option><option value='boutique'>부티크</option><option value='customer service'>고객 서비스</option><option value='atmosphere'>분위기</option><option value='second-hand'>중고의</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='boutique' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "According to the text, why is <b>Nowy Świat</b> considered a 'paradise for shoppers' and how is it different from other shopping streets?",
+    "ja": "テキストによると、<b>ノヴィ・フィアット</b>が「買い物客の楽園」と考えられる理由と、他のショッピングストリートとどのように異なるのですか？",
+    "fr": "Selon le texte, pourquoi <b>Nowy Świat</b> est-il considéré comme un 'paradis pour les acheteurs' et en quoi est-il différent des autres rues commerçantes ?",
+    "ko": "본문에 따르면, <b>노비 피아트</b>가 '쇼핑객들의 낙원'으로 여겨지는 이유는 무엇이며, 다른 쇼핑 거리와 어떻게 다른가요?"
+  },
+  "content_check_keywords": {
+    "en": "unique, no loud music, specialist shops, high quality, rebuilt, not mass produced",
+    "ja": "ユニーク、大音量の音楽がない、専門店、高品質、再建された、大量生産されていない",
+    "fr": "unique, pas de musique forte, magasins spécialisés, haute qualité, reconstruite, non produit en masse",
+    "ko": "독특함, 시끄러운 음악 없음, 전문 상점, 고품질, 재건됨, 대량 생산되지 않음"
+  },
+  "content_check_placeholder": {
+    "en": "Write your answer here based on the reading text...",
+    "ja": "読解テキストに基づいてここに回答を書いてください...",
+    "fr": "Écrivez votre réponse ici en vous basant sur le texte de lecture...",
+    "ko": "읽기 텍스트를 기반으로 여기에 답변을 작성하세요..."
+  },
+  "deepening_question": {
+    "en": "Some people like famous global brands (mass-produced), and others like local, handmade items. <b>Which one do you think is more special? Give one reason.</b>",
+    "ja": "有名なグローバルブランド（大量生産）を好む人もいれば、地元の手作りアイテムを好む人もいます。<b>どちらがより特別だと思いますか？理由を一つ挙げてください。</b>",
+    "fr": "Certaines personnes aiment les marques mondiales célèbres (produites en masse), et d'autres aiment les articles locaux faits à la main. <b>Lequel pensez-vous être plus spécial ? Donnez une raison.</b>",
+    "ko": "어떤 사람들은 유명한 글로벌 브랜드(대량 생산)를 좋아하고, 다른 사람들은 지역 핸드메이드 아이템을 좋아합니다. <b>어느 쪽이 더 특별하다고 생각하나요? 이유를 하나 들어보세요.</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I think local items are more special because...",
+    "ja": "地元のアイテムの方が特別だと思います。なぜなら...",
+    "fr": "Je pense que les articles locaux sont plus spéciaux parce que...",
+    "ko": "저는 지역 아이템이 더 특별하다고 생각합니다. 왜냐하면..."
+  },
+  "critical_question": {
+    "en": "In the text, Polish goods in Nowy Świat are special because they are not mass-produced. In your opinion, <b>is it better to buy expensive 'unique' items, or cheaper 'mass-produced' items? Use examples to explain your choice.</b>",
+    "ja": "テキストでは、ノヴィ・フィアットのポーランド製品は大量生産されていないため特別です。あなたの意見では、<b>高価な『ユニークな』アイテムと、より安価な『大量生産された』アイテムのどちらを買うのが良いですか？例を使ってあなたの選択を説明してください。</b>",
+    "fr": "Dans le texte, les produits polonais de Nowy Świat sont spéciaux car ils ne sont pas produits en masse. À votre avis, <b>est-il préférable d'acheter des articles « uniques » chers, ou des articles « produits en masse » moins chers ? Utilisez des exemples pour expliquer votre choix.</b>",
+    "ko": "본문에서 노비 피아트의 폴란드 상품은 대량 생산되지 않아 특별합니다. 여러분의 의견으로는, <b>비싼 '독특한' 아이템을 사는 것과 더 싼 '대량 생산된' 아이템을 사는 것 중 어느 것이 더 낫다고 생각하나요? 예를 들어 자신의 선택을 설명해보세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "Write your thoughts here...",
+    "ja": "ここにあなたの考えを書いてください...",
+    "fr": "Écrivez vos pensées ici...",
+    "ko": "여기에 생각을 작성하세요..."
+  }
+}

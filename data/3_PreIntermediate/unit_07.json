@@ -1,0 +1,1940 @@
+{
+  "title": {
+    "en": "MIND AND BODY",
+    "ja": "心と体",
+    "fr": "ESPRIT ET CORPS",
+    "ko": "마음과 몸"
+  },
+  "topic": {
+    "en": "Health, physical illness, mental health, first aid",
+    "ja": "健康、身体疾患、メンタルヘルス、応急処置",
+    "fr": "Santé, maladie physique, santé mentale, premiers secours",
+    "ko": "건강, 신체 질환, 정신 건강, 응급 처치"
+  },
+  "core_title": {
+    "en": "Not Just All in the Mind",
+    "ja": "心の中だけではない",
+    "fr": "Pas seulement dans la tête",
+    "ko": "단지 마음의 문제가 아니다"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>We all face health problems from time to time. Some are <strong><span class='vocab-link' id='text-physical' onclick='speakAndScroll(\"physical\", \"vocab-physical\")'>physical</span></strong>, like a cold or the flu, while others are related to our <strong><span class='vocab-link' id='text-mental' onclick='speakAndScroll(\"mental\", \"vocab-mental\")'>mental</span></strong> health. Understanding how to deal with these situations is essential for a healthy life.</p><p>If you feel weak and tired, or if your muscles ache, you might be getting the flu. In this case, you should go home and get some rest. Don't stay at work or school because you might spread the <strong><span class='vocab-link' id='text-virus' onclick='speakAndScroll(\"virus\", \"vocab-virus\")'>virus</span></strong> to others. For those who suffer from <strong><span class='vocab-link' id='text-hay_fever' onclick='speakAndScroll(\"hay_fever\", \"vocab-hay_fever\")'>hay fever</span></strong> during spring, you ought to wear sunglasses to protect your eyes. If you can't stop sneezing and your eyes water, why don't you visit the <strong><span class='vocab-link' id='text-chemist' onclick='speakAndScroll(\"chemist\", \"vocab-chemist\")'>chemist's</span></strong>? They can recommend <strong><span class='vocab-link' id='text-effective' onclick='speakAndScroll(\"effective\", \"vocab-effective\")'>effective</span></strong> tablets to help you feel better.</p><p>Sometimes, we experience smaller but annoying problems like <strong><span class='vocab-link' id='text-hiccups' onclick='speakAndScroll(\"hiccups\", \"vocab-hiccups\")'>hiccups</span></strong> or <strong><span class='vocab-link' id='text-indigestion' onclick='speakAndScroll(\"indigestion\", \"vocab-indigestion\")'>indigestion</span></strong>. If you have gas or a bad stomach after a meal, take some indigestion tablets with water. For hiccups, some people suggest a strange cure: put your fingers in your ears and swallow water slowly. It might work for you!</p><p>In more serious cases, like an accident, you may need first aid. If you have a deep cut, a doctor might need to give you <strong><span class='vocab-link' id='text-stitches' onclick='speakAndScroll(\"stitches\", \"vocab-stitches\")'>stitches</span></strong>. For a burn, apply some cream and dress the burn carefully to prevent <strong><span class='vocab-link' id='text-infection' onclick='speakAndScroll(\"infection\", \"vocab-infection\")'>infection</span></strong>. Consult your doctor if the pain continues.</p><p>However, we must remember that health is not just all in the mind, nor is it only about the body. Many people suffer from mild <strong><span class='vocab-link' id='text-depression' onclick='speakAndScroll(\"depression\", \"vocab-depression\")'>depression</span></strong> or <strong><span class='vocab-link' id='text-anxiety' onclick='speakAndScroll(\"anxiety\", \"vocab-anxiety\")'>anxiety</span></strong>, but they are afraid to ask for help because of negative attitudes in society. We often tell people to 'cheer up,' but this is not always helpful. Science shows that many mental illnesses have a physical or chemical cause in the brain. Therefore, we should treat mental health just like a physical illness. Recognise that it is a natural part of life and seek <strong><span class='vocab-link' id='text-professional' onclick='speakAndScroll(\"professional\", \"vocab-professional\")'>professional</span></strong> <strong><span class='vocab-link' id='text-therapy' onclick='speakAndScroll(\"therapy\", \"vocab-therapy\")'>therapy</span></strong> or support when needed.</p><p>Why don't we start changing our <strong><span class='vocab-link' id='text-attitude' onclick='speakAndScroll(\"attitude\", \"vocab-attitude\")'>attitudes</span></strong> today? Be kind to yourself and others, and take it easy when you are not feeling well.</p>",
+    "ja": "<p style='margin-top:0;'>私たちは誰でも時々健康問題に直面します。風邪やインフルエンザのような<strong><span class='vocab-link' id='text-physical' onclick='speakAndScroll(\"physical\", \"vocab-physical\")'>身体的な</span></strong>問題もあれば、<strong><span class='vocab-link' id='text-mental' onclick='speakAndScroll(\"mental\", \"vocab-mental\")'>精神的な</span></strong>健康に関連する問題もあります。これらの状況にどう対処するかを理解することは、健康的な生活に欠かせません。</p><p>だるくて疲れていたり、筋肉が痛んだりする場合は、インフルエンザにかかっているかもしれません。その場合は、家に帰って休んでください。ウイルスを他人に広める可能性があるので、仕事や学校に留まらないでください。春に<strong><span class='vocab-link' id='text-hay_fever' onclick='speakAndScroll(\"hay_fever\", \"vocab-hay_fever\")'>花粉症</span></strong>に悩む人は、目を保護するためにサングラスをかけるべきです。くしゃみが止まらず涙が出る場合は、<strong><span class='vocab-link' id='text-chemist' onclick='speakAndScroll(\"chemist\", \"vocab-chemist\")'>薬局</span></strong>に行ってみませんか？そこでは、気分を良くするための<strong><span class='vocab-link' id='text-effective' onclick='speakAndScroll(\"effective\", \"vocab-effective\")'>効果的な</span></strong>錠剤を勧めてもらえます。</p><p>時には、<strong><span class='vocab-link' id='text-hiccups' onclick='speakAndScroll(\"hiccups\", \"vocab-hiccups\")'>しゃっくり</span></strong>や<strong><span class='vocab-link' id='text-indigestion' onclick='speakAndScroll(\"indigestion\", \"vocab-indigestion\")'>消化不良</span></strong>のような、小さくても厄介な問題を経験します。食後にガスが溜まったり胃の調子が悪い場合は、消化の薬を水と一緒に飲んでください。しゃっくりには、指を耳に入れてゆっくりと水を飲むという変わった治療法を提案する人もいます。うまくいくかもしれません。</p><p>事故のようなもっと深刻なケースでは、応急処置が必要になることがあります。深い切り傷の場合は、医師が<strong><span class='vocab-link' id='text-stitches' onclick='speakAndScroll(\"stitches\", \"vocab-stitches\")'>縫合</span></strong>する必要があるかもしれません。火傷の場合は、クリームを塗って慎重に包帯を巻き、<strong><span class='vocab-link' id='text-infection' onclick='speakAndScroll(\"infection\", \"vocab-infection\")'>感染</span></strong>を防いでください。痛みが続く場合は医師に相談してください。</p><p>しかし、健康は単に心の問題だけでも、体だけの問題でもないことを忘れてはいけません。多くの人が軽度の<strong><span class='vocab-link' id='text-depression' onclick='speakAndScroll(\"depression\", \"vocab-depression\")'>うつ病</span></strong>や<strong><span class='vocab-link' id='text-anxiety' onclick='speakAndScroll(\"anxiety\", \"vocab-anxiety\")'>不安</span></strong>に苦しんでいますが、社会の否定的な態度のために助けを求めることを恐れています。私たちはよく「元気を出せ」と言いますが、これは必ずしも役に立ちません。科学は、多くの精神疾患が脳内に身体的または化学的な原因があることを示しています。したがって、私たちは精神的健康を身体的病気と同じように扱うべきです。それが人生の自然な一部であることを認識し、必要なときに<strong><span class='vocab-link' id='text-professional' onclick='speakAndScroll(\"professional\", \"vocab-professional\")'>専門的な</span></strong><strong><span class='vocab-link' id='text-therapy' onclick='speakAndScroll(\"therapy\", \"vocab-therapy\")'>治療</span></strong>やサポートを求めてください。</p><p>今日から私たちの<strong><span class='vocab-link' id='text-attitude' onclick='speakAndScroll(\"attitude\", \"vocab-attitude\")'>態度</span></strong>を変えてみませんか？自分自身や他の人に優しくし、気分が優れないときは無理をしないでください。</p>",
+    "fr": "<p style='margin-top:0;'>Nous faisons tous face à des problèmes de santé de temps en temps. Certains sont <strong><span class='vocab-link' id='text-physical' onclick='speakAndScroll(\"physical\", \"vocab-physical\")'>physiques</span></strong>, comme un rhume ou la grippe, tandis que d'autres sont liés à notre santé <strong><span class='vocab-link' id='text-mental' onclick='speakAndScroll(\"mental\", \"vocab-mental\")'>mentale</span></strong>. Comprendre comment faire face à ces situations est essentiel pour une vie saine.</p><p>Si vous vous sentez faible et fatigué, ou si vos muscles sont douloureux, vous avez peut-être la grippe. Dans ce cas, vous devriez rentrer chez vous et vous reposer. Ne restez pas au travail ou à l'école car vous pourriez propager le <strong><span class='vocab-link' id='text-virus' onclick='speakAndScroll(\"virus\", \"vocab-virus\")'>virus</span></strong> à d'autres. Pour ceux qui souffrent du <strong><span class='vocab-link' id='text-hay_fever' onclick='speakAndScroll(\"hay_fever\", \"vocab-hay_fever\")'>rhume des foins</span></strong> au printemps, vous devriez porter des lunettes de soleil pour protéger vos yeux. Si vous n'arrêtez pas d'éternuer et que vos yeux pleurent, pourquoi ne pas visiter la <strong><span class='vocab-link' id='text-chemist' onclick='speakAndScroll(\"chemist\", \"vocab-chemist\")'>pharmacie</span></strong> ? Ils peuvent recommander des comprimés <strong><span class='vocab-link' id='text-effective' onclick='speakAndScroll(\"effective\", \"vocab-effective\")'>efficaces</span></strong> pour vous aider à vous sentir mieux.</p><p>Parfois, nous rencontrons des problèmes plus petits mais agaçants comme le <strong><span class='vocab-link' id='text-hiccups' onclick='speakAndScroll(\"hiccups\", \"vocab-hiccups\")'>hoquet</span></strong> ou <strong><span class='vocab-link' id='text-indigestion' onclick='speakAndScroll(\"indigestion\", \"vocab-indigestion\")'>l'indigestion</span></strong>. Si vous avez des gaz ou un mauvais estomac après un repas, prenez des comprimés contre l'indigestion avec de l'eau. Pour le hoquet, certaines personnes suggèrent un remède étrange : mettez vos doigts dans vos oreilles et avalez de l'eau lentement. Cela pourrait fonctionner pour vous !</p><p>Dans les cas plus graves, comme un accident, vous pouvez avoir besoin de premiers secours. Si vous avez une coupure profonde, un médecin pourrait avoir besoin de vous faire des <strong><span class='vocab-link' id='text-stitches' onclick='speakAndScroll(\"stitches\", \"vocab-stitches\")'>points de suture</span></strong>. Pour une brûlure, appliquez de la crème et pansez soigneusement la brûlure pour prévenir l'<strong><span class='vocab-link' id='text-infection' onclick='speakAndScroll(\"infection\", \"vocab-infection\")'>infection</span></strong>. Consultez votre médecin si la douleur persiste.</p><p>Cependant, nous devons nous rappeler que la santé n'est pas seulement une question d'esprit, ni seulement une question de corps. De nombreuses personnes souffrent de <strong><span class='vocab-link' id='text-depression' onclick='speakAndScroll(\"depression\", \"vocab-depression\")'>dépression</span></strong> légère ou d'<strong><span class='vocab-link' id='text-anxiety' onclick='speakAndScroll(\"anxiety\", \"vocab-anxiety\")'>anxiété</span></strong>, mais elles ont peur de demander de l'aide à cause des attitudes négatives dans la société. Nous disons souvent aux gens de « se ressaisir », mais ce n'est pas toujours utile. La science montre que de nombreuses maladies mentales ont une cause physique ou chimique dans le cerveau. Par conséquent, nous devons traiter la santé mentale comme une maladie physique. Reconnaissez que cela fait naturellement partie de la vie et recherchez une <strong><span class='vocab-link' id='text-professional' onclick='speakAndScroll(\"professional\", \"vocab-professional\")'>aide professionnelle</span></strong> ou une <strong><span class='vocab-link' id='text-therapy' onclick='speakAndScroll(\"therapy\", \"vocab-therapy\")'>thérapie</span></strong> en cas de besoin.</p><p>Pourquoi ne pas commencer à changer nos <strong><span class='vocab-link' id='text-attitude' onclick='speakAndScroll(\"attitude\", \"vocab-attitude\")'>attitudes</span></strong> aujourd'hui ? Soyez gentil avec vous-même et avec les autres, et prenez les choses facilement quand vous ne vous sentez pas bien.</p>",
+    "ko": "<p style='margin-top:0;'>우리는 모두 때때로 건강 문제에 직면합니다. 감기나 독감과 같은 <strong><span class='vocab-link' id='text-physical' onclick='speakAndScroll(\"physical\", \"vocab-physical\")'>신체적</span></strong>인 문제도 있고, <strong><span class='vocab-link' id='text-mental' onclick='speakAndScroll(\"mental\", \"vocab-mental\")'>정신적</span></strong> 건강과 관련된 문제도 있습니다. 이러한 상황에 대처하는 방법을 이해하는 것은 건강한 생활에 필수적입니다.</p><p>몸이 약하고 피곤하거나 근육이 아프다면 독감에 걸렸을 수 있습니다. 이 경우 집에 가서 휴식을 취해야 합니다. <strong><span class='vocab-link' id='text-virus' onclick='speakAndScroll(\"virus\", \"vocab-virus\")'>바이러스</span></strong>를 다른 사람에게 퍼뜨릴 수 있으므로 직장이나 학교에 머물지 마세요. 봄철에 <strong><span class='vocab-link' id='text-hay_fever' onclick='speakAndScroll(\"hay_fever\", \"vocab-hay_fever\")'>꽃가루 알레르기</span></strong>로 고생하는 사람들은 눈을 보호하기 위해 선글라스를 착용해야 합니다. 재채기가 멈추지 않고 눈물이 난다면 <strong><span class='vocab-link' id='text-chemist' onclick='speakAndScroll(\"chemist\", \"vocab-chemist\")'>약국</span></strong>에 가보는 것은 어떨까요? 약사는 기분을 나아지게 하는 <strong><span class='vocab-link' id='text-effective' onclick='speakAndScroll(\"effective\", \"vocab-effective\")'>효과적인</span></strong> 약을 추천해 줄 수 있습니다.</p><p>때로는 <strong><span class='vocab-link' id='text-hiccups' onclick='speakAndScroll(\"hiccups\", \"vocab-hiccups\")'>딸꾹질</span></strong>이나 <strong><span class='vocab-link' id='text-indigestion' onclick='speakAndScroll(\"indigestion\", \"vocab-indigestion\")'>소화불량</span></strong>과 같은 작지만 짜증나는 문제를 경험하기도 합니다. 식사 후 가스가 차거나 속이 안 좋으면 소화제를 물과 함께 드세요. 딸꾹질에는 손가락을 귀에 넣고 천천히 물을 삼키는 이상한 치료법을 제안하는 사람들도 있습니다. 효과가 있을 수도 있습니다!</p><p>사고와 같은 더 심각한 경우에는 응급 처치가 필요할 수 있습니다. 깊은 상처가 있으면 의사가 <strong><span class='vocab-link' id='text-stitches' onclick='speakAndScroll(\"stitches\", \"vocab-stitches\")'>봉합사</span></strong>를 넣어야 할 수 있습니다. 화상의 경우 크림을 바르고 조심스럽게 붕대를 감아 <strong><span class='vocab-link' id='text-infection' onclick='speakAndScroll(\"infection\", \"vocab-infection\")'>감염</span></strong>을 예방하세요. 통증이 계속되면 의사와 상담하세요.</p><p>그러나 건강이 단지 마음의 문제도 아니고 몸의 문제만도 아니라는 점을 기억해야 합니다. 많은 사람들이 가벼운 <strong><span class='vocab-link' id='text-depression' onclick='speakAndScroll(\"depression\", \"vocab-depression\")'>우울증</span></strong>이나 <strong><span class='vocab-link' id='text-anxiety' onclick='speakAndScroll(\"anxiety\", \"vocab-anxiety\")'>불안</span></strong>으로 고통받고 있지만, 사회의 부정적인 태도 때문에 도움을 요청하는 것을 두려워합니다. 우리는 종종 사람들에게 '기운 내라'고 말하지만, 이것이 항상 도움이 되는 것은 아닙니다. 과학은 많은 정신 질환이 뇌에 신체적 또는 화학적 원인이 있다는 것을 보여줍니다. 따라서 우리는 정신 건강을 신체 질환과 동일하게 다루어야 합니다. 그것이 삶의 자연스러운 일부임을 인식하고 필요할 때 <strong><span class='vocab-link' id='text-professional' onclick='speakAndScroll(\"professional\", \"vocab-professional\")'>전문적인</span></strong> <strong><span class='vocab-link' id='text-therapy' onclick='speakAndScroll(\"therapy\", \"vocab-therapy\")'>치료</span></strong>나 지원을 구하세요.</p><p>오늘부터 우리의 <strong><span class='vocab-link' id='text-attitude' onclick='speakAndScroll(\"attitude\", \"vocab-attitude\")'>태도</span></strong>를 바꿔보는 것은 어떨까요? 자신과 타인에게 친절하게 대하고, 몸이 좋지 않을 때는 무리하지 마세요.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "physical",
+        "word": "Physical",
+        "definition": "Related to the body rather than the mind."
+      },
+      {
+        "id": "mental",
+        "word": "Mental",
+        "definition": "Related to the mind or thinking process."
+      },
+      {
+        "id": "virus",
+        "word": "Virus",
+        "definition": "A very small living thing that causes infectious diseases like the flu or cold."
+      },
+      {
+        "id": "hay_fever",
+        "word": "Hay fever",
+        "definition": "An allergy caused by pollen that makes your nose and eyes feel uncomfortable."
+      },
+      {
+        "id": "chemist",
+        "word": "Chemist's",
+        "definition": "A shop where you can buy medicine and other health products."
+      },
+      {
+        "id": "effective",
+        "word": "Effective",
+        "definition": "Successful in producing the result you want."
+      },
+      {
+        "id": "hiccups",
+        "word": "Hiccups",
+        "definition": "A loud noise you make in your throat without wanting to, often caused by eating or drinking too fast."
+      },
+      {
+        "id": "indigestion",
+        "word": "Indigestion",
+        "definition": "Pain or discomfort in your stomach when it is difficult to digest food."
+      },
+      {
+        "id": "stitches",
+        "word": "Stitches",
+        "definition": "Small loops of thread used by a doctor to close a deep cut in the skin."
+      },
+      {
+        "id": "infection",
+        "word": "Infection",
+        "definition": "A disease caused by germs or bacteria entering the body or a wound."
+      },
+      {
+        "id": "depression",
+        "word": "Depression",
+        "definition": "A mental health condition where a person feels very sad, tired, and hopeless for a long time."
+      },
+      {
+        "id": "anxiety",
+        "word": "Anxiety",
+        "definition": "A feeling of worry, nervousness, or fear about something that might happen."
+      },
+      {
+        "id": "professional",
+        "word": "Professional",
+        "definition": "Relating to work that needs special training or education."
+      },
+      {
+        "id": "therapy",
+        "word": "Therapy",
+        "definition": "Treatment to help someone feel better, especially for mental or physical problems."
+      },
+      {
+        "id": "attitude",
+        "word": "Attitude",
+        "definition": "The way you think and feel about someone or something."
+      }
+    ],
+    "ja": [
+      {
+        "id": "physical",
+        "word": "身体的な",
+        "definition": "心ではなく体に関係する。"
+      },
+      {
+        "id": "mental",
+        "word": "精神的な",
+        "definition": "心や思考過程に関係する。"
+      },
+      {
+        "id": "virus",
+        "word": "ウイルス",
+        "definition": "インフルエンザや風邪などの感染症を引き起こす非常に小さな生物。"
+      },
+      {
+        "id": "hay_fever",
+        "word": "花粉症",
+        "definition": "花粉によって引き起こされるアレルギーで、鼻や目が不快になる。"
+      },
+      {
+        "id": "chemist",
+        "word": "薬局",
+        "definition": "薬やその他の健康製品を購入できる店。"
+      },
+      {
+        "id": "effective",
+        "word": "効果的な",
+        "definition": "望んだ結果を生み出すことに成功している。"
+      },
+      {
+        "id": "hiccups",
+        "word": "しゃっくり",
+        "definition": "食べたり飲んだりするのが速すぎることが原因で起こる、望まない喉の大きな音。"
+      },
+      {
+        "id": "indigestion",
+        "word": "消化不良",
+        "definition": "食べ物の消化が難しいときに起こる胃の痛みや不快感。"
+      },
+      {
+        "id": "stitches",
+        "word": "縫合",
+        "definition": "医師が皮膚の深い切り傷を閉じるために使う小さな糸の輪。"
+      },
+      {
+        "id": "infection",
+        "word": "感染",
+        "definition": "細菌やウイルスが体内や傷口に入ることで引き起こされる病気。"
+      },
+      {
+        "id": "depression",
+        "word": "うつ病",
+        "definition": "長期間にわたって非常に悲しく、疲れ、希望を失った状態を感じる精神疾患。"
+      },
+      {
+        "id": "anxiety",
+        "word": "不安",
+        "definition": "将来起こるかもしれないことについての心配、緊張、または恐れの感情。"
+      },
+      {
+        "id": "professional",
+        "word": "専門的な",
+        "definition": "特別な訓練や教育を必要とする仕事に関連する。"
+      },
+      {
+        "id": "therapy",
+        "word": "治療",
+        "definition": "特に精神的または身体的な問題に対して、誰かが良くなるのを助けるための治療。"
+      },
+      {
+        "id": "attitude",
+        "word": "態度",
+        "definition": "誰かや何かについてのあなたの考え方や感じ方。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "physical",
+        "word": "Physique",
+        "definition": "Relatif au corps plutôt qu'à l'esprit."
+      },
+      {
+        "id": "mental",
+        "word": "Mental",
+        "definition": "Relatif à l'esprit ou au processus de pensée."
+      },
+      {
+        "id": "virus",
+        "word": "Virus",
+        "definition": "Un très petit organisme qui cause des maladies infectieuses comme la grippe ou le rhume."
+      },
+      {
+        "id": "hay_fever",
+        "word": "Rhume des foins",
+        "definition": "Une allergie causée par le pollen qui rend le nez et les yeux inconfortables."
+      },
+      {
+        "id": "chemist",
+        "word": "Pharmacie",
+        "definition": "Un magasin où vous pouvez acheter des médicaments et d'autres produits de santé."
+      },
+      {
+        "id": "effective",
+        "word": "Efficace",
+        "definition": "Qui réussit à produire le résultat souhaité."
+      },
+      {
+        "id": "hiccups",
+        "word": "Hoquet",
+        "definition": "Un bruit fort que vous faites dans votre gorge sans le vouloir, souvent causé par une alimentation ou une boisson trop rapide."
+      },
+      {
+        "id": "indigestion",
+        "word": "Indigestion",
+        "definition": "Douleur ou inconfort dans l'estomac lorsqu'il est difficile de digérer les aliments."
+      },
+      {
+        "id": "stitches",
+        "word": "Points de suture",
+        "definition": "Petites boucles de fil utilisées par un médecin pour fermer une coupure profonde dans la peau."
+      },
+      {
+        "id": "infection",
+        "word": "Infection",
+        "definition": "Une maladie causée par des germes ou des bactéries pénétrant dans le corps ou une blessure."
+      },
+      {
+        "id": "depression",
+        "word": "Dépression",
+        "definition": "Un trouble de santé mentale où une personne se sent très triste, fatiguée et désespérée pendant une longue période."
+      },
+      {
+        "id": "anxiety",
+        "word": "Anxiété",
+        "definition": "Un sentiment d'inquiétude, de nervosité ou de peur à propos de quelque chose qui pourrait arriver."
+      },
+      {
+        "id": "professional",
+        "word": "Professionnel",
+        "definition": "Relatif à un travail qui nécessite une formation ou une éducation spéciale."
+      },
+      {
+        "id": "therapy",
+        "word": "Thérapie",
+        "definition": "Un traitement pour aider quelqu'un à se sentir mieux, en particulier pour des problèmes mentaux ou physiques."
+      },
+      {
+        "id": "attitude",
+        "word": "Attitude",
+        "definition": "La façon dont vous pensez et ressentez à propos de quelqu'un ou de quelque chose."
+      }
+    ],
+    "ko": [
+      {
+        "id": "physical",
+        "word": "신체적인",
+        "definition": "마음이 아닌 몸과 관련된."
+      },
+      {
+        "id": "mental",
+        "word": "정신적인",
+        "definition": "마음이나 사고 과정과 관련된."
+      },
+      {
+        "id": "virus",
+        "word": "바이러스",
+        "definition": "독감이나 감기 같은 전염병을 일으키는 아주 작은 생물."
+      },
+      {
+        "id": "hay_fever",
+        "word": "꽃가루 알레르기",
+        "definition": "꽃가루로 인해 코와 눈이 불편해지는 알레르기."
+      },
+      {
+        "id": "chemist",
+        "word": "약국",
+        "definition": "약과 기타 건강 제품을 살 수 있는 가게."
+      },
+      {
+        "id": "effective",
+        "word": "효과적인",
+        "definition": "원하는 결과를 만들어내는 데 성공한."
+      },
+      {
+        "id": "hiccups",
+        "word": "딸꾹질",
+        "definition": "너무 빨리 먹거나 마셔서 자주 발생하는, 의도치 않게 목에서 나는 큰 소리."
+      },
+      {
+        "id": "indigestion",
+        "word": "소화불량",
+        "definition": "음식 소화가 어려울 때 위에서 느끼는 통증이나 불편감."
+      },
+      {
+        "id": "stitches",
+        "word": "봉합사",
+        "definition": "의사가 피부의 깊은 상처를 봉합하기 위해 사용하는 작은 실 루프."
+      },
+      {
+        "id": "infection",
+        "word": "감염",
+        "definition": "세균이나 박테리아가 신체나 상처에 들어가서 발생하는 질병."
+      },
+      {
+        "id": "depression",
+        "word": "우울증",
+        "definition": "사람이 오랜 기간 동안 매우 슬프고 피곤하며 희망이 없음을 느끼는 정신 건강 상태."
+      },
+      {
+        "id": "anxiety",
+        "word": "불안",
+        "definition": "앞으로 일어날 일에 대한 걱정, 긴장, 또는 두려움의 감정."
+      },
+      {
+        "id": "professional",
+        "word": "전문적인",
+        "definition": "특별한 훈련이나 교육이 필요한 일과 관련된."
+      },
+      {
+        "id": "therapy",
+        "word": "치료",
+        "definition": "특히 정신적 또는 신체적 문제를 위해, 누군가가 나아지도록 돕는 치료."
+      },
+      {
+        "id": "attitude",
+        "word": "태도",
+        "definition": "누군가 또는 무언가에 대한 당신의 생각과 느낌의 방식."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Getting the Flu",
+        "label": "Conversation 1: A Sick Day at School",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Hi, how're you?"
+          },
+          {
+            "speaker": "B",
+            "text": "Not very well, actually. I think I'm getting the flu."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh no! You poor thing! Are you sure it's not just a cold?"
+          },
+          {
+            "speaker": "B",
+            "text": "It might be, I suppose, but it doesn't feel like it. I've had it for a few days now. I just feel really weak and tired all the time and my muscles ache a lot."
+          },
+          {
+            "speaker": "A",
+            "text": "That sounds horrible. Maybe you should go home and get some rest."
+          },
+          {
+            "speaker": "B",
+            "text": "Yes, maybe you're right."
+          },
+          {
+            "speaker": "A",
+            "text": "No-one will thank you if you stay and spread it!"
+          },
+          {
+            "speaker": "B",
+            "text": "That's true. Could you tell Mr. Einhoff I'm sick?"
+          },
+          {
+            "speaker": "A",
+            "text": "Yes, of course."
+          },
+          {
+            "speaker": "B",
+            "text": "Oh, and would you mind giving him my homework? Thank you."
+          },
+          {
+            "speaker": "A",
+            "text": "That's OK. You take it easy and get well soon."
+          },
+          {
+            "speaker": "B",
+            "text": "I'll try! Bye."
+          },
+          {
+            "speaker": "A",
+            "text": "Bye. See you."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Dealing with Hay Fever",
+        "label": "Conversation 2: Spring Allergies",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "Bless you!"
+          },
+          {
+            "speaker": "D",
+            "text": "Oh! I am sorry! That's the fifth time in as many minutes!"
+          },
+          {
+            "speaker": "C",
+            "text": "That's OK."
+          },
+          {
+            "speaker": "D",
+            "text": "I always get like this at this time of year! It's awful, because I hate winter... but then as soon as the sun comes out I can't stop sneezing! And my eyes really water as well. I really want to rub them, but that just makes them worse!"
+          },
+          {
+            "speaker": "C",
+            "text": "No, that sounds horrible. Are you taking anything for it?"
+          },
+          {
+            "speaker": "D",
+            "text": "Yes, I went to the chemist's last year and they recommended these tablets. So I take four of these every day, and they do help, but they don't stop it completely."
+          },
+          {
+            "speaker": "C",
+            "text": "Why don't you get some sunglasses to protect your eyes a bit?"
+          },
+          {
+            "speaker": "D",
+            "text": "Hmm, that's not a bad idea, actually, but I think I'd feel a bit funny walking round in sunglasses all day!"
+          },
+          {
+            "speaker": "C",
+            "text": "Yeah, I know what you mean, but maybe you ought to try it. You never know. It might work for you."
+          }
+        ]
+      },
+      {
+        "title": "1-3. A Strange Cure for Hiccups",
+        "label": "Conversation 1: Home Remedy",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Are you OK?"
+          },
+          {
+            "speaker": "B",
+            "text": "Yeah, I've just got hiccups. Oh gosh! It's really annoying."
+          },
+          {
+            "speaker": "A",
+            "text": "Here. I know a cure. It never fails. Take some water in your mouth, but don't drink it."
+          },
+          {
+            "speaker": "B",
+            "text": "Mmm."
+          },
+          {
+            "speaker": "A",
+            "text": "Now put your fingers in your ears. Bend down and put your head between your knees and swallow the water slowly."
+          },
+          {
+            "speaker": "B",
+            "text": "Mmmm?"
+          },
+          {
+            "speaker": "A",
+            "text": "Swallow the water!"
+          },
+          {
+            "speaker": "B",
+            "text": "Mmm."
+          },
+          {
+            "speaker": "A",
+            "text": "OK. You can breathe now. Have you still got them?"
+          },
+          {
+            "speaker": "B",
+            "text": "Um, no. No, I don't think so."
+          },
+          {
+            "speaker": "A",
+            "text": "You see. It works every time."
+          },
+          {
+            "speaker": "B",
+            "text": "Maybe, but I wouldn't want to do it in public! People would think I was mad!"
+          }
+        ]
+      },
+      {
+        "title": "1-4. Pharmacy Consultation for Indigestion",
+        "label": "Conversation 2: At the Chemist's",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "Yes. Can I help you?"
+          },
+          {
+            "speaker": "D",
+            "text": "Yes, I would like something for a bad stomach, please."
+          },
+          {
+            "speaker": "C",
+            "text": "Does it hurt or have you been sick?"
+          },
+          {
+            "speaker": "D",
+            "text": "Not sick. It's more gas. It's uncomfortable."
+          },
+          {
+            "speaker": "C",
+            "text": "OK. It sounds like indigestion. It's after you eat, right?"
+          },
+          {
+            "speaker": "D",
+            "text": "Yes."
+          },
+          {
+            "speaker": "C",
+            "text": "And you're going to the toilet normally? No diarrhoea?"
+          },
+          {
+            "speaker": "D",
+            "text": "Diarrhoea? No."
+          },
+          {
+            "speaker": "C",
+            "text": "OK, so I think these are what you need. They're indigestion tablets. You mix them with water and drink them after your meals. They're the most effective, I think."
+          },
+          {
+            "speaker": "D",
+            "text": "OK."
+          },
+          {
+            "speaker": "C",
+            "text": "What flavour would you like? Orange or blackcurrant?"
+          },
+          {
+            "speaker": "D",
+            "text": "Oh, orange."
+          },
+          {
+            "speaker": "C",
+            "text": "That'll be four twenty five. Don't take more than four tablets a day. And if they don't deal with the problem, consult your doctor."
+          },
+          {
+            "speaker": "D",
+            "text": "OK. Thanks. I will."
+          }
+        ]
+      },
+      {
+        "title": "1-5. Accidents and Emergency Treatment",
+        "label": "Conversation 3: At the Hospital",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "The burn's not too bad. We'll give you some cream for it. But you'll need some stitches in that cut. It's quite deep. What happened?"
+          },
+          {
+            "speaker": "F",
+            "text": "Well, I cut my head dancing with my son."
+          },
+          {
+            "speaker": "E",
+            "text": "I'm sorry?"
+          },
+          {
+            "speaker": "F",
+            "text": "I was dancing with my five-year-old son and I stepped on one of his toys and I fell... and hit my head on the side of the table."
+          },
+          {
+            "speaker": "E",
+            "text": "Oh dear. What about the burn then?"
+          },
+          {
+            "speaker": "F",
+            "text": "Well, my wife came in when she heard me shout and while she was helping me stand up... she knocked a cup of coffee off the table and it went all over my leg."
+          },
+          {
+            "speaker": "E",
+            "text": "Oh dear, I am sorry. I shouldn't laugh!"
+          },
+          {
+            "speaker": "F",
+            "text": "Don't worry. It was very stupid!"
+          },
+          {
+            "speaker": "E",
+            "text": "Nurse, could you dress the burn after I've done these stitches?"
+          },
+          {
+            "speaker": "G",
+            "text": "Of course."
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. インフルエンザにかかる",
+        "label": "会話 1: 学校での病気の日",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "やあ、元気？"
+          },
+          {
+            "speaker": "B",
+            "text": "実はあまり良くないんだ。インフルエンザにかかりかけているみたい。"
+          },
+          {
+            "speaker": "A",
+            "text": "まあ！かわいそうに！ただの風邪じゃないの？"
+          },
+          {
+            "speaker": "B",
+            "text": "そうかもしれないけど、そうは思えないんだ。もう数日経つんだけど、ずっと本当に弱って疲れていて、筋肉がすごく痛いんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "それはひどいね。家に帰って休んだほうがいいよ。"
+          },
+          {
+            "speaker": "B",
+            "text": "うん、そうかもね。"
+          },
+          {
+            "speaker": "A",
+            "text": "ここにいて感染させても誰も感謝しないよ！"
+          },
+          {
+            "speaker": "B",
+            "text": "それもそうだね。アインホフ先生に私が病気だって伝えてくれる？"
+          },
+          {
+            "speaker": "A",
+            "text": "もちろん。"
+          },
+          {
+            "speaker": "B",
+            "text": "ああ、それと宿題を渡してくれる？ありがとう。"
+          },
+          {
+            "speaker": "A",
+            "text": "いいよ。無理しないで、早く良くなってね。"
+          },
+          {
+            "speaker": "B",
+            "text": "そうするよ！じゃあね。"
+          },
+          {
+            "speaker": "A",
+            "text": "じゃあね。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. 花粉症への対処",
+        "label": "会話 2: 春のアレルギー",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "お大事に！"
+          },
+          {
+            "speaker": "D",
+            "text": "ああ！ごめんなさい！それで5回目です！"
+          },
+          {
+            "speaker": "C",
+            "text": "大丈夫だよ。"
+          },
+          {
+            "speaker": "D",
+            "text": "毎年この時期はいつもこうなるんだ！冬は嫌いだから最悪なんだ...でも太陽が出るとすぐにくしゃみが止まらなくなって、涙も出てくるんだ。こすりたくなるけど、そうするともっと悪くなるんだ！"
+          },
+          {
+            "speaker": "C",
+            "text": "それはひどいね。何か薬を飲んでるの？"
+          },
+          {
+            "speaker": "D",
+            "text": "うん、去年薬局に行って、この錠剤を勧められたんだ。だから毎日4錠飲んでいるんだけど、効果はあるけど完全には止まらないんだ。"
+          },
+          {
+            "speaker": "C",
+            "text": "サングラスをかけて目を少し保護してみたら？"
+          },
+          {
+            "speaker": "D",
+            "text": "うーん、それは悪くないアイデアだけど、一日中サングラスをかけて歩くのはちょっと変に感じるかな！"
+          },
+          {
+            "speaker": "C",
+            "text": "うん、言いたいことはわかるけど、試してみるべきかもしれないよ。わからないよ。効くかもしれないしね。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. しゃっくりの奇妙な治療法",
+        "label": "会話 1: 家庭療法",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "大丈夫？"
+          },
+          {
+            "speaker": "B",
+            "text": "うん、しゃっくりが出ちゃって。ああ、本当にうるさいんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "ちょっと。治療法を知ってるんだ。絶対に効くよ。口に水を含んで、でも飲まないで。"
+          },
+          {
+            "speaker": "B",
+            "text": "うーん。"
+          },
+          {
+            "speaker": "A",
+            "text": "指を耳に入れて。かがんで頭を膝の間に挟んで、ゆっくり水を飲み込んで。"
+          },
+          {
+            "speaker": "B",
+            "text": "うーん？"
+          },
+          {
+            "speaker": "A",
+            "text": "水を飲み込んで！"
+          },
+          {
+            "speaker": "B",
+            "text": "うーん。"
+          },
+          {
+            "speaker": "A",
+            "text": "よし。もう息をしていいよ。まだ出てる？"
+          },
+          {
+            "speaker": "B",
+            "text": "ええと、いいえ。もう出てないと思う。"
+          },
+          {
+            "speaker": "A",
+            "text": "見てごらん。毎回効くんだ。"
+          },
+          {
+            "speaker": "B",
+            "text": "そうかもしれないけど、公衆の前ではやりたくないな！頭がおかしいと思われちゃう！"
+          }
+        ]
+      },
+      {
+        "title": "1-4. 消化不良の薬局相談",
+        "label": "会話 2: 薬局にて",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "はい、ご用件は？"
+          },
+          {
+            "speaker": "D",
+            "text": "はい、胃の調子が悪いので何かください。"
+          },
+          {
+            "speaker": "C",
+            "text": "痛みがありますか、それとも吐きましたか？"
+          },
+          {
+            "speaker": "D",
+            "text": "吐き気はありません。どちらかというとガスです。不快なんです。"
+          },
+          {
+            "speaker": "C",
+            "text": "わかりました。消化不良のようですね。食事の後ですよね？"
+          },
+          {
+            "speaker": "D",
+            "text": "はい。"
+          },
+          {
+            "speaker": "C",
+            "text": "そしてトイレは普通に行けていますか？下痢はありませんか？"
+          },
+          {
+            "speaker": "D",
+            "text": "下痢？いいえ。"
+          },
+          {
+            "speaker": "C",
+            "text": "では、これが必要なものだと思います。消化不良の錠剤です。水と混ぜて食後に飲んでください。一番効果的だと思います。"
+          },
+          {
+            "speaker": "D",
+            "text": "わかりました。"
+          },
+          {
+            "speaker": "C",
+            "text": "フレーバーは何がいいですか？オレンジそれともカシス？"
+          },
+          {
+            "speaker": "D",
+            "text": "ああ、オレンジで。"
+          },
+          {
+            "speaker": "C",
+            "text": "4ポンド25ペンスです。1日4錠以上飲まないでください。問題が解決しない場合は、医師に相談してください。"
+          },
+          {
+            "speaker": "D",
+            "text": "わかりました。ありがとう。そうします。"
+          }
+        ]
+      },
+      {
+        "title": "1-5. 事故と緊急処置",
+        "label": "会話 3: 病院にて",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "火傷はそれほどひどくないですね。クリームを出します。でもその切り傷は縫合が必要です。かなり深いです。何があったのですか？"
+          },
+          {
+            "speaker": "F",
+            "text": "ええと、息子と踊っていて頭を切りました。"
+          },
+          {
+            "speaker": "E",
+            "text": "すみません？"
+          },
+          {
+            "speaker": "F",
+            "text": "5歳の息子と踊っていて、おもちゃの一つを踏んで転んでしまい...テーブルの端に頭をぶつけました。"
+          },
+          {
+            "speaker": "E",
+            "text": "あらまあ。では火傷の方は？"
+          },
+          {
+            "speaker": "F",
+            "text": "ええと、私が叫ぶのを聞いて妻が入ってきて、立ち上がるのを手伝っている間に...テーブルからコーヒーカップを落としてしまい、それが私の脚全体にかかってしまいました。"
+          },
+          {
+            "speaker": "E",
+            "text": "あらまあ、すみません。笑ってはいけませんね！"
+          },
+          {
+            "speaker": "F",
+            "text": "心配しないで。とてもバカな話ですから！"
+          },
+          {
+            "speaker": "E",
+            "text": "看護師さん、この縫合が終わったら火傷の処置をお願いできますか？"
+          },
+          {
+            "speaker": "G",
+            "text": "もちろんです。"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Attraper la grippe",
+        "label": "Conversation 1: Un jour de maladie à l'école",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Salut, comment ça va ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Pas très bien, en fait. Je pense que j'attrape la grippe."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh non ! Pauvre toi ! Tu es sûr que ce n'est pas juste un rhume ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Ça pourrait être, je suppose, mais je n'ai pas l'impression. Ça fait plusieurs jours maintenant. Je me sens vraiment faible et fatigué tout le temps et mes muscles me font très mal."
+          },
+          {
+            "speaker": "A",
+            "text": "Ça a l'air horrible. Tu devrais peut-être rentrer chez toi et te reposer."
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, peut-être que tu as raison."
+          },
+          {
+            "speaker": "A",
+            "text": "Personne ne te remerciera si tu restes et que tu le transmets !"
+          },
+          {
+            "speaker": "B",
+            "text": "C'est vrai. Tu peux dire à M. Einhoff que je suis malade ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Oui, bien sûr."
+          },
+          {
+            "speaker": "B",
+            "text": "Oh, et ça te dérangerait de lui donner mes devoirs ? Merci."
+          },
+          {
+            "speaker": "A",
+            "text": "Pas de problème. Repose-toi bien et guéris vite."
+          },
+          {
+            "speaker": "B",
+            "text": "Je vais essayer ! Au revoir."
+          },
+          {
+            "speaker": "A",
+            "text": "Au revoir."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Faire face au rhume des foins",
+        "label": "Conversation 2: Allergies printanières",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "À vos souhaits !"
+          },
+          {
+            "speaker": "D",
+            "text": "Oh ! Je suis désolé ! C'est la cinquième fois en autant de minutes !"
+          },
+          {
+            "speaker": "C",
+            "text": "Ce n'est pas grave."
+          },
+          {
+            "speaker": "D",
+            "text": "Je suis toujours comme ça à cette période de l'année ! C'est horrible, parce que je déteste l'hiver... mais dès que le soleil sort, je ne peux pas arrêter d'éternuer ! Et mes yeux pleurent aussi. J'ai vraiment envie de les frotter, mais ça ne fait qu'empirer les choses !"
+          },
+          {
+            "speaker": "C",
+            "text": "Non, ça a l'air horrible. Tu prends quelque chose pour ça ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Oui, je suis allé à la pharmacie l'année dernière et ils m'ont recommandé ces comprimés. Donc j'en prends quatre tous les jours, et ça aide, mais ça ne l'arrête pas complètement."
+          },
+          {
+            "speaker": "C",
+            "text": "Pourquoi ne prends-tu pas des lunettes de soleil pour protéger un peu tes yeux ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Hum, ce n'est pas une mauvaise idée, en fait, mais je pense que je me sentirais un peu bizarre à me promener avec des lunettes de soleil toute la journée !"
+          },
+          {
+            "speaker": "C",
+            "text": "Oui, je comprends ce que tu veux dire, mais tu devrais peut-être essayer. On ne sait jamais. Ça pourrait marcher pour toi."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Un remède étrange contre le hoquet",
+        "label": "Conversation 1: Remède maison",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Ça va ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, j'ai le hoquet. Oh là là ! C'est vraiment agaçant."
+          },
+          {
+            "speaker": "A",
+            "text": "Tiens. Je connais un remède. Ça ne rate jamais. Prends de l'eau dans ta bouche, mais ne la bois pas."
+          },
+          {
+            "speaker": "B",
+            "text": "Mmm."
+          },
+          {
+            "speaker": "A",
+            "text": "Maintenant, mets tes doigts dans tes oreilles. Penche-toi et mets ta tête entre tes genoux et avale l'eau lentement."
+          },
+          {
+            "speaker": "B",
+            "text": "Mmmm ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Avale l'eau !"
+          },
+          {
+            "speaker": "B",
+            "text": "Mmm."
+          },
+          {
+            "speaker": "A",
+            "text": "OK. Tu peux respirer maintenant. Tu l'as toujours ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Euh, non. Je ne pense pas."
+          },
+          {
+            "speaker": "A",
+            "text": "Tu vois. Ça marche à chaque fois."
+          },
+          {
+            "speaker": "B",
+            "text": "Peut-être, mais je ne voudrais pas le faire en public ! Les gens penseraient que je suis fou !"
+          }
+        ]
+      },
+      {
+        "title": "1-4. Consultation à la pharmacie pour l'indigestion",
+        "label": "Conversation 2: À la pharmacie",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "Oui. Je peux vous aider ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Oui, je voudrais quelque chose pour l'estomac, s'il vous plaît."
+          },
+          {
+            "speaker": "C",
+            "text": "Ça vous fait mal ou avez-vous vomi ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Pas de vomissements. C'est plutôt des gaz. C'est inconfortable."
+          },
+          {
+            "speaker": "C",
+            "text": "D'accord. On dirait une indigestion. C'est après avoir mangé, n'est-ce pas ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Oui."
+          },
+          {
+            "speaker": "C",
+            "text": "Et vous allez normalement aux toilettes ? Pas de diarrhée ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Diarrhée ? Non."
+          },
+          {
+            "speaker": "C",
+            "text": "OK, donc je pense que ce sont ceux-ci qu'il vous faut. Ce sont des comprimés contre l'indigestion. Vous les mélangez avec de l'eau et vous les buvez après les repas. Ce sont les plus efficaces, je pense."
+          },
+          {
+            "speaker": "D",
+            "text": "D'accord."
+          },
+          {
+            "speaker": "C",
+            "text": "Quel parfum voulez-vous ? Orange ou cassis ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Oh, orange."
+          },
+          {
+            "speaker": "C",
+            "text": "Ça fera quatre vingt-cinq. Ne prenez pas plus de quatre comprimés par jour. Et si cela ne résout pas le problème, consultez votre médecin."
+          },
+          {
+            "speaker": "D",
+            "text": "D'accord. Merci. Je le ferai."
+          }
+        ]
+      },
+      {
+        "title": "1-5. Accidents et traitement d'urgence",
+        "label": "Conversation 3: À l'hôpital",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "La brûlure n'est pas trop grave. Nous allons vous donner de la crème. Mais vous aurez besoin de points de suture sur cette coupure. Elle est assez profonde. Que s'est-il passé ?"
+          },
+          {
+            "speaker": "F",
+            "text": "Eh bien, je me suis coupé la tête en dansant avec mon fils."
+          },
+          {
+            "speaker": "E",
+            "text": "Pardon ?"
+          },
+          {
+            "speaker": "F",
+            "text": "Je dansais avec mon fils de cinq ans et j'ai marché sur l'un de ses jouets et je suis tombé... et j'ai cogné ma tête contre le bord de la table."
+          },
+          {
+            "speaker": "E",
+            "text": "Oh là là. Et la brûlure alors ?"
+          },
+          {
+            "speaker": "F",
+            "text": "Eh bien, ma femme est entrée quand elle m'a entendu crier et pendant qu'elle m'aidait à me lever... elle a renversé une tasse de café de la table et ça s'est répandu sur toute ma jambe."
+          },
+          {
+            "speaker": "E",
+            "text": "Oh là là, je suis désolé. Je ne devrais pas rire !"
+          },
+          {
+            "speaker": "F",
+            "text": "Ne vous inquiétez pas. C'était très stupide !"
+          },
+          {
+            "speaker": "E",
+            "text": "Infirmière, pourriez-vous panser la brûlure après que j'aurai fait ces points de suture ?"
+          },
+          {
+            "speaker": "G",
+            "text": "Bien sûr."
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 독감에 걸리다",
+        "label": "대화 1: 학교에서 아픈 날",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "안녕, 괜찮아?"
+          },
+          {
+            "speaker": "B",
+            "text": "사실 별로 안 좋아. 독감에 걸린 것 같아."
+          },
+          {
+            "speaker": "A",
+            "text": "오, 이런! 불쌍하다! 그냥 감기인 건 아니야?"
+          },
+          {
+            "speaker": "B",
+            "text": "그럴 수도 있겠지만, 그렇게 느껴지지는 않아. 며칠째 이렇거든. 계속해서 정말 약하고 피곤하고 근육도 많이 아파."
+          },
+          {
+            "speaker": "A",
+            "text": "끔찍하겠다. 집에 가서 좀 쉬는 게 좋을 것 같아."
+          },
+          {
+            "speaker": "B",
+            "text": "응, 그런 것 같아."
+          },
+          {
+            "speaker": "A",
+            "text": "여기 있으면서 옮긴다고 해서 고마워할 사람은 아무도 없을 거야!"
+          },
+          {
+            "speaker": "B",
+            "text": "그 말도 맞네. 아인호프 선생님께 내가 아프다고 전해줄 수 있겠니?"
+          },
+          {
+            "speaker": "A",
+            "text": "물론이지."
+          },
+          {
+            "speaker": "B",
+            "text": "아, 그리고 숙제 좀 전해줄래? 고마워."
+          },
+          {
+            "speaker": "A",
+            "text": "괜찮아. 무리하지 말고 빨리 나아."
+          },
+          {
+            "speaker": "B",
+            "text": "그럴게! 안녕."
+          },
+          {
+            "speaker": "A",
+            "text": "안녕."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 꽃가루 알레르기 대처하기",
+        "label": "대화 2: 봄철 알레르기",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "건강하세요!"
+          },
+          {
+            "speaker": "D",
+            "text": "아이! 미안해! 그게 몇 분 만에 다섯 번째야!"
+          },
+          {
+            "speaker": "C",
+            "text": "괜찮아."
+          },
+          {
+            "speaker": "D",
+            "text": "나는 매년 이맘때면 항상 이렇게 돼! 겨울이 싫으니까 정말 끔찍해... 그런데 막상 해가 나오면 재채기가 멈추지가 않아! 그리고 눈물도 나고. 비비고 싶은데 그러면 더 심해져!"
+          },
+          {
+            "speaker": "C",
+            "text": "아이고, 끔찍하겠다. 뭐 좀 먹고 있어?"
+          },
+          {
+            "speaker": "D",
+            "text": "응, 작년에 약국에 가서 이 약을 추천받았어. 그래서 매일 4알씩 먹는데, 효과는 있지만 완전히 멈추지는 않아."
+          },
+          {
+            "speaker": "C",
+            "text": "선글라스 좀 써서 눈을 보호하는 게 어때?"
+          },
+          {
+            "speaker": "D",
+            "text": "음, 그거 나쁘지 않은 생각인데, 하루 종일 선글라스를 끼고 다니면 좀 이상하게 느껴질 것 같아!"
+          },
+          {
+            "speaker": "C",
+            "text": "응, 무슨 말인지 알겠지만, 그래도 한번 해보는 게 좋을 것 같아. 모르는 일이지. 효과가 있을 수도 있어."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 딸꾹질에 대한 이상한 치료법",
+        "label": "대화 1: 집에서 하는 요법",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "괜찮아?"
+          },
+          {
+            "speaker": "B",
+            "text": "응, 딸꾹질이 났어. 아, 정말 짜증나."
+          },
+          {
+            "speaker": "A",
+            "text": "자, 내가 치료법을 알아. 절대 실패하지 않아. 입에 물을 머금고, 마시지는 마."
+          },
+          {
+            "speaker": "B",
+            "text": "음."
+          },
+          {
+            "speaker": "A",
+            "text": "이제 손가락을 귀에 넣어. 몸을 구부려서 머리를 무릎 사이에 넣고 천천히 물을 삼켜."
+          },
+          {
+            "speaker": "B",
+            "text": "음?"
+          },
+          {
+            "speaker": "A",
+            "text": "물을 삼켜!"
+          },
+          {
+            "speaker": "B",
+            "text": "음."
+          },
+          {
+            "speaker": "A",
+            "text": "좋아. 이제 숨 쉬어도 돼. 아직도 나와?"
+          },
+          {
+            "speaker": "B",
+            "text": "어, 아니. 안 나오는 것 같아."
+          },
+          {
+            "speaker": "A",
+            "text": "그래. 매번 통하지."
+          },
+          {
+            "speaker": "B",
+            "text": "그럴지도 모르지만, 남들 보는 데서는 하고 싶지 않아! 사람들이 내가 미친 줄 알겠어!"
+          }
+        ]
+      },
+      {
+        "title": "1-4. 소화불량 약국 상담",
+        "label": "대화 2: 약국에서",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "네, 도와드릴까요?"
+          },
+          {
+            "speaker": "D",
+            "text": "네, 배가 안 좋아서 뭔가 좀 주세요."
+          },
+          {
+            "speaker": "C",
+            "text": "아프세요, 아니면 토하셨나요?"
+          },
+          {
+            "speaker": "D",
+            "text": "토한 건 아니에요. 가스가 더 차요. 불편해요."
+          },
+          {
+            "speaker": "C",
+            "text": "알겠습니다. 소화불량인 것 같네요. 식사 후에 그러시죠?"
+          },
+          {
+            "speaker": "D",
+            "text": "네."
+          },
+          {
+            "speaker": "C",
+            "text": "그리고 화장실은 정상적으로 가시나요? 설사는 없고요?"
+          },
+          {
+            "speaker": "D",
+            "text": "설사요? 아니요."
+          },
+          {
+            "speaker": "C",
+            "text": "좋아요, 그럼 이게 필요하신 것 같아요. 소화불량 약입니다. 물에 타서 식후에 드세요. 가장 효과적일 거예요."
+          },
+          {
+            "speaker": "D",
+            "text": "네."
+          },
+          {
+            "speaker": "C",
+            "text": "무슨 맛으로 드릴까요? 오렌지 아니면 까막까치열매?"
+          },
+          {
+            "speaker": "D",
+            "text": "아, 오렌지요."
+          },
+          {
+            "speaker": "C",
+            "text": "4파운드 25펜스입니다. 하루에 4알 이상 드시지 마세요. 그래도 문제가 해결되지 않으면 의사와 상담하세요."
+          },
+          {
+            "speaker": "D",
+            "text": "네, 감사합니다. 그렇게 할게요."
+          }
+        ]
+      },
+      {
+        "title": "1-5. 사고와 응급 처치",
+        "label": "대화 3: 병원에서",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "화상은 그렇게 심하지 않네요. 크림을 드리겠습니다. 하지만 그 상처는 꿰매야겠어요. 꽤 깊습니다. 무슨 일이 있었나요?"
+          },
+          {
+            "speaker": "F",
+            "text": "글쎄요, 아들과 춤을 추다가 머리를 다쳤어요."
+          },
+          {
+            "speaker": "E",
+            "text": "죄송합니다?"
+          },
+          {
+            "speaker": "F",
+            "text": "다섯 살짜리 아들과 춤을 추고 있었는데, 아들 장난감 하나를 밟고 넘어져서... 테이블 모서리에 머리를 부딪혔어요."
+          },
+          {
+            "speaker": "E",
+            "text": "아이고. 그럼 화상은요?"
+          },
+          {
+            "speaker": "F",
+            "text": "글쎄요, 제가 소리 지르는 걸 듣고 아내가 들어왔는데, 제가 일어나도록 도와주는 동안... 테이블에서 커피잔을 떨어뜨리는 바람에 커피가 제 다리 전체에 다 쏟아졌어요."
+          },
+          {
+            "speaker": "E",
+            "text": "아이고, 정말 죄송합니다. 웃으면 안 되는데!"
+          },
+          {
+            "speaker": "F",
+            "text": "걱정 마세요. 정말 어이없는 일이었어요!"
+          },
+          {
+            "speaker": "E",
+            "text": "간호사님, 제가 이 꿰맴을 끝낸 후에 화상 처리를 해주시겠어요?"
+          },
+          {
+            "speaker": "G",
+            "text": "물론이죠."
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "NOT JUST ALL IN THE MIND",
+    "ja": "心の中だけではない",
+    "fr": "PAS SEULEMENT DANS LA TÊTE",
+    "ko": "단지 마음의 문제가 아니다"
+  },
+  "extra_reading_html": {
+    "en": "<p>The problem is that when we think of mental health problems, we often think of the most serious cases: people hearing voices; people seeing things that aren't really there; mad people murdering other people. The reality is that very few mentally ill people are dangerous and a lot of mental problems are quite mild. They are similar to flu: you feel bad for a week or two and then you recover.</p><p>However, in the same way that you may need medical attention to overcome flu, so doctors can help cure mild depression or someone's anxiety about eating, for example. In fact, people control or completely recover from many of the more serious mental health problems through drugs, therapy or other support. For example, the mathematician John Nash, whose experiences were shown in the film A Beautiful Mind, overcame paranoid schizophrenia and went on to win a Nobel Prize.</p><p>Unfortunately, because of negative attitudes towards mental illnesses, many people don't ask for help and when they do, they often get an unwanted reaction such as 'Don't be silly!' or 'Cheer up! Don't be so sad.' For men, the problem may be even worse, because society expects them to be less emotional. For example, people say 'boys don't cry' and 'he's a strong, silent type.' Showing your emotions means you are seen as weak.</p><p>Dealing with mental health problems is always going to be difficult because it's hard to know what's happening in someone's head, but science is making progress. In fact, it's becoming clear that many mental illnesses have a physical/chemical cause in the brain and that early treatment is important. What we need to do now is to change our attitudes. We can begin by recognising that mental illness is a more natural part of life than we think.</p>",
+    "ja": "<p>問題は、メンタルヘルスの問題を考えるとき、私たちはしばしば最も深刻なケースを考えることです：声が聞こえる人、実際には存在しないものが見える人、狂人が他の人を殺すこと。現実には、精神疾患を持つ人のうち危険な人はごくわずかで、多くの精神問題はかなり軽度です。それらはインフルエンザに似ています：1、2週間気分が悪くなり、その後回復します。</p><p>しかし、インフルエンザを克服するために医療処置が必要になるのと同じように、医師は軽度のうつ病や食事に対する不安を治す手助けができます。実際、人々は薬物、治療、その他のサポートを通じて、より深刻なメンタルヘルスの問題の多くを制御したり完全に回復したりします。例えば、映画『ビューティフル・マインド』でその経験が描かれた数学者ジョン・ナッシュは、妄想型統合失調症を克服し、ノーベル賞を受賞しました。</p><p>残念ながら、精神疾患に対する否定的な態度のために、多くの人は助けを求めず、求めても「ばかなことを言わないで！」や「元気を出して！そんなに悲しまないで」などの望まない反応をよく受けます。男性の場合、社会は彼らがより感情的でないことを期待するため、問題はさらに悪化する可能性があります。例えば、人々は「男の子は泣かない」とか「彼は強くて無口なタイプだ」と言います。感情を表に出せることは弱いと見なされることを意味します。</p><p>メンタルヘルスの問題に対処することは、誰かの頭の中で何が起こっているかを知ることが難しいため、常に困難ですが、科学は進歩しています。実際、多くの精神疾患が脳内に身体的/化学的原因を持ち、早期治療が重要であることが明らかになってきています。今私たちがすべきことは、私たちの態度を変えることです。精神疾患が私たちが思っているよりも人生の自然な一部であることを認識することから始められます。</p>",
+    "fr": "<p>Le problème est que lorsque nous pensons aux problèmes de santé mentale, nous pensons souvent aux cas les plus graves : des personnes qui entendent des voix ; des personnes qui voient des choses qui n'existent pas vraiment ; des personnes folles qui en tuent d'autres. La réalité est que très peu de personnes malades mentales sont dangereuses et que de nombreux problèmes mentaux sont assez légers. Ils sont similaires à la grippe : vous vous sentez mal pendant une semaine ou deux, puis vous vous rétablissez.</p><p>Cependant, de la même manière que vous pouvez avoir besoin de soins médicaux pour surmonter la grippe, les médecins peuvent aider à guérir la dépression légère ou l'anxiété d'une personne concernant la nourriture, par exemple. En fait, les gens contrôlent ou guérissent complètement de nombreux problèmes de santé mentale plus graves grâce à des médicaments, une thérapie ou d'autres formes de soutien. Par exemple, le mathématicien John Nash, dont les expériences ont été montrées dans le film Un homme d'exception, a surmonté la schizophrénie paranoïaque et a remporté un prix Nobel.</p><p>Malheureusement, à cause des attitudes négatives envers les maladies mentales, de nombreuses personnes ne demandent pas d'aide et quand elles le font, elles reçoivent souvent une réaction indésirable comme « Ne sois pas stupide ! » ou « Remonte-toi ! Ne sois pas si triste. » Pour les hommes, le problème peut être encore pire, car la société attend d'eux qu'ils soient moins émotifs. Par exemple, on dit « les garçons ne pleurent pas » et « c'est un type fort et silencieux ». Montrer ses émotions signifie que l'on est considéré comme faible.</p><p>Faire face aux problèmes de santé mentale sera toujours difficile car il est difficile de savoir ce qui se passe dans la tête de quelqu'un, mais la science progresse. En fait, il devient clair que de nombreuses maladies mentales ont une cause physique/chimique dans le cerveau et que le traitement précoce est important. Ce que nous devons faire maintenant, c'est changer nos attitudes. Nous pouvons commencer par reconnaître que la maladie mentale est une partie plus naturelle de la vie que nous ne le pensons.</p>",
+    "ko": "<p>문제는 우리가 정신 건강 문제를 생각할 때 가장 심각한 경우를 자주 떠올린다는 것입니다: 목소리가 들리는 사람들, 실제로 존재하지 않는 것들이 보이는 사람들, 미친 사람들이 다른 사람들을 살해하는 것. 현실은 정신 질환을 가진 사람들 중 위험한 사람은 극소수이며 많은 정신 문제는 상당히 가볍다는 것입니다. 그것들은 독감과 비슷합니다: 일주일이나 이주일 동안 기분이 나쁘다가 회복됩니다.</p><p>그러나 독감을 극복하기 위해 의료 처치가 필요할 수 있는 것과 같은 방식으로, 의사들은 예를 들어 가벼운 우울증이나 음식에 대한 불안을 치료하는 데 도움을 줄 수 있습니다. 사실, 사람들은 약물, 치료 또는 기타 지원을 통해 더 심각한 정신 건강 문제의 대부분을 통제하거나 완전히 회복합니다. 예를 들어, 영화 '뷰티풀 마인드'에서 그의 경험이 그려진 수학자 존 내쉬는 편집성 조현병을 극복하고 노벨상을 수상했습니다.</p><p>불행하게도, 정신 질환에 대한 부정적인 태도 때문에 많은 사람들이 도움을 요청하지 않으며, 요청할 때도 '바보 같은 소리 하지 마!' 또는 '기운 내! 너무 슬퍼하지 마'와 같은 원치 않는 반응을 자주 받습니다. 남성의 경우, 사회가 그들에게 덜 감정적이기를 기대하기 때문에 문제는 더욱 심각할 수 있습니다. 예를 들어, 사람들은 '남자는 울지 않아' 또는 '그는 강하고 말없는 타입이야'라고 말합니다. 감정을 표현하는 것은 약한 것으로 보인다는 것을 의미합니다.</p><p>정신 건강 문제를 다루는 것은 누군가의 머릿속에서 무슨 일이 일어나고 있는지 알기 어렵기 때문에 항상 어려울 것이지만, 과학은 발전하고 있습니다. 실제로 많은 정신 질환이 뇌에 신체적/화학적 원인을 가지고 있으며 조기 치료가 중요하다는 것이 분명해지고 있습니다. 지금 우리가 해야 할 일은 우리의 태도를 바꾸는 것입니다. 정신 질환이 우리가 생각하는 것보다 삶의 더 자연스러운 부분이라는 것을 인식하는 것부터 시작할 수 있습니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Most people with mental health problems are dangerous to society.",
+        "correct": "F",
+        "explanation": "False (The reality is that very few mentally ill people are dangerous and a lot of mental problems are quite mild.)"
+      },
+      {
+        "question": "Many serious mental health problems can be managed or cured through therapy and drugs.",
+        "correct": "T",
+        "explanation": "True (People control or completely recover from many serious problems through drugs, therapy, or other support.)"
+      },
+      {
+        "question": "John Nash is an example of someone who failed to overcome his mental illness.",
+        "correct": "F",
+        "explanation": "False (John Nash overcame paranoid schizophrenia and went on to win a Nobel Prize.)"
+      },
+      {
+        "question": "Society's negative attitudes often prevent people from seeking help for mental health.",
+        "correct": "T",
+        "explanation": "True (Because of negative attitudes, many people do not ask for help or they receive unwanted reactions.)"
+      },
+      {
+        "question": "Mental illnesses are now understood to often have physical or chemical causes in the brain.",
+        "correct": "T",
+        "explanation": "True (It is becoming clear that many mental illnesses have a physical or chemical cause in the brain.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "精神疾患を持つ人のほとんどは社会にとって危険である。",
+        "correct": "F",
+        "explanation": "偽 (現実には、精神疾患を持つ人のうち危険な人はごくわずかで、多くの精神問題はかなり軽度です。)"
+      },
+      {
+        "question": "多くの深刻な精神衛生問題は、治療や薬物で管理または治癒できる。",
+        "correct": "T",
+        "explanation": "真 (人々は薬物、治療、その他のサポートを通じて、多くの深刻な問題を制御したり完全に回復したりします。)"
+      },
+      {
+        "question": "ジョン・ナッシュは自分の精神疾患を克服できなかった人の例である。",
+        "correct": "F",
+        "explanation": "偽 (ジョン・ナッシュは妄想型統合失調症を克服し、ノーベル賞を受賞しました。)"
+      },
+      {
+        "question": "社会の否定的な態度が、人々が精神衛生上の助けを求めることを妨げることが多い。",
+        "correct": "T",
+        "explanation": "真 (否定的な態度のために、多くの人は助けを求めなかったり、望まない反応を受けたりします。)"
+      },
+      {
+        "question": "精神疾患はしばしば脳内に身体的または化学的原因があることが理解されている。",
+        "correct": "T",
+        "explanation": "真 (多くの精神疾患が脳内に身体的または化学的原因を持ち、早期治療が重要であることが明らかになってきています。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "La plupart des personnes ayant des problèmes de santé mentale sont dangereuses pour la société.",
+        "correct": "F",
+        "explanation": "Faux (La réalité est que très peu de personnes malades mentales sont dangereuses et de nombreux problèmes mentaux sont assez légers.)"
+      },
+      {
+        "question": "De nombreux problèmes de santé mentale graves peuvent être gérés ou guéris par une thérapie et des médicaments.",
+        "correct": "T",
+        "explanation": "Vrai (Les gens contrôlent ou guérissent complètement de nombreux problèmes graves grâce à des médicaments, une thérapie ou d'autres formes de soutien.)"
+      },
+      {
+        "question": "John Nash est un exemple de personne qui n'a pas réussi à surmonter sa maladie mentale.",
+        "correct": "F",
+        "explanation": "Faux (John Nash a surmonté la schizophrénie paranoïaque et a remporté un prix Nobel.)"
+      },
+      {
+        "question": "Les attitudes négatives de la société empêchent souvent les gens de chercher de l'aide pour leur santé mentale.",
+        "correct": "T",
+        "explanation": "Vrai (À cause des attitudes négatives, de nombreuses personnes ne demandent pas d'aide ou elles reçoivent des réactions indésirables.)"
+      },
+      {
+        "question": "On comprend maintenant que les maladies mentales ont souvent des causes physiques ou chimiques dans le cerveau.",
+        "correct": "T",
+        "explanation": "Vrai (Il devient clair que de nombreuses maladies mentales ont une cause physique ou chimique dans le cerveau.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "정신 건강 문제가 있는 대부분의 사람들은 사회에 위험하다.",
+        "correct": "F",
+        "explanation": "거짓 (현실은 정신 질환을 가진 사람들 중 위험한 사람은 극소수이며 많은 정신 문제는 상당히 가볍습니다.)"
+      },
+      {
+        "question": "많은 심각한 정신 건강 문제는 치료와 약물을 통해 관리되거나 치유될 수 있다.",
+        "correct": "T",
+        "explanation": "참 (사람들은 약물, 치료 또는 기타 지원을 통해 많은 심각한 문제를 통제하거나 완전히 회복합니다.)"
+      },
+      {
+        "question": "존 내쉬는 자신의 정신 질환을 극복하지 못한 사람의 예이다.",
+        "correct": "F",
+        "explanation": "거짓 (존 내쉬는 편집성 조현병을 극복하고 노벨상을 수상했습니다.)"
+      },
+      {
+        "question": "사회의 부정적인 태도는 종종 사람들이 정신 건강에 대한 도움을 구하는 것을 방해한다.",
+        "correct": "T",
+        "explanation": "참 (부정적인 태도 때문에 많은 사람들이 도움을 요청하지 않거나 원치 않는 반응을 받습니다.)"
+      },
+      {
+        "question": "정신 질환은 종종 뇌에 신체적 또는 화학적 원인이 있는 것으로 이해되고 있다.",
+        "correct": "T",
+        "explanation": "참 (많은 정신 질환이 뇌에 신체적 또는 화학적 원인을 가지고 있으며 조기 치료가 중요하다는 것이 분명해지고 있습니다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "reality is that very few",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "similar to flu",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "The <b>reality is that very few</b> mentally ill people are dangerous, and many problems are <b>similar to flu</b>.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "recover from many of the more serious",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "overcame paranoid schizophrenia",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "People can <b>recover from many of the more serious</b> problems, just like John Nash, who <b>overcame paranoid schizophrenia</b>.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "We must realize the <b>reality is that very few</b> patients are dangerous; many are <b>similar to flu</b>. With proper help, people <b>recover from many of the more serious</b> conditions, as seen in those who <b>overcame paranoid schizophrenia</b> and achieved greatness.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "negative attitudes towards",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "strong, silent type",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Because of <b>negative attitudes towards</b> mental illness, men are often expected to be the <b>strong, silent type</b>.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "unwanted reaction",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "early treatment is important",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "People often get an <b>unwanted reaction</b> when asking for help, even though <b>early treatment is important</b> for recovery.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Due to <b>negative attitudes towards</b> mental health, many face an <b>unwanted reaction</b>. Men especially struggle with the <b>strong, silent type</b> stereotype, even though science shows that <b>early treatment is important</b> for recovery.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "The <b>reality is that very few</b> cases are dangerous; many are <b>similar to flu</b> and people can <b>recover from many of the more serious</b> issues. John Nash <b>overcame paranoid schizophrenia</b>, yet <b>negative attitudes towards</b> illness still cause an <b>unwanted reaction</b> in society. We must stop forcing men to be the <b>strong, silent type</b> and recognize that <b>early treatment is important</b>.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "현실은 극소수만이",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "독감과 유사하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>현실은 극소수만이</b> 정신 질환자가 위험하며, 많은 문제는 <b>독감과 유사하다</b>.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "더 심각한 문제들로부터 회복하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "편집성 조현병을 극복했다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "사람들은 존 내쉬처럼 <b>더 심각한 문제들로부터 회복할</b> 수 있으며, 그는 <b>편집성 조현병을 극복했다</b>.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "우리는 <b>현실은 극소수만이</b> 위험하며 많은 경우가 <b>독감과 유사하다</b>는 것을 깨달아야 합니다. 적절한 도움으로 사람들은 <b>더 심각한 문제들로부터 회복할</b> 수 있으며, <b>편집성 조현병을 극복하고</b> 위대함을 이룬 사람들에게서 이를 볼 수 있습니다.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "정신 질환에 대한 부정적인 태도",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "강하고 말없는 타입",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>정신 질환에 대한 부정적인 태도</b> 때문에 남성들은 종종 <b>강하고 말없는 타입</b>이 되기를 기대받는다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "원치 않는 반응",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "조기 치료가 중요하다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "사람들은 도움을 요청할 때 종종 <b>원치 않는 반응</b>을 받지만, 회복을 위해 <b>조기 치료가 중요하다</b>.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "<b>정신 건강에 대한 부정적인 태도</b> 때문에 많은 사람들이 <b>원치 않는 반응</b>에 직면합니다. 과학이 <b>조기 치료가 중요하다</b>는 것을 보여줌에도 불구하고, 특히 남성들은 <b>강하고 말없는 타입</b>이라는 고정관념으로 어려움을 겪습니다.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "<b>현실은 극소수만이</b> 위험하며, 많은 경우 <b>독감과 유사</b>하고 사람들은 <b>더 심각한 문제로부터 회복할</b> 수 있습니다. 존 내쉬는 <b>편집성 조현병을 극복했</b>음에도, 질병에 대한 <b>부정적인 태도</b>는 여전히 사회에서 <b>원치 않는 반응</b>을 일으킵니다. 우리는 남성들이 <b>강하고 말없는 타입</b>이 되도록 강요하는 것을 멈추고 <b>조기 치료의 중요성</b>을 인식해야 합니다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "現実はごくわずかだけが",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "インフルエンザに似ている",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>現実はごくわずかだけが</b>精神病患者は危険であり、多くの問題は<b>インフルエンザに似ている</b>。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "より深刻な問題から回復する",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "妄想型統合失調症を克服した",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "人々はジョン・ナッシュのように<b>より深刻な問題から回復する</b>ことができ、彼は<b>妄想型統合失調症を克服した</b>。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "私たちは<b>現実はごくわずかだけが</b>危険であり、多くは<b>インフルエンザに似ている</b>ことを認識しなければなりません。適切な助けがあれば、人々は<b>より深刻な状態から回復する</b>ことができ、<b>妄想型統合失調症を克服し</b>偉大さを達成した人々に見られます。",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "精神疾患に対する否定的な態度",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "強くて無口なタイプ",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>精神疾患に対する否定的な態度</b>のために、男性はしばしば<b>強くて無口なタイプ</b>であることを期待される。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "望まない反応",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "早期治療が重要である",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "人々は助けを求めるときに<b>望まない反応</b>をよく受けるが、回復には<b>早期治療が重要である</b>。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "<b>精神健康に対する否定的な態度</b>のために、多くは<b>望まない反応</b>に直面します。科学が<b>早期治療が重要である</b>ことを示しているにもかかわらず、特に男性は<b>強くて無口なタイプ</b>という固定観念に苦しんでいます。",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "<b>現実はごくわずかだけが</b>危険であり、多くは<b>インフルエンザに似て</b>おり、人々は<b>より深刻な問題から回復する</b>ことができます。ジョン・ナッシュは<b>妄想型統合失調症を克服した</b>にもかかわらず、病気に対する<b>否定的な態度</b>は依然として社会で<b>望まない反応</b>を引き起こします。私たちは男性に<b>強くて無口なタイプ</b>であることを強制するのをやめ、<b>早期治療の重要性</b>を認識しなければなりません。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "la réalité est que très peu",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "similaire à la grippe",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>La réalité est que très peu</b> de personnes malades mentales sont dangereuses, et de nombreux problèmes sont <b>similaires à la grippe</b>.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "se remettre de nombreux problèmes graves",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "a surmonté la schizophrénie paranoïaque",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Les gens peuvent <b>se remettre de nombreux problèmes graves</b>, tout comme John Nash, qui <b>a surmonté la schizophrénie paranoïaque</b>.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nous devons réaliser que <b>la réalité est que très peu</b> de patients sont dangereux ; beaucoup sont <b>similaires à la grippe</b>. Avec l'aide appropriée, les gens <b>se remettent de nombreux problèmes graves</b>, comme le montrent ceux qui <b>ont surmonté la schizophrénie paranoïaque</b> et ont accompli de grandes choses.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "attitudes négatives envers",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "type fort et silencieux",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "À cause des <b>attitudes négatives envers</b> la maladie mentale, on attend souvent des hommes qu'ils soient le <b>type fort et silencieux</b>.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "réaction indésirable",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "le traitement précoce est important",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Les gens reçoivent souvent une <b>réaction indésirable</b> lorsqu'ils demandent de l'aide, même si <b>le traitement précoce est important</b> pour la guérison.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "En raison des <b>attitudes négatives envers</b> la santé mentale, beaucoup font face à une <b>réaction indésirable</b>. Les hommes luttent particulièrement avec le stéréotype du <b>type fort et silencieux</b>, même si la science montre que <b>le traitement précoce est important</b> pour la guérison.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "<b>La réalité est que très peu</b> de cas sont dangereux ; beaucoup sont <b>similaires à la grippe</b> et les gens peuvent <b>se remettre de nombreux problèmes graves</b>. John Nash <b>a surmonté la schizophrénie paranoïaque</b>, pourtant les <b>attitudes négatives envers</b> la maladie causent encore une <b>réaction indésirable</b> dans la société. Nous devons cesser de forcer les hommes à être le <b>type fort et silencieux</b> et reconnaître que <b>le traitement précoce est important</b>.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Giving Advice: Should / Ought to / Why don't you</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Should</strong>: Used to give advice or recommend something. (e.g., You <span style='color:#e67e22; font-weight:bold;'>should go home</span> and rest.)</p><p style='margin:5px 0;'><strong>• Ought to</strong>: Similar to 'should', slightly more formal. (e.g., You <span style='color:#e67e22; font-weight:bold;'>ought to wear</span> sunglasses.)</p><p style='margin:5px 0;'><strong>• Why don't you</strong>: A polite and friendly way to suggest an action. (e.g., <span style='color:#e67e22; font-weight:bold;'>Why don't you visit</span> the chemist's?)</p></div><h3>2. Negative Advice: Shouldn't / Don't</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Shouldn't</strong>: Used to advise against doing something. (e.g., You <span style='color:#16a085; font-weight:bold;'>shouldn't stay</span> at work.)</p><p style='margin:5px 0;'><strong>• Don't + verb</strong>: A direct way to tell someone not to do something. (e.g., <span style='color:#16a085; font-weight:bold;'>Don't stay</span> at school if you're sick.)</p></div><h3>3. Might / May for Possibility</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Might / May</strong>: Used to talk about something that is possible but not certain. (e.g., It <span style='color:#2980b9; font-weight:bold;'>might work</span> for you.)</p></div>",
+    "ko": "<p><em>문법 노트는 현재 영어로만 제공됩니다. 한국어 버전은 추후 추가될 예정입니다.</em></p>",
+    "ja": "<p><em>文法ノートは現在英語のみ利用可能です。日本語版は後日追加されます。</em></p>",
+    "fr": "<p><em>Les notes de grammaire sont actuellement disponibles uniquement en anglais. La version française sera ajoutée ultérieurement.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Physical Symptoms &amp; Illnesses</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: physical, virus, hay fever, symptom, infection</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. During spring, many people suffer from <select class='vocab-select'><option value=''>── select ──</option><option value='physical'>physical</option><option value='virus'>virus</option><option value='hay fever'>hay fever</option><option value='symptom'>symptom</option><option value='infection'>infection</option></select> because of pollen.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='hay fever' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. If you have an <select class='vocab-select'><option value=''>── select ──</option><option value='physical'>physical</option><option value='virus'>virus</option><option value='hay fever'>hay fever</option><option value='symptom'>symptom</option><option value='infection'>infection</option></select> in a wound, you should see a doctor.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='infection' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. You can spread a <select class='vocab-select'><option value=''>── select ──</option><option value='physical'>physical</option><option value='virus'>virus</option><option value='hay fever'>hay fever</option><option value='symptom'>symptom</option><option value='infection'>infection</option></select> to other people when you are sick.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='virus' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. A cold or the flu is a <select class='vocab-select'><option value=''>── select ──</option><option value='physical'>physical</option><option value='virus'>virus</option><option value='hay fever'>hay fever</option><option value='symptom'>symptom</option><option value='infection'>infection</option></select> problem.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='physical' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. Sneezing and watery eyes are common <select class='vocab-select'><option value=''>── select ──</option><option value='physical'>physical</option><option value='virus'>virus</option><option value='hay fever'>hay fever</option><option value='symptom'>symptom</option><option value='infection'>infection</option></select>s of allergies.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='symptom' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Treatment &amp; Recovery</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: effective, stitches, recover, treatment, therapy</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. The doctor will decide on the best <select class='vocab-select'><option value=''>── select ──</option><option value='effective'>effective</option><option value='stitches'>stitches</option><option value='recover'>recover</option><option value='treatment'>treatment</option><option value='therapy'>therapy</option></select> for your condition.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='treatment' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. A deep cut may require <select class='vocab-select'><option value=''>── select ──</option><option value='effective'>effective</option><option value='stitches'>stitches</option><option value='recover'>recover</option><option value='treatment'>treatment</option><option value='therapy'>therapy</option></select> to close the wound.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='stitches' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Mental health <select class='vocab-select'><option value=''>── select ──</option><option value='effective'>effective</option><option value='stitches'>stitches</option><option value='recover'>recover</option><option value='treatment'>treatment</option><option value='therapy'>therapy</option></select> can include talking to a psychologist.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='therapy' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. It takes time to <select class='vocab-select'><option value=''>── select ──</option><option value='effective'>effective</option><option value='stitches'>stitches</option><option value='recover'>recover</option><option value='treatment'>treatment</option><option value='therapy'>therapy</option></select> from a serious illness.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='recover' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. A good diet and exercise can help you find an <select class='vocab-select'><option value=''>── select ──</option><option value='effective'>effective</option><option value='stitches'>stitches</option><option value='recover'>recover</option><option value='treatment'>treatment</option><option value='therapy'>therapy</option></select> way to stay healthy.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='effective' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Mental Health &amp; Attitude</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: mental, depression, anxiety, attitude, professional</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Many people suffer from mild <select class='vocab-select'><option value=''>── select ──</option><option value='mental'>mental</option><option value='depression'>depression</option><option value='anxiety'>anxiety</option><option value='attitude'>attitude</option><option value='professional'>professional</option></select> or anxiety.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='depression' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. We should change our <select class='vocab-select'><option value=''>── select ──</option><option value='mental'>mental</option><option value='depression'>depression</option><option value='anxiety'>anxiety</option><option value='attitude'>attitude</option><option value='professional'>professional</option></select> towards mental illness.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='attitude' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. <select class='vocab-select'><option value=''>── select ──</option><option value='mental'>mental</option><option value='depression'>depression</option><option value='anxiety'>anxiety</option><option value='attitude'>attitude</option><option value='professional'>professional</option></select> health is just as important as physical health.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='mental' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. You should seek <select class='vocab-select'><option value=''>── select ──</option><option value='mental'>mental</option><option value='depression'>depression</option><option value='anxiety'>anxiety</option><option value='attitude'>attitude</option><option value='professional'>professional</option></select> help if you need it.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='professional' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. Feeling worried or nervous all the time is a sign of <select class='vocab-select'><option value=''>── select ──</option><option value='mental'>mental</option><option value='depression'>depression</option><option value='anxiety'>anxiety</option><option value='attitude'>attitude</option><option value='professional'>professional</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='anxiety' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Everyday Health &amp; Prevention</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: chemist's, indigestion, hiccups, prevent, immune</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. A healthy lifestyle can help you become <select class='vocab-select'><option value=''>── select ──</option><option value='chemist&#39;s'>chemist's</option><option value='indigestion'>indigestion</option><option value='hiccups'>hiccups</option><option value='prevent'>prevent</option><option value='immune'>immune</option></select> to many diseases.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='immune' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. If you need medicine, you can visit the <select class='vocab-select'><option value=''>── select ──</option><option value='chemist&#39;s'>chemist's</option><option value='indigestion'>indigestion</option><option value='hiccups'>hiccups</option><option value='prevent'>prevent</option><option value='immune'>immune</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='chemist&#39;s' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. If you have gas or a bad stomach after a meal, you may have <select class='vocab-select'><option value=''>── select ──</option><option value='chemist&#39;s'>chemist's</option><option value='indigestion'>indigestion</option><option value='hiccups'>hiccups</option><option value='prevent'>prevent</option><option value='immune'>immune</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='indigestion' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Washing your hands can help <select class='vocab-select'><option value=''>── select ──</option><option value='chemist&#39;s'>chemist's</option><option value='indigestion'>indigestion</option><option value='hiccups'>hiccups</option><option value='prevent'>prevent</option><option value='immune'>immune</option></select> the spread of germs.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='prevent' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. A loud noise in your throat is called <select class='vocab-select'><option value=''>── select ──</option><option value='chemist&#39;s'>chemist's</option><option value='indigestion'>indigestion</option><option value='hiccups'>hiccups</option><option value='prevent'>prevent</option><option value='immune'>immune</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='hiccups' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ1: 身体症状と病気</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 身体的な, ウイルス, 花粉症, 症状, 感染</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 春には多くの人が花粉のせいで<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='身体的な'>身体的な</option><option value='ウイルス'>ウイルス</option><option value='花粉症'>花粉症</option><option value='症状'>症状</option><option value='感染'>感染</option></select>に苦しみます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='花粉症' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 傷口に<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='身体的な'>身体的な</option><option value='ウイルス'>ウイルス</option><option value='花粉症'>花粉症</option><option value='症状'>症状</option><option value='感染'>感染</option></select>がある場合は医者に行くべきです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='感染' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 病気のときは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='身体的な'>身体的な</option><option value='ウイルス'>ウイルス</option><option value='花粉症'>花粉症</option><option value='症状'>症状</option><option value='感染'>感染</option></select>を他の人に広める可能性があります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='ウイルス' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 風邪やインフルエンザは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='身体的な'>身体的な</option><option value='ウイルス'>ウイルス</option><option value='花粉症'>花粉症</option><option value='症状'>症状</option><option value='感染'>感染</option></select>問題です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='身体的な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. くしゃみや涙目はアレルギーの一般的な<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='身体的な'>身体的な</option><option value='ウイルス'>ウイルス</option><option value='花粉症'>花粉症</option><option value='症状'>症状</option><option value='感染'>感染</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='症状' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ2: 治療と回復</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 効果的な, 縫合, 回復する, 治療, セラピー</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 医師があなたの状態に最適な<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='効果的な'>効果的な</option><option value='縫合'>縫合</option><option value='回復する'>回復する</option><option value='治療'>治療</option><option value='セラピー'>セラピー</option></select>を決定します。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='治療' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 深い切り傷は傷を閉じるために<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='効果的な'>効果的な</option><option value='縫合'>縫合</option><option value='回復する'>回復する</option><option value='治療'>治療</option><option value='セラピー'>セラピー</option></select>が必要になることがあります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='縫合' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 心理学者と話すことは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='効果的な'>効果的な</option><option value='縫合'>縫合</option><option value='回復する'>回復する</option><option value='治療'>治療</option><option value='セラピー'>セラピー</option></select>の一部です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='セラピー' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 深刻な病気から<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='効果的な'>効果的な</option><option value='縫合'>縫合</option><option value='回復する'>回復する</option><option value='治療'>治療</option><option value='セラピー'>セラピー</option></select>には時間がかかります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='回復する' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 良い食事と運動は健康を維持するための<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='効果的な'>効果的な</option><option value='縫合'>縫合</option><option value='回復する'>回復する</option><option value='治療'>治療</option><option value='セラピー'>セラピー</option></select>方法を見つけるのに役立ちます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='効果的な' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ3: 精神的健康と態度</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 精神的な, うつ病, 不安, 態度, 専門的な</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 多くの人が軽度の<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='精神的な'>精神的な</option><option value='うつ病'>うつ病</option><option value='不安'>不安</option><option value='態度'>態度</option><option value='専門的な'>専門的な</option></select>や不安に苦しんでいます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='うつ病' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 精神的病気に対する私たちの<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='精神的な'>精神的な</option><option value='うつ病'>うつ病</option><option value='不安'>不安</option><option value='態度'>態度</option><option value='専門的な'>専門的な</option></select>を変えるべきです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='態度' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='精神的な'>精神的な</option><option value='うつ病'>うつ病</option><option value='不安'>不安</option><option value='態度'>態度</option><option value='専門的な'>専門的な</option></select>健康は身体的健康と同じくらい重要です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='精神的な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 必要な場合は<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='精神的な'>精神的な</option><option value='うつ病'>うつ病</option><option value='不安'>不安</option><option value='態度'>態度</option><option value='専門的な'>専門的な</option></select>助けを求めるべきです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='専門的な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. いつも心配で緊張しているのは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='精神的な'>精神的な</option><option value='うつ病'>うつ病</option><option value='不安'>不安</option><option value='態度'>態度</option><option value='専門的な'>専門的な</option></select>の兆候です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='不安' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ4: 日常生活の健康と予防</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 薬局, 消化不良, しゃっくり, 予防する, 免疫の</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 健康的な生活習慣は多くの病気に対して<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='薬局'>薬局</option><option value='消化不良'>消化不良</option><option value='しゃっくり'>しゃっくり</option><option value='予防する'>予防する</option><option value='免疫の'>免疫の</option></select>になるのに役立ちます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='免疫の' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 薬が必要な場合は<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='薬局'>薬局</option><option value='消化不良'>消化不良</option><option value='しゃっくり'>しゃっくり</option><option value='予防する'>予防する</option><option value='免疫の'>免疫の</option></select>に行くことができます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='薬局' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 食後にガスが溜まったり胃の調子が悪い場合は<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='薬局'>薬局</option><option value='消化不良'>消化不良</option><option value='しゃっくり'>しゃっくり</option><option value='予防する'>予防する</option><option value='免疫の'>免疫の</option></select>かもしれません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='消化不良' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 手を洗うことは細菌の拡散を<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='薬局'>薬局</option><option value='消化不良'>消化不良</option><option value='しゃっくり'>しゃっくり</option><option value='予防する'>予防する</option><option value='免疫の'>免疫の</option></select>のに役立ちます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='予防する' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 喉から出る大きな音は<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='薬局'>薬局</option><option value='消化不良'>消化不良</option><option value='しゃっくり'>しゃっくり</option><option value='予防する'>予防する</option><option value='免疫の'>免疫の</option></select>と呼ばれます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='しゃっくり' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1: Symptômes physiques et maladies</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: physique, virus, rhume des foins, symptôme, infection</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Au printemps, beaucoup de gens souffrent du <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='physique'>physique</option><option value='virus'>virus</option><option value='rhume des foins'>rhume des foins</option><option value='symptôme'>symptôme</option><option value='infection'>infection</option></select> à cause du pollen.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='rhume des foins' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Si vous avez une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='physique'>physique</option><option value='virus'>virus</option><option value='rhume des foins'>rhume des foins</option><option value='symptôme'>symptôme</option><option value='infection'>infection</option></select> dans une plaie, vous devriez consulter un médecin.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='infection' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Lorsque vous êtes malade, vous pouvez propager un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='physique'>physique</option><option value='virus'>virus</option><option value='rhume des foins'>rhume des foins</option><option value='symptôme'>symptôme</option><option value='infection'>infection</option></select> à d'autres personnes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='virus' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Un rhume ou la grippe est un problème <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='physique'>physique</option><option value='virus'>virus</option><option value='rhume des foins'>rhume des foins</option><option value='symptôme'>symptôme</option><option value='infection'>infection</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='physique' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. Les éternuements et les larmoiements sont des <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='physique'>physique</option><option value='virus'>virus</option><option value='rhume des foins'>rhume des foins</option><option value='symptôme'>symptôme</option><option value='infection'>infection</option></select>s courants des allergies.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='symptôme' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2: Traitement et rétablissement</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: efficace, points de suture, se rétablir, traitement, thérapie</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Le médecin décidera du meilleur <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='efficace'>efficace</option><option value='points de suture'>points de suture</option><option value='se rétablir'>se rétablir</option><option value='traitement'>traitement</option><option value='thérapie'>thérapie</option></select> pour votre état.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='traitement' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Une coupure profonde peut nécessiter des <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='efficace'>efficace</option><option value='points de suture'>points de suture</option><option value='se rétablir'>se rétablir</option><option value='traitement'>traitement</option><option value='thérapie'>thérapie</option></select> pour fermer la plaie.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='points de suture' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Parler à un psychologue peut faire partie d'une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='efficace'>efficace</option><option value='points de suture'>points de suture</option><option value='se rétablir'>se rétablir</option><option value='traitement'>traitement</option><option value='thérapie'>thérapie</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='thérapie' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Il faut du temps pour <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='efficace'>efficace</option><option value='points de suture'>points de suture</option><option value='se rétablir'>se rétablir</option><option value='traitement'>traitement</option><option value='thérapie'>thérapie</option></select> d'une maladie grave.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='se rétablir' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. Une bonne alimentation et l'exercice peuvent vous aider à trouver un moyen <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='efficace'>efficace</option><option value='points de suture'>points de suture</option><option value='se rétablir'>se rétablir</option><option value='traitement'>traitement</option><option value='thérapie'>thérapie</option></select> de rester en bonne santé.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='efficace' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3: Santé mentale et attitude</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: mental, dépression, anxiété, attitude, professionnel</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. De nombreuses personnes souffrent de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='mental'>mental</option><option value='dépression'>dépression</option><option value='anxiété'>anxiété</option><option value='attitude'>attitude</option><option value='professionnel'>professionnel</option></select> légère ou d'anxiété.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='dépression' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Nous devons changer notre <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='mental'>mental</option><option value='dépression'>dépression</option><option value='anxiété'>anxiété</option><option value='attitude'>attitude</option><option value='professionnel'>professionnel</option></select> envers la maladie mentale.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='attitude' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. La santé <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='mental'>mental</option><option value='dépression'>dépression</option><option value='anxiété'>anxiété</option><option value='attitude'>attitude</option><option value='professionnel'>professionnel</option></select> est tout aussi importante que la santé physique.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='mental' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Vous devriez demander de l'aide <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='mental'>mental</option><option value='dépression'>dépression</option><option value='anxiété'>anxiété</option><option value='attitude'>attitude</option><option value='professionnel'>professionnel</option></select> si vous en avez besoin.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='professionnel' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. Se sentir inquiet ou nerveux tout le temps est un signe d'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='mental'>mental</option><option value='dépression'>dépression</option><option value='anxiété'>anxiété</option><option value='attitude'>attitude</option><option value='professionnel'>professionnel</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='anxiété' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4: Santé quotidienne et prévention</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: pharmacie, indigestion, hoquet, prévenir, immunitaire</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Un mode de vie sain peut vous aider à devenir <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='pharmacie'>pharmacie</option><option value='indigestion'>indigestion</option><option value='hoquet'>hoquet</option><option value='prévenir'>prévenir</option><option value='immunitaire'>immunitaire</option></select> à de nombreuses maladies.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='immunitaire' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Si vous avez besoin de médicaments, vous pouvez visiter la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='pharmacie'>pharmacie</option><option value='indigestion'>indigestion</option><option value='hoquet'>hoquet</option><option value='prévenir'>prévenir</option><option value='immunitaire'>immunitaire</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='pharmacie' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Si vous avez des gaz ou un mauvais estomac après un repas, vous pourriez avoir une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='pharmacie'>pharmacie</option><option value='indigestion'>indigestion</option><option value='hoquet'>hoquet</option><option value='prévenir'>prévenir</option><option value='immunitaire'>immunitaire</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='indigestion' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Se laver les mains peut aider à <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='pharmacie'>pharmacie</option><option value='indigestion'>indigestion</option><option value='hoquet'>hoquet</option><option value='prévenir'>prévenir</option><option value='immunitaire'>immunitaire</option></select> la propagation des germes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='prévenir' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. Un bruit fort dans la gorge s'appelle le <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='pharmacie'>pharmacie</option><option value='indigestion'>indigestion</option><option value='hoquet'>hoquet</option><option value='prévenir'>prévenir</option><option value='immunitaire'>immunitaire</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='hoquet' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 신체 증상과 질병</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 신체적인, 바이러스, 꽃가루 알레르기, 증상, 감염</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 봄에는 많은 사람들이 꽃가루 때문에 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='신체적인'>신체적인</option><option value='바이러스'>바이러스</option><option value='꽃가루 알레르기'>꽃가루 알레르기</option><option value='증상'>증상</option><option value='감염'>감염</option></select>로 고통받습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='꽃가루 알레르기' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 상처에 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='신체적인'>신체적인</option><option value='바이러스'>바이러스</option><option value='꽃가루 알레르기'>꽃가루 알레르기</option><option value='증상'>증상</option><option value='감염'>감염</option></select>이 생기면 의사에게 가야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='감염' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 아플 때 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='신체적인'>신체적인</option><option value='바이러스'>바이러스</option><option value='꽃가루 알레르기'>꽃가루 알레르기</option><option value='증상'>증상</option><option value='감염'>감염</option></select>를 다른 사람에게 퍼뜨릴 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='바이러스' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 감기나 독감은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='신체적인'>신체적인</option><option value='바이러스'>바이러스</option><option value='꽃가루 알레르기'>꽃가루 알레르기</option><option value='증상'>증상</option><option value='감염'>감염</option></select> 문제입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='신체적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 재채기와 눈물은 알레르기의 흔한 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='신체적인'>신체적인</option><option value='바이러스'>바이러스</option><option value='꽃가루 알레르기'>꽃가루 알레르기</option><option value='증상'>증상</option><option value='감염'>감염</option></select>입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='증상' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 치료와 회복</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 효과적인, 봉합사, 회복하다, 치료, 요법</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 의사가 당신의 상태에 가장 적합한 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='효과적인'>효과적인</option><option value='봉합사'>봉합사</option><option value='회복하다'>회복하다</option><option value='치료'>치료</option><option value='요법'>요법</option></select>를 결정할 것입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='치료' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 깊은 상처는 봉합하기 위해 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='효과적인'>효과적인</option><option value='봉합사'>봉합사</option><option value='회복하다'>회복하다</option><option value='치료'>치료</option><option value='요법'>요법</option></select>가 필요할 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='봉합사' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 심리학자와 대화하는 것은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='효과적인'>효과적인</option><option value='봉합사'>봉합사</option><option value='회복하다'>회복하다</option><option value='치료'>치료</option><option value='요법'>요법</option></select>의 일부가 될 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='요법' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 심각한 질병에서 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='효과적인'>효과적인</option><option value='봉합사'>봉합사</option><option value='회복하다'>회복하다</option><option value='치료'>치료</option><option value='요법'>요법</option></select>는 시간이 걸립니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='회복하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 건강한 식단과 운동은 건강을 유지하는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='효과적인'>효과적인</option><option value='봉합사'>봉합사</option><option value='회복하다'>회복하다</option><option value='치료'>치료</option><option value='요법'>요법</option></select> 방법을 찾는 데 도움이 됩니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='효과적인' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3: 정신 건강과 태도</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 정신적인, 우울증, 불안, 태도, 전문적인</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 많은 사람들이 가벼운 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='정신적인'>정신적인</option><option value='우울증'>우울증</option><option value='불안'>불안</option><option value='태도'>태도</option><option value='전문적인'>전문적인</option></select>이나 불안으로 고통받습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='우울증' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 정신 질환에 대한 우리의 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='정신적인'>정신적인</option><option value='우울증'>우울증</option><option value='불안'>불안</option><option value='태도'>태도</option><option value='전문적인'>전문적인</option></select>를 바꿔야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='태도' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='정신적인'>정신적인</option><option value='우울증'>우울증</option><option value='불안'>불안</option><option value='태도'>태도</option><option value='전문적인'>전문적인</option></select> 건강은 신체적 건강만큼 중요합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='정신적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 필요하다면 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='정신적인'>정신적인</option><option value='우울증'>우울증</option><option value='불안'>불안</option><option value='태도'>태도</option><option value='전문적인'>전문적인</option></select> 도움을 구해야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='전문적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 항상 걱정하고 긴장하는 것은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='정신적인'>정신적인</option><option value='우울증'>우울증</option><option value='불안'>불안</option><option value='태도'>태도</option><option value='전문적인'>전문적인</option></select>의 징후입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='불안' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4: 일상 건강과 예방</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 약국, 소화불량, 딸꾹질, 예방하다, 면역의</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 건강한 생활 방식은 많은 질병에 대해 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='약국'>약국</option><option value='소화불량'>소화불량</option><option value='딸꾹질'>딸꾹질</option><option value='예방하다'>예방하다</option><option value='면역의'>면역의</option></select> 되는 데 도움이 됩니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='면역의' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 약이 필요하면 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='약국'>약국</option><option value='소화불량'>소화불량</option><option value='딸꾹질'>딸꾹질</option><option value='예방하다'>예방하다</option><option value='면역의'>면역의</option></select>에 갈 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='약국' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 식사 후 가스가 차거나 속이 안 좋으면 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='약국'>약국</option><option value='소화불량'>소화불량</option><option value='딸꾹질'>딸꾹질</option><option value='예방하다'>예방하다</option><option value='면역의'>면역의</option></select>일 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='소화불량' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 손을 씻는 것은 세균 확산을 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='약국'>약국</option><option value='소화불량'>소화불량</option><option value='딸꾹질'>딸꾹질</option><option value='예방하다'>예방하다</option><option value='면역의'>면역의</option></select>하는 데 도움이 됩니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='예방하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 목에서 나는 큰 소리는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='약국'>약국</option><option value='소화불량'>소화불량</option><option value='딸꾹질'>딸꾹질</option><option value='예방하다'>예방하다</option><option value='면역의'>면역의</option></select>이라고 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='딸꾹질' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "The text discusses various health issues and how to handle them. <b>What are the physical symptoms of the flu and hay fever</b>, and <b>what advice does the text give for each</b>?",
+    "ja": "テキストは様々な健康問題とその対処法について議論しています。<b>インフルエンザと花粉症の身体的症状は何ですか</b>、そして<b>それぞれに対してテキストはどのようなアドバイスをしていますか</b>？",
+    "fr": "Le texte aborde divers problèmes de santé et comment les gérer. <b>Quels sont les symptômes physiques de la grippe et du rhume des foins</b>, et <b>quels conseils le texte donne-t-il pour chacun</b> ?",
+    "ko": "텍스트는 다양한 건강 문제와 그 처리 방법에 대해 논의합니다. <b>독감과 꽃가루 알레르기의 신체적 증상은 무엇이며</b>, <b>각각에 대해 텍스트가 제시하는 조언은 무엇인가요</b>?"
+  },
+  "content_check_keywords": {
+    "en": "weak and tired, muscles ache, sneezing, eyes water, should go home, ought to wear sunglasses, chemist's",
+    "ja": "弱さと疲れ、筋肉痛、くしゃみ、涙目、家に帰るべき、サングラスを着用すべき、薬局",
+    "fr": "faible et fatigué, muscles endoloris, éternuements, yeux qui pleurent, devriez rentrer chez vous, devriez porter des lunettes de soleil, pharmacie",
+    "ko": "약하고 피곤함, 근육통, 재채기, 눈물, 집에 가야 한다, 선글라스를 착용해야 한다, 약국"
+  },
+  "content_check_placeholder": {
+    "en": "Explain the symptoms and the advice given for flu and hay fever...",
+    "ja": "インフルエンザと花粉症の症状とアドバイスを説明してください...",
+    "fr": "Expliquez les symptômes et les conseils donnés pour la grippe et le rhume des foins...",
+    "ko": "독감과 꽃가루 알레르기의 증상과 조언을 설명하세요..."
+  },
+  "deepening_question": {
+    "en": "The reading <b>'Not Just All in the Mind'</b> explains that mental illnesses like <b>depression</b> or <b>anxiety</b> often have physical or chemical causes in the brain. It suggests we should treat them like any other illness.<br><br><b>In your opinion, why do some people find it difficult to talk about their mental health? What is one way society can change its 'negative attitude'?</b>",
+    "ja": "リーディング<b>「心の中だけではない」</b>は、<b>うつ病</b>や<b>不安</b>などの精神疾患が脳内に身体的または化学的原因を持つことが多いと説明しています。それは私たちがそれらを他の病気と同じように扱うべきだと示唆しています。<br><br><b>あなたの意見では、なぜ一部の人は自分のメンタルヘルスについて話すことが難しいと感じるのでしょうか？社会がその「否定的な態度」を変えるための一つの方法は何ですか？</b>",
+    "fr": "La lecture <b>« Pas seulement dans la tête »</b> explique que les maladies mentales comme la <b>dépression</b> ou l'<b>anxiété</b> ont souvent des causes physiques ou chimiques dans le cerveau. Elle suggère que nous devrions les traiter comme n'importe quelle autre maladie.<br><br><b>À votre avis, pourquoi certaines personnes ont-elles du mal à parler de leur santé mentale ? Quelle est une façon dont la société peut changer son « attitude négative » ?</b>",
+    "ko": "<b>'단지 마음의 문제가 아니다'</b>라는 읽기 자료는 <b>우울증</b>이나 <b>불안</b>과 같은 정신 질환이 종종 뇌에 신체적 또는 화학적 원인을 가지고 있다고 설명합니다. 그것은 우리가 그것들을 다른 질병처럼 치료해야 한다고 제안합니다.<br><br><b>여러분의 의견으로는, 왜 어떤 사람들은 자신의 정신 건강에 대해 이야기하는 것이 어렵다고 생각하나요? 사회가 '부정적인 태도'를 바꿀 수 있는 한 가지 방법은 무엇일까요?</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I think it is difficult because... We can change this by...",
+    "ja": "難しい理由は... これを変えるためには...",
+    "fr": "Je pense que c'est difficile parce que... Nous pouvons changer cela en...",
+    "ko": "어려운 이유는... 이것을 바꾸는 방법은..."
+  },
+  "critical_question": {
+    "en": "We have explored how our <b>mind and body</b> are connected. We learned about <b>giving advice</b> for physical injuries (cuts, burns) and common illnesses, but we also learned that <b>mental health</b> requires the same level of care and respect.<br><br><b>Which do you think is harder to manage: a 'physical illness' (like the flu or an injury) or a 'mental challenge' (like stress or anxiety)? <br>Support your answer by using the grammar we learned (should, ought to, why don't you) to give advice to someone facing that specific challenge.</b>",
+    "ja": "私たちは<b>心と体</b>がどのようにつながっているかを探求してきました。身体的傷害（切り傷、火傷）や一般的な病気に対する<b>アドバイスの与え方</b>を学びましたが、<b>メンタルヘルス</b>も同じレベルのケアと尊重を必要とすることを学びました。<br><br><b>管理が難しいのはどちらだと思いますか：「身体的病気」（インフルエンザや怪我）ですか、それとも「精神的課題」（ストレスや不安）ですか？<br>学んだ文法（should、ought to、why don't you）を使って、その特定の課題に直面している人にアドバイスを与えることで、あなたの答えを裏付けてください。</b>",
+    "fr": "Nous avons exploré comment notre <b>esprit et notre corps</b> sont connectés. Nous avons appris à <b>donner des conseils</b> pour les blessures physiques (coupures, brûlures) et les maladies courantes, mais nous avons également appris que la <b>santé mentale</b> nécessite le même niveau de soins et de respect.<br><br><b>Que pensez-vous qui est le plus difficile à gérer : une « maladie physique » (comme la grippe ou une blessure) ou un « défi mental » (comme le stress ou l'anxiété) ? <br>Étayez votre réponse en utilisant la grammaire que nous avons apprise (should, ought to, why don't you) pour donner des conseils à quelqu'un confronté à ce défi spécifique.</b>",
+    "ko": "우리는 <b>마음과 몸</b>이 어떻게 연결되어 있는지 탐구했습니다. 신체적 부상(베임, 화상)과 일반적인 질병에 대한 <b>조언 제공</b>에 대해 배웠지만, <b>정신 건강</b>도 동일한 수준의 돌봄과 존중이 필요하다는 것을 배웠습니다.<br><br><b>관리하기 더 어려운 것은 무엇이라고 생각하나요: '신체적 질병'(독감이나 부상 등)인가요, 아니면 '정신적 도전'(스트레스나 불안 등)인가요?<br>우리가 배운 문법(should, ought to, why don't you)을 사용하여 그 특정 도전에 직면한 사람에게 조언을 줌으로써 답변을 뒷받침하세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "Compare physical vs. mental challenges. Use advice-giving grammar to support your ideas based on the unit's themes...",
+    "ja": "身体的課題と精神的課題を比較してください。ユニットのテーマに基づいて、アドバイスを与える文法を使ってあなたの考えを裏付けてください...",
+    "fr": "Comparez les défis physiques et mentaux. Utilisez la grammaire des conseils pour étayer vos idées basées sur les thèmes de l'unité...",
+    "ko": "신체적 도전과 정신적 도전을 비교하세요. 유닛의 주제를 바탕으로 조언 제공 문법을 사용하여 자신의 생각을 뒷받침하세요..."
+  }
+}

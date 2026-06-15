@@ -1,0 +1,2354 @@
+{
+  "title": {
+    "en": "Family and Friends",
+    "ja": "家族と友人",
+    "fr": "Famille et Amis",
+    "ko": "가족과 친구"
+  },
+  "topic": {
+    "en": "Relationships, personality, communication",
+    "ja": "人間関係、性格、コミュニケーション",
+    "fr": "Relations, personnalité, communication",
+    "ko": "관계, 성격, 의사소통"
+  },
+  "core_title": {
+    "en": "Human Connections",
+    "ja": "人間のつながり",
+    "fr": "Connexions Humaines",
+    "ko": "인간관계"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'><strong>Part 1: The Web of Relationships</strong></p><p>Our lives are built upon the connections we <strong>forge</strong> with others. Family and friends form a <strong>support network</strong> that shapes our daily experiences and long-term happiness. Consider Maya and Laura: they are colleagues, but their bond extends beyond the office through shared coffee breaks and <strong>heartfelt</strong> conversations. Similarly, Maya's friendship with Anna, an exchange student from Poland, demonstrates how relationships can <strong>transcend</strong> borders. These <strong>interpersonal</strong> ties are not just pleasant; they are essential for our mental and emotional well-being. Psychologists have long noted that people with strong social connections are generally healthier and more <strong>resilient</strong> in facing life's challenges. Whether it's a <strong><span class='vocab-link' id='text-caring' onclick='speakAndScroll(\"caring\", \"vocab-caring\")'>caring</span></strong> sibling, a <strong><span class='vocab-link' id='text-strict' onclick='speakAndScroll(\"strict\", \"vocab-strict\")'>strict</span></strong> parent who sets boundaries, or a <strong><span class='vocab-link' id='text-patient' onclick='speakAndScroll(\"patient\", \"vocab-patient\")'>patient</span></strong> friend who listens without judgment, each relationship teaches us something valuable about ourselves and others.</p><p><strong>Part 2: The Making of Character</strong></p><p>What makes us who we are? This <strong>fundamental</strong> question lies at the heart of the nature versus nurture debate. Our biology provides the raw material—the DNA we <strong><span class='vocab-link' id='text-inherit' onclick='speakAndScroll(\"inherit\", \"vocab-inherit\")'>inherit</span></strong> from our parents may <strong><span class='vocab-link' id='text-predispose' onclick='speakAndScroll(\"predispose\", \"vocab-predispose\")'>predispose</span></strong> us to be <strong><span class='vocab-link' id='text-bright' onclick='speakAndScroll(\"bright\", \"vocab-bright\")'>bright</span></strong>, <strong>anxious</strong>, or <strong>impulsive</strong>. However, our environment acts as the sculptor. The way our parents <strong><span class='vocab-link' id='text-nurtured' onclick='speakAndScroll(\"nurtured\", \"vocab-nurtured\")'>nurtured</span></strong> us, the friends we chose, and the experiences we <strong>encountered</strong> all leave lasting imprints on our character. A child raised in a loving, communicative home may develop <strong><span class='vocab-link' id='text-empathy' onclick='speakAndScroll(\"empathy\", \"vocab-empathy\")'>empathy</span></strong> and confidence, while another faced with neglect might struggle with trust. Yet, we are not merely products of our past; we have the <strong><span class='vocab-link' id='text-agency' onclick='speakAndScroll(\"agency\", \"vocab-agency\")'>agency</span></strong> to reflect, learn, and change. Personality is not a fixed <strong><span class='vocab-link' id='text-trait' onclick='speakAndScroll(\"trait\", \"vocab-trait\")'>trait</span></strong> but a living, evolving story shaped by a <strong><span class='vocab-link' id='text-dynamic' onclick='speakAndScroll(\"dynamic\", \"vocab-dynamic\")'>dynamic</span></strong> interplay between our genes and our journey through life.</p><p><strong>Part 3: The Bridge of Communication</strong></p><p>To maintain these bonds and express our evolving selves, we must master the art of communication. Humans are the great communicators, having <strong><span class='vocab-link' id='text-devise' onclick='speakAndScroll(\"devise\", \"vocab-devise\")'>devised</span></strong> around 6,000 languages to share ideas, tell stories, and coordinate actions. We can write poetry to express love, tell jokes to build camaraderie, make promises to show commitment, and offer apologies to mend fences. This ability to discuss not only the present but also the past and our <strong>future intentions</strong> sets us apart from other species. Animals certainly exchange information—bees dance to indicate food sources, and monkeys use facial expressions to signal danger or <strong><span class='vocab-link' id='text-affection' onclick='speakAndScroll(\"affection\", \"vocab-affection\")'>affection</span></strong>. However, animal communication is largely <strong><span class='vocab-link' id='text-instinctive' onclick='speakAndScroll(\"instinctive\", \"vocab-instinctive\")'>instinctive</span></strong> and tied to immediate needs. Human language, in contrast, is <strong><span class='vocab-link' id='text-symbolic' onclick='speakAndScroll(\"symbolic\", \"vocab-symbolic\")'>symbolic</span></strong>, <strong><span class='vocab-link' id='text-creative' onclick='speakAndScroll(\"creative\", \"vocab-creative\")'>creative</span></strong>, and <strong><span class='vocab-link' id='text-generative' onclick='speakAndScroll(\"generative\", \"vocab-generative\")'>generative</span></strong>, allowing us to discuss abstract concepts, hypothetical scenarios, and shared memories. It is this unique capacity that allows us to build civilizations, pass down knowledge, and truly understand one another across time and space.</p>",
+    "ja": "<p style='margin-top:0;'><strong>パート1: 人間関係の網</strong></p><p>私たちの人生は、他者と<strong>築く</strong>つながりの上に成り立っています。家族や友人は、私たちの日々の経験や長期的な幸福を形作る<strong>支援ネットワーク</strong>を形成します。マヤとローラを考えてみましょう。彼女たちは同僚ですが、一緒にコーヒーブレイクを楽しむことで、職場を超えた絆を深めています。同様に、マヤとポーランドからの交換留学生アンナとの友情は、人間関係がいかに国境を<strong>超越</strong>できるかを示しています。これらの<strong>対人</strong>関係は単に楽しいだけでなく、私たちの精神的・感情的な幸福に不可欠です。心理学者は長年にわたり、強い社会的つながりを持つ人々は一般的に健康で、人生の困難に対してより<strong>回復力</strong>があることを指摘しています。それは、<strong><span class='vocab-link' id='text-caring' onclick='speakAndScroll(\"caring\", \"vocab-caring\")'>思いやりのある</span></strong>兄弟姉妹、境界を設定する<strong><span class='vocab-link' id='text-strict' onclick='speakAndScroll(\"strict\", \"vocab-strict\")'>厳格な</span></strong>親、または判断せずに耳を傾ける<strong><span class='vocab-link' id='text-patient' onclick='speakAndScroll(\"patient\", \"vocab-patient\")'>忍耐強い</span></strong>友人であれ、それぞれの関係が私たちに自分自身や他者について貴重な何かを教えてくれます。</p><p><strong>パート2: 性格の形成</strong></p><p>何が私たちを私たち自身にしているのでしょうか？この<strong>根本的な</strong>問いは、天性対育ちの議論の核心にあります。私たちの生物学的性質は原材料を提供します—両親から<strong><span class='vocab-link' id='text-inherit' onclick='speakAndScroll(\"inherit\", \"vocab-inherit\")'>受け継ぐ</span></strong>DNAは、私たちが<strong><span class='vocab-link' id='text-bright' onclick='speakAndScroll(\"bright\", \"vocab-bright\")'>賢く</span></strong>、<strong>不安になりやすく</strong>、または<strong>衝動的に</strong>なる<strong><span class='vocab-link' id='text-predispose' onclick='speakAndScroll(\"predispose\", \"vocab-predispose\")'>素因</span></strong>を与えるかもしれません。しかし、私たちの環境は彫刻家の役割を果たします。両親が私たちをどのように<strong><span class='vocab-link' id='text-nurtured' onclick='speakAndScroll(\"nurtured\", \"vocab-nurtured\")'>育てたか</span></strong>、私たちが選んだ友人、そして<strong>経験した</strong>出来事はすべて、私たちの性格に永続的な印象を残します。愛情にあふれたコミュニケーションの取れる家庭で育った子どもは<strong><span class='vocab-link' id='text-empathy' onclick='speakAndScroll(\"empathy\", \"vocab-empathy\")'>共感力</span></strong>と自信を育むかもしれませんが、ネグレクトに直面した子どもは信頼に苦しむかもしれません。それでも、私たちは単に過去の産物ではありません。私たちには、反省し、学び、変化するための<strong><span class='vocab-link' id='text-agency' onclick='speakAndScroll(\"agency\", \"vocab-agency\")'>主体性</span></strong>があります。性格は固定された<strong><span class='vocab-link' id='text-trait' onclick='speakAndScroll(\"trait\", \"vocab-trait\")'>特性</span></strong>ではなく、私たちの遺伝子と人生の旅路との<strong><span class='vocab-link' id='text-dynamic' onclick='speakAndScroll(\"dynamic\", \"vocab-dynamic\")'>動的な</span></strong>相互作用によって形作られる、生き生きとした進化する物語です。</p><p><strong>パート3: コミュニケーションの架け橋</strong></p><p>これらの絆を維持し、進化する自分自身を表現するために、私たちはコミュニケーションの技術を習得しなければなりません。人間は偉大なコミュニケーターであり、アイデアを共有し、物語を語り、行動を調整するために約6,000の言語を<strong><span class='vocab-link' id='text-devise' onclick='speakAndScroll(\"devise\", \"vocab-devise\")'>考案してきました</span></strong>。私たちは愛を表現する詩を書き、親交を深める冗談を言い、約束をして誠意を示し、謝罪して関係を修復することができます。現在だけでなく過去や私たちの<strong>将来の意図</strong>についても議論できるこの能力が、私たちを他の種から際立たせています。動物も確かに情報を交換します—ミツバチは踊って餌場を示し、サルは顔の表情で危険や<strong><span class='vocab-link' id='text-affection' onclick='speakAndScroll(\"affection\", \"vocab-affection\")'>愛情</span></strong>を伝えます。しかし、動物のコミュニケーションは大部分が<strong><span class='vocab-link' id='text-instinctive' onclick='speakAndScroll(\"instinctive\", \"vocab-instinctive\")'>本能的</span></strong>であり、即時の欲求に結びついています。対照的に、人間の言語は<strong><span class='vocab-link' id='text-symbolic' onclick='speakAndScroll(\"symbolic\", \"vocab-symbolic\")'>象徴的</span></strong>で<strong><span class='vocab-link' id='text-creative' onclick='speakAndScroll(\"creative\", \"vocab-creative\")'>創造的</span></strong>かつ<strong><span class='vocab-link' id='text-generative' onclick='speakAndScroll(\"generative\", \"vocab-generative\")'>生成的</span></strong>であり、抽象的な概念、仮説的なシナリオ、共有された記憶について議論することを可能にします。このユニークな能力こそが、私たちが文明を築き、知識を伝承し、時空を超えて互いを真に理解することを可能にしているのです。</p>",
+    "fr": "<p style='margin-top:0;'><strong>Partie 1: Le Tissu des Relations</strong></p><p>Nos vies sont construites sur les liens que nous <strong>forgeons</strong> avec les autres. La famille et les amis forment un <strong>réseau de soutien</strong> qui façonne nos expériences quotidiennes et notre bonheur à long terme. Prenons Maya et Laura : ce sont des collègues, mais leur lien s'étend au-delà du bureau grâce à des pauses café partagées et des conversations <strong>sincères</strong>. De même, l'amitié de Maya avec Anna, une étudiante d'échange polonaise, démontre comment les relations peuvent <strong>transcender</strong> les frontières. Ces liens <strong>interpersonnels</strong> ne sont pas seulement agréables ; ils sont essentiels à notre bien-être mental et émotionnel. Les psychologues ont longtemps noté que les personnes ayant des liens sociaux solides sont généralement plus saines et plus <strong>résilientes</strong> face aux défis de la vie. Qu'il s'agisse d'un frère ou d'une sœur <strong><span class='vocab-link' id='text-caring' onclick='speakAndScroll(\"caring\", \"vocab-caring\")'>attentionné</span></strong>, d'un parent <strong><span class='vocab-link' id='text-strict' onclick='speakAndScroll(\"strict\", \"vocab-strict\")'>strict</span></strong> qui fixe des limites, ou d'un ami <strong><span class='vocab-link' id='text-patient' onclick='speakAndScroll(\"patient\", \"vocab-patient\")'>patient</span></strong> qui écoute sans jugement, chaque relation nous enseigne quelque chose de précieux sur nous-mêmes et sur les autres.</p><p><strong>Partie 2: La Formation du Caractère</strong></p><p>Qu'est-ce qui fait de nous ce que nous sommes ? Cette question <strong>fondamentale</strong> se trouve au cœur du débat entre la nature et la culture. Notre biologie fournit la matière première—l'ADN que nous <strong><span class='vocab-link' id='text-inherit' onclick='speakAndScroll(\"inherit\", \"vocab-inherit\")'>héritons</span></strong> de nos parents peut nous <strong><span class='vocab-link' id='text-predispose' onclick='speakAndScroll(\"predispose\", \"vocab-predispose\")'>prédisposer</span></strong> à être <strong><span class='vocab-link' id='text-bright' onclick='speakAndScroll(\"bright\", \"vocab-bright\")'>intelligent</span></strong>, <strong>anxieux</strong> ou <strong>impulsif</strong>. Cependant, notre environnement agit comme un sculpteur. La façon dont nos parents nous ont <strong><span class='vocab-link' id='text-nurtured' onclick='speakAndScroll(\"nurtured\", \"vocab-nurtured\")'>élevés</span></strong>, les amis que nous avons choisis et les expériences que nous avons <strong>rencontrées</strong> laissent tous des empreintes durables sur notre caractère. Un enfant élevé dans un foyer aimant et communicatif peut développer l'<strong><span class='vocab-link' id='text-empathy' onclick='speakAndScroll(\"empathy\", \"vocab-empathy\")'>empathie</span></strong> et la confiance, tandis qu'un autre confronté à la négligence peut avoir du mal à faire confiance. Pourtant, nous ne sommes pas simplement des produits de notre passé ; nous avons la <strong><span class='vocab-link' id='text-agency' onclick='speakAndScroll(\"agency\", \"vocab-agency\")'>capacité d'agir</span></strong> pour réfléchir, apprendre et changer. La personnalité n'est pas un <strong><span class='vocab-link' id='text-trait' onclick='speakAndScroll(\"trait\", \"vocab-trait\")'>trait</span></strong> fixe mais une histoire vivante et évolutive, façonnée par une interaction <strong><span class='vocab-link' id='text-dynamic' onclick='speakAndScroll(\"dynamic\", \"vocab-dynamic\")'>dynamique</span></strong> entre nos gènes et notre parcours de vie.</p><p><strong>Partie 3: Le Pont de la Communication</strong></p><p>Pour maintenir ces liens et exprimer notre moi en évolution, nous devons maîtriser l'art de la communication. Les humains sont les grands communicateurs, ayant <strong><span class='vocab-link' id='text-devise' onclick='speakAndScroll(\"devise\", \"vocab-devise\")'>conçu</span></strong> environ 6 000 langues pour partager des idées, raconter des histoires et coordonner des actions. Nous pouvons écrire de la poésie pour exprimer l'amour, raconter des blagues pour créer des liens, faire des promesses pour montrer notre engagement et présenter des excuses pour réparer les torts. Cette capacité à discuter non seulement du présent mais aussi du passé et de nos <strong>intentions futures</strong> nous distingue des autres espèces. Les animaux échangent certainement des informations—les abeilles dansent pour indiquer les sources de nourriture, et les singes utilisent des expressions faciales pour signaler le danger ou l'<strong><span class='vocab-link' id='text-affection' onclick='speakAndScroll(\"affection\", \"vocab-affection\")'>affection</span></strong>. Cependant, la communication animale est largement <strong><span class='vocab-link' id='text-instinctive' onclick='speakAndScroll(\"instinctive\", \"vocab-instinctive\")'>instinctive</span></strong> et liée à des besoins immédiats. Le langage humain, en revanche, est <strong><span class='vocab-link' id='text-symbolic' onclick='speakAndScroll(\"symbolic\", \"vocab-symbolic\")'>symbolique</span></strong>, <strong><span class='vocab-link' id='text-creative' onclick='speakAndScroll(\"creative\", \"vocab-creative\")'>créatif</span></strong> et <strong><span class='vocab-link' id='text-generative' onclick='speakAndScroll(\"generative\", \"vocab-generative\")'>génératif</span></strong>, nous permettant de discuter de concepts abstraits, de scénarios hypothétiques et de souvenirs partagés. C'est cette capacité unique qui nous permet de construire des civilisations, de transmettre des connaissances et de nous comprendre véritablement à travers le temps et l'espace.</p>",
+    "ko": "<p style='margin-top:0;'><strong>파트 1: 관계의 그물망</strong></p><p>우리의 삶은 다른 사람들과 <strong>맺는</strong> 연결 위에 세워집니다. 가족과 친구들은 우리의 일상 경험과 장기적인 행복을 형성하는 <strong>지원 네트워크</strong>를 구성합니다. Maya와 Laura를 생각해 보세요. 그들은 동료이지만, 함께 커피를 마시며 나누는 대화를 통해 직장을 넘어서는 유대감을 형성합니다. 마찬가지로, Maya와 폴란드 교환학생 Anna의 우정은 관계가 어떻게 국경을 <strong>초월</strong>할 수 있는지 보여줍니다. 이러한 <strong>대인관계적</strong> 유대는 단순히 즐거울 뿐만 아니라 우리의 정신적, 정서적 웰빙에 필수적입니다. 심리학자들은 오랫동안 강한 사회적 연결을 가진 사람들이 일반적으로 더 건강하고 인생의 도전에 더 <strong>회복력</strong>이 있음을 지적해 왔습니다. <strong><span class='vocab-link' id='text-caring' onclick='speakAndScroll(\"caring\", \"vocab-caring\")'>다정한</span></strong> 형제자매, 경계를 설정하는 <strong><span class='vocab-link' id='text-strict' onclick='speakAndScroll(\"strict\", \"vocab-strict\")'>엄격한</span></strong> 부모, 또는 판단 없이 들어주는 <strong><span class='vocab-link' id='text-patient' onclick='speakAndScroll(\"patient\", \"vocab-patient\")'>참을성 있는</span></strong> 친구이든, 각 관계는 우리 자신과 타인에 대해 소중한 무언가를 가르쳐 줍니다.</p><p><strong>파트 2: 성격의 형성</strong></p><p>무엇이 우리를 우리 자신으로 만드는 걸까요? 이 <strong>근본적인</strong> 질문은 타고난 성격 대 환경적 영향 논쟁의 핵심에 있습니다. 우리의 생물학은 원자재를 제공합니다—부모로부터 <strong><span class='vocab-link' id='text-inherit' onclick='speakAndScroll(\"inherit\", \"vocab-inherit\")'>물려받은</span></strong> DNA는 우리가 <strong><span class='vocab-link' id='text-bright' onclick='speakAndScroll(\"bright\", \"vocab-bright\")'>똑똑</span></strong>하거나, <strong>불안</strong>하거나, <strong>충동적</strong>이 되도록 <strong><span class='vocab-link' id='text-predispose' onclick='speakAndScroll(\"predispose\", \"vocab-predispose\")'>소인</span></strong>을 줄 수 있습니다. 그러나 우리의 환경은 조각가 역할을 합니다. 부모님이 우리를 어떻게 <strong><span class='vocab-link' id='text-nurtured' onclick='speakAndScroll(\"nurtured\", \"vocab-nurtured\")'>양육</span></strong>했는지, 우리가 선택한 친구들, 그리고 우리가 <strong>경험한</strong> 일들은 모두 우리의 성격에 지속적인 흔적을 남깁니다. 사랑이 넘치고 소통이 원활한 가정에서 자란 아이는 <strong><span class='vocab-link' id='text-empathy' onclick='speakAndScroll(\"empathy\", \"vocab-empathy\")'>공감 능력</span></strong>과 자신감을 키울 수 있는 반면, 방임에 직면한 아이는 신뢰에 어려움을 겪을 수 있습니다. 그럼에도 불구하고, 우리는 단순히 과거의 산물이 아닙니다. 우리에게는 성찰하고, 배우고, 변화할 수 있는 <strong><span class='vocab-link' id='text-agency' onclick='speakAndScroll(\"agency\", \"vocab-agency\")'>주체성</span></strong>이 있습니다. 성격은 고정된 <strong><span class='vocab-link' id='text-trait' onclick='speakAndScroll(\"trait\", \"vocab-trait\")'>특성</span></strong>이 아니라, 우리의 유전자와 인생 여정 사이의 <strong><span class='vocab-link' id='text-dynamic' onclick='speakAndScroll(\"dynamic\", \"vocab-dynamic\")'>역동적인</span></strong> 상호작용에 의해 형성되는 살아있고 진화하는 이야기입니다.</p><p><strong>파트 3: 소통의 다리</strong></p><p>이러한 유대를 유지하고 진화하는 자아를 표현하기 위해, 우리는 소통의 기술을 익혀야 합니다. 인간은 위대한 소통자로서, 아이디어를 공유하고 이야기를 전하며 행동을 조정하기 위해 약 6,000개의 언어를 <strong><span class='vocab-link' id='text-devise' onclick='speakAndScroll(\"devise\", \"vocab-devise\")'>고안</span></strong>해 왔습니다. 우리는 사랑을 표현하는 시를 쓰고, 친밀감을 쌓는 농담을 하고, 헌신을 보여주는 약속을 하고, 관계를 회복하는 사과를 할 수 있습니다. 현재뿐만 아니라 과거와 우리의 <strong>미래 의도</strong>에 대해 논의할 수 있는 이 능력은 우리를 다른 종들과 차별화합니다. 동물들도 확실히 정보를 교환합니다—벌은 춤으로 먹이 공급처를 알리고, 원숭이는 얼굴 표정으로 위험이나 <strong><span class='vocab-link' id='text-affection' onclick='speakAndScroll(\"affection\", \"vocab-affection\")'>애정</span></strong>을 신호로 보냅니다. 그러나 동물의 의사소통은 대부분 <strong><span class='vocab-link' id='text-instinctive' onclick='speakAndScroll(\"instinctive\", \"vocab-instinctive\")'>본능적</span></strong>이며 즉각적인 필요에 묶여 있습니다. 반면, 인간의 언어는 <strong><span class='vocab-link' id='text-symbolic' onclick='speakAndScroll(\"symbolic\", \"vocab-symbolic\")'>상징적</span></strong>이고 <strong><span class='vocab-link' id='text-creative' onclick='speakAndScroll(\"creative\", \"vocab-creative\")'>창의적</span></strong>이며 <strong><span class='vocab-link' id='text-generative' onclick='speakAndScroll(\"generative\", \"vocab-generative\")'>생성적</span></strong>이어서, 추상적 개념, 가상 시나리오, 공유된 기억에 대해 논의할 수 있게 해줍니다. 바로 이 독특한 능력이 우리가 문명을 건설하고, 지식을 전수하며, 시간과 공간을 넘어 서로를 진정으로 이해할 수 있게 해주는 것입니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "caring",
+        "word": "Caring",
+        "definition": "Showing kindness and concern for others."
+      },
+      {
+        "id": "strict",
+        "word": "Strict",
+        "definition": "Someone who thinks rules must be followed."
+      },
+      {
+        "id": "patient",
+        "word": "Patient",
+        "definition": "Prepared to wait / able to stay calm."
+      },
+      {
+        "id": "inherit",
+        "word": "Inherit",
+        "definition": "To receive genetic characteristics from your parents."
+      },
+      {
+        "id": "predispose",
+        "word": "Predispose",
+        "definition": "To make someone more likely to behave in a particular way or suffer from a condition."
+      },
+      {
+        "id": "bright",
+        "word": "Bright",
+        "definition": "Quick to understand and very smart."
+      },
+      {
+        "id": "nurtured",
+        "word": "Nurtured",
+        "definition": "Cared for and encouraged to grow or develop."
+      },
+      {
+        "id": "empathy",
+        "word": "Empathy",
+        "definition": "The ability to understand and share the feelings of another."
+      },
+      {
+        "id": "agency",
+        "word": "Agency",
+        "definition": "The ability to take action or make choices independently."
+      },
+      {
+        "id": "trait",
+        "word": "Trait",
+        "definition": "A distinguishing quality or characteristic, typically of a person's personality."
+      },
+      {
+        "id": "dynamic",
+        "word": "Dynamic",
+        "definition": "Characterized by constant change, activity, or progress."
+      },
+      {
+        "id": "devise",
+        "word": "Devise",
+        "definition": "To plan, invent, or create a system or method carefully."
+      },
+      {
+        "id": "affection",
+        "word": "Affection",
+        "definition": "A gentle feeling of fondness or liking for someone."
+      },
+      {
+        "id": "instinctive",
+        "word": "Instinctive",
+        "definition": "Based on instinct or a natural tendency, not learned."
+      },
+      {
+        "id": "symbolic",
+        "word": "Symbolic",
+        "definition": "Using symbols to represent ideas or qualities."
+      },
+      {
+        "id": "creative",
+        "word": "Creative",
+        "definition": "Relating to or involving the use of imagination to produce new ideas."
+      },
+      {
+        "id": "generative",
+        "word": "Generative",
+        "definition": "Having the ability to produce or create something new."
+      }
+    ],
+    "ja": [
+      {
+        "id": "caring",
+        "word": "思いやりのある",
+        "definition": "他人に対して親切と関心を示すこと。"
+      },
+      {
+        "id": "strict",
+        "word": "厳格な",
+        "definition": "規則を守らなければならないと考える人。"
+      },
+      {
+        "id": "patient",
+        "word": "忍耐強い",
+        "definition": "待つ覚悟がある / 冷静でいられる。"
+      },
+      {
+        "id": "inherit",
+        "word": "受け継ぐ",
+        "definition": "両親から遺伝的特徴を受け取ること。"
+      },
+      {
+        "id": "predispose",
+        "word": "素因を与える",
+        "definition": "特定の行動をとったり状態になりやすくすること。"
+      },
+      {
+        "id": "bright",
+        "word": "賢い",
+        "definition": "理解が早く、非常に頭が良い。"
+      },
+      {
+        "id": "nurtured",
+        "word": "育てられた",
+        "definition": "成長や発達のために世話され励まされた。"
+      },
+      {
+        "id": "empathy",
+        "word": "共感力",
+        "definition": "他人の気持ちを理解し共有する能力。"
+      },
+      {
+        "id": "agency",
+        "word": "主体性",
+        "definition": "独立して行動したり選択をする能力。"
+      },
+      {
+        "id": "trait",
+        "word": "特性",
+        "definition": "特に性格における際立った品質や特徴。"
+      },
+      {
+        "id": "dynamic",
+        "word": "動的な",
+        "definition": "絶え間ない変化、活動、進歩を特徴とする。"
+      },
+      {
+        "id": "devise",
+        "word": "考案する",
+        "definition": "システムや方法を慎重に計画し発明すること。"
+      },
+      {
+        "id": "affection",
+        "word": "愛情",
+        "definition": "誰かに対する優しい好意や好みの感情。"
+      },
+      {
+        "id": "instinctive",
+        "word": "本能的",
+        "definition": "本能や自然な傾向に基づくもので、学習によるものではない。"
+      },
+      {
+        "id": "symbolic",
+        "word": "象徴的な",
+        "definition": "記号を使ってアイデアや性質を表現すること。"
+      },
+      {
+        "id": "creative",
+        "word": "創造的な",
+        "definition": "想像力を使って新しいアイデアを生み出すことに関連する。"
+      },
+      {
+        "id": "generative",
+        "word": "生成的",
+        "definition": "新しい何かを生み出す能力を持つこと。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "caring",
+        "word": "Attentionné",
+        "definition": "Faire preuve de gentillesse et de considération envers les autres."
+      },
+      {
+        "id": "strict",
+        "word": "Strict",
+        "definition": "Quelqu'un qui pense que les règles doivent être suivies."
+      },
+      {
+        "id": "patient",
+        "word": "Patient",
+        "definition": "Prêt à attendre / capable de rester calme."
+      },
+      {
+        "id": "inherit",
+        "word": "Hériter",
+        "definition": "Recevoir des caractéristiques génétiques de ses parents."
+      },
+      {
+        "id": "predispose",
+        "word": "Prédisposer",
+        "definition": "Rendre quelqu'un plus susceptible d'adopter un comportement particulier ou de souffrir d'une condition."
+      },
+      {
+        "id": "bright",
+        "word": "Intelligent",
+        "definition": "Qui comprend rapidement et qui est très malin."
+      },
+      {
+        "id": "nurtured",
+        "word": "Élevé",
+        "definition": "Soigné et encouragé à grandir ou à se développer."
+      },
+      {
+        "id": "empathy",
+        "word": "Empathie",
+        "definition": "La capacité de comprendre et de partager les sentiments d'autrui."
+      },
+      {
+        "id": "agency",
+        "word": "Capacité d'agir",
+        "definition": "La capacité d'agir ou de faire des choix de manière indépendante."
+      },
+      {
+        "id": "trait",
+        "word": "Trait",
+        "definition": "Une qualité ou caractéristique distinctive, typique de la personnalité d'une personne."
+      },
+      {
+        "id": "dynamic",
+        "word": "Dynamique",
+        "definition": "Caractérisé par un changement, une activité ou un progrès constants."
+      },
+      {
+        "id": "devise",
+        "word": "Concevoir",
+        "definition": "Planifier, inventer ou créer un système ou une méthode avec soin."
+      },
+      {
+        "id": "affection",
+        "word": "Affection",
+        "definition": "Un sentiment doux d'attachement ou d'appréciation pour quelqu'un."
+      },
+      {
+        "id": "instinctive",
+        "word": "Instinctif",
+        "definition": "Basé sur l'instinct ou une tendance naturelle, non appris."
+      },
+      {
+        "id": "symbolic",
+        "word": "Symbolique",
+        "definition": "Utiliser des symboles pour représenter des idées ou des qualités."
+      },
+      {
+        "id": "creative",
+        "word": "Créatif",
+        "definition": "Relatif à l'utilisation de l'imagination pour produire de nouvelles idées."
+      },
+      {
+        "id": "generative",
+        "word": "Génératif",
+        "definition": "Avoir la capacité de produire ou de créer quelque chose de nouveau."
+      }
+    ],
+    "ko": [
+      {
+        "id": "caring",
+        "word": "다정한",
+        "definition": "다른 사람에게 친절과 관심을 보이는 것."
+      },
+      {
+        "id": "strict",
+        "word": "엄격한",
+        "definition": "규칙을 반드시 따라야 한다고 생각하는 사람."
+      },
+      {
+        "id": "patient",
+        "word": "참을성 있는",
+        "definition": "기다릴 준비가 된 / 침착함을 유지할 수 있는."
+      },
+      {
+        "id": "inherit",
+        "word": "물려받다",
+        "definition": "부모로부터 유전적 특성을 받는 것."
+      },
+      {
+        "id": "predispose",
+        "word": "소인을 주다",
+        "definition": "특정 방식으로 행동하거나 특정 상태에 빠지기 쉽게 만드는 것."
+      },
+      {
+        "id": "bright",
+        "word": "똑똑한",
+        "definition": "이해가 빠르고 매우 영리한."
+      },
+      {
+        "id": "nurtured",
+        "word": "양육된",
+        "definition": "성장하거나 발전하도록 돌봄을 받고 격려받은."
+      },
+      {
+        "id": "empathy",
+        "word": "공감 능력",
+        "definition": "다른 사람의 감정을 이해하고 공유하는 능력."
+      },
+      {
+        "id": "agency",
+        "word": "주체성",
+        "definition": "독립적으로 행동하거나 선택을 할 수 있는 능력."
+      },
+      {
+        "id": "trait",
+        "word": "특성",
+        "definition": "사람의 성격에서 특히 두드러지는 품질이나 특징."
+      },
+      {
+        "id": "dynamic",
+        "word": "역동적인",
+        "definition": "끊임없는 변화, 활동 또는 진보를 특징으로 하는."
+      },
+      {
+        "id": "devise",
+        "word": "고안하다",
+        "definition": "시스템이나 방법을 신중하게 계획하고 발명하는 것."
+      },
+      {
+        "id": "affection",
+        "word": "애정",
+        "definition": "누군가에 대한 부드러운 호감이나 좋아하는 감정."
+      },
+      {
+        "id": "instinctive",
+        "word": "본능적인",
+        "definition": "본능이나 자연스러운 경향에 기반한 것으로, 학습된 것이 아님."
+      },
+      {
+        "id": "symbolic",
+        "word": "상징적인",
+        "definition": "기호를 사용하여 아이디어나 특성을 표현하는 것."
+      },
+      {
+        "id": "creative",
+        "word": "창의적인",
+        "definition": "상상력을 사용하여 새로운 아이디어를 생산하는 것과 관련된."
+      },
+      {
+        "id": "generative",
+        "word": "생성적인",
+        "definition": "새로운 무언가를 생산하거나 창조할 수 있는 능력을 가진."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "A Friend of Mine",
+        "label": "Conversation 1: Meeting a Friend from Poland",
+        "script": [
+          {
+            "speaker": "L",
+            "text": "Maya"
+          },
+          {
+            "speaker": "M",
+            "text": "Hi Laura. Sorry I'm a bit late."
+          },
+          {
+            "speaker": "L",
+            "text": "That's OK."
+          },
+          {
+            "speaker": "M",
+            "text": "How long have you been here?"
+          },
+          {
+            "speaker": "L",
+            "text": "Oh, not long. Ten minutes."
+          },
+          {
+            "speaker": "M",
+            "text": "Sorry. The traffic was bad."
+          },
+          {
+            "speaker": "L",
+            "text": "Are you looking for something?"
+          },
+          {
+            "speaker": "M",
+            "text": "Another chair. Oh ... there's one."
+          },
+          {
+            "speaker": "L",
+            "text": "So who else is coming?"
+          },
+          {
+            "speaker": "M",
+            "text": "My friend Anna from Poland."
+          },
+          {
+            "speaker": "L",
+            "text": "Oh yeah? How do you know her?"
+          },
+          {
+            "speaker": "M",
+            "text": "I met her on an exchange trip."
+          },
+          {
+            "speaker": "L",
+            "text": "When did you do that?"
+          },
+          {
+            "speaker": "M",
+            "text": "Year 10 at school."
+          },
+          {
+            "speaker": "M",
+            "text": "Here."
+          },
+          {
+            "speaker": "M",
+            "text": "I've got a picture of her on my mobile."
+          },
+          {
+            "speaker": "M",
+            "text": "She's the girl in the middle."
+          },
+          {
+            "speaker": "L",
+            "text": "Oh, wow! She's very pretty."
+          },
+          {
+            "speaker": "M",
+            "text": "Yeah."
+          },
+          {
+            "speaker": "L",
+            "text": "So is she just visiting?"
+          },
+          {
+            "speaker": "M",
+            "text": "No, she's studying here."
+          },
+          {
+            "speaker": "M",
+            "text": "She's really clever as well as being pretty."
+          },
+          {
+            "speaker": "M",
+            "text": "And she's good at sport!"
+          },
+          {
+            "speaker": "M",
+            "text": "Some people are so lucky!"
+          },
+          {
+            "speaker": "L",
+            "text": "Yeah."
+          },
+          {
+            "speaker": "L",
+            "text": "So who's the guy?"
+          },
+          {
+            "speaker": "L",
+            "text": "Is that her boyfriend?"
+          },
+          {
+            "speaker": "M",
+            "text": "No! That's my brother!"
+          },
+          {
+            "speaker": "L",
+            "text": "Really? You don't look very similar."
+          },
+          {
+            "speaker": "M",
+            "text": "I know."
+          },
+          {
+            "speaker": "M",
+            "text": "He's quite dark - but look at the nose and mouth."
+          },
+          {
+            "speaker": "L",
+            "text": "Let me see."
+          },
+          {
+            "speaker": "L",
+            "text": "Yeah, I guess."
+          },
+          {
+            "speaker": "L",
+            "text": "So what does he do?"
+          },
+          {
+            "speaker": "M",
+            "text": "He's a nurse."
+          },
+          {
+            "speaker": "M",
+            "text": "He lives in the States."
+          },
+          {
+            "speaker": "L",
+            "text": "Really? Why did he go there?"
+          },
+          {
+            "speaker": "M",
+            "text": "He's married and his wife's from there."
+          },
+          {
+            "speaker": "L",
+            "text": "Really? How old is he?"
+          },
+          {
+            "speaker": "M",
+            "text": "24"
+          },
+          {
+            "speaker": "L",
+            "text": "OK. That's quite young."
+          },
+          {
+            "speaker": "M",
+            "text": "I guess."
+          },
+          {
+            "speaker": "L",
+            "text": "Do you get on well?"
+          },
+          {
+            "speaker": "M",
+            "text": "Yes, we're quite close."
+          },
+          {
+            "speaker": "M",
+            "text": "He's very caring - and generous too."
+          },
+          {
+            "speaker": "M",
+            "text": "Obviously, I don't see him very often now."
+          },
+          {
+            "speaker": "M",
+            "text": "Actually, the last time I saw him was when I took this photo."
+          },
+          {
+            "speaker": "M",
+            "text": "It was over a year ago, but we email and talk on the phone quite a lot."
+          },
+          {
+            "speaker": "L",
+            "text": "Do you have any other brothers or sisters?"
+          },
+          {
+            "speaker": "M",
+            "text": "Yeah - a younger sister."
+          },
+          {
+            "speaker": "L",
+            "text": "Is that the other girl in the picture?"
+          },
+          {
+            "speaker": "M",
+            "text": "No, she's a friend from my Spanish class."
+          },
+          {
+            "speaker": "A",
+            "text": "Maya!"
+          },
+          {
+            "speaker": "M",
+            "text": "Anna! How are you?"
+          },
+          {
+            "speaker": "M",
+            "text": "We saved you a seat."
+          },
+          {
+            "speaker": "M",
+            "text": "Anna - I don't think you know my friend Laura."
+          },
+          {
+            "speaker": "M",
+            "text": "She's a friend from work."
+          },
+          {
+            "speaker": "M",
+            "text": "Laura, this is Anna."
+          },
+          {
+            "speaker": "A",
+            "text": "Nice to meet you."
+          },
+          {
+            "speaker": "L",
+            "text": "Hi - I've heard a lot about you."
+          }
+        ]
+      },
+      {
+        "title": "Our Genes or Our Childhood?",
+        "label": "Listening 1: Trent Simons - Twins with Different Personalities",
+        "script": [
+          {
+            "speaker": "Trent",
+            "text": "People think identical twins have the same tastes and personalities, but my brother and I are very different."
+          },
+          {
+            "speaker": "Trent",
+            "text": "I'm keen on sport and I'm really fit and active; he hardly ever does anything."
+          },
+          {
+            "speaker": "Trent",
+            "text": "I'm confident, I go out, I'm captain of the football team, but he's really quiet."
+          },
+          {
+            "speaker": "Trent",
+            "text": "He has friends, but they're a bit strange and they always play video games together."
+          },
+          {
+            "speaker": "Trent",
+            "text": "We're probably different because we go to different schools and my parents don't treat us as 'the twins', you know, as one person."
+          },
+          {
+            "speaker": "Trent",
+            "text": "Apart from our appearance, I think the only thing that is genetic is having poor sight."
+          },
+          {
+            "speaker": "Trent",
+            "text": "But then he wears thick glasses and I wear contact lenses!"
+          }
+        ]
+      },
+      {
+        "title": "Our Genes or Our Childhood?",
+        "label": "Listening 2: Angela Martinez - An Adopted Student's Story",
+        "script": [
+          {
+            "speaker": "Angela",
+            "text": "Being adopted, I occasionally wonder where my character comes from."
+          },
+          {
+            "speaker": "Angela",
+            "text": "I get good grades at school and people say Chinese are good students and very determined."
+          },
+          {
+            "speaker": "Angela",
+            "text": "But then so are my adoptive parents."
+          },
+          {
+            "speaker": "Angela",
+            "text": "My dad's clever and mum has a clothes shop in Madrid."
+          },
+          {
+            "speaker": "Angela",
+            "text": "I've learnt lots from them."
+          },
+          {
+            "speaker": "Angela",
+            "text": "Also I want to be a doctor like my uncle and I know I have to study to do that."
+          },
+          {
+            "speaker": "Angela",
+            "text": "I sometimes get frustrated if things go bad and I get really angry."
+          },
+          {
+            "speaker": "Angela",
+            "text": "Both my parents are very calm and patient - they never shout."
+          },
+          {
+            "speaker": "Angela",
+            "text": "Maybe my anger is because of my genes - but my gran says it's because I have no brothers or sisters and my parents are too liberal!"
+          }
+        ]
+      },
+      {
+        "title": "Our Genes or Our Childhood?",
+        "label": "Listening 3: Justinia Lewis - A Biologist's Perspective",
+        "script": [
+          {
+            "speaker": "Justinia",
+            "text": "Being a biologist, I obviously think genes are important - it's how evolution works."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "However, genes are only a small part of who we are."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "We humans share 30% of our genes with bananas and 98% with chimpanzees."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Genes play a part in heart disease and other illnesses, but having a healthy lifestyle is more important and we learn that behaviour from our parents."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Now I'm pregnant, I think about my character and my childhood."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Neither of my parents are scientists, but they both read a lot and they talked to me about lots of different things."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Also, none of us in our family are neat and tidy."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "I tell my husband it's genetic and that's why I don't put things away, but it's not true!"
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "私の友達",
+        "label": "会話 1: ポーランドからの友人との再会",
+        "script": [
+          {
+            "speaker": "L",
+            "text": "マヤ"
+          },
+          {
+            "speaker": "M",
+            "text": "こんにちは、ローラ。少し遅れてごめん。"
+          },
+          {
+            "speaker": "L",
+            "text": "大丈夫だよ。"
+          },
+          {
+            "speaker": "M",
+            "text": "どのくらい待った？"
+          },
+          {
+            "speaker": "L",
+            "text": "ああ、そんなに長くないよ。10分。"
+          },
+          {
+            "speaker": "M",
+            "text": "ごめん。交通渋滞だった。"
+          },
+          {
+            "speaker": "L",
+            "text": "何か探してるの？"
+          },
+          {
+            "speaker": "M",
+            "text": "別の椅子。ああ...あった。"
+          },
+          {
+            "speaker": "L",
+            "text": "で、他に誰が来るの？"
+          },
+          {
+            "speaker": "M",
+            "text": "ポーランドから来た友達のアンナ。"
+          },
+          {
+            "speaker": "L",
+            "text": "そうなんだ？どうやって知り合ったの？"
+          },
+          {
+            "speaker": "M",
+            "text": "交換留学で会ったんだ。"
+          },
+          {
+            "speaker": "L",
+            "text": "それはいつ？"
+          },
+          {
+            "speaker": "M",
+            "text": "学校の10年生の時。"
+          },
+          {
+            "speaker": "M",
+            "text": "ここで。"
+          },
+          {
+            "speaker": "M",
+            "text": "彼女の写真を携帯に持ってるよ。"
+          },
+          {
+            "speaker": "M",
+            "text": "真ん中の子だよ。"
+          },
+          {
+            "speaker": "L",
+            "text": "わあ、すごい！とてもきれいな人だね。"
+          },
+          {
+            "speaker": "M",
+            "text": "うん。"
+          },
+          {
+            "speaker": "L",
+            "text": "じゃあ、彼女はただ遊びに来てるの？"
+          },
+          {
+            "speaker": "M",
+            "text": "いいえ、ここで勉強しているんだ。"
+          },
+          {
+            "speaker": "M",
+            "text": "きれいなだけでなく、本当に頭がいいんだ。"
+          },
+          {
+            "speaker": "M",
+            "text": "それにスポーツも得意なんだよ！"
+          },
+          {
+            "speaker": "M",
+            "text": "なんてラッキーな人なんだろう！"
+          },
+          {
+            "speaker": "L",
+            "text": "そうだね。"
+          },
+          {
+            "speaker": "L",
+            "text": "で、その男性は誰？"
+          },
+          {
+            "speaker": "L",
+            "text": "彼氏なの？"
+          },
+          {
+            "speaker": "M",
+            "text": "違うよ！私の兄だよ！"
+          },
+          {
+            "speaker": "L",
+            "text": "本当？あまり似てないね。"
+          },
+          {
+            "speaker": "M",
+            "text": "そうなんだ。"
+          },
+          {
+            "speaker": "M",
+            "text": "彼はかなり色が黒いけど - 鼻と口を見てみて。"
+          },
+          {
+            "speaker": "L",
+            "text": "見せて。"
+          },
+          {
+            "speaker": "L",
+            "text": "うん、そうかもしれないね。"
+          },
+          {
+            "speaker": "L",
+            "text": "で、彼は何をしているの？"
+          },
+          {
+            "speaker": "M",
+            "text": "看護師だよ。"
+          },
+          {
+            "speaker": "M",
+            "text": "アメリカに住んでいる。"
+          },
+          {
+            "speaker": "L",
+            "text": "本当？なぜそこに行ったの？"
+          },
+          {
+            "speaker": "M",
+            "text": "結婚していて、妻がそこ出身なんだ。"
+          },
+          {
+            "speaker": "L",
+            "text": "本当？彼はいくつ？"
+          },
+          {
+            "speaker": "M",
+            "text": "24歳"
+          },
+          {
+            "speaker": "L",
+            "text": "そうか。かなり若いね。"
+          },
+          {
+            "speaker": "M",
+            "text": "そうかもしれない。"
+          },
+          {
+            "speaker": "L",
+            "text": "仲は良いの？"
+          },
+          {
+            "speaker": "M",
+            "text": "うん、とても仲が良いよ。"
+          },
+          {
+            "speaker": "M",
+            "text": "彼はとても思いやりがあって、それに気前も良いんだ。"
+          },
+          {
+            "speaker": "M",
+            "text": "もちろん、今はあまり頻繁には会えないけど。"
+          },
+          {
+            "speaker": "M",
+            "text": "実際、最後に会ったのはこの写真を撮った時かな。"
+          },
+          {
+            "speaker": "M",
+            "text": "もう一年以上前だけど、メールや電話でよく話しているよ。"
+          },
+          {
+            "speaker": "L",
+            "text": "他に兄弟はいるの？"
+          },
+          {
+            "speaker": "M",
+            "text": "うん - 妹が一人。"
+          },
+          {
+            "speaker": "L",
+            "text": "写真のもう一人の女の子がそうなの？"
+          },
+          {
+            "speaker": "M",
+            "text": "いいえ、彼女はスペイン語クラスの友達だよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "マヤ！"
+          },
+          {
+            "speaker": "M",
+            "text": "アンナ！元気だった？"
+          },
+          {
+            "speaker": "M",
+            "text": "席を取っておいたよ。"
+          },
+          {
+            "speaker": "M",
+            "text": "アンナ - 私の友達のローラは知らないよね。"
+          },
+          {
+            "speaker": "M",
+            "text": "彼女は仕事仲間なんだ。"
+          },
+          {
+            "speaker": "M",
+            "text": "ローラ、こちらはアンナ。"
+          },
+          {
+            "speaker": "A",
+            "text": "はじめまして。"
+          },
+          {
+            "speaker": "L",
+            "text": "こんにちは - あなたのことはよく聞いているよ。"
+          }
+        ]
+      },
+      {
+        "title": "遺伝子か育ちか？",
+        "label": "リスニング 1: トレント・サイモンズ - 異なる性格の双子",
+        "script": [
+          {
+            "speaker": "Trent",
+            "text": "人々は一卵性双生児が同じ趣味や性格を持つと思うけど、私と兄はとても違うんだ。"
+          },
+          {
+            "speaker": "Trent",
+            "text": "私はスポーツが大好きで、とても健康で活動的だけど、彼はほとんど何もしない。"
+          },
+          {
+            "speaker": "Trent",
+            "text": "私は自信があって、外出するし、サッカーチームのキャプテンだけど、彼は本当に静かなんだ。"
+          },
+          {
+            "speaker": "Trent",
+            "text": "彼にも友達はいるけど、少し変わっていて、いつも一緒にビデオゲームをしている。"
+          },
+          {
+            "speaker": "Trent",
+            "text": "私たちが違うのは、違う学校に行っていて、両親が私たちを『双子』として、つまり一人の人として扱っていないからだろう。"
+          },
+          {
+            "speaker": "Trent",
+            "text": "見た目は別として、遺伝的なのは視力が悪いことだけだと思う。"
+          },
+          {
+            "speaker": "Trent",
+            "text": "でも彼は分厚い眼鏡をかけていて、私はコンタクトレンズを使っているんだ！"
+          }
+        ]
+      },
+      {
+        "title": "遺伝子か育ちか？",
+        "label": "リスニング 2: アンジェラ・マルティネス - 養子の学生の話",
+        "script": [
+          {
+            "speaker": "Angela",
+            "text": "養子として、自分の性格がどこから来るのか時々不思議に思う。"
+          },
+          {
+            "speaker": "Angela",
+            "text": "学校で良い成績を取っているし、人々は中国人は優秀な学生でとても決断力があると言う。"
+          },
+          {
+            "speaker": "Angela",
+            "text": "でも、私の養父母もそうなんだ。"
+          },
+          {
+            "speaker": "Angela",
+            "text": "父は賢いし、母はマドリードで洋服店を営んでいる。"
+          },
+          {
+            "speaker": "Angela",
+            "text": "彼らからたくさんのことを学んだ。"
+          },
+          {
+            "speaker": "Angela",
+            "text": "また、叔父のように医者になりたいし、そのためには勉強しなければならないと分かっている。"
+          },
+          {
+            "speaker": "Angela",
+            "text": "物事がうまくいかないと時々イライラして、本当に怒ってしまう。"
+          },
+          {
+            "speaker": "Angela",
+            "text": "両親はとても落ち着いていて忍耐強い - 決して怒鳴ったりしない。"
+          },
+          {
+            "speaker": "Angela",
+            "text": "たぶん私の怒りは遺伝子のせいかもしれない - でも祖母は、私には兄弟姉妹がいなくて、両親がリベラルすぎるからだと言うんだ！"
+          }
+        ]
+      },
+      {
+        "title": "遺伝子か育ちか？",
+        "label": "リスニング 3: ジャスティニア・ルイス - 生物学者の視点",
+        "script": [
+          {
+            "speaker": "Justinia",
+            "text": "生物学者として、遺伝子が重要だと思うのは当然だ - それが進化の仕組みだから。"
+          },
+          {
+            "speaker": "Justinia",
+            "text": "しかし、遺伝子は私たちが誰であるかのほんの一部に過ぎない。"
+          },
+          {
+            "speaker": "Justinia",
+            "text": "人間は遺伝子の30％をバナナと、98％をチンパンジーと共有している。"
+          },
+          {
+            "speaker": "Justinia",
+            "text": "遺伝子は心臓病やその他の病気に関与しているが、健康的な生活習慣を持つことがより重要で、その行動は親から学ぶ。"
+          },
+          {
+            "speaker": "Justinia",
+            "text": "今、私は妊娠しているので、自分の性格や子供時代について考える。"
+          },
+          {
+            "speaker": "Justinia",
+            "text": "両親はどちらも科学者ではないが、二人ともたくさん本を読み、私にいろいろなことを話してくれた。"
+          },
+          {
+            "speaker": "Justinia",
+            "text": "また、私たち家族は誰も几帳面で整頓する習慣がない。"
+          },
+          {
+            "speaker": "Justinia",
+            "text": "夫には遺伝だと言って、だから物を片付けないんだと言っているけど、それは真実じゃない！"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "Une amie à moi",
+        "label": "Conversation 1: Rencontre avec une amie de Pologne",
+        "script": [
+          {
+            "speaker": "L",
+            "text": "Maya"
+          },
+          {
+            "speaker": "M",
+            "text": "Salut Laura. Désolé je suis un peu en retard."
+          },
+          {
+            "speaker": "L",
+            "text": "Ce n'est pas grave."
+          },
+          {
+            "speaker": "M",
+            "text": "Depuis combien de temps es-tu là ?"
+          },
+          {
+            "speaker": "L",
+            "text": "Oh, pas longtemps. Dix minutes."
+          },
+          {
+            "speaker": "M",
+            "text": "Désolé. La circulation était mauvaise."
+          },
+          {
+            "speaker": "L",
+            "text": "Tu cherches quelque chose ?"
+          },
+          {
+            "speaker": "M",
+            "text": "Une autre chaise. Oh ... il y en a une."
+          },
+          {
+            "speaker": "L",
+            "text": "Alors qui d'autre vient ?"
+          },
+          {
+            "speaker": "M",
+            "text": "Mon amie Anna de Pologne."
+          },
+          {
+            "speaker": "L",
+            "text": "Ah oui ? Comment tu la connais ?"
+          },
+          {
+            "speaker": "M",
+            "text": "Je l'ai rencontrée lors d'un voyage d'échange."
+          },
+          {
+            "speaker": "L",
+            "text": "Quand as-tu fait ça ?"
+          },
+          {
+            "speaker": "M",
+            "text": "En année 10 à l'école."
+          },
+          {
+            "speaker": "M",
+            "text": "Ici."
+          },
+          {
+            "speaker": "M",
+            "text": "J'ai une photo d'elle sur mon portable."
+          },
+          {
+            "speaker": "M",
+            "text": "C'est la fille au milieu."
+          },
+          {
+            "speaker": "L",
+            "text": "Oh, wow ! Elle est très jolie."
+          },
+          {
+            "speaker": "M",
+            "text": "Ouais."
+          },
+          {
+            "speaker": "L",
+            "text": "Alors elle est juste en visite ?"
+          },
+          {
+            "speaker": "M",
+            "text": "Non, elle étudie ici."
+          },
+          {
+            "speaker": "M",
+            "text": "Elle est vraiment intelligente en plus d'être jolie."
+          },
+          {
+            "speaker": "M",
+            "text": "Et elle est bonne en sport !"
+          },
+          {
+            "speaker": "M",
+            "text": "Certaines personnes ont tellement de chance !"
+          },
+          {
+            "speaker": "L",
+            "text": "Ouais."
+          },
+          {
+            "speaker": "L",
+            "text": "Alors qui est le gars ?"
+          },
+          {
+            "speaker": "L",
+            "text": "C'est son petit ami ?"
+          },
+          {
+            "speaker": "M",
+            "text": "Non ! C'est mon frère !"
+          },
+          {
+            "speaker": "L",
+            "text": "Vraiment ? Vous ne vous ressemblez pas beaucoup."
+          },
+          {
+            "speaker": "M",
+            "text": "Je sais."
+          },
+          {
+            "speaker": "M",
+            "text": "Il a la peau assez foncée - mais regarde le nez et la bouche."
+          },
+          {
+            "speaker": "L",
+            "text": "Laisse-moi voir."
+          },
+          {
+            "speaker": "L",
+            "text": "Ouais, je suppose."
+          },
+          {
+            "speaker": "L",
+            "text": "Alors qu'est-ce qu'il fait dans la vie ?"
+          },
+          {
+            "speaker": "M",
+            "text": "Il est infirmier."
+          },
+          {
+            "speaker": "M",
+            "text": "Il vit aux États-Unis."
+          },
+          {
+            "speaker": "L",
+            "text": "Vraiment ? Pourquoi est-il allé là-bas ?"
+          },
+          {
+            "speaker": "M",
+            "text": "Il est marié et sa femme est de là-bas."
+          },
+          {
+            "speaker": "L",
+            "text": "Vraiment ? Quel âge a-t-il ?"
+          },
+          {
+            "speaker": "M",
+            "text": "24 ans"
+          },
+          {
+            "speaker": "L",
+            "text": "D'accord. C'est assez jeune."
+          },
+          {
+            "speaker": "M",
+            "text": "Je suppose."
+          },
+          {
+            "speaker": "L",
+            "text": "Vous vous entendez bien ?"
+          },
+          {
+            "speaker": "M",
+            "text": "Oui, nous sommes assez proches."
+          },
+          {
+            "speaker": "M",
+            "text": "Il est très attentionné - et généreux aussi."
+          },
+          {
+            "speaker": "M",
+            "text": "Évidemment, je ne le vois pas très souvent maintenant."
+          },
+          {
+            "speaker": "M",
+            "text": "En fait, la dernière fois que je l'ai vu, c'était quand j'ai pris cette photo."
+          },
+          {
+            "speaker": "M",
+            "text": "C'était il y a plus d'un an, mais on s'envoie des e-mails et on se parle beaucoup au téléphone."
+          },
+          {
+            "speaker": "L",
+            "text": "Tu as d'autres frères ou sœurs ?"
+          },
+          {
+            "speaker": "M",
+            "text": "Ouais - une petite sœur."
+          },
+          {
+            "speaker": "L",
+            "text": "C'est l'autre fille sur la photo ?"
+          },
+          {
+            "speaker": "M",
+            "text": "Non, c'est une amie de mon cours d'espagnol."
+          },
+          {
+            "speaker": "A",
+            "text": "Maya !"
+          },
+          {
+            "speaker": "M",
+            "text": "Anna ! Comment vas-tu ?"
+          },
+          {
+            "speaker": "M",
+            "text": "On t'a gardé une place."
+          },
+          {
+            "speaker": "M",
+            "text": "Anna - je ne pense pas que tu connaisses mon amie Laura."
+          },
+          {
+            "speaker": "M",
+            "text": "C'est une amie du travail."
+          },
+          {
+            "speaker": "M",
+            "text": "Laura, voici Anna."
+          },
+          {
+            "speaker": "A",
+            "text": "Ravi de te rencontrer."
+          },
+          {
+            "speaker": "L",
+            "text": "Salut - j'ai beaucoup entendu parler de toi."
+          }
+        ]
+      },
+      {
+        "title": "Nos gènes ou notre enfance ?",
+        "label": "Écoute 1: Trente Saïmon - Des jumeaux aux personnalités différentes",
+        "script": [
+          {
+            "speaker": "Trent",
+            "text": "Les gens pensent que les vrais jumeaux ont les mêmes goûts et personnalités, mais mon frère et moi sommes très différents."
+          },
+          {
+            "speaker": "Trent",
+            "text": "J'aime le sport et je suis vraiment en forme et actif ; lui ne fait presque jamais rien."
+          },
+          {
+            "speaker": "Trent",
+            "text": "Je suis confiant, je sors, je suis capitaine de l'équipe de football, mais lui est vraiment silencieux."
+          },
+          {
+            "speaker": "Trent",
+            "text": "Il a des amis, mais ils sont un peu étranges et ils jouent toujours ensemble aux jeux vidéo."
+          },
+          {
+            "speaker": "Trent",
+            "text": "Nous sommes probablement différents parce que nous allons dans des écoles différentes et que mes parents ne nous traitent pas comme 'les jumeaux', tu sais, comme une seule personne."
+          },
+          {
+            "speaker": "Trent",
+            "text": "À part notre apparence, je pense que la seule chose génétique est d'avoir une mauvaise vue."
+          },
+          {
+            "speaker": "Trent",
+            "text": "Mais lui porte des lunettes épaisses et moi je porte des lentilles de contact !"
+          }
+        ]
+      },
+      {
+        "title": "Nos gènes ou notre enfance ?",
+        "label": "Écoute 2: Anjéla Martinès - L'histoire d'une étudiante adoptée",
+        "script": [
+          {
+            "speaker": "Angela",
+            "text": "Ayant été adoptée, je me demande parfois d'où vient mon caractère."
+          },
+          {
+            "speaker": "Angela",
+            "text": "J'ai de bonnes notes à l'école et les gens disent que les Chinois sont de bons étudiants et très déterminés."
+          },
+          {
+            "speaker": "Angela",
+            "text": "Mais mes parents adoptifs le sont aussi."
+          },
+          {
+            "speaker": "Angela",
+            "text": "Mon père est intelligent et ma mère a une boutique de vêtements à Madrid."
+          },
+          {
+            "speaker": "Angela",
+            "text": "J'ai beaucoup appris d'eux."
+          },
+          {
+            "speaker": "Angela",
+            "text": "Aussi, je veux être médecin comme mon oncle et je sais que je dois étudier pour cela."
+          },
+          {
+            "speaker": "Angela",
+            "text": "Je suis parfois frustrée quand les choses vont mal et je me mets vraiment en colère."
+          },
+          {
+            "speaker": "Angela",
+            "text": "Mes deux parents sont très calmes et patients - ils ne crient jamais."
+          },
+          {
+            "speaker": "Angela",
+            "text": "Peut-être que ma colère est due à mes gènes - mais ma grand-mère dit que c'est parce que je n'ai ni frères ni sœurs et que mes parents sont trop libéraux !"
+          }
+        ]
+      },
+      {
+        "title": "Nos gènes ou notre enfance ?",
+        "label": "Écoute 3: Justinja Louïs - Le point de vue d'une biologiste",
+        "script": [
+          {
+            "speaker": "Justinia",
+            "text": "En tant que biologiste, je pense évidemment que les gènes sont importants - c'est ainsi que fonctionne l'évolution."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Cependant, les gènes ne sont qu'une petite partie de ce que nous sommes."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Nous, les humains, partageons 30 % de nos gènes avec les bananes et 98 % avec les chimpanzés."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Les gènes jouent un rôle dans les maladies cardiaques et d'autres maladies, mais avoir un mode de vie sain est plus important et nous apprenons ce comportement de nos parents."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Maintenant que je suis enceinte, je pense à mon caractère et à mon enfance."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Aucun de mes parents n'est scientifique, mais ils lisent tous les deux beaucoup et ils m'ont parlé de beaucoup de choses différentes."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Aussi, personne dans notre famille n'est soigné et ordonné."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "Je dis à mon mari que c'est génétique et c'est pourquoi je ne range pas les choses, mais ce n'est pas vrai !"
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "내 친구",
+        "label": "대화 1: 폴란드에서 온 친구를 만나다",
+        "script": [
+          {
+            "speaker": "L",
+            "text": "Maya"
+          },
+          {
+            "speaker": "M",
+            "text": "안녕 Laura. 좀 늦어서 미안해."
+          },
+          {
+            "speaker": "L",
+            "text": "괜찮아."
+          },
+          {
+            "speaker": "M",
+            "text": "얼마나 기다렸어?"
+          },
+          {
+            "speaker": "L",
+            "text": "오래 안 됐어. 10분."
+          },
+          {
+            "speaker": "M",
+            "text": "미안해. 길이 막혔어."
+          },
+          {
+            "speaker": "L",
+            "text": "뭐 찾는 거야?"
+          },
+          {
+            "speaker": "M",
+            "text": "다른 의자. 아... 저기 하나 있네."
+          },
+          {
+            "speaker": "L",
+            "text": "그래서 누가 더 올 예정이야?"
+          },
+          {
+            "speaker": "M",
+            "text": "폴란드에서 온 내 친구 Anna."
+          },
+          {
+            "speaker": "L",
+            "text": "아, 그래? 어떻게 알게 됐어?"
+          },
+          {
+            "speaker": "M",
+            "text": "교환 여행에서 만났어."
+          },
+          {
+            "speaker": "L",
+            "text": "그건 언제 했어?"
+          },
+          {
+            "speaker": "M",
+            "text": "학교 10학년 때."
+          },
+          {
+            "speaker": "M",
+            "text": "여기서."
+          },
+          {
+            "speaker": "M",
+            "text": "휴대폰에 그녀 사진이 있어."
+          },
+          {
+            "speaker": "M",
+            "text": "가운데 있는 여자애야."
+          },
+          {
+            "speaker": "L",
+            "text": "오, 와! 정말 예쁘다."
+          },
+          {
+            "speaker": "M",
+            "text": "응."
+          },
+          {
+            "speaker": "L",
+            "text": "그럼 그냥 놀러 온 거야?"
+          },
+          {
+            "speaker": "M",
+            "text": "아니, 여기서 공부하고 있어."
+          },
+          {
+            "speaker": "M",
+            "text": "예쁘기만 한 게 아니라 정말 똑똑해."
+          },
+          {
+            "speaker": "M",
+            "text": "그리고 운동도 잘해!"
+          },
+          {
+            "speaker": "M",
+            "text": "정말 운이 좋은 사람들도 있지!"
+          },
+          {
+            "speaker": "L",
+            "text": "응."
+          },
+          {
+            "speaker": "L",
+            "text": "그럼 저 남자는 누구야?"
+          },
+          {
+            "speaker": "L",
+            "text": "남자친구야?"
+          },
+          {
+            "speaker": "M",
+            "text": "아니! 내 남자 형제야!"
+          },
+          {
+            "speaker": "L",
+            "text": "정말? 별로 안 닮았는데."
+          },
+          {
+            "speaker": "M",
+            "text": "그래."
+          },
+          {
+            "speaker": "M",
+            "text": "꽤 어두운 편인데 - 코와 입 좀 봐."
+          },
+          {
+            "speaker": "L",
+            "text": "보여줘."
+          },
+          {
+            "speaker": "L",
+            "text": "응, 그런 것 같아."
+          },
+          {
+            "speaker": "L",
+            "text": "그래서 무슨 일을 해?"
+          },
+          {
+            "speaker": "M",
+            "text": "간호사야."
+          },
+          {
+            "speaker": "M",
+            "text": "미국에 살아."
+          },
+          {
+            "speaker": "L",
+            "text": "정말? 왜 거기로 간 거야?"
+          },
+          {
+            "speaker": "M",
+            "text": "결혼했는데 아내가 거기 출신이야."
+          },
+          {
+            "speaker": "L",
+            "text": "정말? 나이는?"
+          },
+          {
+            "speaker": "M",
+            "text": "24살"
+          },
+          {
+            "speaker": "L",
+            "text": "그래. 꽤 젊네."
+          },
+          {
+            "speaker": "M",
+            "text": "그런 것 같아."
+          },
+          {
+            "speaker": "L",
+            "text": "사이가 좋아?"
+          },
+          {
+            "speaker": "M",
+            "text": "응, 꽤 가까워."
+          },
+          {
+            "speaker": "M",
+            "text": "그는 매우 다정하고 관대하기도 해."
+          },
+          {
+            "speaker": "M",
+            "text": "당연히 지금은 자주 보지는 못해."
+          },
+          {
+            "speaker": "M",
+            "text": "사실 마지막으로 본 건 이 사진 찍었을 때였어."
+          },
+          {
+            "speaker": "M",
+            "text": "1년 넘었지만, 이메일과 전화로 꽤 많이 이야기해."
+          },
+          {
+            "speaker": "L",
+            "text": "다른 형제자매는 있어?"
+          },
+          {
+            "speaker": "M",
+            "text": "응 - 여동생이 하나 있어."
+          },
+          {
+            "speaker": "L",
+            "text": "사진에 있는 다른 여자애가 그런 거야?"
+          },
+          {
+            "speaker": "M",
+            "text": "아니, 내 스페인어 수업 친구야."
+          },
+          {
+            "speaker": "A",
+            "text": "Maya!"
+          },
+          {
+            "speaker": "M",
+            "text": "Anna! 잘 지냈어?"
+          },
+          {
+            "speaker": "M",
+            "text": "자리 맡아놨어."
+          },
+          {
+            "speaker": "M",
+            "text": "Anna - 내 친구 Laura를 모르지?"
+          },
+          {
+            "speaker": "M",
+            "text": "직장 친구야."
+          },
+          {
+            "speaker": "M",
+            "text": "Laura, 이쪽은 Anna야."
+          },
+          {
+            "speaker": "A",
+            "text": "만나서 반가워요."
+          },
+          {
+            "speaker": "L",
+            "text": "안녕 - 너에 대해 많이 들었어."
+          }
+        ]
+      },
+      {
+        "title": "유전자일까, 환경일까?",
+        "label": "리스닝 1: 트렌트 사이먼스 - 다른 성격을 가진 쌍둥이",
+        "script": [
+          {
+            "speaker": "Trent",
+            "text": "사람들은 일란성 쌍둥이가 같은 취향과 성격을 가졌다고 생각하지만, 나와 내 형제는 매우 달라."
+          },
+          {
+            "speaker": "Trent",
+            "text": "나는 운동을 좋아하고 정말 건강하고 활동적인데, 그는 거의 아무것도 하지 않아."
+          },
+          {
+            "speaker": "Trent",
+            "text": "나는 자신감 있고, 외출도 하고, 축구팀 주장이지만, 그는 정말 조용해."
+          },
+          {
+            "speaker": "Trent",
+            "text": "그에게도 친구는 있지만 좀 이상하고 항상 함께 비디오 게임을 해."
+          },
+          {
+            "speaker": "Trent",
+            "text": "우리가 다른 이유는 다른 학교에 다니고, 부모님이 우리를 '쌍둥이', 즉 한 사람으로 대우하지 않기 때문일 거야."
+          },
+          {
+            "speaker": "Trent",
+            "text": "외모를 제외하면, 유전적인 것은 시력이 나쁜 것뿐인 것 같아."
+          },
+          {
+            "speaker": "Trent",
+            "text": "그런데 그는 두꺼운 안경을 쓰고 나는 콘택트 렌즈를 착용해!"
+          }
+        ]
+      },
+      {
+        "title": "유전자일까, 환경일까?",
+        "label": "리스닝 2: 안젤라 마르티네즈 - 입양된 학생의 이야기",
+        "script": [
+          {
+            "speaker": "Angela",
+            "text": "입양아로서, 나는 내 성격이 어디서 왔는지 가끔 궁금해."
+          },
+          {
+            "speaker": "Angela",
+            "text": "학교에서 좋은 성적을 받고, 사람들은 중국인이 우수한 학생이고 매우 의지가 강하다고 말해."
+          },
+          {
+            "speaker": "Angela",
+            "text": "하지만 내 양부모님도 그래."
+          },
+          {
+            "speaker": "Angela",
+            "text": "아빠는 똑똑하고 엄마는 마드리드에서 옷가게를 운영하셔."
+          },
+          {
+            "speaker": "Angela",
+            "text": "그들에게서 많은 것을 배웠어."
+          },
+          {
+            "speaker": "Angela",
+            "text": "또한 삼촌처럼 의사가 되고 싶고, 그러기 위해 공부해야 한다는 것을 알고 있어."
+          },
+          {
+            "speaker": "Angela",
+            "text": "상황이 잘 안 풀리면 좌절하고 정말 화가 나."
+          },
+          {
+            "speaker": "Angela",
+            "text": "부모님은 둘 다 매우 침착하고 인내심이 많으셔 - 절대 소리 지르지 않으셔."
+          },
+          {
+            "speaker": "Angela",
+            "text": "아마 내 화는 유전자 때문일 거야 - 하지만 할머니는 형제자매가 없고 부모님이 너무 자유분방해서 그렇다고 하셔!"
+          }
+        ]
+      },
+      {
+        "title": "유전자일까, 환경일까?",
+        "label": "리스닝 3: 저스티니아 루이스 - 생물학자의 관점",
+        "script": [
+          {
+            "speaker": "Justinia",
+            "text": "생물학자로서, 나는 분명 유전자가 중요하다고 생각해 - 그게 진화가 작동하는 방식이니까."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "하지만 유전자는 우리가 누구인지의 아주 작은 부분일 뿐이야."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "인간은 유전자의 30%를 바나나와, 98%를 침팬지와 공유해."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "유전자는 심장병과 다른 질병에 영향을 미치지만, 건강한 생활 방식을 갖는 것이 더 중요하고 그 행동은 부모님께 배워."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "지금 임신 중이라 내 성격과 어린 시절에 대해 생각하게 돼."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "부모님 중 어느 분도 과학자는 아니시지만, 두 분 다 책을 많이 읽으셨고 나에게 다양한 이야기를 해주셨어."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "또한 우리 가족 중 누구도 깔끔하지 않아."
+          },
+          {
+            "speaker": "Justinia",
+            "text": "남편에게 유전자 때문이라서 물건을 제자리에 안 치우는 거라고 말하지만, 사실은 아니야!"
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "The Great Communicators",
+    "ja": "偉大なコミュニケーターたち",
+    "fr": "Les Grands Communicateurs",
+    "ko": "위대한 소통자들"
+  },
+  "extra_reading_html": {
+    "en": "<p><strong>Paragraph 1:</strong> We can communicate with other people in many different ways. We can talk and write, and we can send messages with our hands and faces. There is also the phone (including the mobile!), the fax, and e-mail. Television, film, painting, and photography can also communicate ideas.</p><p><strong>Paragraph 2:</strong> Animals have ways of exchanging information, too. Bees dance and tell other bees where to find food. Elephants make sounds that humans can't hear. Whales sing songs. Monkeys use their faces to show anger and love. But this is nothing compared to what people can do. We have language – about 6000 languages, in fact. We can write poetry, tell jokes, make promises, explain, persuade, tell the truth, or tell lies. And we have a sense of past and future, not just present.</p><p><strong>Paragraph 3:</strong> Communication technologies were very important in the development of all the great ancient societies: Around 2900 BC, paper and hieroglyphics transformed Egyptian life. The ancient Greeks loved the spoken word. They were very good at public speaking, drama, and philosophy. The Romans developed a unique system of government that depended on the Roman alphabet. In the 14th century, the printing press helped develop new ways of thinking across Europe.</p><p><strong>Paragraph 4:</strong> Radio, film, and television have had a huge influence on society in the last hundred years. And now we have the Internet, which is infinite. But what is this doing to us? We can give and get a lot of information very quickly. But there is so much information that it is difficult to know what is important and what isn't. Modern media is changing our world every minute of every day.</p>",
+    "ja": "<p><strong>パラグラフ1:</strong> 私たちはさまざまな方法で他の人とコミュニケーションをとることができます。話したり、書いたり、手や顔でメッセージを送ったりすることができます。電話（携帯電話も！）、ファックス、電子メールもあります。テレビ、映画、絵画、写真もアイデアを伝えることができます。</p><p><strong>パラグラフ2:</strong> 動物にも情報を交換する方法があります。ミツバチは踊って他のミツバチに食べ物の場所を知らせます。ゾウは人間には聞こえない音を出します。クジラは歌を歌います。サルは顔を使って怒りや愛情を表現します。しかし、これは人間ができることに比べれば取るに足りません。私たちには言語があります—実際には約6000もの言語があります。詩を書き、冗談を言い、約束をし、説明し、説得し、真実を話し、または嘘をつくことができます。そして、現在だけでなく、過去と未来の感覚を持っています。</p><p><strong>パラグラフ3:</strong> コミュニケーション技術は、すべての偉大な古代社会の発展において非常に重要でした：紀元前2900年頃、紙とヒエログリフはエジプトの生活を変革しました。古代ギリシャ人は話し言葉を愛していました。彼らは演説、演劇、哲学がとても得意でした。ローマ人はローマ字に依存した独自の統治システムを発展させました。14世紀には、印刷機がヨーロッパ全体で新しい考え方の発展を助けました。</p><p><strong>パラグラフ4:</strong> ラジオ、映画、テレビは過去100年間で社会に大きな影響を与えてきました。そして今、私たちには無限のインターネットがあります。しかし、これは私たちに何をもたらしているのでしょうか？私たちは多くの情報を非常に速く与えたり得たりすることができます。しかし、情報があまりにも多くて、何が重要で何が重要でないかを知るのは困難です。現代のメディアは、毎日毎分私たちの世界を変えています。</p>",
+    "fr": "<p><strong>Paragraphe 1:</strong> Nous pouvons communiquer avec d'autres personnes de nombreuses façons différentes. Nous pouvons parler et écrire, et nous pouvons envoyer des messages avec nos mains et nos visages. Il y a aussi le téléphone (y compris le mobile !), le fax et l'e-mail. La télévision, le cinéma, la peinture et la photographie peuvent également communiquer des idées.</p><p><strong>Paragraphe 2:</strong> Les animaux ont aussi des moyens d'échanger des informations. Les abeilles dansent et indiquent à d'autres abeilles où trouver de la nourriture. Les éléphants émettent des sons que les humains ne peuvent pas entendre. Les baleines chantent. Les singes utilisent leur visage pour montrer la colère et l'amour. Mais ce n'est rien comparé à ce que les humains peuvent faire. Nous avons le langage – environ 6000 langues, en fait. Nous pouvons écrire de la poésie, raconter des blagues, faire des promesses, expliquer, persuader, dire la vérité ou mentir. Et nous avons un sens du passé et du futur, pas seulement du présent.</p><p><strong>Paragraphe 3:</strong> Les technologies de communication ont été très importantes dans le développement de toutes les grandes sociétés anciennes : Vers 2900 avant J.-C., le papier et les hiéroglyphes ont transformé la vie égyptienne. Les Grecs anciens aimaient la parole. Ils étaient très bons en art oratoire, en théâtre et en philosophie. Les Romains ont développé un système de gouvernement unique qui dépendait de l'alphabet romain. Au 14ème siècle, l'imprimerie a aidé à développer de nouvelles façons de penser à travers l'Europe.</p><p><strong>Paragraphe 4:</strong> La radio, le cinéma et la télévision ont eu une énorme influence sur la société au cours des cent dernières années. Et maintenant, nous avons Internet, qui est infini. Mais qu'est-ce que cela nous fait ? Nous pouvons donner et recevoir beaucoup d'informations très rapidement. Mais il y a tellement d'informations qu'il est difficile de savoir ce qui est important et ce qui ne l'est pas. Les médias modernes changent notre monde chaque minute de chaque jour.</p>",
+    "ko": "<p><strong>문단 1:</strong> 우리는 다양한 방법으로 다른 사람들과 의사소통할 수 있습니다. 말하고, 쓰고, 손과 얼굴로 메시지를 보낼 수 있습니다. 전화(휴대폰도!), 팩스, 이메일도 있습니다. 텔레비전, 영화, 그림, 사진도 아이디어를 전달할 수 있습니다.</p><p><strong>문단 2:</strong> 동물들도 정보를 교환하는 방법이 있습니다. 벌은 춤을 추어 다른 벌들에게 음식이 있는 곳을 알려줍니다. 코끼리는 인간이 들을 수 없는 소리를 냅니다. 고래는 노래를 부릅니다. 원숭이는 얼굴을 사용하여 분노와 사랑을 표현합니다. 그러나 이것은 인간이 할 수 있는 것에 비하면 아무것도 아닙니다. 우리에게는 언어가 있습니다—사실 약 6000개의 언어가 있습니다. 우리는 시를 쓰고, 농담을 하고, 약속을 하고, 설명하고, 설득하고, 진실을 말하거나 거짓말을 할 수 있습니다. 그리고 현재뿐만 아니라 과거와 미래에 대한 감각이 있습니다.</p><p><strong>문단 3:</strong> 의사소통 기술은 모든 위대한 고대 사회의 발전에 매우 중요했습니다: 기원전 2900년경, 종이와 상형문자는 이집트의 삶을 변화시켰습니다. 고대 그리스인들은 말을 사랑했습니다. 그들은 연설, 연극, 철학에 매우 능숙했습니다. 로마인들은 로마 알파벳에 의존하는 독특한 통치 시스템을 발전시켰습니다. 14세기에 인쇄술은 유럽 전역에 걸쳐 새로운 사고 방식의 발전을 도왔습니다.</p><p><strong>문단 4:</strong> 라디오, 영화, 텔레비전은 지난 100년 동안 사회에 막대한 영향을 미쳤습니다. 그리고 지금 우리에게는 무한한 인터넷이 있습니다. 하지만 이것이 우리에게 어떤 영향을 미치고 있을까요? 우리는 많은 정보를 매우 빠르게 주고받을 수 있습니다. 그러나 정보가 너무 많아서 무엇이 중요하고 중요하지 않은지 알기 어렵습니다. 현대 미디어는 매일 매분 우리의 세계를 변화시키고 있습니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Apart from talking and writing, humans use non-verbal cues like hand gestures and facial expressions to communicate.",
+        "correct": "T",
+        "explanation": "True (Paragraph 1 states: 'We can talk and write, and we can send messages with our hands and faces.')"
+      },
+      {
+        "question": "Animals have a limited ability to communicate compared to humans because they cannot express emotions like anger or love.",
+        "correct": "F",
+        "explanation": "False (Paragraph 2 mentions that monkeys use their faces to show anger and love.)"
+      },
+      {
+        "question": "Human language allows us to communicate about the past and future, not just the present.",
+        "correct": "T",
+        "explanation": "True (Paragraph 2 notes that humans have a sense of past and future, not just present.)"
+      },
+      {
+        "question": "Ancient Roman society did not rely on any specific writing system or alphabet to manage their government.",
+        "correct": "F",
+        "explanation": "False (Paragraph 3 states that the Romans developed a system of government that depended on the Roman alphabet.)"
+      },
+      {
+        "question": "While the Internet allows for the rapid exchange of information, it can also make it challenging to distinguish what is important.",
+        "correct": "T",
+        "explanation": "True (Paragraph 4 states: 'There is so much information that it is difficult to know what is important and what isn't.')"
+      }
+    ],
+    "ja": [
+      {
+        "question": "話すことや書くことに加えて、人間は手のジェスチャーや顔の表情などの非言語的手がかりを使ってコミュニケーションをとる。",
+        "correct": "T",
+        "explanation": "真 (パラグラフ1: 「私たちは話したり書いたり、手や顔でメッセージを送ることができます。」)"
+      },
+      {
+        "question": "動物は怒りや愛情のような感情を表現できないため、人間と比較してコミュニケーション能力が限られている。",
+        "correct": "F",
+        "explanation": "偽 (パラグラフ2: サルが顔を使って怒りや愛情を示すと述べられています。)"
+      },
+      {
+        "question": "人間の言語は、現在だけでなく、過去や未来についてもコミュニケーションすることを可能にする。",
+        "correct": "T",
+        "explanation": "真 (パラグラフ2: 人間は現在だけでなく、過去と未来の感覚を持っていると述べられています。)"
+      },
+      {
+        "question": "古代ローマ社会は、政府を管理するために特定の文字体系やアルファベットに依存していなかった。",
+        "correct": "F",
+        "explanation": "偽 (パラグラフ3: ローマ人はローマ字に依存した統治システムを発展させたと述べられています。)"
+      },
+      {
+        "question": "インターネットは情報の迅速な交換を可能にする一方で、何が重要かを区別することを困難にする可能性もある。",
+        "correct": "T",
+        "explanation": "真 (パラグラフ4: 「情報が多すぎて、何が重要で何が重要でないかを知るのが難しい」と述べられています。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "En plus de parler et d'écrire, les humains utilisent des signaux non verbaux comme les gestes de la main et les expressions faciales pour communiquer.",
+        "correct": "T",
+        "explanation": "Vrai (Paragraphe 1 : « Nous pouvons parler et écrire, et nous pouvons envoyer des messages avec nos mains et nos visages. »)"
+      },
+      {
+        "question": "Les animaux ont une capacité de communication limitée par rapport aux humains car ils ne peuvent pas exprimer d'émotions comme la colère ou l'amour.",
+        "correct": "F",
+        "explanation": "Faux (Le paragraphe 2 mentionne que les singes utilisent leur visage pour montrer la colère et l'amour.)"
+      },
+      {
+        "question": "Le langage humain nous permet de communiquer sur le passé et le futur, pas seulement sur le présent.",
+        "correct": "T",
+        "explanation": "Vrai (Le paragraphe 2 note que les humains ont un sens du passé et du futur, pas seulement du présent.)"
+      },
+      {
+        "question": "La société romaine antique ne s'appuyait sur aucun système d'écriture ou alphabet spécifique pour gérer son gouvernement.",
+        "correct": "F",
+        "explanation": "Faux (Le paragraphe 3 indique que les Romains ont développé un système de gouvernement qui dépendait de l'alphabet romain.)"
+      },
+      {
+        "question": "Bien qu'Internet permette un échange rapide d'informations, il peut également rendre difficile la distinction de ce qui est important.",
+        "correct": "T",
+        "explanation": "Vrai (Paragraphe 4 : « Il y a tellement d'informations qu'il est difficile de savoir ce qui est important et ce qui ne l'est pas. »)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "말하기와 쓰기 외에도 인간은 손짓과 얼굴 표정 같은 비언어적 신호를 사용하여 의사소통한다.",
+        "correct": "T",
+        "explanation": "참 (문단 1: '우리는 말하고, 쓰고, 손과 얼굴로 메시지를 보낼 수 있습니다.')"
+      },
+      {
+        "question": "동물은 분노나 사랑과 같은 감정을 표현할 수 없기 때문에 인간에 비해 의사소통 능력이 제한적이다.",
+        "correct": "F",
+        "explanation": "거짓 (문단 2: 원숭이가 얼굴로 분노와 사랑을 표현한다고 언급되어 있습니다.)"
+      },
+      {
+        "question": "인간의 언어는 현재뿐만 아니라 과거와 미래에 대해서도 의사소통할 수 있게 해준다.",
+        "correct": "T",
+        "explanation": "참 (문단 2: 인간은 현재뿐만 아니라 과거와 미래에 대한 감각을 가지고 있다고 언급되어 있습니다.)"
+      },
+      {
+        "question": "고대 로마 사회는 정부를 관리하기 위해 특정 문자 체계나 알파벳에 의존하지 않았다.",
+        "correct": "F",
+        "explanation": "거짓 (문단 3: 로마인들이 로마 알파벳에 의존한 통치 시스템을 발전시켰다고 명시되어 있습니다.)"
+      },
+      {
+        "question": "인터넷은 빠른 정보 교환을 가능하게 하는 동시에, 무엇이 중요한지 구분하기 어렵게 만들 수도 있다.",
+        "correct": "T",
+        "explanation": "참 (문단 4: '정보가 너무 많아서 무엇이 중요하고 중요하지 않은지 알기 어렵습니다.')"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "communicate with other people",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "in many different ways",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "We can <b>communicate with other people</b> <b>in many different ways</b>, such as talking, writing, and e-mail.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "exchanging information",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "nothing compared to",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Animals have ways of <b>exchanging information</b>, but this is <b>nothing compared to</b> what people can do.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Humans <b>communicate with other people</b> <b>in many different ways</b>, including using language and technology. While animals are <b>exchanging information</b> through dance or song, it is <b>nothing compared to</b> human abilities like telling jokes or making promises.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "transformed Egyptian life",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "the printing press",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Hieroglyphics <b>transformed Egyptian life</b>, and later <b>the printing press</b> helped develop new ways of thinking.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "huge influence on society",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "changing our world every minute",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Radio and television have had a <b>huge influence on society</b> and are <b>changing our world every minute</b>.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Historical tools like paper <b>transformed Egyptian life</b>, while <b>the printing press</b> changed Europe. In modern times, the Internet has a <b>huge influence on society</b>, <b>changing our world every minute</b> of every day.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "We <b>communicate with other people</b> <b>in many different ways</b>, which is <b>nothing compared to</b> animals <b>exchanging information</b>. From the time hieroglyphics <b>transformed Egyptian life</b> to the invention of <b>the printing press</b>, communication has evolved. Today, modern media has a <b>huge influence on society</b>, <b>changing our world every minute</b> and providing information very quickly.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "他の人とコミュニケーションを取る",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "多くの異なる方法で",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "私たちは<strong>多くの異なる方法で</strong><strong>他の人とコミュニケーションを取る</strong>ことができます。話す、書く、電子メールなどです。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "情報を交換する",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "～に比べれば取るに足らない",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "動物にも<strong>情報を交換する</strong>方法がありますが、それは人間のできることに<strong>比べれば取るに足らない</strong>ものです。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "人間は言語やテクノロジーを使って<strong>多くの異なる方法で</strong><strong>他の人とコミュニケーションを取って</strong>います。動物がダンスや歌で<strong>情報を交換している</strong>間、それは冗談を言ったり約束をしたりする人間の能力に<strong>比べれば取るに足らない</strong>ものです。",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "エジプトの生活を変革した",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "印刷機",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "ヒエログリフは<strong>エジプトの生活を変革し</strong>、その後<strong>印刷機</strong>が新しい考え方の発展を助けました。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "社会に大きな影響",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "毎分私たちの世界を変えている",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "ラジオやテレビは社会に<strong>大きな影響を</strong>与え、<strong>毎分私たちの世界を変えています</strong>。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "紙のような歴史的な道具は<strong>エジプトの生活を変革し</strong>、<strong>印刷機</strong>はヨーロッパを変えました。現代では、インターネットが社会に<strong>大きな影響を</strong>与え、毎日<strong>毎分私たちの世界を変えています</strong>。",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "communiquer avec d'autres personnes",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "de nombreuses façons différentes",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Nous pouvons <b>communiquer avec d'autres personnes</b> <b>de nombreuses façons différentes</b>, comme parler, écrire et envoyer des e-mails.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "échanger des informations",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "rien comparé à",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Les animaux ont des moyens d'<b>échanger des informations</b>, mais ce n'est <b>rien comparé à</b> ce que les humains peuvent faire.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les humains <b>communiquent avec d'autres personnes</b> <b>de nombreuses façons différentes</b>, y compris en utilisant le langage et la technologie. Alors que les animaux <b>échangent des informations</b> par la danse ou le chant, c'est <b>rien comparé à</b> les capacités humaines comme raconter des blagues ou faire des promesses.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "transformé la vie égyptienne",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "l'imprimerie",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Les hiéroglyphes ont <b>transformé la vie égyptienne</b>, et plus tard <b>l'imprimerie</b> a aidé à développer de nouvelles façons de penser.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "énorme influence sur la société",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "changer notre monde chaque minute",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "La radio et la télévision ont eu une <b>énorme influence sur la société</b> et <b>changent notre monde chaque minute</b>.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les outils historiques comme le papier ont <b>transformé la vie égyptienne</b>, tandis que <b>l'imprimerie</b> a changé l'Europe. À l'ère moderne, Internet a une <b>énorme influence sur la société</b>, <b>changeant notre monde chaque minute</b> de chaque jour.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "다른 사람들과 의사소통하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "다양한 방법으로",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "우리는 말하기, 쓰기, 이메일과 같은 <strong>다양한 방법으로</strong> <strong>다른 사람들과 의사소통</strong>할 수 있습니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "정보를 교환하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "비하면 아무것도 아니다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "동물들도 <strong>정보를 교환</strong>하는 방법이 있지만, 그것은 인간이 할 수 있는 것에 <strong>비하면 아무것도 아닙니다</strong>.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "인간은 언어와 기술을 포함한 <strong>다양한 방법으로</strong> <strong>다른 사람들과 의사소통합니다</strong>. 동물들이 춤이나 노래를 통해 <strong>정보를 교환하는</strong> 동안, 그것은 농담을 하거나 약속을 하는 인간의 능력에 <strong>비하면 아무것도 아닙니다</strong>.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "이집트 생활을 변화시켰다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "인쇄기",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "상형문자는 <strong>이집트 생활을 변화시켰고</strong>, 이후 <strong>인쇄기</strong>는 새로운 사고 방식의 발전을 도왔습니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "사회에 막대한 영향",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "매분 우리의 세계를 변화시키다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "라디오와 텔레비전은 사회에 <strong>막대한 영향을</strong> 미쳤고, <strong>매분 우리의 세계를 변화시키고 있습니다</strong>.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "종이와 같은 역사적 도구는 <strong>이집트 생활을 변화시켰</strong>고, <strong>인쇄기</strong>는 유럽을 변화시켰습니다. 현대에는 인터넷이 사회에 <strong>막대한 영향을</strong> 미치며, 매일 매분 <strong>우리의 세계를 변화시키고 있습니다</strong>.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Form and Structure (Questions in Different Tenses)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Present Simple</strong>: Use <strong>do/does</strong> before the subject.</p><p style='margin:5px 0;'><strong>• Past Simple</strong>: Use <strong>did</strong> before the subject.</p><p style='margin:5px 0;'><strong>• Present Continuous & Perfect</strong>: Put the auxiliary (<strong>be</strong> or <strong>have</strong>) before the subject.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> '<span style='color:#e67e22; font-weight:bold;'>Does</span> she like it here?'<br><i style='color:#7f8c8d;'>(Present Simple question)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'Why <span style='color:#2980b9; font-weight:bold;'>did</span> he go there?'<br><i style='color:#7f8c8d;'>(Past Simple question)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> '<span style='color:#16a085; font-weight:bold;'>Is</span> she just visiting?' / '<span style='color:#16a085; font-weight:bold;'>Have</span> you been here long?'<br><i style='color:#7f8c8d;'>(Present Continuous / Present Perfect questions)</i></li></ul><h3>2. Asking Questions Naturally</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Usage</strong>: To ask questions naturally, we adjust the word order based on the verb tense and type.</p><p style='margin:5px 0;'><strong>• Pattern</strong>: Question Word + Auxiliary Verb + Subject + Main Verb?</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'What <span style='color:#2980b9; font-weight:bold;'>do</span> you <span style='color:#2980b9; font-weight:bold;'>do</span> for fun?'<br><i style='color:#7f8c8d;'>(Present Simple with question word)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'Where <span style='color:#2980b9; font-weight:bold;'>did</span> you <span style='color:#2980b9; font-weight:bold;'>meet</span> her?'<br><i style='color:#7f8c8d;'>(Past Simple with question word)</i></li></ul><h3>3. Yes/No Questions and Short Answers</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Yes/No Question</strong>: Auxiliary Verb + Subject + Main Verb?</p><p style='margin:5px 0;'><strong>• Short Answer</strong>: Yes, subject + auxiliary. / No, subject + auxiliary + not.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> '<span style='color:#d35400; font-weight:bold;'>Do</span> you <span style='color:#d35400; font-weight:bold;'>get on well</span>?'<br><i style='color:#7f8c8d;'>(Yes, we do. / No, we don't.)</i></li></ul>",
+    "ja": "<p><em>文法ノートは後日追加されます。</em></p>",
+    "fr": "<p><em>Les notes de grammaire seront ajoutées ultérieurement.</em></p>",
+    "ko": "<p><em>문법 노트는 추후 추가될 예정입니다.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Personality & Inheritance</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: caring, strict, patient, inherit, predispose</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. A <select class='vocab-select'><option value=''>── select ──</option><option value='caring'>caring</option><option value='strict'>strict</option><option value='patient'>patient</option><option value='inherit'>inherit</option><option value='predispose'>predispose</option></select> teacher stays calm even when students struggle with the lesson.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='patient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Many children <select class='vocab-select'><option value=''>── select ──</option><option value='caring'>caring</option><option value='strict'>strict</option><option value='patient'>patient</option><option value='inherit'>inherit</option><option value='predispose'>predispose</option></select> physical features like eye color from their biological parents.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='inherit' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. She is known for her <select class='vocab-select'><option value=''>── select ──</option><option value='caring'>caring</option><option value='strict'>strict</option><option value='patient'>patient</option><option value='inherit'>inherit</option><option value='predispose'>predispose</option></select> nature, always volunteering to help those in need.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='caring' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Certain lifestyle factors can <select class='vocab-select'><option value=''>── select ──</option><option value='caring'>caring</option><option value='strict'>strict</option><option value='patient'>patient</option><option value='inherit'>inherit</option><option value='predispose'>predispose</option></select> a person to develop specific health issues.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='predispose' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. The manager is quite <select class='vocab-select'><option value=''>── select ──</option><option value='caring'>caring</option><option value='strict'>strict</option><option value='patient'>patient</option><option value='inherit'>inherit</option><option value='predispose'>predispose</option></select> regarding office attendance and deadlines.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='strict' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Intelligence & Development</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: bright, nurtured, empathy, agency, trait</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. The <select class='vocab-select'><option value=''>── select ──</option><option value='bright'>bright</option><option value='nurtured'>nurtured</option><option value='empathy'>empathy</option><option value='agency'>agency</option><option value='trait'>trait</option></select> student solved the complex math problem in just a few seconds.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='bright' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Honesty is a highly valued <select class='vocab-select'><option value=''>── select ──</option><option value='bright'>bright</option><option value='nurtured'>nurtured</option><option value='empathy'>empathy</option><option value='agency'>agency</option><option value='trait'>trait</option></select> that many people look for in a friend.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='trait' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. The garden grew beautifully because the plants were well <select class='vocab-select'><option value=''>── select ──</option><option value='bright'>bright</option><option value='nurtured'>nurtured</option><option value='empathy'>empathy</option><option value='agency'>agency</option><option value='trait'>trait</option></select> by the expert gardener.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='nurtured' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Reading novels can help us develop <select class='vocab-select'><option value=''>── select ──</option><option value='bright'>bright</option><option value='nurtured'>nurtured</option><option value='empathy'>empathy</option><option value='agency'>agency</option><option value='trait'>trait</option></select> by allowing us to experience the world through others' eyes.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='empathy' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. Education provides individuals with the <select class='vocab-select'><option value=''>── select ──</option><option value='bright'>bright</option><option value='nurtured'>nurtured</option><option value='empathy'>empathy</option><option value='agency'>agency</option><option value='trait'>trait</option></select> to make informed life choices.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='agency' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Change & Communication</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: dynamic, devise, affection, instinctive, symbolic</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. The modern workplace is a <select class='vocab-select'><option value=''>── select ──</option><option value='dynamic'>dynamic</option><option value='devise'>devise</option><option value='affection'>affection</option><option value='instinctive'>instinctive</option><option value='symbolic'>symbolic</option></select> environment that requires constant adaptation.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='dynamic' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. The team had to <select class='vocab-select'><option value=''>── select ──</option><option value='dynamic'>dynamic</option><option value='devise'>devise</option><option value='affection'>affection</option><option value='instinctive'>instinctive</option><option value='symbolic'>symbolic</option></select> a new strategy to solve the budget deficit.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='devise' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. A dove is often used as a <select class='vocab-select'><option value=''>── select ──</option><option value='dynamic'>dynamic</option><option value='devise'>devise</option><option value='affection'>affection</option><option value='instinctive'>instinctive</option><option value='symbolic'>symbolic</option></select> representation of peace.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='symbolic' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Most animals have an <select class='vocab-select'><option value=''>── select ──</option><option value='dynamic'>dynamic</option><option value='devise'>devise</option><option value='affection'>affection</option><option value='instinctive'>instinctive</option><option value='symbolic'>symbolic</option></select> reaction to run when they sense immediate danger.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='instinctive' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. A simple hug can be a powerful way to show your <select class='vocab-select'><option value=''>── select ──</option><option value='dynamic'>dynamic</option><option value='devise'>devise</option><option value='affection'>affection</option><option value='instinctive'>instinctive</option><option value='symbolic'>symbolic</option></select> for a friend.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='affection' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Resilience & Connection</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: creative, generative, support network, resilient, forge</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Being <select class='vocab-select'><option value=''>── select ──</option><option value='creative'>creative</option><option value='generative'>generative</option><option value='support network'>support network</option><option value='resilient'>resilient</option><option value='forge'>forge</option></select> allows us to find unique solutions to everyday problems.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='creative' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. She is incredibly <select class='vocab-select'><option value=''>── select ──</option><option value='creative'>creative</option><option value='generative'>generative</option><option value='support network'>support network</option><option value='resilient'>resilient</option><option value='forge'>forge</option></select>, quickly bouncing back from any setback she faces.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='resilient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Having a strong <select class='vocab-select'><option value=''>── select ──</option><option value='creative'>creative</option><option value='generative'>generative</option><option value='support network'>support network</option><option value='resilient'>resilient</option><option value='forge'>forge</option></select> is crucial for emotional stability during stressful times.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='support network' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. The human mind is remarkably <select class='vocab-select'><option value=''>── select ──</option><option value='creative'>creative</option><option value='generative'>generative</option><option value='support network'>support network</option><option value='resilient'>resilient</option><option value='forge'>forge</option></select>, constantly producing new thoughts and ideas.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='generative' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. Trust is the foundation needed to <select class='vocab-select'><option value=''>── select ──</option><option value='creative'>creative</option><option value='generative'>generative</option><option value='support network'>support network</option><option value='resilient'>resilient</option><option value='forge'>forge</option></select> deep and lasting human connections.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='forge' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ 1: 性格と遺伝</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 思いやりのある, 厳格な, 忍耐強い, 受け継ぐ, 素因を与える</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. <select class='vocab-select'><option value=''>── 選択 ──</option><option value='caring'>思いやりのある</option><option value='strict'>厳格な</option><option value='patient'>忍耐強い</option><option value='inherit'>受け継ぐ</option><option value='predispose'>素因を与える</option></select>教師は、生徒が授業に苦戦しても冷静さを保ちます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='patient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 多くの子供は実の親から目の色などの身体的特徴を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='caring'>思いやりのある</option><option value='strict'>厳格な</option><option value='patient'>忍耐強い</option><option value='inherit'>受け継ぐ</option><option value='predispose'>素因を与える</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='inherit' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 彼女は<select class='vocab-select'><option value=''>── 選択 ──</option><option value='caring'>思いやりのある</option><option value='strict'>厳格な</option><option value='patient'>忍耐強い</option><option value='inherit'>受け継ぐ</option><option value='predispose'>素因を与える</option></select>性格で知られ、困っている人を助けるためにいつもボランティアをしている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='caring' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 特定の生活習慣要因は、特定の健康問題を発症する<select class='vocab-select'><option value=''>── 選択 ──</option><option value='caring'>思いやりのある</option><option value='strict'>厳格な</option><option value='patient'>忍耐強い</option><option value='inherit'>受け継ぐ</option><option value='predispose'>素因を与える</option></select>可能性があります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='predispose' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. マネージャーは出勤と締切に関してかなり<select class='vocab-select'><option value=''>── 選択 ──</option><option value='caring'>思いやりのある</option><option value='strict'>厳格な</option><option value='patient'>忍耐強い</option><option value='inherit'>受け継ぐ</option><option value='predispose'>素因を与える</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='strict' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ 2: 知性と発達</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 賢い, 育てられた, 共感力, 主体性, 特性</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. <select class='vocab-select'><option value=''>── 選択 ──</option><option value='bright'>賢い</option><option value='nurtured'>育てられた</option><option value='empathy'>共感力</option><option value='agency'>主体性</option><option value='trait'>特性</option></select>生徒は複雑な数学の問題をほんの数秒で解きました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='bright' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 正直さは、多くの人が友人に求める非常に価値のある<select class='vocab-select'><option value=''>── 選択 ──</option><option value='bright'>賢い</option><option value='nurtured'>育てられた</option><option value='empathy'>共感力</option><option value='agency'>主体性</option><option value='trait'>特性</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='trait' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 植物は専門の庭師によってしっかりと<select class='vocab-select'><option value=''>── 選択 ──</option><option value='bright'>賢い</option><option value='nurtured'>育てられた</option><option value='empathy'>共感力</option><option value='agency'>主体性</option><option value='trait'>特性</option></select>ため、庭は美しく育ちました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='nurtured' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 小説を読むことは、他人の目を通して世界を体験することを可能にし、<select class='vocab-select'><option value=''>── 選択 ──</option><option value='bright'>賢い</option><option value='nurtured'>育てられた</option><option value='empathy'>共感力</option><option value='agency'>主体性</option><option value='trait'>特性</option></select>を育むのに役立ちます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='empathy' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 教育は個人に情報に基づいた人生の選択をするための<select class='vocab-select'><option value=''>── 選択 ──</option><option value='bright'>賢い</option><option value='nurtured'>育てられた</option><option value='empathy'>共感力</option><option value='agency'>主体性</option><option value='trait'>特性</option></select>を提供します。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='agency' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ 3: 変化とコミュニケーション</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 動的な, 考案する, 愛情, 本能的, 象徴的な</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 現代の職場は絶え間ない適応を必要とする<select class='vocab-select'><option value=''>── 選択 ──</option><option value='dynamic'>動的な</option><option value='devise'>考案する</option><option value='affection'>愛情</option><option value='instinctive'>本能的</option><option value='symbolic'>象徴的な</option></select>環境です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='dynamic' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. チームは予算不足を解決するために新しい戦略を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='dynamic'>動的な</option><option value='devise'>考案する</option><option value='affection'>愛情</option><option value='instinctive'>本能的</option><option value='symbolic'>象徴的な</option></select>なければならなかった。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='devise' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 鳩は平和の<select class='vocab-select'><option value=''>── 選択 ──</option><option value='dynamic'>動的な</option><option value='devise'>考案する</option><option value='affection'>愛情</option><option value='instinctive'>本能的</option><option value='symbolic'>象徴的な</option></select>表現としてよく使われます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='symbolic' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. ほとんどの動物は、危険を感じると逃げる<select class='vocab-select'><option value=''>── 選択 ──</option><option value='dynamic'>動的な</option><option value='devise'>考案する</option><option value='affection'>愛情</option><option value='instinctive'>本能的</option><option value='symbolic'>象徴的な</option></select>反応を示します。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='instinctive' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. シンプルなハグは、友人への<select class='vocab-select'><option value=''>── 選択 ──</option><option value='dynamic'>動的な</option><option value='devise'>考案する</option><option value='affection'>愛情</option><option value='instinctive'>本能的</option><option value='symbolic'>象徴的な</option></select>を示す強力な方法です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='affection' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ 4: 回復力と繋がり</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 創造的な, 生成的, 支援ネットワーク, 回復力のある, 築く</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. <select class='vocab-select'><option value=''>── 選択 ──</option><option value='creative'>創造的な</option><option value='generative'>生成的</option><option value='support network'>支援ネットワーク</option><option value='resilient'>回復力のある</option><option value='forge'>築く</option></select>ことは、日常の問題に対する独自の解決策を見つけることを可能にします。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='creative' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 彼女は信じられないほど<select class='vocab-select'><option value=''>── 選択 ──</option><option value='creative'>創造的な</option><option value='generative'>生成的</option><option value='support network'>支援ネットワーク</option><option value='resilient'>回復力のある</option><option value='forge'>築く</option></select>、直面するどんな逆境からも素早く立ち直ります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='resilient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 強い<select class='vocab-select'><option value=''>── 選択 ──</option><option value='creative'>創造的な</option><option value='generative'>生成的</option><option value='support network'>支援ネットワーク</option><option value='resilient'>回復力のある</option><option value='forge'>築く</option></select>を持つことは、ストレスの多い時期の精神的安定に不可欠です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='support network' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 人間の心は驚くほど<select class='vocab-select'><option value=''>── 選択 ──</option><option value='creative'>創造的な</option><option value='generative'>生成的</option><option value='support network'>支援ネットワーク</option><option value='resilient'>回復力のある</option><option value='forge'>築く</option></select>、常に新しい考えやアイデアを生み出しています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='generative' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 信頼は、深く永続的な人間関係を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='creative'>創造的な</option><option value='generative'>生成的</option><option value='support network'>支援ネットワーク</option><option value='resilient'>回復力のある</option><option value='forge'>築く</option></select>ために必要な基盤です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='forge' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1: Personnalité et Héritage</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: attentionné, strict, patient, hériter, prédisposer</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Un enseignant <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='caring'>attentionné</option><option value='strict'>strict</option><option value='patient'>patient</option><option value='inherit'>hériter</option><option value='predispose'>prédisposer</option></select> reste calme même quand les élèves ont des difficultés.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='patient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. De nombreux enfants <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='caring'>attentionné</option><option value='strict'>strict</option><option value='patient'>patient</option><option value='inherit'>hériter</option><option value='predispose'>prédisposer</option></select> des caractéristiques physiques comme la couleur des yeux de leurs parents biologiques.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='inherit' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Elle est connue pour sa nature <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='caring'>attentionnée</option><option value='strict'>stricte</option><option value='patient'>patiente</option><option value='inherit'>hériter</option><option value='predispose'>prédisposer</option></select>, faisant toujours du bénévolat pour aider les personnes dans le besoin.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='caring' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Certains facteurs liés au mode de vie peuvent <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='caring'>attentionné</option><option value='strict'>strict</option><option value='patient'>patient</option><option value='inherit'>hériter</option><option value='predispose'>prédisposer</option></select> une personne à développer des problèmes de santé spécifiques.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='predispose' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. Le gestionnaire est assez <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='caring'>attentionné</option><option value='strict'>strict</option><option value='patient'>patient</option><option value='inherit'>hériter</option><option value='predispose'>prédisposer</option></select> concernant les présences et les délais.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='strict' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2: Intelligence et Développement</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: intelligent, élevé, empathie, agentivité, trait</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. L'étudiant <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='bright'>intelligent</option><option value='nurtured'>élevé</option><option value='empathy'>empathie</option><option value='agency'>agentivité</option><option value='trait'>trait</option></select> a résolu le problème mathématique complexe en quelques secondes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='bright' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. L'honnêteté est un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='bright'>intelligent</option><option value='nurtured'>élevé</option><option value='empathy'>empathie</option><option value='agency'>agentivité</option><option value='trait'>trait</option></select> très valorisé que beaucoup recherchent chez un ami.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='trait' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Le jardin a magnifiquement poussé parce que les plantes ont été bien <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='bright'>intelligentes</option><option value='nurtured'>élevées</option><option value='empathy'>empathie</option><option value='agency'>agentivité</option><option value='trait'>trait</option></select> par le jardinier expert.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='nurtured' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Lire des romans peut nous aider à développer l'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='bright'>intelligence</option><option value='nurtured'>éducation</option><option value='empathy'>empathie</option><option value='agency'>agentivité</option><option value='trait'>trait</option></select> en nous permettant de vivre le monde à travers les yeux des autres.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='empathy' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. L'éducation offre aux individus l'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='bright'>intelligence</option><option value='nurtured'>éducation</option><option value='empathy'>empathie</option><option value='agency'>agentivité</option><option value='trait'>trait</option></select> de faire des choix de vie éclairés.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='agency' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3: Changement et Communication</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: dynamique, concevoir, affection, instinctif, symbolique</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Le lieu de travail moderne est un environnement <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='dynamic'>dynamique</option><option value='devise'>concevoir</option><option value='affection'>affection</option><option value='instinctive'>instinctif</option><option value='symbolic'>symbolique</option></select> qui nécessite une adaptation constante.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='dynamic' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. L'équipe a dû <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='dynamic'>dynamique</option><option value='devise'>concevoir</option><option value='affection'>affection</option><option value='instinctive'>instinctif</option><option value='symbolic'>symbolique</option></select> une nouvelle stratégie pour résoudre le déficit budgétaire.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='devise' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Une colombe est souvent utilisée comme représentation <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='dynamic'>dynamique</option><option value='devise'>concevoir</option><option value='affection'>affection</option><option value='instinctive'>instinctif</option><option value='symbolic'>symbolique</option></select> de la paix.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='symbolic' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. La plupart des animaux ont une réaction <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='dynamic'>dynamique</option><option value='devise'>concevoir</option><option value='affection'>affection</option><option value='instinctive'>instinctive</option><option value='symbolic'>symbolique</option></select> de fuir lorsqu'ils sentent un danger immédiat.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='instinctive' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. Un simple câlin peut être un moyen puissant de montrer votre <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='dynamic'>dynamique</option><option value='devise'>concevoir</option><option value='affection'>affection</option><option value='instinctive'>instinctif</option><option value='symbolic'>symbolique</option></select> pour un ami.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='affection' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4: Résilience et Connexion</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: créatif, génératif, réseau de soutien, résilient, forger</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Être <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='creative'>créatif</option><option value='generative'>génératif</option><option value='support network'>réseau de soutien</option><option value='resilient'>résilient</option><option value='forge'>forger</option></select> nous permet de trouver des solutions uniques aux problèmes quotidiens.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='creative' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Elle est incroyablement <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='creative'>créative</option><option value='generative'>générative</option><option value='support network'>réseau de soutien</option><option value='resilient'>résiliente</option><option value='forge'>forger</option></select>, se remettant rapidement de tous les revers qu'elle rencontre.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='resilient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Avoir un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='creative'>créatif</option><option value='generative'>génératif</option><option value='support network'>réseau de soutien</option><option value='resilient'>résilient</option><option value='forge'>forger</option></select> solide est crucial pour la stabilité émotionnelle pendant les périodes stressantes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='support network' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. L'esprit humain est remarquablement <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='creative'>créatif</option><option value='generative'>génératif</option><option value='support network'>réseau de soutien</option><option value='resilient'>résilient</option><option value='forge'>forger</option></select>, produisant constamment de nouvelles pensées et idées.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='generative' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. La confiance est la base nécessaire pour <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='creative'>créer</option><option value='generative'>générer</option><option value='support network'>soutenir</option><option value='resilient'>résister</option><option value='forge'>forger</option></select> des liens humains profonds et durables.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='forge' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 쇼핑 경험과 서비스</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 독특한, 상품 구성, 포장된, 인력 부족인, 응대하는</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 이 부서에서 고객을 응대하는 사람이 있나요? <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='unique'>독특한</option><option value='selection'>상품 구성</option><option value='wrapped'>포장된</option><option value='understaffed'>인력 부족인</option><option value='serving'>응대하는</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='serving' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 작은 부티크는 전 세계 시장을 위해 대량 생산되지 않은 독특한 상품을 제공합니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='unique'>독특한</option><option value='selection'>상품 구성</option><option value='wrapped'>포장된</option><option value='understaffed'>인력 부족인</option><option value='serving'>응대하는</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='unique' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 직원이 부족해 아무도 도와주지 않는 가게에서는 불만을 느끼게 됩니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='unique'>독특한</option><option value='selection'>상품 구성</option><option value='wrapped'>포장된</option><option value='understaffed'>인력 부족인</option><option value='serving'>응대하는</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='understaffed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 대형 백화점은 한곳에서 다양한 상품 구성을 제공합니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='unique'>독특한</option><option value='selection'>상품 구성</option><option value='wrapped'>포장된</option><option value='understaffed'>인력 부족인</option><option value='serving'>응대하는</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='selection' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. 점원은 '선물 포장을 해드릴까요?'라고 물으며 특별한 배려를 더했습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='unique'>독특한</option><option value='selection'>상품 구성</option><option value='wrapped'>포장된</option><option value='understaffed'>인력 부족인</option><option value='serving'>응대하는</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='wrapped' style='display:none;'></span></div></div> <div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 상품 문제와 반품</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 품절된, 손상된, 제조 결함, 영수증, 환불</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 영수증이 없으면 환불을 받거나 상품을 교환할 수 없습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='out of stock'>품절된</option><option value='damaged'>손상된</option><option value='manufacturing fault'>제조 결함</option><option value='receipt'>영수증</option><option value='refund'>환불</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='receipt' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 내가 원했던 상품은 품절된 상태여서 전혀 구매할 수 없었습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='out of stock'>품절된</option><option value='damaged'>손상된</option><option value='manufacturing fault'>제조 결함</option><option value='receipt'>영수증</option><option value='refund'>환불</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='out of stock' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 결함이 있는 상품을 반품했을 때 매장은 전액 환불을 해주었습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='out of stock'>품절된</option><option value='damaged'>손상된</option><option value='manufacturing fault'>제조 결함</option><option value='receipt'>영수증</option><option value='refund'>환불</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='refund' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 집에서 상자를 열어보니 상품은 이미 단추가 느슨해져 손상된 상태였습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='out of stock'>품절된</option><option value='damaged'>손상된</option><option value='manufacturing fault'>제조 결함</option><option value='receipt'>영수증</option><option value='refund'>환불</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='damaged' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 부러진 부분은 제 잘못이 아니라 공장에서 발생한 실제 제조 결함이었습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='out of stock'>품절된</option><option value='damaged'>손상된</option><option value='manufacturing fault'>제조 결함</option><option value='receipt'>영수증</option><option value='refund'>환불</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='manufacturing fault' style='display:none;'></span></div></div> <div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3: 품질과 독창성</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 교환, 신뢰할 수 있는, 고급의, 정교한, 대량 생산된</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 폴란드 제조업체들은 전 세계 소비를 위해 대량 생산된 제품이 아닌 상품을 생산합니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='exchange'>교환</option><option value='reliable'>신뢰할 수 있는</option><option value='exclusive'>고급의</option><option value='exquisite'>정교한</option><option value='mass-produced'>대량 생산된</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='mass-produced' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 그 셔츠는 나에게 맞지 않았기 때문에 다른 사이즈로 교환을 요청했습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='exchange'>교환</option><option value='reliable'>신뢰할 수 있는</option><option value='exclusive'>고급의</option><option value='exquisite'>정교한</option><option value='mass-produced'>대량 생산된</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='exchange' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 전문 매장에서 1,000파운드에 정교하게 제작된 수제 정장을 구매할 수 있습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='exchange'>교환</option><option value='reliable'>신뢰할 수 있는</option><option value='exclusive'>고급의</option><option value='exquisite'>정교한</option><option value='mass-produced'>대량 생산된</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='exquisite' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 훌륭한 고객 서비스를 제공하는 신뢰할 수 있는 매장은 문제를 빠르고 전문적으로 해결해 줍니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='exchange'>교환</option><option value='reliable'>신뢰할 수 있는</option><option value='exclusive'>고급의</option><option value='exquisite'>정교한</option><option value='mass-produced'>대량 생산된</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='reliable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. 노비 스비아트 거리에는 부유한 고객층을 위한 고급 카페와 프리미엄 부티크가 모여 있습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='exchange'>교환</option><option value='reliable'>신뢰할 수 있는</option><option value='exclusive'>고급의</option><option value='exquisite'>정교한</option><option value='mass-produced'>대량 생산된</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='exclusive' style='display:none;'></span></div></div> <div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4: 분위기와 지역 쇼핑</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 활기찬, 부티크, 고객 서비스, 분위기, 중고의</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 훌륭한 고객 서비스를 제공하는 매장은 반품을 빠르고 전문적으로 처리합니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='lively'>활기찬</option><option value='boutique'>부티크</option><option value='customer service'>고객 서비스</option><option value='atmosphere'>분위기</option><option value='second-hand'>중고의</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='customer service' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 카페 블리클레는 맛있는 도넛으로 유명한 활기찬 장소입니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='lively'>활기찬</option><option value='boutique'>부티크</option><option value='customer service'>고객 서비스</option><option value='atmosphere'>분위기</option><option value='second-hand'>중고의</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='lively' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 공원 근처의 중고 상점에서 이 아름다운 귀걸이를 발견했습니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='lively'>활기찬</option><option value='boutique'>부티크</option><option value='customer service'>고객 서비스</option><option value='atmosphere'>분위기</option><option value='second-hand'>중고의</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='second-hand' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 노비 스비아트 거리의 활기찬 분위기는 쇼핑을 더욱 즐겁게 만들어 줍니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='lively'>활기찬</option><option value='boutique'>부티크</option><option value='customer service'>고객 서비스</option><option value='atmosphere'>분위기</option><option value='second-hand'>중고의</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='atmosphere' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 우리 집 근처의 작은 부티크에서는 저렴하면서도 개성 있는 옷을 판매합니다. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='lively'>활기찬</option><option value='boutique'>부티크</option><option value='customer service'>고객 서비스</option><option value='atmosphere'>분위기</option><option value='second-hand'>중고의</option></select><button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='boutique' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "The text explains different ways humans and animals <b>communicate</b>, as well as how communication has changed over time. <b>How do humans communicate in various ways, how are they different from animals, and how has communication developed from the past to today?</b>",
+    "ja": "テキストは、人間と動物のさまざまな<b>コミュニケーション</b>方法と、時間の経過とともにコミュニケーションがどのように変化してきたかを説明しています。<b>人間はどのように様々な方法でコミュニケーションを取り、動物とどのように異なり、コミュニケーションは過去から現在までどのように発展してきましたか？</b>",
+    "fr": "Le texte explique les différentes façons dont les humains et les animaux <b>communiquent</b>, ainsi que la façon dont la communication a changé au fil du temps. <b>Comment les humains communiquent-ils de différentes manières, en quoi sont-ils différents des animaux, et comment la communication s'est-elle développée du passé à aujourd'hui ?</b>",
+    "ko": "텍스트는 인간과 동물이 <b>의사소통</b>하는 다양한 방식과 시간이 지남에 따라 의사소통이 어떻게 변화했는지 설명합니다. <b>인간은 다양한 방식으로 어떻게 의사소통하며, 동물과 어떻게 다르며, 의사소통은 과거부터 현재까지 어떻게 발전해 왔나요?</b>"
+  },
+  "content_check_keywords": {
+    "en": "talk, write, body language, animals vs humans, language, ancient societies, printing press, Internet, modern media",
+    "ja": "話す、書く、ボディランゲージ、動物vs人間、言語、古代社会、印刷機、インターネット、現代メディア",
+    "fr": "parler, écrire, langage corporel, animaux vs humains, langage, sociétés anciennes, imprimerie, Internet, médias modernes",
+    "ko": "말하기, 쓰기, 신체 언어, 동물 대 인간, 언어, 고대 사회, 인쇄기, 인터넷, 현대 미디어"
+  },
+  "content_check_placeholder": {
+    "en": "Explain human communication, differences with animals, and how it has developed over time...",
+    "ja": "人間のコミュニケーション、動物との違い、そしてそれが時間とともにどのように発展してきたかを説明してください...",
+    "fr": "Expliquez la communication humaine, les différences avec les animaux et comment elle s'est développée au fil du temps...",
+    "ko": "인간의 의사소통, 동물과의 차이점, 그리고 시간이 지남에 따라 어떻게 발전해왔는지 설명하세요..."
+  },
+  "deepening_question": {
+    "en": "The dialogue and listening texts explore ideas about <b>genes</b>, <b>personality</b>, and how people communicate and express themselves. <b>Do you think a person's personality (e.g., being patient, strict, or caring) is more influenced by 'genes' or 'environment'? How does communication (talking, expressing feelings) shape who we become?</b>",
+    "ja": "対話とリスニングのテキストでは、<b>遺伝子</b>、<b>性格</b>、そして人々がどのようにコミュニケーションをとり自分を表現するかについての考えが探求されています。<b>人の性格（例：忍耐強い、厳格、思いやりがある）は、「遺伝子」と「環境」のどちらの影響をより強く受けると思いますか？コミュニケーション（話すこと、感情を表現すること）は、私たちがどのような人間になるかをどのように形作るのでしょうか？</b>",
+    "fr": "Les dialogues et les textes d'écoute explorent des idées sur les <b>gènes</b>, la <b>personnalité</b> et la façon dont les gens communiquent et s'expriment. <b>Pensez-vous que la personnalité d'une personne (par exemple, être patient, strict ou attentionné) est plus influencée par les « gènes » ou par l'« environnement » ? Comment la communication (parler, exprimer ses sentiments) façonne-t-elle ce que nous devenons ?</b>",
+    "ko": "대화와 듣기 텍스트는 <b>유전자</b>, <b>성격</b>, 그리고 사람들이 어떻게 의사소통하고 자신을 표현하는지에 대한 아이디어를 탐구합니다. <b>사람의 성격(예: 참을성 있는, 엄격한, 돌보는)이 '유전자'와 '환경' 중 무엇의 영향을 더 받는다고 생각하나요? 의사소통(말하기, 감정 표현)은 우리가 어떤 사람이 되는지를 어떻게 형성하나요?</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I think personality is more influenced by... Communication is important because...",
+    "ja": "性格は...の影響をより受けると思います。コミュニケーションが重要な理由は...",
+    "fr": "Je pense que la personnalité est plus influencée par... La communication est importante parce que...",
+    "ko": "성격은 ...의 영향을 더 받는다고 생각합니다. 의사소통이 중요한 이유는..."
+  },
+  "critical_question": {
+    "en": "We have explored how humans are <b>great communicators</b>, how communication has evolved from ancient times to the <b>Internet age</b>, and how individuals differ in <b>personality</b> due to both genes and environment. <b>In today's world, we have 'a lot of information' but sometimes 'little understanding.' Do modern communication tools (like the Internet and social media) really help us understand each other better, or do they create more confusion? Support your opinion by using quantifiers (e.g., 'a lot of', 'some', 'little', 'many') and examples from both the reading and the dialogue.</b>",
+    "ja": "私たちは、人間が<b>偉大なコミュニケーター</b>であること、コミュニケーションが古代から<b>インターネット時代</b>までどのように進化してきたか、そして遺伝子と環境の両方によって個人が<b>性格</b>においてどのように異なるかを探求してきました。<b>今日の世界では、「多くの情報」がありながら、時に「ほとんど理解していない」という状況があります。現代のコミュニケーションツール（インターネットやソーシャルメディアなど）は、本当に私たちがお互いをよりよく理解するのに役立っているのでしょうか、それともより多くの混乱を生み出しているのでしょうか？量を示す表現（例：「多くの」「いくつかの」「ほとんどない」「たくさんの」）と、読解と対話の両方からの例を使ってあなたの意見を裏付けてください。</b>",
+    "fr": "Nous avons exploré comment les humains sont de <b>grands communicateurs</b>, comment la communication a évolué de l'Antiquité à l'<b>ère d'Internet</b>, et comment les individus diffèrent en <b>personnalité</b> en raison à la fois des gènes et de l'environnement. <b>Dans le monde d'aujourd'hui, nous avons « beaucoup d'informations » mais parfois « peu de compréhension ». Les outils de communication modernes (comme Internet et les médias sociaux) nous aident-ils vraiment à mieux nous comprendre, ou créent-ils plus de confusion ? Soutenez votre opinion en utilisant des quantificateurs (par exemple, « beaucoup de », « certains », « peu de », « de nombreux ») et des exemples tirés à la fois de la lecture et du dialogue.</b>",
+    "ko": "우리는 인간이 얼마나 <b>위대한 의사소통자</b>인지, 의사소통이 고대에서 <b>인터넷 시대</b>까지 어떻게 진화해왔는지, 그리고 유전자와 환경 모두로 인해 개인이 <b>성격</b>에서 어떻게 다른지 탐구했습니다. <b>오늘날의 세계에서 우리는 '많은 정보'를 가지고 있지만 때로는 '거의 이해하지 못합니다'. 현대 의사소통 도구(인터넷과 소셜 미디어 같은)가 정말로 우리가 서로를 더 잘 이해하도록 돕고 있을까요, 아니면 더 많은 혼란을 만들고 있을까요? 수량 표현(예: '많은', '일부', '거의 없는', '여러')과 읽기 및 대화의 예시를 사용하여 여러분의 의견을 뒷받침하세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "Discuss whether modern communication improves understanding. Use quantifiers and examples from the unit...",
+    "ja": "現代のコミュニケーションが理解を深めるかどうかを議論してください。量を示す表現とユニットからの例を使用してください...",
+    "fr": "Discutez pour savoir si la communication moderne améliore la compréhension. Utilisez des quantificateurs et des exemples tirés de l'unité...",
+    "ko": "현대 의사소통이 이해도를 향상시키는지 논의하세요. 수량 표현과 유닛의 예시를 사용하세요..."
+  }
+}

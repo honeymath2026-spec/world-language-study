@@ -1,0 +1,539 @@
+/* common.css - 통합 언어 학습 플랫폼 공통 스타일 (최소화 버전) */
+
+/* ==================== CSS 변수 (테마 색상) ==================== */
+:root {
+    --primary: #2c3e50;
+    --secondary: #3498db;
+    --success: #27ae60;
+    --warning: #f39c12;
+    --danger: #e74c3c;
+    --purple: #9b59b6;
+    --gray-light: #f5f5f5;
+    --gray-border: #ddd;
+    --white: #ffffff;
+    --bg: #f4f7f6;
+}
+
+/* ==================== 리셋 & 기본 ==================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', 'Noto Sans JP', 'Noto Sans KR', 'Roboto', sans-serif;
+    background-color: var(--bg);
+    color: var(--primary);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+/* ==================== 컨테이너 ==================== */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* ==================== 버튼 공통 ==================== */
+.btn {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9rem;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}
+
+.btn-primary {
+    background-color: var(--secondary);
+    color: white;
+}
+
+.btn-success {
+    background-color: var(--success);
+    color: white;
+}
+
+.btn-warning {
+    background-color: var(--warning);
+    color: white;
+}
+
+.btn-danger {
+    background-color: var(--danger);
+    color: white;
+}
+
+.btn-outline {
+    background: transparent;
+    border: 1px solid var(--secondary);
+    color: var(--secondary);
+}
+
+.btn-outline:hover {
+    background: var(--secondary);
+    color: white;
+}
+
+.btn-sm {
+    padding: 6px 12px;
+    font-size: 0.8rem;
+}
+
+.btn-lg {
+    padding: 14px 28px;
+    font-size: 1rem;
+}
+
+/* ==================== 카드 공통 ==================== */
+.card {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+/* ==================== 헤더 (고정 상단) ==================== */
+.fixed-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: var(--white);
+    z-index: 1000;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 12px 20px;
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.logo-area {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.logo-area .level-badge {
+    background: var(--secondary);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+}
+
+.logo-area .page-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: var(--primary);
+}
+
+/* 언어 선택기 */
+.lang-selector {
+    display: flex;
+    gap: 8px;
+}
+
+.lang-btn {
+    background: none;
+    border: 1px solid var(--gray-border);
+    border-radius: 30px;
+    padding: 6px 14px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+}
+
+.lang-btn:hover {
+    background: var(--gray-light);
+}
+
+.lang-btn.active {
+    background: var(--secondary);
+    border-color: var(--secondary);
+    color: white;
+}
+
+/* 네비게이션 링크 */
+.nav-links {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.nav-links a {
+    padding: 6px 14px;
+    text-decoration: none;
+    color: var(--primary);
+    border-radius: 25px;
+    font-size: 0.85rem;
+    transition: 0.2s;
+}
+
+.nav-links a:hover {
+    background: var(--secondary);
+    color: white;
+}
+
+/* ==================== 하단 고정 버튼 ==================== */
+.back-to-dashboard {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background-color: var(--primary);
+    color: white;
+    padding: 12px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1001;
+    font-weight: bold;
+    transition: transform 0.2s, background-color 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.9rem;
+}
+
+.back-to-dashboard:hover {
+    transform: scale(1.05);
+    background-color: var(--secondary);
+}
+
+/* ==================== 대시보드 그리드 ==================== */
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.dashboard-card {
+    background: var(--white);
+    border-radius: 15px;
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: 1px solid var(--gray-border);
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+.dashboard-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    border-color: var(--secondary);
+}
+
+.card-number {
+    display: inline-block;
+    background: var(--secondary);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    margin-bottom: 12px;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.card-topic {
+    font-size: 0.85rem;
+    color: #888;
+    margin-bottom: 8px;
+}
+
+.card-desc {
+    font-size: 0.8rem;
+    color: #666;
+    line-height: 1.4;
+}
+
+/* 진행률 바 */
+.progress {
+    margin-top: 15px;
+    height: 4px;
+    background: #e0e0e0;
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    width: 0%;
+    height: 100%;
+    background: var(--success);
+    border-radius: 2px;
+    transition: width 0.3s;
+}
+
+/* ==================== 폼 요소 ==================== */
+select, input, textarea {
+    padding: 10px 14px;
+    border: 1px solid var(--gray-border);
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-family: inherit;
+}
+
+select:focus, input:focus, textarea:focus {
+    outline: none;
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+}
+
+/* ==================== 유틸리티 ==================== */
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+.hidden { display: none; }
+.mt-20 { margin-top: 20px; }
+.mb-20 { margin-bottom: 20px; }
+.p-20 { padding: 20px; }
+
+/* ==================== 반응형 ==================== */
+@media (max-width: 768px) {
+    .container { padding: 15px; }
+    .header-content { flex-direction: column; text-align: center; }
+    .nav-links { justify-content: center; }
+    .dashboard-grid { grid-template-columns: 1fr; }
+    .back-to-dashboard { bottom: 15px; right: 15px; padding: 8px 15px; font-size: 0.8rem; }
+}
+
+/* 유닛 번호 배지 */
+.unit-number-badge {
+    background: var(--warning);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+/* 시리즈 배지 */
+.series-badge {
+    background: var(--purple);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+/* ==================== 상단바 반응형 ==================== */
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px 20px;
+}
+
+/* 로고 영역 */
+.logo-area {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+/* 언어 선택기 */
+.lang-selector {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+/* 네비게이션 링크 */
+.nav-links {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+/* 태블릿 (768px - 1024px) */
+@media (max-width: 1024px) {
+    .header-content {
+        justify-content: center;
+        gap: 10px;
+    }
+    
+    .logo-area {
+        order: 1;
+    }
+    
+    .lang-selector {
+        order: 2;
+    }
+    
+    .nav-links {
+        order: 3;
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+/* 모바일 (768px 이하) */
+@media (max-width: 768px) {
+    .fixed-header {
+        padding: 10px;
+    }
+    
+    .header-content {
+        flex-direction: column;
+        gap: 8px;
+    }
+    
+    .logo-area {
+        justify-content: center;
+    }
+    
+    .lang-selector {
+        justify-content: center;
+    }
+    
+    .nav-links {
+        justify-content: center;
+        gap: 8px;
+    }
+    
+    .nav-links a {
+        padding: 4px 10px;
+        font-size: 0.75rem;
+    }
+    
+    .lang-btn {
+        padding: 4px 10px;
+        font-size: 0.75rem;
+    }
+    
+    .level-badge, .series-badge, .unit-number-badge {
+        font-size: 0.7rem;
+        padding: 3px 8px;
+    }
+    
+    .page-title {
+        font-size: 0.9rem;
+    }
+}
+
+/* 매우 좁은 화면 (480px 이하) */
+@media (max-width: 480px) {
+    .logo-area {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .nav-links a {
+        padding: 3px 8px;
+        font-size: 0.7rem;
+    }
+    
+    .lang-btn {
+        padding: 3px 8px;
+        font-size: 0.7rem;
+    }
+}
+
+/* ==================== TF 퀴즈 스타일 ==================== */
+.quiz-row {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.quiz-row > div:first-child {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.quiz-question {
+    margin-right: 12px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.tf-btn-group {
+    display: inline-flex;
+    gap: 5px;
+    margin: 0 10px;
+}
+
+.tf-btn {
+    padding: 4px 12px;
+    border: 1px solid #ccc;
+    background: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: 0.2s;
+}
+
+.tf-btn.selected {
+    background: var(--secondary);
+    border-color: var(--secondary);
+    color: white;
+}
+
+.btn-check-small {
+    padding: 5px 12px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    border-radius: 6px;
+    border: 1px solid var(--secondary);
+    background: white;
+    color: var(--secondary);
+    transition: 0.2s;
+}
+
+.btn-check-small:hover {
+    background: var(--secondary);
+    color: white;
+}
+
+.answer-text {
+    display: none;
+    margin-top: 8px;
+    margin-left: 0;
+    font-weight: bold;
+    font-size: 0.95rem;
+    text-align: left;
+}

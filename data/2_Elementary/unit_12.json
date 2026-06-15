@@ -1,0 +1,822 @@
+{
+  "title": {
+    "en": "Life’s an adventure!",
+    "ja": "人生は冒険だ！",
+    "fr": "La vie est une aventure !",
+    "ko": "인생은 모험이다!"
+  },
+  "topic": {
+    "en": "Future plans (going to), infinitive of purpose, weather, making suggestions",
+    "ja": "未来の計画（going to）、目的の不定詞、天気、提案をする",
+    "fr": "Projets futurs (going to), infinitif de but, météo, faire des suggestions",
+    "ko": "미래 계획(going to), 목적의 부정사, 날씨, 제안하기"
+  },
+  "core_title": {
+    "en": "Future Plans and Weather",
+    "ja": "未来の計画と天気",
+    "fr": "Projets futurs et météo",
+    "ko": "미래 계획과 날씨"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'><strong>Rosie, aged 11</strong><br>I'm going to be a ballet dancer. I'm going to travel all over the world. I'm going to learn Russian. I'm not going to marry until I'm thirty-five. I'm not going to wear skirts and blouses. I'm going to wear jeans and T-shirts all the time. I'm going to become a TV star.</p><p><strong>Miss Bishop, aged 59</strong><br>I'm going to travel all over the world. I'm going to learn Russian. I'm going to learn to drive. I'm going to open a school. I'm not going to marry until I'm thirty-five. I'm going to write a book.</p><p><strong>Infinitive of purpose</strong><br>We use 'to + verb' to say why we do something.<br>• I'm going to Holland <strong>to see</strong> the tulips.<br>• She opened the window <strong>to get</strong> fresh air.</p><p><strong>The weather</strong><br>What's the weather like? It's sunny, rainy, windy, snowy, cloudy, foggy.<br>What's it going to be like tomorrow? I think it's going to be cold and dry.</p><p><strong>Making suggestions</strong><br>What shall we do? Let's go to the beach. / Shall we go swimming?</p>",
+    "ja": "<p style='margin-top:0;'><strong>ロージー（11歳）</strong><br>私はバレリーナになるつもりです。世界中を旅行するつもりです。ロシア語を学ぶつもりです。35歳まで結婚しないつもりです。スカートやブラウスは着ないつもりです。いつもジーンズとTシャツを着るつもりです。テレビスターになるつもりです。</p><p><strong>ミス・ビショップ（59歳）</strong><br>私は世界中を旅行するつもりです。ロシア語を学ぶつもりです。運転を習うつもりです。学校を開くつもりです。35歳まで結婚しないつもりです。本を書くつもりです。</p><p><strong>目的の不定詞</strong><br>何かをする理由を言うために「to + 動詞」を使います。<br>• 私はチューリップを<strong>見るために</strong>オランダに行きます。<br>• 彼女は新鮮な空気を<strong>入れるために</strong>窓を開けました。</p><p><strong>天気</strong><br>天気はどうですか？晴れ、雨、風、雪、曇り、霧です。<br>明日はどうなりそうですか？寒くて乾燥すると思います。</p><p><strong>提案をする</strong><br>何をしましょうか？ビーチに行きましょう。／泳ぎませんか？</p>",
+    "fr": "<p style='margin-top:0;'><strong>Rosie, 11 ans</strong><br>Je vais être danseuse de ballet. Je vais voyager dans le monde entier. Je vais apprendre le russe. Je ne vais pas me marier avant 35 ans. Je ne vais pas porter de jupes et de chemisiers. Je vais toujours porter des jeans et des T-shirts. Je vais devenir une star de la télé.</p><p><strong>Mlle Bishop, 59 ans</strong><br>Je vais voyager dans le monde entier. Je vais apprendre le russe. Je vais apprendre à conduire. Je vais ouvrir une école. Je ne vais pas me marier avant 35 ans. Je vais écrire un livre.</p><p><strong>Infinitif de but</strong><br>Nous utilisons 'to + verbe' pour dire pourquoi nous faisons quelque chose.<br>• Je vais en Hollande <strong>pour voir</strong> les tulipes.<br>• Elle a ouvert la fenêtre <strong>pour avoir</strong> de l'air frais.</p><p><strong>La météo</strong><br>Quel temps fait-il ? Il fait soleil, il pleut, il vente, il neige, il est nuageux, il y a du brouillard.<br>Quel temps va-t-il faire demain ? Je pense qu'il va faire froid et sec.</p><p><strong>Faire des suggestions</strong><br>Qu'est-ce qu'on fait ? Allons à la plage. / Si on allait nager ?</p>",
+    "ko": "<p style='margin-top:0;'><strong>Rosie, 11세</strong><br>나는 발레리나가 될 거예요. 나는 전 세계를 여행할 거예요. 나는 러시아어를 배울 거예요. 나는 35살까지 결혼하지 않을 거예요. 나는 치마와 블라우스를 입지 않을 거예요. 나는 항상 청바지와 티셔츠를 입을 거예요. 나는 TV 스타가 될 거예요.</p><p><strong>Miss Bishop, 59세</strong><br>나는 전 세계를 여행할 거예요. 나는 러시아어를 배울 거예요. 나는 운전을 배울 거예요. 나는 학교를 열 거예요. 나는 35살까지 결혼하지 않을 거예요. 나는 책을 쓸 거예요.</p><p><strong>목적의 부정사</strong><br>우리는 무언가를 하는 이유를 말할 때 'to + 동사'를 사용합니다.<br>• 나는 튤립을 <strong>보러</strong> 네덜란드에 갈 거예요.<br>• 그녀는 신선한 공기를 <strong>들어오게 하려고</strong> 창문을 열었어요.</p><p><strong>날씨</strong><br>날씨가 어때요? 맑음, 비, 바람, 눈, 흐림, 안개입니다.<br>내일은 어떻게 될까요? 춥고 건조할 거예요.</p><p><strong>제안하기</strong><br>우리 뭐 할까? 해변에 가자. / 수영할까?</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "sunny",
+        "word": "Sunny",
+        "definition": "Bright with sunlight.",
+        "pronunciation": "ˈsʌni"
+      },
+      {
+        "id": "rainy",
+        "word": "Rainy",
+        "definition": "With a lot of rain.",
+        "pronunciation": "ˈreɪni"
+      },
+      {
+        "id": "windy",
+        "word": "Windy",
+        "definition": "With a lot of wind.",
+        "pronunciation": "ˈwɪndi"
+      },
+      {
+        "id": "snowy",
+        "word": "Snowy",
+        "definition": "With snow falling or lying on the ground.",
+        "pronunciation": "ˈsnəʊi"
+      },
+      {
+        "id": "cloudy",
+        "word": "Cloudy",
+        "definition": "Full of clouds.",
+        "pronunciation": "ˈklaʊdi"
+      },
+      {
+        "id": "foggy",
+        "word": "Foggy",
+        "definition": "Full of fog (thick cloud near the ground).",
+        "pronunciation": "ˈfɒɡi"
+      },
+      {
+        "id": "sneeze",
+        "word": "Sneeze",
+        "definition": "To suddenly blow air out of your nose and mouth.",
+        "pronunciation": "sniːz"
+      },
+      {
+        "id": "float",
+        "word": "Float",
+        "definition": "To stay on the surface of a liquid or in the air without sinking.",
+        "pronunciation": "fləʊt"
+      },
+      {
+        "id": "race",
+        "word": "Race",
+        "definition": "A competition of speed.",
+        "pronunciation": "reɪs"
+      }
+    ],
+    "ja": [
+      {
+        "id": "sunny",
+        "word": "晴れ",
+        "definition": "日光で明るい。",
+        "pronunciation": "はれ"
+      },
+      {
+        "id": "rainy",
+        "word": "雨",
+        "definition": "たくさんの雨が降る。",
+        "pronunciation": "あめ"
+      },
+      {
+        "id": "windy",
+        "word": "風が強い",
+        "definition": "たくさんの風がある。",
+        "pronunciation": "かぜがつよい"
+      },
+      {
+        "id": "snowy",
+        "word": "雪",
+        "definition": "雪が降っている、または地面に積もっている。",
+        "pronunciation": "ゆき"
+      },
+      {
+        "id": "cloudy",
+        "word": "曇り",
+        "definition": "雲でいっぱい。",
+        "pronunciation": "くもり"
+      },
+      {
+        "id": "foggy",
+        "word": "霧",
+        "definition": "霧でいっぱい。",
+        "pronunciation": "きり"
+      },
+      {
+        "id": "sneeze",
+        "word": "くしゃみ",
+        "definition": "突然鼻と口から空気を勢いよく出すこと。",
+        "pronunciation": "くしゃみ"
+      },
+      {
+        "id": "float",
+        "word": "浮かぶ",
+        "definition": "液体の表面や空中に沈まずに留まる。",
+        "pronunciation": "うかぶ"
+      },
+      {
+        "id": "race",
+        "word": "レース",
+        "definition": "速さの競争。",
+        "pronunciation": "れーす"
+      }
+    ],
+    "fr": [
+      {
+        "id": "sunny",
+        "word": "Ensoleillé",
+        "definition": "Clair avec de la lumière du soleil.",
+        "pronunciation": "ɑ̃.sɔ.le.je"
+      },
+      {
+        "id": "rainy",
+        "word": "Pluvieux",
+        "definition": "Avec beaucoup de pluie.",
+        "pronunciation": "ply.vjø"
+      },
+      {
+        "id": "windy",
+        "word": "Venteux",
+        "definition": "Avec beaucoup de vent.",
+        "pronunciation": "vɑ̃.tø"
+      },
+      {
+        "id": "snowy",
+        "word": "Neigeux",
+        "definition": "Avec de la neige qui tombe ou qui couvre le sol.",
+        "pronunciation": "nɛ.ʒø"
+      },
+      {
+        "id": "cloudy",
+        "word": "Nuageux",
+        "definition": "Plein de nuages.",
+        "pronunciation": "nɥa.ʒø"
+      },
+      {
+        "id": "foggy",
+        "word": "Brumieux",
+        "definition": "Plein de brouillard.",
+        "pronunciation": "bʁy.mjø"
+      },
+      {
+        "id": "sneeze",
+        "word": "Éternuer",
+        "definition": "Expulser soudainement de l'air par le nez et la bouche.",
+        "pronunciation": "e.tɛʁ.nɥe"
+      },
+      {
+        "id": "float",
+        "word": "Flotter",
+        "definition": "Rester à la surface d'un liquide ou dans l'air sans couler.",
+        "pronunciation": "flɔ.te"
+      },
+      {
+        "id": "race",
+        "word": "Course",
+        "definition": "Une compétition de vitesse.",
+        "pronunciation": "kuʁs"
+      }
+    ],
+    "ko": [
+      {
+        "id": "sunny",
+        "word": "맑음",
+        "definition": "햇빛으로 밝은.",
+        "pronunciation": "말금"
+      },
+      {
+        "id": "rainy",
+        "word": "비",
+        "definition": "비가 많이 오는.",
+        "pronunciation": "비"
+      },
+      {
+        "id": "windy",
+        "word": "바람",
+        "definition": "바람이 많이 부는.",
+        "pronunciation": "바람"
+      },
+      {
+        "id": "snowy",
+        "word": "눈",
+        "definition": "눈이 내리거나 땅에 쌓인.",
+        "pronunciation": "눈"
+      },
+      {
+        "id": "cloudy",
+        "word": "흐림",
+        "definition": "구름으로 가득 찬.",
+        "pronunciation": "흐림"
+      },
+      {
+        "id": "foggy",
+        "word": "안개",
+        "definition": "안개로 가득 찬.",
+        "pronunciation": "안개"
+      },
+      {
+        "id": "sneeze",
+        "word": "재채기",
+        "definition": "갑자기 코와 입으로 공기를 세게 내뿜는 것.",
+        "pronunciation": "재채기"
+      },
+      {
+        "id": "float",
+        "word": "뜨다",
+        "definition": "액체 표면이나 공중에 가라앉지 않고 머물다.",
+        "pronunciation": "뜨다"
+      },
+      {
+        "id": "race",
+        "word": "경주",
+        "definition": "속도 경쟁.",
+        "pronunciation": "경주"
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+  {
+    "title": "Future Plans",
+    "label": "Conversation 1: Rosie’s ambitions",
+    "script": [
+      { "speaker": "A", "text": "Is she going to be a ballet dancer?" },
+      { "speaker": "B", "text": "Yes, she is." },
+      { "speaker": "A", "text": "What’s she going to do?" },
+      { "speaker": "B", "text": "Travel all over the world." }
+    ]
+  },
+  {
+    "title": "Predictions",
+    "label": "Conversation 2: What’s going to happen?",
+    "script": [
+      { "speaker": "A", "text": "Take an umbrella. It’s going to rain." },
+      { "speaker": "B", "text": "Look at the time! You’re going to be late for the meeting." },
+      { "speaker": "A", "text": "Anna’s running very fast. She’s going to win the race." },
+      { "speaker": "B", "text": "Look! Jack’s on the wall. He’s going to fall." }
+    ]
+  },
+  {
+    "title": "Travel Plans",
+    "label": "Conversation 3: Why are you going?",
+    "script": [
+      { "speaker": "Miss Bishop", "text": "First I’m going to Holland." },
+      { "speaker": "Harold", "text": "Why?" },
+      { "speaker": "Miss Bishop", "text": "To see the tulips, of course!" },
+      { "speaker": "Harold", "text": "Oh yes! How wonderful! Where are you going after that?" },
+      { "speaker": "Miss Bishop", "text": "Well, then I’m going to Spain to watch flamenco dancing." }
+    ]
+  },
+  {
+    "title": "Life Plans",
+    "label": "Listening 1: Miss Bishop’s retirement",
+    "script": [
+      { "speaker": "Miss Bishop", "text": "When I retire, first I’m going to learn Russian. I can already speak French and German." },
+      { "speaker": "Miss Bishop", "text": "Second, I’m going to learn to drive. Then I’m going to buy a car and travel all over the world." },
+      { "speaker": "Miss Bishop", "text": "I’m not going to wear boring clothes any more. I’m going to wear jeans and T-shirts all the time." },
+      { "speaker": "Miss Bishop", "text": "When I return from my travels, I’m going to write a book and go on TV to talk about it. I’m going to become a TV star!" }
+    ]
+  }
+],
+    "ja": [
+    {
+      "title": "将来の計画",
+      "label": "会話1: ロージーの夢",
+      "script": [
+        { "speaker": "A", "text": "彼女はバレリーナになるつもりなの？" },
+        { "speaker": "B", "text": "うん、そうだよ。" },
+        { "speaker": "A", "text": "彼女は何をするつもりなの？" },
+        { "speaker": "B", "text": "世界中を旅行するつもりだよ。" }
+      ]
+    },
+    {
+      "title": "予測",
+      "label": "会話2: 何が起こる？",
+      "script": [
+        { "speaker": "A", "text": "傘を持って行きなよ。雨が降りそうだよ。" },
+        { "speaker": "B", "text": "時間を見て！会議に遅れそうだよ。" },
+        { "speaker": "A", "text": "アンナはとても速く走っている。彼女はレースに勝つだろう。" },
+        { "speaker": "B", "text": "見て！ジャックが壁の上にいる。落ちちゃうよ。" }
+      ]
+    },
+    {
+      "title": "旅行の計画",
+      "label": "会話3: なぜ行くの？",
+      "script": [
+        { "speaker": "ミス・ビショップ", "text": "まずオランダに行くつもりなの。" },
+        { "speaker": "ハロルド", "text": "どうして？" },
+        { "speaker": "ミス・ビショップ", "text": "もちろん、チューリップを見るためよ！" },
+        { "speaker": "ハロルド", "text": "ああ、それは素晴らしい！その後はどこに行くの？" },
+        { "speaker": "ミス・ビショップ", "text": "そうね、それからフラメンコを見にスペインに行くつもり。" }
+      ]
+    },
+    {
+      "title": "人生の計画",
+      "label": "リスニング1: ビショップ先生の退職後",
+      "script": [
+        { "speaker": "ミス・ビショップ", "text": "退職したら、まずロシア語を学ぶつもり。もうフランス語とドイツ語は話せるの。" },
+        { "speaker": "ミス・ビショップ", "text": "次に運転を覚えるつもり。それから車を買って世界中を旅行するの。" },
+        { "speaker": "ミス・ビショップ", "text": "もうつまらない服は着ないわ。毎日ジーンズとTシャツを着るつもり。" },
+        { "speaker": "ミス・ビショップ", "text": "旅行から戻ったら本を書いて、テレビに出てその本を紹介するの。テレビスターになるつもりよ！" }
+      ]
+    }
+  ],
+
+  "fr": [
+    {
+      "title": "Projets d'avenir",
+      "label": "Conversation 1 : Les ambitions de Rosie",
+      "script": [
+        { "speaker": "A", "text": "Elle va devenir danseuse étoile ?" },
+        { "speaker": "B", "text": "Oui, c'est ça." },
+        { "speaker": "A", "text": "Qu'est-ce qu'elle va faire ?" },
+        { "speaker": "B", "text": "Voyager partout dans le monde." }
+      ]
+    },
+    {
+      "title": "Prédictions",
+      "label": "Conversation 2 : Qu'est-ce qui va arriver ?",
+      "script": [
+        { "speaker": "A", "text": "Prends un parapluie. Il va pleuvoir." },
+        { "speaker": "B", "text": "Regarde l'heure ! Tu vas être en retard à la réunion." },
+        { "speaker": "A", "text": "Anna court très vite. Elle va gagner la course." },
+        { "speaker": "B", "text": "Regarde ! Jack est sur le mur. Il va tomber." }
+      ]
+    },
+    {
+      "title": "Projets de voyage",
+      "label": "Conversation 3 : Pourquoi tu y vas ?",
+      "script": [
+        { "speaker": "Mlle Bishop", "text": "D'abord, je vais aux Pays-Bas." },
+        { "speaker": "Harold", "text": "Pourquoi ?" },
+        { "speaker": "Mlle Bishop", "text": "Pour voir les tulipes, bien sûr !" },
+        { "speaker": "Harold", "text": "Ah oui ! Formidable ! Et après, tu vas où ?" },
+        { "speaker": "Mlle Bishop", "text": "Eh bien, ensuite je vais en Espagne pour voir du flamenco." }
+      ]
+    },
+    {
+      "title": "Projets de vie",
+      "label": "Compréhension orale 1 : La retraite de Mlle Bishop",
+      "script": [
+        { "speaker": "Mlle Bishop", "text": "Quand je prendrai ma retraite, d'abord je vais apprendre le russe. Je parle déjà français et allemand." },
+        { "speaker": "Mlle Bishop", "text": "Deuxièmement, je vais apprendre à conduire. Ensuite, j'achèterai une voiture et je voyagerai partout dans le monde." },
+        { "speaker": "Mlle Bishop", "text": "Je ne vais plus porter de vêtements ennuyeux. Je vais porter des jeans et des T-shirts tout le temps." },
+        { "speaker": "Mlle Bishop", "text": "Quand je rentrerai de mes voyages, j'écrirai un livre et j'irai à la télé pour en parler. Je vais devenir une star de télé !" }
+      ]
+    }
+  ],
+
+  "ko": [
+    {
+      "title": "미래 계획",
+      "label": "대화1: 로지의 야망",
+      "script": [
+        { "speaker": "A", "text": "그녀가 발레리나가 될 거야?" },
+        { "speaker": "B", "text": "응, 그럴 거야." },
+        { "speaker": "A", "text": "그녀는 뭘 할 거야?" },
+        { "speaker": "B", "text": "세계 여행을 할 거야." }
+      ]
+    },
+    {
+      "title": "예측",
+      "label": "대화2: 무슨 일이 일어날까?",
+      "script": [
+        { "speaker": "A", "text": "우산 챙겨 가. 비 올 거야." },
+        { "speaker": "B", "text": "시간 좀 봐! 회의에 늦겠다." },
+        { "speaker": "A", "text": "안나가 엄청 빨리 달리고 있어. 그녀가 경주에서 이길 거야." },
+        { "speaker": "B", "text": "저기 봐! 잭이 담 위에 있어. 떨어질 거야." }
+      ]
+    },
+    {
+      "title": "여행 계획",
+      "label": "대화3: 왜 가는 거야?",
+      "script": [
+        { "speaker": "비숍 양", "text": "먼저 네덜란드에 갈 거야." },
+        { "speaker": "해롤드", "text": "왜?" },
+        { "speaker": "비숍 양", "text": "당연히 튤립을 보러 가지!" },
+        { "speaker": "해롤드", "text": "아 그래! 정말 멋지다! 그다음엔 어디로 가는데?" },
+        { "speaker": "비숍 양", "text": "음, 그다음엔 플라멩코 춤을 보러 스페인에 갈 거야." }
+      ]
+    },
+    {
+      "title": "인생 계획",
+      "label": "리스닝1: 비숍 양의 은퇴 후",
+      "script": [
+        { "speaker": "비숍 양", "text": "은퇴하면, 먼저 러시아어를 배울 거야. 불어와 독일어는 이미 할 수 있거든." },
+        { "speaker": "비숍 양", "text": "두 번째로 운전을 배울 거야. 그다음에 차를 사서 세계 곳곳을 여행할 거고." },
+        { "speaker": "비숍 양", "text": "더 이상 지루한 옷은 안 입을 거야. 계속 청바지와 티셔츠를 입을 거야." },
+        { "speaker": "비숍 양", "text": "여행에서 돌아오면 책을 쓰고, TV에 나가서 그 책에 대해 이야기할 거야. 나는 TV 스타가 될 거야!" }
+      ]
+    }
+  ]
+  },
+  "extra_reading_title": {
+    "en": "People and Their Passions",
+    "ja": "人々とその情熱",
+    "fr": "Les gens et leurs passions",
+    "ko": "사람들과 그들의 열정"
+  },
+  "extra_reading_html": {
+    "en": "<p><strong>Clem Quinn - Sky-diver</strong><br>Clem Quinn was always interested in flying. When he was five, he tried to fly by jumping off the garden shed with a golf umbrella. He became a taxi driver, then 20 years ago he did a parachute jump and loved it. He moved to the country to learn parachute jumping and sky-diving. He is now a full-time teacher of sky-diving. He says: 'I love sky-diving because the world looks so good. You float through the air. People think it is dangerous but it's very safe. Next July I'm going to do a sky-dive with 100 people. I'm never going to retire. I'm going to jump out of planes until I'm an old man.'</p><p><strong>Sue Glass - Racing driver</strong><br>Sue Glass had a car accident when she was eight so she didn't like driving. She got a job with a car company. Six years ago she met Julian Swayland, a racing driver. He took her to Brands Hatch and she loved it. She did a motor racing course with five men and got top marks. She came fourth in her first championship race and beat 20 men. She says: 'I love the excitement but it's a dangerous sport. I stopped doing it a year ago because I got so nervous. I'm not going to race again. I'm going to open a driving school next year.'</p>",
+    "ja": "<p><strong>クレム・クイン - スカイダイバー</strong><br>クレム・クインはずっと空を飛ぶことに興味がありました。5歳の時、ゴルフ傘を持って庭の小屋から飛び降り、飛ぼうとしたこともあります。タクシー運転手をしていましたが、20年前にパラシュートジャンプを経験して魅了されました。その後、パラシュートやスカイダイビングを学ぶために田舎へ引っ越し、現在はスカイダイビングのフルタイム講師を務めています。「スカイダイビングを愛しているのは、空から見る世界がとても美しいからです。空中に浮かんでいるような気分になれます。危険だと思われがちですが、実際はとても安全です。来年7月には100人でスカイダイビングをする予定です。引退は決してしません。おじいさんになるまで飛行機から飛び続けます」と彼は語ります。</p><p><strong>スー・グラス - レーシングドライバー</strong><br>スー・グラスは8歳の時に自動車事故に遭ったため、運転があまり好きではありませんでした。しかし、ある自動車会社に就職し、6年前にレーシングドライバーのジュリアン・スウェイランドと出会いました。彼に「ブランズ・ハッチ」というサーキットへ連れて行ってもらい、レースの虜になりました。男性5人と一緒に自動車レースのコースを受講し、トップの成績を収めました。最初の選手権レースでは20人の男性を打ち負かし、4位に入賞しました。「興奮は大好きですが、危険なスポーツです。1年前に神経質になりすぎてやめました。もうレースはしません。来年は自動車教習所を開く予定です」と彼女は語ります。</p>",
+    "fr": "<p><strong>Clem Quinn - Parachutiste</strong><br>Clem Quinn a toujours été intéressé par le vol. À cinq ans, il a essayé de voler en sautant d'un abri de jardin avec un parapluie de golf. Il est devenu chauffeur de taxi, puis il y a 20 ans, il a fait un saut en parachute et il a adoré. Il a déménagé à la campagne pour apprendre le saut en parachute et le parachutisme. Il est maintenant enseignant à temps plein de parachutisme. Il dit : 'J'adore le parachutisme parce que le monde est si beau vu d'en haut. On flotte dans les airs. Les gens pensent que c'est dangereux, mais c'est très sûr. En juillet prochain, je vais faire un saut avec 100 personnes. Je ne prendrai jamais ma retraite. Je vais sauter d'avions jusqu'à ce que je sois un vieil homme.'</p><p><strong>Sue Glass - Pilote de course</strong><br>Sue Glass a eu un accident de voiture à l'âge de huit ans, elle n'aimait donc pas conduire. Elle a obtenu un emploi dans une entreprise automobile. Il y a six ans, elle a rencontré Julian Swayland, un pilote de course. Il l'a emmenée à Brands Hatch et elle a adoré. Elle a suivi un cours de course automobile avec cinq hommes et a obtenu les meilleures notes. Elle est arrivée quatrième lors de sa première course de championnat et a battu 20 hommes. Elle dit : 'J'adore l'excitation, mais c'est un sport dangereux. J'ai arrêté il y a un an parce que je suis devenue trop nerveuse. Je ne vais plus courir. Je vais ouvrir une auto-école l'année prochaine.'</p>",
+    "ko": "<p><strong>클렘 퀸 - 스카이다이버</strong><br>클렘 퀸은 항상 비행에 관심이 많았습니다. 5살 때 골프 우산을 들고 정원 창고에서 뛰어내려 날아보려고 시도했죠. 그는 택시 운전사가 되었지만, 20년 전 우연히 한 번 해본 낙하산 점프에 완전히 매료되었습니다. 그는 낙하산 점프와 스카이다이빙을 배우기 위해 시골로 이사했고, 지금은 스카이다이빙 전임 강사로 일하고 있습니다. 그는 '세상이 너무 아름답게 보이기 때문에 스카이다이빙을 사랑합니다. 공중을 둥둥 떠다니는 것 같거든요. 사람들은 위험하다고 생각하지만, 실제로는 매우 안전합니다. 내년 7월에는 100명과 함께 스카이다이빙을 할 계획입니다. 저는 절대 은퇴하지 않을 거예요. 할아버지가 될 때까지 비행기에서 뛰어내릴 겁니다'라고 말합니다.</p><p><strong>수 글래스 - 레이싱 드라이버</strong><br>수 글래스는 8살 때 자동차 사고를 겪은 뒤 운전을 좋아하지 않았습니다. 그러다 자동차 회사에 취직하게 되었고, 6년 전 레이싱 드라이버인 줄리안 스웨이랜드를 만나게 되었습니다. 그가 그녀를 서킷(Brands Hatch)에 데려갔고, 그녀는 레이싱에 푹 빠졌습니다. 남성 5명과 함께 레이싱 과정을 수강하며 최고의 성적을 거두었죠. 첫 챔피언십 경기에서 20명의 남성을 제치고 4위를 차지하기도 했습니다. 그녀는 '짜릿함은 정말 좋지만, 위험한 스포츠예요. 1년 전 신경이 너무 날카로워져서 그만두었습니다. 다시는 경주를 하지 않을 거예요. 내년에는 운전학원을 열 계획입니다'라고 말합니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      { "question": "Clem Quinn tried to fly with a golf umbrella when he was a child.", "correct": "T", "explanation": "True. He tried this when he was five years old." },
+      { "question": "Clem Quinn intends to retire from sky-diving soon.", "correct": "F", "explanation": "False. He says 'I'm never going to retire.'" },
+      { "question": "Sue Glass has always loved driving since she was a child.", "correct": "F", "explanation": "False. She had a car accident when she was eight and didn't like driving." },
+      { "question": "Sue Glass finished 4th in her first championship race.", "correct": "T", "explanation": "True. The text states she came fourth and beat 20 men." },
+      { "question": "Sue Glass plans to start a new career as a driving instructor.", "correct": "T", "explanation": "True. She says 'I'm going to open a driving school next year.'" }
+    ],
+    "ja": [
+      { "question": "クレム・クインは子供の頃、ゴルフ傘を使って飛ぼうとしたことがある。", "correct": "T", "explanation": "真実です。5歳の時に試みました。" },
+      { "question": "クレム・クインは近いうちにスカイダイビングを引退する予定だ。", "correct": "F", "explanation": "誤りです。彼は決して引退しないと言っています。" },
+      { "question": "スー・グラスは子供の頃からずっと運転が大好きだった。", "correct": "F", "explanation": "誤りです。8歳の時の事故以来、運転が好きではありませんでした。" },
+      { "question": "スー・グラスは最初の選手権レースで4位になった。", "correct": "T", "explanation": "真実です。彼女は20人の男性を破り、4位に入賞しました。" },
+      { "question": "スー・グラスは来年、自動車教習所を開く計画だ。", "correct": "T", "explanation": "真実です。彼女はインタビューでそう述べています。" }
+    ],
+    "fr": [
+      { "question": "Clem Quinn a essayé de voler avec un parapluie quand il était enfant.", "correct": "T", "explanation": "Vrai. Il a essayé cela à l'âge de cinq ans." },
+      { "question": "Clem Quinn prévoit de prendre sa retraite bientôt.", "correct": "F", "explanation": "Faux. Il dit qu'il ne prendra jamais sa retraite." },
+      { "question": "Sue Glass a toujours aimé conduire depuis son enfance.", "correct": "F", "explanation": "Faux. Elle a eu un accident à huit ans et n'aimait pas la conduite." },
+      { "question": "Sue Glass est arrivée quatrième lors de sa première course.", "correct": "T", "explanation": "Vrai. Le texte confirme cette performance." },
+      { "question": "Sue Glass prévoit d'ouvrir une auto-école l'année prochaine.", "correct": "T", "explanation": "Vrai. C'est son projet pour l'année prochaine." }
+    ],
+    "ko": [
+      { "question": "클렘 퀸은 어린 시절 골프 우산으로 날아보려 했다.", "correct": "T", "explanation": "사실입니다. 5살 때 정원 창고에서 뛰어내리며 시도했습니다." },
+      { "question": "클렘 퀸은 곧 스카이다이빙을 은퇴할 예정이다.", "correct": "F", "explanation": "거짓입니다. 그는 절대 은퇴하지 않을 것이라고 말했습니다." },
+      { "question": "수 글래스는 어릴 때부터 운전을 매우 좋아했다.", "correct": "F", "explanation": "거짓입니다. 8살 때의 사고 때문에 운전을 좋아하지 않았습니다." },
+      { "question": "수 글래스는 첫 챔피언십 경기에서 4위를 기록했다.", "correct": "T", "explanation": "사실입니다. 그녀는 20명의 남성을 제치고 4위를 차지했습니다." },
+      { "question": "수 글래스는 내년에 운전학원을 열 계획이다.", "correct": "T", "explanation": "사실입니다. 그녀는 새로운 직업으로 운전학원을 열 예정입니다." }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "What are you going to do?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "I'm going to...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>What are you going to do?</b> <b>I'm going to</b> travel all over the world.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Why are you going to Holland?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "To see the tulips.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Why are you going to Holland?</b> <b>To see</b> the tulips.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "What's the weather like?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "It's sunny and hot.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>What's the weather like?</b> <b>It's sunny and hot.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "What shall we do?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "Let's go to the beach.",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>What shall we do?</b> <b>Let's go to the beach.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "何をするつもりですか？",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "～するつもりです。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>何をするつもりですか？</b> <b>私は</b>世界中を旅行する<b>つもりです。</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "なぜオランダに行くのですか？",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "チューリップを見るために。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>なぜオランダに行くのですか？</b> <b>チューリップを見るために。</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "天気はどうですか？",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "晴れて暑いです。",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>天気はどうですか？</b> <b>晴れて暑いです。</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "何をしましょうか？",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "ビーチに行きましょう。",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>何をしましょうか？</b> <b>ビーチに行きましょう。</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "Qu'est-ce que tu vas faire ?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Je vais...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Qu'est-ce que tu vas faire ?</b> <b>Je vais</b> voyager dans le monde entier.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Pourquoi vas-tu en Hollande ?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Pour voir les tulipes.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Pourquoi vas-tu en Hollande ?</b> <b>Pour voir</b> les tulipes.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Quel temps fait-il ?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "Il fait soleil et chaud.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Quel temps fait-il ?</b> <b>Il fait soleil et chaud.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "Qu'est-ce qu'on fait ?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "Allons à la plage.",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Qu'est-ce qu'on fait ?</b> <b>Allons à la plage.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "뭐 할 거예요?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "나는 ~할 거예요.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>뭐 할 거예요?</b> <b>나는</b> 전 세계를 여행<b>할 거예요.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "왜 네덜란드에 가요?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "튤립을 보러요.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>왜 네덜란드에 가요?</b> <b>튤립을 보러요.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "날씨가 어때요?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "맑고 더워요.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>날씨가 어때요?</b> <b>맑고 더워요.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "우리 뭐 할까?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "해변에 가자.",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>우리 뭐 할까?</b> <b>해변에 가자.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

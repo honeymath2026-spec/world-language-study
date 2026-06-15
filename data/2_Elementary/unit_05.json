@@ -1,0 +1,346 @@
+{
+  "title": {
+    "en": "Where do you live?",
+    "ja": "どこに住んでいますか？",
+    "fr": "Où habitez-vous ?",
+    "ko": "어디에 사시나요?"
+  },
+  "topic": {
+    "en": "There is/are, prepositions, some/any, this/that, furniture, directions",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "core_title": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "core_reading_html": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "listening_tracks": {
+    "en": [
+  {
+    "title": "Where do you live?",
+    "label": "Conversation 1: A new friend from England",
+    "script": [
+      { "speaker": "Manuela", "text": "Hello, everybody! This is my friend Jane from England." },
+      { "speaker": "Friend", "text": "Hello Jane!" },
+      { "speaker": "Jane", "text": "Hello. Pleased to meet you." },
+      { "speaker": "Friend", "text": "Do you like the music, Jane?" },
+      { "speaker": "Jane", "text": "Yes, I do. Is it American?" },
+      { "speaker": "Friend", "text": "No, it's Brazilian jazz!" }
+    ]
+  },
+  {
+    "title": "Where do you live?",
+    "label": "Conversation 2: Welcome to Tokyo",
+    "script": [
+      { "speaker": "Toshi", "text": "Mrs Jones! How do you do?" },
+      { "speaker": "Ann Jones", "text": "How do you do?" },
+      { "speaker": "Toshi", "text": "Please come in. You're from our office in London, aren't you?" },
+      { "speaker": "Ann Jones", "text": "Yes, that's right." },
+      { "speaker": "Toshi", "text": "Welcome to Tokyo! Do you like our headquarters here?" },
+      { "speaker": "Ann Jones", "text": "Yes. It's very big. How many people work here?" },
+      { "speaker": "Toshi", "text": "About six thousand people. Do you want to see our offices?" }
+    ]
+  },
+  {
+    "title": "Where do you live?",
+    "label": "Conversation 3: Sailing and fishing",
+    "script": [
+      { "speaker": "Al", "text": "What do you want to do today, Mick?" },
+      { "speaker": "Mick", "text": "Ooh, I don't know." },
+      { "speaker": "Al", "text": "Ah! Do you like sailing?" },
+      { "speaker": "Mick", "text": "Yes, very much. I sometimes go sailing in Scotland but not very often." },
+      { "speaker": "Al", "text": "OK – so today it's sailing and fishing on the lake." },
+      { "speaker": "Mick", "text": "Fantastic. I love fishing too – we go fishing a lot in Scotland." }
+    ]
+  },
+  {
+    "title": "Where do you live?",
+    "label": "Listening 1: Homes around the world",
+    "script": [
+      { "speaker": "Manola", "text": "I live in the old town near the sea. It is called the Alfama. I have a very beautiful flat. There's just one room in my flat, one very big room with one very big window." },
+      { "speaker": "Manola", "text": "My bed's next to the window so I see the sea and all the lights of the city when I go to sleep. I live alone, but I have a cat. I love my flat." },
+      { "speaker": "Elsie", "text": "Our house is quite old, about fifty years old. It's quite near to the city centre. We have a living room, a big kitchen and three bedrooms." },
+      { "speaker": "Ray", "text": "There's a TV and a stereo and a large comfortable sofa, and some big, old armchairs. We love sitting there in winter with the snow outside." },
+      { "speaker": "Brad", "text": "My house is fantastic. It's right next to the sea. In my house there are ten rooms, five are bedrooms, and everything is white. I also have a swimming pool, a cinema and an exercise room." },
+      { "speaker": "Alise", "text": "I live with my family in a house near the sea. Our house doesn't have any walls. We have only one room for living and sleeping. We have rugs and we sit and sleep on the floor." }
+    ]
+  }
+],
+    "ja": [
+    {
+      "title": "どこに住んでいますか？",
+      "label": "会話 1: イギリスからの新しい友達",
+      "script": [
+        { "speaker": "マヌエラ", "text": "みなさん、こんにちは！ イギリスから来たジェーンです。" },
+        { "speaker": "友達", "text": "ジェーン、こんにちは！" },
+        { "speaker": "ジェーン", "text": "はじめまして。よろしくお願いします。" },
+        { "speaker": "友達", "text": "ジェーン、この音楽好き？" },
+        { "speaker": "ジェーン", "text": "うん、好きだよ。アメリカの音楽？" },
+        { "speaker": "友達", "text": "違うよ、ブラジルのジャズだよ！" }
+      ]
+    },
+    {
+      "title": "どこに住んでいますか？",
+      "label": "会話 2: 東京へようこそ",
+      "script": [
+        { "speaker": "トシ", "text": "ジョーンズさん、はじめまして。" },
+        { "speaker": "アン・ジョーンズ", "text": "はじめまして。" },
+        { "speaker": "トシ", "text": "どうぞお入りください。ロンドンのオフィスからいらっしゃったんですよね？" },
+        { "speaker": "アン・ジョーンズ", "text": "はい、その通りです。" },
+        { "speaker": "トシ", "text": "東京へようこそ！ こちらの本社はいかがですか？" },
+        { "speaker": "アン・ジョーンズ", "text": "とても広いですね。ここでは何人働いているんですか？" },
+        { "speaker": "トシ", "text": "約6000人です。オフィスを見学されますか？" }
+      ]
+    },
+    {
+      "title": "どこに住んでいますか？",
+      "label": "会話 3: セーリングと釣り",
+      "script": [
+        { "speaker": "アル", "text": "今日は何をしたい、ミック？" },
+        { "speaker": "ミック", "text": "うーん、わからないな。" },
+        { "speaker": "アル", "text": "あっ！ セーリングは好き？" },
+        { "speaker": "ミック", "text": "ああ、とても好きだよ。スコットランドでたまにやるけど、そんなに頻繁じゃないんだ。" },
+        { "speaker": "アル", "text": "よし – じゃあ今日は湖でセーリングと釣りだ。" },
+        { "speaker": "ミック", "text": "最高だ！ 釣りも大好きなんだ – スコットランドではよく釣りに行くんだよ。" }
+      ]
+    },
+    {
+      "title": "どこに住んでいますか？",
+      "label": "リスニング 1: 世界のさまざまな家",
+      "script": [
+        { "speaker": "マノラ", "text": "私は海の近くの旧市街に住んでいます。アルファマという地区です。とても素敵なアパートです。部屋は一つだけで、とても大きな窓があるとても広い部屋です。" },
+        { "speaker": "マノラ", "text": "ベッドは窓の隣にあって、寝るときには海と街の灯りが見えます。一人暮らしですが、猫を飼っています。自分のアパートが大好きです。" },
+        { "speaker": "エルシー", "text": "私たちの家はかなり古くて、築50年くらいです。街の中心部にかなり近いです。リビングルーム、広いキッチン、それに寝室が三つあります。" },
+        { "speaker": "レイ", "text": "テレビとステレオ、大きな快適なソファ、それに大きくて古い肘掛け椅子があります。外に雪が降る冬、そこに座っているのが大好きです。" },
+        { "speaker": "ブラッド", "text": "私の家は最高です。海のすぐそばにあります。部屋は全部で10室あり、そのうち5室が寝室で、床も壁もソファもすべて白です。プール、映画館、トレーニングルームもあります。" },
+        { "speaker": "アリセ", "text": "私は家族と海の近くの家に住んでいます。私たちの家には壁がありません。生活と寝室のための部屋が一つだけです。敷物の上に座ったり寝たりします。" }
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "title": "Où habitez-vous ?",
+      "label": "Conversation 1 : Une nouvelle amie d'Angleterre",
+      "script": [
+        { "speaker": "Manuela", "text": "Bonjour tout le monde ! Voici mon amie Jane, d'Angleterre." },
+        { "speaker": "Ami", "text": "Bonjour Jane !" },
+        { "speaker": "Jane", "text": "Bonjour. Enchantée." },
+        { "speaker": "Ami", "text": "Tu aimes la musique, Jane ?" },
+        { "speaker": "Jane", "text": "Oui, beaucoup. C'est américain ?" },
+        { "speaker": "Ami", "text": "Non, c'est du jazz brésilien !" }
+      ]
+    },
+    {
+      "title": "Où habitez-vous ?",
+      "label": "Conversation 2 : Bienvenue à Tokyo",
+      "script": [
+        { "speaker": "Toshi", "text": "Madame Jones, enchanté !" },
+        { "speaker": "Ann Jones", "text": "Enchantée." },
+        { "speaker": "Toshi", "text": "Entrez, je vous en prie. Vous venez de notre bureau de Londres, n'est-ce pas ?" },
+        { "speaker": "Ann Jones", "text": "Oui, c'est exact." },
+        { "speaker": "Toshi", "text": "Bienvenue à Tokyo ! Aimez-vous notre siège social ?" },
+        { "speaker": "Ann Jones", "text": "Oui. Il est très grand. Combien de personnes travaillent ici ?" },
+        { "speaker": "Toshi", "text": "Environ six mille personnes. Voulez-vous voir nos bureaux ?" }
+      ]
+    },
+    {
+      "title": "Où habitez-vous ?",
+      "label": "Conversation 3 : Voile et pêche",
+      "script": [
+        { "speaker": "Al", "text": "Qu'est-ce que tu veux faire aujourd'hui, Mick ?" },
+        { "speaker": "Mick", "text": "Oh, je ne sais pas." },
+        { "speaker": "Al", "text": "Ah ! Tu aimes la voile ?" },
+        { "speaker": "Mick", "text": "Oui, beaucoup. Je fais parfois de la voile en Écosse, mais pas très souvent." },
+        { "speaker": "Al", "text": "D'accord – alors aujourd'hui, c'est voile et pêche sur le lac." },
+        { "speaker": "Mick", "text": "Fantastique. J'adore la pêche aussi – on va beaucoup pêcher en Écosse." }
+      ]
+    },
+    {
+      "title": "Où habitez-vous ?",
+      "label": "Compréhension orale 1 : Maisons du monde entier",
+      "script": [
+        { "speaker": "Manola", "text": "J'habite dans la vieille ville, près de la mer. Ça s'appelle l'Alfama. J'ai un très bel appartement. Il n'y a qu'une pièce dans mon appartement, une très grande pièce avec une très grande fenêtre." },
+        { "speaker": "Manola", "text": "Mon lit est à côté de la fenêtre, donc je vois la mer et toutes les lumières de la ville quand je m'endors. Je vis seule, mais j'ai un chat. J'adore mon appartement." },
+        { "speaker": "Elsie", "text": "Notre maison est assez vieille, environ cinquante ans. Elle est assez près du centre-ville. Nous avons un salon, une grande cuisine et trois chambres." },
+        { "speaker": "Ray", "text": "Il y a une télé, une chaîne stéréo, un grand canapé confortable et de grands vieux fauteuils. Nous adorons nous asseoir là en hiver quand il neige dehors." },
+        { "speaker": "Brad", "text": "Ma maison est fantastique. Elle est juste à côté de la mer. Il y a dix pièces dans ma maison, dont cinq chambres, et tout est blanc. J'ai aussi une piscine, un cinéma et une salle de sport." },
+        { "speaker": "Alise", "text": "Je vis avec ma famille dans une maison près de la mer. Notre maison n'a pas de murs. Nous n'avons qu'une seule pièce pour vivre et dormir. Nous avons des tapis et nous nous asseyons et dormons par terre." }
+      ]
+    }
+  ],
+  "ko": [
+    {
+      "title": "어디에 사시나요?",
+      "label": "대화 1: 영국에서 온 새 친구",
+      "script": [
+        { "speaker": "마누엘라", "text": "여러분, 안녕하세요! 제 친구 제인을 소개할게요. 영국에서 왔어요." },
+        { "speaker": "친구", "text": "제인, 안녕!" },
+        { "speaker": "제인", "text": "안녕하세요. 만나서 반가워요." },
+        { "speaker": "친구", "text": "제인, 음악 좋아하세요?" },
+        { "speaker": "제인", "text": "네, 좋아요. 미국 음악인가요?" },
+        { "speaker": "친구", "text": "아니요, 브라질 재즈예요!" }
+      ]
+    },
+    {
+      "title": "어디에 사시나요?",
+      "label": "대화 2: 도쿄에 오신 것을 환영합니다",
+      "script": [
+        { "speaker": "토시", "text": "존스 부인, 안녕하십니까?" },
+        { "speaker": "앤 존스", "text": "안녕하십니까?" },
+        { "speaker": "토시", "text": "어서 들어오세요. 런던 지사에서 오셨죠?" },
+        { "speaker": "앤 존스", "text": "네, 맞아요." },
+        { "speaker": "토시", "text": "도쿄에 오신 걸 환영합니다! 저희 본사는 마음에 드시나요?" },
+        { "speaker": "앤 존스", "text": "네, 아주 크네요. 여기서 일하는 직원이 몇 명이나 되나요?" },
+        { "speaker": "토시", "text": "약 6천 명입니다. 저희 사무실을 둘러보시겠어요?" }
+      ]
+    },
+    {
+      "title": "어디에 사시나요?",
+      "label": "대화 3: 요트와 낚시",
+      "script": [
+        { "speaker": "알", "text": "오늘 뭐 하고 싶어, 믹?" },
+        { "speaker": "믹", "text": "음, 잘 모르겠어." },
+        { "speaker": "알", "text": "아! 요트 타는 거 좋아해?" },
+        { "speaker": "믹", "text": "응, 아주 좋아해. 스코틀랜드에서 가끔 타지만 자주는 아니야." },
+        { "speaker": "알", "text": "좋아 – 그럼 오늘은 호수에서 요트 타고 낚시하자." },
+        { "speaker": "믹", "text": "최고야! 나 낚시도 엄청 좋아해 – 스코틀랜드에서 낚시를 자주 하거든." }
+      ]
+    },
+    {
+      "title": "어디에 사시나요?",
+      "label": "듣기 1: 세계의 다양한 가정",
+      "script": [
+        { "speaker": "마놀라", "text": "저는 바다 근처 옛 시가지에 살아요. 알파마라고 불리는 곳이죠. 아주 예쁜 아파트에 살아요. 방이 하나뿐인데, 아주 큰 창문이 있는 아주 넓은 방이에요." },
+        { "speaker": "마놀라", "text": "침대가 창문 옆에 있어서 잠들 때 바다와 도시의 불빛들이 보여요. 혼자 살지만 고양이를 키우고 있어요. 제 아파트가 정말 좋아요." },
+        { "speaker": "엘시", "text": "우리 집은 꽤 오래됐어요. 50년 정도 됐죠. 시내 중심에서 꽤 가까워요. 거실, 큰 주방, 그리고 침실 세 개가 있어요." },
+        { "speaker": "레이", "text": "TV, 오디오, 크고 편안한 소파, 그리고 크고 오래된 안락의자가 있어요. 밖에 눈이 오는 겨울에 거기 앉아 있는 걸 정말 좋아해요." },
+        { "speaker": "브래드", "text": "제 집은 정말 환상적이에요. 바로 바다 옆에 있죠. 집 안에 방이 10개 있는데, 5개는 침실이고 모든 게 하얀색이에요. 수영장, 영화관, 운동실도 있어요." },
+        { "speaker": "알리세", "text": "저는 가족과 함께 바다 근처 집에서 살아요. 우리 집에는 벽이 없어요. 생활과 잠을 자는 방이 하나뿐이에요. 깔개 위에 앉고 자요." }
+      ]
+    }
+  ]
+  },
+  "extra_reading_title": {
+    "en": "Different Homes Around the World",
+    "ja": "世界のさまざまな家",
+    "fr": "Différentes maisons à travers le monde",
+    "ko": "세계 각국의 다양한 집"
+},
+  "extra_reading_html": {
+    "en": "<p>People live in many different kinds of homes around the world. In Lisbon, Manola lives in an old flat near the river. In Toronto, Ray and Elsie live in a modern house with a garden. In Malibu, Brad lives in a small flat near the beach. In Samoa, Alise lives in a traditional house with her large family. Some homes are houses, some are flats. Some are old, some are modern. Some are in the city, some are in the countryside. Every home is special to the people who live there.</p>",
+    
+    "ja": "<p>世界には、実にさまざまな種類の家があります。リスボンでは、マノラが川の近くの古いアパートに住んでいます。トロントでは、レイとエルシーが庭付きのモダンな家に住んでいます。マリブでは、ブラッドがビーチの近くの小さなアパートに住んでいます。サモアでは、アリセが伝統的な家に大家族と暮らしています。一戸建ての家もあれば、アパートもあります。古い家もあれば、新しい家もあります。街中にある家もあれば、田舎にある家もあります。どの家も、そこで暮らす人々にとって特別な場所です。</p>",
+    
+    "fr": "<p>Les gens vivent dans de nombreux types de maisons différents à travers le monde. À Lisbonne, Manola vit dans un vieil appartement près du fleuve. À Toronto, Ray et Elsie vivent dans une maison moderne avec un jardin. À Malibu, Brad vit dans un petit appartement près de la plage. Aux Samoa, Alise vit dans une maison traditionnelle avec sa grande famille. Certaines habitations sont des maisons individuelles, d'autres sont des appartements. Certaines sont anciennes, d'autres sont modernes. Certaines sont en ville, d'autres à la campagne. Chaque maison est spéciale pour les personnes qui y vivent.</p>",
+    
+    "ko": "<p>전 세계 사람들은 다양한 종류의 집에서 살아갑니다. 리스본에서 마놀라는 강 근처의 오래된 아파트에 삽니다. 토론토에서 레이와 엘시는 정원이 있는 현대적인 주택에 삽니다. 말리부에서 브래드는 해변 근처의 작은 아파트에 삽니다. 사모아에서 알리세는 전통 가옥에서 대가족과 함께 삽니다. 어떤 집은 단독주택이고, 어떤 집은 아파트입니다. 어떤 집은 오래되었고, 어떤 집은 현대적입니다. 어떤 집은 도시에 있고, 어떤 집은 시골에 있습니다. 모든 집은 그곳에 사는 사람들에게 특별한 장소입니다.</p>"
+},
+  "tf_quiz": {
+    "en": [
+        {"question": "Manola lives in a modern house with a garden in Lisbon.", "correct": "F", "explanation": "False. She lives in an old flat near the river."},
+        {"question": "Brad lives in a small flat near the beach in Malibu.", "correct": "T", "explanation": "True. The text says Brad lives in a small flat near the beach in Malibu."},
+        {"question": "Alise lives in a modern house with her small family in Samoa.", "correct": "F", "explanation": "False. She lives in a traditional house with her large family."},
+        {"question": "Some homes are in the city, and some are in the countryside.", "correct": "T", "explanation": "True. The text explicitly states this."},
+        {"question": "Every home is the same for all people around the world.", "correct": "F", "explanation": "False. The text says every home is special to the people who live there."}
+    ],
+    
+    "ja": [
+        {"question": "マノラはリスボンの庭付きのモダンな家に住んでいる。", "correct": "F", "explanation": "誤り。彼女は川の近くの古いアパートに住んでいます。"},
+        {"question": "ブラッドはマリブのビーチの近くの小さなアパートに住んでいる。", "correct": "T", "explanation": "正しい。本文ではブラッドがマリブのビーチ近くの小さなアパートに住んでいると述べられています。"},
+        {"question": "アリセはサモアでモダンな家に小さな家族と住んでいる。", "correct": "F", "explanation": "誤り。彼女は伝統的な家に大家族と暮らしています。"},
+        {"question": "街中にある家もあれば、田舎にある家もある。", "correct": "T", "explanation": "正しい。本文で明確に述べられています。"},
+        {"question": "世界中のすべての人にとって、どの家も同じである。", "correct": "F", "explanation": "誤り。本文では、どの家もそこに住む人々にとって特別だと述べられています。"}
+    ],
+    
+    "fr": [
+        {"question": "Manola vit dans une maison moderne avec un jardin à Lisbonne.", "correct": "F", "explanation": "Faux. Elle vit dans un vieil appartement près du fleuve."},
+        {"question": "Brad vit dans un petit appartement près de la plage à Malibu.", "correct": "T", "explanation": "Vrai. Le texte dit que Brad vit dans un petit appartement près de la plage à Malibu."},
+        {"question": "Alise vit dans une maison moderne avec sa petite famille aux Samoa.", "correct": "F", "explanation": "Faux. Elle vit dans une maison traditionnelle avec sa grande famille."},
+        {"question": "Certaines habitations sont en ville, d'autres à la campagne.", "correct": "T", "explanation": "Vrai. Le texte le dit explicitement."},
+        {"question": "Chaque maison est la même pour tous les gens du monde entier.", "correct": "F", "explanation": "Faux. Le texte dit que chaque maison est spéciale pour les personnes qui y vivent."}
+    ],
+    
+    "ko": [
+        {"question": "마놀라는 리스본에서 정원이 있는 현대적인 주택에 삽니다.", "correct": "F", "explanation": "거짓. 그녀는 강 근처의 오래된 아파트에 삽니다."},
+        {"question": "브래드는 말리부에서 해변 근처의 작은 아파트에 삽니다.", "correct": "T", "explanation": "참. 지문에서 브래드가 말리부 해변 근처의 작은 아파트에 산다고 말합니다."},
+        {"question": "알리세는 사모아에서 현대적인 집에 작은 가족과 함께 삽니다.", "correct": "F", "explanation": "거짓. 그녀는 전통 가옥에서 대가족과 함께 삽니다."},
+        {"question": "어떤 집은 도시에 있고, 어떤 집은 시골에 있습니다.", "correct": "T", "explanation": "참. 지문에서 이 내용을 직접 언급합니다."},
+        {"question": "세계 모든 사람들에게 모든 집은 똑같습니다.", "correct": "F", "explanation": "거짓. 지문에서는 모든 집이 그곳에 사는 사람들에게 특별하다고 말합니다."}
+    ]
+},
+  "speaking_chunks": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "grammar_html": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

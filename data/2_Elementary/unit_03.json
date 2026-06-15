@@ -1,0 +1,724 @@
+{
+  "title": {
+    "en": "A Busy Life",
+    "ja": "忙しい毎日",
+    "fr": "Une vie bien remplie",
+    "ko": "바쁜 일상"
+  },
+  "topic": {
+    "en": "Jobs, daily routines, and transactions",
+    "ja": "仕事、日課、取引",
+    "fr": "Métiers, routines quotidiennes et transactions",
+    "ko": "직업, 일상, 거래"
+  },
+  "core_title": {
+    "en": "Work and Daily Routines",
+    "ja": "仕事と日常生活",
+    "fr": "Travail et routines quotidiennes",
+    "ko": "일과 일상생활"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>People do many <strong class='vocab-link' id='text-job' onclick='speakAndScroll(\"job\", \"vocab-job\")'>job</strong> tasks every day. Some people are a <strong class='vocab-link' id='text-doctor' onclick='speakAndScroll(\"doctor\", \"vocab-doctor\")'>doctor</strong>, while others work in a <strong class='vocab-link' id='text-shop' onclick='speakAndScroll(\"shop\", \"vocab-shop\")'>shop</strong>. Every <strong class='vocab-link' id='text-morning' onclick='speakAndScroll(\"morning\", \"vocab-morning\")'>morning</strong>, we start our <strong class='vocab-link' id='text-day' onclick='speakAndScroll(\"day\", \"vocab-day\")'>day</strong> with energy. We might buy an <strong class='vocab-link' id='text-icecream' onclick='speakAndScroll(\"icecream\", \"vocab-icecream\")'>ice-cream</strong> or talk to a <strong class='vocab-link' id='text-neighbour' onclick='speakAndScroll(\"neighbour\", \"vocab-neighbour\")'>neighbour</strong>.</p><p>Life is often busy. In the <strong class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>evening</strong>, it is nice to relax with a <strong class='vocab-link' id='text-drink' onclick='speakAndScroll(\"drink\", \"vocab-drink\")'>drink</strong>. Even when we have little <strong class='vocab-link' id='text-time' onclick='speakAndScroll(\"time\", \"vocab-time\")'>time</strong>, we enjoy our <strong class='vocab-link' id='text-life' onclick='speakAndScroll(\"life\", \"vocab-life\")'>life</strong> and the people around us.</p>",
+    "ja": "<p style='margin-top:0;'>人々は毎日多くの<strong class='vocab-link' id='text-job' onclick='speakAndScroll(\"job\", \"vocab-job\")'>仕事</strong>をこなしています。<strong class='vocab-link' id='text-doctor' onclick='speakAndScroll(\"doctor\", \"vocab-doctor\")'>医者</strong>として働く人もいれば、<strong class='vocab-link' id='text-shop' onclick='speakAndScroll(\"shop\", \"vocab-shop\")'>店</strong>で働く人もいます。<strong class='vocab-link' id='text-morning' onclick='speakAndScroll(\"morning\", \"vocab-morning\")'>朝</strong>になると、私たちはエネルギーを持って<strong class='vocab-link' id='text-day' onclick='speakAndScroll(\"day\", \"vocab-day\")'>一日</strong>を始めます。<strong class='vocab-link' id='text-icecream' onclick='speakAndScroll(\"icecream\", \"vocab-icecream\")'>アイスクリーム</strong>を買ったり、<strong class='vocab-link' id='text-neighbour' onclick='speakAndScroll(\"neighbour\", \"vocab-neighbour\")'>隣人</strong>と話したりすることもあります。</p><p>生活は忙しいものです。<strong class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>夜</strong>には<strong class='vocab-link' id='text-drink' onclick='speakAndScroll(\"drink\", \"vocab-drink\")'>飲み物</strong>を飲んでリラックスするのが最高です。<strong class='vocab-link' id='text-time' onclick='speakAndScroll(\"time\", \"vocab-time\")'>時間</strong>があまりなくても、私たちは<strong class='vocab-link' id='text-life' onclick='speakAndScroll(\"life\", \"vocab-life\")'>人生</strong>と周りの人々を大切にしています。</p>",
+    "fr": "<p style='margin-top:0;'>Les gens font beaucoup de <strong class='vocab-link' id='text-job' onclick='speakAndScroll(\"job\", \"vocab-job\")'>travail</strong> chaque jour. Certains sont <strong class='vocab-link' id='text-doctor' onclick='speakAndScroll(\"doctor\", \"vocab-doctor\")'>médecin</strong>, d'autres travaillent dans une <strong class='vocab-link' id='text-shop' onclick='speakAndScroll(\"shop\", \"vocab-shop\")'>boutique</strong>. Chaque <strong class='vocab-link' id='text-morning' onclick='speakAndScroll(\"morning\", \"vocab-morning\")'>matin</strong>, nous commençons notre <strong class='vocab-link' id='text-day' onclick='speakAndScroll(\"day\", \"vocab-day\")'>journée</strong> avec énergie. Nous pouvons acheter une <strong class='vocab-link' id='text-icecream' onclick='speakAndScroll(\"icecream\", \"vocab-icecream\")'>glace</strong> ou parler à un <strong class='vocab-link' id='text-neighbour' onclick='speakAndScroll(\"neighbour\", \"vocab-neighbour\")'>voisin</strong>.</p><p>La vie est souvent chargée. Le <strong class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>soir</strong>, il est agréable de se détendre avec une <strong class='vocab-link' id='text-drink' onclick='speakAndScroll(\"drink\", \"vocab-drink\")'>boisson</strong>. Même quand nous avons peu de <strong class='vocab-link' id='text-time' onclick='speakAndScroll(\"time\", \"vocab-time\")'>temps</strong>, nous profitons de notre <strong class='vocab-link' id='text-life' onclick='speakAndScroll(\"life\", \"vocab-life\")'>vie</strong> et des gens qui nous entourent.</p>",
+    "ko": "<p style='margin-top:0;'>사람들은 매일 많은 <strong class='vocab-link' id='text-job' onclick='speakAndScroll(\"job\", \"vocab-job\")'>직업</strong> 활동을 합니다. 어떤 사람은 <strong class='vocab-link' id='text-doctor' onclick='speakAndScroll(\"doctor\", \"vocab-doctor\")'>의사</strong>이고, 다른 사람들은 <strong class='vocab-link' id='text-shop' onclick='speakAndScroll(\"shop\", \"vocab-shop\")'>가게</strong>에서 일합니다. 매일 <strong class='vocab-link' id='text-morning' onclick='speakAndScroll(\"morning\", \"vocab-morning\")'>아침</strong>마다 우리는 활기차게 <strong class='vocab-link' id='text-day' onclick='speakAndScroll(\"day\", \"vocab-day\")'>하루</strong>를 시작합니다. <strong class='vocab-link' id='text-icecream' onclick='speakAndScroll(\"icecream\", \"vocab-icecream\")'>아이스크림</strong>을 사거나 <strong class='vocab-link' id='text-neighbour' onclick='speakAndScroll(\"neighbour\", \"vocab-neighbour\")'>이웃</strong>과 대화하기도 합니다.</p><p>삶은 종종 바쁩니다. <strong class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>저녁</strong>에는 <strong class='vocab-link' id='text-drink' onclick='speakAndScroll(\"drink\", \"vocab-drink\")'>음료</strong>를 마시며 쉬는 것이 좋습니다. 비록 <strong class='vocab-link' id='text-time' onclick='speakAndScroll(\"time\", \"vocab-time\")'>시간</strong>이 부족할 때도 있지만, 우리는 우리의 <strong class='vocab-link' id='text-life' onclick='speakAndScroll(\"life\", \"vocab-life\")'>삶</strong>과 주변 사람들을 즐깁니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      { "id": "job", "word": "Job", "definition": "Work that a person does.", "pronunciation": "Job" },
+      { "id": "doctor", "word": "Doctor", "definition": "Someone who helps sick people.", "pronunciation": "Doctor" },
+      { "id": "shop", "word": "Shop", "definition": "A place to buy things.", "pronunciation": "Shop" },
+      { "id": "morning", "word": "Morning", "definition": "The early part of the day.", "pronunciation": "Morning" },
+      { "id": "day", "word": "Day", "definition": "The time from sunrise to sunset.", "pronunciation": "Day" },
+      { "id": "icecream", "word": "Ice-cream", "definition": "A cold, sweet food.", "pronunciation": "Ice-cream" },
+      { "id": "neighbour", "word": "Neighbour", "definition": "A person living nearby.", "pronunciation": "Neighbour" },
+      { "id": "evening", "word": "Evening", "definition": "The end of the day.", "pronunciation": "Evening" },
+      { "id": "drink", "word": "Drink", "definition": "Liquid that you swallow.", "pronunciation": "Drink" },
+      { "id": "time", "word": "Time", "definition": "The hours and minutes.", "pronunciation": "Time" },
+      { "id": "life", "word": "Life", "definition": "The experience of being alive.", "pronunciation": "Life" }
+    ],
+    "ja": [
+      { "id": "job", "word": "仕事", "definition": "人が行う作業や職業。", "pronunciation": "仕事" },
+      { "id": "doctor", "word": "医者", "definition": "病気を治療する人。", "pronunciation": "医者" },
+      { "id": "shop", "word": "店", "definition": "物を売る場所。", "pronunciation": "店" },
+      { "id": "morning", "word": "朝", "definition": "一日の始まり。", "pronunciation": "朝" },
+      { "id": "day", "word": "一日", "definition": "昼間の時間。", "pronunciation": "一日" },
+      { "id": "icecream", "word": "アイスクリーム", "definition": "冷たい甘いお菓子。", "pronunciation": "アイスクリーム" },
+      { "id": "neighbour", "word": "隣人", "definition": "近くに住む人。", "pronunciation": "隣人" },
+      { "id": "evening", "word": "夜", "definition": "日が暮れてから寝るまで。", "pronunciation": "夜" },
+      { "id": "drink", "word": "飲み物", "definition": "飲むための液体。", "pronunciation": "飲み物" },
+      { "id": "time", "word": "時間", "definition": "流れゆく時の単位。", "pronunciation": "時間" },
+      { "id": "life", "word": "人生", "definition": "生きている経験。", "pronunciation": "人生" }
+    ],
+    "fr": [
+      { "id": "job", "word": "Travail", "definition": "Activité professionnelle.", "pronunciation": "Travail" },
+      { "id": "doctor", "word": "Médecin", "definition": "Soigne les maladies.", "pronunciation": "Médecin" },
+      { "id": "shop", "word": "Boutique", "definition": "Lieu de vente.", "pronunciation": "Boutique" },
+      { "id": "morning", "word": "Matin", "definition": "Début de la journée.", "pronunciation": "Matin" },
+      { "id": "day", "word": "Journée", "definition": "Durée d'une journée.", "pronunciation": "Journée" },
+      { "id": "icecream", "word": "Glace", "definition": "Dessert froid et sucré.", "pronunciation": "Glace" },
+      { "id": "neighbour", "word": "Voisin", "definition": "Personne habitant à côté.", "pronunciation": "Voisin" },
+      { "id": "evening", "word": "Soir", "definition": "Fin de la journée.", "pronunciation": "Soir" },
+      { "id": "drink", "word": "Boisson", "definition": "Liquide que l'on boit.", "pronunciation": "Boisson" },
+      { "id": "time", "word": "Temps", "definition": "Les heures et minutes.", "pronunciation": "Temps" },
+      { "id": "life", "word": "Vie", "definition": "L'état d'être vivant.", "pronunciation": "Vie" }
+    ],
+    "ko": [
+      { "id": "job", "word": "직업", "definition": "생계를 위해 하는 일.", "pronunciation": "직업" },
+      { "id": "doctor", "word": "의사", "definition": "병을 고치는 사람.", "pronunciation": "의사" },
+      { "id": "shop", "word": "가게", "definition": "물건을 파는 곳.", "pronunciation": "가게" },
+      { "id": "morning", "word": "아침", "definition": "하루의 시작.", "pronunciation": "아침" },
+      { "id": "day", "word": "하루", "definition": "낮 동안의 시간.", "pronunciation": "하루" },
+      { "id": "icecream", "word": "아이스크림", "definition": "차갑고 단 음식.", "pronunciation": "아이스크림" },
+      { "id": "neighbour", "word": "이웃", "definition": "근처에 사는 사람.", "pronunciation": "이웃" },
+      { "id": "evening", "word": "저녁", "definition": "하루가 끝날 때.", "pronunciation": "저녁" },
+      { "id": "drink", "word": "음료", "definition": "마실 수 있는 것.", "pronunciation": "음료" },
+      { "id": "time", "word": "시간", "definition": "흘러가는 때.", "pronunciation": "시간" },
+      { "id": "life", "word": "삶", "definition": "살아가는 경험.", "pronunciation": "삶" }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+  {
+    "title": "Ice-cream order",
+    "label": "Conversation 1: Buying ice-creams",
+    "script": [
+      { "speaker": "A", "text": "Good afternoon. Can I have two ice-creams, please?" },
+      { "speaker": "B", "text": "Chocolate or vanilla?" },
+      { "speaker": "A", "text": "One chocolate, one vanilla please." },
+      { "speaker": "B", "text": "That's £1.80. Anything else?" },
+      { "speaker": "A", "text": "No, thank you." }
+    ]
+  },
+  {
+    "title": "Morning post",
+    "label": "Conversation 2: Talking to a neighbour",
+    "script": [
+      { "speaker": "A", "text": "Only two letters for you this morning, Mrs Craig." },
+      { "speaker": "B", "text": "Thank you very much, Mr McSporran. And how's Mrs McSporran this morning?" },
+      { "speaker": "A", "text": "Oh, she's very well, thank you. She's busy in the shop." }
+    ]
+  },
+  {
+    "title": "Bedtime drink",
+    "label": "Conversation 3: At home in the evening",
+    "script": [
+      { "speaker": "A", "text": "A glass of wine before bed, my dear?" },
+      { "speaker": "B", "text": "Oh, yes please." },
+      { "speaker": "A", "text": "Here you are." },
+      { "speaker": "B", "text": "Thank you, my dear. I'm very tired this evening." }
+    ]
+  },
+  {
+    "title": "The busy doctor",
+    "label": "Listening 1: Bob's job",
+    "script": [
+      { "speaker": "Narrator", "text": "Bob comes from England. He's a doctor." },
+      { "speaker": "Narrator", "text": "He lives in a small town. He works 16 hours a day non-stop." },
+      { "speaker": "Narrator", "text": "He speaks to sick people on his radio. He isn't married." },
+      { "speaker": "Narrator", "text": "He never has free time." }
+    ]
+  }
+],
+    "ja": [
+  {
+    "title": "アイスクリームを買う",
+    "label": "会話 1: アイスクリームを買う",
+    "script": [
+      { "speaker": "A", "text": "こんにちは。アイスクリームを二つください。" },
+      { "speaker": "B", "text": "チョコレートとバニラ、どちらにしますか？" },
+      { "speaker": "A", "text": "チョコレートとバニラ、一つずつお願いします。" },
+      { "speaker": "B", "text": "380円です。他に何かございますか？" },
+      { "speaker": "A", "text": "いいえ、結構です。ありがとう。" }
+    ]
+  },
+  {
+    "title": "朝の郵便",
+    "label": "会話 2: 近所の人と話す",
+    "script": [
+      { "speaker": "A", "text": "今朝は田中さん、お手紙が二通だけです。" },
+      { "speaker": "B", "text": "どうもありがとう、佐藤さん。ところで、佐藤さんの奥さんは今朝、お元気ですか？" },
+      { "speaker": "A", "text": "はい、とても元気です。店で忙しくしています。" }
+    ]
+  },
+  {
+    "title": "寝る前の一杯",
+    "label": "会話 3: 夜の自宅で",
+    "script": [
+      { "speaker": "A", "text": "寝る前にワインを一杯どう？" },
+      { "speaker": "B", "text": "ええ、お願い。" },
+      { "speaker": "A", "text": "はい、どうぞ。" },
+      { "speaker": "B", "text": "ありがとう。今晩はとても疲れたわ。" }
+    ]
+  },
+  {
+    "title": "忙しい医者",
+    "label": "リスニング 1: ボブの仕事",
+    "script": [
+      { "speaker": "ナレーター", "text": "ボブはイギリス出身です。医者です。" },
+      { "speaker": "ナレーター", "text": "小さな町に住んでいます。1日16時間、休みなく働いています。" },
+      { "speaker": "ナレーター", "text": "無線で病人と話をします。結婚はしていません。" },
+      { "speaker": "ナレーター", "text": "自由時間はまったくありません。" }
+    ]
+  }
+],
+    "fr": [
+  {
+    "title": "Commande de glaces",
+    "label": "Conversation 1 : Acheter des glaces",
+    "script": [
+      { "speaker": "A", "text": "Bonjour. Je voudrais deux glaces, s'il vous plaît." },
+      { "speaker": "B", "text": "Chocolat ou vanille ?" },
+      { "speaker": "A", "text": "Une chocolat, une vanille, s'il vous plaît." },
+      { "speaker": "B", "text": "Ça fait 3 euros. Ce sera tout ?" },
+      { "speaker": "A", "text": "Oui, merci." }
+    ]
+  },
+  {
+    "title": "Courrier du matin",
+    "label": "Conversation 2 : Discuter avec un voisin",
+    "script": [
+      { "speaker": "A", "text": "Seulement deux lettres pour vous ce matin, Madame Dupont." },
+      { "speaker": "B", "text": "Merci beaucoup, Monsieur Lefèvre. Et comment va Madame Lefèvre ce matin ?" },
+      { "speaker": "A", "text": "Oh, elle va très bien, merci. Elle est occupée à la boutique." }
+    ]
+  },
+  {
+    "title": "Petit verre avant de dormir",
+    "label": "Conversation 3 : À la maison le soir",
+    "script": [
+      { "speaker": "A", "text": "Un verre de vin avant de dormir, ma chérie ?" },
+      { "speaker": "B", "text": "Oh oui, s'il te plaît." },
+      { "speaker": "A", "text": "Voilà." },
+      { "speaker": "B", "text": "Merci, mon cher. Je suis très fatiguée ce soir." }
+    ]
+  },
+  {
+    "title": "Le médecin très occupé",
+    "label": "Écoute 1 : Le travail de Bob",
+    "script": [
+      { "speaker": "Narrateur", "text": "Bob vient d'Angleterre. Il est médecin." },
+      { "speaker": "Narrateur", "text": "Il habite dans une petite ville. Il travaille 16 heures par jour sans s'arrêter." },
+      { "speaker": "Narrateur", "text": "Il parle aux malades par radio. Il n'est pas marié." },
+      { "speaker": "Narrateur", "text": "Il n'a jamais de temps libre." }
+    ]
+  }
+],
+    "ko": [
+  {
+    "title": "아이스크림 주문",
+    "label": "대화 1: 아이스크림 사기",
+    "script": [
+      { "speaker": "A", "text": "안녕하세요. 아이스크림 두 개 주세요." },
+      { "speaker": "B", "text": "초콜릿이요, 바닐라요?" },
+      { "speaker": "A", "text": "초콜릿 하나, 바닐라 하나 주세요." },
+      { "speaker": "B", "text": "3,600원입니다. 더 필요하신 것 없으세요?" },
+      { "speaker": "A", "text": "아니요, 감사합니다." }
+    ]
+  },
+  {
+    "title": "아침 우편",
+    "label": "대화 2: 이웃과 대화하기",
+    "script": [
+      { "speaker": "A", "text": "오늘 아침은 최영희 씨, 편지가 두 통밖에 없네요." },
+      { "speaker": "B", "text": "정말 고맙습니다, 박철수 씨. 그런데 박철수 씨 부인은 오늘 아침 좀 어떠세요?" },
+      { "speaker": "A", "text": "아주 건강하셔요. 가게 일로 바쁘세요." }
+    ]
+  },
+  {
+    "title": "잠들기 전 한 잔",
+    "label": "대화 3: 저녁 집에서",
+    "script": [
+      { "speaker": "A", "text": "자기 전에 와인 한 잔 할래요?" },
+      { "speaker": "B", "text": "아, 네, 주세요." },
+      { "speaker": "A", "text": "여기 있어요." },
+      { "speaker": "B", "text": "고마워요, 여보. 오늘 밤에 너무 피곤해요." }
+    ]
+  },
+  {
+    "title": "바쁜 의사",
+    "label": "리스닝 1: 밥의 직업",
+    "script": [
+      { "speaker": "내레이터", "text": "밥은 영국 출신입니다. 그는 의사입니다." },
+      { "speaker": "내레이터", "text": "작은 마을에 삽니다. 하루 16시간 쉬지 않고 일합니다." },
+      { "speaker": "내레이터", "text": "무전기로 아픈 사람들과 대화합니다. 그는 결혼하지 않았습니다." },
+      { "speaker": "내레이터", "text": "여가 시간이 전혀 없습니다." }
+    ]
+  }
+]
+  },
+  "extra_reading_title": {
+    "en": "Seumas McSporran – The Man with Thirteen Jobs",
+    "ja": "ショーマス・マックスポラン – 13の仕事を持つ男",
+    "fr": "Seumas McSporran – L'homme aux treize métiers",
+    "ko": "Seumas McSporran – 13개의 직업을 가진 남자"
+  },
+  "extra_reading_html": {
+    "en": "<p>Seumas McSporran is a very busy man. He is 60 years old and he has thirteen jobs. He is a postman, a policeman, a fireman, a taxi driver, a school-bus driver, a boatman, an ambulance man, an accountant, a petrol attendant, a barman, and an undertaker. Also, he and his wife, Margaret, have a shop and a small hotel.</p><p>Seumas lives and works on the island of Gigha in the west of Scotland. Only 120 people live on Gigha but in summer 150 tourists come by boat every day.</p><p>Every weekday Seumas gets up at 6.00 and makes breakfast for the hotel guests. At 8.00 he drives the island's children to school. At 9.00 he collects the post from the boat and delivers it to all the houses on the island. He also delivers the beer to the island's only pub. Then he helps Margaret in the shop.</p><p>He says: 'Margaret likes being busy, too. We never have holidays and we don't like watching television. In the evenings Margaret makes supper and I do the accounts. At 10.00 we have a glass of wine and then we go to bed. Perhaps our life isn't very exciting, but we like it.'</p>",
+    "ja": "<p>シーマス・マクスポランはとても忙しい男性です。彼は60歳で、13の職業を持っています。郵便配達人、警察官、消防士、タクシー運転手、スクールバスの運転手、ボートの操縦士、救急隊員、会計士、ガソリンスタンドの給油員、バーテンダー、そして葬儀屋です。さらに、妻のマーガレットと一緒に、小さな店と小さなホテルも経営しています。</p><p>シーマスはスコットランド西部のギハ島に住み、そこで働いています。ギハ島の住民はたった120人ですが、夏には毎日150人の観光客がボートで訪れます。</p><p>毎平日、シーマスは6時に起きて、ホテルの宿泊客のために朝食を作ります。8時には島の子供たちを学校に送ります。9時にはボートから郵便物を受け取り、島中の家に配達します。また、島で唯一のパブにビールも配達します。その後、マーガレットの店を手伝います。</p><p>彼は言います。「マーガレットも忙しくするのが好きなんだ。私たちは決して休暇を取らないし、テレビを見るのも好きじゃない。夕方にはマーガレットが夕食を作り、私が会計の仕事をする。10時にグラスワインを飲んで、それから床につく。たぶん私たちの生活はとても刺激的ではないけれど、私たちはそれが気に入っている。」</p>",
+    "fr": "<p>Seumas McSporran est un homme très occupé. Il a 60 ans et il exerce treize métiers. Il est facteur, policier, pompier, chauffeur de taxi, conducteur de bus scolaire, batelier, ambulancier, comptable, pompiste, barman et croque-mort. De plus, lui et sa femme Margaret tiennent une boutique et un petit hôtel.</p><p>Seumas vit et travaille sur l'île de Gigha, dans l'ouest de l'Écosse. Seulement 120 personnes vivent sur Gigha, mais en été, 150 touristes viennent chaque jour en bateau.</p><p>Chaque jour de semaine, Seumas se lève à 6h00 et prépare le petit-déjeuner pour les clients de l'hôtel. À 8h00, il conduit les enfants de l'île à l'école. À 9h00, il récupère le courrier du bateau et le distribue à toutes les maisons de l'île. Il livre aussi la bière au seul pub de l'île. Ensuite, il aide Margaret à la boutique.</p><p>Il dit : « Margaret aime aussi être occupée. Nous ne prenons jamais de vacances et nous n'aimons pas regarder la télévision. Le soir, Margaret prépare le dîner et moi, je fais les comptes. À 22h00, nous prenons un verre de vin, puis nous allons nous coucher. Notre vie n'est peut-être pas très excitante, mais elle nous plaît. »</p>",
+    "ko": "<p>시머스 맥스포런은 매우 바쁜 남성입니다. 그는 60세이며 13개의 직업을 가지고 있습니다. 그는 우편집배원, 경찰관, 소방관, 택시 운전사, 스쿨버스 운전사, 보트 조종사, 구급대원, 회계사, 주유소 직원, 바텐더, 그리고 장의사입니다. 또한 아내 마가렛과 함께 작은 가게와 작은 호텔을 운영하고 있습니다.</p><p>시머스는 스코틀랜드 서부 기하 섬에서 살며 일합니다. 기하 섬에는 120명만 살지만, 여름에는 매일 150명의 관광객이 보트로 찾아옵니다.</p><p>매주 평일, 시머스는 6시에 일어나 호텔 투숙객을 위해 아침 식사를 준비합니다. 8시에는 섬의 아이들을 학교에 데려다줍니다. 9시에는 보트에서 우편물을 수거해 섬의 모든 집에 배달합니다. 또한 섬에 있는 유일한 술집에 맥주도 배달합니다. 그런 다음 마가렛의 가게를 도와줍니다.</p><p>그는 말합니다. \"마가렛도 바쁘게 지내는 것을 좋아합니다. 우리는 절대 휴가를 가지지 않고, 텔레비전 보는 것을 좋아하지 않습니다. 저녁에는 마가렛이 저녁을 준비하고 내가 회계 일을 합니다. 10시에 와인 한 잔을 마시고 잠자리에 듭니다. 우리의 삶이 아주 흥미진진하지는 않을지라도, 우리는 그것을 좋아합니다.\"</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Bob is a flying doctor in Australia.",
+        "correct": "T",
+        "explanation": "True. Bob is a flying doctor and lives in Alice Springs, Australia."
+      },
+      {
+        "question": "Ali works five days a week.",
+        "correct": "F",
+        "explanation": "False. Ali works three days a week at the Institute of Molecular Biology."
+      },
+      {
+        "question": "Seumas McSporran has thirteen jobs.",
+        "correct": "T",
+        "explanation": "True. Seumas has thirteen jobs including postman, policeman, fireman, and more."
+      },
+      {
+        "question": "Philippe the barman is married.",
+        "correct": "F",
+        "explanation": "False. The information says Philippe is not married, but he has a dog."
+      },
+      {
+        "question": "We say 'It's quarter to six' for 5:45.",
+        "correct": "T",
+        "explanation": "True. 'Quarter to six' means 15 minutes before six o'clock, which is 5:45."
+      }
+    ],
+    "ja": [
+  {
+    "question": "シーマス・マクスポランは13の職業を持っている。",
+    "correct": "T",
+    "explanation": "正しい。本文に「13の職業を持っています」と明記されています。"
+  },
+  {
+    "question": "シーマスは毎朝7時に起きる。",
+    "correct": "F",
+    "explanation": "間違い。彼は毎平日6時に起きます。"
+  },
+  {
+    "question": "ギハ島の住民は夏には150人になる。",
+    "correct": "F",
+    "explanation": "間違い。住民は常に120人で、夏には観光客が毎日150人来ます。"
+  },
+  {
+    "question": "シーマスと妻のマーガレットはテレビを見るのが好きではない。",
+    "correct": "T",
+    "explanation": "正しい。本文で「テレビを見るのも好きじゃない」と述べています。"
+  },
+  {
+    "question": "シーマスは夜10時にワインを飲んでから寝る。",
+    "correct": "T",
+    "explanation": "正しい。「10時にグラスワインを飲んで、それから床につく」とあります。"
+  }
+],
+    "fr": [
+  {
+    "question": "Seumas McSporran a treize métiers différents.",
+    "correct": "T",
+    "explanation": "Vrai. Le texte dit qu'il a treize métiers, dont facteur, policier, etc."
+  },
+  {
+    "question": "Seumas habite sur une île au sud de l'Écosse.",
+    "correct": "F",
+    "explication": "Faux. Il habite sur l'île de Gigha, dans l'ouest de l'Écosse."
+  },
+  {
+    "question": "Le matin, Seumas conduit les enfants à l'école à 8h00.",
+    "correct": "T",
+    "explanation": "Vrai. Il conduit les enfants de l'île à l'école à 8h00."
+  },
+  {
+    "question": "Seumas et Margaret prennent des vacances chaque année.",
+    "correct": "F",
+    "explanation": "Faux. Ils ne prennent jamais de vacances."
+  },
+  {
+    "question": "Le soir, Seumas fait les comptes pendant que Margaret prépare le dîner.",
+    "correct": "T",
+    "explanation": "Vrai. « Margaret prépare le dîner et moi, je fais les comptes. »"
+  }
+],
+    "ko": [
+  {
+    "question": "시머스 맥스포런은 13개의 직업을 가지고 있다.",
+    "correct": "T",
+    "explanation": "참. 본문에 '13개의 직업을 가지고 있다'고 명시되어 있습니다."
+  },
+  {
+    "question": "시머스는 매일 오전 7시에 일어난다.",
+    "correct": "F",
+    "explanation": "거짓. 그는 매주 평일 오전 6시에 일어납니다."
+  },
+  {
+    "question": "기하 섬의 주민 수는 여름에 150명으로 늘어난다.",
+    "correct": "F",
+    "explanation": "거짓. 주민은 항상 120명이며, 여름에는 관광객 150명이 매일 옵니다."
+  },
+  {
+    "question": "시머스와 그의 아내 마가렛은 텔레비전 보는 것을 좋아하지 않는다.",
+    "correct": "T",
+    "explanation": "참. 본문에 '텔레비전 보는 것을 좋아하지 않습니다'라고 나와 있습니다."
+  },
+  {
+    "question": "시머스는 밤 10시에 와인을 마시고 잠자리에 든다.",
+    "correct": "T",
+    "explanation": "참. '10시에 와인 한 잔을 마시고 잠자리에 듭니다'라고 되어 있습니다."
+  }
+]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "What does he/she do?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "He/She is a...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>What does she do?</b> <b>She is a</b> scientist.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Where does he/she come from?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "He/She comes from...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Where does he come from?</b> <b>He comes from</b> England.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Does he/she speak...?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "Yes, he/she does. / No, he/she doesn't.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Does she speak French?</b> <b>Yes, she does.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "What time is it?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "It's... o'clock / half past... / quarter to...",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>What time is it?</b> <b>It's half past five.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "彼/彼女の仕事は何ですか？",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "彼/彼女は...です。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>彼女の仕事は何ですか？</b> <b>彼女は</b>科学者<b>です。</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "彼/彼女はどこから来ましたか？",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "彼/彼女は...から来ました。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>彼はどこから来ましたか？</b> <b>彼は</b>イギリス<b>から来ました。</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "彼/彼女は...を話せますか？",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "はい、話せます。/ いいえ、話せません。",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>彼女はフランス語を話せますか？</b> <b>はい、話せます。</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "今何時ですか？",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "...時です / ...時半です / ...時15分前です",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>今何時ですか？</b> <b>5時半です。</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "Que fait-il/elle ?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Il/Elle est...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Que fait-elle ?</b> <b>Elle est</b> scientifique.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "D'où vient-il/elle ?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Il/Elle vient de...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>D'où vient-il ?</b> <b>Il vient d'</b>Angleterre.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Parle-t-il/elle... ?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "Oui, il/elle parle. / Non, il/elle ne parle pas.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Parle-t-elle français ?</b> <b>Oui, elle parle.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "Quelle heure est-il ?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "Il est... heure(s) / ... heure(s) et demie / moins le quart",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Quelle heure est-il ?</b> <b>Il est cinq heures et demie.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "그/그녀는 무슨 일을 하나요?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "그/그녀는 ...입니다.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>그녀는 무슨 일을 하나요?</b> <b>그녀는</b> 과학자<b>입니다.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "그/그녀는 어디에서 왔나요?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "그/그녀는 ...에서 왔어요.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>그는 어디에서 왔나요?</b> <b>그는</b> 영국<b>에서 왔어요.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "그/그녀는 ...를 할 줄 아나요?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "네, 할 수 있어요. / 아니요, 할 수 없어요.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>그녀는 프랑스어를 할 줄 아나요?</b> <b>네, 할 수 있어요.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "지금 몇 시인가요?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "...시입니다 / ...시 반입니다 / ...시 15분 전입니다",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>지금 몇 시인가요?</b> <b>5시 반입니다.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Present Simple (he/she/it)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We add <strong>-s</strong> or <strong>-es</strong> to the verb for he/she/it.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• She comes</strong> from England.</li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• He works</strong> 16 hours a day.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• She speaks</strong> three languages.</li></ul><h3>2. Questions and Negatives (does/doesn't)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>Use <strong>does</strong> to make questions. Use <strong>doesn't + infinitive</strong> for negatives.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Where does she live?</strong> She lives in Switzerland.</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Does he speak French?</strong> No, he doesn't.</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• She doesn't like</strong> watching television.</li></ul><h3>3. Telling Time</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use <strong>o'clock</strong>, <strong>half past</strong>, <strong>quarter past</strong>, and <strong>quarter to</strong> to tell time.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• 5:00</strong> → It's five o'clock.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• 5:30</strong> → It's half past five.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• 5:45</strong> → It's quarter to six.</li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "The text explains jobs, daily routines, and how to ask about what someone does. <b>What does Bob do? Where does Ali come from? Does Bob have free time? How do you ask someone about their job in English?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "jobs, present simple, he/she/it, questions with does, telling time",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "Bob is a flying doctor. Ali comes from England. Bob has no free time. To ask about someone's job, say 'What does he/she do?'...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "The unit describes unusual jobs like a flying doctor and Seumas McSporran with thirteen jobs. <b>What is an unusual or interesting job in your country? What does that person do every day? Would you like to have a job like that? Why or why not?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "In my country, an unusual job is... This person works... I would/would not like this job because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "In this unit, you learned to talk about jobs, ask questions using 'does', and tell the time. <b>Why is it useful to know how to talk about jobs and daily schedules in a new language? How can these skills help you in a professional or travel situation?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Talking about jobs and daily schedules is useful because... These skills help in professional situations such as... In travel, they help when...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

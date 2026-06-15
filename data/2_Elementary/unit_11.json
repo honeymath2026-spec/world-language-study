@@ -1,0 +1,396 @@
+{
+  "title": {
+    "en": "Looking good!",
+    "ja": "かっこよく見える！",
+    "fr": "Bonne mine !",
+    "ko": "멋지게 보여요!"
+  },
+  "topic": {
+    "en": "Present Continuous, whose, clothes, words that rhyme, in a clothes shop",
+    "ja": "現在進行形、誰の～、洋服、韻を踏む言葉、洋服店で",
+    "fr": "Présent continu, À qui ?, vêtements, mots qui riment, dans un magasin de vêtements",
+    "ko": "현재진행형, 소유의문, 옷, 운율이 맞는 단어, 옷가게에서"
+  },
+  "core_title": {
+    "en": "Describing People and Clothes",
+    "ja": "人と服装の描写",
+    "fr": "Décrire des personnes et des vêtements",
+    "ko": "사람과 옷 묘사하기"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'><strong>Part 1: Describing people</strong></p><p>Who is tall? Who isn't very tall? Who is pretty, good-looking, or handsome? Who's got long, short, fair, dark, or grey hair? Who's got blue or brown eyes? Rebecca's got dark hair and brown eyes.</p><p><strong>Part 2: What are they doing?</strong></p><p>Who is smiling? Who is talking? Who is writing? Who is laughing? Who is eating? Who is running? Who is sitting down? Who is cooking? Who is standing up? Who is playing? Jane's smiling. Angela's running.</p><p><strong>Part 3: What are they wearing?</strong></p><p>Rudi's wearing a brown T-shirt. Nadia is wearing a dress. People wear many different clothes: a hat, a coat, a jumper, a shirt, a T-shirt, a dress, a skirt, a jacket, a suit, trousers, jeans, shorts, shoes, trainers, boots.</p>",
+    "ja": "<p style='margin-top:0;'><strong>パート1: 人を描写する</strong></p><p>誰が背が高いですか？誰がそれほど背が高くないですか？誰がかわいい、かっこいい、ハンサムですか？誰が長い、短い、明るい、暗い、白い髪をしていますか？誰が青い目、茶色い目をしていますか？レベッカは黒い髪と茶色い目をしています。</p><p><strong>パート2: 彼らは何をしているですか？</strong></p><p>誰が笑っていますか？誰が話していますか？誰が書いていますか？誰が笑っていますか？誰が食べていますか？誰が走っていますか？誰が座っていますか？誰が料理していますか？誰が立っていますか？誰が遊んでいますか？ジェーンは笑っています。アンジェラは走っています。</p><p><strong>パート3: 彼らは何を着ていますか？</strong></p><p>ルディは茶色のTシャツを着ています。ナディアはドレスを着ています。人々は帽子、コート、ジャンパー、シャツ、Tシャツ、ドレス、スカート、ジャケット、スーツ、ズボン、ジーンズ、ショーツ、靴、トレーナー、ブーツなど様々な服を着ます。</p>",
+    "fr": "<p style='margin-top:0;'><strong>Partie 1: Décrire des personnes</strong></p><p>Qui est grand ? Qui n'est pas très grand ? Qui est jolie, beau/belle, beau ? Qui a les cheveux longs, courts, blonds, foncés, gris ? Qui a les yeux bleus ou marron ? Rebecca a les cheveux foncés et les yeux marron.</p><p><strong>Partie 2: Que font-ils ?</strong></p><p>Qui sourit ? Qui parle ? Qui écrit ? Qui rit ? Qui mange ? Qui court ? Qui est assis ? Qui cuisine ? Qui est debout ? Qui joue ? Jane sourit. Angela court.</p><p><strong>Partie 3: Que portent-ils ?</strong></p><p>Rudi porte un T-shirt marron. Nadia porte une robe. Les gens portent de nombreux vêtements différents : un chapeau, un manteau, un pull, une chemise, un T-shirt, une robe, une jupe, une veste, un costume, un pantalon, un jean, un short, des chaussures, des baskets, des bottes.</p>",
+    "ko": "<p style='margin-top:0;'><strong>파트 1: 사람 묘사하기</strong></p><p>누가 키가 크나요? 누가 별로 키가 크지 않나요? 누가 예쁘고, 잘생겼고, 멋진가요? 누가 긴 머리, 짧은 머리, 밝은 머리, 어두운 머리, 흰 머리를 가졌나요? 누가 파란 눈, 갈색 눈을 가졌나요? Rebecca는 어두운 머리와 갈색 눈을 가졌어요.</p><p><strong>파트 2: 그들은 무엇을 하고 있나요?</strong></p><p>누가 웃고 있나요? 누가 말하고 있나요? 누가 쓰고 있나요? 누가 크게 웃고 있나요? 누가 먹고 있나요? 누가 달리고 있나요? 누가 앉아 있나요? 누가 요리하고 있나요? 누가 서 있나요? 누가 놀고 있나요? Jane이 웃고 있어요. Angela가 달리고 있어요.</p><p><strong>파트 3: 그들은 무엇을 입고 있나요?</strong></p><p>Rudi는 갈색 티셔츠를 입고 있어요. Nadia는 드레스를 입고 있어요. 사람들은 다양한 옷을 입습니다: 모자, 코트, 점퍼, 셔츠, 티셔츠, 드레스, 치마, 재킷, 정장, 바지, 청바지, 반바지, 신발, 운동화, 부츠.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      { "id": "hat", "word": "Hat", "definition": "A covering for the head.", "pronunciation": "Hat" },
+      { "id": "coat", "word": "Coat", "definition": "An outer garment worn outdoors.", "pronunciation": "Coat" },
+      { "id": "jumper", "word": "Jumper", "definition": "A knitted garment for the upper body.", "pronunciation": "Jumper" },
+      { "id": "shirt", "word": "Shirt", "definition": "A garment for the upper body with a collar and sleeves.", "pronunciation": "Shirt" },
+      { "id": "dress", "word": "Dress", "definition": "A one-piece garment for women or girls.", "pronunciation": "Dress" },
+      { "id": "skirt", "word": "Skirt", "definition": "A garment that hangs from the waist.", "pronunciation": "Skirt" },
+      { "id": "jacket", "word": "Jacket", "definition": "A short coat.", "pronunciation": "Jacket" },
+      { "id": "suit", "word": "Suit", "definition": "A set of matching jacket and trousers or skirt.", "pronunciation": "Suit" },
+      { "id": "trousers", "word": "Trousers", "definition": "A garment covering the legs from waist to ankle.", "pronunciation": "Trousers" },
+      { "id": "jeans", "word": "Jeans", "definition": "Casual trousers made of denim.", "pronunciation": "Jeans" },
+      { "id": "shoes", "word": "Shoes", "definition": "Footwear covering the foot.", "pronunciation": "Shoes" },
+      { "id": "trainers", "word": "Trainers", "definition": "Casual shoes for sports or walking.", "pronunciation": "Trainers" },
+      { "id": "boots", "word": "Boots", "definition": "Footwear that covers the ankle.", "pronunciation": "Boots" }
+    ],
+    "ja": [
+      { "id": "hat", "word": "帽子", "definition": "頭を覆うもの。", "pronunciation": "ぼうし" },
+      { "id": "coat", "word": "コート", "definition": "屋外で着る外衣。", "pronunciation": "コート" },
+      { "id": "jumper", "word": "ジャンパー", "definition": "上半身に着るニットの衣服。", "pronunciation": "ジャンパー" },
+      { "id": "shirt", "word": "シャツ", "definition": "襟と袖のある上半身の衣服。", "pronunciation": "シャツ" },
+      { "id": "dress", "word": "ドレス", "definition": "女性や少女のための一枚の衣服。", "pronunciation": "ドレス" },
+      { "id": "skirt", "word": "スカート", "definition": "腰から下げる衣服。", "pronunciation": "スカート" },
+      { "id": "jacket", "word": "ジャケット", "definition": "短いコート。", "pronunciation": "ジャケット" },
+      { "id": "suit", "word": "スーツ", "definition": "合わせたジャケットとズボンまたはスカートのセット。", "pronunciation": "スーツ" },
+      { "id": "trousers", "word": "ズボン", "definition": "腰から足首まで脚を覆う衣服。", "pronunciation": "ズボン" },
+      { "id": "jeans", "word": "ジーンズ", "definition": "デニムのカジュアルなズボン。", "pronunciation": "ジーンズ" },
+      { "id": "shoes", "word": "靴", "definition": "足を覆う履物。", "pronunciation": "くつ" },
+      { "id": "trainers", "word": "トレーナー", "definition": "スポーツや歩行のためのカジュアルな靴。", "pronunciation": "トレーナー" },
+      { "id": "boots", "word": "ブーツ", "definition": "足首を覆う履物。", "pronunciation": "ブーツ" }
+    ],
+    "fr": [
+      { "id": "hat", "word": "Chapeau", "definition": "Une couverture pour la tête.", "pronunciation": "Chapeau" },
+      { "id": "coat", "word": "Manteau", "definition": "Un vêtement d'extérieur porté dehors.", "pronunciation": "Manteau" },
+      { "id": "jumper", "word": "Pull", "definition": "Un vêtement tricoté pour le haut du corps.", "pronunciation": "Pull" },
+      { "id": "shirt", "word": "Chemise", "definition": "Un vêtement pour le haut du corps avec un col et des manches.", "pronunciation": "Chemise" },
+      { "id": "dress", "word": "Robe", "definition": "Un vêtement d'une seule pièce pour les femmes ou les filles.", "pronunciation": "Robe" },
+      { "id": "skirt", "word": "Jupe", "definition": "Un vêtement qui pend de la taille.", "pronunciation": "Jupe" },
+      { "id": "jacket", "word": "Veste", "definition": "Un manteau court.", "pronunciation": "Veste" },
+      { "id": "suit", "word": "Costume", "definition": "Un ensemble de veste et pantalon ou jupe assortis.", "pronunciation": "Costume" },
+      { "id": "trousers", "word": "Pantalon", "definition": "Un vêtement couvrant les jambes de la taille à la cheville.", "pronunciation": "Pantalon" },
+      { "id": "jeans", "word": "Jean", "definition": "Un pantalon décontracté en denim.", "pronunciation": "Jean" },
+      { "id": "shoes", "word": "Chaussures", "definition": "Chaussures couvrant le pied.", "pronunciation": "Chaussures" },
+      { "id": "trainers", "word": "Baskets", "definition": "Chaussures décontractées pour le sport ou la marche.", "pronunciation": "Baskets" },
+      { "id": "boots", "word": "Bottes", "definition": "Chaussures qui couvrent la cheville.", "pronunciation": "Bottes" }
+    ],
+    "ko": [
+      { "id": "hat", "word": "모자", "definition": "머리를 덮는 것.", "pronunciation": "모자" },
+      { "id": "coat", "word": "코트", "definition": "야외에서 입는 겉옷.", "pronunciation": "코트" },
+      { "id": "jumper", "word": "점퍼", "definition": "상체에 입는 니트 옷.", "pronunciation": "점퍼" },
+      { "id": "shirt", "word": "셔츠", "definition": "칼라와 소매가 있는 상의.", "pronunciation": "셔츠" },
+      { "id": "dress", "word": "드레스", "definition": "여성이나 소녀를 위한 원피스 옷.", "pronunciation": "드레스" },
+      { "id": "skirt", "word": "치마", "definition": "허리에서 늘어뜨리는 옷.", "pronunciation": "치마" },
+      { "id": "jacket", "word": "재킷", "definition": "짧은 코트.", "pronunciation": "재킷" },
+      { "id": "suit", "word": "정장", "definition": "매치되는 재킷과 바지 또는 치마 세트.", "pronunciation": "정장" },
+      { "id": "trousers", "word": "바지", "definition": "허리에서 발목까지 다리를 덮는 옷.", "pronunciation": "바지" },
+      { "id": "jeans", "word": "청바지", "definition": "데님으로 만든 캐주얼 바지.", "pronunciation": "청바지" },
+      { "id": "shoes", "word": "신발", "definition": "발을 덮는 신발류.", "pronunciation": "신발" },
+      { "id": "trainers", "word": "운동화", "definition": "스포츠나 걷기를 위한 캐주얼 신발.", "pronunciation": "운동화" },
+      { "id": "boots", "word": "부츠", "definition": "발목을 덮는 신발.", "pronunciation": "부츠" }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+  {
+    "title": "Who’s at the party?",
+    "label": "Conversation 1: Meeting new people at a party",
+    "script": [
+      { "speaker": "Oliver", "text": "Oh dear! Monica, I don’t know any of these people. Who are they?" },
+      { "speaker": "Monica", "text": "Don’t worry. That man sitting down is Harry. He’s a musician. He works in LA." },
+      { "speaker": "Oliver", "text": "Sorry, where?" },
+      { "speaker": "Monica", "text": "LA. Los Angeles. And he’s talking to Mandy in the red dress. She’s very nice and very rich!" }
+    ]
+  },
+  {
+    "title": "What does she do?",
+    "label": "Conversation 2: Talking about people's jobs",
+    "script": [
+      { "speaker": "Monica", "text": "Next to Harry is Fiona. She’s drinking red wine. She’s my oldest friend." },
+      { "speaker": "Oliver", "text": "And what does Fiona do?" },
+      { "speaker": "Monica", "text": "She’s a writer. She writes children’s stories." },
+      { "speaker": "Oliver", "text": "And who’s the man laughing and smoking a cigar?" },
+      { "speaker": "Monica", "text": "That’s George. He’s a pilot. He travels thousands of miles every week." }
+    ]
+  },
+  {
+    "title": "Whose are they?",
+    "label": "Conversation 3: Asking about ownership",
+    "script": [
+      { "speaker": "Oliver", "text": "And who are those two dancing? They know each other very well." },
+      { "speaker": "Monica", "text": "That’s Roz and Sam. They’re married. They live in the flat upstairs." },
+      { "speaker": "Oliver", "text": "So that’s Harry and Mandy and… it’s no good, I can’t remember all those names." }
+    ]
+  },
+  {
+    "title": "What a mess!",
+    "label": "Conversation 4: Whose things are these?",
+    "script": [
+      { "speaker": "A", "text": "Whose is this tennis racket?" },
+      { "speaker": "B", "text": "It’s mine." },
+      { "speaker": "A", "text": "What’s it doing here?" },
+      { "speaker": "B", "text": "I’m playing tennis this afternoon." }
+    ]
+  },
+  {
+    "title": "Listening: Questions about belongings",
+    "label": "Listening 1: Whose things?",
+    "script": [
+      { "speaker": "Speaker", "text": "Whose is the baseball cap?" },
+      { "speaker": "Speaker", "text": "Whose are the roller blades?" },
+      { "speaker": "Speaker", "text": "Whose is the dog?" }
+    ]
+  }
+],
+      "ja": [
+    {
+      "title": "パーティーにいるのは誰？",
+      "label": "会話1: パーティーで初対面の人に会う",
+      "script": [
+        { "speaker": "オリバー", "text": "あらまあ！モニカ、ここにいる人、誰一人知らないよ。誰なの？" },
+        { "speaker": "モニカ", "text": "心配しないで。あそこに座っている男性はハリー。ミュージシャンで、LAで働いているの。" },
+        { "speaker": "オリバー", "text": "ごめん、どこ？" },
+        { "speaker": "モニカ", "text": "LA、ロサンゼルスよ。それに彼は赤いドレスを着たマンディと話しているわ。彼女はとても優しくて、すごくお金持ちなの！" }
+      ]
+    },
+    {
+      "title": "彼女の仕事は何？",
+      "label": "会話2: 人の仕事について話す",
+      "script": [
+        { "speaker": "モニカ", "text": "ハリーの隣にいるのはフィオナ。赤ワインを飲んでいるわ。私の一番古い友達なの。" },
+        { "speaker": "オリバー", "text": "それで、フィオナの仕事は何？" },
+        { "speaker": "モニカ", "text": "作家よ。児童書を書いているの。" },
+        { "speaker": "オリバー", "text": "じゃあ、笑いながら葉巻を吸っている男性は誰？" },
+        { "speaker": "モニカ", "text": "あれはジョージ。パイロットで、毎週何千マイルも世界中を飛び回っているの。" }
+      ]
+    },
+    {
+      "title": "これらは誰のもの？",
+      "label": "会話3: 所有について尋ねる",
+      "script": [
+        { "speaker": "オリバー", "text": "それに、踊っているあの二人は誰？すごく仲が良さそうだね。" },
+        { "speaker": "モニカ", "text": "ロズとサムよ。夫婦で、上の階の部屋に住んでいるの。" },
+        { "speaker": "オリバー", "text": "つまり、ハリーとマンディそれに… だめだ、名前を全部覚えられないよ。" }
+      ]
+    },
+    {
+      "title": "なんて散らかりよう！",
+      "label": "会話4: これは誰のもの？",
+      "script": [
+        { "speaker": "A", "text": "このテニスラケットは誰の？" },
+        { "speaker": "B", "text": "僕のものだよ。" },
+        { "speaker": "A", "text": "なんでこんなところにあるの？" },
+        { "speaker": "B", "text": "今日の午後、テニスをするんだ。" }
+      ]
+    },
+    {
+      "title": "リスニング: 所有物についての質問",
+      "label": "リスニング1: 誰のもの？",
+      "script": [
+        { "speaker": "話し手", "text": "この野球帽は誰のものですか？" },
+        { "speaker": "話し手", "text": "このローラーブレードは誰のものですか？" },
+        { "speaker": "話し手", "text": "この犬は誰のものですか？" }
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "title": "Qui est à la fête ?",
+      "label": "Conversation 1 : Rencontrer de nouvelles personnes à une fête",
+      "script": [
+        { "speaker": "Olivier", "text": "Oh là là ! Monica, je ne connais personne ici. Qui sont-ils ?" },
+        { "speaker": "Monica", "text": "Ne t’inquiète pas. Cet homme assis là-bas, c’est Harry. Il est musicien. Il travaille à LA." },
+        { "speaker": "Olivier", "text": "Pardon, où ?" },
+        { "speaker": "Monica", "text": "LA, Los Angeles. Et il parle à Mandy, qui porte la robe rouge. Elle est très gentille et très riche !" }
+      ]
+    },
+    {
+      "title": "Que fait-elle ?",
+      "label": "Conversation 2 : Parler du métier des gens",
+      "script": [
+        { "speaker": "Monica", "text": "À côté d’Harry, c’est Fiona. Elle boit du vin rouge. C’est ma plus vieille amie." },
+        { "speaker": "Olivier", "text": "Et que fait Fiona ?" },
+        { "speaker": "Monica", "text": "Elle est écrivaine. Elle écrit des histoires pour enfants." },
+        { "speaker": "Olivier", "text": "Et l’homme qui rit et fume un cigare, c’est qui ?" },
+        { "speaker": "Monica", "text": "C’est George. Il est pilote. Il parcourt des milliers de kilomètres chaque semaine." }
+      ]
+    },
+    {
+      "title": "À qui sont-ils ?",
+      "label": "Conversation 3 : Demander la propriété",
+      "script": [
+        { "speaker": "Olivier", "text": "Et ces deux-là qui dansent ? Ils se connaissent très bien." },
+        { "speaker": "Monica", "text": "C’est Roz et Sam. Ils sont mariés. Ils habitent dans l’appartement au-dessus." },
+        { "speaker": "Olivier", "text": "Donc voilà Harry et Mandy et… ça ne va pas, je n’arrive pas à retenir tous ces noms." }
+      ]
+    },
+    {
+      "title": "Quel désordre !",
+      "label": "Conversation 4 : À qui sont ces affaires ?",
+      "script": [
+        { "speaker": "A", "text": "À qui est cette raquette de tennis ?" },
+        { "speaker": "B", "text": "C’est la mienne." },
+        { "speaker": "A", "text": "Qu’est-ce qu’elle fait ici ?" },
+        { "speaker": "B", "text": "Je joue au tennis cet après-midi." }
+      ]
+    },
+    {
+      "title": "Écoute : Questions sur les objets",
+      "label": "Écoute 1 : À qui sont ces choses ?",
+      "script": [
+        { "speaker": "Locuteur", "text": "À qui est cette casquette de baseball ?" },
+        { "speaker": "Locuteur", "text": "À qui sont ces rollers ?" },
+        { "speaker": "Locuteur", "text": "À qui est ce chien ?" }
+      ]
+    }
+  ],
+  "ko": [
+    {
+      "title": "파티에 누가 있나?",
+      "label": "대화1: 파티에서 새 사람 만나기",
+      "script": [
+        { "speaker": "올리버", "text": "이런! 모니카, 여기 있는 사람들 중에 아는 사람이 하나도 없어. 다들 누구야?" },
+        { "speaker": "모니카", "text": "걱정 마. 저기 앉아 있는 남자는 해리야. 음악가이고 LA에서 일해." },
+        { "speaker": "올리버", "text": "미안, 어디라고?" },
+        { "speaker": "모니카", "text": "LA, 로스앤젤레스. 그리고 빨간 드레스 입은 맨디랑 얘기 중이야. 그녀는 정말 착하고 아주 부자야!" }
+      ]
+    },
+    {
+      "title": "그녀는 무슨 일을 하나?",
+      "label": "대화2: 사람들의 직업에 대해 말하기",
+      "script": [
+        { "speaker": "모니카", "text": "해리 옆에 있는 사람은 피오나야. 적포도주를 마시고 있고, 내 가장 오랜 친구야." },
+        { "speaker": "올리버", "text": "그럼 피오나는 무슨 일을 해?" },
+        { "speaker": "모니카", "text": "작가야. 어린이 동화를 써." },
+        { "speaker": "올리버", "text": "그럼 웃으면서 시가 피우고 있는 남자는 누구야?" },
+        { "speaker": "모니카", "text": "그 사람은 조지야. 파일럿이고 매주 수천 마일을 여행해." }
+      ]
+    },
+    {
+      "title": "이것들은 누구 거야?",
+      "label": "대화3: 소유 묻기",
+      "script": [
+        { "speaker": "올리버", "text": "그리고 춤추고 있는 저 두 사람은 누구야? 서로 아주 잘 아는 사이 같네." },
+        { "speaker": "모니카", "text": "로즈와 샘이야. 부부이고 위층 아파트에 살아." },
+        { "speaker": "올리버", "text": "그럼 해리랑 맨디랑… 안 되겠다, 이름을 다 기억할 수가 없네." }
+      ]
+    },
+    {
+      "title": "난장판이네!",
+      "label": "대화4: 이것들 누구 거야?",
+      "script": [
+        { "speaker": "A", "text": "이 테니스 라켓 누구 거야?" },
+        { "speaker": "B", "text": "내 거야." },
+        { "speaker": "A", "text": "여기서 뭐 하는 거야?" },
+        { "speaker": "B", "text": "오늘 오후에 테니스 치려고." }
+      ]
+    },
+    {
+      "title": "리스닝: 물건에 대한 질문",
+      "label": "리스닝1: 누구의 것일까?",
+      "script": [
+        { "speaker": "말하는 사람", "text": "이 야구 모자는 누구 거예요?" },
+        { "speaker": "말하는 사람", "text": "이 롤러블레이드는 누구 거예요?" },
+        { "speaker": "말하는 사람", "text": "이 개는 누구 거예요?" }
+      ]
+    }
+  ]
+  },
+  "extra_reading_title": {
+    "en": "What a Wonderful World",
+    "ja": "この素晴らしき世界",
+    "fr": "Quel monde merveilleux",
+    "ko": "정말 멋진 세상"
+  },
+  "extra_reading_html": {
+    "en": "<p>I see trees of green, red roses too. I see them bloom for me and you. And I think to myself, what a wonderful world. I see skies of blue and clouds of white. The bright blessed day and the dark sacred night. And I think to myself, what a wonderful world. The colors of the rainbow, so pretty in the sky, are also on the faces of the people going by. I see friends shaking hands, saying 'How do you do?' They're really saying 'I love you.' I hear babies cry. I watch them grow. They'll learn much more than you'll ever know. And I think to myself, what a wonderful world.</p>",
+    "ja": "<p>緑の木々が見える。赤いバラも咲いている。それらは私とあなたのために咲いている。そして思う。なんて素晴らしい世界だろう。青い空と白い雲が見える。明るく恵まれた昼と、厳かな夜。そして思う。なんて素晴らしい世界だろう。空にかかる虹の彩りは、通り過ぎる人々の顔の上にもある。友人たちが握手をして「こんにちは」と言っている。彼らは本当は「愛しているよ」と言っているのだ。赤ん坊の泣き声が聞こえる。彼らが成長するのを見守る。彼らは君が知るよりもずっと多くのことを学ぶだろう。そして思う。なんて素晴らしい世界だろう。</p>",
+    "fr": "<p>Je vois des arbres verts, des roses rouges aussi. Je les vois fleurir pour toi et pour moi. Et je me dis, quel monde merveilleux. Je vois des ciels bleus et des nuages blancs. Le jour béni et brillant, et la nuit sacrée et sombre. Et je me dis, quel monde merveilleux. Les couleurs de l'arc-en-ciel, si jolies dans le ciel, sont aussi sur les visages des gens qui passent. Je vois des amis se serrer la main, en disant 'Comment allez-vous ?' Ils disent en réalité 'Je vous aime'. J'entends les bébés pleurer. Je les regarde grandir. Ils apprendront bien plus que tu ne le sauras jamais. Et je me dis, quel monde merveilleux.</p>",
+    "ko": "<p>초록빛 나무들이 보이고, 붉은 장미도 보여요. 당신과 나를 위해 꽃이 피어나죠. 그리고 혼자 생각해요. 정말 멋진 세상이라고. 푸른 하늘과 흰 구름이 보여요. 밝고 축복받은 낮과, 경건한 밤도요. 그리고 혼자 생각해요. 정말 멋진 세상이라고. 하늘에 떠 있는 아름다운 무지개색은, 지나가는 사람들의 얼굴에도 담겨 있어요. 친구들이 악수하며 '안녕'하고 인사하는 걸 봐요. 그들은 사실 '사랑해'라고 말하고 있는 거죠. 아기들의 울음소리가 들려요. 아이들이 자라는 걸 지켜보죠. 그들은 당신이 아는 것보다 훨씬 더 많은 것을 배우게 될 거예요. 그리고 혼자 생각해요. 정말 멋진 세상이라고.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      { "question": "The lyrics mention that the roses bloom only for the singer.", "correct": "F", "explanation": "The lyrics say they bloom for 'me and you'." },
+      { "question": "The singer sees blue skies and white clouds.", "correct": "T", "explanation": "The text explicitly states 'I see skies of blue and clouds of white'." },
+      { "question": "The rainbow colors are only found in the sky.", "correct": "F", "explanation": "The lyrics say the colors are also on the faces of the people going by." },
+      { "question": "When friends shake hands and say 'How do you do?', the singer interprets it as 'I love you'.", "correct": "T", "explanation": "The text says 'They're really saying I love you'." },
+      { "question": "The singer believes the babies will learn less than the older generation.", "correct": "F", "explanation": "The lyrics say 'They'll learn much more than you'll ever know'." }
+    ],
+    "ja": [
+      { "question": "バラは私（歌い手）のためだけに咲いている。", "correct": "F", "explanation": "歌では「私とあなたのために」咲いていると述べられています。" },
+      { "question": "青い空と白い雲が登場する。", "correct": "T", "explanation": "歌詞の中に「青い空と白い雲」という表現があります。" },
+      { "question": "虹の色は空にしか存在しない。", "correct": "F", "explanation": "歌詞では、虹の色は通り過ぎる人々の顔にもあると歌われています。" },
+      { "question": "歌い手は、友人の挨拶には愛が込められていると考えている。", "correct": "T", "explanation": "「こんにちは」と言っているが、本当は「愛している」と言っているのだと表現されています。" },
+      { "question": "赤ん坊は将来、あまり多くのことを学ばないだろう。", "correct": "F", "explanation": "歌詞には「君が知るよりもずっと多くのことを学ぶだろう」とあります。" }
+    ],
+    "fr": [
+      { "question": "Les roses fleurissent uniquement pour la personne qui chante.", "correct": "F", "explanation": "Les paroles disent qu'elles fleurissent pour 'toi et pour moi'." },
+      { "question": "Le chanteur voit des ciels bleus et des nuages blancs.", "correct": "T", "explanation": "C'est explicitement mentionné dans le texte." },
+      { "question": "Les couleurs de l'arc-en-ciel sont uniquement dans le ciel.", "correct": "F", "explanation": "Les paroles indiquent qu'elles sont aussi sur les visages des gens." },
+      { "question": "Le chanteur pense que les amis qui se saluent expriment leur amour.", "correct": "T", "explanation": "Le texte dit qu'en disant 'Comment allez-vous', ils disent en réalité 'Je vous aime'." },
+      { "question": "Les bébés apprendront moins que les adultes.", "correct": "F", "explanation": "Le texte dit qu'ils apprendront bien plus que ce que tu sauras jamais." }
+    ],
+    "ko": [
+      { "question": "장미는 오직 노래하는 사람만을 위해 핀다.", "correct": "F", "explanation": "가사에는 '당신과 나를 위해' 핀다고 나와 있습니다." },
+      { "question": "노래에는 푸른 하늘과 흰 구름이 등장한다.", "correct": "T", "explanation": "가사에 '푸른 하늘과 흰 구름'이 언급됩니다." },
+      { "question": "무지개색은 오직 하늘에만 있다.", "correct": "F", "explanation": "지나가는 사람들의 얼굴에도 무지개색이 담겨 있다고 합니다." },
+      { "question": "인사하는 친구들의 말 속에는 사랑이 담겨 있다고 한다.", "correct": "T", "explanation": "인사말이 사실은 '사랑해'라는 뜻이라고 표현합니다." },
+      { "question": "아기들은 나중에 자라서 별로 배우는 것이 없을 것이다.", "correct": "F", "explanation": "가사에는 당신이 아는 것보다 훨씬 더 많이 배울 것이라고 적혀 있습니다." }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "grammar_html": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

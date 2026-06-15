@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎵 What A Wonderful World - Louis Armstrong</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="../../css/unit.css">
+    <style>
+        .song-header {
+            background: linear-gradient(135deg, #1ABC9C, #2ECC71);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            border-radius: 20px;
+            margin-bottom: 2rem;
+        }
+        .song-header h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+        .song-header p {
+            margin: 0.5rem 0 0;
+            opacity: 0.9;
+        }
+        .audio-player-section {
+            background: #f0f7f4;
+            padding: 1.5rem;
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            text-align: center;
+            border: 2px solid #1ABC9C;
+        }
+        .audio-player-section audio {
+            width: 100%;
+            max-width: 500px;
+        }
+        .section-badge {
+            display: inline-block;
+            background: #1ABC9C;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            margin-bottom: 1rem;
+        }
+        .final-challenge {
+            background: linear-gradient(135deg, #2c3e50, #1ABC9C);
+            color: white;
+            padding: 25px;
+            border-radius: 20px;
+            margin-top: 30px;
+            text-align: center;
+        }
+        .final-challenge h3 {
+            margin: 0 0 10px;
+        }
+        .record-btn.recording {
+            background-color: #000 !important;
+        }
+        .action-buttons {
+            display: flex;
+            gap: 8px;
+            flex-shrink: 0;
+            flex-wrap: wrap;
+        }
+        .action-btn {
+            border: none;
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .transcript-result {
+            margin-top: 10px;
+            padding: 10px 14px;
+            background: #f3e5f5;
+            border-left: 4px solid #9c27b0;
+            border-radius: 10px;
+            font-size: 14px;
+            color: #4a148c;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .copy-btn {
+            background: #e1bee7;
+            border: none;
+            border-radius: 6px;
+            padding: 5px 12px;
+            color: #4a148c;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        .close-btn {
+            background: none;
+            border: none;
+            color: #999;
+            cursor: pointer;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<a href="../../index.html" class="back-to-dashboard">🏠 Back to Dashboard</a>
+
+<header>
+    <h1>🎵 Song Break</h1>
+    <nav class="nav-links">
+        <a href="#verse1">Verse 1</a>
+        <a href="#verse2">Verse 2</a>
+        <a href="#verse3">Verse 3</a>
+        <a href="#verse4">Verse 4</a>
+        <a href="#finale">Finale</a>
+        <a href="#final">🎤 Full Song</a>
+    </nav>
+</header>
+
+<div class="container">
+
+    <div class="song-header">
+        <h1>What A Wonderful World</h1>
+        <p>Louis Armstrong (1967)</p>
+    </div>
+
+    <div class="audio-player-section">
+        <div class="section-badge">🎧 Official Audio</div>
+        <p><i class="fas fa-music"></i> Listen to the original song:</p>
+        <audio id="full-song-audio" controls>
+            <source src="../../data/3_PreIntermediate/what_a_wonderful_world.mp3" type="audio/mpeg">
+        </audio>
+        <p style="font-size: 0.8rem; margin-top: 10px; color: #666;">
+            ℹ️ MP3 파일 위치: <source src="../../data/3_PreIntermediate/what_a_wonderful_world.mp3" type="audio/mpeg">
+        </p>
+    </div>
+
+    <section id="verse1">
+        <h2>📍 Verse 1</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="verse1-container"></div>
+        </div>
+    </section>
+
+    <section id="verse2">
+        <h2>📍 Verse 2</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="verse2-container"></div>
+        </div>
+    </section>
+
+    <section id="verse3">
+        <h2>📍 Verse 3 (Bridge)</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="verse3-container"></div>
+        </div>
+    </section>
+
+    <section id="verse4">
+        <h2>📍 Verse 4 (Babies & Growth)</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="verse4-container"></div>
+        </div>
+    </section>
+
+    <section id="finale">
+        <h2>📍 Finale</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="finale-container"></div>
+        </div>
+    </section>
+
+    <div id="final" class="final-challenge">
+        <h3>🎤 FINAL CHALLENGE: Complete Song</h3>
+        <p>Practice all verses, then sing the whole song!</p>
+        <div class="quiz-item" style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px; margin-top: 15px;">
+            <div id="full-song-container"></div>
+        </div>
+    </div>
+
+    <section style="margin-top: 3rem;">
+        <h2>📝 Listening Worksheet</h2>
+        <div style="background: #fef9e7; padding: 25px; border-radius: 15px; border-left: 6px solid #f39c12;">
+            <p><strong>🎧 Fill in the missing words:</strong></p>
+            <div style="line-height: 2; font-size: 1rem;">
+                <p>1. I see trees of <input type="text" class="mini-input" style="width: 80px;">, red roses too.<br>
+                <small>Answer: green</small></p>
+                <p>2. I see them <input type="text" class="mini-input" style="width: 80px;"> for me and you.<br>
+                <small>Answer: bloom</small></p>
+                <p>3. And I think to myself, "What a <input type="text" class="mini-input" style="width: 100px;"> world."<br>
+                <small>Answer: wonderful</small></p>
+                <p>4. I see skies of <input type="text" class="mini-input" style="width: 60px;"> and clouds of white.<br>
+                <small>Answer: blue</small></p>
+                <p>5. The bright <input type="text" class="mini-input" style="width: 60px;"> day, the sacred night.<br>
+                <small>Answer: blessed</small></p>
+                <p>6. The colors of the <input type="text" class="mini-input" style="width: 70px;"> are so pretty in the sky.<br>
+                <small>Answer: rainbow</small></p>
+                <p>7. I hear babies <input type="text" class="mini-input" style="width: 70px;">, I watch them grow.<br>
+                <small>Answer: cry</small></p>
+            </div>
+        </div>
+    </section>
+
+    <section style="margin-top: 2rem;">
+        <h2>📖 Key Vocabulary & Grammar</h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+            <div class="card"><strong>🌿 Bloom</strong> - to produce flowers; to flourish</div>
+            <div class="card"><strong>🌈 Rainbow</strong> - a curve of colors in the sky</div>
+            <div class="card"><strong>🙏 Blessed</strong> - holy, sacred, lucky</div>
+            <div class="card"><strong>😢 Cry (v.)</strong> - to shed tears; to shout</div>
+            <div class="card"><strong>🌟 Grammar Focus</strong> - Simple Present for general truths</div>
+        </div>
+    </section>
+
+</div>
+
+<footer>
+    &copy; 2026 AI English Tutor - Song Learning Module | "What A Wonderful World" - Louis Armstrong
+</footer>
+
+<script>
+// ============================================================
+// 독립형 녹음 + 필사 시스템 - speaking.js 완전히 무시
+// Windows 10, Zorin OS 모두에서 작동
+// ============================================================
+
+// 전역 저장소
+const recordings = {};
+
+// TTS 함수
+function speakText(text, character) {
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'en-US';
+    window.speechSynthesis.speak(utterance);
+}
+
+// 녹음 토글
+async function toggleRecord(uniqueId) {
+    const recordBtn = document.getElementById(`rec-${uniqueId}`);
+    if (!recordBtn) return;
+    
+    // 이미 녹음 중이면 중지
+    if (recordings[uniqueId] && recordings[uniqueId].recorder && recordings[uniqueId].recorder.state === "recording") {
+        recordings[uniqueId].recorder.stop();
+        recordBtn.style.backgroundColor = "#e74c3c";
+        recordBtn.innerHTML = "🎤";
+        recordBtn.classList.remove("recording");
+        return;
+    }
+    
+    // 새 녹음 시작
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        const recorder = new MediaRecorder(stream);
+        const chunks = [];
+        
+        recorder.ondataavailable = (e) => {
+            if (e.data.size > 0) chunks.push(e.data);
+        };
+        
+        recorder.onstop = () => {
+            const blob = new Blob(chunks, { type: 'audio/webm' });
+            const url = URL.createObjectURL(blob);
+            recordings[uniqueId] = {
+                blob: blob,
+                url: url,
+                recorder: null,
+                stream: null
+            };
+            
+            // 버튼들 표시
+            const playBtn = document.getElementById(`play-${uniqueId}`);
+            if (playBtn) playBtn.style.display = "flex";
+            const downloadBtn = document.getElementById(`download-${uniqueId}`);
+            if (downloadBtn) downloadBtn.style.display = "flex";
+            const transcribeBtn = document.getElementById(`transcribe-${uniqueId}`);
+            if (transcribeBtn) transcribeBtn.style.display = "flex";
+            
+            stream.getTracks().forEach(track => track.stop());
+        };
+        
+        recorder.start();
+        recordings[uniqueId] = {
+            recorder: recorder,
+            stream: stream,
+            blob: null,
+            url: null
+        };
+        
+        recordBtn.style.backgroundColor = "#000";
+        recordBtn.innerHTML = "⏹";
+        recordBtn.classList.add("recording");
+        
+    } catch (err) {
+        console.error("Microphone error:", err);
+        alert("마이크 접근 오류: " + (err.message || "권한을 확인해주세요"));
+    }
+}
+
+// 녹음 재생
+function playMyVoice(uniqueId) {
+    if (recordings[uniqueId] && recordings[uniqueId].url) {
+        const audio = new Audio(recordings[uniqueId].url);
+        audio.play().catch(e => console.log("Play error:", e));
+    } else {
+        alert("먼저 녹음해주세요");
+    }
+}
+
+// 녹음 다운로드
+function downloadRecording(uniqueId) {
+    if (recordings[uniqueId] && recordings[uniqueId].blob) {
+        const url = URL.createObjectURL(recordings[uniqueId].blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `recording_${uniqueId}.webm`;
+        a.click();
+        URL.revokeObjectURL(url);
+    } else {
+        alert("다운로드할 녹음이 없습니다");
+    }
+}
+
+// 필사 (STT) - 음성 인식
+function transcribeRecording(uniqueId) {
+    // 이미 결과가 있다면 제거 (토글)
+    const existingResult = document.getElementById(`transcript-result-${uniqueId}`);
+    if (existingResult) {
+        existingResult.remove();
+        return;
+    }
+    
+    // 브라우저 지원 확인 (수정된 부분!)
+    if (!('webkitSpeechRecognition' in window) && !('SpeechRecognition' in window)) {
+        alert("Speech recognition is not supported in this browser. Please use Chrome, Edge, or Safari.");
+        return;
+    }
+    
+    const transcribeBtn = document.getElementById(`transcribe-${uniqueId}`);
+    if (!transcribeBtn) {
+        alert("Please record first.");
+        return;
+    }
+    
+    const originalText = transcribeBtn.innerHTML;
+    transcribeBtn.style.backgroundColor = "#e91e63";
+    transcribeBtn.innerHTML = "🎙️";
+    
+    // 음성 인식 객체 생성
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    const recognition = new SpeechRecognition();
+    recognition.lang = 'en-US';
+    recognition.interimResults = false;
+    recognition.maxAlternatives = 1;
+    
+    recognition.onresult = (event) => {
+        const recognizedText = event.results[0][0].transcript;
+        showTranscriptionResult(uniqueId, recognizedText);
+    };
+    
+    recognition.onerror = (event) => {
+        console.error("Recognition error:", event.error);
+        if (event.error === "no-speech") {
+            alert("No speech detected. Please speak into the microphone and try again.");
+        } else if (event.error === "not-allowed") {
+            alert("Microphone access denied. Please allow microphone access.");
+        } else {
+            alert(`Recognition error: ${event.error}`);
+        }
+        transcribeBtn.style.backgroundColor = "#9c27b0";
+        transcribeBtn.innerHTML = originalText;
+    };
+    
+    recognition.onend = () => {
+        transcribeBtn.style.backgroundColor = "#9c27b0";
+        transcribeBtn.innerHTML = originalText;
+    };
+    
+    recognition.start();
+}
+// 필사 결과 표시
+function showTranscriptionResult(uniqueId, text) {
+    // 기존 결과 제거
+    const existingResult = document.getElementById(`transcript-result-${uniqueId}`);
+    if (existingResult) existingResult.remove();
+    
+    // 해당 row 찾기 (record 버튼의 부모 row)
+    const recordBtn = document.getElementById(`rec-${uniqueId}`);
+    const targetRow = recordBtn ? recordBtn.closest('[style*="padding: 12px 15px"]') : null;
+    if (!targetRow) return;
+    
+    const resultDiv = document.createElement('div');
+    resultDiv.id = `transcript-result-${uniqueId}`;
+    resultDiv.className = 'transcript-result';
+    resultDiv.innerHTML = `
+        <span><strong>📝 Transcription:</strong> "${text}"</span>
+        <div style="display: flex; gap: 8px;">
+            <button class="copy-btn" onclick="copyTranscription('${uniqueId}', this)">📋 Copy</button>
+            <button class="close-btn" onclick="this.parentElement.parentElement.remove()">✖</button>
+        </div>
+    `;
+    
+    targetRow.insertAdjacentElement('afterend', resultDiv);
+}
+
+// 필사 결과 복사
+function copyTranscription(uniqueId, btn) {
+    const resultDiv = document.getElementById(`transcript-result-${uniqueId}`);
+    if (resultDiv) {
+        const textMatch = resultDiv.innerText.match(/"([^"]*)"/);
+        const text = textMatch ? textMatch[1] : "";
+        
+        if (text) {
+            navigator.clipboard.writeText(text).then(() => {
+                const originalText = btn.innerText;
+                btn.innerText = "✓ Copied!";
+                setTimeout(() => {
+                    btn.innerText = originalText;
+                }, 1500);
+            }).catch(() => {
+                alert("Failed to copy.");
+            });
+        }
+    }
+}
+
+// ============================================================
+// 가사 데이터
+// ============================================================
+
+const verse1Data = [
+    { name: "Chunk 1", color: "#1ABC9C", bg: "#E8F8F5", text: "I see trees of green" },
+    { name: "Chunk 2", color: "#1ABC9C", bg: "#E8F8F5", text: "red roses too" },
+    { name: "Sentence 1", color: "#16A085", bg: "#D5F5E3", text: "I see trees of green, red roses too." },
+    { name: "Chunk 3", color: "#1ABC9C", bg: "#E8F8F5", text: "I see them bloom" },
+    { name: "Chunk 4", color: "#1ABC9C", bg: "#E8F8F5", text: "for me and you" },
+    { name: "Sentence 2", color: "#16A085", bg: "#D5F5E3", text: "I see them bloom for me and you." },
+    { name: "Chunk 5", color: "#1ABC9C", bg: "#E8F8F5", text: "And I think to myself" },
+    { name: "Chunk 6", color: "#1ABC9C", bg: "#E8F8F5", text: "what a wonderful world" },
+    { name: "Sentence 3", color: "#16A085", bg: "#D5F5E3", text: "And I think to myself, what a wonderful world." },
+    { name: "🎵 Verse 1 (Full)", color: "#ffffff", bg: "#2C3E50", text: "I see trees of green, red roses too. I see them bloom for me and you. And I think to myself, what a wonderful world." }
+];
+
+const verse2Data = [
+    { name: "Chunk 1", color: "#2ECC71", bg: "#EAFAF1", text: "I see skies of blue" },
+    { name: "Chunk 2", color: "#2ECC71", bg: "#EAFAF1", text: "and clouds of white" },
+    { name: "Sentence 1", color: "#27AE60", bg: "#D5F5E3", text: "I see skies of blue and clouds of white." },
+    { name: "Chunk 3", color: "#2ECC71", bg: "#EAFAF1", text: "The bright blessed day" },
+    { name: "Chunk 4", color: "#2ECC71", bg: "#EAFAF1", text: "the dark sacred night" },
+    { name: "Sentence 2", color: "#27AE60", bg: "#D5F5E3", text: "The bright blessed day, the dark sacred night." },
+    { name: "Chunk 5", color: "#2ECC71", bg: "#EAFAF1", text: "And I think to myself" },
+    { name: "Chunk 6", color: "#2ECC71", bg: "#EAFAF1", text: "what a wonderful world" },
+    { name: "Sentence 3", color: "#27AE60", bg: "#D5F5E3", text: "And I think to myself, what a wonderful world." },
+    { name: "🎵 Verse 2 (Full)", color: "#ffffff", bg: "#2C3E50", text: "I see skies of blue and clouds of white. The bright blessed day, the dark sacred night. And I think to myself, what a wonderful world." }
+];
+
+const verse3Data = [
+    { name: "Chunk 1", color: "#3498DB", bg: "#EBF5FB", text: "The colors of the rainbow" },
+    { name: "Chunk 2", color: "#3498DB", bg: "#EBF5FB", text: "so pretty in the sky" },
+    { name: "Sentence 1", color: "#2980B9", bg: "#D6EAF8", text: "The colors of the rainbow, so pretty in the sky." },
+    { name: "Chunk 3", color: "#3498DB", bg: "#EBF5FB", text: "Are also on the faces" },
+    { name: "Chunk 4", color: "#3498DB", bg: "#EBF5FB", text: "of people going by" },
+    { name: "Sentence 2", color: "#2980B9", bg: "#D6EAF8", text: "Are also on the faces of people going by." },
+    { name: "Chunk 5", color: "#3498DB", bg: "#EBF5FB", text: "I see friends shaking hands" },
+    { name: "Chunk 6", color: "#3498DB", bg: "#EBF5FB", text: "saying 'How do you do?'" },
+    { name: "Sentence 3", color: "#2980B9", bg: "#D6EAF8", text: "I see friends shaking hands, saying 'How do you do?'" },
+    { name: "Chunk 7", color: "#3498DB", bg: "#EBF5FB", text: "They're really saying" },
+    { name: "Chunk 8", color: "#3498DB", bg: "#EBF5FB", text: "'I love you'" },
+    { name: "Sentence 4", color: "#2980B9", bg: "#D6EAF8", text: "They're really saying 'I love you'." },
+    { name: "🎵 Verse 3 (Full Bridge)", color: "#ffffff", bg: "#2C3E50", text: "The colors of the rainbow, so pretty in the sky, are also on the faces of people going by. I see friends shaking hands, saying 'How do you do?' They're really saying 'I love you'." }
+];
+
+const verse4Data = [
+    { name: "Chunk 1", color: "#E67E22", bg: "#FEF5E7", text: "I hear babies cry" },
+    { name: "Chunk 2", color: "#E67E22", bg: "#FEF5E7", text: "I watch them grow" },
+    { name: "Sentence 1", color: "#D35400", bg: "#FDEBD0", text: "I hear babies cry, I watch them grow." },
+    { name: "Chunk 3", color: "#E67E22", bg: "#FEF5E7", text: "They'll learn much more" },
+    { name: "Chunk 4", color: "#E67E22", bg: "#FEF5E7", text: "than I'll ever know" },
+    { name: "Sentence 2", color: "#D35400", bg: "#FDEBD0", text: "They'll learn much more than I'll ever know." },
+    { name: "Chunk 5", color: "#E67E22", bg: "#FEF5E7", text: "And I think to myself" },
+    { name: "Chunk 6", color: "#E67E22", bg: "#FEF5E7", text: "what a wonderful world" },
+    { name: "Sentence 3", color: "#D35400", bg: "#FDEBD0", text: "And I think to myself, what a wonderful world." },
+    { name: "🎵 Verse 4 (Full)", color: "#ffffff", bg: "#2C3E50", text: "I hear babies cry, I watch them grow. They'll learn much more than I'll ever know. And I think to myself, what a wonderful world." }
+];
+
+const finaleData = [
+    { name: "Chunk 1", color: "#9B59B6", bg: "#F5EEF8", text: "Yes, I think to myself" },
+    { name: "Chunk 2", color: "#9B59B6", bg: "#F5EEF8", text: "what a wonderful world" },
+    { name: "Sentence 1", color: "#8E44AD", bg: "#E8DAEF", text: "Yes, I think to myself, what a wonderful world." },
+    { name: "Chunk 3", color: "#9B59B6", bg: "#F5EEF8", text: "Oh yeah!" },
+    { name: "Sentence Final", color: "#8E44AD", bg: "#E8DAEF", text: "Yes, I think to myself, what a wonderful world. Oh yeah!" },
+    { name: "🎵 Finale (Full)", color: "#ffffff", bg: "#2C3E50", text: "Yes, I think to myself, what a wonderful world. Oh yeah!" }
+];
+
+const fullSongData = [
+    { name: "Verse 1", color: "#1ABC9C", bg: "#E8F8F5", text: "I see trees of green, red roses too. I see them bloom for me and you. And I think to myself, what a wonderful world." },
+    { name: "Verse 2", color: "#2ECC71", bg: "#EAFAF1", text: "I see skies of blue and clouds of white. The bright blessed day, the dark sacred night. And I think to myself, what a wonderful world." },
+    { name: "Verse 3", color: "#3498DB", bg: "#EBF5FB", text: "The colors of the rainbow, so pretty in the sky, are also on the faces of people going by. I see friends shaking hands, saying 'How do you do?' They're really saying 'I love you'." },
+    { name: "Verse 4", color: "#E67E22", bg: "#FEF5E7", text: "I hear babies cry, I watch them grow. They'll learn much more than I'll ever know. And I think to myself, what a wonderful world." },
+    { name: "Finale", color: "#9B59B6", bg: "#F5EEF8", text: "Yes, I think to myself, what a wonderful world. Oh yeah!" }
+];
+
+// ============================================================
+// 렌더링 함수 - createElement만 사용
+// ============================================================
+
+function renderDialogue(containerId, data, sectionPrefix) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    
+    container.innerHTML = '';
+    
+    data.forEach((item, idx) => {
+        const uniqueId = `${sectionPrefix}_${idx}`;
+        
+        const rowDiv = document.createElement('div');
+        rowDiv.style.cssText = `padding: 12px 15px; background: ${item.bg}; border-radius: 12px; border-left: 6px solid ${item.color}; display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-bottom: 8px;`;
+        
+        // 텍스트 영역
+        const textDiv = document.createElement('div');
+        textDiv.style.flex = '1';
+        textDiv.innerHTML = `<strong style="color: ${item.color};">${item.name}:</strong> <span>${item.text}</span>`;
+        
+        // 버튼 영역
+        const btnDiv = document.createElement('div');
+        btnDiv.className = 'action-buttons';
+        
+        // Speak 버튼
+        const speakBtn = document.createElement('button');
+        speakBtn.className = 'action-btn';
+        speakBtn.style.background = item.color;
+        speakBtn.innerHTML = '🔊';
+        speakBtn.onclick = () => speakText(item.text.replace(/<[^>]*>/g, ''), 'assistant');
+        
+        // Record 버튼
+        const recordBtn = document.createElement('button');
+        recordBtn.id = `rec-${uniqueId}`;
+        recordBtn.className = 'action-btn';
+        recordBtn.style.background = '#e74c3c';
+        recordBtn.innerHTML = '🎤';
+        recordBtn.onclick = () => toggleRecord(uniqueId);
+        
+        // Play 버튼
+        const playBtn = document.createElement('button');
+        playBtn.id = `play-${uniqueId}`;
+        playBtn.className = 'action-btn';
+        playBtn.style.background = '#2ecc71';
+        playBtn.innerHTML = '▶';
+        playBtn.style.display = 'none';
+        playBtn.onclick = () => playMyVoice(uniqueId);
+        
+        // Download 버튼
+        const downloadBtn = document.createElement('button');
+        downloadBtn.id = `download-${uniqueId}`;
+        downloadBtn.className = 'action-btn';
+        downloadBtn.style.background = '#3498db';
+        downloadBtn.innerHTML = '💾';
+        downloadBtn.style.display = 'none';
+        downloadBtn.onclick = () => downloadRecording(uniqueId);
+        
+        // Transcribe 버튼
+        const transcribeBtn = document.createElement('button');
+        transcribeBtn.id = `transcribe-${uniqueId}`;
+        transcribeBtn.className = 'action-btn';
+        transcribeBtn.style.background = '#9c27b0';
+        transcribeBtn.innerHTML = '📝';
+        transcribeBtn.style.display = 'none';
+        transcribeBtn.onclick = () => transcribeRecording(uniqueId);
+        
+        // 👇 새로 추가: 저장 버튼 (항상 보임)
+        const saveBtn = document.createElement('button');
+        saveBtn.className = 'action-btn';
+        saveBtn.style.background = '#f39c12';
+        saveBtn.innerHTML = '📦';
+        saveBtn.title = 'Save this chunk to Speaking Drill Center';
+        saveBtn.onclick = () => {
+            const plainText = item.text.replace(/<[^>]*>/g, '');
+            // 파일명에서 unitId 추출 (song_wonderful_world)
+            const unitId = window.location.pathname.match(/(song_\w+)/)?.[1] || 'song_wonderful_world';
+            const unitTitle = '🎵 What A Wonderful World - Louis Armstrong';
+            
+            // saveChunkToDrillCenter 함수 호출
+            if (typeof saveChunkToDrillCenter === 'function') {
+                saveChunkToDrillCenter(unitId, unitTitle, plainText, item.color, item.bg);
+            } else {
+                alert('saveChunkToDrillCenter function not found. Make sure speaking.js is loaded.');
+            }
+        };
+        
+        btnDiv.appendChild(speakBtn);
+        btnDiv.appendChild(recordBtn);
+        btnDiv.appendChild(playBtn);
+        btnDiv.appendChild(downloadBtn);
+        btnDiv.appendChild(transcribeBtn);
+        btnDiv.appendChild(saveBtn);  // 저장 버튼 추가
+        
+        rowDiv.appendChild(textDiv);
+        rowDiv.appendChild(btnDiv);
+        container.appendChild(rowDiv);
+    });
+}
+
+
+// ========== DRILL CENTER 저장 함수 ==========
+function saveChunkToDrillCenter(unitId, unitTitle, chunkText, color, bg) {
+    const saved = JSON.parse(localStorage.getItem("chunkStorage")) || [];
+    
+    // 중복 체크
+    const exists = saved.some(ch => ch.unitId === unitId && ch.chunkText === chunkText);
+    if (exists) {
+        alert("⚠️ This chunk is already in your Drill Center!");
+        return;
+    }
+    
+    saved.push({
+        unitId: unitId,
+        unitTitle: unitTitle,
+        chunkText: chunkText,
+        style: { color: color, bg: bg },
+        savedAt: new Date().toISOString()
+    });
+    
+    localStorage.setItem("chunkStorage", JSON.stringify(saved));
+    alert("✅ Chunk saved to Speaking Drill Center!");
+}
+
+
+// ============================================================
+// 초기화
+// ============================================================
+
+window.addEventListener('DOMContentLoaded', () => {
+    renderDialogue('verse1-container', verse1Data, 'verse1');
+    renderDialogue('verse2-container', verse2Data, 'verse2');
+    renderDialogue('verse3-container', verse3Data, 'verse3');
+    renderDialogue('verse4-container', verse4Data, 'verse4');
+    renderDialogue('finale-container', finaleData, 'finale');
+    renderDialogue('full-song-container', fullSongData, 'full');
+});
+</script>
+
+</body>
+</html>
+

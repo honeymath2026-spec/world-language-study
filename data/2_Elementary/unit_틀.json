@@ -1,0 +1,153 @@
+유닛 json 예시
+
+
+{
+  "title": {
+    "en": "Hello everybody!",
+    "ja": "みなさん、こんにちは！",
+    "fr": "Bonjour tout le monde !",
+    "ko": "안녕하세요 여러분!"
+  },
+  "topic": {
+    "en": "Introductions, countries, everyday objects",
+    "ja": "自己紹介、国、身の回りの物",
+    "fr": "Présentations, pays, objets du quotidien",
+    "ko": "자기소개, 나라, 일상 물건"
+  },
+  "core_title": {
+    "en": "Introductions and Everyday Life",
+    "ja": "自己紹介と日常生活",
+    "fr": "Présentations et Vie Quotidienne",
+    "ko": "자기소개와 일상 생활"
+  },
+  "core_reading_html": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "listening_tracks": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "extra_reading_title": {
+    "en": "Hello and Goodbye",
+    "ja": "こんにちはとさようなら",
+    "fr": "Bonjour et Au revoir",
+    "ko": "인사와 작별"
+  },
+  "extra_reading_html": {
+    "en": "<p>In English, we say 'Hello' to start a conversation and 'Goodbye' to end it. There are many ways to say hello. 'Hi' is more informal. 'Good morning' is for the morning. 'Good afternoon' is for the afternoon. 'Good evening' is for the evening. To say goodbye, we say 'Bye', 'Goodbye', or 'See you later'. We also ask 'How are you?' to start a conversation. You can answer 'I'm fine, thank you', 'Very well', or 'Not bad'. Then you can ask 'And you?' to be polite.</p>",
+    "ja": "<p>英語では、会話を始める時は「Hello」と言い、終える時は「Goodbye」と言います。「Hello」の言い方はたくさんあります。「Hi」はよりカジュアルです。「Good morning」は午前中の挨拶です。「Good afternoon」は午後の挨拶です。「Good evening」は夕方の挨拶です。別れ際には「Bye」「Goodbye」「See you later」と言います。また、会話を始める時は「How are you?」と尋ねます。「I'm fine, thank you」「Very well」「Not bad」などと答え、礼儀として「And you?」と尋ね返すことができます。</p>",
+    "fr": "<p>En anglais, on dit 'Hello' pour commencer une conversation et 'Goodbye' pour la terminer. Il existe de nombreuses façons de dire bonjour. 'Hi' est plus informel. 'Good morning' est pour le matin. 'Good afternoon' est pour l'après-midi. 'Good evening' est pour le soir. Pour dire au revoir, on dit 'Bye', 'Goodbye' ou 'See you later'. On demande aussi 'How are you?' pour commencer une conversation. Vous pouvez répondre 'I'm fine, thank you', 'Very well' ou 'Not bad'. Ensuite, vous pouvez demander 'And you?' pour être poli.</p>",
+    "ko": "<p>영어에서는 대화를 시작할 때 'Hello', 끝낼 때 'Goodbye'라고 말합니다. 인사하는 방법은 여러 가지가 있습니다. 'Hi'는 더 격식 없습니다. 'Good morning'은 아침 인사입니다. 'Good afternoon'은 오후 인사입니다. 'Good evening'은 저녁 인사입니다. 작별 인사를 할 때는 'Bye', 'Goodbye', 또는 'See you later'라고 말합니다. 또한 대화를 시작할 때 'How are you?'라고 묻습니다. 'I'm fine, thank you', 'Very well', 또는 'Not bad'라고 답할 수 있습니다. 그런 다음 예의를 갖추기 위해 'And you?'라고 다시 물을 수 있습니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Paula is from Chicago.",
+        "correct": "F",
+        "explanation": "False. Rosa is from Chicago. Paula asks Rosa where she is from."
+      },
+      {
+        "question": "We use 'an' before the word 'apple'.",
+        "correct": "T",
+        "explanation": "True. 'Apple' starts with a vowel sound, so we use 'an'."
+      },
+      {
+        "question": "Lena and Miguel are from Spain.",
+        "correct": "F",
+        "explanation": "False. They are from Brazil. Maria is from Spain."
+      },
+      {
+        "question": "We say 'Good afternoon' in the evening.",
+        "correct": "F",
+        "explanation": "False. We say 'Good afternoon' in the afternoon. We say 'Good evening' in the evening."
+      },
+      {
+        "question": "A dictionary is an everyday object.",
+        "correct": "T",
+        "explanation": "True. The vocabulary section includes dictionary as an everyday object."
+      }
+    ],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "speaking_chunks": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "grammar_html": {
+    "en": "<h3>1. Verb 'to be' (am/is/are)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use the verb 'to be' to talk about names, jobs, and where people are from.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• I am (I'm)</strong> from London.</li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• You/We/They are (You're/We're/They're)</strong> from Chicago.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• He/She/It is (He's/She's/It's)</strong> from Mexico.</li></ul><h3>2. Possessive Adjectives (my, your, his, her)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use possessive adjectives to show who owns something.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• my</strong> name / <strong style='color:#d35400;'>your</strong> name / <strong style='color:#d35400;'>his</strong> name / <strong style='color:#d35400;'>her</strong> name</li><li style='margin-bottom:15px;'>'What's <strong style='color:#d35400;'>her</strong> name?' '<strong style='color:#d35400;'>Her</strong> name is Tomoko.'</li><li style='margin-bottom:15px;'>'What's <strong style='color:#d35400;'>his</strong> name?' '<strong style='color:#d35400;'>His</strong> name is Richard.'</li></ul><h3>3. A vs An</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use '<strong>a</strong>' before a consonant sound. We use '<strong>an</strong>' before a vowel sound (a, e, i, o, u).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• a</strong> bag / <strong style='color:#16a085;'>a</strong> ticket / <strong style='color:#16a085;'>a</strong> dictionary</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• an</strong> apple / <strong style='color:#16a085;'>an</strong> orange / <strong style='color:#16a085;'>an</strong> English book</li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+    "content_check_question": {
+    "en": "The text explains how to introduce yourself and others, talk about countries, and name everyday objects in English. <b>How do you introduce yourself and ask someone's name? How do you say where you are from? What is the difference between 'a' and 'an'?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "introduce, name, from, countries, a/an, everyday objects",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "Explain how to introduce yourself, ask for someone's name, talk about where you are from, and use a/an...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "The listening and reading texts show different ways to greet people and talk about where they are from. <b>How do you say hello and goodbye in your country? How are these different from English greetings? Do you have different greetings for the morning, afternoon, and evening?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "In my country, we say... This is different from English because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "In this unit, you learned to introduce yourself, talk about countries, and name everyday objects. <b>Why is it important to learn how to greet people and introduce yourself when you learn a new language? How can learning these basic phrases help you when you travel to an English-speaking country?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Learning to greet and introduce yourself is important because... These phrases help when travelling because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}
+
+위에 올린 이미지는 새로운 유닛 이미지 파일들이야. 
+예시 유닛 json을 보고 영어만 채워져 있는 부분은 영어로만 우선 채우고 
+모든 언어로 채워져 있는 내용들은 영어를 기반으로 언어만 일본어/프랑스어/한국어로 변환한거야. 
+비어있는 부분은 나중에 채울거니까 비워놓고 임의로 채우지 말고 지금 위에서 설명한 설정에 맞게 진행해줘.
+생각을 마쳤으면 완성된 새로운 유닛 json 파일만 작성해서 보여줘.
+
+

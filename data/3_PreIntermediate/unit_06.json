@@ -1,0 +1,2360 @@
+{
+  "title": {
+    "en": "HOME",
+    "ja": "家",
+    "fr": "MAISON",
+    "ko": "집"
+  },
+  "topic": {
+    "en": "Leaving home, independence, house rules, flat-sharing",
+    "ja": "家を離れること、自立、家のルール、シェアハウス",
+    "fr": "Quitter la maison, indépendance, règles de la maison, colocation",
+    "ko": "집 떠나기, 독립, 집 규칙, 플랫 셰어링"
+  },
+  "core_title": {
+    "en": "The Reality of Leaving Home: New Beginnings and Hard Lessons",
+    "ja": "家を離れる現実：新たな始まりと厳しい教訓",
+    "fr": "La réalité de quitter la maison : Nouveaux départs et dures leçons",
+    "ko": "집을 떠나는 현실: 새로운 시작과 어려운 교훈"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>Leaving home is an exciting moment in any young person's life. Whether you are moving to a new country like Wales to do a Master's, or just moving into a small flat in your hometown, independence brings a great sense of freedom. You can come and go whenever you want and eat whatever you like. However, as many students soon realize, living away from your parents is often much harder than it first appears.</p><p>One of the most <strong><span class='vocab-link' id='text-depressing' onclick='speakAndScroll(\"depressing\", \"vocab-depressing\")'>depressing</span></strong> things you learn is that everything costs money. When you live at home, you might not notice how much is spent on electricity, water, or even a <strong><span class='vocab-link' id='text-pint' onclick='speakAndScroll(\"pint\", \"vocab-pint\")'>pint of milk</span></strong>. Many people move out with a healthy bank balance, but after buying some <strong><span class='vocab-link' id='text-furniture' onclick='speakAndScroll(\"furniture\", \"vocab-furniture\")'>furniture</span></strong> and new clothes, they suddenly find their cash machine card is <strong><span class='vocab-link' id='text-rejected' onclick='speakAndScroll(\"rejected\", \"vocab-rejected\")'>rejected</span></strong>. While banks are always happy to <strong><span class='vocab-link' id='text-lend' onclick='speakAndScroll(\"lend\", \"vocab-lend\")'>lend</span></strong> you money, it is essential to learn how to <strong><span class='vocab-link' id='text-budget' onclick='speakAndScroll(\"budget\", \"vocab-budget\")'>budget</span></strong> so you do not have to borrow. As the saying goes, \"money doesn't grow on trees.\"</p><p>Another challenge is the physical work of running a house. At home, life is easy because you don't always have to do the washing, iron your clothes, or fix things when they break. Once you are on your own, knowing how to use basic tools or setting a washing machine to the correct temperature makes a huge difference to your quality of life. You might not miss your parents at first, but you will definitely miss their cooking. If you don't start learning now, you will end up living on frozen meals and takeaway pizzas, which is bad for both your health and your pocket.</p><p>Sharing a space can also be <strong><span class='vocab-link' id='text-complicated' onclick='speakAndScroll(\"complicated\", \"vocab-complicated\")'>complicated</span></strong>. <strong><span class='vocab-link' id='text-flat-sharing' onclick='speakAndScroll(\"flat-sharing\", \"vocab-flat-sharing\")'>Flat-sharing</span></strong> might sound like a thoughtful way to live with friends, but it is often the easiest way to lose them. You will <strong><span class='vocab-link' id='text-argue' onclick='speakAndScroll(\"argue\", \"vocab-argue\")'>argue</span></strong> about whose turn it is to clean the toilet or who used the last of the bread. Whether you are staying with a <strong><span class='vocab-link' id='text-host_family' onclick='speakAndScroll(\"host_family\", \"vocab-host_family\")'>host family</span></strong> who has <strong><span class='vocab-link' id='text-strict' onclick='speakAndScroll(\"strict\", \"vocab-strict\")'>strict</span></strong> house rules—like no overnight guests or being vegetarian—or living in a noisy block with five other students, you must learn to be quiet and respectful.</p><p>Finally, you have to face the fact that living alone can be lonely. Even in an exciting city like Muscat or a lovely coastal town, you might feel <strong><span class='vocab-link' id='text-homesick' onclick='speakAndScroll(\"homesick\", \"vocab-homesick\")'>homesick</span></strong>. It is tiring to speak a <strong><span class='vocab-link' id='text-foreign' onclick='speakAndScroll(\"foreign\", \"vocab-foreign\")'>foreign</span></strong> language all day or <strong><span class='vocab-link' id='text-deal_with' onclick='speakAndScroll(\"deal_with\", \"vocab-deal_with\")'>deal with</span></strong> a different culture. You might try to fill your time with a busy social life, but sooner or later, you must learn to enjoy your own company. If you can <strong><span class='vocab-link' id='text-master' onclick='speakAndScroll(\"master\", \"vocab-master\")'>master</span></strong> these challenges, you might just become the best friend you'll ever have.</p>",
+    "ja": "<p style='margin-top:0;'>家を離れることは、どんな若者の人生においてもエキサイティングな瞬間です。修士号を取得するためにウェールズのような新しい国に引っ越す場合でも、故郷の小さなアパートに引っ越す場合でも、独立は大きな自由をもたらします。好きな時に出かけたり帰ってきたり、好きなものを食べたりできます。しかし、多くの学生がすぐに気づくように、親元を離れて暮らすことは、最初に思われていたよりもはるかに難しいことがよくあります。</p><p>あなたが学ぶ最も<strong><span class='vocab-link' id='text-depressing' onclick='speakAndScroll(\"depressing\", \"vocab-depressing\")'>憂鬱な</span></strong>ことの一つは、すべてにお金がかかるということです。実家に住んでいるときは、電気や水道、あるいは<strong><span class='vocab-link' id='text-pint' onclick='speakAndScroll(\"pint\", \"vocab-pint\")'>1パイントの牛乳</span></strong>にどれだけ費やしているかに気づかないかもしれません。多くの人は健全な銀行残高を持って引っ越しますが、<strong><span class='vocab-link' id='text-furniture' onclick='speakAndScroll(\"furniture\", \"vocab-furniture\")'>家具</span></strong>や新しい服をいくつか買った後、突然キャッシュカードが<strong><span class='vocab-link' id='text-rejected' onclick='speakAndScroll(\"rejected\", \"vocab-rejected\")'>拒否</span></strong>されることに気づきます。銀行は喜んでお金を<strong><span class='vocab-link' id='text-lend' onclick='speakAndScroll(\"lend\", \"vocab-lend\")'>貸して</span></strong>くれますが、借金をしなくて済むように<strong><span class='vocab-link' id='text-budget' onclick='speakAndScroll(\"budget\", \"vocab-budget\")'>予算を管理</span></strong>する方法を学ぶことが不可欠です。「お金は木に生えてくるものではない」ということわざがあります。</p><p>もう一つの課題は、家を維持する肉体的な作業です。実家では、洗濯をしたり、アイロンをかけたり、壊れたものを修理したりする必要が必ずしもないので、生活は楽です。一人暮らしを始めると、基本的な道具の使い方や洗濯機を適切な温度に設定する方法を知っていることが、生活の質に大きな違いをもたらします。最初は親を恋しく思わなくても、料理は絶対に恋しくなるでしょう。今から学び始めなければ、冷凍食品やテイクアウトのピザで生活することになり、それは健康にもお財布にも悪いことです。</p><p>スペースを共有することは、<strong><span class='vocab-link' id='text-complicated' onclick='speakAndScroll(\"complicated\", \"vocab-complicated\")'>複雑</span></strong>になることもあります。<strong><span class='vocab-link' id='text-flat-sharing' onclick='speakAndScroll(\"flat-sharing\", \"vocab-flat-sharing\")'>ルームシェア</span></strong>は友人と暮らす思いやりのある方法に聞こえるかもしれませんが、友人を失う最も簡単な方法であることがよくあります。トイレ掃除の順番や、誰が最後のパンを使ったかについて<strong><span class='vocab-link' id='text-argue' onclick='speakAndScroll(\"argue\", \"vocab-argue\")'>言い争う</span></strong>でしょう。<strong><span class='vocab-link' id='text-strict' onclick='speakAndScroll(\"strict\", \"vocab-strict\")'>厳しい</span></strong>家のルール（夜間の宿泊禁止やベジタリアンであることなど）を持つ<strong><span class='vocab-link' id='text-host_family' onclick='speakAndScroll(\"host_family\", \"vocab-host_family\")'>ホストファミリー</span></strong>と暮らすにしても、他の5人の学生と騒がしい建物に住むにしても、静かに<strong><span class='vocab-link' id='text-respectful' onclick='speakAndScroll(\"respectful\", \"vocab-respectful\")'>敬意を払う</span></strong>ことを学ばなければなりません。</p><p>最後に、一人暮らしは孤独になり得るという事実に向き合わなければなりません。マスカットのようなエキサイティングな都市や素敵な沿岸の町でも、<strong><span class='vocab-link' id='text-homesick' onclick='speakAndScroll(\"homesick\", \"vocab-homesick\")'>ホームシック</span></strong>を感じることがあります。一日中<strong><span class='vocab-link' id='text-foreign' onclick='speakAndScroll(\"foreign\", \"vocab-foreign\")'>外国語</span></strong>を話したり、異なる文化に<strong><span class='vocab-link' id='text-deal_with' onclick='speakAndScroll(\"deal_with\", \"vocab-deal_with\")'>対処</span></strong>したりすることは疲れます。忙しい社交生活で時間を埋めようとするかもしれませんが、遅かれ早かれ、自分自身の時間を楽しむことを学ばなければなりません。これらの課題を<strong><span class='vocab-link' id='text-master' onclick='speakAndScroll(\"master\", \"vocab-master\")'>克服</span></strong>できれば、あなたは自分自身の最高の友達になれるかもしれません。</p>",
+    "fr": "<p style='margin-top:0;'>Quitter la maison est un moment excitant dans la vie de tout jeune. Que vous déménagiez dans un nouveau pays comme le Pays de Galles pour faire un master, ou simplement dans un petit appartement dans votre ville natale, l'indépendance apporte un grand sentiment de liberté. Vous pouvez aller et venir quand vous voulez et manger ce que vous aimez. Cependant, comme beaucoup d'étudiants le réalisent rapidement, vivre loin de ses parents est souvent beaucoup plus difficile qu'il n'y paraît au premier abord.</p><p>L'une des choses les plus <strong><span class='vocab-link' id='text-depressing' onclick='speakAndScroll(\"depressing\", \"vocab-depressing\")'>déprimantes</span></strong> que vous apprenez est que tout coûte de l'argent. Lorsque vous vivez chez vos parents, vous ne remarquez peut-être pas combien est dépensé en électricité, en eau, ou même pour une <strong><span class='vocab-link' id='text-pint' onclick='speakAndScroll(\"pint\", \"vocab-pint\")'>pinte de lait</span></strong>. Beaucoup de gens partent avec un solde bancaire sain, mais après avoir acheté des <strong><span class='vocab-link' id='text-furniture' onclick='speakAndScroll(\"furniture\", \"vocab-furniture\")'>meubles</span></strong> et des vêtements neufs, ils découvrent soudainement que leur carte de distributeur est <strong><span class='vocab-link' id='text-rejected' onclick='speakAndScroll(\"rejected\", \"vocab-rejected\")'>rejetée</span></strong>. Bien que les banques soient toujours heureuses de vous <strong><span class='vocab-link' id='text-lend' onclick='speakAndScroll(\"lend\", \"vocab-lend\")'>prêter</span></strong> de l'argent, il est essentiel d'apprendre à <strong><span class='vocab-link' id='text-budget' onclick='speakAndScroll(\"budget\", \"vocab-budget\")'>gérer un budget</span></strong> pour ne pas avoir à emprunter. Comme dit le dicton, « l'argent ne pousse pas sur les arbres ».</p><p>Un autre défi est le travail physique nécessaire pour gérer une maison. À la maison, la vie est facile parce que vous n'avez pas toujours à faire la lessive, repasser vos vêtements ou réparer les choses quand elles se cassent. Une fois que vous êtes seul, savoir utiliser des outils de base ou régler une machine à laver à la bonne température fait une énorme différence dans votre qualité de vie. Vous ne manquerez peut-être pas vos parents au début, mais vous manquerez certainement leur cuisine. Si vous ne commencez pas à apprendre maintenant, vous finirez par vivre de plats surgelés et de pizzas à emporter, ce qui est mauvais à la fois pour votre santé et pour votre portefeuille.</p><p>Partager un espace peut aussi être <strong><span class='vocab-link' id='text-complicated' onclick='speakAndScroll(\"complicated\", \"vocab-complicated\")'>compliqué</span></strong>. La <strong><span class='vocab-link' id='text-flat-sharing' onclick='speakAndScroll(\"flat-sharing\", \"vocab-flat-sharing\")'>colocation</span></strong> peut sembler une façon attentionnée de vivre avec des amis, mais c'est souvent la façon la plus rapide de les perdre. Vous <strong><span class='vocab-link' id='text-argue' onclick='speakAndScroll(\"argue\", \"vocab-argue\")'>vous disputerez</span></strong> pour savoir à qui c'est le tour de nettoyer les toilettes ou qui a utilisé le dernier morceau de pain. Que vous viviez avec une <strong><span class='vocab-link' id='text-host_family' onclick='speakAndScroll(\"host_family\", \"vocab-host_family\")'>famille d'accueil</span></strong> qui a des règles de maison <strong><span class='vocab-link' id='text-strict' onclick='speakAndScroll(\"strict\", \"vocab-strict\")'>strictes</span></strong> — comme pas d'invités de nuit ou être végétarien — ou dans un immeuble bruyant avec cinq autres étudiants, vous devez apprendre à être calme et <strong><span class='vocab-link' id='text-respectful' onclick='speakAndScroll(\"respectful\", \"vocab-respectful\")'>respectueux</span></strong>.</p><p>Enfin, vous devez faire face au fait que vivre seul peut être solitaire. Même dans une ville excitante comme Mascate ou une jolie ville côtière, vous pourriez vous sentir <strong><span class='vocab-link' id='text-homesick' onclick='speakAndScroll(\"homesick\", \"vocab-homesick\")'>nostalgique</span></strong>. Il est fatigant de parler une langue <strong><span class='vocab-link' id='text-foreign' onclick='speakAndScroll(\"foreign\", \"vocab-foreign\")'>étrangère</span></strong> toute la journée ou de <strong><span class='vocab-link' id='text-deal_with' onclick='speakAndScroll(\"deal_with\", \"vocab-deal_with\")'>faire face à</span></strong> une culture différente. Vous pourriez essayer de remplir votre temps avec une vie sociale bien remplie, mais tôt ou tard, vous devez apprendre à apprécier votre propre compagnie. Si vous pouvez <strong><span class='vocab-link' id='text-master' onclick='speakAndScroll(\"master\", \"vocab-master\")'>maîtriser</span></strong> ces défis, vous pourriez bien devenir le meilleur ami que vous n'ayez jamais eu.</p>",
+    "ko": "<p style='margin-top:0;'>집을 떠나는 것은 어떤 젊은이의 인생에서도 흥미진진한 순간입니다. 웨일즈 같은 새로운 나라로 석사 과정을 하러 이사를 가든, 아니면 고향의 작은 아파트로 이사를 가든, 독립은 큰 자유로움을 가져다줍니다. 원할 때 언제든지 나가고 들어오고, 원하는 것은 무엇이든 먹을 수 있습니다. 그러나 많은 학생들이 곧 깨닫듯이, 부모님 곁을 떠나 사는 것은 처음 보이는 것보다 훨씬 더 어렵습니다.</p><p>당신이 배우는 가장 <strong><span class='vocab-link' id='text-depressing' onclick='speakAndScroll(\"depressing\", \"vocab-depressing\")'>우울한</span></strong> 것 중 하나는 모든 것에 돈이 든다는 사실입니다. 집에 살 때는 전기, 수도, 또는 <strong><span class='vocab-link' id='text-pint' onclick='speakAndScroll(\"pint\", \"vocab-pint\")'>우유 1파인트</span></strong>에 얼마나 돈을 쓰는지 인식하지 못할 수 있습니다. 많은 사람들이 건강한 은행 잔고를 가지고 이사하지만, <strong><span class='vocab-link' id='text-furniture' onclick='speakAndScroll(\"furniture\", \"vocab-furniture\")'>가구</span></strong>와 새 옷을 몇 개 산 후, 갑자기 현금카드가 <strong><span class='vocab-link' id='text-rejected' onclick='speakAndScroll(\"rejected\", \"vocab-rejected\")'>거부</span></strong>된다는 사실을 알게 됩니다. 은행은 기꺼이 돈을 <strong><span class='vocab-link' id='text-lend' onclick='speakAndScroll(\"lend\", \"vocab-lend\")'>빌려주</span></strong>지만, 빌리지 않아도 되도록 <strong><span class='vocab-link' id='text-budget' onclick='speakAndScroll(\"budget\", \"vocab-budget\")'>예산을 관리</span></strong>하는 방법을 배우는 것이 필수적입니다. \"돈은 나무에서 나지 않는다\"는 속담이 있듯이 말입니다.</p><p>또 다른 도전은 집을 유지하는 육체적인 일입니다. 집에 있을 때는 빨래를 하거나, 옷을 다리거나, 물건이 고장 났을 때 수리할 필요가 항상 없기 때문에 삶이 쉽습니다. 혼자가 되면, 기본 도구 사용법이나 세탁기를 적절한 온도에 맞추는 방법을 아는 것이 삶의 질에 큰 차이를 만듭니다. 처음에는 부모님이 그리워지지 않을 수 있지만, 부모님의 요리는 분명 그리워질 것입니다. 지금 배우기 시작하지 않으면, 냉동 식품과 테이크아웃 피자로 살아가게 될 것이고, 그것은 건강과 <strong><span class='vocab-link' id='text-pint' onclick='speakAndScroll(\"pint\", \"vocab-pint\")'>주머니</span></strong> 모두에 나쁩니다.</p><p>공간을 공유하는 것은 또한 <strong><span class='vocab-link' id='text-complicated' onclick='speakAndScroll(\"complicated\", \"vocab-complicated\")'>복잡</span></strong>해질 수 있습니다. <strong><span class='vocab-link' id='text-flat-sharing' onclick='speakAndScroll(\"flat-sharing\", \"vocab-flat-sharing\")'>룸메이트와 함께 사는 것</span></strong>은 친구들과 사는 사려 깊은 방법처럼 들릴 수 있지만, 친구를 잃는 가장 쉬운 방법인 경우가 많습니다. 누가 변기 청소를 할 차례인지, 누가 빵을 마지막으로 먹었는지에 대해 <strong><span class='vocab-link' id='text-argue' onclick='speakAndScroll(\"argue\", \"vocab-argue\")'>말다툼</span></strong>을 하게 될 것입니다. <strong><span class='vocab-link' id='text-strict' onclick='speakAndScroll(\"strict\", \"vocab-strict\")'>엄격한</span></strong> 집 규칙(예: 밤새 손님 금지, 채식주의)을 가진 <strong><span class='vocab-link' id='text-host_family' onclick='speakAndScroll(\"host_family\", \"vocab-host_family\")'>홈스테이 가정</span></strong>에 머물든, 다른 다섯 명의 학생과 시끄러운 건물에 살든, 조용하고 <strong><span class='vocab-link' id='text-respectful' onclick='speakAndScroll(\"respectful\", \"vocab-respectful\")'>예의 바르게</span></strong> 행동하는 법을 배워야 합니다.</p><p>마지막으로, 혼자 사는 것이 외로울 수 있다는 사실을 직시해야 합니다. 무스카트와 같은 흥미진진한 도시나 아름다운 해안 마을에서도 <strong><span class='vocab-link' id='text-homesick' onclick='speakAndScroll(\"homesick\", \"vocab-homesick\")'>향수병</span></strong>을 느낄 수 있습니다. 하루 종일 <strong><span class='vocab-link' id='text-foreign' onclick='speakAndScroll(\"foreign\", \"vocab-foreign\")'>외국어</span></strong>를 말하거나 다른 문화를 <strong><span class='vocab-link' id='text-deal_with' onclick='speakAndScroll(\"deal_with\", \"vocab-deal_with\")'>대처</span></strong>하는 것은 피곤한 일입니다. 바쁜 사회생활로 시간을 채우려고 할 수도 있지만, 조만간 자신만의 시간을 즐기는 법을 배워야 합니다. 이러한 도전들을 <strong><span class='vocab-link' id='text-master' onclick='speakAndScroll(\"master\", \"vocab-master\")'>극복</span></strong>할 수 있다면, 당신은 자신의 가장 친한 친구가 될 수 있을 것입니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "depressing",
+        "word": "Depressing",
+        "definition": "Making you feel very sad, upset, or unhappy."
+      },
+      {
+        "id": "pint",
+        "word": "Pint",
+        "definition": "A unit for measuring liquid, especially milk or beer. One pint is about 568 ml in the UK."
+      },
+      {
+        "id": "furniture",
+        "word": "Furniture",
+        "definition": "Large objects like tables, chairs, and beds that you put in a room."
+      },
+      {
+        "id": "rejected",
+        "word": "Rejected",
+        "definition": "Not accepted; refused."
+      },
+      {
+        "id": "lend",
+        "word": "Lend",
+        "definition": "To give someone something, especially money, for a period of time, expecting it to be returned."
+      },
+      {
+        "id": "budget",
+        "word": "Budget",
+        "definition": "A plan of how you will spend the money you have."
+      },
+      {
+        "id": "complicated",
+        "word": "Complicated",
+        "definition": "Difficult to understand or deal with because many parts are involved."
+      },
+      {
+        "id": "flat-sharing",
+        "word": "Flat-sharing",
+        "definition": "Living in an apartment with other people."
+      },
+      {
+        "id": "argue",
+        "word": "Argue",
+        "definition": "To speak angrily to someone because you disagree with them."
+      },
+      {
+        "id": "host_family",
+        "word": "Host family",
+        "definition": "A family that provides a home and meals for a foreign student or visitor."
+      },
+      {
+        "id": "strict",
+        "word": "Strict",
+        "definition": "Demanding that rules are followed exactly."
+      },
+      {
+        "id": "respectful",
+        "word": "Respectful",
+        "definition": "Showing politeness or honor to someone or something."
+      },
+      {
+        "id": "homesick",
+        "word": "Homesick",
+        "definition": "Feeling sad because you are away from your home and family."
+      },
+      {
+        "id": "foreign",
+        "word": "Foreign",
+        "definition": "Belonging or connected to a country that is not your own."
+      },
+      {
+        "id": "deal_with",
+        "word": "Deal with",
+        "definition": "To take action to solve a problem or handle a situation."
+      },
+      {
+        "id": "master",
+        "word": "Master",
+        "definition": "To learn something completely so that you understand it or can do it very well."
+      }
+    ],
+    "ja": [
+      {
+        "id": "depressing",
+        "word": "憂鬱な",
+        "definition": "非常に悲しく、辛く、不幸な気持ちにさせる。"
+      },
+      {
+        "id": "pint",
+        "word": "パイント",
+        "definition": "特に牛乳やビールなどの液体を測る単位。1パイントは約568ml。"
+      },
+      {
+        "id": "furniture",
+        "word": "家具",
+        "definition": "テーブル、椅子、ベッドなど、部屋に置く大きな物。"
+      },
+      {
+        "id": "rejected",
+        "word": "拒否された",
+        "definition": "受け入れられないこと。拒絶されること。"
+      },
+      {
+        "id": "lend",
+        "word": "貸す",
+        "definition": "特に返却を期待して、誰かに一時的にお金や物を渡すこと。"
+      },
+      {
+        "id": "budget",
+        "word": "予算",
+        "definition": "持っているお金をどのように使うかの計画。"
+      },
+      {
+        "id": "complicated",
+        "word": "複雑な",
+        "definition": "多くの部分が関わっているため、理解したり対処したりするのが難しい。"
+      },
+      {
+        "id": "flat-sharing",
+        "word": "ルームシェア",
+        "definition": "他の人と一緒にアパートに住むこと。"
+      },
+      {
+        "id": "argue",
+        "word": "言い争う",
+        "definition": "意見の相違から誰かと怒った口調で話すこと。"
+      },
+      {
+        "id": "host_family",
+        "word": "ホストファミリー",
+        "definition": "外国人留学生や訪問者に住まいと食事を提供する家族。"
+      },
+      {
+        "id": "strict",
+        "word": "厳しい",
+        "definition": "ルールが厳密に守られることを要求する。"
+      },
+      {
+        "id": "respectful",
+        "word": "敬意を払う",
+        "definition": "誰かや何かに対して礼儀正しく、敬意を示すこと。"
+      },
+      {
+        "id": "homesick",
+        "word": "ホームシック",
+        "definition": "家や家族から離れていることで悲しい気持ちになること。"
+      },
+      {
+        "id": "foreign",
+        "word": "外国の",
+        "definition": "自分の国とは異なる国に属する、または関連する。"
+      },
+      {
+        "id": "deal_with",
+        "word": "対処する",
+        "definition": "問題を解決したり状況を処理するために行動を起こすこと。"
+      },
+      {
+        "id": "master",
+        "word": "克服する",
+        "definition": "何かを完全に学び、理解したり上手にできるようになること。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "depressing",
+        "word": "Déprimant",
+        "definition": "Qui vous rend très triste, contrarié ou malheureux."
+      },
+      {
+        "id": "pint",
+        "word": "Pinte",
+        "definition": "Une unité de mesure pour les liquides, surtout le lait ou la bière. Une pinte équivaut à environ 568 ml au Royaume-Uni."
+      },
+      {
+        "id": "furniture",
+        "word": "Meubles",
+        "definition": "Grands objets comme les tables, les chaises et les lits que l'on met dans une pièce."
+      },
+      {
+        "id": "rejected",
+        "word": "Rejeté",
+        "definition": "Non accepté ; refusé."
+      },
+      {
+        "id": "lend",
+        "word": "Prêter",
+        "definition": "Donner quelque chose à quelqu'un, en particulier de l'argent, pour une période donnée, en s'attendant à ce qu'il soit retourné."
+      },
+      {
+        "id": "budget",
+        "word": "Budget",
+        "definition": "Un plan de la façon dont vous allez dépenser l'argent que vous avez."
+      },
+      {
+        "id": "complicated",
+        "word": "Compliqué",
+        "definition": "Difficile à comprendre ou à gérer car de nombreuses parties sont impliquées."
+      },
+      {
+        "id": "flat-sharing",
+        "word": "Colocation",
+        "definition": "Vivre dans un appartement avec d'autres personnes."
+      },
+      {
+        "id": "argue",
+        "word": "Se disputer",
+        "definition": "Parler avec colère à quelqu'un parce que vous n'êtes pas d'accord avec lui."
+      },
+      {
+        "id": "host_family",
+        "word": "Famille d'accueil",
+        "definition": "Une famille qui fournit un logement et des repas à un étudiant ou visiteur étranger."
+      },
+      {
+        "id": "strict",
+        "word": "Strict",
+        "definition": "Qui exige que les règles soient suivies à la lettre."
+      },
+      {
+        "id": "respectful",
+        "word": "Respectueux",
+        "definition": "Qui fait preuve de politesse ou de respect envers quelqu'un ou quelque chose."
+      },
+      {
+        "id": "homesick",
+        "word": "Nostalgique",
+        "definition": "Se sentir triste parce qu'on est loin de chez soi et de sa famille."
+      },
+      {
+        "id": "foreign",
+        "word": "Étranger",
+        "definition": "Qui appartient ou est lié à un pays qui n'est pas le vôtre."
+      },
+      {
+        "id": "deal_with",
+        "word": "Faire face à",
+        "definition": "Prendre des mesures pour résoudre un problème ou gérer une situation."
+      },
+      {
+        "id": "master",
+        "word": "Maîtriser",
+        "definition": "Apprendre complètement quelque chose pour le comprendre ou pouvoir le faire très bien."
+      }
+    ],
+    "ko": [
+      {
+        "id": "depressing",
+        "word": "우울한",
+        "definition": "매우 슬프고, 속상하고, 불행하게 만드는."
+      },
+      {
+        "id": "pint",
+        "word": "파인트",
+        "definition": "특히 우유나 맥주 같은 액체를 측정하는 단위. 1파인트는 약 568ml입니다."
+      },
+      {
+        "id": "furniture",
+        "word": "가구",
+        "definition": "방에 두는 테이블, 의자, 침대 같은 큰 물건들."
+      },
+      {
+        "id": "rejected",
+        "word": "거부된",
+        "definition": "받아들여지지 않은; 거절당한."
+      },
+      {
+        "id": "lend",
+        "word": "빌려주다",
+        "definition": "특히 돈을, 돌려받을 것을 기대하고 누군가에게 일정 기간 동안 주는 것."
+      },
+      {
+        "id": "budget",
+        "word": "예산",
+        "definition": "가지고 있는 돈을 어떻게 쓸지에 대한 계획."
+      },
+      {
+        "id": "complicated",
+        "word": "복잡한",
+        "definition": "많은 부분이 얽혀 있어 이해하거나 다루기 어려운."
+      },
+      {
+        "id": "flat-sharing",
+        "word": "룸메이트와 함께 살기",
+        "definition": "다른 사람들과 아파트에서 함께 사는 것."
+      },
+      {
+        "id": "argue",
+        "word": "말다툼하다",
+        "definition": "의견이 달라서 누군가와 화가 나서 말하는 것."
+      },
+      {
+        "id": "host_family",
+        "word": "홈스테이 가정",
+        "definition": "외국인 학생이나 방문객에게 집과 식사를 제공하는 가족."
+      },
+      {
+        "id": "strict",
+        "word": "엄격한",
+        "definition": "규칙이 정확히 지켜질 것을 요구하는."
+      },
+      {
+        "id": "respectful",
+        "word": "예의 바른",
+        "definition": "누군가 또는 무언가에게 공손함이나 존경심을 보이는."
+      },
+      {
+        "id": "homesick",
+        "word": "향수병에 걸린",
+        "definition": "집과 가족에게서 떨어져 있어 슬픈 감정을 느끼는."
+      },
+      {
+        "id": "foreign",
+        "word": "외국의",
+        "definition": "자신의 나라가 아닌 다른 나라에 속하거나 관련된."
+      },
+      {
+        "id": "deal_with",
+        "word": "대처하다",
+        "definition": "문제를 해결하거나 상황을 처리하기 위해 행동을 취하는 것."
+      },
+      {
+        "id": "master",
+        "word": "극복하다",
+        "definition": "무엇인가를 완전히 배워서 잘 이해하거나 매우 잘할 수 있게 되는 것."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Welcoming a New Guest",
+        "label": "Conversation: House Rules with a Host Family",
+        "script": [
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "Hello there. Come in, come in."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Hello. I am Maksim."
+          },
+          {
+            "speaker": "Host Mother (Isabel)",
+            "text": "Hi. I'm Isabel and this is Oliver. How was your journey?"
+          },
+          {
+            "speaker": "Maksim",
+            "text": "OK, but very long."
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "I can imagine. Anyway, you're here now. Do you want me to take your coat?"
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Oh, yes. Thank you."
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "And you can just leave your bag and things over there for now."
+          },
+          {
+            "speaker": "Host Mother (Isabel)",
+            "text": "Would you like a cup of tea or something to eat, Maksim?"
+          },
+          {
+            "speaker": "Maksim",
+            "text": "No, thank you. I'm fine. Maybe just some water."
+          },
+          {
+            "speaker": "Host Mother (Isabel)",
+            "text": "Yes, of course. I'll just go and get some for you."
+          },
+          {
+            "speaker": "Host Mother (Isabel)",
+            "text": "There you are."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Thank you. Oh, I almost forgot. I brought you this. It's traditional. It's from my country."
+          },
+          {
+            "speaker": "Host Mother (Isabel)",
+            "text": "Oh thank you. That's very thoughtful of you. It's... um... very... interesting. I'll go and put it... somewhere."
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "I'll show you around the house in a minute, Maksim, but first I'll just tell you a bit about the house rules."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "OK."
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "We'll give you your own key, so you can come and go when you want. If you come home late, though, please try to be quiet. And make sure you lock the front door."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "From inside?"
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "Yes. Here, look. Like this."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Ah, I see."
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "OK. And no overnight guests are allowed in the house."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Guests?"
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "Yes. Um... no-one can sleep in your room apart from you, so no friends or..."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Oh, OK. Yes. Don't worry. No problem. No problem."
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "And breakfast is served between seven and eight. You know we're vegetarian, don't you?"
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Veg...?"
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "Vegetarian. We don't eat any meat."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "No meat?"
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "No. Didn't they tell you? Oh well. Anyway, that's more or less everything, I think. I'll show you to your room. I'm sure you're very tired."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Yes. And I have to get up early tomorrow. Do you have a watch I can borrow?"
+          },
+          {
+            "speaker": "Host Father (Oliver)",
+            "text": "An alarm clock, you mean? Yes, I'm sure we can lend you one."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Thank you."
+          },
+          {
+            "speaker": "Host Mother (Isabel)",
+            "text": "And then tomorrow morning, we'll show you how to get to your school."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "OK. One question. Do you mind if I smoke in my room?"
+          },
+          {
+            "speaker": "Host Mother (Isabel)",
+            "text": "Smoke? Well, actually, I'd rather you didn't, if you don't mind. I'm sorry."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Studying Abroad in Wales",
+        "label": "Listening: A Student's Experience",
+        "script": [
+          {
+            "speaker": "Student",
+            "text": "I'm from Harbin, in the north-east of China, but I moved to Wales last year to do a Master's."
+          },
+          {
+            "speaker": "Student",
+            "text": "It's the first time I've lived away from home, it hasn't been easy."
+          },
+          {
+            "speaker": "Student",
+            "text": "The culture is different and I have to speak English all the time as well, which is tiring."
+          },
+          {
+            "speaker": "Student",
+            "text": "The place I'm living in is nice, though."
+          },
+          {
+            "speaker": "Student",
+            "text": "I have my own room with a basin to wash in, but I have to share the bathroom and kitchen with five other students."
+          },
+          {
+            "speaker": "Student",
+            "text": "The best thing for me now is the freedom."
+          },
+          {
+            "speaker": "Student",
+            "text": "I can do whatever I want - whenever I want."
+          },
+          {
+            "speaker": "Student",
+            "text": "I can come home late if I want to and I don't have to answer questions about where I've been."
+          },
+          {
+            "speaker": "Student",
+            "text": "The hardest things are learning how to live on my own - I have to do everything for myself now - and living in a block with so many other students."
+          },
+          {
+            "speaker": "Student",
+            "text": "It can be very noisy sometimes!"
+          }
+        ]
+      },
+      {
+        "title": "2-1. Talking About Your Hometown - Italy",
+        "label": "Conversation 1: Treviso, Italy",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Where are you from?"
+          },
+          {
+            "speaker": "B",
+            "text": "Italy."
+          },
+          {
+            "speaker": "A",
+            "text": "What part?"
+          },
+          {
+            "speaker": "B",
+            "text": "Treviso."
+          },
+          {
+            "speaker": "A",
+            "text": "Where's that?"
+          },
+          {
+            "speaker": "B",
+            "text": "It's a small city in the north-east. It's about 40 kilometres from Venice. So say that's Venice, Treviso is just here to the north."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh OK. So what's it like?"
+          },
+          {
+            "speaker": "B",
+            "text": "It's great. The centre is very old with some beautiful old buildings, but the city's also quite modern. You know Benetton? The clothes?"
+          },
+          {
+            "speaker": "A",
+            "text": "Yes."
+          },
+          {
+            "speaker": "B",
+            "text": "Well, Benetton's based in Treviso."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh wow! OK. So where do you live? In the centre?"
+          },
+          {
+            "speaker": "B",
+            "text": "Not exactly, but everything is quite near. It's small. It's easy to get round. I live near the river. You can walk along there - and there's a park. It's nice."
+          }
+        ]
+      },
+      {
+        "title": "2-2. Talking About Your Hometown - Oman",
+        "label": "Conversation 2: Muscat, Oman",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "Where are you from?"
+          },
+          {
+            "speaker": "D",
+            "text": "Oman."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, OK. Oman. I'm sorry, but where is that exactly? My geography isn't very good."
+          },
+          {
+            "speaker": "D",
+            "text": "It's in the Middle East - on the Indian Ocean. So you've got Saudi Arabia here and the UAE up here and Oman goes down here to the right."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, OK. And where do you live?"
+          },
+          {
+            "speaker": "D",
+            "text": "The capital, Muscat, it's in the north of the country."
+          },
+          {
+            "speaker": "C",
+            "text": "What's it like? Is it a big city?"
+          },
+          {
+            "speaker": "D",
+            "text": "Quite big - it's about a million and it spreads along the coast quite far."
+          },
+          {
+            "speaker": "C",
+            "text": "It sounds nice."
+          },
+          {
+            "speaker": "D",
+            "text": "It is. It's beautiful because you have the sea and the mountains behind. And it's a very exciting place because lots of people from different countries live there and, you know, there's lots to do there."
+          }
+        ]
+      },
+      {
+        "title": "2-3. Talking About Your Hometown - Texas",
+        "label": "Conversation 3: Harlingen, Texas",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "So where are you from Chuck?"
+          },
+          {
+            "speaker": "F",
+            "text": "Texas."
+          },
+          {
+            "speaker": "E",
+            "text": "Where abouts?"
+          },
+          {
+            "speaker": "F",
+            "text": "I doubt you'll know it. It's a little town called Harlingen. It's right in the south - by the Mexican border."
+          },
+          {
+            "speaker": "E",
+            "text": "Yeah, I know it. In fact, I've been there! I have a friend who lives in Port Isabel."
+          },
+          {
+            "speaker": "F",
+            "text": "Port Isabel! Wow, that's real close. So did you like it?"
+          },
+          {
+            "speaker": "E",
+            "text": "Yeah, it was lovely. I mean, it's a bit quiet, but for a holiday it was great."
+          },
+          {
+            "speaker": "F",
+            "text": "When were you there? What time of year?"
+          },
+          {
+            "speaker": "E",
+            "text": "February, but the climate's lovely. It's so warm. We went to the beach quite a lot."
+          },
+          {
+            "speaker": "F",
+            "text": "Sure."
+          },
+          {
+            "speaker": "E",
+            "text": "And we took a boat along the coast a couple of times and went fishing."
+          },
+          {
+            "speaker": "F",
+            "text": "Did you catch anything?"
+          },
+          {
+            "speaker": "E",
+            "text": "Not much, but it was just nice to be on the sea."
+          },
+          {
+            "speaker": "F",
+            "text": "So what's your friend called?"
+          },
+          {
+            "speaker": "E",
+            "text": "Harry Dancey."
+          },
+          {
+            "speaker": "F",
+            "text": "You're kidding me! Skip Dancey? I went to high school with him!"
+          },
+          {
+            "speaker": "E",
+            "text": "No! Really? What a small world!"
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. 新しいゲストを歓迎する",
+        "label": "会話: ホストファミリーとの家のルール",
+        "script": [
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "こんにちは。さあ、お入りください。"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "こんにちは。私はマクシムです。"
+          },
+          {
+            "speaker": "ホストマザー (イザベル)",
+            "text": "こんにちは。私はイザベル、こちらはオリバーです。旅はどうでしたか？"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "まあまあですが、とても長かったです。"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "想像できますよ。とにかく、もうここにいるんですから。コートをお預かりしましょうか？"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "ああ、はい。ありがとうございます。"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "バッグなどはとりあえずあそこに置いておいてください。"
+          },
+          {
+            "speaker": "ホストマザー (イザベル)",
+            "text": "紅茶か何か食べるものはいかがですか、マクシム？"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "いいえ、結構です。大丈夫です。水を少しいただけると。"
+          },
+          {
+            "speaker": "ホストマザー (イザベル)",
+            "text": "ええ、もちろん。すぐに持ってきますね。"
+          },
+          {
+            "speaker": "ホストマザー (イザベル)",
+            "text": "どうぞ。"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "ありがとうございます。ああ、忘れるところでした。これをお持ちしました。伝統的なものです。私の国からです。"
+          },
+          {
+            "speaker": "ホストマザー (イザベル)",
+            "text": "あら、ありがとう。とても心遣いが嬉しいわ。それは...ええと...とても...興味深いわね。どこかに...置いてくるわ。"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "すぐに家の中を案内しますが、まず家のルールについて少しお話しします。"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "はい。"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "あなた自身の鍵をお渡ししますので、好きな時に来たり行ったりできます。ただし、夜遅くに帰ってくる場合は、静かにするように心がけてください。そして、必ず玄関に鍵をかけてください。"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "内側からですか？"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "はい。ほら、見てください。このように。"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "ああ、なるほど。"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "はい。そして、一晩のゲストは家の中では許可されていません。"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "ゲスト？"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "はい。ええと...あなた以外の誰もあなたの部屋で寝ることはできません。だから友達も..."
+          },
+          {
+            "speaker": "マクシム",
+            "text": "ああ、はい。心配しないでください。問題ありません。問題ありません。"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "朝食は7時から8時の間です。私たちがベジタリアンであることは知っていますよね？"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "ベジ...？"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "ベジタリアンです。肉は一切食べません。"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "肉なし？"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "はい。伝えられていませんでしたか？まあいいでしょう。とにかく、だいたいそんなところだと思います。お部屋に案内します。きっととてもお疲れでしょう。"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "はい。そして明日は早起きしなければなりません。借りられる時計はありますか？"
+          },
+          {
+            "speaker": "ホストファザー (オリバー)",
+            "text": "目覚まし時計のことですか？はい、きっとお貸しできます。"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "ありがとうございます。"
+          },
+          {
+            "speaker": "ホストマザー (イザベル)",
+            "text": "そして明日の朝、学校への行き方をお見せします。"
+          },
+          {
+            "speaker": "マクシム",
+            "text": "はい。一つ質問です。部屋でタバコを吸っても構いませんか？"
+          },
+          {
+            "speaker": "ホストマザー (イザベル)",
+            "text": "タバコ？ええと、実際のところ、よろしければ遠慮していただきたいのですが。ごめんなさい。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. ウェールズでの留学",
+        "label": "リスニング: ある学生の経験",
+        "script": [
+          {
+            "speaker": "学生",
+            "text": "私は中国北東部のハルビン出身ですが、修士課程を取るために昨年ウェールズに引っ越しました。"
+          },
+          {
+            "speaker": "学生",
+            "text": "家を離れて暮らすのは初めてで、楽ではありませんでした。"
+          },
+          {
+            "speaker": "学生",
+            "text": "文化が違い、常に英語を話さなければならないのも疲れます。"
+          },
+          {
+            "speaker": "学生",
+            "text": "でも、住んでいる場所は素敵です。"
+          },
+          {
+            "speaker": "学生",
+            "text": "洗面台のある自分の部屋がありますが、バスルームとキッチンは他の5人の学生と共有しなければなりません。"
+          },
+          {
+            "speaker": "学生",
+            "text": "今の私にとって一番良いことは自由です。"
+          },
+          {
+            "speaker": "学生",
+            "text": "好きな時に好きなことができます。"
+          },
+          {
+            "speaker": "学生",
+            "text": "遅く帰りたいときは帰れるし、どこに行っていたのか質問に答える必要もありません。"
+          },
+          {
+            "speaker": "学生",
+            "text": "一番難しいことは、自分一人で生きていく方法を学ぶことと、たくさんの他の学生と一緒の建物に住むことです。"
+          },
+          {
+            "speaker": "学生",
+            "text": "時々とても騒がしいことがあります！"
+          }
+        ]
+      },
+      {
+        "title": "2-1. 故郷について話す - イタリア",
+        "label": "会話 1: トレヴィーゾ",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "どこの出身ですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "イタリアです。"
+          },
+          {
+            "speaker": "A",
+            "text": "どの辺りですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "トレヴィーゾです。"
+          },
+          {
+            "speaker": "A",
+            "text": "それはどこにありますか？"
+          },
+          {
+            "speaker": "B",
+            "text": "北東部の小さな都市です。ベネチアから約40キロです。ここがベネチアだとすると、トレヴィーゾはちょうど北側のここです。"
+          },
+          {
+            "speaker": "A",
+            "text": "ああ、なるほど。どんなところですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "素晴らしいです。中心部はとても古く、美しい古い建物がありますが、街もかなり近代的です。ベネトンって知っていますか？服の？"
+          },
+          {
+            "speaker": "A",
+            "text": "はい。"
+          },
+          {
+            "speaker": "B",
+            "text": "実は、ベネトンはトレヴィーゾに本社があります。"
+          },
+          {
+            "speaker": "A",
+            "text": "おお、すごい！どこに住んでいるのですか？中心部ですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "正確には違いますが、すべてがかなり近いです。小さな街で、移動が簡単です。川の近くに住んでいます。そこに沿って歩けます。それに公園もあります。素敵です。"
+          }
+        ]
+      },
+      {
+        "title": "2-2. 故郷について話す - オマーン",
+        "label": "会話 2: マスカット",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "どこの出身ですか？"
+          },
+          {
+            "speaker": "D",
+            "text": "オマーンです。"
+          },
+          {
+            "speaker": "C",
+            "text": "ああ、オマーン。すみません、正確にはどこにあるのですか？地理はあまり得意ではないんです。"
+          },
+          {
+            "speaker": "D",
+            "text": "中東、インド洋に面しています。ここにサウジアラビア、ここにUAEがあって、オマーンは右側のここに下がっています。"
+          },
+          {
+            "speaker": "C",
+            "text": "ああ、なるほど。どこに住んでいるのですか？"
+          },
+          {
+            "speaker": "D",
+            "text": "首都のマスカットで、国の北部にあります。"
+          },
+          {
+            "speaker": "C",
+            "text": "どんなところですか？大きな都市ですか？"
+          },
+          {
+            "speaker": "D",
+            "text": "かなり大きいです。約100万人で、海岸に沿ってかなり遠くまで広がっています。"
+          },
+          {
+            "speaker": "C",
+            "text": "素敵そうですね。"
+          },
+          {
+            "speaker": "D",
+            "text": "はい。美しいです。海と背後に山があるからです。そして、多くの異なる国の人々が住んでいて、やることもたくさんあるので、とてもエキサイティングな場所です。"
+          }
+        ]
+      },
+      {
+        "title": "2-3. 故郷について話す - テキサス",
+        "label": "会話 3: ハーリンジェン",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "それで、チャックはどこ出身なの？"
+          },
+          {
+            "speaker": "F",
+            "text": "テキサスだ。"
+          },
+          {
+            "speaker": "E",
+            "text": "どの辺？"
+          },
+          {
+            "speaker": "F",
+            "text": "君は知らないと思うよ。ハーリンジェンっていう小さな町なんだ。ちょうど南の方にある。メキシコとの国境のそばだ。"
+          },
+          {
+            "speaker": "E",
+            "text": "いや、知ってるよ。実際に行ったことがあるんだ！ポートイザベルに住んでいる友達がいるんだ。"
+          },
+          {
+            "speaker": "F",
+            "text": "ポートイザベル！すごい、本当に近いね。それで気に入った？"
+          },
+          {
+            "speaker": "E",
+            "text": "うん、素敵だったよ。ちょっと静かだけど、休暇には最高だった。"
+          },
+          {
+            "speaker": "F",
+            "text": "いつ行ったんだ？何時ごろ？"
+          },
+          {
+            "speaker": "E",
+            "text": "2月だけど、気候は素敵だったよ。とても暖かいんだ。ビーチによく行ったよ。"
+          },
+          {
+            "speaker": "F",
+            "text": "そうか。"
+          },
+          {
+            "speaker": "E",
+            "text": "それに海岸沿いにボートに何度か乗って釣りに行ったんだ。"
+          },
+          {
+            "speaker": "F",
+            "text": "何か釣れた？"
+          },
+          {
+            "speaker": "E",
+            "text": "あまり釣れなかったけど、海の上にいるだけで気持ちよかったよ。"
+          },
+          {
+            "speaker": "F",
+            "text": "それで、友達の名前は何ていうの？"
+          },
+          {
+            "speaker": "E",
+            "text": "ハリー・ダンシー。"
+          },
+          {
+            "speaker": "F",
+            "text": "冗談でしょ！スキップ・ダンシー？高校が一緒だったんだ！"
+          },
+          {
+            "speaker": "E",
+            "text": "えっ！本当？世界って狭いね！"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Accueillir un nouvel invité",
+        "label": "Conversation: Règles de la maison avec une famille d'accueil",
+        "script": [
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Bonjour. Entrez, entrez."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Bonjour. Je suis Maksim."
+          },
+          {
+            "speaker": "Mère d'accueil (Isabel)",
+            "text": "Salut. Je suis Isabel et voici Oliver. Comment s'est passé votre voyage ?"
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Bien, mais très long."
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Je peux imaginer. En tout cas, vous êtes là maintenant. Voulez-vous que je prenne votre manteau ?"
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Oh, oui. Merci."
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Et vous pouvez laisser votre sac et vos affaires là-bas pour l'instant."
+          },
+          {
+            "speaker": "Mère d'accueil (Isabel)",
+            "text": "Voulez-vous une tasse de thé ou quelque chose à manger, Maksim ?"
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Non merci. Je vais bien. Juste un peu d'eau peut-être."
+          },
+          {
+            "speaker": "Mère d'accueil (Isabel)",
+            "text": "Oui, bien sûr. Je vais vous en chercher."
+          },
+          {
+            "speaker": "Mère d'accueil (Isabel)",
+            "text": "Voilà."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Merci. Oh, j'ai failli oublier. Je vous ai apporté ceci. C'est traditionnel. De mon pays."
+          },
+          {
+            "speaker": "Mère d'accueil (Isabel)",
+            "text": "Oh merci. C'est très attentionné de votre part. C'est... euh... très... intéressant. Je vais aller le mettre... quelque part."
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Je vais vous montrer la maison dans une minute, Maksim, mais d'abord je vais vous parler un peu des règles de la maison."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "D'accord."
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Nous vous donnerons votre propre clé, pour que vous puissiez aller et venir quand vous voulez. Si vous rentrez tard, s'il vous plaît, essayez d'être silencieux. Et assurez-vous de verrouiller la porte d'entrée."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "De l'intérieur ?"
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Oui. Tenez, regardez. Comme ceci."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Ah, je vois."
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "D'accord. Et les invités de nuit ne sont pas autorisés dans la maison."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Des invités ?"
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Oui. Euh... personne ne peut dormir dans votre chambre à part vous, donc pas d'amis ni..."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Oh, d'accord. Oui. Ne vous inquiétez pas. Pas de problème. Pas de problème."
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Et le petit-déjeuner est servi entre sept et huit heures. Vous savez que nous sommes végétariens, n'est-ce pas ?"
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Végé... ?"
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Végétarien. Nous ne mangeons pas de viande."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Pas de viande ?"
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Non. Ils ne vous l'ont pas dit ? Tant pis. Enfin, c'est plus ou moins tout, je pense. Je vais vous montrer votre chambre. Je suis sûr que vous êtes très fatigué."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Oui. Et je dois me lever tôt demain. Avez-vous une montre que je puisse emprunter ?"
+          },
+          {
+            "speaker": "Père d'accueil (Oliver)",
+            "text": "Un réveil, vous voulez dire ? Oui, je suis sûr que nous pouvons vous en prêter un."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "Merci."
+          },
+          {
+            "speaker": "Mère d'accueil (Isabel)",
+            "text": "Et demain matin, nous vous montrerons comment aller à votre école."
+          },
+          {
+            "speaker": "Maksim",
+            "text": "D'accord. Une question. Cela vous dérange-t-il si je fume dans ma chambre ?"
+          },
+          {
+            "speaker": "Mère d'accueil (Isabel)",
+            "text": "Fumer ? Eh bien, en fait, je préférerais que vous ne le fassiez pas, si cela ne vous dérange pas. Je suis désolée."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Étudier au Pays de Galles",
+        "label": "Écoute: L'expérience d'un étudiant",
+        "script": [
+          {
+            "speaker": "Étudiant",
+            "text": "Je suis de Harbin, dans le nord-est de la Chine, mais j'ai déménagé au Pays de Galles l'année dernière pour faire un master."
+          },
+          {
+            "speaker": "Étudiant",
+            "text": "C'est la première fois que je vis loin de chez moi, ce n'a pas été facile."
+          },
+          {
+            "speaker": "Étudiant",
+            "text": "La culture est différente et je dois aussi parler anglais tout le temps, ce qui est fatigant."
+          },
+          {
+            "speaker": "Étudiant",
+            "text": "L'endroit où je vis est agréable, cependant."
+          },
+          {
+            "speaker": "Étudiant",
+            "text": "J'ai ma propre chambre avec un lavabo pour me laver, mais je dois partager la salle de bain et la cuisine avec cinq autres étudiants."
+          },
+          {
+            "speaker": "Étudiant",
+            "text": "La meilleure chose pour moi maintenant, c'est la liberté."
+          },
+          {
+            "speaker": "Étudiant",
+            "text": "Je peux faire ce que je veux - quand je veux."
+          },
+          {
+            "speaker": "Étudiant",
+            "text": "Je peux rentrer tard si je veux et je n'ai pas à répondre aux questions sur où j'étais."
+          },
+          {
+            "speaker": "Étudiant",
+            "text": "Les choses les plus difficiles sont d'apprendre à vivre par moi-même - je dois tout faire par moi-même maintenant - et de vivre dans un immeuble avec tant d'autres étudiants."
+          },
+          {
+            "speaker": "Étudiant",
+            "text": "Ça peut être très bruyant parfois !"
+          }
+        ]
+      },
+      {
+        "title": "2-1. Parler de sa ville natale - Italie",
+        "label": "Conversation 1: Trévise, Italie",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "D'où viens-tu ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Italie."
+          },
+          {
+            "speaker": "A",
+            "text": "Quelle région ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Trévise."
+          },
+          {
+            "speaker": "A",
+            "text": "Où est-ce ?"
+          },
+          {
+            "speaker": "B",
+            "text": "C'est une petite ville dans le nord-est. C'est à environ 40 kilomètres de Venise. Alors disons que c'est Venise, Trévise est juste ici au nord."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh d'accord. Alors comment est-ce ?"
+          },
+          {
+            "speaker": "B",
+            "text": "C'est génial. Le centre est très ancien avec de beaux bâtiments anciens, mais la ville est aussi assez moderne. Tu connais Benetton ? Les vêtements ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Oui."
+          },
+          {
+            "speaker": "B",
+            "text": "Eh bien, Benetton est basé à Trévise."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh wow ! D'accord. Où habites-tu ? Dans le centre ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Pas exactement, mais tout est assez proche. C'est petit. C'est facile de se déplacer. J'habite près de la rivière. On peut se promener le long de là - et il y a un parc. C'est agréable."
+          }
+        ]
+      },
+      {
+        "title": "2-2. Parler de sa ville natale - Oman",
+        "label": "Conversation 2: Mascate, Oman",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "D'où viens-tu ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Oman."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, d'accord. Oman. Je suis désolé, mais où est-ce exactement ? Ma géographie n'est pas très bonne."
+          },
+          {
+            "speaker": "D",
+            "text": "C'est au Moyen-Orient - sur l'océan Indien. Donc tu as l'Arabie Saoudite ici et les Émirats Arabes Unis ici et Oman descend ici à droite."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, d'accord. Et où habites-tu ?"
+          },
+          {
+            "speaker": "D",
+            "text": "La capitale, Mascate, c'est dans le nord du pays."
+          },
+          {
+            "speaker": "C",
+            "text": "Comment est-ce ? Est-ce une grande ville ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Assez grande - elle fait environ un million d'habitants et elle s'étend assez loin le long de la côte."
+          },
+          {
+            "speaker": "C",
+            "text": "Ça semble agréable."
+          },
+          {
+            "speaker": "D",
+            "text": "Ça l'est. C'est magnifique parce qu'il y a la mer et les montagnes derrière. Et c'est un endroit très excitant car beaucoup de gens de différents pays y vivent et, tu sais, il y a beaucoup de choses à y faire."
+          }
+        ]
+      },
+      {
+        "title": "2-3. Parler de sa ville natale - Texas",
+        "label": "Conversation 3: Harlingen, Texas",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "Alors d'où viens-tu Chuck ?"
+          },
+          {
+            "speaker": "F",
+            "text": "Texas."
+          },
+          {
+            "speaker": "E",
+            "text": "Où ça ?"
+          },
+          {
+            "speaker": "F",
+            "text": "Je doute que tu connaisses. C'est une petite ville appelée Harlingen. C'est juste dans le sud - près de la frontière mexicaine."
+          },
+          {
+            "speaker": "E",
+            "text": "Oui, je connais. En fait, j'y suis allé ! J'ai un ami qui habite à Port Isabel."
+          },
+          {
+            "speaker": "F",
+            "text": "Port Isabel ! Wow, c'est vraiment proche. Alors tu as aimé ?"
+          },
+          {
+            "speaker": "E",
+            "text": "Oui, c'était charmant. Enfin, c'est un peu calme, mais pour des vacances c'était génial."
+          },
+          {
+            "speaker": "F",
+            "text": "Quand étais-tu là-bas ? À quelle période ?"
+          },
+          {
+            "speaker": "E",
+            "text": "Février, mais le climat est charmant. Il fait si chaud. Nous sommes allés beaucoup à la plage."
+          },
+          {
+            "speaker": "F",
+            "text": "Bien sûr."
+          },
+          {
+            "speaker": "E",
+            "text": "Et nous avons pris un bateau le long de la côte plusieurs fois et nous sommes allés pêcher."
+          },
+          {
+            "speaker": "F",
+            "text": "Tu as attrapé quelque chose ?"
+          },
+          {
+            "speaker": "E",
+            "text": "Pas grand-chose, mais c'était juste agréable d'être sur la mer."
+          },
+          {
+            "speaker": "F",
+            "text": "Alors comment s'appelle ton ami ?"
+          },
+          {
+            "speaker": "E",
+            "text": "Harry Dancey."
+          },
+          {
+            "speaker": "F",
+            "text": "Tu plaisantes ! Skip Dancey ? J'étais au lycée avec lui !"
+          },
+          {
+            "speaker": "E",
+            "text": "Non ! Vraiment ? Que le monde est petit !"
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 새로운 손님 맞이하기",
+        "label": "대화: 호스트 패밀리와의 집 규칙",
+        "script": [
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "안녕하세요. 어서 오세요, 어서 오세요."
+          },
+          {
+            "speaker": "막심",
+            "text": "안녕하세요. 저는 막심입니다."
+          },
+          {
+            "speaker": "호스트 엄마 (이자벨)",
+            "text": "안녕하세요. 저는 이자벨이고 이쪽은 올리버예요. 여행은 어땠나요?"
+          },
+          {
+            "speaker": "막심",
+            "text": "괜찮았는데, 아주 길었어요."
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "상상이 가네요. 어쨌든, 이제 여기 왔으니 말이죠. 코트를 제가 받아드릴까요?"
+          },
+          {
+            "speaker": "막심",
+            "text": "아, 네. 감사합니다."
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "그리고 가방이랑 물건들은 일단 저쪽에 두시면 돼요."
+          },
+          {
+            "speaker": "호스트 엄마 (이자벨)",
+            "text": "차나 뭐 좀 드실래요, 막심?"
+          },
+          {
+            "speaker": "막심",
+            "text": "아니요, 괜찮아요. 물 좀 주시면 좋겠어요."
+          },
+          {
+            "speaker": "호스트 엄마 (이자벨)",
+            "text": "네, 물론이죠. 금방 가져다 드릴게요."
+          },
+          {
+            "speaker": "호스트 엄마 (이자벨)",
+            "text": "여기 있어요."
+          },
+          {
+            "speaker": "막심",
+            "text": "감사합니다. 아, 거의 잊을 뻔했네요. 이걸 가져왔어요. 전통적인 거예요. 제 나라에서 온 거예요."
+          },
+          {
+            "speaker": "호스트 엄마 (이자벨)",
+            "text": "오, 고마워요. 정말 사려 깊네요. 이거... 음... 아주... 흥미롭네요. 제가... 어딘가에... 두러 갈게요."
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "곧 집 안을 보여드릴게요, 막심. 하지만 먼저 집 규칙에 대해 조금 말씀드릴게요."
+          },
+          {
+            "speaker": "막심",
+            "text": "네."
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "자기만의 열쇠를 드릴 거예요, 그래서 원할 때 오고 갈 수 있어요. 하지만 늦게 귀가할 때는 조용히 하도록 노력해주세요. 그리고 현관문을 꼭 잠그세요."
+          },
+          {
+            "speaker": "막심",
+            "text": "안쪽에서요?"
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "네. 여기, 보세요. 이렇게요."
+          },
+          {
+            "speaker": "막심",
+            "text": "아, 알겠어요."
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "좋아요. 그리고 집에서는 밤새 손님은 허용되지 않아요."
+          },
+          {
+            "speaker": "막심",
+            "text": "손님?"
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "네. 음... 당신 외에는 아무도 당신 방에서 잘 수 없어요, 그러니까 친구나..."
+          },
+          {
+            "speaker": "막심",
+            "text": "아, 네. 걱정 마세요. 문제없어요. 문제없어요."
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "아침은 7시에서 8시 사이에 제공됩니다. 우리가 채식주의자인 거 알고 계시죠?"
+          },
+          {
+            "speaker": "막심",
+            "text": "채식...?"
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "채식주의자예요. 고기는 전혀 안 먹어요."
+          },
+          {
+            "speaker": "막심",
+            "text": "고기가 없다고요?"
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "네. 못 들으셨나요? 아, 됐어요. 어쨌든, 대충 그게 다인 것 같네요. 방으로 안내해드릴게요. 많이 피곤하시겠어요."
+          },
+          {
+            "speaker": "막심",
+            "text": "네. 그리고 내일 일찍 일어나야 해요. 빌릴 수 있는 시계 있나요?"
+          },
+          {
+            "speaker": "호스트 아빠 (올리버)",
+            "text": "알람 시계 말씀이시죠? 네, 하나 빌려드릴 수 있어요."
+          },
+          {
+            "speaker": "막심",
+            "text": "감사합니다."
+          },
+          {
+            "speaker": "호스트 엄마 (이자벨)",
+            "text": "그리고 내일 아침에 학교 가는 길을 알려드릴게요."
+          },
+          {
+            "speaker": "막심",
+            "text": "네. 질문 하나 할게요. 제 방에서 담배를 피워도 괜찮을까요?"
+          },
+          {
+            "speaker": "호스트 엄마 (이자벨)",
+            "text": "담배요? 음, 사실, 괜찮으시다면 안 피우셨으면 좋겠어요. 죄송해요."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 웨일즈에서 유학하기",
+        "label": "리스닝: 한 학생의 경험",
+        "script": [
+          {
+            "speaker": "학생",
+            "text": "저는 중국 북동부의 하얼빈 출신이지만, 석사 학위를 위해 작년에 웨일즈로 이사했어요."
+          },
+          {
+            "speaker": "학생",
+            "text": "처음으로 집을 떠나 사는 거라 쉽지 않았어요."
+          },
+          {
+            "speaker": "학생",
+            "text": "문화도 다르고 항상 영어를 해야 하는 것도 피곤해요."
+          },
+          {
+            "speaker": "학생",
+            "text": "하지만 제가 사는 곳은 괜찮아요."
+          },
+          {
+            "speaker": "학생",
+            "text": "씻을 수 있는 세면대가 있는 제 방이 있지만, 욕실과 주방은 다른 다섯 명의 학생들과 공유해야 해요."
+          },
+          {
+            "speaker": "학생",
+            "text": "지금 저에게 가장 좋은 점은 자유예요."
+          },
+          {
+            "speaker": "학생",
+            "text": "제가 원하는 것은 무엇이든, 원할 때 언제든지 할 수 있어요."
+          },
+          {
+            "speaker": "학생",
+            "text": "원하면 늦게 집에 올 수 있고, 어디에 있었는지 질문에 답할 필요도 없어요."
+          },
+          {
+            "speaker": "학생",
+            "text": "가장 어려운 점은 혼자 사는 법을 배우는 것과 너무 많은 다른 학생들과 한 건물에서 사는 거예요."
+          },
+          {
+            "speaker": "학생",
+            "text": "가끔 정말 시끄러울 때가 있어요!"
+          }
+        ]
+      },
+      {
+        "title": "2-1. 고향에 대해 말하기 - 이탈리아",
+        "label": "대화 1: 트레비조, 이탈리아",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "어디 출신이세요?"
+          },
+          {
+            "speaker": "B",
+            "text": "이탈리아요."
+          },
+          {
+            "speaker": "A",
+            "text": "어느 지역이요?"
+          },
+          {
+            "speaker": "B",
+            "text": "트레비조요."
+          },
+          {
+            "speaker": "A",
+            "text": "거기가 어디죠?"
+          },
+          {
+            "speaker": "B",
+            "text": "북동쪽에 있는 작은 도시예요. 베네치아에서 약 40킬로미터 떨어져 있어요. 여기가 베네치아라고 하면, 트레비조는 바로 북쪽 여기에 있어요."
+          },
+          {
+            "speaker": "A",
+            "text": "아, 네. 그럼 어떤 곳인가요?"
+          },
+          {
+            "speaker": "B",
+            "text": "훌륭해요. 중심가는 아주 오래되어 아름다운 고풍 건물들이 있지만, 도시도 꽤 현대적이에요. 베네통 아세요? 옷 만드는?"
+          },
+          {
+            "speaker": "A",
+            "text": "네."
+          },
+          {
+            "speaker": "B",
+            "text": "음, 베네통 본사가 트레비조에 있어요."
+          },
+          {
+            "speaker": "A",
+            "text": "오, 와! 네. 그럼 어디 사세요? 중심가에요?"
+          },
+          {
+            "speaker": "B",
+            "text": "정확히는 아니지만, 모든 게 꽤 가까워요. 작아서 돌아다니기 쉬워요. 강 근처에 살아요. 강을 따라 걸을 수 있고, 공원도 있어요. 좋아요."
+          }
+        ]
+      },
+      {
+        "title": "2-2. 고향에 대해 말하기 - 오만",
+        "label": "대화 2: 무스카트, 오만",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "어디 출신이세요?"
+          },
+          {
+            "speaker": "D",
+            "text": "오만이요."
+          },
+          {
+            "speaker": "C",
+            "text": "아, 네. 오만. 죄송한데, 정확히 어디인가요? 제가 지리를 잘 몰라서요."
+          },
+          {
+            "speaker": "D",
+            "text": "중동에 있어요, 인도양에 접해 있죠. 여기가 사우디아라비아, 위쪽에 UAE가 있고, 오만은 오른쪽 아래로 내려가 있어요."
+          },
+          {
+            "speaker": "C",
+            "text": "아, 네. 그럼 어디 사세요?"
+          },
+          {
+            "speaker": "D",
+            "text": "수도인 무스카트요, 나라 북쪽에 있어요."
+          },
+          {
+            "speaker": "C",
+            "text": "어떤 곳인가요? 큰 도시인가요?"
+          },
+          {
+            "speaker": "D",
+            "text": "꽤 커요. 약 100만 정도이고, 해안을 따라 꽤 멀리 퍼져 있어요."
+          },
+          {
+            "speaker": "C",
+            "text": "좋을 것 같네요."
+          },
+          {
+            "speaker": "D",
+            "text": "그래요. 바다와 뒤로 산이 있어서 아름다워요. 그리고 여러 다른 나라에서 온 많은 사람들이 살고 있고, 할 것도 많아서 아주 흥미로운 곳이에요."
+          }
+        ]
+      },
+      {
+        "title": "2-3. 고향에 대해 말하기 - 텍사스",
+        "label": "대화 3: 할링젠, 텍사스",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "그럼 척은 어디 출신이야?"
+          },
+          {
+            "speaker": "F",
+            "text": "텍사스."
+          },
+          {
+            "speaker": "E",
+            "text": "어디쯤?"
+          },
+          {
+            "speaker": "F",
+            "text": "네가 알 리 없어. 할링젠이라는 작은 마을이야. 남쪽에 있어. 멕시코 국경 근처야."
+          },
+          {
+            "speaker": "E",
+            "text": "응, 알아. 사실 가본 적 있어! 포트 이자벨에 사는 친구가 있어."
+          },
+          {
+            "speaker": "F",
+            "text": "포트 이자벨! 와, 정말 가깝네. 그래서 좋았어?"
+          },
+          {
+            "speaker": "E",
+            "text": "응, 좋았어. 좀 조용하긴 한데, 휴가 보내기엔 정말 좋았어."
+          },
+          {
+            "speaker": "F",
+            "text": "거기 언제 있었어? 몇 월쯤?"
+          },
+          {
+            "speaker": "E",
+            "text": "2월인데, 기후가 정말 좋았어. 너무 따뜻했어. 해변에 꽤 많이 갔어."
+          },
+          {
+            "speaker": "F",
+            "text": "그렇구나."
+          },
+          {
+            "speaker": "E",
+            "text": "그리고 해안을 따라 보트도 여러 번 타고 낚시도 갔어."
+          },
+          {
+            "speaker": "F",
+            "text": "뭐 잡았어?"
+          },
+          {
+            "speaker": "E",
+            "text": "별로 못 잡았지만, 바다 위에 있는 것 자체가 좋았어."
+          },
+          {
+            "speaker": "F",
+            "text": "그럼 친구 이름이 뭐라고?"
+          },
+          {
+            "speaker": "E",
+            "text": "해리 댄시."
+          },
+          {
+            "speaker": "F",
+            "text": "장난하지 마! 스킵 댄시? 나 그랑 고등학교 같이 다녔어!"
+          },
+          {
+            "speaker": "E",
+            "text": "이야! 정말? 세상 참 좁다!"
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "FIVE THINGS YOU SHOULD KNOW BEFORE LEAVING HOME",
+    "ja": "家を離れる前に知っておくべき5つのこと",
+    "fr": "CINQ CHOSES À SAVOIR AVANT DE QUITTER LA MAISON",
+    "ko": "집을 떠나기 전에 알아야 할 다섯 가지"
+  },
+  "extra_reading_html": {
+    "en": "<p><b>1. MONEY DOESN'T GROW ON TREES</b></p><p>One of the most depressing things you learn after leaving home is that everything costs money. You move out with a healthy bank balance, you buy a few bits of furniture and some new jeans and before you know it, the cash machine has eaten your card! Of course, banks will lend you as much money as you want, but remember — you don't have to borrow! Learning to manage a budget may be boring, but it's essential.</p><p><b>2. YOU CANNOT LIVE ON BREAD ALONE</b></p><p>Although you may not miss your parents very much when you first leave home, you can bet you'll miss their cooking! Learning to cook well takes time, so start learning now. If you don't, you'll end up living on frozen meals and takeaway pizzas, and that'll add kilos to your weight and take pounds from your pocket!</p><p><b>3. MACHINES ARE YOUR FRIENDS</b></p><p>While you are still living at home, life is easy. You don't have to do the washing, iron your clothes, cook, shop, or fix things. Once you're on your own, though, knowing how to do simple things like setting a washing machine to the correct temperature or using basic tools can make a huge difference to your quality of life!</p><p><b>4. FLAT-SHARING IS THE EASIEST WAY TO LOSE FRIENDS</b></p><p>Living with your best friends might sound like a really great idea, but trust me — it isn't! You'll argue about everything and nothing. You'll shout at each other about whose turn it is to clean the toilet and about who paid for the last pint of milk and before you know it, you'll be enemies rather than friends!</p><p><b>5. LIVING ON YOUR OWN CAN BE LONELY</b></p><p>Living away from home can be incredibly exciting. You can come and go whenever you want; you can eat whatever you want and wear what you want, but spending time on your own can be hard. You may want to fill your time with a social life, meeting people and going to parties, but sooner or later you have to learn how to enjoy your own company. You might just become the best friend you'll ever have!</p>",
+    "ja": "<p><b>1. お金は木に生えない</b></p><p>家を離れた後に学ぶ最も憂鬱なことの一つは、すべてにお金がかかるということです。健全な銀行残高を持って引っ越し、ちょっとした家具や新しいジーンズを何着か買うと、気づかないうちに現金自動預け払い機がカードを飲み込んでしまいます！もちろん、銀行は好きなだけお金を貸してくれますが、覚えておいてください——借りる必要はないのです！予算管理を学ぶことは退屈かもしれませんが、必須です。</p><p><b>2. パンだけでは生きられない</b></p><p>家を離れたばかりのときは両親をあまり恋しく思わないかもしれませんが、彼らの料理はきっと恋しくなるでしょう！料理を上手に学ぶには時間がかかるので、今すぐ始めましょう。そうしなければ、冷凍食品やテイクアウトのピザで生活することになり、体重が増え、お財布からお金が減っていくでしょう！</p><p><b>3. 機械はあなたの友達</b></p><p>まだ家に住んでいる間は、生活は楽です。洗濯、アイロンがけ、料理、買い物、修理をする必要はありません。しかし、一度一人暮らしを始めると、洗濯機を適切な温度に設定する、基本的な道具を使うといった簡単なことを知っているかどうかが、あなたの生活の質に大きな違いをもたらします！</p><p><b>4. フラットシェアは友人を失う最も簡単な方法</b></p><p>親友と一緒に暮らすことは本当に素晴らしいアイデアに聞こえるかもしれませんが、私を信じてください——そうではありません！あなたたちはあらゆること、そして何でもないことで口論になります。トイレ掃除の番が誰なのか、最後のパイントの牛乳を誰が払ったのかについて叫び合い、気づかないうちに友人ではなく敵になっているでしょう！</p><p><b>5. 一人暮らしは孤独になり得る</b></p><p>家を離れて暮らすことは信じられないほどエキサイティングです。好きな時に来たり行ったりできます。好きなものを食べ、好きなものを着ることができますが、一人で時間を過ごすことは難しい場合があります。社会生活、人との出会い、パーティーに行くことで時間を埋めたくなるかもしれませんが、遅かれ早かれ、自分の時間を楽しむ方法を学ばなければなりません。そうすれば、今までで最高の友達になれるかもしれません！</p>",
+    "fr": "<p><b>1. L'ARGENT NE POUSSE PAS SUR LES ARBRES</b></p><p>L'une des choses les plus déprimantes que vous apprenez après avoir quitté la maison est que tout coûte de l'argent. Vous partez avec un solde bancaire sain, vous achetez quelques meubles et quelques nouveaux jeans et avant que vous ne le sachiez, le distributeur automatique a avalé votre carte ! Bien sûr, les banques vous prêteront autant d'argent que vous voulez, mais rappelez-vous — vous n'êtes pas obligé d'emprunter ! Apprendre à gérer un budget peut être ennuyeux, mais c'est essentiel.</p><p><b>2. ON NE VIT PAS SEULEMENT DE PAIN</b></p><p>Bien que vous ne manquiez peut-être pas beaucoup à vos parents lorsque vous quittez la maison pour la première fois, vous pouvez parier que leur cuisine vous manquera ! Apprendre à bien cuisiner prend du temps, alors commencez à apprendre maintenant. Sinon, vous finirez par vivre de plats surgelés et de pizzas à emporter, ce qui ajoutera des kilos à votre poids et des euros à votre porte-monnaie !</p><p><b>3. LES MACHINES SONT VOS AMIES</b></p><p>Tant que vous vivez encore à la maison, la vie est facile. Vous n'avez pas à faire la lessive, à repasser vos vêtements, à cuisiner, à faire les courses ou à réparer des choses. Cependant, une fois que vous êtes seul, savoir faire des choses simples comme régler une machine à laver à la bonne température ou utiliser des outils de base peut faire une énorme différence dans votre qualité de vie !</p><p><b>4. LA COLOCATION EST LE MOYEN LE PLUS SIMPLE DE PERDRE DES AMIS</b></p><p>Vivre avec vos meilleurs amis peut sembler une très bonne idée, mais croyez-moi — ce n'est pas le cas ! Vous vous disputerez pour tout et n'importe quoi. Vous vous crierez dessus pour savoir à qui c'est le tour de nettoyer les toilettes et qui a payé la dernière pinte de lait, et avant que vous ne le sachiez, vous serez ennemis plutôt qu'amis !</p><p><b>5. VIVRE SEUL PEUT ÊTRE SOLITAIRE</b></p><p>Vivre loin de chez soi peut être incroyablement excitant. Vous pouvez aller et venir quand vous voulez ; vous pouvez manger ce que vous voulez et porter ce que vous voulez, mais passer du temps seul peut être difficile. Vous voudrez peut-être remplir votre temps avec une vie sociale, rencontrer des gens et aller à des fêtes, mais tôt ou tard, vous devez apprendre à apprécier votre propre compagnie. Vous pourriez bien devenir le meilleur ami que vous n'ayez jamais eu !</p>",
+    "ko": "<p><b>1. 돈은 나무에서 자라지 않는다</b></p><p>집을 떠난 후 배우는 가장 우울한 것 중 하나는 모든 것에 돈이 든다는 것입니다. 건강한 은행 잔고를 가지고 이사하고, 약간의 가구와 새 청바지를 몇 벌 샀더니 어느새 현금 자동 입출금기가 카드를 삼켜버렸습니다! 물론, 은행은 당신이 원하는 만큼 돈을 빌려주겠지만, 기억하세요 — 당신은 빌릴 필요가 없습니다! 예산 관리를 배우는 것은 지루할 수 있지만, 필수적입니다.</p><p><b>2. 당신은 빵만으로는 살 수 없다</b></p><p>처음 집을 떠났을 때 부모님이 많이 그립지 않을 수 있지만, 그들의 요리가 그리울 것은 틀림없습니다! 요리를 잘하는 법을 배우는 데는 시간이 걸리므로, 지금 배우기 시작하세요. 그렇지 않으면 냉동 식품과 테이크아웃 피자로 살게 될 것이고, 그것은 체중을 늘리고 주머니에서 돈을 빼갈 것입니다!</p><p><b>3. 기계는 당신의 친구다</b></p><p>여전히 집에 살고 있을 때는 삶이 쉽습니다. 빨래를 하거나, 옷을 다리거나, 요리하거나, 장을 보거나, 물건을 고칠 필요가 없습니다. 하지만 일단 혼자가 되면, 세탁기를 적절한 온도로 설정하는 것이나 기본 도구를 사용하는 것과 같은 간단한 일을 아는 것이 당신의 삶의 질에 큰 차이를 만들 수 있습니다!</p><p><b>4. 플랫 셰어링은 친구를 잃는 가장 쉬운 방법이다</b></p><p>가장 친한 친구들과 함께 사는 것은 정말 좋은 생각처럼 들릴 수 있지만, 저를 믿으세요 — 그렇지 않습니다! 당신은 모든 것, 그리고 아무것도 아닌 것에 대해 말다툼을 하게 될 것입니다. 변기 청소할 차례가 누구인지, 마지막 파인트 우유를 누가 샀는지에 대해 서로 소리 지르다가, 어느새 친구가 아니라 적이 되어 있을 것입니다!</p><p><b>5. 혼자 사는 것은 외로울 수 있다</b></p><p>집을 떠나 사는 것은 믿을 수 없을 정도로 신날 수 있습니다. 원할 때 언제든지 오고 갈 수 있고, 원하는 것은 무엇이든 먹고 입을 수 있지만, 혼자 시간을 보내는 것은 어려울 수 있습니다. 사회 생활, 사람들 만나기, 파티 가기로 시간을 채우고 싶을 수 있지만, 조만간 자신의 회사를 즐기는 방법을 배워야 합니다. 어쩌면 당신은 평생 가질 수 있는 가장 친한 친구가 될지도 모릅니다!</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "According to the text, banks will refuse to lend you money if you don't have a job.",
+        "correct": "F",
+        "explanation": "False (The text says banks will lend you as much money as you want.)"
+      },
+      {
+        "question": "The author suggests that you should start learning to cook before you move out.",
+        "correct": "T",
+        "explanation": "True (The author explicitly advises to start learning now because cooking well takes time.)"
+      },
+      {
+        "question": "Knowing how to use basic tools and appliances can improve your quality of life when living alone.",
+        "correct": "T",
+        "explanation": "True (The text states these skills can make a huge difference to your quality of life.)"
+      },
+      {
+        "question": "Living with your best friends is recommended as the best way to maintain a strong friendship.",
+        "correct": "F",
+        "explanation": "False (The author warns that you'll argue about everything and become enemies rather than friends.)"
+      },
+      {
+        "question": "The text claims that you must always have a busy social life to avoid being lonely.",
+        "correct": "F",
+        "explanation": "False (The author emphasizes that you must learn how to enjoy your own company.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "テキストによると、銀行はあなたに仕事がなければお金を貸すのを拒否する。",
+        "correct": "F",
+        "explanation": "偽 (テキストは銀行があなたが望むだけお金を貸すと述べています。)"
+      },
+      {
+        "question": "著者は、引っ越す前に料理を学び始めるべきだと示唆している。",
+        "correct": "T",
+        "explanation": "真 (著者は料理を上手に学ぶには時間がかかるので、今すぐ学び始めるよう明確に勧めています。)"
+      },
+      {
+        "question": "基本的な道具や電化製品の使い方を知っていることは、一人暮らしの生活の質を向上させることができる。",
+        "correct": "T",
+        "explanation": "真 (テキストはこれらのスキルが生活の質に大きな違いをもたらすと述べています。)"
+      },
+      {
+        "question": "親友との同居は、強い友情を維持するための最良の方法として推奨されている。",
+        "correct": "F",
+        "explanation": "偽 (著者はあらゆることで口論になり、友人ではなく敵になるだろうと警告しています。)"
+      },
+      {
+        "question": "テキストは、孤独を避けるためには常に忙しい社会生活を送らなければならないと主張している。",
+        "correct": "F",
+        "explanation": "偽 (著者は自分の時間を楽しむ方法を学ばなければならないと強調しています。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Selon le texte, les banques refuseront de vous prêter de l'argent si vous n'avez pas d'emploi.",
+        "correct": "F",
+        "explanation": "Faux (Le texte dit que les banques vous prêteront autant d'argent que vous voulez.)"
+      },
+      {
+        "question": "L'auteur suggère que vous devriez commencer à apprendre à cuisiner avant de déménager.",
+        "correct": "T",
+        "explanation": "Vrai (L'auteur conseille explicitement de commencer à apprendre maintenant car bien cuisiner prend du temps.)"
+      },
+      {
+        "question": "Savoir utiliser des outils et des appareils de base peut améliorer votre qualité de vie lorsque vous vivez seul.",
+        "correct": "T",
+        "explanation": "Vrai (Le texte indique que ces compétences peuvent faire une énorme différence dans votre qualité de vie.)"
+      },
+      {
+        "question": "Vivre avec vos meilleurs amis est recommandé comme le meilleur moyen de maintenir une amitié solide.",
+        "correct": "F",
+        "explanation": "Faux (L'auteur prévient que vous vous disputerez pour tout et deviendrez ennemis plutôt qu'amis.)"
+      },
+      {
+        "question": "Le texte affirme que vous devez toujours avoir une vie sociale active pour éviter la solitude.",
+        "correct": "F",
+        "explanation": "Faux (L'auteur souligne que vous devez apprendre à apprécier votre propre compagnie.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "텍스트에 따르면, 은행은 당신에게 직업이 없으면 돈을 빌려주지 않을 것이다.",
+        "correct": "F",
+        "explanation": "거짓 (텍스트는 은행이 당신이 원하는 만큼 돈을 빌려줄 것이라고 말합니다.)"
+      },
+      {
+        "question": "저자는 이사하기 전에 요리하는 법을 배우기 시작해야 한다고 제안한다.",
+        "correct": "T",
+        "explanation": "참 (저자는 요리를 잘 배우는 데 시간이 걸리므로 지금 배우기 시작하라고 명시적으로 조언합니다.)"
+      },
+      {
+        "question": "기본 도구와 가전제품 사용법을 아는 것은 혼자 살 때 삶의 질을 향상시킬 수 있다.",
+        "correct": "T",
+        "explanation": "참 (텍스트는 이러한 기술이 삶의 질에 큰 차이를 만들 수 있다고 말합니다.)"
+      },
+      {
+        "question": "가장 친한 친구들과 함께 사는 것이 강한 우정을 유지하는 가장 좋은 방법으로 추천된다.",
+        "correct": "F",
+        "explanation": "거짓 (저자는 모든 것에 대해 말다툼을 하게 되어 친구가 아니라 적이 될 것이라고 경고합니다.)"
+      },
+      {
+        "question": "텍스트는 외로움을 피하기 위해 항상 바쁜 사회 생활을 해야 한다고 주장한다.",
+        "correct": "F",
+        "explanation": "거짓 (저자는 자신의 회사를 즐기는 방법을 배워야 한다고 강조합니다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "learning to manage a budget",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "cash machine has eaten your card",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Before you know it, the cash machine has eaten your card, so learning to manage a budget is essential.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "living on frozen meals",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "make a huge difference",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Instead of living on frozen meals, knowing how to fix things can make a huge difference to your life.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Leaving home means learning to manage a budget so the cash machine has eaten your card doesn't happen. You should avoid living on frozen meals and learn basic skills that make a huge difference to your quality of life.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "argue about everything and nothing",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "whose turn it is to clean",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Flat-mates often argue about everything and nothing, especially whose turn it is to clean the toilet.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "incredibly exciting",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "enjoy your own company",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Living away can be incredibly exciting, but you must also learn to enjoy your own company.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "When sharing a flat, you might argue about everything and nothing, like whose turn it is to clean. While living alone is incredibly exciting, the most important lesson is to enjoy your own company.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Leaving home requires learning to manage a budget before the cash machine has eaten your card. To make a huge difference, avoid living on frozen meals and learn to fix things. Don't argue about everything and nothing with friends over whose turn it is to clean. Though it's incredibly exciting, remember to enjoy your own company along the way.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "予算管理を学ぶこと",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "現金自動預け払い機がカードを飲み込む",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "気づかないうちに現金自動預け払い機がカードを飲み込んでしまうので、予算管理を学ぶことは必須です。",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "冷凍食品で生活する",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "大きな違いを生む",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "冷凍食品で生活する代わりに、物を修理する方法を知っていることがあなたの生活に大きな違いをもたらすことができます。",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "家を離れるということは、現金自動預け払い機がカードを飲み込むことがないように予算管理を学ぶことを意味します。冷凍食品で生活するのは避け、生活の質に大きな違いをもたらす基本的なスキルを学ぶべきです。",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "あらゆることで口論する",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "掃除する番",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "ルームメイトは特にトイレ掃除の番が誰かについて、あらゆることで口論することがよくあります。",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "信じられないほどエキサイティング",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "自分の時間を楽しむ",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "家を離れて暮らすことは信じられないほどエキサイティングですが、自分の時間を楽しむことも学ばなければなりません。",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "フラットを共有するとき、掃除する番のように、あらゆることで口論するかもしれません。一人暮らしは信じられないほどエキサイティングですが、最も重要な教訓は自分の時間を楽しむことです。",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "家を離れるには、現金自動預け払い機がカードを飲み込む前に予算管理を学ぶ必要があります。大きな違いを生むために、冷凍食品で生活するのは避け、物を修理することを学びましょう。掃除する番をめぐって友人とあらゆることで口論しないでください。それは信じられないほどエキサイティングですが、その過程で自分の時間を楽しむことを忘れないでください。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "apprendre à gérer un budget",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "le distributeur a avalé votre carte",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Avant que vous ne le sachiez, le distributeur a avalé votre carte, donc apprendre à gérer un budget est essentiel.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "vivre de plats surgelés",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "faire une énorme différence",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Au lieu de vivre de plats surgelés, savoir réparer des choses peut faire une énorme différence dans votre vie.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Quitter la maison signifie apprendre à gérer un budget pour que le distributeur n'avale pas votre carte. Vous devriez éviter de vivre de plats surgelés et apprendre des compétences de base qui font une énorme différence dans votre qualité de vie.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "se disputer pour tout et n'importe quoi",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "à qui c'est le tour de nettoyer",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Les colocataires se disputent souvent pour tout et n'importe quoi, surtout à qui c'est le tour de nettoyer les toilettes.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "incroyablement excitant",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "apprécier votre propre compagnie",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Vivre loin de chez soi peut être incroyablement excitant, mais vous devez aussi apprendre à apprécier votre propre compagnie.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lorsque vous partagez un appartement, vous pourriez vous disputer pour tout et n'importe quoi, comme à qui c'est le tour de nettoyer. Vivre seul est incroyablement excitant, mais la leçon la plus importante est d'apprécier votre propre compagnie.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Quitter la maison nécessite d'apprendre à gérer un budget avant que le distributeur n'avale votre carte. Pour faire une énorme différence, évitez de vivre de plats surgelés et apprenez à réparer les choses. Ne vous disputez pas pour tout et n'importe quoi avec vos amis à propos de qui doit nettoyer. Bien que ce soit incroyablement excitant, n'oubliez pas d'apprécier votre propre compagnie en chemin.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "예산 관리를 배우는 것",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "현금 자동 입출금기가 카드를 삼키다",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "어느새 현금 자동 입출금기가 카드를 삼켜버리므로, 예산 관리를 배우는 것이 필수적입니다.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "냉동 식품으로 살아가기",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "큰 차이를 만들다",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "냉동 식품으로 살아가는 대신, 물건을 고치는 방법을 아는 것이 당신의 삶에 큰 차이를 만들 수 있습니다.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "집을 떠나는 것은 현금 자동 입출금기가 카드를 삼키는 일이 없도록 예산 관리를 배우는 것을 의미합니다. 냉동 식품으로 살아가는 것은 피하고, 삶의 질에 큰 차이를 만드는 기본 기술을 배워야 합니다.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "모든 것과 아무것도 아닌 것에 대해 말다툼하다",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "청소할 차례",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "룸메이트들은 특히 변기 청소할 차례가 누구인지에 대해 모든 것과 아무것도 아닌 것에 대해 말다툼을 하곤 합니다.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "믿을 수 없을 정도로 신나는",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "자신의 시간을 즐기다",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "집을 떠나 사는 것은 믿을 수 없을 정도로 신날 수 있지만, 자신의 시간을 즐기는 법도 배워야 합니다.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "플랫을 공유할 때, 청소할 차례와 같은 모든 것과 아무것도 아닌 것에 대해 말다툼을 할 수 있습니다. 혼자 사는 것은 믿을 수 없을 정도로 신나지만, 가장 중요한 교훈은 자신의 시간을 즐기는 것입니다.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "집을 떠나는 것은 현금 자동 입출금기가 카드를 삼키기 전에 예산 관리를 배워야 합니다. 큰 차이를 만들기 위해 냉동 식품으로 살아가는 것은 피하고 물건을 고치는 법을 배우세요. 청소할 차례를 놓고 친구들과 모든 것과 아무것도 아닌 것에 대해 말다툼하지 마세요. 그것은 믿을 수 없을 정도로 신나지만, 그 과정에서 자신의 시간을 즐기는 것을 잊지 마세요.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Necessity & Lack of Necessity</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• have to / has to</strong>: Used for <strong>obligations</strong> or rules (external necessity).</p><p style='margin:5px 0;'><strong>• don't have to</strong>: Used when something is <strong>not necessary</strong> (it is optional).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> 'You <span style='color:#e67e22; font-weight:bold;'>have to lock</span> the front door from inside.'<br><i style='color:#7f8c8d;'>(Section 2 - Rule from host father)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'You <span style='color:#16a085; font-weight:bold;'>don't have to borrow</span> money from the bank.'<br><i style='color:#7f8c8d;'>(Section 3 - Advice on budgeting)</i></li></ul><h3>2. Permission & Prohibitions</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• can</strong>: Used for <strong>permission</strong> (you are allowed to do something).</p><p style='margin:5px 0;'><strong>• can't</strong>: Used for things that are <strong>forbidden</strong> or not allowed.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'You <span style='color:#2980b9; font-weight:bold;'>can come</span> and go when you want.'<br><i style='color:#7f8c8d;'>(Section 2 - House rule)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'No-one <span style='color:#2980b9; font-weight:bold;'>can sleep</span> in your room apart from you.'<br><i style='color:#7f8c8d;'>(Section 2 - Prohibition)</i></li></ul><h3>3. Future Predictions</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• will / 'll</strong>: Used to predict <strong>future results</strong> or events.</p><p style='margin:5px 0;'><strong>• won't</strong>: Used for <strong>negative predictions</strong> (will not).</p><p style='margin:5px 0;'><strong>• Note:</strong> We often use <strong>I'm sure</strong> or <strong>I think</strong> with will.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'You <span style='color:#d35400; font-weight:bold;'>will definitely miss</span> their cooking.'<br><i style='color:#7f8c8d;'>(Reading - Advice on independence)</i></li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'I'm sure you <span style='color:#d35400; font-weight:bold;'>won't have</span> much money left.'<br><i style='color:#7f8c8d;'>(Reading - Warning on spending)</i></li></ul><hr style='border:0; border-top:1px solid #eee; margin:25px 0;'><p style='margin-top:20px;'><strong>Context from our Reading:</strong></p><ul style='padding-left:20px;'><li>'Knowing how to use tools <span style='color:#d35400; font-weight:bold;'>can make</span> a huge difference.'</li><li>'Before you know it, you <span style='color:#d35400; font-weight:bold;'>will be</span> enemies.'</li><li>'You <span style='color:#d35400; font-weight:bold;'>must learn</span> how to enjoy your own company.'</li></ul>",
+    "ja": "<p><em>文法ノートは現在英語のみ利用可能です。日本語版は後日追加されます。</em></p>",
+    "fr": "<p><em>Les notes de grammaire sont actuellement disponibles uniquement en anglais. La version française sera ajoutée ultérieurement.</em></p>",
+    "ko": "<p><em>문법 노트는 현재 영어로만 제공됩니다. 한국어 버전은 추후 추가될 예정입니다.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Money & Spending</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: depressing, pint, furniture, rejected, budget</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. It is <select class='vocab-select'><option value=''>── select ──</option><option value='depressing'>depressing</option><option value='pint'>pint</option><option value='furniture'>furniture</option><option value='rejected'>rejected</option><option value='budget'>budget</option></select> to see your bank balance go down.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='depressing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. I need to buy a <select class='vocab-select'><option value=''>── select ──</option><option value='depressing'>depressing</option><option value='pint'>pint</option><option value='furniture'>furniture</option><option value='rejected'>rejected</option><option value='budget'>budget</option></select> of milk for breakfast.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='pint' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. It is essential to plan a monthly <select class='vocab-select'><option value=''>── select ──</option><option value='depressing'>depressing</option><option value='pint'>pint</option><option value='furniture'>furniture</option><option value='rejected'>rejected</option><option value='budget'>budget</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='budget' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. My new apartment is empty, so I need to buy <select class='vocab-select'><option value=''>── select ──</option><option value='depressing'>depressing</option><option value='pint'>pint</option><option value='furniture'>furniture</option><option value='rejected'>rejected</option><option value='budget'>budget</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='furniture' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. After buying some furniture, they suddenly find their card is <select class='vocab-select'><option value=''>── select ──</option><option value='depressing'>depressing</option><option value='pint'>pint</option><option value='furniture'>furniture</option><option value='rejected'>rejected</option><option value='budget'>budget</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='rejected' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Money & Actions</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: lend, borrow, incredibly, independent, lock</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Banks are usually happy to <select class='vocab-select'><option value=''>── select ──</option><option value='lend'>lend</option><option value='borrow'>borrow</option><option value='incredibly'>incredibly</option><option value='independent'>independent</option><option value='lock'>lock</option></select> you as much as you want.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='lend' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. You shouldn't <select class='vocab-select'><option value=''>── select ──</option><option value='lend'>lend</option><option value='borrow'>borrow</option><option value='incredibly'>incredibly</option><option value='independent'>independent</option><option value='lock'>lock</option></select> money if you can't pay it back.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='borrow' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Moving out makes you more <select class='vocab-select'><option value=''>── select ──</option><option value='lend'>lend</option><option value='borrow'>borrow</option><option value='incredibly'>incredibly</option><option value='independent'>independent</option><option value='lock'>lock</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='independent' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Leaving home is an <select class='vocab-select'><option value=''>── select ──</option><option value='lend'>lend</option><option value='borrow'>borrow</option><option value='incredibly'>incredibly</option><option value='independent'>independent</option><option value='lock'>lock</option></select> exciting moment.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='incredibly' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. Don't forget to <select class='vocab-select'><option value=''>── select ──</option><option value='lend'>lend</option><option value='borrow'>borrow</option><option value='incredibly'>incredibly</option><option value='independent'>independent</option><option value='lock'>lock</option></select> the front door from inside.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='lock' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Living Together</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: flat-sharing, complicated, argue, strict, host_family</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Sharing a space can be very <select class='vocab-select'><option value=''>── select ──</option><option value='flat-sharing'>flat-sharing</option><option value='complicated'>complicated</option><option value='argue'>argue</option><option value='strict'>strict</option><option value='host_family'>host_family</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='complicated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. You will <select class='vocab-select'><option value=''>── select ──</option><option value='flat-sharing'>flat-sharing</option><option value='complicated'>complicated</option><option value='argue'>argue</option><option value='strict'>strict</option><option value='host_family'>host_family</option></select> about whose turn it is to clean the toilet.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='argue' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. A <select class='vocab-select'><option value=''>── select ──</option><option value='flat-sharing'>flat-sharing</option><option value='complicated'>complicated</option><option value='argue'>argue</option><option value='strict'>strict</option><option value='host_family'>host_family</option></select> with very strict house rules can be hard to live with.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='host_family' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. <select class='vocab-select'><option value=''>── select ──</option><option value='flat-sharing'>flat-sharing</option><option value='complicated'>complicated</option><option value='argue'>argue</option><option value='strict'>strict</option><option value='host_family'>host_family</option></select> might sound like a thoughtful way to live with friends, but it is often the easiest way to lose them.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='flat-sharing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. A host family with very <select class='vocab-select'><option value=''>── select ──</option><option value='flat-sharing'>flat-sharing</option><option value='complicated'>complicated</option><option value='argue'>argue</option><option value='strict'>strict</option><option value='host_family'>host_family</option></select> house rules can be hard to live with.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='strict' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Feelings & Daily Life</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: respectful, homesick, foreign, deal_with, housework</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. You must be <select class='vocab-select'><option value=''>── select ──</option><option value='respectful'>respectful</option><option value='homesick'>homesick</option><option value='foreign'>foreign</option><option value='deal_with'>deal_with</option><option value='housework'>housework</option></select> and quiet when you come home late.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='respectful' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Even in an exciting city, you might feel <select class='vocab-select'><option value=''>── select ──</option><option value='respectful'>respectful</option><option value='homesick'>homesick</option><option value='foreign'>foreign</option><option value='deal_with'>deal_with</option><option value='housework'>housework</option></select> when you are away from home.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='homesick' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. You have to learn how to <select class='vocab-select'><option value=''>── select ──</option><option value='respectful'>respectful</option><option value='homesick'>homesick</option><option value='foreign'>foreign</option><option value='deal_with'>deal_with</option><option value='housework'>housework</option></select> a different culture.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='deal_with' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Washing and cleaning are types of <select class='vocab-select'><option value=''>── select ──</option><option value='respectful'>respectful</option><option value='homesick'>homesick</option><option value='foreign'>foreign</option><option value='deal_with'>deal_with</option><option value='housework'>housework</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='housework' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. It is tiring to speak a <select class='vocab-select'><option value=''>── select ──</option><option value='respectful'>respectful</option><option value='homesick'>homesick</option><option value='foreign'>foreign</option><option value='deal_with'>deal_with</option><option value='housework'>housework</option></select> language all day.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='foreign' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ1: お金と支出</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 憂鬱な, パイント, 家具, 拒否された, 予算</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 自分の銀行残高が減っていくのを見るのは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='憂鬱な'>憂鬱な</option><option value='パイント'>パイント</option><option value='家具'>家具</option><option value='拒否された'>拒否された</option><option value='予算'>予算</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='憂鬱な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 朝食のために牛乳を1<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='憂鬱な'>憂鬱な</option><option value='パイント'>パイント</option><option value='家具'>家具</option><option value='拒否された'>拒否された</option><option value='予算'>予算</option></select>買う必要があります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='パイント' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 毎月の<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='憂鬱な'>憂鬱な</option><option value='パイント'>パイント</option><option value='家具'>家具</option><option value='拒否された'>拒否された</option><option value='予算'>予算</option></select>を計画することが不可欠です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='予算' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 私の新しいアパートは空っぽなので、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='憂鬱な'>憂鬱な</option><option value='パイント'>パイント</option><option value='家具'>家具</option><option value='拒否された'>拒否された</option><option value='予算'>予算</option></select>を買わなければなりません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='家具' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. いくつか家具を買った後、彼らは突然自分のカードが<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='憂鬱な'>憂鬱な</option><option value='パイント'>パイント</option><option value='家具'>家具</option><option value='拒否された'>拒否された</option><option value='予算'>予算</option></select>されることに気づきます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='拒否された' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ2: お金と行動</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 貸す, 借りる, 信じられないほど, 自立した, 鍵をかける</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 銀行は通常、好きなだけお金を<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='貸す'>貸す</option><option value='借りる'>借りる</option><option value='信じられないほど'>信じられないほど</option><option value='自立した'>自立した</option><option value='鍵をかける'>鍵をかける</option></select>ことに喜んで応じます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='貸す' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 返済できないならお金を<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='貸す'>貸す</option><option value='借りる'>借りる</option><option value='信じられないほど'>信じられないほど</option><option value='自立した'>自立した</option><option value='鍵をかける'>鍵をかける</option></select>べきではありません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='借りる' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 一人暮らしを始めると、より<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='貸す'>貸す</option><option value='借りる'>借りる</option><option value='信じられないほど'>信じられないほど</option><option value='自立した'>自立した</option><option value='鍵をかける'>鍵をかける</option></select>になります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='自立した' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 家を離れることは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='貸す'>貸す</option><option value='借りる'>借りる</option><option value='信じられないほど'>信じられないほど</option><option value='自立した'>自立した</option><option value='鍵をかける'>鍵をかける</option></select>興奮する瞬間です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='信じられないほど' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 内側から玄関のドアに<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='貸す'>貸す</option><option value='借りる'>借りる</option><option value='信じられないほど'>信じられないほど</option><option value='自立した'>自立した</option><option value='鍵をかける'>鍵をかける</option></select>ことを忘れないでください。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='鍵をかける' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ3: 一緒に暮らす</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: ルームシェア, 複雑な, 言い争う, 厳しい, ホストファミリー</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. スペースを共有することは非常に<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='ルームシェア'>ルームシェア</option><option value='複雑な'>複雑な</option><option value='言い争う'>言い争う</option><option value='厳しい'>厳しい</option><option value='ホストファミリー'>ホストファミリー</option></select>になることがあります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='複雑な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. トイレ掃除の順番について<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='ルームシェア'>ルームシェア</option><option value='複雑な'>複雑な</option><option value='言い争う'>言い争う</option><option value='厳しい'>厳しい</option><option value='ホストファミリー'>ホストファミリー</option></select>でしょう。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='言い争う' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. とても<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='ルームシェア'>ルームシェア</option><option value='複雑な'>複雑な</option><option value='言い争う'>言い争う</option><option value='厳しい'>厳しい</option><option value='ホストファミリー'>ホストファミリー</option></select>家の規則があるホストファミリーと暮らすのは難しいかもしれません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='ホストファミリー' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='ルームシェア'>ルームシェア</option><option value='複雑な'>複雑な</option><option value='言い争う'>言い争う</option><option value='厳しい'>厳しい</option><option value='ホストファミリー'>ホストファミリー</option></select>は友人と暮らす思いやりのある方法に聞こえるかもしれませんが、友人を失う最も簡単な方法であることがよくあります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='ルームシェア' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 非常に<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='ルームシェア'>ルームシェア</option><option value='複雑な'>複雑な</option><option value='言い争う'>言い争う</option><option value='厳しい'>厳しい</option><option value='ホストファミリー'>ホストファミリー</option></select>家の規則があるホストファミリーと暮らすのは難しいかもしれません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='厳しい' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ4: 感情と日常生活</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 敬意を払う, ホームシック, 外国の, 対処する, 家事</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 夜遅く帰宅するときは、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='敬意を払う'>敬意を払う</option><option value='ホームシック'>ホームシック</option><option value='外国の'>外国の</option><option value='対処する'>対処する</option><option value='家事'>家事</option></select>静かにしなければなりません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='敬意を払う' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. エキサイティングな街でも、家を離れていると<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='敬意を払う'>敬意を払う</option><option value='ホームシック'>ホームシック</option><option value='外国の'>外国の</option><option value='対処する'>対処する</option><option value='家事'>家事</option></select>を感じることがあります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='ホームシック' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 異なる文化に<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='敬意を払う'>敬意を払う</option><option value='ホームシック'>ホームシック</option><option value='外国の'>外国の</option><option value='対処する'>対処する</option><option value='家事'>家事</option></select>方法を学ばなければなりません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='対処する' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 洗濯や掃除は<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='敬意を払う'>敬意を払う</option><option value='ホームシック'>ホームシック</option><option value='外国の'>外国の</option><option value='対処する'>対処する</option><option value='家事'>家事</option></select>の一種です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='家事' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 一日中<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='敬意を払う'>敬意を払う</option><option value='ホームシック'>ホームシック</option><option value='外国の'>外国の</option><option value='対処する'>対処する</option><option value='家事'>家事</option></select>語を話すのは疲れます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='外国の' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1: Argent et dépenses</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: déprimant, pinte, meubles, rejeté, budget</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Voir son solde bancaire diminuer est <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='déprimant'>déprimant</option><option value='pinte'>pinte</option><option value='meubles'>meubles</option><option value='rejeté'>rejeté</option><option value='budget'>budget</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='déprimant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. J'ai besoin d'acheter une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='déprimant'>déprimant</option><option value='pinte'>pinte</option><option value='meubles'>meubles</option><option value='rejeté'>rejeté</option><option value='budget'>budget</option></select> de lait pour le petit-déjeuner.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='pinte' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Il est essentiel de planifier un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='déprimant'>déprimant</option><option value='pinte'>pinte</option><option value='meubles'>meubles</option><option value='rejeté'>rejeté</option><option value='budget'>budget</option></select> mensuel.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='budget' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Mon nouvel appartement est vide, donc j'ai besoin d'acheter des <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='déprimant'>déprimant</option><option value='pinte'>pinte</option><option value='meubles'>meubles</option><option value='rejeté'>rejeté</option><option value='budget'>budget</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='meubles' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. Après avoir acheté quelques meubles, ils découvrent soudain que leur carte est <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='déprimant'>déprimant</option><option value='pinte'>pinte</option><option value='meubles'>meubles</option><option value='rejeté'>rejeté</option><option value='budget'>budget</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='rejeté' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2: Argent et actions</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: prêter, emprunter, incroyablement, indépendant, verrouiller</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Les banques sont généralement heureuses de vous <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='prêter'>prêter</option><option value='emprunter'>emprunter</option><option value='incroyablement'>incroyablement</option><option value='indépendant'>indépendant</option><option value='verrouiller'>verrouiller</option></select> autant que vous voulez.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='prêter' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Vous ne devriez pas <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='prêter'>prêter</option><option value='emprunter'>emprunter</option><option value='incroyablement'>incroyablement</option><option value='indépendant'>indépendant</option><option value='verrouiller'>verrouiller</option></select> d'argent si vous ne pouvez pas le rembourser.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='emprunter' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Déménager vous rend plus <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='prêter'>prêter</option><option value='emprunter'>emprunter</option><option value='incroyablement'>incroyablement</option><option value='indépendant'>indépendant</option><option value='verrouiller'>verrouiller</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='indépendant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Quitter la maison est un moment <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='prêter'>prêter</option><option value='emprunter'>emprunter</option><option value='incroyablement'>incroyablement</option><option value='indépendant'>indépendant</option><option value='verrouiller'>verrouiller</option></select> excitant.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='incroyablement' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. N'oubliez pas de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='prêter'>prêter</option><option value='emprunter'>emprunter</option><option value='incroyablement'>incroyablement</option><option value='indépendant'>indépendant</option><option value='verrouiller'>verrouiller</option></select> la porte d'entrée de l'intérieur.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='verrouiller' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3: Vivre ensemble</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: colocation, compliqué, se disputer, strict, famille d'accueil</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Partager un espace peut être très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='colocation'>colocation</option><option value='compliqué'>compliqué</option><option value='se disputer'>se disputer</option><option value='strict'>strict</option><option value='famille d'accueil'>famille d'accueil</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='compliqué' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Vous <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='colocation'>colocation</option><option value='compliqué'>compliqué</option><option value='se disputer'>se disputer</option><option value='strict'>strict</option><option value='famille d'accueil'>famille d'accueil</option></select> pour savoir à qui c'est le tour de nettoyer les toilettes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='se disputer' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='colocation'>colocation</option><option value='compliqué'>compliqué</option><option value='se disputer'>se disputer</option><option value='strict'>strict</option><option value='famille d'accueil'>famille d'accueil</option></select> avec des règles de maison très strictes peut être difficile à vivre.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='famille d'accueil' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. La <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='colocation'>colocation</option><option value='compliqué'>compliqué</option><option value='se disputer'>se disputer</option><option value='strict'>strict</option><option value='famille d'accueil'>famille d'accueil</option></select> peut sembler une façon attentionnée de vivre avec des amis, mais c'est souvent la façon la plus rapide de les perdre.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='colocation' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. Une famille d'accueil avec des règles de maison très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='colocation'>colocation</option><option value='compliqué'>compliqué</option><option value='se disputer'>se disputer</option><option value='strict'>strict</option><option value='famille d'accueil'>famille d'accueil</option></select> peut être difficile à vivre.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='strict' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4: Sentiments et vie quotidienne</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: respectueux, nostalgique, étranger, faire face à, ménage</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Vous devez être <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='respectueux'>respectueux</option><option value='nostalgique'>nostalgique</option><option value='étranger'>étranger</option><option value='faire face à'>faire face à</option><option value='ménage'>ménage</option></select> et silencieux quand vous rentrez tard.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='respectueux' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Même dans une ville excitante, vous pourriez vous sentir <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='respectueux'>respectueux</option><option value='nostalgique'>nostalgique</option><option value='étranger'>étranger</option><option value='faire face à'>faire face à</option><option value='ménage'>ménage</option></select> loin de chez vous.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='nostalgique' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Vous devez apprendre à <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='respectueux'>respectueux</option><option value='nostalgique'>nostalgique</option><option value='étranger'>étranger</option><option value='faire face à'>faire face à</option><option value='ménage'>ménage</option></select> une culture différente.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='faire face à' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Laver et nettoyer sont des types de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='respectueux'>respectueux</option><option value='nostalgique'>nostalgique</option><option value='étranger'>étranger</option><option value='faire face à'>faire face à</option><option value='ménage'>ménage</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='ménage' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. Il est fatigant de parler une langue <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='respectueux'>respectueux</option><option value='nostalgique'>nostalgique</option><option value='étranger'>étranger</option><option value='faire face à'>faire face à</option><option value='ménage'>ménage</option></select> toute la journée.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='étranger' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 돈과 지출</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 우울한, 파인트, 가구, 거부된, 예산</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 은행 잔고가 줄어드는 것을 보는 것은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='우울한'>우울한</option><option value='파인트'>파인트</option><option value='가구'>가구</option><option value='거부된'>거부된</option><option value='예산'>예산</option></select> 일입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='우울한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 아침 식사를 위해 우유 1<select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='우울한'>우울한</option><option value='파인트'>파인트</option><option value='가구'>가구</option><option value='거부된'>거부된</option><option value='예산'>예산</option></select>를 사야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='파인트' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 매월 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='우울한'>우울한</option><option value='파인트'>파인트</option><option value='가구'>가구</option><option value='거부된'>거부된</option><option value='예산'>예산</option></select>을 계획하는 것이 필수적입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='예산' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 제 새 아파트가 비어 있어서 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='우울한'>우울한</option><option value='파인트'>파인트</option><option value='가구'>가구</option><option value='거부된'>거부된</option><option value='예산'>예산</option></select>를 사야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='가구' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 가구를 산 후, 갑자기 카드가 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='우울한'>우울한</option><option value='파인트'>파인트</option><option value='가구'>가구</option><option value='거부된'>거부된</option><option value='예산'>예산</option></select>된다는 것을 알게 됩니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='거부된' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 돈과 행동</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 빌려주다, 빌리다, 믿을 수 없을 정도로, 독립적인, 잠그다</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 은행은 일반적으로 당신이 원하는 만큼 돈을 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='빌려주다'>빌려주다</option><option value='빌리다'>빌리다</option><option value='믿을 수 없을 정도로'>믿을 수 없을 정도로</option><option value='독립적인'>독립적인</option><option value='잠그다'>잠그다</option></select> 기쁩니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='빌려주다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 갚을 수 없다면 돈을 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='빌려주다'>빌려주다</option><option value='빌리다'>빌리다</option><option value='믿을 수 없을 정도로'>믿을 수 없을 정도로</option><option value='독립적인'>독립적인</option><option value='잠그다'>잠그다</option></select>면 안 됩니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='빌리다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 이사하는 것은 당신을 더 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='빌려주다'>빌려주다</option><option value='빌리다'>빌리다</option><option value='믿을 수 없을 정도로'>믿을 수 없을 정도로</option><option value='독립적인'>독립적인</option><option value='잠그다'>잠그다</option></select>으로 만듭니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='독립적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 집을 떠나는 것은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='빌려주다'>빌려주다</option><option value='빌리다'>빌리다</option><option value='믿을 수 없을 정도로'>믿을 수 없을 정도로</option><option value='독립적인'>독립적인</option><option value='잠그다'>잠그다</option></select> 흥미진진한 순간입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='믿을 수 없을 정도로' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 안쪽에서 현관문을 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='빌려주다'>빌려주다</option><option value='빌리다'>빌리다</option><option value='믿을 수 없을 정도로'>믿을 수 없을 정도로</option><option value='독립적인'>독립적인</option><option value='잠그다'>잠그다</option></select>는 것을 잊지 마세요.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='잠그다' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3: 함께 살기</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 룸메이트와 함께 살기, 복잡한, 말다툼하다, 엄격한, 홈스테이 가정</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 공간을 공유하는 것은 매우 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='룸메이트와 함께 살기'>룸메이트와 함께 살기</option><option value='복잡한'>복잡한</option><option value='말다툼하다'>말다툼하다</option><option value='엄격한'>엄격한</option><option value='홈스테이 가정'>홈스테이 가정</option></select> 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='복잡한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 화장실 청소 순서에 대해 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='룸메이트와 함께 살기'>룸메이트와 함께 살기</option><option value='복잡한'>복잡한</option><option value='말다툼하다'>말다툼하다</option><option value='엄격한'>엄격한</option><option value='홈스테이 가정'>홈스테이 가정</option></select> 것입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='말다툼하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 매우 엄격한 집 규칙을 가진 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='룸메이트와 함께 살기'>룸메이트와 함께 살기</option><option value='복잡한'>복잡한</option><option value='말다툼하다'>말다툼하다</option><option value='엄격한'>엄격한</option><option value='홈스테이 가정'>홈스테이 가정</option></select>과 함께 사는 것은 어려울 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='홈스테이 가정' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='룸메이트와 함께 살기'>룸메이트와 함께 살기</option><option value='복잡한'>복잡한</option><option value='말다툼하다'>말다툼하다</option><option value='엄격한'>엄격한</option><option value='홈스테이 가정'>홈스테이 가정</option></select>은 친구들과 함께 사는 사려 깊은 방법처럼 들릴 수 있지만, 종종 친구를 잃는 가장 쉬운 방법입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='룸메이트와 함께 살기' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 매우 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='룸메이트와 함께 살기'>룸메이트와 함께 살기</option><option value='복잡한'>복잡한</option><option value='말다툼하다'>말다툼하다</option><option value='엄격한'>엄격한</option><option value='홈스테이 가정'>홈스테이 가정</option></select> 집 규칙을 가진 홈스테이 가정과 함께 사는 것은 어려울 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='엄격한' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4: 감정과 일상생활</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 예의 바른, 향수병에 걸린, 외국의, 대처하다, 집안일</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 늦게 귀가할 때는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='예의 바른'>예의 바른</option><option value='향수병에 걸린'>향수병에 걸린</option><option value='외국의'>외국의</option><option value='대처하다'>대처하다</option><option value='집안일'>집안일</option></select> 조용히 해야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='예의 바른' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 흥미진진한 도시에서도, 집을 떠나 있으면 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='예의 바른'>예의 바른</option><option value='향수병에 걸린'>향수병에 걸린</option><option value='외국의'>외국의</option><option value='대처하다'>대처하다</option><option value='집안일'>집안일</option></select>을 느낄 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='향수병에 걸린' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 다른 문화에 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='예의 바른'>예의 바른</option><option value='향수병에 걸린'>향수병에 걸린</option><option value='외국의'>외국의</option><option value='대처하다'>대처하다</option><option value='집안일'>집안일</option></select> 방법을 배워야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='대처하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 빨래와 청소는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='예의 바른'>예의 바른</option><option value='향수병에 걸린'>향수병에 걸린</option><option value='외국의'>외국의</option><option value='대처하다'>대처하다</option><option value='집안일'>집안일</option></select>의 일종입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='집안일' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 하루 종일 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='예의 바른'>예의 바른</option><option value='향수병에 걸린'>향수병에 걸린</option><option value='외국의'>외국의</option><option value='대처하다'>대처하다</option><option value='집안일'>집안일</option></select> 언어를 말하는 것은 피곤합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='외국의' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "The text mentions that living away from home is often harder than it first appears. <b>What are the specific financial and practical challenges a young person faces when they move out for the first time?</b>",
+    "ja": "テキストは、家を離れて暮らすことは最初に思われるよりも難しいことが多いと述べています。<b>若者が初めて家を出るときに直面する具体的な経済的・実用的な課題は何ですか？</b>",
+    "fr": "Le texte mentionne que vivre loin de chez soi est souvent plus difficile qu'il n'y paraît au premier abord. <b>Quels sont les défis financiers et pratiques spécifiques auxquels un jeune est confronté lorsqu'il quitte la maison pour la première fois ?</b>",
+    "ko": "텍스트는 집을 떠나 사는 것이 처음 보이는 것보다 종종 더 어렵다고 언급합니다. <b>젊은이가 처음으로 이사할 때 직면하는 구체적인 재정적, 실용적 어려움은 무엇인가요?</b>"
+  },
+  "content_check_keywords": {
+    "en": "budget, bills, furniture, running a house, cooking, frozen meals, housework",
+    "ja": "予算, 請求書, 家具, 家を切り盛り, 料理, 冷凍食品, 家事",
+    "fr": "budget, factures, meubles, gérer une maison, cuisine, plats surgelés, ménage",
+    "ko": "예산, 공과금, 가구, 집 운영, 요리, 냉동 식품, 가사"
+  },
+  "content_check_placeholder": {
+    "en": "Write 1-2 sentences about financial or practical challenges based on the text...",
+    "ja": "テキストに基づいて、経済的または実用的な課題について1-2文書いてください...",
+    "fr": "Écrivez 1-2 phrases sur les défis financiers ou pratiques basés sur le texte...",
+    "ko": "텍스트를 바탕으로 재정적 또는 실용적 어려움에 대해 1-2문장 작성하세요..."
+  },
+  "deepening_question": {
+    "en": "Sharing a flat or staying with a <b>host family</b> involves following strict <b>house rules</b>, such as cleaning duties or guest policies. The text suggests that flat-sharing is the \"easiest way to lose friends\" if you don't communicate well.<br><br><b>In your opinion, which is better: living alone and paying more money, or sharing a flat with friends to save money? Give one reason for your choice.</b>",
+    "ja": "フラットシェアや<b>ホストファミリー</b>との滞在には、掃除当番やゲストポリシーなどの厳格な<b>家のルール</b>を守ることが含まれます。テキストは、コミュニケーションがうまくいかない場合、フラットシェアは「友人を失う最も簡単な方法」であると示唆しています。<br><br><b>あなたの意見では、どちらが良いですか：お金を多く払って一人で暮らすこと、それともお金を節約するために友人とフラットシェアすること？あなたの選択の理由を一つ挙げてください。</b>",
+    "fr": "Partager un appartement ou séjourner dans une <b>famille d'accueil</b> implique de suivre des <b>règles de maison</b> strictes, comme les tâches de nettoyage ou les politiques concernant les invités. Le texte suggère que la colocation est la \"façon la plus simple de perdre des amis\" si vous ne communiquez pas bien.<br><br><b>À votre avis, qu'est-ce qui est le mieux : vivre seul et payer plus d'argent, ou partager un appartement avec des amis pour économiser de l'argent ? Donnez une raison pour votre choix.</b>",
+    "ko": "플랫을 공유하거나 <b>호스트 패밀리</b>와 함께 지내는 것은 청소 당번이나 게스트 정책과 같은 엄격한 <b>집 규칙</b>을 따르는 것을 포함합니다. 텍스트는 의사소통이 원활하지 않으면 플랫 셰어링이 \"친구를 잃는 가장 쉬운 방법\"이라고 제안합니다.<br><br><b>여러분의 의견으로는 무엇이 더 좋습니까: 돈을 더 내고 혼자 사는 것, 아니면 돈을 절약하기 위해 친구들과 플랫을 공유하는 것? 선택한 이유를 하나 들어주세요.</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I prefer living alone / sharing a flat because...",
+    "ja": "私は一人暮らし/フラットシェアを選びます。なぜなら...",
+    "fr": "Je préfère vivre seul / partager un appartement parce que...",
+    "ko": "저는 혼자 사는 것/플랫을 공유하는 것을 선호합니다. 왜냐하면..."
+  },
+  "critical_question": {
+    "en": "We have explored how independence brings both <b>freedom</b> (eating what you like, coming home late) and <b>responsibility</b> (managing a budget, cooking healthy meals). We also learned that <b>social life</b> and <b>respecting rules</b> are essential for a happy home.<br><br><b>What do you think is the most important skill for a young person to learn before they leave home? Is it a \"practical skill\" (like cooking or fixing things) or a \"social skill\" (like managing arguments or respecting others' space)? <br>Support your answer by comparing the \"freedom of living alone\" with the \"reality of running a house\" discussed in Unit 6.</b>",
+    "ja": "私たちは、自立がどのように<b>自由</b>（好きなものを食べる、夜遅く帰宅する）と<b>責任</b>（予算管理、健康的な食事の調理）の両方をもたらすかを探求しました。また、<b>社会生活</b>と<b>ルールを守ること</b>が幸せな家庭に不可欠であることを学びました。<br><br><b>若者が家を離れる前に学ぶべき最も重要なスキルは何だと思いますか？それは「実用的スキル」（料理や修理など）ですか、それとも「社会的スキル」（口論の管理や他者のスペースの尊重など）ですか？<br>ユニット6で議論された「一人暮らしの自由」と「家を運営する現実」を比較してあなたの答えを裏付けてください。</b>",
+    "fr": "Nous avons exploré comment l'indépendance apporte à la fois <b>liberté</b> (manger ce que vous aimez, rentrer tard) et <b>responsabilité</b> (gérer un budget, cuisiner des repas sains). Nous avons également appris que la <b>vie sociale</b> et le <b>respect des règles</b> sont essentiels pour un foyer heureux.<br><br><b>Selon vous, quelle est la compétence la plus importante qu'un jeune devrait apprendre avant de quitter la maison ? S'agit-il d'une \"compétence pratique\" (comme cuisiner ou réparer des choses) ou d'une \"compétence sociale\" (comme gérer les disputes ou respecter l'espace des autres) ? <br>Étayez votre réponse en comparant la \"liberté de vivre seul\" à la \"réalité de gérer une maison\" abordée dans l'Unité 6.</b>",
+    "ko": "우리는 독립이 어떻게 <b>자유</b>(원하는 음식 먹기, 늦게 귀가하기)와 <b>책임</b>(예산 관리, 건강한 식사 요리)을 모두 가져오는지 탐구했습니다. 또한 <b>사회 생활</b>과 <b>규칙 존중</b>이 행복한 가정에 필수적임을 배웠습니다.<br><br><b>여러분은 젊은이가 집을 떠나기 전에 배워야 할 가장 중요한 기술이 무엇이라고 생각하나요? 그것은 \"실용적 기술\"(요리나 수리 등)인가요, 아니면 \"사회적 기술\"(말다툼 관리나 타인의 공간 존중 등)인가요?<br>유닛 6에서 논의된 \"혼자 사는 자유\"와 \"집을 운영하는 현실\"을 비교하여 답변을 뒷받침하세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "Synthesize the ideas of freedom and responsibility. Compare practical vs. social skills based on the reading...",
+    "ja": "自由と責任の概念を統合してください。リーディングに基づいて実用的スキルと社会的スキルを比較してください...",
+    "fr": "Synthétisez les idées de liberté et de responsabilité. Comparez les compétences pratiques et sociales basées sur la lecture...",
+    "ko": "자유와 책임의 개념을 종합하세요. 읽기 자료를 바탕으로 실용적 기술과 사회적 기술을 비교하세요..."
+  }
+}

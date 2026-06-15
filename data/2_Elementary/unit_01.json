@@ -1,0 +1,594 @@
+{
+    "title": {
+    "en": "Hello and Goodbye",
+    "ja": "こんにちはとさようなら",
+    "fr": "Bonjour et Au revoir",
+    "ko": "인사와 작별"
+  },
+      "topic": {
+    "en": "Greetings · Introductions · Saying goodbye · Talking about yourself",
+    "ja": "挨拶 · 自己紹介 · 別れの挨拶 · 自分のことを話す",
+    "fr": "Salutations · Présentations · Dire au revoir · Parler de soi",
+    "ko": "인사 · 자기소개 · 작별 인사 · 자신에 대해 말하기"
+  },
+  "core_title": {
+    "en": "Meeting and Greeting",
+    "ja": "出会いと挨拶",
+    "fr": "Rencontrer et saluer",
+    "ko": "만나고 인사하기"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>When you meet a new person, you say <strong class='vocab-link' id='text-hello' onclick='speakAndScroll(\"hello\", \"vocab-hello\")'>hello</strong>. Then you say your <strong class='vocab-link' id='text-name' onclick='speakAndScroll(\"name\", \"vocab-name\")'>name</strong>. For example, 'My name is Tom.' You can ask, 'Where are you from?' The other person can answer, 'I am from Paris.' You can also talk about your <strong class='vocab-link' id='text-family' onclick='speakAndScroll(\"family\", \"vocab-family\")'>family</strong>. For example, 'I have one sister.'</p><p>There are different <strong class='vocab-link' id='text-greeting' onclick='speakAndScroll(\"greeting\", \"vocab-greeting\")'>greeting</strong>s for different times. In the <strong class='vocab-link' id='text-morning' onclick='speakAndScroll(\"morning\", \"vocab-morning\")'>morning</strong>, say 'Good morning.' In the <strong class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>evening</strong>, say 'Good evening.' 'Hi' is for a <strong class='vocab-link' id='text-friend' onclick='speakAndScroll(\"friend\", \"vocab-friend\")'>friend</strong>. You can ask, 'How are you?' You can answer, 'I am fine. Thank you.'</p><p>To end a talk, you say <strong class='vocab-link' id='text-goodbye' onclick='speakAndScroll(\"goodbye\", \"vocab-goodbye\")'>goodbye</strong> or 'see you later.' On the <strong class='vocab-link' id='text-phone' onclick='speakAndScroll(\"phone\", \"vocab-phone\")'>phone</strong>, say 'Hello' first. Every <strong class='vocab-link' id='text-conversation' onclick='speakAndScroll(\"conversation\", \"vocab-conversation\")'>conversation</strong> is a good way to <strong class='vocab-link' id='text-learn' onclick='speakAndScroll(\"learn\", \"vocab-learn\")'>learn</strong> about other people and places.</p>",
+    "ja": "<p style='margin-top:0;'>新しい人に会ったら、<strong class='vocab-link' id='text-konnichiwa' onclick='speakAndScroll(\"konnichiwa\", \"vocab-konnichiwa\")'>こんにちは</strong>と言います。次に自分の<strong class='vocab-link' id='text-namae' onclick='speakAndScroll(\"namae\", \"vocab-namae\")'>名前</strong>を言います。例えば、「私の名前は健太です。」「どちらから来ましたか？」と聞きます。相手は「パリから来ました。」と答えます。<strong class='vocab-link' id='text-kazoku' onclick='speakAndScroll(\"kazoku\", \"vocab-kazoku\")'>家族</strong>の話もできます。例えば、「妹が一人います。」</p><p>時間によって違う<strong class='vocab-link' id='text-aisatsu' onclick='speakAndScroll(\"aisatsu\", \"vocab-aisatsu\")'>挨拶</strong>があります。<strong class='vocab-link' id='text-asa' onclick='speakAndScroll(\"asa\", \"vocab-asa\")'>朝</strong>は「おはようございます」。<strong class='vocab-link' id='text-yoru' onclick='speakAndScroll(\"yoru\", \"vocab-yoru\")'>夜</strong>は「こんばんは」。「やあ」は<strong class='vocab-link' id='text-tomodachi' onclick='speakAndScroll(\"tomodachi\", \"vocab-tomodachi\")'>友達</strong>に使います。「お元気ですか？」と聞いて、「はい、元気です。ありがとう。」と答えます。</p><p>話を終える時は、<strong class='vocab-link' id='text-sayonara' onclick='speakAndScroll(\"sayonara\", \"vocab-sayonara\")'>さようなら</strong>または「またね」と言います。<strong class='vocab-link' id='text-denwa' onclick='speakAndScroll(\"denwa\", \"vocab-denwa\")'>電話</strong>では、最初に「もしもし」と言います。どの<strong class='vocab-link' id='text-kaiwa' onclick='speakAndScroll(\"kaiwa\", \"vocab-kaiwa\")'>会話</strong>も、他の人や場所について<strong class='vocab-link' id='text-manabu' onclick='speakAndScroll(\"manabu\", \"vocab-manabu\")'>学ぶ</strong>良い方法です。</p>",
+    "fr": "<p style='margin-top:0;'>Quand vous rencontrez une nouvelle personne, vous dites <strong class='vocab-link' id='text-bonjour' onclick='speakAndScroll(\"bonjour\", \"vocab-bonjour\")'>bonjour</strong>. Ensuite, vous dites votre <strong class='vocab-link' id='text-nom' onclick='speakAndScroll(\"nom\", \"vocab-nom\")'>nom</strong>. Par exemple, « Je m'appelle Tom. » Vous demandez, « D'où venez-vous ? » L'autre personne répond, « Je viens de Paris. » Vous pouvez aussi parler de votre <strong class='vocab-link' id='text-famille' onclick='speakAndScroll(\"famille\", \"vocab-famille\")'>famille</strong>. Par exemple, « J'ai une sœur. »</p><p>Il y a différentes <strong class='vocab-link' id='text-salutation' onclick='speakAndScroll(\"salutation\", \"vocab-salutation\")'>salutation</strong>s pour différents moments. Le <strong class='vocab-link' id='text-matin' onclick='speakAndScroll(\"matin\", \"vocab-matin\")'>matin</strong>, dites « Bonjour. » Le <strong class='vocab-link' id='text-soir' onclick='speakAndScroll(\"soir\", \"vocab-soir\")'>soir</strong>, dites « Bonsoir. » « Salut » est pour un <strong class='vocab-link' id='text-ami' onclick='speakAndScroll(\"ami\", \"vocab-ami\")'>ami</strong>. Vous demandez, « Comment allez-vous ? » Vous répondez, « Je vais bien. Merci. »</p><p>Pour finir une discussion, vous dites <strong class='vocab-link' id='text-au-revoir' onclick='speakAndScroll(\"au-revoir\", \"vocab-au-revoir\")'>au revoir</strong> ou « à plus tard. » Au <strong class='vocab-link' id='text-telephone' onclick='speakAndScroll(\"telephone\", \"vocab-telephone\")'>téléphone</strong>, dites « Allô » d'abord. Chaque <strong class='vocab-link' id='text-conversation' onclick='speakAndScroll(\"conversation\", \"vocab-conversation\")'>conversation</strong> est une bonne façon d'<strong class='vocab-link' id='text-apprendre' onclick='speakAndScroll(\"apprendre\", \"vocab-apprendre\")'>apprendre</strong> sur les autres et les endroits.</p>",
+    "ko": "<p style='margin-top:0;'>새로운 사람을 만나면 <strong class='vocab-link' id='text-annyeong' onclick='speakAndScroll(\"annyeong\", \"vocab-annyeong\")'>안녕하세요</strong>라고 말합니다. 그다음에 자신의 <strong class='vocab-link' id='text-ireum' onclick='speakAndScroll(\"ireum\", \"vocab-ireum\")'>이름</strong>을 말합니다. 예: '제 이름은 민준이에요.' '어디에서 왔어요?'라고 묻습니다. 상대방은 '저는 파리에서 왔어요.'라고 답합니다. <strong class='vocab-link' id='text-gajok' onclick='speakAndScroll(\"gajok\", \"vocab-gajok\")'>가족</strong> 이야기도 할 수 있습니다. 예: '여동생이 한 명 있어요.'</p><p>시간에 따라 다른 <strong class='vocab-link' id='text-insa' onclick='speakAndScroll(\"insa\", \"vocab-insa\")'>인사</strong>가 있습니다.<strong class='vocab-link' id='text-achim' onclick='speakAndScroll(\"achim\", \"vocab-achim\")'>아침</strong>에는 '좋은 아침입니다.' <strong class='vocab-link' id='text-jeonyeok' onclick='speakAndScroll(\"jeonyeok\", \"vocab-jeonyeok\")'>저녁</strong>에는 '좋은 저녁입니다.' '안녕'은 <strong class='vocab-link' id='text-chingu' onclick='speakAndScroll(\"chingu\", \"vocab-chingu\")'>친구</strong>에게 씁니다. '어떻게 지내세요?'라고 묻고 '잘 지내요. 감사합니다.'라고 답합니다.</p><p>이야기를 끝낼 때는 <strong class='vocab-link' id='text-annyeonghi-gaseyo' onclick='speakAndScroll(\"annyeonghi-gaseyo\", \"vocab-annyeonghi-gaseyo\")'>안녕히 가세요</strong> 또는 '다음에 봐'라고 말합니다.<strong class='vocab-link' id='text-jeonhwa' onclick='speakAndScroll(\"jeonhwa\", \"vocab-jeonhwa\")'>전화</strong>에서는 먼저 '여보세요?'라고 말합니다. 모든 <strong class='vocab-link' id='text-daehwa' onclick='speakAndScroll(\"daehwa\", \"vocab-daehwa\")'>대화</strong>는 다른 사람과 장소에 대해 <strong class='vocab-link' id='text-baeuda' onclick='speakAndScroll(\"baeuda\", \"vocab-baeuda\")'>배우는</strong> 좋은 방법입니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      { "id": "hello", "word": "Hello", "definition": "A word you say when you meet someone.", "pronunciation": "Hello" },
+      { "id": "name", "word": "Name", "definition": "The word people call you.", "pronunciation": "Name" },
+      { "id": "family", "word": "Family", "definition": "People like your parents, brothers, and sisters.", "pronunciation": "Family" },
+      { "id": "greeting", "word": "Greeting", "definition": "A word you say when you see someone.", "pronunciation": "Greeting" },
+      { "id": "morning", "word": "Morning", "definition": "The early part of the day.", "pronunciation": "Morning" },
+      { "id": "evening", "word": "Evening", "definition": "The late part of the day.", "pronunciation": "Evening" },
+      { "id": "friend", "word": "Friend", "definition": "Someone you like and play with.", "pronunciation": "Friend" },
+      { "id": "goodbye", "word": "Goodbye", "definition": "A word you say when you leave.", "pronunciation": "Goodbye" },
+      { "id": "phone", "word": "Phone", "definition": "A tool to talk to people far away.", "pronunciation": "Phone" },
+      { "id": "conversation", "word": "Conversation", "definition": "A talk between people.", "pronunciation": "Conversation" },
+      { "id": "learn", "word": "Learn", "definition": "To get new knowledge.", "pronunciation": "Learn" }
+    ],
+    "ja": [
+      { "id": "konnichiwa", "word": "こんにちは", "definition": "人に会った時に言う言葉。", "pronunciation": "こんにちは" },
+      { "id": "namae", "word": "名前", "definition": "その人を呼ぶ言葉。", "pronunciation": "なまえ" },
+      { "id": "kazoku", "word": "家族", "definition": "両親や兄弟などの人々。", "pronunciation": "かぞく" },
+      { "id": "aisatsu", "word": "挨拶", "definition": "人に会った時に言う言葉。", "pronunciation": "あいさつ" },
+      { "id": "asa", "word": "朝", "definition": "一日の早い時間。", "pronunciation": "あさ" },
+      { "id": "yoru", "word": "夜", "definition": "一日の遅い時間。", "pronunciation": "よる" },
+      { "id": "tomodachi", "word": "友達", "definition": "好きで一緒に遊ぶ人。", "pronunciation": "ともだち" },
+      { "id": "sayonara", "word": "さようなら", "definition": "別れる時に言う言葉。", "pronunciation": "さようなら" },
+      { "id": "denwa", "word": "電話", "definition": "遠くの人と話す道具。", "pronunciation": "でんわ" },
+      { "id": "kaiwa", "word": "会話", "definition": "人々の間の話。", "pronunciation": "かいわ" },
+      { "id": "manabu", "word": "学ぶ", "definition": "新しい知識を得る。", "pronunciation": "まなぶ" }
+    ],
+    "fr": [
+      { "id": "bonjour", "word": "Bonjour", "definition": "Un mot que l'on dit quand on rencontre quelqu'un.", "pronunciation": "Bonjour" },
+      { "id": "nom", "word": "Nom", "definition": "Le mot pour appeler une personne.", "pronunciation": "Nom" },
+      { "id": "famille", "word": "Famille", "definition": "Les parents, frères et sœurs.", "pronunciation": "Famille" },
+      { "id": "salutation", "word": "Salutation", "definition": "Un mot que l'on dit quand on voit quelqu'un.", "pronunciation": "Salutation" },
+      { "id": "matin", "word": "Matin", "definition": "Le début de la journée.", "pronunciation": "Matin" },
+      { "id": "soir", "word": "Soir", "definition": "La fin de la journée.", "pronunciation": "Soir" },
+      { "id": "ami", "word": "Ami", "definition": "Une personne que vous aimez.", "pronunciation": "Ami" },
+      { "id": "au-revoir", "word": "Au revoir", "definition": "Un mot pour dire au revoir.", "pronunciation": "Au revoir" },
+      { "id": "telephone", "word": "Téléphone", "definition": "Un outil pour parler loin.", "pronunciation": "Téléphone" },
+      { "id": "conversation", "word": "Conversation", "definition": "Une discussion.", "pronunciation": "Conversation" },
+      { "id": "apprendre", "word": "Apprendre", "definition": "Obtenir de nouvelles connaissances.", "pronunciation": "Apprendre" }
+    ],
+    "ko": [
+      { "id": "annyeong", "word": "안녕하세요", "definition": "사람을 만났을 때 하는 말.", "pronunciation": "안녕하세요" },
+      { "id": "ireum", "word": "이름", "definition": "사람을 부르는 말.", "pronunciation": "이름" },
+      { "id": "gajok", "word": "가족", "definition": "부모님, 형제, 자매 등.", "pronunciation": "가족" },
+      { "id": "insa", "word": "인사", "definition": "사람을 만났을 때 하는 말.", "pronunciation": "인사" },
+      { "id": "achim", "word": "아침", "definition": "하루의 이른 시간.", "pronunciation": "아침" },
+      { "id": "jeonyeok", "word": "저녁", "definition": "하루의 늦은 시간.", "pronunciation": "저녁" },
+      { "id": "chingu", "word": "친구", "definition": "함께 놀고 좋아하는 사람.", "pronunciation": "친구" },
+      { "id": "annyeonghi-gaseyo", "word": "안녕히 가세요", "definition": "헤어질 때 하는 말.", "pronunciation": "안녕히 가세요" },
+      { "id": "jeonhwa", "word": "전화", "definition": "멀리 있는 사람과 말하는 도구.", "pronunciation": "전화" },
+      { "id": "daehwa", "word": "대화", "definition": "사람들 사이의 이야기.", "pronunciation": "대화" },
+      { "id": "baeuda", "word": "배우다", "definition": "새로운 지식을 얻다.", "pronunciation": "배우다" }
+    ]
+  },
+  "listening_tracks": {
+            "en": [
+  {
+    "title": "Introductions",
+    "label": "Conversation 1: Meeting someone new",
+    "script": [
+      {
+        "speaker": "A",
+        "text": "Hello. My name's Richard. What's your name?"
+      },
+      {
+        "speaker": "B",
+        "text": "Kurt."
+      },
+      {
+        "speaker": "A",
+        "text": "Where are you from, Kurt?"
+      },
+      {
+        "speaker": "B",
+        "text": "I'm from Hamburg. Where are you from?"
+      },
+      {
+        "speaker": "A",
+        "text": "I'm from London."
+      }
+    ]
+  },
+  {
+    "title": "Telephone Conversation",
+    "label": "Conversation 2: A phone call",
+    "script": [
+      {
+        "speaker": "Edward",
+        "text": "Hello, extension 3442."
+      },
+      {
+        "speaker": "Mary",
+        "text": "Hello, Mary. This is Edward. How are you?"
+      },
+      {
+        "speaker": "Edward",
+        "text": "I'm fine, thank you. And you?"
+      },
+      {
+        "speaker": "Mary",
+        "text": "I'm OK, thanks."
+      }
+    ]
+  },
+  {
+    "title": "Goodbye",
+    "label": "Conversation 3: Saying goodbye",
+    "script": [
+      {
+        "speaker": "A",
+        "text": "Goodbye, Marcus."
+      },
+      {
+        "speaker": "B",
+        "text": "Goodbye, Bianca. Have a nice day."
+      },
+      {
+        "speaker": "A",
+        "text": "Thanks, Marcus. See you this evening!"
+      },
+      {
+        "speaker": "B",
+        "text": "Yes, at seven in the cinema."
+      }
+    ]
+  },
+  {
+    "title": "Hello Again",
+    "label": "Conversation 4: Meeting a friend",
+    "script": [
+      {
+        "speaker": "Leo",
+        "text": "Hi, Flora! It's me, Leo. How are you?"
+      },
+      {
+        "speaker": "Flora",
+        "text": "Not bad, thanks. And you?"
+      },
+      {
+        "speaker": "Leo",
+        "text": "Very well. How are the children?"
+      },
+      {
+        "speaker": "Flora",
+        "text": "They're fine."
+      }
+    ]
+  },
+  {
+    "title": "Yasmina",
+    "label": "Listening 1: A student from Egypt",
+    "script": [
+      {
+        "speaker": "Yasmina",
+        "text": "My name's Yasmina Kamal and I'm a student."
+      },
+      {
+        "speaker": "Yasmina",
+        "text": "I'm 19. I'm not married."
+      },
+      {
+        "speaker": "Yasmina",
+        "text": "I have one sister and two brothers."
+      },
+      {
+        "speaker": "Yasmina",
+        "text": "I live in a flat in Cairo, Egypt."
+      },
+      {
+        "speaker": "Yasmina",
+        "text": "I want to learn English because it's an international language."
+      }
+    ]
+  }
+],
+    "ja": [
+    {
+      "title": "みなさん、こんにちは！",
+      "label": "Conversation 1: 自己紹介",
+      "script": [
+        { "speaker": "A", "text": "こんにちは。私は健太です。お名前は何ですか。" },
+        { "speaker": "B", "text": "美咲です。" },
+        { "speaker": "A", "text": "美咲さんはどちらのご出身ですか。" },
+        { "speaker": "B", "text": "大阪です。健太さんは？" },
+        { "speaker": "A", "text": "東京です。" }
+      ]
+    },
+    {
+      "title": "さようなら",
+      "label": "Conversation 2: 別れのあいさつ",
+      "script": [
+        { "speaker": "A", "text": "じゃあ、またね、由美。" },
+        { "speaker": "B", "text": "さようなら、拓也。よい一日を。" },
+        { "speaker": "A", "text": "ありがとう。また今晩会おう。" },
+        { "speaker": "B", "text": "うん。七時に映画館でね。" }
+      ]
+    },
+    {
+      "title": "電話",
+      "label": "Conversation 3: 家族について話す",
+      "script": [
+        { "speaker": "A", "text": "もしもし。" },
+        { "speaker": "B", "text": "もしもし、花子さん？太郎です。元気ですか。" },
+        { "speaker": "A", "text": "はい、元気です。あなたは？" },
+        { "speaker": "B", "text": "元気ですよ。子どもたちはどうですか。" },
+        { "speaker": "A", "text": "みんな元気です。" }
+      ]
+    },
+    {
+      "title": "愛",
+      "label": "Listening 1: 日本の大学生",
+      "script": [
+        { "speaker": "愛", "text": "私の名前は佐藤愛です。大学生です。" },
+        { "speaker": "愛", "text": "20歳です。独身です。" },
+        { "speaker": "愛", "text": "兄が一人と妹が一人います。" },
+        { "speaker": "愛", "text": "神奈川県横浜市に住んでいます。" },
+        { "speaker": "愛", "text": "将来海外で働きたいので英語を勉強しています。" }
+      ]
+    }
+  ],
+
+  "fr": [
+    {
+      "title": "Bonjour tout le monde !",
+      "label": "Conversation 1: Faire connaissance",
+      "script": [
+        { "speaker": "A", "text": "Bonjour. Je m'appelle Pierre. Comment tu t'appelles ?" },
+        { "speaker": "B", "text": "Sophie." },
+        { "speaker": "A", "text": "Tu viens d'où, Sophie ?" },
+        { "speaker": "B", "text": "Je viens de Lyon. Et toi ?" },
+        { "speaker": "A", "text": "Je viens de Paris." }
+      ]
+    },
+    {
+      "title": "Au revoir",
+      "label": "Conversation 2: Se dire au revoir",
+      "script": [
+        { "speaker": "A", "text": "Au revoir, Claire." },
+        { "speaker": "B", "text": "Au revoir, Julien. Passe une bonne journée." },
+        { "speaker": "A", "text": "Merci. À ce soir !" },
+        { "speaker": "B", "text": "Oui, à sept heures au cinéma." }
+      ]
+    },
+    {
+      "title": "Un appel téléphonique",
+      "label": "Conversation 3: Prendre des nouvelles de la famille",
+      "script": [
+        { "speaker": "A", "text": "Allô ?" },
+        { "speaker": "B", "text": "Salut Marie, c'est Lucas. Comment vas-tu ?" },
+        { "speaker": "A", "text": "Ça va bien, merci. Et toi ?" },
+        { "speaker": "B", "text": "Très bien. Comment vont les enfants ?" },
+        { "speaker": "A", "text": "Ils vont très bien." }
+      ]
+    },
+    {
+      "title": "Camille",
+      "label": "Listening 1: Une étudiante française",
+      "script": [
+        { "speaker": "Camille", "text": "Je m'appelle Camille Martin et je suis étudiante." },
+        { "speaker": "Camille", "text": "J'ai vingt ans et je ne suis pas mariée." },
+        { "speaker": "Camille", "text": "J'ai un frère et une sœur." },
+        { "speaker": "Camille", "text": "J'habite à Toulouse, dans le sud de la France." },
+        { "speaker": "Camille", "text": "J'apprends l'anglais parce que c'est une langue internationale." }
+      ]
+    }
+  ],
+
+  "ko": [
+    {
+      "title": "안녕하세요 여러분!",
+      "label": "Conversation 1: 처음 만난 사람과 인사하기",
+      "script": [
+        { "speaker": "A", "text": "안녕하세요. 저는 민준이에요. 이름이 뭐예요?" },
+        { "speaker": "B", "text": "서연이에요." },
+        { "speaker": "A", "text": "서연 씨는 어디에서 왔어요?" },
+        { "speaker": "B", "text": "부산에서 왔어요. 민준 씨는요?" },
+        { "speaker": "A", "text": "서울에서 왔어요." }
+      ]
+    },
+    {
+      "title": "안녕히 가세요",
+      "label": "Conversation 2: 헤어질 때 인사하기",
+      "script": [
+        { "speaker": "A", "text": "안녕, 지은아." },
+        { "speaker": "B", "text": "안녕, 현우야. 좋은 하루 보내." },
+        { "speaker": "A", "text": "고마워. 오늘 저녁에 보자." },
+        { "speaker": "B", "text": "그래. 7시에 영화관에서 만나." }
+      ]
+    },
+    {
+      "title": "전화 통화",
+      "label": "Conversation 3: 가족 안부 묻기",
+      "script": [
+        { "speaker": "A", "text": "여보세요?" },
+        { "speaker": "B", "text": "안녕, 수진아. 나 지훈이야. 잘 지내?" },
+        { "speaker": "A", "text": "응, 잘 지내. 너는?" },
+        { "speaker": "B", "text": "나도 잘 지내. 아이들은 어때?" },
+        { "speaker": "A", "text": "다들 잘 지내." }
+      ]
+    },
+    {
+      "title": "지민",
+      "label": "Listening 1: 한국의 대학생",
+      "script": [
+        { "speaker": "지민", "text": "제 이름은 김지민이고 대학생입니다." },
+        { "speaker": "지민", "text": "스무 살이고 결혼하지 않았습니다." },
+        { "speaker": "지민", "text": "오빠 한 명과 여동생 한 명이 있습니다." },
+        { "speaker": "지민", "text": "대전의 아파트에서 가족과 함께 살고 있습니다." },
+        { "speaker": "지민", "text": "해외 여행과 공부를 위해 영어를 배우고 있습니다." }
+      ]
+    }
+  ]
+  },
+  "extra_reading_title": {
+    "en": "Hello and Goodbye",
+    "ja": "こんにちはとさようなら",
+    "fr": "Bonjour et Au revoir",
+    "ko": "인사와 작별"
+  },
+  "extra_reading_html": {
+    "en": "<p>In English, we say 'Hello' to start a conversation and 'Goodbye' to end it. There are many ways to say hello. 'Hi' is more informal. 'Good morning' is for the morning. 'Good afternoon' is for the afternoon. 'Good evening' is for the evening. To say goodbye, we say 'Bye', 'Goodbye', or 'See you later'. We also ask 'How are you?' to start a conversation. You can answer 'I'm fine, thank you', 'Very well', or 'Not bad'. Then you can ask 'And you?' to be polite.</p>",
+    "ja": "<p>日本語では、会話を始めるときに「こんにちは」、終わるときに「さようなら」と言います。カジュアルな挨拶としては「やあ」「どうも」などがあります。朝は「おはようございます」、昼は「こんにちは」、夜は「こんばんは」が一般的です。別れ際には「じゃあね」「また明日」「失礼します」も使われます。「おげんきですか？」と聞かれたら、「はい、げんきです」「まあまあです」などと答え、その後「あなたは？」と聞き返すと丁寧です。</p>",
+    "fr": "<p>En français, on dit « Bonjour » pour commencer une conversation et « Au revoir » pour la terminer. Le matin, on peut dire « Bon matin » (au Québec) ou simplement « Bonjour ». L'après-midi et le soir, « Bonsoir » est utilisé. Pour dire au revoir, on dit aussi « Salut », « À plus tard » ou « À bientôt ». On demande souvent « Comment allez-vous ? » (formel) ou « Ça va ? » (informel). On peut répondre « Ça va bien, merci », « Très bien » ou « Pas mal ». On ajoute « Et vous ? » ou « Et toi ? » par politesse.</p>",
+    "ko": "<p>한국어에서는 대화를 시작할 때 ‘안녕하세요’, 끝낼 때 ‘안녕히 가세요’ 또는 ‘안녕히 계세요’라고 말합니다. ‘안녕’은 친구 사이에 쓰는 인사입니다. 아침에는 ‘좋은 아침입니다’라고도 하지만, 일반적으로 시간에 관계없이 ‘안녕하세요’를 많이 씁니다. 헤어질 때는 ‘다음에 봐요’, ‘잘 가요’ 등도 사용합니다. ‘어떻게 지내세요?’라는 질문에는 ‘잘 지내요, 감사합니다’, ‘그럭저럭요’, ‘좋아요’ 등으로 답하고, 예의를 갖추어 ‘그쪽은요?’라고 되물을 수 있습니다.</p>"
+  },
+  "tf_quiz": {
+        "en": [
+      {
+        "question": "Paula is from Chicago.",
+        "correct": "F",
+        "explanation": "False. Rosa is from Chicago. Paula asks Rosa where she is from."
+      },
+      {
+        "question": "We use 'an' before the word 'apple'.",
+        "correct": "T",
+        "explanation": "True. 'Apple' starts with a vowel sound, so we use 'an'."
+      },
+      {
+        "question": "Lena and Miguel are from Spain.",
+        "correct": "F",
+        "explanation": "False. They are from Brazil. Maria is from Spain."
+      },
+      {
+        "question": "We say 'Good afternoon' in the evening.",
+        "correct": "F",
+        "explanation": "False. We say 'Good afternoon' in the afternoon. We say 'Good evening' in the evening."
+      },
+      {
+        "question": "A dictionary is an everyday object.",
+        "correct": "T",
+        "explanation": "True. The vocabulary section includes dictionary as an everyday object."
+      }
+    ],
+    "ja": [
+      {
+        "question": "日本語で「こんばんは」は朝の挨拶です。",
+        "correct": "F",
+        "explanation": "誤り。「こんばんは」は夜の挨拶です。朝は「おはようございます」と言います。"
+      },
+      {
+        "question": "「さようなら」は会話を終わらせる時に使います。",
+        "correct": "T",
+        "explanation": "正しい。「さようなら」は別れの挨拶で、会話や出会いの終わりに使います。"
+      },
+      {
+        "question": "「やあ」はフォーマルな挨拶です。",
+        "correct": "F",
+        "explanation": "誤り。「やあ」はカジュアルな挨拶で、友達同士で使います。"
+      },
+      {
+        "question": "「また明日」は別れの挨拶の一つです。",
+        "correct": "T",
+        "explanation": "正しい。「また明日」は「また明日会いましょう」という意味で、別れ際に使います。"
+      },
+      {
+        "question": "「おげんきですか？」に「はい、げんきです」と答えます。",
+        "correct": "T",
+        "explanation": "正しい。日本の一般的な会話で「お元気ですか？」には「元気です」などと答えます。"
+      }
+    ],
+    "fr": [
+      {
+        "question": "On dit « Bonsoir » le matin en français.",
+        "correct": "F",
+        "explanation": "Faux. « Bonsoir » se dit le soir. Le matin, on dit « Bonjour » ou « Bon matin »."
+      },
+      {
+        "question": "« Au revoir » est une façon de terminer une conversation.",
+        "correct": "T",
+        "explanation": "Vrai. « Au revoir » signifie qu'on quitte la personne, c'est une formule de fin de conversation."
+      },
+      {
+        "question": "« Salut » peut dire à la fois bonjour et au revoir.",
+        "correct": "T",
+        "explanation": "Vrai. « Salut » est informel et s'utilise pour dire bonjour ou au revoir. En France, c'est très courant entre amis."
+      },
+      {
+        "question": "La réponse à « Comment allez-vous ? » peut être « Pas mal ».",
+        "correct": "T",
+        "explanation": "Vrai. « Pas mal » est une réponse naturelle et courante en français."
+      },
+      {
+        "question": "On dit « À bientôt » pour dire bonjour.",
+        "correct": "F",
+        "explanation": "Faux. « À bientôt » signifie « goodbye for now », c'est une formule de séparation, pas un bonjour."
+      }
+    ],
+    "ko": [
+      {
+        "question": "한국어에서 ‘안녕’은 아침 인사로만 씁니다.",
+        "correct": "F",
+        "explanation": "틀렸습니다. ‘안녕’은 시간에 관계없이 친구 사이에서 편하게 쓰는 인사이며, 헤어질 때도 쓸 수 있습니다."
+      },
+      {
+        "question": "‘안녕히 가세요’는 손님이 집에 갈 때 손님이 하는 인사입니다.",
+        "correct": "F",
+        "explanation": "틀렸습니다. ‘안녕히 가세요’는 먼저 가는 사람에게 하는 인사로, 집에 머무는 사람이 가는 사람에게 하는 말입니다. 손님은 ‘안녕히 계세요’라고 합니다."
+      },
+      {
+        "question": "‘잘 가요’는 헤어질 때 쓰는 표현입니다.",
+        "correct": "T",
+        "explanation": "맞습니다. ‘잘 가요’는 비공식적인 상황에서 헤어질 때 쓰는 인사입니다."
+      },
+      {
+        "question": "‘어떻게 지내세요?’라는 질문에 ‘좋아요’라고 답할 수 있습니다.",
+        "correct": "T",
+        "explanation": "맞습니다. 상태를 묻는 질문에 ‘좋아요’, ‘잘 지내요’ 등으로 답할 수 있습니다."
+      },
+      {
+        "question": "한국어에서는 ‘그쪽은요?’라고 되물으면 무례한 표현입니다.",
+        "correct": "F",
+        "explanation": "틀렸습니다. ‘그쪽은요?’는 상대방에게 같은 질문을 돌려 예의를 갖추는 자연스러운 표현입니다."
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "What's your name?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "My name is...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>What's your name?</b> <b>My name is</b> Rosa.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Where are you from?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "I'm from...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Where are you from?</b> <b>I'm from</b> Chicago.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "How are you?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "I'm fine, thank you.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>How are you?</b> <b>I'm fine, thank you.</b> And you?",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "What's this in English?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "It's a...",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>What's this in English?</b> <b>It's a</b> dictionary.",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "grammar_html": {
+    "en": "<h3>1. Verb 'to be' (am/is/are)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use the verb 'to be' to talk about names, jobs, and where people are from.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• I am (I'm)</strong> from London.</li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• You/We/They are (You're/We're/They're)</strong> from Chicago.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• He/She/It is (He's/She's/It's)</strong> from Mexico.</li></ul><h3>2. Possessive Adjectives (my, your, his, her)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use possessive adjectives to show who owns something.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• my</strong> name / <strong style='color:#d35400;'>your</strong> name / <strong style='color:#d35400;'>his</strong> name / <strong style='color:#d35400;'>her</strong> name</li><li style='margin-bottom:15px;'>'What's <strong style='color:#d35400;'>her</strong> name?' '<strong style='color:#d35400;'>Her</strong> name is Tomoko.'</li><li style='margin-bottom:15px;'>'What's <strong style='color:#d35400;'>his</strong> name?' '<strong style='color:#d35400;'>His</strong> name is Richard.'</li></ul><h3>3. A vs An</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use '<strong>a</strong>' before a consonant sound. We use '<strong>an</strong>' before a vowel sound (a, e, i, o, u).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• a</strong> bag / <strong style='color:#16a085;'>a</strong> ticket / <strong style='color:#16a085;'>a</strong> dictionary</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• an</strong> apple / <strong style='color:#16a085;'>an</strong> orange / <strong style='color:#16a085;'>an</strong> English book</li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Verb 'to be'</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: am, is, are</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. I <select class='vocab-select'><option value=''>── select ──</option><option value='am'>am</option><option value='is'>is</option><option value='are'>are</option></select> from England.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='am' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. She <select class='vocab-select'><option value=''>── select ──</option><option value='am'>am</option><option value='is'>is</option><option value='are'>are</option></select> from Japan.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='is' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. We <select class='vocab-select'><option value=''>── select ──</option><option value='am'>am</option><option value='is'>is</option><option value='are'>are</option></select> from Brazil.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='are' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: A vs An</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: a, an</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. It is <select class='vocab-select'><option value=''>── select ──</option><option value='a'>a</option><option value='an'>an</option></select> bag.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='a' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. It is <select class='vocab-select'><option value=''>── select ──</option><option value='a'>a</option><option value='an'>an</option></select> apple.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='an' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>6. It is <select class='vocab-select'><option value=''>── select ──</option><option value='a'>a</option><option value='an'>an</option></select> English book.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='an' style='display:none;'></span></div></div>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+    "content_check_question": {
+    "en": "The text explains how to introduce yourself and others, talk about countries, and name everyday objects in English. <b>How do you introduce yourself and ask someone's name? How do you say where you are from? What is the difference between 'a' and 'an'?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "introduce, name, from, countries, a/an, everyday objects",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "Explain how to introduce yourself, ask for someone's name, talk about where you are from, and use a/an...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "The listening and reading texts show different ways to greet people and talk about where they are from. <b>How do you say hello and goodbye in your country? How are these different from English greetings? Do you have different greetings for the morning, afternoon, and evening?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "In my country, we say... This is different from English because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "In this unit, you learned to introduce yourself, talk about countries, and name everyday objects. <b>Why is it important to learn how to greet people and introduce yourself when you learn a new language? How can learning these basic phrases help you when you travel to an English-speaking country?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Learning to greet and introduce yourself is important because... These phrases help when travelling because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

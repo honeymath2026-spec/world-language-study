@@ -1,0 +1,1724 @@
+{
+  "title": {
+    "en": "CULTURE",
+    "ja": "文化",
+    "fr": "CULTURE",
+    "ko": "문화"
+  },
+  "topic": {
+    "en": "Global culture, film industry, music, art, cultural passions",
+    "ja": "世界の文化、映画産業、音楽、芸術、文化的な情熱",
+    "fr": "Culture mondiale, industrie cinématographique, musique, art, passions culturelles",
+    "ko": "세계 문화, 영화 산업, 음악, 예술, 문화적 열정"
+  },
+  "core_title": {
+    "en": "The Power of Culture: From Small Screens to Global Scenes",
+    "ja": "文化の力：小さなスクリーンから世界の舞台へ",
+    "fr": "Le Pouvoir de la Culture : Des Petits Écrans aux Scènes Mondiales",
+    "ko": "문화의 힘: 작은 스크린에서 글로벌 무대로"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>Culture is not just about visiting a museum; it is a living part of our daily lives that shapes who we are and how we connect with others. Across the globe, people <b>have been discovering</b> new ways to express their passions through music, film, and art. Whether it is a low-budget movie from Nigeria or a classical concert in Venezuela, the world of culture is <b>amazing</b> and full of <b>surprising</b> stories.</p><p>One of the most <strong><span class='vocab-link' id='text-fascinating' onclick='speakAndScroll(\"fascinating\", \"vocab-fascinating\")'>fascinating</span></strong> success stories in modern culture is the rise of \"Nollywood.\" It might be <b>surprising</b> to learn that the third biggest film industry in the world—behind the United States and India—is based in Nigeria. For decades, Nigerian filmmakers <b>have been producing</b> over 500 films a year. Unlike Hollywood movies, which take a year to film, these movies take an average of just ten days to complete! Because they are made on tiny budgets, many viewers are <b>amazed</b> that they can generate so much money. Nollywood is the home of voodoo horror movies, and although the special effects aren't like Harry Potter, the stories are never <b>boring</b>. In fact, fans <b>have been buying</b> these DVDs at street stalls for years because they offer a way to escape from the <b>tiring</b> problems of everyday life.</p><p>Similarly, music has the power to change lives. Take Gustavo, for example. He <b>has been playing</b> the trumpet for ten years with El Sistema, a program that helps young people from poor backgrounds. Without this opportunity, he might have been in a <strong><span class='vocab-link' id='text-depressing' onclick='speakAndScroll(\"depressing\", \"vocab-depressing\")'>depressing</span></strong> situation, but instead, he <b>has been</b> <strong><span class='vocab-link' id='text-rehearsing' onclick='speakAndScroll(\"rehearsing\", \"vocab-rehearsing\")'>rehearsing</span></strong> difficult Russian masterpieces like The Rite of Spring. He finds the music <b>fantastic</b> and believes it has given him a new future.</p><p>On the other hand, some people find their passion in modern pop culture. Peter, a dedicated music fan, <b>has been learning</b> Turkish for two years because he is <b>interested</b> in the singer Sertab Erener. After hearing her win the Eurovision Song Contest, he became <strong><span class='vocab-link' id='text-obsessed' onclick='speakAndScroll(\"obsessed\", \"vocab-obsessed\")'>obsessed</span></strong> with her voice. He has even traveled to Istanbul to see her sing live! For Peter, culture is not just something to watch; it is a reason to learn a new language and explore a <b>wonderful</b> new country.</p><p>However, culture also brings debate. When two friends discussed going to the movies after a <b>boring</b> lecture, they found that their tastes were very different. One friend had already seen the film Dust and Heat, but found it <b>disappointing</b> because the ending was too <strong><span class='vocab-link' id='text-predictable' onclick='speakAndScroll(\"predictable\", \"vocab-predictable\")'>predictable</span></strong>. While one was <b>excited</b> about a horror movie, the other felt <strong><span class='vocab-link' id='text-frightened' onclick='speakAndScroll(\"frightened\", \"vocab-frightened\")'>frightened</span></strong> by the genre and preferred something <b>lighter</b>. This shows that while some art is <strong><span class='vocab-link' id='text-brilliant' onclick='speakAndScroll(\"brilliant\", \"vocab-brilliant\")'>brilliant</span></strong> to one person, it can be <b>annoying</b> to another.</p><p>Even literature and fine art are changing. Zelda <b>has been watching</b> a TV series based on the detective Wallander, but she feels <b>annoyed</b> because the main character is different from her imagination. Meanwhile, Mary, an art student, <b>has been studying</b> sculpture and recently saw an <strong><span class='vocab-link' id='text-extraordinary' onclick='speakAndScroll(\"extraordinary\", \"vocab-extraordinary\")'>extraordinary</span></strong> <strong><span class='vocab-link' id='text-exhibition' onclick='speakAndScroll(\"exhibition\", \"vocab-exhibition\")'>exhibition</span></strong> by Giacometti. She was <b>fascinated</b> by his thin, strange sculptures.</p><p>In conclusion, whether we <b>have been reading</b> crime thrillers or <b>have been making</b> low-budget films, culture remains <b>essential</b>. It provides <b>incredible</b> wealth to some and <b>satisfied</b> feelings to others. As we continue exploring, we realize that the world of culture is far more <b>diverse</b> and <b>exciting</b> than we ever imagined.</p>",
+    "ja": "<p style='margin-top:0;'>文化とは単に美術館を訪れることではありません。それは私たちの日常生活の生きた一部であり、私たちが誰であるか、どのように他者とつながるかを形作ります。世界中で、人々は音楽、映画、芸術を通じて自分たちの情熱を表現する新しい方法を<b>発見し続けています</b>。それがナイジェリアの低予算映画であれ、ベネズエラのクラシックコンサートであれ、文化の世界は<b>素晴らしく</b>、<b>驚くべき</b>物語に満ちています。</p><p>現代文化における最も<strong><span class='vocab-link' id='text-fascinating' onclick='speakAndScroll(\"fascinating\", \"vocab-fascinating\")'>魅力的な</span></strong>成功物語の一つは、「ノリウッド」の台頭です。世界で3番目に大きい映画産業が—アメリカとインドに次いで—ナイジェリアにあると知れば、<b>驚く</b>かもしれません。数十年もの間、ナイジェリアの映画製作者たちは年間500本以上の映画を<b>制作し続けてきました</b>。撮影に1年かかるハリウッド映画とは異なり、これらの映画は平均わずか10日で完成します！わずかな予算で作られているにもかかわらず、これほど多くの収益を生み出せることに、多くの視聴者は<b>驚いています</b>。ノリウッドはブードゥーホラー映画の本場であり、特殊効果はハリー・ポッターのようではありませんが、物語が<b>退屈な</b>ことは決してありません。実際、ファンは何年もの間、路上の露店でこれらのDVDを<b>買い続けています</b>。なぜなら、それらは日常生活の<b>疲れる</b>問題から逃避する方法を提供してくれるからです。</p><p>同様に、音楽には人生を変える力があります。例えば、グスターボを見てみましょう。彼はエル・システマという恵まれない環境の若者たちがクラシック音楽を学ぶのを支援するプログラムで、10年間トランペットを<b>演奏し続けています</b>。この機会がなければ、彼は<strong><span class='vocab-link' id='text-depressing' onclick='speakAndScroll(\"depressing\", \"vocab-depressing\")'>憂鬱な</span></strong>状況にあったかもしれませんが、その代わりに、彼は『春の祭典』のような難しいロシアの名曲を<b>リハーサルし続けています</b>。彼はその音楽を<b>素晴らしい</b>と感じ、それが自分に新たな未来を与えてくれたと信じています。</p><p>一方で、現代のポップカルチャーに情熱を見出す人もいます。熱心な音楽ファンのピーターは、歌手セルタブ・エレネルに<b>興味を</b>持ったため、2年間トルコ語を<b>学び続けています</b>。彼女がユーロビジョン・ソング・コンテストで優勝するのを聞いてから、彼は彼女の声に<strong><span class='vocab-link' id='text-obsessed' onclick='speakAndScroll(\"obsessed\", \"vocab-obsessed\")'>夢中に</span></strong>なりました。彼は彼女の生の歌唱を見るためにイスタンブールに旅行したことさえあります！ピーターにとって、文化は単に鑑賞するものではありません。それは新しい言語を学び、<b>素晴らしい</b>新しい国を探検する理由なのです。</p><p>しかし、文化は議論ももたらします。<b>退屈な</b>講義の後に映画に行く話し合いをしていた二人の友人は、自分たちの好みが大きく異なることに気づきました。一人の友人はすでに『ダスト・アンド・ヒート』という映画を観ていましたが、結末が<strong><span class='vocab-link' id='text-predictable' onclick='speakAndScroll(\"predictable\", \"vocab-predictable\")'>予測可能</span></strong>すぎると感じて<b>失望</b>していました。一人がホラー映画に<b>興奮</b>している一方で、もう一人はそのジャンルに<strong><span class='vocab-link' id='text-frightened' onclick='speakAndScroll(\"frightened\", \"vocab-frightened\")'>怖がり</span></strong>、もっと<b>軽い</b>ものを好みました。これは、ある芸術が一人にとっては<strong><span class='vocab-link' id='text-brilliant' onclick='speakAndScroll(\"brilliant\", \"vocab-brilliant\")'>素晴らしく</span></strong>あっても、別の人にとっては<b>迷惑</b>になり得ることを示しています。</p><p>文学や美術さえも変化しています。ゼルダは探偵ヴァランダーを基にしたTVシリーズを<b>観続けています</b>が、主人公が自分の想像の中のキャラクターと違うため、<b>苛立ち</b>を感じています。一方、美術学生のメアリーは彫刻を<b>学び続けており</b>、最近ジャコメッティの<strong><span class='vocab-link' id='text-extraordinary' onclick='speakAndScroll(\"extraordinary\", \"vocab-extraordinary\")'>並外れた</span></strong><strong><span class='vocab-link' id='text-exhibition' onclick='speakAndScroll(\"exhibition\", \"vocab-exhibition\")'>展覧会</span></strong>を観ました。彼女は彼の細くて奇妙な彫刻に<b>魅了</b>されました。</p><p>結論として、私たちが犯罪スリラーを<b>読み続けて</b>いようと、低予算映画を<b>作り続けて</b>いようと、文化は<b>不可欠な</b>ものであり続けます。それはある人々には<b>信じられない</b>ほどの富をもたらし、他の人々には<b>満足した</b>感覚をもたらします。探求を続けるうちに、文化の世界はこれまで想像していたよりもはるかに<b>多様で</b>、<b>刺激的</b>であることに気づくのです。</p>",
+    "fr": "<p style='margin-top:0;'>La culture ne se limite pas à visiter un musée ; c'est une partie vivante de notre vie quotidienne qui façonne qui nous sommes et comment nous nous connectons aux autres. À travers le monde, les gens <b>ont découvert</b> de nouvelles façons d'exprimer leurs passions à travers la musique, le cinéma et l'art. Qu'il s'agisse d'un film à petit budget du Nigeria ou d'un concert classique au Venezuela, le monde de la culture est <b>étonnant</b> et plein d'histoires <b>surprenantes</b>.</p><p>L'une des histoires à succès les plus <strong><span class='vocab-link' id='text-fascinating' onclick='speakAndScroll(\"fascinating\", \"vocab-fascinating\")'>fascinantes</span></strong> de la culture moderne est l'essor de \"Nollywood\". Il pourrait être <b>surprenant</b> d'apprendre que la troisième plus grande industrie cinématographique du monde—derrière les États-Unis et l'Inde—est basée au Nigeria. Pendant des décennies, les cinéastes nigérians <b>ont produit</b> plus de 500 films par an. Contrairement aux films hollywoodiens, dont le tournage dure un an, ces films prennent en moyenne seulement dix jours à réaliser ! Parce qu'ils sont faits avec de tout petits budgets, de nombreux spectateurs sont <b>étonnés</b> qu'ils puissent générer autant d'argent. Nollywood est le berceau des films d'horreur vaudou, et bien que les effets spéciaux ne ressemblent pas à ceux d'Harry Potter, les histoires ne sont jamais <b>ennuyeuses</b>. En fait, les fans <b>achètent</b> ces DVD dans les étals de rue depuis des années parce qu'ils offrent un moyen d'échapper aux problèmes <b>fatigants</b> de la vie quotidienne.</p><p>De même, la musique a le pouvoir de changer des vies. Prenez Gustavo, par exemple. Il <b>joue</b> de la trompette depuis dix ans avec El Sistema, un programme qui aide les jeunes issus de milieux défavorisés à apprendre la musique classique. Sans cette opportunité, il aurait pu se trouver dans une situation <strong><span class='vocab-link' id='text-depressing' onclick='speakAndScroll(\"depressing\", \"vocab-depressing\")'>déprimante</span></strong>, mais au lieu de cela, il <b>a</b> <strong><span class='vocab-link' id='text-rehearsing' onclick='speakAndScroll(\"rehearsing\", \"vocab-rehearsing\")'>répété</span></strong> des chefs-d'œuvre russes difficiles comme Le Sacre du printemps. Il trouve la musique <b>fantastique</b> et croit qu'elle lui a donné un nouvel avenir.</p><p>D'un autre côté, certaines personnes trouvent leur passion dans la culture pop moderne. Peter, un fan de musique dévoué, <b>apprend</b> le turc depuis deux ans parce qu'il est <b>intéressé</b> par la chanteuse Sertab Erener. Après l'avoir entendue gagner le Concours Eurovision de la chanson, il est devenu <strong><span class='vocab-link' id='text-obsessed' onclick='speakAndScroll(\"obsessed\", \"vocab-obsessed\")'>obsédé</span></strong> par sa voix. Il a même voyagé à Istanbul pour la voir chanter en direct ! Pour Peter, la culture n'est pas seulement quelque chose à regarder ; c'est une raison d'apprendre une nouvelle langue et d'explorer un nouveau pays <b>merveilleux</b>.</p><p>Cependant, la culture suscite également des débats. Lorsque deux amis ont discuté d'aller au cinéma après un cours <b>ennuyeux</b>, ils ont constaté que leurs goûts étaient très différents. Un ami avait déjà vu le film Dust and Heat, mais l'avait trouvé <b>décevant</b> parce que la fin était trop <strong><span class='vocab-link' id='text-predictable' onclick='speakAndScroll(\"predictable\", \"vocab-predictable\")'>prévisible</span></strong>. Alors que l'un était <b>excitié</b> à l'idée d'un film d'horreur, l'autre se sentait <strong><span class='vocab-link' id='text-frightened' onclick='speakAndScroll(\"frightened\", \"vocab-frightened\")'>effrayé</span></strong> par le genre et préférait quelque chose de <b>plus léger</b>. Cela montre que si un art est <strong><span class='vocab-link' id='text-brilliant' onclick='speakAndScroll(\"brilliant\", \"vocab-brilliant\")'>brillant</span></strong> pour une personne, il peut être <b>agaçant</b> pour une autre.</p><p>Même la littérature et les beaux-arts changent. Zelda <b>regarde</b> une série télévisée basée sur le détective Wallander, mais elle se sent <b>agacée</b> parce que le personnage principal est différent de celui de son imagination. Pendant ce temps, Mary, une étudiante en art, <b>étudie</b> la sculpture et a récemment vu une <strong><span class='vocab-link' id='text-extraordinary' onclick='speakAndScroll(\"extraordinary\", \"vocab-extraordinary\")'>extraordinaire</span></strong> <strong><span class='vocab-link' id='text-exhibition' onclick='speakAndScroll(\"exhibition\", \"vocab-exhibition\")'>exposition</span></strong> de Giacometti. Elle a été <b>fascinée</b> par ses sculptures fines et étranges.</p><p>En conclusion, que nous <b>ayons lu</b> des thrillers policiers ou que nous <b>ayons fait</b> des films à petit budget, la culture reste <b>essentielle</b>. Elle fournit une richesse <b>incroyable</b> à certains et des sentiments de <b>satisfaction</b> à d'autres. En continuant à explorer, nous réalisons que le monde de la culture est bien plus <b>diversifié</b> et <b>excitant</b> que nous ne l'avions jamais imaginé.</p>",
+    "ko": "<p style='margin-top:0;'>문화는 단순히 박물관을 방문하는 것에 관한 것이 아닙니다. 그것은 우리가 누구인지, 어떻게 다른 사람들과 연결되는지를 형성하는 우리 일상 생활의 살아있는 일부입니다. 전 세계적으로 사람들은 음악, 영화, 예술을 통해 자신의 열정을 표현하는 새로운 방법을 <b>발견해 왔습니다</b>. 나이지리아의 저예산 영화이든 베네수엘라의 클래식 콘서트이든, 문화의 세계는 <b>놀랍고</b> <b>충격적인</b> 이야기로 가득 차 있습니다.</p><p>현대 문화에서 가장 <strong><span class='vocab-link' id='text-fascinating' onclick='speakAndScroll(\"fascinating\", \"vocab-fascinating\")'>매혹적인</span></strong> 성공 사례 중 하나는 '놀리우드'의 부상입니다. 세계에서 세 번째로 큰 영화 산업이—미국과 인도 다음으로—나이지리아에 있다는 사실을 알게 되면 <b>놀랄</b> 수도 있습니다. 수십 년 동안 나이지리아 영화 제작자들은 연간 500편이 넘는 영화를 <b>제작해 왔습니다</b>. 촬영에 1년이 걸리는 할리우드 영화와 달리, 이 영화들은 평균 단 10일 만에 완성됩니다! 적은 예산으로 제작되지만, 많은 시청자들은 이 영화들이 그렇게 많은 수익을 창출할 수 있다는 사실에 <b>놀라워합니다</b>. 놀리우드는 부두 호러 영화의 본고장이며, 특수 효과는 해리 포터와 같지 않지만, 이야기가 <b>지루한</b> 법은 결코 없습니다. 실제로 팬들은 수년 동안 노점에서 이 DVD들을 <b>사 왔습니다</b>. 왜냐하면 그것들은 일상 생활의 <b>지치는</b> 문제로부터 도피할 수 있는 방법을 제공하기 때문입니다.</p><p>마찬가지로, 음악은 삶을 바꾸는 힘을 가지고 있습니다. 예를 들어 구스타보를 보겠습니다. 그는 가난한 배경의 젊은이들이 클래식 음악을 배우도록 돕는 프로그램인 엘 시스테마와 함께 10년 동안 트럼펫을 <b>연주해 왔습니다</b>. 이 기회가 없었다면 그는 <strong><span class='vocab-link' id='text-depressing' onclick='speakAndScroll(\"depressing\", \"vocab-depressing\")'>우울한</span></strong> 상황에 처했을지 모르지만, 대신 그는 <b>지금까지</b> <strong><span class='vocab-link' id='text-rehearsing' onclick='speakAndScroll(\"rehearsing\", \"vocab-rehearsing\")'>리허설</span></strong>해 왔습니다. 그는 그 음악이 <b>환상적</b>이라고 느끼며 그것이 자신에게 새로운 미래를 주었다고 믿습니다.</p><p>반면에, 현대 대중문화에서 자신의 열정을 찾는 사람들도 있습니다. 음악 애호가인 피터는 가수 세르타브 에레네르에게 <b>관심을</b> 가지게 되어 2년 동안 터키어를 <b>배워 왔습니다</b>. 그녀가 유로비전 송 콘테스트에서 우승하는 것을 듣고 나서, 그는 그녀의 목소리에 <strong><span class='vocab-link' id='text-obsessed' onclick='speakAndScroll(\"obsessed\", \"vocab-obsessed\")'>집착</span></strong>하게 되었습니다. 그는 그녀의 라이브 공연을 보기 위해 이스탄불까지 여행했습니다! 피터에게 문화는 단순히 감상하는 것이 아닙니다. 그것은 새로운 언어를 배우고 <b>멋진</b> 새로운 나라를 탐험하는 이유입니다.</p><p>그러나 문화는 논쟁도 불러일으킵니다. <b>지루한</b> 강의 후에 영화를 보러 가는 것에 대해 논의하던 두 친구는 자신들의 취향이 매우 다르다는 것을 알게 되었습니다. 한 친구는 이미 영화 '더스트 앤 히트'를 보았지만, 결말이 너무 <strong><span class='vocab-link' id='text-predictable' onclick='speakAndScroll(\"predictable\", \"vocab-predictable\")'>예측 가능</span></strong>해서 <b>실망</b>했습니다. 한 명은 공포 영화에 <b>흥분</b>한 반면, 다른 한 명은 그 장르에 <strong><span class='vocab-link' id='text-frightened' onclick='speakAndScroll(\"frightened\", \"vocab-frightened\")'>겁을 먹고</span></strong> 더 <b>가벼운</b> 것을 선호했습니다. 이것은 어떤 예술이 한 사람에게는 <strong><span class='vocab-link' id='text-brilliant' onclick='speakAndScroll(\"brilliant\", \"vocab-brilliant\")'>훌륭</span></strong>할지라도 다른 사람에게는 <b>짜증나는</b> 일이 될 수 있음을 보여줍니다.</p><p>문학과 순수 예술도 변화하고 있습니다. 젤다는 탐정 발란데르를 원작으로 한 TV 시리즈를 <b>보아 왔지만</b>, 주인공이 자신의 상상 속 인물과 달라서 <b>짜증</b>이 납니다. 한편, 미술 학생인 메리는 조각을 <b>공부해 왔으며</b>, 최근 자코메티의 <strong><span class='vocab-link' id='text-extraordinary' onclick='speakAndScroll(\"extraordinary\", \"vocab-extraordinary\")'>비범한</span></strong> <strong><span class='vocab-link' id='text-exhibition' onclick='speakAndScroll(\"exhibition\", \"vocab-exhibition\")'>전시회</span></strong>를 보았습니다. 그녀는 그의 가냘프고 기이한 조각상들에 <b>매료</b>되었습니다.</p><p>결론적으로, 우리가 범죄 스릴러를 <b>읽어 왔든</b> 저예산 영화를 <b>만들어 왔든</b>, 문화는 <b>필수적인</b> 상태로 남아 있습니다. 그것은 어떤 이들에게는 <b>믿기 어려울 정도의</b> 부를, 다른 이들에게는 <b>만족스러운</b> 느낌을 제공합니다. 계속해서 탐구하면서, 우리는 문화의 세계가 우리가 상상했던 것보다 훨씬 더 <b>다양하고</b> <b>흥미진진</b>하다는 것을 깨닫게 됩니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "fascinating",
+        "word": "Fascinating",
+        "definition": "Extremely interesting and able to hold your attention for a long time."
+      },
+      {
+        "id": "depressing",
+        "word": "Depressing",
+        "definition": "Making you feel very sad and without much hope for the future."
+      },
+      {
+        "id": "rehearsing",
+        "word": "Rehearsing",
+        "definition": "Practising a play, a piece of music, or a dance before performing it in front of an audience."
+      },
+      {
+        "id": "obsessed",
+        "word": "Obsessed",
+        "definition": "Thinking about someone or something all the time and being unable to think about anything else."
+      },
+      {
+        "id": "predictable",
+        "word": "Predictable",
+        "definition": "Happening in a way that is expected and not at all surprising."
+      },
+      {
+        "id": "frightened",
+        "word": "Frightened",
+        "definition": "Feeling afraid or anxious because you think something bad or dangerous might happen."
+      },
+      {
+        "id": "brilliant",
+        "word": "Brilliant",
+        "definition": "Extremely clever or highly skilled; another word for very good or excellent."
+      },
+      {
+        "id": "extraordinary",
+        "word": "Extraordinary",
+        "definition": "Very unusual, special, or much better than the usual level."
+      },
+      {
+        "id": "exhibition",
+        "word": "Exhibition",
+        "definition": "A public event where objects such as paintings or sculptures are shown for people to look at."
+      }
+    ],
+    "ja": [
+      {
+        "id": "fascinating",
+        "word": "魅力的な",
+        "definition": "非常に興味深く、長い間あなたの注意を引きつけることができる。"
+      },
+      {
+        "id": "depressing",
+        "word": "憂鬱な",
+        "definition": "非常に悲しく、将来への希望をあまり持てない気持ちにさせる。"
+      },
+      {
+        "id": "rehearsing",
+        "word": "リハーサル",
+        "definition": "観客の前で上演する前に、演劇、楽曲、ダンスなどを練習すること。"
+      },
+      {
+        "id": "obsessed",
+        "word": "夢中な",
+        "definition": "誰かや何かのことをいつも考えていて、他のことを考えられない状態。"
+      },
+      {
+        "id": "predictable",
+        "word": "予測可能な",
+        "definition": "予想される方法で起こり、まったく驚きがない。"
+      },
+      {
+        "id": "frightened",
+        "word": "怖がっている",
+        "definition": "悪いことや危険なことが起こると思って、恐れたり不安に感じたりする。"
+      },
+      {
+        "id": "brilliant",
+        "word": "素晴らしい",
+        "definition": "非常に賢い、または非常に熟練している。非常に良い、または優秀という意味の別の言葉。"
+      },
+      {
+        "id": "extraordinary",
+        "word": "並外れた",
+        "definition": "非常に珍しい、特別な、または通常のレベルよりもはるかに優れている。"
+      },
+      {
+        "id": "exhibition",
+        "word": "展覧会",
+        "definition": "絵画や彫刻などの作品を人々が見られるように展示する公開イベント。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "fascinating",
+        "word": "Fascinant",
+        "definition": "Extrêmement intéressant et capable de retenir votre attention pendant longtemps."
+      },
+      {
+        "id": "depressing",
+        "word": "Déprimant",
+        "definition": "Qui vous rend très triste et sans grand espoir pour l'avenir."
+      },
+      {
+        "id": "rehearsing",
+        "word": "Répéter",
+        "definition": "Pratiquer une pièce de théâtre, un morceau de musique ou une danse avant de la représenter devant un public."
+      },
+      {
+        "id": "obsessed",
+        "word": "Obsédé",
+        "definition": "Penser à quelqu'un ou à quelque chose tout le temps et être incapable de penser à autre chose."
+      },
+      {
+        "id": "predictable",
+        "word": "Prévisible",
+        "definition": "Qui se produit d'une manière attendue et pas du tout surprenante."
+      },
+      {
+        "id": "frightened",
+        "word": "Effrayé",
+        "definition": "Ressentir de la peur ou de l'anxiété parce que vous pensez que quelque chose de mauvais ou de dangereux pourrait arriver."
+      },
+      {
+        "id": "brilliant",
+        "word": "Brillant",
+        "definition": "Extrêmement intelligent ou hautement qualifié ; un autre mot pour dire très bon ou excellent."
+      },
+      {
+        "id": "extraordinary",
+        "word": "Extraordinaire",
+        "definition": "Très inhabituel, spécial, ou bien meilleur que le niveau habituel."
+      },
+      {
+        "id": "exhibition",
+        "word": "Exposition",
+        "definition": "Un événement public où des objets tels que des peintures ou des sculptures sont montrés pour que les gens puissent les regarder."
+      }
+    ],
+    "ko": [
+      {
+        "id": "fascinating",
+        "word": "매혹적인",
+        "definition": "매우 흥미롭고 오랫동안 당신의 주의를 사로잡을 수 있는."
+      },
+      {
+        "id": "depressing",
+        "word": "우울하게 하는",
+        "definition": "매우 슬프고 미래에 대한 희망을 거의 가지지 못하게 만드는."
+      },
+      {
+        "id": "rehearsing",
+        "word": "리허설 중인",
+        "definition": "관객 앞에서 공연하기 전에 연극, 음악, 춤 등을 연습하는 것."
+      },
+      {
+        "id": "obsessed",
+        "word": "집착하는",
+        "definition": "누군가나 무언가에 대해 항상 생각하고 다른 것에 대해 생각할 수 없는 상태."
+      },
+      {
+        "id": "predictable",
+        "word": "예측 가능한",
+        "definition": "예상된 방식으로 일어나며 전혀 놀랍지 않은."
+      },
+      {
+        "id": "frightened",
+        "word": "겁먹은",
+        "definition": "나쁜 일이나 위험한 일이 일어날 것이라고 생각하여 두렵거나 불안한 느낌."
+      },
+      {
+        "id": "brilliant",
+        "word": "훌륭한",
+        "definition": "매우 똑똑하거나 고도로 숙련된. 매우 좋거나 우수하다는 뜻의 또 다른 단어."
+      },
+      {
+        "id": "extraordinary",
+        "word": "비범한",
+        "definition": "매우 특이하거나, 특별하거나, 평균 수준보다 훨씬 나은."
+      },
+      {
+        "id": "exhibition",
+        "word": "전시회",
+        "definition": "그림이나 조각품과 같은 물건을 사람들이 볼 수 있도록 전시하는 공개 행사."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Choosing a Movie",
+        "label": "Conversation 1: After a Lecture",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "What a boring lecture!"
+          },
+          {
+            "speaker": "B",
+            "text": "I know. It wasn't very good. I was starting to fall asleep near the end!"
+          },
+          {
+            "speaker": "A",
+            "text": "So what're you doing this afternoon? Have you got any plans?"
+          },
+          {
+            "speaker": "B",
+            "text": "Yeah, I'm thinking of going to see a movie and... um... listen, would you like to come with me?"
+          },
+          {
+            "speaker": "A",
+            "text": "Maybe. What's on?"
+          },
+          {
+            "speaker": "B",
+            "text": "Well, there's this film called Dust and Heat - directed by Umberto Collocini. It's supposed to be really good."
+          },
+          {
+            "speaker": "A",
+            "text": "Yeah, I've seen it already, actually. I saw it the other day."
+          },
+          {
+            "speaker": "B",
+            "text": "Oh yes? What was it like?"
+          },
+          {
+            "speaker": "A",
+            "text": "Not bad, but not as good as everyone is saying."
+          },
+          {
+            "speaker": "A",
+            "text": "The costumes were great and it's set in the Sahara, so it looks amazing."
+          },
+          {
+            "speaker": "B",
+            "text": "Yeah, that's what I'd heard. So what was wrong with it?"
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, I don't know. I just found it a bit too slow. I got a bit bored with it after a while - and the ending was very predictable."
+          },
+          {
+            "speaker": "B",
+            "text": "Oh, right."
+          },
+          {
+            "speaker": "A",
+            "text": "And that Scottish actor's in it as well. You know. What's his name?"
+          },
+          {
+            "speaker": "B",
+            "text": "Bryan McFletcher?"
+          },
+          {
+            "speaker": "A",
+            "text": "Yeah, that's him. I just find him really, really annoying. He can't act!"
+          },
+          {
+            "speaker": "A",
+            "text": "Anyway, what else is on?"
+          },
+          {
+            "speaker": "B",
+            "text": "Um... let me see. Oh, there's The Redeadening."
+          },
+          {
+            "speaker": "A",
+            "text": "Yeah? What's that?"
+          },
+          {
+            "speaker": "B",
+            "text": "It's a new horror movie. It's supposed to be really scary."
+          },
+          {
+            "speaker": "A",
+            "text": "OK. To be honest, I don't really like horror movies. I'd rather see something a bit lighter, if possible."
+          },
+          {
+            "speaker": "B",
+            "text": "OK. Right. Well, how about this? It's A Love-Hate Thing."
+          },
+          {
+            "speaker": "B",
+            "text": "It's a romantic comedy set in Paris and New York and it stars Beatrice Binoche and Brad Schmidt."
+          },
+          {
+            "speaker": "A",
+            "text": "That sounds more like it! Where's it on?"
+          },
+          {
+            "speaker": "B",
+            "text": "The Galaxy in Cambridge Road."
+          },
+          {
+            "speaker": "A",
+            "text": "OK. And what time does it start?"
+          },
+          {
+            "speaker": "B",
+            "text": "There's one showing at 2:30 and then another one at quarter to five."
+          },
+          {
+            "speaker": "A",
+            "text": "So shall we try the half past two one? We could go and have a coffee or something first."
+          },
+          {
+            "speaker": "B",
+            "text": "OK. Great."
+          }
+        ]
+      },
+      {
+        "title": "1-2. A Passion for Turkish Music",
+        "label": "Conversation 2: Peter's Story",
+        "script": [
+          {
+            "speaker": "Peter",
+            "text": "I'm a big fan of a Turkish singer called Sertab Erener."
+          },
+          {
+            "speaker": "Peter",
+            "text": "I first heard her in 2003 when she won the Eurovision Song Contest and I've liked her ever since then."
+          },
+          {
+            "speaker": "Peter",
+            "text": "I think she's got an amazing voice. She actually trained as an opera singer."
+          },
+          {
+            "speaker": "Peter",
+            "text": "I've got five or six of her albums and last year I went to Istanbul to see her sing live."
+          },
+          {
+            "speaker": "Peter",
+            "text": "In fact, I've been learning Turkish for the last two years because I've discovered Turkey through her music and want to spend time there - and I can understand her songs better."
+          },
+          {
+            "speaker": "Peter",
+            "text": "My all-time favourite song is Life doesn't wait - Hayat Beklemez. Excuse my bad pronunciation."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Classical Music as a Life Changer",
+        "label": "Conversation 3: Gustavo's Story",
+        "script": [
+          {
+            "speaker": "Gustavo",
+            "text": "I've been playing the trumpet for ten years now with El Sistema,"
+          },
+          {
+            "speaker": "Gustavo",
+            "text": "which is a programme that helps young people from poor backgrounds learn classical music."
+          },
+          {
+            "speaker": "Gustavo",
+            "text": "I really really love playing and without El Sistema I would probably be in a bad situation!"
+          },
+          {
+            "speaker": "Gustavo",
+            "text": "When I joined, I was only eight, but I was already in trouble with the police."
+          },
+          {
+            "speaker": "Gustavo",
+            "text": "My favourite composers are Russian - Shostakovich and Stravinsky."
+          },
+          {
+            "speaker": "Gustavo",
+            "text": "We've been rehearsing The Rite of Spring recently for a concert. It's fantastic - the best."
+          }
+        ]
+      },
+      {
+        "title": "1-4. Books vs. TV Adaptations",
+        "label": "Conversation 4: Zelda's Story",
+        "script": [
+          {
+            "speaker": "Zelda",
+            "text": "My favourite author is the Swedish crime writer Henning Mankell, especially his stories with the detective Wallander."
+          },
+          {
+            "speaker": "Zelda",
+            "text": "The stories are good thrillers. They're unpredictable, but they're also about social issues, which makes them extra interesting."
+          },
+          {
+            "speaker": "Zelda",
+            "text": "For the last few weeks, they've been showing a series on TV based on the books."
+          },
+          {
+            "speaker": "Zelda",
+            "text": "It's OK, but the main character is different to the character in my imagination"
+          },
+          {
+            "speaker": "Zelda",
+            "text": "and, of course, there's less suspense because I've already read the books!"
+          },
+          {
+            "speaker": "Zelda",
+            "text": "I don't know if I'll keep watching."
+          }
+        ]
+      },
+      {
+        "title": "1-5. From Portraits to Sculpture",
+        "label": "Conversation 5: Mary's Story",
+        "script": [
+          {
+            "speaker": "Mary",
+            "text": "I'm at art school, where I'm studying Fine Art. I've known I wanted to be an artist since I was three."
+          },
+          {
+            "speaker": "Mary",
+            "text": "I've always been more of a painter, especially people - portraits, but recently I've become much more interested in sculpture."
+          },
+          {
+            "speaker": "Mary",
+            "text": "I think my favourite artist at the moment is a Swiss sculptor called Alberto Giacometti."
+          },
+          {
+            "speaker": "Mary",
+            "text": "He does these beautiful, strange, thin sculptures. I saw an exhibition of his work last year."
+          },
+          {
+            "speaker": "Mary",
+            "text": "I don't know why I liked it so much, I just did - especially a sculpture called Cat."
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. 映画を選ぶ",
+        "label": "会話 1: 講義の後で",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "なんて退屈な講義だったんだ！"
+          },
+          {
+            "speaker": "B",
+            "text": "本当だね。あまり良くなかった。終わりの方で眠くなってきたよ！"
+          },
+          {
+            "speaker": "A",
+            "text": "で、今日の午後は何するの？予定ある？"
+          },
+          {
+            "speaker": "B",
+            "text": "うん、映画を見に行こうと思ってるんだけど…えーと…一緒にどう？"
+          },
+          {
+            "speaker": "A",
+            "text": "かもね。何やってるの？"
+          },
+          {
+            "speaker": "B",
+            "text": "えっと、『ダスト・アンド・ヒート』っていう映画があって、ウンベルト・コロチーニ監督作なんだ。すごくいいらしいよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "ああ、実はもう見たんだ。先日見たよ。"
+          },
+          {
+            "speaker": "B",
+            "text": "ああ、そうなの？どうだった？"
+          },
+          {
+            "speaker": "A",
+            "text": "悪くはないけど、みんなが言うほど良くはなかったよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "衣装は素晴らしかったし、舞台はサハラだから見た目は素晴らしいんだ。"
+          },
+          {
+            "speaker": "B",
+            "text": "うん、それ聞いてたよ。で、何がダメだったの？"
+          },
+          {
+            "speaker": "A",
+            "text": "さあね。ちょっと遅すぎるんだよ。しばらくしたら飽きちゃった - それに結末はとても予想できたしね。"
+          },
+          {
+            "speaker": "B",
+            "text": "ああ、そうなんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "それに、あのスコットランド人の俳優も出てるんだ。ほら、名前何だっけ？"
+          },
+          {
+            "speaker": "B",
+            "text": "ブライアン・マクフレッチャー？"
+          },
+          {
+            "speaker": "A",
+            "text": "そう、それ。とにかく彼は本当に、本当に腹が立つんだ。演技が下手くそ！"
+          },
+          {
+            "speaker": "A",
+            "text": "とにかく、他に何かやってる？"
+          },
+          {
+            "speaker": "B",
+            "text": "えーと…見せて。ああ、『ザ・リデッドニング』があるよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "そうなの？それって何？"
+          },
+          {
+            "speaker": "B",
+            "text": "新しいホラー映画なんだ。本当に怖いらしいよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "そうか。正直なところ、ホラー映画はあまり好きじゃないんだ。できればもっと軽いものがいいな。"
+          },
+          {
+            "speaker": "B",
+            "text": "わかった。じゃあ、これはどう？『ラブ・ヘイト・シング』っていうんだ。"
+          },
+          {
+            "speaker": "B",
+            "text": "パリとニューヨークを舞台にしたロマンティック・コメディで、ビアトリーチェ・ビノシュとブラッド・シュミットが主演なんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "それならいいね！どこでやってるの？"
+          },
+          {
+            "speaker": "B",
+            "text": "ケンブリッジ・ロードのギャラクシーだよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "わかった。で、何時から始まるの？"
+          },
+          {
+            "speaker": "B",
+            "text": "2時半のと、5時15分のがあるよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "じゃあ、2時半のにしてみない？先にコーヒーとか飲みに行けるし。"
+          },
+          {
+            "speaker": "B",
+            "text": "うん、いいね。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. トルコ音楽への情熱",
+        "label": "会話 2: ピーターの話",
+        "script": [
+          {
+            "speaker": "ピーター",
+            "text": "私はセルタブ・エレネルというトルコの歌手の大ファンです。"
+          },
+          {
+            "speaker": "ピーター",
+            "text": "彼女を初めて聞いたのは2003年で、ユーロビジョン・ソング・コンテストで優勝した時です。それ以来ずっと彼女が好きです。"
+          },
+          {
+            "speaker": "ピーター",
+            "text": "彼女の声は素晴らしいと思います。彼女は実際にオペラ歌手として訓練を受けています。"
+          },
+          {
+            "speaker": "ピーター",
+            "text": "彼女のアルバムを5、6枚持っていて、去年は彼女のライブを見にイスタンブールに行きました。"
+          },
+          {
+            "speaker": "ピーター",
+            "text": "実は、ここ2年間トルコ語を学び続けています。なぜなら、彼女の音楽を通じてトルコを発見し、そこで時間を過ごしたいと思ったからです - それに彼女の歌をよりよく理解できるようになります。"
+          },
+          {
+            "speaker": "ピーター",
+            "text": "私の一番好きな曲は『人生は待ってくれない - Hayat Beklemez』です。発音が悪くてすみません。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. 人生を変えるクラシック音楽",
+        "label": "会話 3: グスターボの話",
+        "script": [
+          {
+            "speaker": "グスターボ",
+            "text": "私はエル・システマで10年間トランペットを演奏し続けています。"
+          },
+          {
+            "speaker": "グスターボ",
+            "text": "それは貧しい背景を持つ若者がクラシック音楽を学ぶのを支援するプログラムです。"
+          },
+          {
+            "speaker": "グスターボ",
+            "text": "演奏することが本当に大好きで、エル・システマがなければおそらく悪い状況にいたでしょう！"
+          },
+          {
+            "speaker": "グスターボ",
+            "text": "参加した時、私はたった8歳でしたが、すでに警察と問題を起こしていました。"
+          },
+          {
+            "speaker": "グスターボ",
+            "text": "私の好きな作曲家はロシア人のショスタコーヴィチとストラヴィンスキーです。"
+          },
+          {
+            "speaker": "グスターボ",
+            "text": "最近コンサートのために『春の祭典』をリハーサルし続けています。それは素晴らしい - 最高です。"
+          }
+        ]
+      },
+      {
+        "title": "1-4. 本 vs. TV 映像化",
+        "label": "会話 4: ゼルダの話",
+        "script": [
+          {
+            "speaker": "ゼルダ",
+            "text": "私の好きな作家はスウェーデンの犯罪作家ヘニング・マンケル、特に探偵ヴァランダーの物語です。"
+          },
+          {
+            "speaker": "ゼルダ",
+            "text": "物語は良いスリラーです。予測不可能ですが、社会的な問題についても描かれていて、それらが特に興味深いものにしています。"
+          },
+          {
+            "speaker": "ゼルダ",
+            "text": "ここ数週間、その本を基にしたシリーズをテレビで放映し続けています。"
+          },
+          {
+            "speaker": "ゼルダ",
+            "text": "悪くはないのですが、主人公が私の想像の中のキャラクターとは違っていて"
+          },
+          {
+            "speaker": "ゼルダ",
+            "text": "そしてもちろん、すでに本を読んでしまっているのでサスペンスが少ないのです！"
+          },
+          {
+            "speaker": "ゼルダ",
+            "text": "見続けるかどうかはわかりません。"
+          }
+        ]
+      },
+      {
+        "title": "1-5. 肖像画から彫刻へ",
+        "label": "会話 5: メアリーの話",
+        "script": [
+          {
+            "speaker": "メアリー",
+            "text": "私は美術学校に通っていて、美術を学んでいます。3歳の時からアーティストになりたいと思っていました。"
+          },
+          {
+            "speaker": "メアリー",
+            "text": "ずっと画家、特に人物画 - 肖像画の方が多かったのですが、最近彫刻にはるかに興味を持つようになりました。"
+          },
+          {
+            "speaker": "メアリー",
+            "text": "今一番好きなアーティストは、アルベルト・ジャコメッティというスイスの彫刻家だと思います。"
+          },
+          {
+            "speaker": "メアリー",
+            "text": "彼はこれらの美しく、奇妙で、細い彫刻を作ります。去年彼の作品の展覧会を見ました。"
+          },
+          {
+            "speaker": "メアリー",
+            "text": "なぜそんなに好きになったのかはわかりませんが、ただ好きだったのです - 特に『猫』という彫刻が。"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Choisir un film",
+        "label": "Conversation 1 : Après un cours",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Quel cours ennuyeux !"
+          },
+          {
+            "speaker": "B",
+            "text": "Je sais. Ce n'était pas très bon. Je commençais à m'endormir vers la fin !"
+          },
+          {
+            "speaker": "A",
+            "text": "Alors, tu fais quoi cet après-midi ? Tu as des plans ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, je pense aller voir un film et... euh... écoute, tu veux venir avec moi ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Peut-être. Qu'est-ce qui passe ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Eh bien, il y a un film qui s'appelle Dust and Heat - réalisé par Umberto Collocini. Il est censé être vraiment bon."
+          },
+          {
+            "speaker": "A",
+            "text": "Oui, je l'ai déjà vu, en fait. Je l'ai vu l'autre jour."
+          },
+          {
+            "speaker": "B",
+            "text": "Ah oui ? C'était comment ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Pas mal, mais pas aussi bon que tout le monde le dit."
+          },
+          {
+            "speaker": "A",
+            "text": "Les costumes étaient super et ça se passe dans le Sahara, donc ça a l'air incroyable."
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, c'est ce que j'avais entendu. Alors, qu'est-ce qui n'allait pas ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, je ne sais pas. Je l'ai juste trouvé un peu trop lent. Je me suis un peu ennuyé au bout d'un moment - et la fin était très prévisible."
+          },
+          {
+            "speaker": "B",
+            "text": "Ah, d'accord."
+          },
+          {
+            "speaker": "A",
+            "text": "Et cet acteur écossais est dedans aussi. Tu sais. Comment il s'appelle ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Bryan McFletcher ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Oui, c'est lui. Je le trouve vraiment, vraiment agaçant. Il ne sait pas jouer la comédie !"
+          },
+          {
+            "speaker": "A",
+            "text": "Bref, qu'est-ce qu'il passe d'autre ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Euh... voyons voir. Oh, il y a The Redeadening."
+          },
+          {
+            "speaker": "A",
+            "text": "Ouais ? C'est quoi ?"
+          },
+          {
+            "speaker": "B",
+            "text": "C'est un nouveau film d'horreur. Il est censé être vraiment effrayant."
+          },
+          {
+            "speaker": "A",
+            "text": "D'accord. Pour être honnête, je n'aime pas vraiment les films d'horreur. Je préférerais voir quelque chose d'un peu plus léger, si possible."
+          },
+          {
+            "speaker": "B",
+            "text": "D'accord. Bon, qu'en dis-tu de celui-ci ? Ça s'appelle A Love-Hate Thing."
+          },
+          {
+            "speaker": "B",
+            "text": "C'est une comédie romantique qui se passe à Paris et New York et qui met en vedette Beatrice Binoche et Brad Schmidt."
+          },
+          {
+            "speaker": "A",
+            "text": "Ça, c'est plus mon genre ! Où est-ce qu'il passe ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Au Galaxy sur Cambridge Road."
+          },
+          {
+            "speaker": "A",
+            "text": "D'accord. Et à quelle heure ça commence ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Il y a une séance à 14h30 et une autre à 16h45."
+          },
+          {
+            "speaker": "A",
+            "text": "Alors, on essaie celle de 14h30 ? On pourrait aller prendre un café ou quelque chose avant."
+          },
+          {
+            "speaker": "B",
+            "text": "D'accord. Super."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Une passion pour la musique turque",
+        "label": "Conversation 2 : L'histoire de Peter",
+        "script": [
+          {
+            "speaker": "Peter",
+            "text": "Je suis un grand fan d'une chanteuse turque qui s'appelle Sertab Erener."
+          },
+          {
+            "speaker": "Peter",
+            "text": "Je l'ai entendue pour la première fois en 2003 quand elle a gagné le Concours Eurovision de la chanson et je l'aime depuis."
+          },
+          {
+            "speaker": "Peter",
+            "text": "Je pense qu'elle a une voix incroyable. Elle a en fait suivi une formation de chanteuse d'opéra."
+          },
+          {
+            "speaker": "Peter",
+            "text": "J'ai cinq ou six de ses albums et l'année dernière, je suis allé à Istanbul pour la voir chanter en direct."
+          },
+          {
+            "speaker": "Peter",
+            "text": "En fait, j'apprends le turc depuis deux ans parce que j'ai découvert la Turquie grâce à sa musique et que je veux y passer du temps - et je peux mieux comprendre ses chansons."
+          },
+          {
+            "speaker": "Peter",
+            "text": "Ma chanson préférée de tous les temps est Life doesn't wait - Hayat Beklemez. Excusez ma mauvaise prononciation."
+          }
+        ]
+      },
+      {
+        "title": "1-3. La musique classique comme moteur de changement",
+        "label": "Conversation 3 : L'histoire de Gustavo",
+        "script": [
+          {
+            "speaker": "Gustavo",
+            "text": "Je joue de la trompette depuis dix ans maintenant avec El Sistema,"
+          },
+          {
+            "speaker": "Gustavo",
+            "text": "qui est un programme qui aide les jeunes issus de milieux défavorisés à apprendre la musique classique."
+          },
+          {
+            "speaker": "Gustavo",
+            "text": "J'adore vraiment jouer et sans El Sistema, je serais probablement dans une mauvaise situation !"
+          },
+          {
+            "speaker": "Gustavo",
+            "text": "Quand j'ai rejoint, je n'avais que huit ans, mais j'avais déjà des problèmes avec la police."
+          },
+          {
+            "speaker": "Gustavo",
+            "text": "Mes compositeurs préférés sont russes - Chostakovitch et Stravinsky."
+          },
+          {
+            "speaker": "Gustavo",
+            "text": "Nous avons récemment répété Le Sacre du printemps pour un concert. C'est fantastique - le meilleur."
+          }
+        ]
+      },
+      {
+        "title": "1-4. Livres vs. Adaptations télévisées",
+        "label": "Conversation 4 : L'histoire de Zelda",
+        "script": [
+          {
+            "speaker": "Zelda",
+            "text": "Mon auteur préféré est l'écrivain suédois de romans policiers Henning Mankell, surtout ses histoires avec le détective Wallander."
+          },
+          {
+            "speaker": "Zelda",
+            "text": "Les histoires sont de bons thrillers. Elles sont imprévisibles, mais elles parlent aussi de questions sociales, ce qui les rend encore plus intéressantes."
+          },
+          {
+            "speaker": "Zelda",
+            "text": "Depuis quelques semaines, ils diffusent une série télévisée basée sur les livres."
+          },
+          {
+            "speaker": "Zelda",
+            "text": "C'est correct, mais le personnage principal est différent du personnage dans mon imagination"
+          },
+          {
+            "speaker": "Zelda",
+            "text": "et, bien sûr, il y a moins de suspense parce que j'ai déjà lu les livres !"
+          },
+          {
+            "speaker": "Zelda",
+            "text": "Je ne sais pas si je vais continuer à regarder."
+          }
+        ]
+      },
+      {
+        "title": "1-5. Des portraits à la sculpture",
+        "label": "Conversation 5 : L'histoire de Mary",
+        "script": [
+          {
+            "speaker": "Mary",
+            "text": "Je suis dans une école d'art, où j'étudie les beaux-arts. Je sais que je voulais être artiste depuis que j'ai trois ans."
+          },
+          {
+            "speaker": "Mary",
+            "text": "J'ai toujours été plus peintre, surtout de personnes - des portraits, mais récemment, je me suis beaucoup plus intéressée à la sculpture."
+          },
+          {
+            "speaker": "Mary",
+            "text": "Je pense que mon artiste préféré en ce moment est un sculpteur suisse appelé Alberto Giacometti."
+          },
+          {
+            "speaker": "Mary",
+            "text": "Il fait ces sculptures belles, étranges et fines. J'ai vu une exposition de son travail l'année dernière."
+          },
+          {
+            "speaker": "Mary",
+            "text": "Je ne sais pas pourquoi je l'ai tant aimé, c'est comme ça - surtout une sculpture appelée Chat."
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 영화 고르기",
+        "label": "대화 1: 강의 후",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "정말 지루한 강의였어!"
+          },
+          {
+            "speaker": "B",
+            "text": "그러게. 별로 좋지 않았어. 끝날 무렵에 졸기 시작했어!"
+          },
+          {
+            "speaker": "A",
+            "text": "그래서 오늘 오후에 뭐 할 거야? 계획 있어?"
+          },
+          {
+            "speaker": "B",
+            "text": "응, 영화 보러 갈까 생각 중이었는데... 음... 나랑 같이 갈래?"
+          },
+          {
+            "speaker": "A",
+            "text": "글쎄. 뭐 하는데?"
+          },
+          {
+            "speaker": "B",
+            "text": "음, '더스트 앤 히트'라는 영화가 있는데, 움베르토 콜로치니 감독 작품이야. 정말 좋다고 하더라."
+          },
+          {
+            "speaker": "A",
+            "text": "응, 사실 이미 봤어. 저번에 봤지."
+          },
+          {
+            "speaker": "B",
+            "text": "아, 그래? 어땠어?"
+          },
+          {
+            "speaker": "A",
+            "text": "나쁘진 않은데, 다들 말하는 것만큼 좋지는 않았어."
+          },
+          {
+            "speaker": "A",
+            "text": "의상은 훌륭했고 배경이 사하라이니까 정말 멋져 보여."
+          },
+          {
+            "speaker": "B",
+            "text": "응, 그렇게 들었어. 그래서 뭐가 문제였는데?"
+          },
+          {
+            "speaker": "A",
+            "text": "글쎄, 그냥 너무 느린 것 같았어. 좀 있다가 지루해졌어 - 그리고 결말이 너무 뻔했어."
+          },
+          {
+            "speaker": "B",
+            "text": "아, 그렇구나."
+          },
+          {
+            "speaker": "A",
+            "text": "그리고 그 스코틀랜드 배우도 나와. 있잖아. 이름이 뭐더라?"
+          },
+          {
+            "speaker": "B",
+            "text": "브라이언 맥플레처?"
+          },
+          {
+            "speaker": "A",
+            "text": "응, 그 사람. 정말 정말 짜증나. 연기를 못 해!"
+          },
+          {
+            "speaker": "A",
+            "text": "어쨌든, 또 뭐 해?"
+          },
+          {
+            "speaker": "B",
+            "text": "음... 어디 보자. 아, '더 리데드닝'이 있어."
+          },
+          {
+            "speaker": "A",
+            "text": "응? 그게 뭔데?"
+          },
+          {
+            "speaker": "B",
+            "text": "새 공포 영화인데, 정말 무섭다고 해."
+          },
+          {
+            "speaker": "A",
+            "text": "그래. 솔직히 말하면, 나 공포 영화 별로 안 좋아해. 가능하면 좀 더 가벼운 걸 보는 게 좋겠어."
+          },
+          {
+            "speaker": "B",
+            "text": "알았어. 그럼 이건 어때? '러브 헤이트 씽'이야."
+          },
+          {
+            "speaker": "B",
+            "text": "파리와 뉴욕을 배경으로 한 로맨틱 코미디이고 비아트리체 비노슈와 브래드 슈미트가 주연이야."
+          },
+          {
+            "speaker": "A",
+            "text": "그게 낫겠다! 어디서 하는데?"
+          },
+          {
+            "speaker": "B",
+            "text": "케임브리지 로드에 있는 갤럭시."
+          },
+          {
+            "speaker": "A",
+            "text": "알았어. 몇 시에 시작하는데?"
+          },
+          {
+            "speaker": "B",
+            "text": "2시 30분에 한 번, 그리고 5시 15분에 또 있어."
+          },
+          {
+            "speaker": "A",
+            "text": "그럼 2시 30분 거로 할까? 먼저 커피라도 마시러 갈 수 있으니까."
+          },
+          {
+            "speaker": "B",
+            "text": "좋아. 좋아."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 터키 음악에 대한 열정",
+        "label": "대화 2: 피터의 이야기",
+        "script": [
+          {
+            "speaker": "피터",
+            "text": "저는 세르타브 에레네르라는 터키 가수의 열렬한 팬입니다."
+          },
+          {
+            "speaker": "피터",
+            "text": "그녀를 처음 들은 것은 2003년에 유로비전 노래 콘테스트에서 우승했을 때였고, 그 이후로 계속 좋아하고 있습니다."
+          },
+          {
+            "speaker": "피터",
+            "text": "그녀의 목소리는 정말 놀랍다고 생각합니다. 실제로 오페라 가수로 훈련받았습니다."
+          },
+          {
+            "speaker": "피터",
+            "text": "그녀의 앨범을 5, 6장 가지고 있고, 작년에 그녀의 라이브 공연을 보기 위해 이스탄불에 다녀왔습니다."
+          },
+          {
+            "speaker": "피터",
+            "text": "사실, 지난 2년 동안 터키어를 계속 배우고 있습니다. 왜냐하면 그녀의 음악을 통해 터키를 발견했고 그곳에서 시간을 보내고 싶기 때문입니다 - 게다가 그녀의 노래를 더 잘 이해할 수 있습니다."
+          },
+          {
+            "speaker": "피터",
+            "text": "제가 가장 좋아하는 노래는 '인생은 기다리지 않아 - Hayat Beklemez'입니다. 제 나쁜 발음을 용서해주세요."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 인생을 바꾸는 클래식 음악",
+        "label": "대화 3: 구스타보의 이야기",
+        "script": [
+          {
+            "speaker": "구스타보",
+            "text": "저는 엘 시스테마와 함께 10년 동안 트럼펫을 계속 연주해 왔습니다."
+          },
+          {
+            "speaker": "구스타보",
+            "text": "그것은 가난한 환경의 젊은이들이 클래식 음악을 배울 수 있도록 돕는 프로그램입니다."
+          },
+          {
+            "speaker": "구스타보",
+            "text": "저는 연주를 정말 정말 사랑하고, 엘 시스테마가 없었다면 아마 나쁜 상황에 처해 있었을 것입니다!"
+          },
+          {
+            "speaker": "구스타보",
+            "text": "제가 참여했을 때, 저는 겨우 8살이었지만, 이미 경찰과 문제를 일으키고 있었습니다."
+          },
+          {
+            "speaker": "구스타보",
+            "text": "제가 좋아하는 작곡가는 러시아인 쇼스타코비치와 스트라빈스키입니다."
+          },
+          {
+            "speaker": "구스타보",
+            "text": "우리는 최근 콘서트를 위해 『봄의 제전』을 계속 리허설해 왔습니다. 환상적입니다 - 최고예요."
+          }
+        ]
+      },
+      {
+        "title": "1-4. 책 vs. TV 각색",
+        "label": "대화 4: 젤다의 이야기",
+        "script": [
+          {
+            "speaker": "젤다",
+            "text": "제가 가장 좋아하는 작가는 스웨덴 범죄 작가 헤닝 만켈입니다, 특히 탐정 발란데르가 나오는 이야기요."
+          },
+          {
+            "speaker": "젤다",
+            "text": "이야기들은 좋은 스릴러입니다. 예측할 수 없지만, 사회 문제에 대해서도 다루고 있어서 더욱 흥미롭게 만듭니다."
+          },
+          {
+            "speaker": "젤다",
+            "text": "지난 몇 주 동안, 그 책들을 기반으로 한 시리즈를 TV에서 계속 방영하고 있습니다."
+          },
+          {
+            "speaker": "젤다",
+            "text": "괜찮은데, 주인공이 제 상상 속의 인물과 다르고"
+          },
+          {
+            "speaker": "젤다",
+            "text": "그리고 물론, 이미 책을 읽어버렸기 때문에 긴장감이 덜합니다!"
+          },
+          {
+            "speaker": "젤다",
+            "text": "계속 볼지 모르겠어요."
+          }
+        ]
+      },
+      {
+        "title": "1-5. 초상화에서 조각으로",
+        "label": "대화 5: 메리의 이야기",
+        "script": [
+          {
+            "speaker": "메리",
+            "text": "저는 미술 학교에 다니고 있고, 순수 미술을 공부하고 있습니다. 세 살 때부터 예술가가 되고 싶다는 것을 알았습니다."
+          },
+          {
+            "speaker": "메리",
+            "text": "항상 화가, 특히 인물화 - 초상화에 더 가까웠지만, 최근 들어 조각에 훨씬 더 관심을 갖게 되었습니다."
+          },
+          {
+            "speaker": "메리",
+            "text": "제 생각에 지금 제가 가장 좋아하는 아티스트는 알베르토 자코메티라는 스위스 조각가인 것 같아요."
+          },
+          {
+            "speaker": "메리",
+            "text": "그는 아름답고, 기이하고, 가냘픈 조각품들을 만듭니다. 작년에 그의 작품 전시회를 보았습니다."
+          },
+          {
+            "speaker": "메리",
+            "text": "왜 그렇게 좋아했는지 모르겠어요, 그냥 좋았어요 - 특히 '고양이'라는 조각품이요."
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "Welcome to Nollywood!",
+    "ja": "ノリウッドへようこそ！",
+    "fr": "Bienvenue à Nollywood !",
+    "ko": "놀리우드에 오신 것을 환영합니다!"
+  },
+  "extra_reading_html": {
+    "en": "<p style='color: #555; font-style: italic; margin-bottom: 15px;'>Femi Abulu introduces the weird and <b>wonderful</b> world of Nigerian cinema.</p><p>It might <b>surprise</b> you to learn that the third biggest film industry in the world – behind the United States and India – is based in Nigeria. <b>Producing</b> over 500 films a year, the industry generates around £160 million a year. The majority of films are made on budgets of between £10,000 and £20,000, and take an average of just ten days to complete. Compare this to the £65 million and year-long filming period needed to make the average Hollywood movie! However, while they may be cheap to produce, Nigerian films obviously still make good money.</p><p>They are not designed for the cinema. Instead, they are filmed on video cameras and copied directly onto video cassettes or DVDs, which are then sold at street stalls and tiny shops not just in Nigeria, but right across Africa. Most films are recorded in English, as it represents a common, neutral language in a country of 150 million people, where over 230 different languages are spoken. While Hollywood specialises in action movies and the Indian Bollywood studios produce <b>amazing</b> musicals, Nollywood – as the Nigerian film industry is known – is the home of voodoo horror movies: films about witchcraft and black magic.</p><p>It all began in 1992, with Living in Bondage, a <b>terrible</b> tale about a man who becomes <b>involved</b> with a religious cult that promises <b>incredible</b> wealth if he kills his wife. Since then, these kinds of movies have become increasingly popular, with Nigeria's most famous director, Chico Ejiro, being at the centre of the boom. Ejiro has directed over 80 movies, and despite the poor sound quality and <b>predictable</b> endings, his films are much <b>loved</b>.</p><p>Not all Nollywood films are horror movies, though. Gangster movies are also popular, as are success stories. Some dramas deal with current issues such as AIDS, corruption and women's rights. However, certain subjects are generally avoided and films are occasionally banned because they may cause tensions in a country with people from so many different backgrounds and which has experienced civil war.</p><p>In the end, the films about witches are popular for much the same reasons as Harry Potter or Lord of the Rings, even if they don't have quite the same special effects or <b>amazing</b> costumes. They are fantasies where the bad people are punished and the good people rewarded: the cheating husband loses his physical powers, or an evil love rival goes crazy, or the poor man becomes rich. Films are generally about escaping from the problems of everyday life and in a tough society like Nigeria this becomes even more <b>important</b>!</p>",
+    "ja": "<p style='color: #555; font-style: italic; margin-bottom: 15px;'>フェミ・アブルがナイジェリア映画の奇妙で<b>素晴らしい</b>世界を紹介します。</p><p>世界で3番目に大きい映画産業が—アメリカとインドに次いで—ナイジェリアにあると知れば、あなたは<b>驚く</b>かもしれません。年間500本以上の映画を<b>制作</b>し、この産業は年間約1億6000万ポンドを生み出しています。ほとんどの映画は1万ポンドから2万ポンドの予算で作られ、平均わずか10日で完成します。これを平均的なハリウッド映画に必要な6500万ポンドと1年に及ぶ撮影期間と比較してみてください！しかし、制作費は安くても、ナイジェリア映画は明らかにまだ十分な収益を上げています。</p><p>それらは映画館向けにデザインされていません。その代わりに、ビデオカメラで撮影され、ビデオカセットやDVDに直接コピーされ、ナイジェリアだけでなくアフリカ全域の露店や小さな店で販売されています。ほとんどの映画は英語で録音されています。これは、2億3000以上の異なる言語が話されている1億5000万人の人口の国において、共通の、中立的な言語を代表しているからです。ハリウッドがアクション映画を専門とし、インドのボリウッドスタジオが<b>素晴らしい</b>ミュージカルを制作する一方で、ナイジェリアの映画産業として知られるノリウッドは、ブードゥーホラー映画、すなわち魔術や黒魔術に関する映画の本場です。</p><p>すべては1992年、『Living in Bondage』から始まりました。これは、妻を殺せば<b>信じられない</b>ほどの富を約束する宗教カルトに<b>関わる</b>ようになる男の<b>恐ろしい</b>物語です。それ以来、これらの種類の映画はますます人気が高まり、ナイジェリアで最も有名な監督、チコ・エジーロがブームの中心にいます。エジーロは80本以上の映画を監督し、音質の悪さや<b>予測可能な</b>結末にもかかわらず、彼の映画は非常に<b>愛されています</b>。</p><p>しかし、すべてのノリウッド映画がホラー映画というわけではありません。ギャング映画も成功物語と同様に人気があります。一部のドラマは、エイズ、汚職、女性の権利などの時事問題を取り扱っています。しかし、特定の主題は一般的に避けられ、映画が時折禁止されることがあります。なぜなら、それらは非常に多くの異なる背景を持つ人々が住み、内戦を経験した国で緊張を引き起こす可能性があるからです。</p><p>結局のところ、魔女についての映画は、ハリー・ポッターやロード・オブ・ザ・リングと同じくらいの特殊効果や<b>素晴らしい</b>衣装を持っていなくても、ほとんど同じ理由で人気があります。それらは悪者が罰せられ、善者が報われるファンタジーです：浮気した夫は身体的力を失い、邪悪な恋敵は狂い、貧しい男は金持ちになります。映画は一般的に日常生活の問題から逃避することについてであり、ナイジェリアのような厳しい社会では、これはさらに<b>重要</b>になります！</p>",
+    "fr": "<p style='color: #555; font-style: italic; margin-bottom: 15px;'>Femi Abulu présente le monde étrange et <b>merveilleux</b> du cinéma nigérian.</p><p>Il pourrait vous <b>surprendre</b> d'apprendre que la troisième plus grande industrie cinématographique du monde – derrière les États-Unis et l'Inde – est basée au Nigeria. <b>Produisant</b> plus de 500 films par an, cette industrie génère environ 160 millions de livres par an. La majorité des films sont réalisés avec des budgets compris entre 10 000 et 20 000 livres, et prennent en moyenne seulement dix jours à réaliser. Comparez cela aux 65 millions de livres et à la période de tournage d'un an nécessaire pour réaliser un film hollywoodien moyen ! Cependant, bien qu'ils soient bon marché à produire, les films nigérians font évidemment encore de bonnes affaires.</p><p>Ils ne sont pas conçus pour le cinéma. Au lieu de cela, ils sont filmés avec des caméras vidéo et copiés directement sur des cassettes vidéo ou des DVD, qui sont ensuite vendus dans des étals de rue et des petites boutiques non seulement au Nigeria, mais aussi dans toute l'Afrique. La plupart des films sont enregistrés en anglais, car cela représente une langue commune et neutre dans un pays de 150 millions d'habitants, où plus de 230 langues différentes sont parlées. Alors qu'Hollywood se spécialise dans les films d'action et que les studios indiens de Bollywood produisent des comédies musicales <b>étonnantes</b>, Nollywood – comme on appelle l'industrie cinématographique nigériane – est le berceau des films d'horreur vaudou : des films sur la sorcellerie et la magie noire.</p><p>Tout a commencé en 1992 avec Living in Bondage, une <b>terrible</b> histoire d'un homme qui s'<b>implique</b> dans une secte religieuse qui lui promet une richesse <b>incroyable</b> s'il tue sa femme. Depuis lors, ce genre de films est devenu de plus en plus populaire, le réalisateur le plus célèbre du Nigeria, Chico Ejiro, étant au centre du boom. Ejiro a réalisé plus de 80 films, et malgré la mauvaise qualité sonore et les fins <b>prévisibles</b>, ses films sont très <b>aimés</b>.</p><p>Cependant, tous les films de Nollywood ne sont pas des films d'horreur. Les films de gangsters sont également populaires, tout comme les histoires de réussite. Certains drames traitent de questions d'actualité telles que le sida, la corruption et les droits des femmes. Cependant, certains sujets sont généralement évités et les films sont parfois interdits car ils pourraient créer des tensions dans un pays comptant des personnes d'horizons si divers et qui a connu une guerre civile.</p><p>En fin de compte, les films sur les sorcières sont populaires pour à peu près les mêmes raisons que Harry Potter ou Le Seigneur des Anneaux, même s'ils n'ont pas tout à fait les mêmes effets spéciaux ou les mêmes costumes <b>étonnants</b>. Ce sont des fantasmes où les méchants sont punis et les gentils récompensés : le mari infidèle perd ses pouvoirs physiques, ou une rivale amoureuse maléfique devient folle, ou le pauvre devient riche. Les films parlent généralement de s'échapper des problèmes de la vie quotidienne et dans une société dure comme le Nigeria, cela devient encore plus <b>important</b> !</p>",
+    "ko": "<p style='color: #555; font-style: italic; margin-bottom: 15px;'>페미 아불루가 나이지리아 영화의 기괴하고도 <b>멋진</b> 세계를 소개합니다.</p><p>세계에서 세 번째로 큰 영화 산업이—미국과 인도 다음으로—나이지리아에 있다는 사실을 알게 되면 <b>놀랄</b> 수도 있습니다. 연간 500편 이상의 영화를 <b>제작</b>하며, 이 산업은 연간 약 1억 6천만 파운드를 창출합니다. 대부분의 영화는 1만에서 2만 파운드 사이의 예산으로 제작되며, 평균 단 10일 만에 완성됩니다. 평균적인 할리우드 영화에 필요한 6500만 파운드와 1년에 달하는 촬영 기간과 비교해 보세요! 그러나 제작 비용은 저렴할지라도 나이지리아 영화는 분명히 여전히 좋은 수익을 올리고 있습니다.</p><p>그것들은 영화관용으로 설계되지 않았습니다. 대신, 비디오 카메라로 촬영되어 비디오 테이프나 DVD에 직접 복사된 다음, 나이지리아뿐만 아니라 아프리카 전역의 노점과 작은 상점에서 판매됩니다. 대부분의 영화는 영어로 녹음됩니다. 2억 3천만 개 이상의 다양한 언어가 사용되는 1억 5천만 인구의 나라에서 공통적이고 중립적인 언어를 대표하기 때문입니다. 할리우드가 액션 영화를 전문으로 하고 인도의 발리우드 스튜디오가 <b>놀라운</b> 뮤지컬을 제작하는 반면, 나이지리아 영화 산업으로 알려진 놀리우드는 부두 호러 영화, 즉 마법과 흑마술에 관한 영화의 본고장입니다.</p><p>모든 것은 1992년, 『Living in Bondage』에서 시작되었습니다. 아내를 죽이면 <b>믿을 수 없는</b> 부를 약속하는 종교 숭배에 <b>연루</b>되는 남자에 대한 <b>끔찍한</b> 이야기입니다. 그 이후로, 이런 종류의 영화는 점점 더 인기를 얻었고, 나이지리아에서 가장 유명한 감독인 치코 에지로가 붐의 중심에 있습니다. 에지로는 80편이 넘는 영화를 감독했으며, 열악한 음질과 <b>예측 가능한</b> 결말에도 불구하고 그의 영화는 매우 <b>사랑받고</b> 있습니다.</p><p>하지만 모든 놀리우드 영화가 호러 영화인 것은 아닙니다. 갱스터 영화도 성공 이야기와 마찬가지로 인기가 있습니다. 일부 드라마는 에이즈, 부패, 여성 권리와 같은 시사 문제를 다룹니다. 그러나 특정 주제는 일반적으로 피해지며, 영화가 때때로 금지되기도 합니다. 너무나 다양한 배경을 가진 사람들이 살고 내전을 경험한 나라에서 긴장을 유발할 수 있기 때문입니다.</p><p>결국, 마녀에 관한 영화는 해리 포터나 반지의 제왕과 같은 수준의 특수 효과나 <b>놀라운</b> 의상을 갖추지 못했더라도 거의 같은 이유로 인기가 있습니다. 그것들은 나쁜 사람은 벌을 받고 좋은 사람은 보상을 받는 판타지입니다: 바람피운 남편은 육체적 힘을 잃고, 사악한 연적은 미쳐버리며, 가난한 남자는 부자가 됩니다. 영화는 일반적으로 일상 생활의 문제로부터 도피하는 것에 관한 것이며, 나이지리아와 같은 힘든 사회에서는 이것이 더욱 <b>중요</b>해집니다!</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Nigeria has the second biggest film industry in the world, just behind the United States.",
+        "correct": "F",
+        "explanation": "False (Nigeria is actually the third biggest film industry, behind the United States and India.)"
+      },
+      {
+        "question": "Most Nollywood films are intended to be shown in large, traditional cinemas.",
+        "correct": "F",
+        "explanation": "False (They are not designed for the cinema; instead, they are copied onto DVDs and sold at street stalls.)"
+      },
+      {
+        "question": "English is the primary language for most Nigerian films to represent a neutral language for its diverse population.",
+        "correct": "T",
+        "explanation": "True (English is used as a common, neutral language in a country where over 230 different languages are spoken.)"
+      },
+      {
+        "question": "The film industry began to boom in 1992 with the success of a movie called Living in Bondage.",
+        "correct": "T",
+        "explanation": "True (It all began in 1992, with Living in Bondage, which started the increasingly popular trend of these movies.)"
+      },
+      {
+        "question": "Nollywood films are sometimes banned to avoid causing tensions related to the country's history of civil war.",
+        "correct": "T",
+        "explanation": "True (Certain subjects are avoided or banned because they might cause tensions in a country with so many different backgrounds.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "ナイジェリアはアメリカに次いで世界で2番目に大きい映画産業を持っている。",
+        "correct": "F",
+        "explanation": "誤り (ナイジェリアは実際にはアメリカとインドに次いで世界で3番目に大きい映画産業です。)"
+      },
+      {
+        "question": "ほとんどのノリウッド映画は、大規模な伝統的な映画館で上映することを意図している。",
+        "correct": "F",
+        "explanation": "誤り (それらは映画館向けに設計されていません。その代わりに、DVDにコピーされて露店で販売されます。)"
+      },
+      {
+        "question": "ほとんどのナイジェリア映画は、多様な人口のための中立的な言語を表すために英語を主要言語としている。",
+        "correct": "T",
+        "explanation": "正解 (英語は、230以上の異なる言語が話されている国において、共通の、中立的な言語として使用されています。)"
+      },
+      {
+        "question": "映画産業は1992年、『Living in Bondage』という映画の成功とともに発展し始めた。",
+        "correct": "T",
+        "explanation": "正解 (すべては1992年の『Living in Bondage』から始まり、これらの映画のますます人気が高まる傾向を開始させました。)"
+      },
+      {
+        "question": "ノリウッド映画は、国の内戦の歴史に関連する緊張を避けるために時々禁止されることがある。",
+        "correct": "T",
+        "explanation": "正解 (特定の主題は、非常に多くの異なる背景を持つ国で緊張を引き起こす可能性があるため、避けられたり禁止されたりします。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Le Nigeria possède la deuxième plus grande industrie cinématographique du monde, juste derrière les États-Unis.",
+        "correct": "F",
+        "explanation": "Faux (Le Nigeria est en fait la troisième plus grande industrie cinématographique, derrière les États-Unis et l'Inde.)"
+      },
+      {
+        "question": "La plupart des films de Nollywood sont destinés à être projetés dans de grandes salles de cinéma traditionnelles.",
+        "correct": "F",
+        "explanation": "Faux (Ils ne sont pas conçus pour le cinéma ; au lieu de cela, ils sont copiés sur des DVD et vendus dans des étals de rue.)"
+      },
+      {
+        "question": "L'anglais est la langue principale de la plupart des films nigérians pour représenter une langue neutre pour sa population diversifiée.",
+        "correct": "T",
+        "explanation": "Vrai (L'anglais est utilisé comme langue commune et neutre dans un pays où plus de 230 langues différentes sont parlées.)"
+      },
+      {
+        "question": "L'industrie cinématographique a commencé à prospérer en 1992 avec le succès d'un film appelé Living in Bondage.",
+        "correct": "T",
+        "explanation": "Vrai (Tout a commencé en 1992 avec Living in Bondage, qui a lancé la tendance de plus en plus populaire de ces films.)"
+      },
+      {
+        "question": "Les films de Nollywood sont parfois interdits pour éviter de créer des tensions liées à l'histoire de guerre civile du pays.",
+        "correct": "T",
+        "explanation": "Vrai (Certains sujets sont évités ou interdits car ils pourraient créer des tensions dans un pays comptant des personnes d'horizons si divers.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "나이지리아는 미국 바로 다음으로 세계에서 두 번째로 큰 영화 산업을 가지고 있다.",
+        "correct": "F",
+        "explanation": "거짓 (나이지리아는 실제로 미국과 인도에 이어 세계에서 세 번째로 큰 영화 산업입니다.)"
+      },
+      {
+        "question": "대부분의 놀리우드 영화는 크고 전통적인 영화관에서 상영될 목적으로 만들어졌다.",
+        "correct": "F",
+        "explanation": "거짓 (그것들은 영화관용으로 설계되지 않았습니다. 대신 DVD에 복사되어 노점에서 판매됩니다.)"
+      },
+      {
+        "question": "대부분의 나이지리아 영화는 다양한 인구를 위한 중립적인 언어를 나타내기 위해 영어를 주요 언어로 사용한다.",
+        "correct": "T",
+        "explanation": "참 (영어는 230개 이상의 다양한 언어가 사용되는 국가에서 공통적이고 중립적인 언어로 사용됩니다.)"
+      },
+      {
+        "question": "영화 산업은 1992년 'Living in Bondage'라는 영화의 성공과 함께 발전하기 시작했다.",
+        "correct": "T",
+        "explanation": "참 (모든 것은 1992년 'Living in Bondage'에서 시작되었으며, 이 영화는 이러한 영화의 점점 더 인기 있는 추세를 시작했습니다.)"
+      },
+      {
+        "question": "놀리우드 영화는 국가의 내전 역사와 관련된 긴장을 피하기 위해 때때로 금지된다.",
+        "correct": "T",
+        "explanation": "참 (특정 주제는 너무나 다양한 배경을 가진 국가에서 긴장을 유발할 수 있기 때문에 피해지거나 금지됩니다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "the third biggest film industry",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "cheap to produce",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Nigeria is home to the third biggest film industry, where movies are cheap to produce.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "copied directly onto DVDs",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "represent a common neutral language",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Films are copied directly onto DVDs and use English to represent a common neutral language.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nollywood is the third biggest film industry. Although films are cheap to produce and copied directly onto DVDs, they use English to represent a common neutral language.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "at the centre of the boom",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "deal with current issues",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Famous directors are at the centre of the boom, making dramas that deal with current issues.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "cause tensions",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "escaping from the problems",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Films are banned if they cause tensions, as most people prefer escaping from the problems of life.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Directors at the centre of the boom create stories that deal with current issues, yet they avoid subjects that cause tensions, focusing instead on escaping from the problems of everyday life.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "As the third biggest film industry, Nollywood makes movies that are cheap to produce and copied directly onto DVDs in English to represent a common neutral language. While directors are at the centre of the boom, they must avoid subjects that cause tensions, even when they deal with current issues or help people in escaping from the problems of a tough society.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "世界で3番目に大きい映画産業",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "安価に制作できる",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "ナイジェリアは世界で3番目に大きい映画産業の本場であり、映画は安価に制作できます。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "DVDに直接コピーされる",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "共通の中立的な言語を代表する",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "映画はDVDに直接コピーされ、共通の中立的な言語を代表するために英語を使用します。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "ノリウッドは世界で3番目に大きい映画産業です。映画は安価に制作されDVDに直接コピーされますが、共通の中立的な言語を代表するために英語を使用しています。",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "ブームの中心に",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "時事問題を扱う",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "有名な監督たちはブームの中心にいて、時事問題を扱うドラマを制作しています。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "緊張を引き起こす",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "問題から逃避する",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "緊張を引き起こす場合は映画は禁止されます。なぜなら、ほとんどの人は生活の問題から逃避することを好むからです。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "ブームの中心にいる監督たちは、時事問題を扱う物語を創作しますが、緊張を引き起こす主題は避け、代わりに日常生活の問題から逃避することに焦点を当てています。",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "世界で3番目に大きい映画産業として、ノリウッドは安価に制作され、共通の中立的な言語を代表するために英語でDVDに直接コピーされる映画を作っています。監督たちはブームの中心にいる一方で、時事問題を扱ったり、厳しい社会の問題から人々が逃避するのを助ける場合でも、緊張を引き起こす主題を避けなければなりません。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "la troisième plus grande industrie cinématographique",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "bon marché à produire",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Le Nigeria abrite la troisième plus grande industrie cinématographique, où les films sont bon marché à produire.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "copiés directement sur des DVD",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "représenter une langue neutre commune",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Les films sont copiés directement sur des DVD et utilisent l'anglais pour représenter une langue neutre commune.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nollywood est la troisième plus grande industrie cinématographique. Bien que les films soient bon marché à produire et copiés directement sur des DVD, ils utilisent l'anglais pour représenter une langue neutre commune.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "au centre du boom",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "traiter des questions d'actualité",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Les réalisateurs célèbres sont au centre du boom, créant des drames qui traitent des questions d'actualité.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "causer des tensions",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "s'échapper des problèmes",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Les films sont interdits s'ils causent des tensions, car la plupart des gens préfèrent s'échapper des problèmes de la vie.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les réalisateurs au centre du boom créent des histoires qui traitent des questions d'actualité, mais ils évitent les sujets qui causent des tensions, se concentrant plutôt sur l'évasion des problèmes de la vie quotidienne.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "En tant que troisième plus grande industrie cinématographique, Nollywood produit des films qui sont bon marché à produire et copiés directement sur des DVD en anglais pour représenter une langue neutre commune. Alors que les réalisateurs sont au centre du boom, ils doivent éviter les sujets qui causent des tensions, même lorsqu'ils traitent de questions d'actualité ou aident les gens à s'échapper des problèmes d'une société difficile.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "세계에서 세 번째로 큰 영화 산업",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "제작 비용이 저렴하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "나이지리아는 세계에서 세 번째로 큰 영화 산업의 본고장이며, 영화는 제작 비용이 저렴합니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "DVD에 직접 복사된다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "공통된 중립 언어를 대표하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "영화는 DVD에 직접 복사되며, 공통된 중립 언어를 대표하기 위해 영어를 사용합니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "놀리우드는 세계에서 세 번째로 큰 영화 산업입니다. 영화는 제작 비용이 저렴하고 DVD에 직접 복사되지만, 공통된 중립 언어를 대표하기 위해 영어를 사용합니다.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "붐의 중심에",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "시사 문제를 다루다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "유명한 감독들은 붐의 중심에 있으며, 시사 문제를 다루는 드라마를 제작하고 있습니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "긴장을 유발하다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "문제에서 벗어나다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "긴장을 유발하는 경우 영화는 금지됩니다. 대부분의 사람들은 삶의 문제에서 벗어나는 것을 선호하기 때문입니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "붐의 중심에 있는 감독들은 시사 문제를 다루는 이야기를 창조하지만, 긴장을 유발하는 주제는 피하고, 대신 일상 생활의 문제에서 벗어나는 것에 초점을 맞춥니다.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "세계에서 세 번째로 큰 영화 산업으로서, 놀리우드는 제작 비용이 저렴하고 공통된 중립 언어를 대표하기 위해 영어로 DVD에 직접 복사되는 영화를 만듭니다. 감독들은 붐의 중심에 있는 반면, 시사 문제를 다루거나 척박한 사회의 문제에서 사람들이 벗어나도록 도울 때에도 긴장을 유발하는 주제는 피해야 합니다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3 style='color:#2c3e50; border-bottom:2px solid #3498db; padding-bottom:10px; margin-top:0;'>1. Present Perfect Continuous (Duration)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• have/has + been + -ing</strong>: Used to talk about an action that <strong>started in the past</strong> and is <strong>still continuing</strong> now.</p><p style='margin:5px 0;'><strong>• for / since</strong>: Used with this tense to show <strong>how long</strong> the action has been happening.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> 'I <span style='color:#e67e22; font-weight:bold;'>have been learning</span> Turkish for the last two years.'<br><i style='color:#7f8c8d;'>(Peter's language study)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'We <span style='color:#16a085; font-weight:bold;'>have been rehearsing</span> The Rite of Spring recently.'<br><i style='color:#7f8c8d;'>(Gustavo's orchestra practice)</i></li></ul><h3 style='color:#2c3e50; border-bottom:2px solid #3498db; padding-bottom:10px; margin-top:25px;'>2. Adjectives with -ing (Describing Things)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• -ing adjectives</strong>: Used to describe the <strong>characteristic</strong> of a person, thing, or situation.</p><p style='margin:5px 0;'><strong>• common words</strong>: amazing, fascinating, boring, tiring, surprising, frightening.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'The stories are <span style='color:#2980b9; font-weight:bold;'>extra interesting</span>.'<br><i style='color:#7f8c8d;'>(Zelda's opinion on books)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'He does these <span style='color:#2980b9; font-weight:bold;'>beautiful, strange, thin sculptures</span>.'<br><i style='color:#7f8c8d;'>(Mary's description of art)</i></li></ul><h3 style='color:#2c3e50; border-bottom:2px solid #3498db; padding-bottom:10px; margin-top:25px;'>3. Adjectives with -ed (Describing Feelings)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• -ed adjectives</strong>: Used to describe <strong>how a person feels</strong> about something.</p><p style='margin:5px 0;'><strong>• common words</strong>: interested, bored, excited, frightened, annoyed, worried.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'I've become much more <span style='color:#d35400; font-weight:bold;'>interested</span> in sculpture.'<br><i style='color:#7f8c8d;'>(Mary's change in taste)</i></li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'His films are much <span style='color:#d35400; font-weight:bold;'>loved</span>.'<br><i style='color:#7f8c8d;'>(Fans' feelings toward Chico Ejiro)</i></li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: fascinating, depressing, rehearsing, obsessed, predictable</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. He is so <select class='vocab-select'><option value=''>── select ──</option><option value='fascinating'>fascinating</option><option value='depressing'>depressing</option><option value='rehearsing'>rehearsing</option><option value='obsessed'>obsessed</option><option value='predictable'>predictable</option></select> with that singer that he bought all her albums.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='obsessed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. The documentary about Nollywood was absolutely <select class='vocab-select'><option value=''>── select ──</option><option value='fascinating'>fascinating</option><option value='depressing'>depressing</option><option value='rehearsing'>rehearsing</option><option value='obsessed'>obsessed</option><option value='predictable'>predictable</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='fascinating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. I found the news about the war very <select class='vocab-select'><option value=''>── select ──</option><option value='fascinating'>fascinating</option><option value='depressing'>depressing</option><option value='rehearsing'>rehearsing</option><option value='obsessed'>obsessed</option><option value='predictable'>predictable</option></select> and sad.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='depressing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. The orchestra has been <select class='vocab-select'><option value=''>── select ──</option><option value='fascinating'>fascinating</option><option value='depressing'>depressing</option><option value='rehearsing'>rehearsing</option><option value='obsessed'>obsessed</option><option value='predictable'>predictable</option></select> for the big concert all week.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='rehearsing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. I hate watching movies with such <select class='vocab-select'><option value=''>── select ──</option><option value='fascinating'>fascinating</option><option value='depressing'>depressing</option><option value='rehearsing'>rehearsing</option><option value='obsessed'>obsessed</option><option value='predictable'>predictable</option></select> endings; I knew what would happen!<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='predictable' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: frightened, brilliant, extraordinary, exhibition, culture</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. It was an <select class='vocab-select'><option value=''>── select ──</option><option value='frightened'>frightened</option><option value='brilliant'>brilliant</option><option value='extraordinary'>extraordinary</option><option value='exhibition'>exhibition</option><option value='culture'>culture</option></select> achievement for such a young artist.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='extraordinary' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. That was a <select class='vocab-select'><option value=''>── select ──</option><option value='frightened'>frightened</option><option value='brilliant'>brilliant</option><option value='extraordinary'>extraordinary</option><option value='exhibition'>exhibition</option><option value='culture'>culture</option></select> performance; everyone clapped for ten minutes!<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='brilliant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. She was <select class='vocab-select'><option value=''>── select ──</option><option value='frightened'>frightened</option><option value='brilliant'>brilliant</option><option value='extraordinary'>extraordinary</option><option value='exhibition'>exhibition</option><option value='culture'>culture</option></select> by the loud noise in the dark.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='frightened' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Learning about a different <select class='vocab-select'><option value=''>── select ──</option><option value='frightened'>frightened</option><option value='brilliant'>brilliant</option><option value='extraordinary'>extraordinary</option><option value='exhibition'>exhibition</option><option value='culture'>culture</option></select> helps us understand the world.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='culture' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. The museum is hosting a new art <select class='vocab-select'><option value=''>── select ──</option><option value='frightened'>frightened</option><option value='brilliant'>brilliant</option><option value='extraordinary'>extraordinary</option><option value='exhibition'>exhibition</option><option value='culture'>culture</option></select> next month.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='exhibition' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: sculptures, masterpieces, obsessed, generation, annoying</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. My sister has been <select class='vocab-select'><option value=''>── select ──</option><option value='sculptures'>sculptures</option><option value='masterpieces'>masterpieces</option><option value='obsessed'>obsessed</option><option value='generation'>generation</option><option value='annoying'>annoying</option></select> with K-pop lately.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='obsessed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. The art gallery displays many famous <select class='vocab-select'><option value=''>── select ──</option><option value='sculptures'>sculptures</option><option value='masterpieces'>masterpieces</option><option value='obsessed'>obsessed</option><option value='generation'>generation</option><option value='annoying'>annoying</option></select> from the 19th century.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='masterpieces' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. The sound quality was very <select class='vocab-select'><option value=''>── select ──</option><option value='sculptures'>sculptures</option><option value='masterpieces'>masterpieces</option><option value='obsessed'>obsessed</option><option value='generation'>generation</option><option value='annoying'>annoying</option></select>, so I couldn't hear the actors.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='annoying' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Nollywood films are enjoyed by every <select class='vocab-select'><option value=''>── select ──</option><option value='sculptures'>sculptures</option><option value='masterpieces'>masterpieces</option><option value='obsessed'>obsessed</option><option value='generation'>generation</option><option value='annoying'>annoying</option></select> in Nigeria.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='generation' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. Giacometti created thin and tall <select class='vocab-select'><option value=''>── select ──</option><option value='sculptures'>sculptures</option><option value='masterpieces'>masterpieces</option><option value='obsessed'>obsessed</option><option value='generation'>generation</option><option value='annoying'>annoying</option></select> that look very strange.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='sculptures' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: genre, neutral, series, thriller, amazing</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Horror is a popular movie <select class='vocab-select'><option value=''>── select ──</option><option value='genre'>genre</option><option value='neutral'>neutral</option><option value='series'>series</option><option value='thriller'>thriller</option><option value='amazing'>amazing</option></select>, but it's not for everyone.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='genre' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. A crime <select class='vocab-select'><option value=''>── select ──</option><option value='genre'>genre</option><option value='neutral'>neutral</option><option value='series'>series</option><option value='thriller'>thriller</option><option value='amazing'>amazing</option></select> usually has a very exciting and tense plot.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='thriller' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. In Nigeria, English is used as a <select class='vocab-select'><option value=''>── select ──</option><option value='genre'>genre</option><option value='neutral'>neutral</option><option value='series'>series</option><option value='thriller'>thriller</option><option value='amazing'>amazing</option></select> language for everyone.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='neutral' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. It's <select class='vocab-select'><option value=''>── select ──</option><option value='genre'>genre</option><option value='neutral'>neutral</option><option value='series'>series</option><option value='thriller'>thriller</option><option value='amazing'>amazing</option></select> how many films they can produce in just ten days.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='amazing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. I've been watching a crime <select class='vocab-select'><option value=''>── select ──</option><option value='genre'>genre</option><option value='neutral'>neutral</option><option value='series'>series</option><option value='thriller'>thriller</option><option value='amazing'>amazing</option></select> on TV every Friday night.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='series' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 魅力的な, 憂鬱な, リハーサル, 夢中な, 予測可能な</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 彼はその歌手にあまりに<select class='vocab-select'><option value=''>── 選択 ──</option><option value='魅力的な'>魅力的な</option><option value='憂鬱な'>憂鬱な</option><option value='リハーサル'>リハーサル</option><option value='夢中な'>夢中な</option><option value='予測可能な'>予測可能な</option></select>で、彼女のアルバムを全部買ってしまった。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='obsessed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. ノリウッドに関するドキュメンタリーは本当に<select class='vocab-select'><option value=''>── 選択 ──</option><option value='魅力的な'>魅力的な</option><option value='憂鬱な'>憂鬱な</option><option value='リハーサル'>リハーサル</option><option value='夢中な'>夢中な</option><option value='予測可能な'>予測可能な</option></select>だった。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='fascinating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 戦争のニュースはとても<select class='vocab-select'><option value=''>── 選択 ──</option><option value='魅力的な'>魅力的な</option><option value='憂鬱な'>憂鬱な</option><option value='リハーサル'>リハーサル</option><option value='夢中な'>夢中な</option><option value='予測可能な'>予測可能な</option></select>で悲しかった。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='depressing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. オーケストラは大きなコンサートのために一週間中<select class='vocab-select'><option value=''>── 選択 ──</option><option value='魅力的な'>魅力的な</option><option value='憂鬱な'>憂鬱な</option><option value='リハーサル'>リハーサル</option><option value='夢中な'>夢中な</option><option value='予測可能な'>予測可能な</option></select>してきた。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='rehearsing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. あんなに<select class='vocab-select'><option value=''>── 選択 ──</option><option value='魅力的な'>魅力的な</option><option value='憂鬱な'>憂鬱な</option><option value='リハーサル'>リハーサル</option><option value='夢中な'>夢中な</option><option value='予測可能な'>予測可能な</option></select>結末の映画を見るのは嫌いだ。何が起こるか分かっていた！<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='predictable' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 怖がっている, 素晴らしい, 並外れた, 展覧会, 文化</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. それはそのような若いアーティストにとって<select class='vocab-select'><option value=''>── 選択 ──</option><option value='怖がっている'>怖がっている</option><option value='素晴らしい'>素晴らしい</option><option value='並外れた'>並外れた</option><option value='展覧会'>展覧会</option><option value='文化'>文化</option></select>な業績だった。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='extraordinary' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. それは<select class='vocab-select'><option value=''>── 選択 ──</option><option value='怖がっている'>怖がっている</option><option value='素晴らしい'>素晴らしい</option><option value='並外れた'>並外れた</option><option value='展覧会'>展覧会</option><option value='文化'>文化</option></select>なパフォーマンスだった。全員が10分間拍手した！<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='brilliant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 彼女は暗闇の中の大きな音に<select class='vocab-select'><option value=''>── 選択 ──</option><option value='怖がっている'>怖がっている</option><option value='素晴らしい'>素晴らしい</option><option value='並外れた'>並外れた</option><option value='展覧会'>展覧会</option><option value='文化'>文化</option></select>いた。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='frightened' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 異なる<select class='vocab-select'><option value=''>── 選択 ──</option><option value='怖がっている'>怖がっている</option><option value='素晴らしい'>素晴らしい</option><option value='並外れた'>並外れた</option><option value='展覧会'>展覧会</option><option value='文化'>文化</option></select>について学ぶことは世界を理解する助けとなる。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='culture' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 美術館は来月、新しい美術<select class='vocab-select'><option value=''>── 選択 ──</option><option value='怖がっている'>怖がっている</option><option value='素晴らしい'>素晴らしい</option><option value='並外れた'>並外れた</option><option value='展覧会'>展覧会</option><option value='文化'>文化</option></select>を開催する。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='exhibition' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 彫刻, 傑作, 夢中な, 世代, 迷惑な</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 私の妹は最近K-popに<select class='vocab-select'><option value=''>── 選択 ──</option><option value='彫刻'>彫刻</option><option value='傑作'>傑作</option><option value='夢中な'>夢中な</option><option value='世代'>世代</option><option value='迷惑な'>迷惑な</option></select>になっている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='obsessed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 美術館には19世紀の有名な<select class='vocab-select'><option value=''>── 選択 ──</option><option value='彫刻'>彫刻</option><option value='傑作'>傑作</option><option value='夢中な'>夢中な</option><option value='世代'>世代</option><option value='迷惑な'>迷惑な</option></select>が多数展示されている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='masterpieces' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 音質がとても<select class='vocab-select'><option value=''>── 選択 ──</option><option value='彫刻'>彫刻</option><option value='傑作'>傑作</option><option value='夢中な'>夢中な</option><option value='世代'>世代</option><option value='迷惑な'>迷惑な</option></select>だったので、俳優の声が聞こえなかった。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='annoying' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. ノリウッド映画はナイジェリアのあらゆる<select class='vocab-select'><option value=''>── 選択 ──</option><option value='彫刻'>彫刻</option><option value='傑作'>傑作</option><option value='夢中な'>夢中な</option><option value='世代'>世代</option><option value='迷惑な'>迷惑な</option></select>に楽しまれている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='generation' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. ジャコメッティは非常に奇妙な見た目の、細くて背の高い<select class='vocab-select'><option value=''>── 選択 ──</option><option value='彫刻'>彫刻</option><option value='傑作'>傑作</option><option value='夢中な'>夢中な</option><option value='世代'>世代</option><option value='迷惑な'>迷惑な</option></select>を制作した。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='sculptures' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: ジャンル, 中立的な, シリーズ, スリラー, 驚くべき</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. ホラーは人気のある映画<select class='vocab-select'><option value=''>── 選択 ──</option><option value='ジャンル'>ジャンル</option><option value='中立的な'>中立的な</option><option value='シリーズ'>シリーズ</option><option value='スリラー'>スリラー</option><option value='驚くべき'>驚くべき</option></select>だが、誰にでも合うわけではない。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='genre' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 犯罪<select class='vocab-select'><option value=''>── 選択 ──</option><option value='ジャンル'>ジャンル</option><option value='中立的な'>中立的な</option><option value='シリーズ'>シリーズ</option><option value='スリラー'>スリラー</option><option value='驚くべき'>驚くべき</option></select>は通常、非常にエキサイティングで緊張感のあるプロットを持っている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='thriller' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. ナイジェリアでは、英語は誰にとっても<select class='vocab-select'><option value=''>── 選択 ──</option><option value='ジャンル'>ジャンル</option><option value='中立的な'>中立的な</option><option value='シリーズ'>シリーズ</option><option value='スリラー'>スリラー</option><option value='驚くべき'>驚くべき</option></select>な言語として使用されている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='neutral' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. たった10日でどれだけ多くの映画を制作できるかは<select class='vocab-select'><option value=''>── 選択 ──</option><option value='ジャンル'>ジャンル</option><option value='中立的な'>中立的な</option><option value='シリーズ'>シリーズ</option><option value='スリラー'>スリラー</option><option value='驚くべき'>驚くべき</option></select>ことだ。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='amazing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 私は毎週金曜日の夜にテレビで犯罪<select class='vocab-select'><option value=''>── 選択 ──</option><option value='ジャンル'>ジャンル</option><option value='中立的な'>中立的な</option><option value='シリーズ'>シリーズ</option><option value='スリラー'>スリラー</option><option value='驚くべき'>驚くべき</option></select>を観ている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='series' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: fascinant, déprimant, répéter, obsédé, prévisible</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Il est tellement <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='fascinant'>fascinant</option><option value='déprimant'>déprimant</option><option value='répéter'>répéter</option><option value='obsédé'>obsédé</option><option value='prévisible'>prévisible</option></select> par cette chanteuse qu'il a acheté tous ses albums.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='obsessed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Le documentaire sur Nollywood était absolument <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='fascinant'>fascinant</option><option value='déprimant'>déprimant</option><option value='répéter'>répéter</option><option value='obsédé'>obsédé</option><option value='prévisible'>prévisible</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='fascinating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. J'ai trouvé les nouvelles de la guerre très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='fascinant'>fascinant</option><option value='déprimant'>déprimant</option><option value='répéter'>répéter</option><option value='obsédé'>obsédé</option><option value='prévisible'>prévisible</option></select> et tristes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='depressing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. L'orchestre a <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='fascinant'>fascinant</option><option value='déprimant'>déprimant</option><option value='répéter'>répéter</option><option value='obsédé'>obsédé</option><option value='prévisible'>prévisible</option></select> pour le grand concert toute la semaine.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='rehearsing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. Je déteste regarder des films avec des fins aussi <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='fascinant'>fascinant</option><option value='déprimant'>déprimant</option><option value='répéter'>répéter</option><option value='obsédé'>obsédé</option><option value='prévisible'>prévisible</option></select> ; je savais ce qui allait arriver !<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='predictable' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: effrayé, brillant, extraordinaire, exposition, culture</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. C'était une réussite <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='effrayé'>effrayé</option><option value='brillant'>brillant</option><option value='extraordinaire'>extraordinaire</option><option value='exposition'>exposition</option><option value='culture'>culture</option></select> pour un si jeune artiste.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='extraordinary' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. C'était une performance <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='effrayé'>effrayé</option><option value='brillant'>brillant</option><option value='extraordinaire'>extraordinaire</option><option value='exposition'>exposition</option><option value='culture'>culture</option></select> ; tout le monde a applaudi pendant dix minutes !<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='brilliant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Elle était <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='effrayé'>effrayé</option><option value='brillant'>brillant</option><option value='extraordinaire'>extraordinaire</option><option value='exposition'>exposition</option><option value='culture'>culture</option></select> par le bruit fort dans le noir.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='frightened' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Apprendre à connaître une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='effrayé'>effrayé</option><option value='brillant'>brillant</option><option value='extraordinaire'>extraordinaire</option><option value='exposition'>exposition</option><option value='culture'>culture</option></select> différente nous aide à comprendre le monde.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='culture' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. Le musée organise une nouvelle <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='effrayé'>effrayé</option><option value='brillant'>brillant</option><option value='extraordinaire'>extraordinaire</option><option value='exposition'>exposition</option><option value='culture'>culture</option></select> d'art le mois prochain.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='exhibition' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: sculptures, chefs-d'œuvre, obsédé, génération, agaçant</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Ma sœur est <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sculptures'>sculptures</option><option value='chefs-d'œuvre'>chefs-d'œuvre</option><option value='obsédé'>obsédé</option><option value='génération'>génération</option><option value='agaçant'>agaçant</option></select> par la K-pop ces derniers temps.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='obsessed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. La galerie d'art expose de nombreux <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sculptures'>sculptures</option><option value='chefs-d'œuvre'>chefs-d'œuvre</option><option value='obsédé'>obsédé</option><option value='génération'>génération</option><option value='agaçant'>agaçant</option></select> célèbres du 19e siècle.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='masterpieces' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. La qualité sonore était très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sculptures'>sculptures</option><option value='chefs-d'œuvre'>chefs-d'œuvre</option><option value='obsédé'>obsédé</option><option value='génération'>génération</option><option value='agaçant'>agaçant</option></select>, donc je n'entendais pas les acteurs.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='annoying' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Les films de Nollywood sont appréciés par chaque <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sculptures'>sculptures</option><option value='chefs-d'œuvre'>chefs-d'œuvre</option><option value='obsédé'>obsédé</option><option value='génération'>génération</option><option value='agaçant'>agaçant</option></select> au Nigeria.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='generation' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. Giacometti a créé des <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sculptures'>sculptures</option><option value='chefs-d'œuvre'>chefs-d'œuvre</option><option value='obsédé'>obsédé</option><option value='génération'>génération</option><option value='agaçant'>agaçant</option></select> fines et grandes qui semblent très étranges.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='sculptures' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: genre, neutre, série, thriller, étonnant</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. L'horreur est un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='genre'>genre</option><option value='neutre'>neutre</option><option value='série'>série</option><option value='thriller'>thriller</option><option value='étonnant'>étonnant</option></select> de film populaire, mais ce n'est pas pour tout le monde.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='genre' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='genre'>genre</option><option value='neutre'>neutre</option><option value='série'>série</option><option value='thriller'>thriller</option><option value='étonnant'>étonnant</option></select> policier a généralement une intrigue très excitante et tendue.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='thriller' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Au Nigeria, l'anglais est utilisé comme langue <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='genre'>genre</option><option value='neutre'>neutre</option><option value='série'>série</option><option value='thriller'>thriller</option><option value='étonnant'>étonnant</option></select> pour tout le monde.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='neutral' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. C'est <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='genre'>genre</option><option value='neutre'>neutre</option><option value='série'>série</option><option value='thriller'>thriller</option><option value='étonnant'>étonnant</option></select> combien de films ils peuvent produire en seulement dix jours.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='amazing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. Je regarde une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='genre'>genre</option><option value='neutre'>neutre</option><option value='série'>série</option><option value='thriller'>thriller</option><option value='étonnant'>étonnant</option></select> policière à la télévision tous les vendredis soir.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='series' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 매혹적인, 우울하게 하는, 리허설 중인, 집착하는, 예측 가능한</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 그는 그 가수에게 너무 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='매혹적인'>매혹적인</option><option value='우울하게 하는'>우울하게 하는</option><option value='리허설 중인'>리허설 중인</option><option value='집착하는'>집착하는</option><option value='예측 가능한'>예측 가능한</option></select>해서 그녀의 앨범을 모두 샀다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='obsessed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 놀리우드에 관한 다큐멘터리는 정말 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='매혹적인'>매혹적인</option><option value='우울하게 하는'>우울하게 하는</option><option value='리허설 중인'>리허설 중인</option><option value='집착하는'>집착하는</option><option value='예측 가능한'>예측 가능한</option></select>했다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='fascinating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 전쟁에 관한 뉴스는 매우 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='매혹적인'>매혹적인</option><option value='우울하게 하는'>우울하게 하는</option><option value='리허설 중인'>리허설 중인</option><option value='집착하는'>집착하는</option><option value='예측 가능한'>예측 가능한</option></select>하고 슬펐다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='depressing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 오케스트라는 큰 콘서트를 위해 일주일 내내 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='매혹적인'>매혹적인</option><option value='우울하게 하는'>우울하게 하는</option><option value='리허설 중인'>리허설 중인</option><option value='집착하는'>집착하는</option><option value='예측 가능한'>예측 가능한</option></select>해 왔다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='rehearsing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 나는 결말이 너무 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='매혹적인'>매혹적인</option><option value='우울하게 하는'>우울하게 하는</option><option value='리허설 중인'>리허설 중인</option><option value='집착하는'>집착하는</option><option value='예측 가능한'>예측 가능한</option></select> 영화를 보는 것이 싫다. 무슨 일이 일어날지 다 알겠더라!<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='predictable' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 겁먹은, 훌륭한, 비범한, 전시회, 문화</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 그것은 그런 젊은 예술가에게 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='겁먹은'>겁먹은</option><option value='훌륭한'>훌륭한</option><option value='비범한'>비범한</option><option value='전시회'>전시회</option><option value='문화'>문화</option></select>한 성취였다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='extraordinary' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 그것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='겁먹은'>겁먹은</option><option value='훌륭한'>훌륭한</option><option value='비범한'>비범한</option><option value='전시회'>전시회</option><option value='문화'>문화</option></select>한 공연이었다. 모두가 10분 동안 박수 쳤다!<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='brilliant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 그녀는 어둠 속의 큰 소음에 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='겁먹은'>겁먹은</option><option value='훌륭한'>훌륭한</option><option value='비범한'>비범한</option><option value='전시회'>전시회</option><option value='문화'>문화</option></select>했다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='frightened' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 다른 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='겁먹은'>겁먹은</option><option value='훌륭한'>훌륭한</option><option value='비범한'>비범한</option><option value='전시회'>전시회</option><option value='문화'>문화</option></select>에 대해 배우는 것은 세상을 이해하는 데 도움이 된다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='culture' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 박물관은 다음 달에 새로운 미술 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='겁먹은'>겁먹은</option><option value='훌륭한'>훌륭한</option><option value='비범한'>비범한</option><option value='전시회'>전시회</option><option value='문화'>문화</option></select>를 개최할 예정이다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='exhibition' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 조각품, 걸작, 집착하는, 세대, 짜증나는</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 우리 언니는 요즘 K-pop에 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='조각품'>조각품</option><option value='걸작'>걸작</option><option value='집착하는'>집착하는</option><option value='세대'>세대</option><option value='짜증나는'>짜증나는</option></select>해 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='obsessed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 미술관은 19세기의 유명한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='조각품'>조각품</option><option value='걸작'>걸작</option><option value='집착하는'>집착하는</option><option value='세대'>세대</option><option value='짜증나는'>짜증나는</option></select>들을 많이 전시하고 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='masterpieces' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 음질이 매우 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='조각품'>조각품</option><option value='걸작'>걸작</option><option value='집착하는'>집착하는</option><option value='세대'>세대</option><option value='짜증나는'>짜증나는</option></select>해서 배우들의 말을 들을 수 없었다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='annoying' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 놀리우드 영화는 나이지리아의 모든 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='조각품'>조각품</option><option value='걸작'>걸작</option><option value='집착하는'>집착하는</option><option value='세대'>세대</option><option value='짜증나는'>짜증나는</option></select>가 즐겨 본다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='generation' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 자코메티는 매우 이상하게 생긴 가냘프고 키가 큰 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='조각품'>조각품</option><option value='걸작'>걸작</option><option value='집착하는'>집착하는</option><option value='세대'>세대</option><option value='짜증나는'>짜증나는</option></select>들을 만들었다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='sculptures' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 장르, 중립적인, 시리즈, 스릴러, 놀라운</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 공포는 인기 있는 영화 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='장르'>장르</option><option value='중립적인'>중립적인</option><option value='시리즈'>시리즈</option><option value='스릴러'>스릴러</option><option value='놀라운'>놀라운</option></select>이지만, 모든 사람을 위한 것은 아니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='genre' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 범죄 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='장르'>장르</option><option value='중립적인'>중립적인</option><option value='시리즈'>시리즈</option><option value='스릴러'>스릴러</option><option value='놀라운'>놀라운</option></select>는 보통 매우 흥미진진하고 긴장감 넘치는 줄거리를 가지고 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='thriller' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 나이지리아에서 영어는 모든 사람을 위한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='장르'>장르</option><option value='중립적인'>중립적인</option><option value='시리즈'>시리즈</option><option value='스릴러'>스릴러</option><option value='놀라운'>놀라운</option></select> 언어로 사용된다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='neutral' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 단 10일 만에 얼마나 많은 영화를 제작할 수 있는지는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='장르'>장르</option><option value='중립적인'>중립적인</option><option value='시리즈'>시리즈</option><option value='스릴러'>스릴러</option><option value='놀라운'>놀라운</option></select> 일이다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='amazing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 나는 매주 금요일 밤마다 TV에서 범죄 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='장르'>장르</option><option value='중립적인'>중립적인</option><option value='시리즈'>시리즈</option><option value='스릴러'>스릴러</option><option value='놀라운'>놀라운</option></select>를 시청하고 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='series' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "The Core Reading and listening scripts introduced various cultural passions. How does Nollywood differ from Hollywood in terms of production, and what specific cultural activities have Peter and Gustavo been doing lately?",
+    "ja": "コアリーディングとリスニングのスクリプトでは、さまざまな文化的な情熱が紹介されました。制作面において、ノリウッドはハリウッドとどのように異なりますか？また、ピーターとグスターボは最近、どのような具体的な文化的活動をしてきましたか？",
+    "fr": "La lecture principale et les scripts d'écoute ont présenté diverses passions culturelles. En quoi Nollywood diffère-t-elle d'Hollywood en termes de production, et quelles activités culturelles spécifiques Peter et Gustavo ont-ils pratiquées récemment ?",
+    "ko": "코어 리딩과 리스닝 대본에서는 다양한 문화적 열정이 소개되었습니다. 제작 측면에서 놀리우드는 할리우드와 어떻게 다릅니까? 또한 피터와 구스타보는 최근 어떤 구체적인 문화 활동을 해 왔습니까?"
+  },
+  "content_check_keywords": {
+    "en": "ten days, tiny budgets, learning Turkish, rehearsing trumpet, been producing, been playing",
+    "ja": "10日間、少ない予算、トルコ語学習、トランペットのリハーサル、制作してきた、演奏してきた",
+    "fr": "dix jours, petits budgets, apprendre le turc, répéter la trompette, ont produit, ont joué",
+    "ko": "10일, 적은 예산, 터키어 배우기, 트럼펫 리허설, 제작해 왔다, 연주해 왔다"
+  },
+  "content_check_placeholder": {
+    "en": "Explain the production of Nollywood and the activities of Peter and Gustavo...",
+    "ja": "ノリウッドの制作方法と、ピーターとグスターボの活動を説明してください...",
+    "fr": "Expliquez la production de Nollywood et les activités de Peter et Gustavo...",
+    "ko": "놀리우드의 제작 방식과 피터와 구스타보의 활동을 설명하세요..."
+  },
+  "deepening_question": {
+    "en": "In the text, we saw that people become obsessed with things like music, sculpture, or crime thrillers. Some find these activities fascinating, while others might find them boring or annoying.<br><br>What is a cultural activity that you have been doing recently? Why do you find it interesting, and do you think other people might find it 'disappointing' or 'predictable'?",
+    "ja": "テキストの中で、人々が音楽、彫刻、犯罪スリラーなどに夢中になることがわかりました。これらの活動を魅力的だと感じる人もいれば、退屈だったり迷惑だと感じる人もいるかもしれません。<br><br>あなたが最近行っている文化的な活動は何ですか？なぜそれが面白いと思いますか？また、他の人がそれを「がっかりする」とか「予測可能」だと感じると思いますか？",
+    "fr": "Dans le texte, nous avons vu que les gens deviennent obsédés par des choses comme la musique, la sculpture ou les thrillers policiers. Certains trouvent ces activités fascinantes, tandis que d'autres pourraient les trouver ennuyeuses ou agaçantes.<br><br>Quelle est une activité culturelle que vous avez pratiquée récemment ? Pourquoi la trouvez-vous intéressante, et pensez-vous que d'autres personnes pourraient la trouver « décevante » ou « prévisible » ?",
+    "ko": "본문에서 우리는 사람들이 음악, 조각, 범죄 스릴러 같은 것들에 집착하게 되는 것을 보았습니다. 어떤 사람들은 이러한 활동을 매혹적으로 느끼는 반면, 다른 사람들은 지루하거나 짜증난다고 느낄 수도 있습니다.<br><br>당신이 최근에 해 온 문화 활동은 무엇입니까? 왜 그것이 흥미롭다고 생각하십니까? 그리고 다른 사람들이 그것을 '실망스럽다'거나 '예측 가능하다'고 생각할까요?"
+  },
+  "deepening_placeholder": {
+    "en": "Recently, I have been... I find it fascinating because... Others might think...",
+    "ja": "最近、私は...しています。それが魅力的だと感じる理由は...です。他の人は...と思うかもしれません。",
+    "fr": "Récemment, j'ai... Je trouve cela fascinant parce que... D'autres pourraient penser...",
+    "ko": "최근에 저는... 해 왔습니다. 그것이 매력적이라고 생각하는 이유는...입니다. 다른 사람들은...이라고 생각할 수도 있습니다."
+  },
+  "critical_question": {
+    "en": "We have explored how CULTURE—from Nigerian films to Venezuelan orchestras—can change lives and connect different people. We learned that culture isn't just entertainment; it can be a way to escape depressing situations or a tool for extraordinary social change.<br><br>Do you think 'low-budget' culture (like Nollywood) is just as important as 'high-budget' culture (like big Hollywood movies or expensive art exhibitions)?<br><br>Support your answer by using the grammar we learned (Present Perfect Continuous) to describe a cultural trend you have been following and explain why it is essential for society.",
+    "ja": "私たちは、ナイジェリアの映画からベネズエラのオーケストラまで、文化がどのように人生を変え、異なる人々をつなぐことができるかを探求してきました。文化は単なる娯楽ではなく、憂鬱な状況から逃避する方法や、並外れた社会変革のためのツールになり得ることを学びました。<br><br>「低予算の文化」（ノリウッドなど）は、「高予算の文化」（ハリウッドの大作や高価な美術展など）と同じくらい重要だと思いますか？<br><br>学んだ文法（現在完了進行形）を使って、あなたが最近注目している文化的な傾向を説明し、それが社会にとってなぜ不可欠なのかを述べて、あなたの答えを裏付けてください。",
+    "fr": "Nous avons exploré comment la CULTURE—des films nigérians aux orchestres vénézuéliens—peut changer des vies et connecter différentes personnes. Nous avons appris que la culture n'est pas seulement un divertissement ; elle peut être un moyen d'échapper à des situations déprimantes ou un outil de changement social extraordinaire.<br><br>Pensez-vous que la culture « à petit budget » (comme Nollywood) est aussi importante que la culture « à gros budget » (comme les grands films hollywoodiens ou les expositions d'art coûteuses) ?<br><br>Pour soutenir votre réponse, utilisez la grammaire que nous avons apprise (Present Perfect Continuous) pour décrire une tendance culturelle que vous avez suivie et expliquez pourquoi elle est essentielle pour la société.",
+    "ko": "우리는 나이지리아 영화부터 베네수엘라 오케스트라까지, 문화가 어떻게 삶을 바꾸고 다른 사람들을 연결할 수 있는지 탐구했습니다. 문화는 단순한 오락이 아니라, 우울한 상황에서 벗어나는 방법이거나 비범한 사회 변화를 위한 도구가 될 수 있음을 배웠습니다.<br><br>'저예산 문화'(놀리우드 같은)가 '고예산 문화'(할리우드 대작이나 값비싼 미술 전시회 같은)만큼 중요하다고 생각하십니까?<br><br>배운 문법(현재완료진행형)을 사용하여 당신이 따라오고 있는 문화적 트렌드를 설명하고, 그것이 사회에 왜 필수적인지 설명함으로써 당신의 답변을 뒷받침하세요."
+  },
+  "critical_placeholder": {
+    "en": "Compare low-budget vs. high-budget culture. Describe a trend you have been following using 'have been -ing' and explain its importance...",
+    "ja": "低予算の文化と高予算の文化を比較してください。'have been -ing' を使ってあなたが追いかけている傾向を説明し、その重要性を説明してください...",
+    "fr": "Comparez la culture à petit budget par rapport à la culture à gros budget. Décrivez une tendance que vous avez suivie en utilisant 'have been -ing' et expliquez son importance...",
+    "ko": "저예산 문화와 고예산 문화를 비교하세요. 'have been -ing'을 사용하여 당신이 따라온 트렌드를 설명하고 그 중요성을 설명하세요..."
+  }
+}

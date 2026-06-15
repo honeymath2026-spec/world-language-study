@@ -1,0 +1,1686 @@
+{
+  "meta": {
+    "level": "beginner",
+    "name": "New Headway Beginner",
+    "total_units": 14,
+    "languages": [
+      "en",
+      "ja",
+      "fr",
+      "ko"
+    ],
+    "version": "2.0"
+  },
+  "units": {
+    "1": {
+      "unit_id": 1,
+      "title": {
+        "en": "Hello!",
+        "ja": "こんにちは！",
+        "fr": "Bonjour !",
+        "ko": "안녕하세요!"
+      },
+      "theme": {
+        "en": "Greetings, introductions, classroom objects",
+        "ja": "あいさつ、じこしょうかい、きょうしつの もの",
+        "fr": "Salutations, présentations, objets de classe",
+        "ko": "인사, 소개, 교실 물건"
+      },
+      "story": {
+        "title": {
+          "en": "Sandra's First Day",
+          "ja": "サンドラの はつこく",
+          "fr": "Le premier jour de Sandra",
+          "ko": "샌드라의 첫날"
+        },
+        "paragraphs": {
+          "en": [
+            "Sandra is a new student. She is from Spain.",
+            "She meets Hiro at school. Hiro is from Japan.",
+            "Hello, I am Sandra. What is your name?",
+            "My name is Hiro. Nice to meet you.",
+            "Sandra asks: Where are you from, Hiro?",
+            "Hiro says: I am from Tokyo. And you?",
+            "I am from Madrid, says Sandra.",
+            "They become friends. They study English together."
+          ],
+          "ja": [
+            "サンドラは あたらしい がくせい です。かのじょは スペイン から きました。",
+            "かのじょは がっこう で ヒロ に あいます。ヒロは にほん から きました。",
+            "こんにちは、わたしは サンドラ です。あなたの なまえ は？",
+            "わたしの なまえ は ヒロ です。はじめまして。",
+            "サンドラは ききます: ヒロさんは どこから きましたか？",
+            "ヒロは いいます: とうきょう から きました。あなたは？",
+            "マドリード から きました、と サンドラは いいます。",
+            "ふたりは ともだち に なります。いっしょに えいご を べんきょう します。"
+          ],
+          "fr": [
+            "Sandra est une nouvelle étudiante. Elle vient d'Espagne.",
+            "Elle rencontre Hiro à l'école. Hiro vient du Japon.",
+            "Bonjour, je suis Sandra. Comment tu t'appelles ?",
+            "Je m'appelle Hiro. Enchanté.",
+            "Sandra demande: D'où viens-tu, Hiro ?",
+            "Hiro dit: Je viens de Tokyo. Et toi ?",
+            "Je viens de Madrid, dit Sandra.",
+            "Ils deviennent amis. Ils étudient l'anglais ensemble."
+          ],
+          "ko": [
+            "샌드라는 새 학생입니다. 그녀는 스페인 출신입니다.",
+            "그녀는 학교에서 히로를 만납니다. 히로는 일본 출신입니다.",
+            "안녕하세요, 저는 샌드라입니다. 이름이 무엇인가요?",
+            "제 이름은 히로입니다. 만나서 반가워요.",
+            "샌드라가 묻습니다: 히로 씨는 어디에서 왔나요?",
+            "히로가 말합니다: 도쿄에서 왔어요. 당신은요?",
+            "마드리드에서 왔어요, 라고 샌드라가 말합니다.",
+            "둘은 친구가 됩니다. 함께 영어를 공부합니다."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "Sandra: Hello! I am Sandra. What is your name?",
+          "Hiro: Hi, Sandra. My name is Hiro.",
+          "Sandra: Where are you from, Hiro?",
+          "Hiro: I am from Japan. I am from Tokyo.",
+          "Sandra: I am from Spain. I am from Madrid.",
+          "Hiro: Nice to meet you, Sandra!",
+          "Sandra: Nice to meet you too, Hiro!"
+        ],
+        "ja": [
+          "サンドラ: こんにちは！わたしは サンドラ です。おなまえ は？",
+          "ヒロ: こんにちは、サンドラさん。わたしは ヒロ です。",
+          "サンドラ: ヒロさんは どこから きましたか？",
+          "ヒロ: にほん から です。とうきょう から です。",
+          "サンドラ: わたしは スペイン から です。マドリード から です。",
+          "ヒロ: はじめまして、サンドラさん！",
+          "サンドラ: こちらこそ、ヒロさん！"
+        ],
+        "fr": [
+          "Sandra: Bonjour ! Je suis Sandra. Comment tu t'appelles ?",
+          "Hiro: Salut, Sandra. Je m'appelle Hiro.",
+          "Sandra: D'où viens-tu, Hiro ?",
+          "Hiro: Je viens du Japon. Je viens de Tokyo.",
+          "Sandra: Je viens d'Espagne. Je viens de Madrid.",
+          "Hiro: Enchanté, Sandra !",
+          "Sandra: Enchantée aussi, Hiro !"
+        ],
+        "ko": [
+          "샌드라: 안녕하세요! 저는 샌드라입니다. 이름이 무엇인가요?",
+          "히로: 안녕하세요, 샌드라. 제 이름은 히로입니다.",
+          "샌드라: 히로 씨는 어디에서 왔나요?",
+          "히로: 일본에서 왔어요. 도쿄 출신입니다.",
+          "샌드라: 저는 스페인에서 왔어요. 마드리드 출신입니다.",
+          "히로: 만나서 반가워요, 샌드라!",
+          "샌드라: 저도 반가워요, 히로!"
+        ]
+      }
+    },
+    "2": {
+      "unit_id": 2,
+      "title": {
+        "en": "Your world",
+        "ja": "あなたの せかい",
+        "fr": "Votre monde",
+        "ko": "당신의 세계"
+      },
+      "theme": {
+        "en": "Countries, nationalities, cities",
+        "ja": "くに、こくせき、まち",
+        "fr": "Pays, nationalités, villes",
+        "ko": "나라, 국적, 도시"
+      },
+      "story": {
+        "title": {
+          "en": "Around the World",
+          "ja": "せかいの あちこち",
+          "fr": "Autour du monde",
+          "ko": "세계 여행"
+        },
+        "paragraphs": {
+          "en": [
+            "Miguel and Glenna da Costa are from Rio de Janeiro.",
+            "They are in New York now.",
+            "Miguel is from Brazil. Glenna is from Toronto, Canada.",
+            "They are married. Glenna is a doctor.",
+            "Her hospital is in the centre of Rio.",
+            "Miguel is a teacher. His school is in the centre of Rio too.",
+            "They love their jobs. They are happy in New York."
+          ],
+          "ja": [
+            "ミゲルと グレナ・ダ・コスタは リオデジャネイロ から きました。",
+            "かれらは いま ニューヨーク に います。",
+            "ミゲルは ブラジル から きました。グレナは カナダの トロント から きました。",
+            "かれらは けっこん しています。グレナは いしゃ です。",
+            "かのじょの びょういん は リオの まんなか に あります。",
+            "ミゲルは せんせい です。かれの がっこう も リオの まんなか に あります。",
+            "かれらは じぶんの しごと が だいすき です。ニューヨークで しあわせ に くらしています。"
+          ],
+          "fr": [
+            "Miguel et Glenna da Costa sont de Rio de Janeiro.",
+            "Ils sont à New York maintenant.",
+            "Miguel est du Brésil. Glenna est de Toronto, Canada.",
+            "Ils sont mariés. Glenna est médecin.",
+            "Son hôpital est dans le centre de Rio.",
+            "Miguel est professeur. Son école est aussi dans le centre de Rio.",
+            "Ils aiment leur travail. Ils sont heureux à New York."
+          ],
+          "ko": [
+            "미구엘과 글레나 다 코스타는 리우데자네이루 출신입니다.",
+            "그들은 지금 뉴욕에 있습니다.",
+            "미구엘은 브라질 출신입니다. 글레나는 캐나다 토론토 출신입니다.",
+            "그들은 결혼했습니다. 글레나는 의사입니다.",
+            "그녀의 병원은 리우 중심에 있습니다.",
+            "미구엘은 선생님입니다. 그의 학교도 리우 중심에 있습니다.",
+            "그들은 자신의 일을 사랑합니다. 뉴욕에서 행복하게 지냅니다."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "Hiro: Where are you from, Sandra?",
+          "Sandra: I am from Spain. Where are you from?",
+          "Hiro: I am from Japan. From Tokyo.",
+          "Sandra: What is his name?",
+          "Hiro: His name is Luis. He is from Madrid.",
+          "Sandra: What is her name?",
+          "Hiro: Her name is Marie. She is from France."
+        ],
+        "ja": [
+          "ヒロ: サンドラさんは どこから きましたか？",
+          "サンドラ: スペイン から です。あなたは？",
+          "ヒロ: にほん から です。とうきょう から です。",
+          "サンドラ: かれの なまえ は なんですか？",
+          "ヒロ: ルイス です。マドリード から きました。",
+          "サンドラ: かのじょの なまえ は なんですか？",
+          "ヒロ: マリー です。フランス から きました。"
+        ],
+        "fr": [
+          "Hiro: D'où viens-tu, Sandra ?",
+          "Sandra: Je viens d'Espagne. Et toi ?",
+          "Hiro: Je viens du Japon. De Tokyo.",
+          "Sandra: Quel est son nom ?",
+          "Hiro: Il s'appelle Luis. Il est de Madrid.",
+          "Sandra: Quel est son nom à elle ?",
+          "Hiro: Elle s'appelle Marie. Elle est de France."
+        ],
+        "ko": [
+          "히로: 샌드라 씨는 어디에서 왔나요?",
+          "샌드라: 스페인에서 왔어요. 당신은요?",
+          "히로: 일본에서 왔어요. 도쿄에서요.",
+          "샌드라: 그의 이름은 무엇인가요?",
+          "히로: 루이스입니다. 마드리드 출신이에요.",
+          "샌드라: 그녀의 이름은 무엇인가요?",
+          "히로: 마리입니다. 프랑스 출신이에요."
+        ]
+      }
+    },
+    "3": {
+      "unit_id": 3,
+      "title": {
+        "en": "Personal information",
+        "ja": "じこ じょうほう",
+        "fr": "Informations personnelles",
+        "ko": "개인 정보"
+      },
+      "theme": {
+        "en": "Jobs, age, address, phone number",
+        "ja": "しごと、とし、じゅうしょ、でんわばんごう",
+        "fr": "Métiers, âge, adresse, numéro de téléphone",
+        "ko": "직업, 나이, 주소, 전화번호"
+      },
+      "story": {
+        "title": {
+          "en": "Amy Roberts",
+          "ja": "エイミー・ロバーツ",
+          "fr": "Amy Roberts",
+          "ko": "에이미 로버츠"
+        },
+        "paragraphs": {
+          "en": [
+            "Amy Roberts is from England.",
+            "She lives in Manchester.",
+            "Her address is 18 Market Street, Manchester.",
+            "Her phone number is 0161 929 5837.",
+            "She is twenty years old.",
+            "Amy is a student at Manchester College.",
+            "She studies English and French.",
+            "Amy is not married.",
+            "She lives alone in a small flat.",
+            "She wants to be a teacher."
+          ],
+          "ja": [
+            "エイミー・ロバーツは イギリス から きました。",
+            "かのじょは マンチェスター に すんで います。",
+            "かのじょの じゅうしょ は マンチェスター、マーケットストリート 18 ばんち です。",
+            "かのじょの でんわばんごう は 0161 929 5837 です。",
+            "かのじょは はたち です。",
+            "エイミーは マンチェスターカレッジの がくせい です。",
+            "かのじょは えいご と フランスご を べんきょう しています。",
+            "エイミーは けっこん していません。",
+            "かのじょは ひとり で ちいさい アパート に すんで います。",
+            "かのじょは せんせい に なりたい です。"
+          ],
+          "fr": [
+            "Amy Roberts vient d'Angleterre.",
+            "Elle habite à Manchester.",
+            "Son adresse est 18 Market Street, Manchester.",
+            "Son numéro de téléphone est 0161 929 5837.",
+            "Elle a vingt ans.",
+            "Amy est étudiante au Manchester College.",
+            "Elle étudie l'anglais et le français.",
+            "Amy n'est pas mariée.",
+            "Elle vit seule dans un petit appartement.",
+            "Elle veut devenir professeur."
+          ],
+          "ko": [
+            "에이미 로버츠는 영국 출신입니다.",
+            "그녀는 맨체스터에 삽니다.",
+            "그녀의 주소는 맨체스터 마켓 스트리트 18번지입니다.",
+            "그녀의 전화번호는 0161 929 5837입니다.",
+            "그녀는 스무 살입니다.",
+            "에이미는 맨체스터 칼리지 학생입니다.",
+            "그녀는 영어와 프랑스어를 공부합니다.",
+            "에이미는 결혼하지 않았습니다.",
+            "그녀는 작은 아파트에서 혼자 삽니다.",
+            "그녀는 선생님이 되고 싶습니다."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: What is her name?",
+          "B: Her name is Amy Roberts.",
+          "A: Where is she from?",
+          "B: She is from England.",
+          "A: What is her address?",
+          "B: 18 Market Street, Manchester.",
+          "A: Is she married?",
+          "B: No, she is not."
+        ],
+        "ja": [
+          "A: かのじょの なまえ は？",
+          "B: エイミー・ロバーツ です。",
+          "A: どこから きましたか？",
+          "B: イギリス です。",
+          "A: じゅうしょ は？",
+          "B: マンチェスター、マーケットストリート 18 ばんち です。",
+          "A: けっこん していますか？",
+          "B: いいえ。"
+        ],
+        "fr": [
+          "A: Quel est son nom ?",
+          "B: Elle s'appelle Amy Roberts.",
+          "A: D'où vient-elle ?",
+          "B: Elle vient d'Angleterre.",
+          "A: Quelle est son adresse ?",
+          "B: 18 Market Street, Manchester.",
+          "A: Est-elle mariée ?",
+          "B: Non."
+        ],
+        "ko": [
+          "A: 그녀의 이름은?",
+          "B: 에이미 로버츠입니다.",
+          "A: 어디에서 왔나요?",
+          "B: 영국에서 왔어요.",
+          "A: 주소가 어떻게 되나요?",
+          "B: 맨체스터 마켓 스트리트 18번지요.",
+          "A: 결혼했나요?",
+          "B: 아니요."
+        ]
+      }
+    },
+    "4": {
+      "unit_id": 4,
+      "title": {
+        "en": "Family and friends",
+        "ja": "かぞくと ともだち",
+        "fr": "Famille et amis",
+        "ko": "가족과 친구"
+      },
+      "theme": {
+        "en": "Family members, possessive",
+        "ja": "かぞく、しょゆう",
+        "fr": "Membres de la famille, possessif",
+        "ko": "가족 구성원, 소유격"
+      },
+      "story": {
+        "title": {
+          "en": "Sally's Family",
+          "ja": "サリーの かぞく",
+          "fr": "La famille de Sally",
+          "ko": "샐리의 가족"
+        },
+        "paragraphs": {
+          "en": [
+            "This is Sally Milton. She is married.",
+            "Her family is in London. Their house is in London.",
+            "She is a teacher. Her school is in the centre of town.",
+            "Tom is Sally's husband. He is a bank manager.",
+            "His bank is in the centre of town too.",
+            "Their children are Kirsty and Nick.",
+            "They are students at Camden College.",
+            "They are happy in London."
+          ],
+          "ja": [
+            "こちらは サリー・ミルトン です。かのじょは けっこん しています。",
+            "かのじょの かぞく は ロンドン に います。かれらの いえ は ロンドン に あります。",
+            "かのじょは せんせい です。かのじょの がっこう は まちの まんなか に あります。",
+            "トムは サリーの おっと です。かれは ぎんこうの しごと を しています。",
+            "かれの ぎんこう も まちの まんなか に あります。",
+            "かれらの こどもたち は カースティ と ニック です。",
+            "かれらは カムデンカレッジの がくせい です。",
+            "かれらは ロンドンで しあわせ に くらしています。"
+          ],
+          "fr": [
+            "Voici Sally Milton. Elle est mariée.",
+            "Sa famille est à Londres. Leur maison est à Londres.",
+            "Elle est professeur. Son école est dans le centre-ville.",
+            "Tom est le mari de Sally. Il est directeur de banque.",
+            "Sa banque est aussi dans le centre-ville.",
+            "Leurs enfants sont Kirsty et Nick.",
+            "Ils sont étudiants au Camden College.",
+            "Ils sont heureux à Londres."
+          ],
+          "ko": [
+            "이분은 샐리 밀턴입니다. 그녀는 결혼했습니다.",
+            "그녀의 가족은 런던에 있습니다. 그들의 집은 런던에 있어요.",
+            "그녀는 선생님입니다. 그녀의 학교는 시내 중심에 있어요.",
+            "톰은 샐리의 남편입니다. 그는 은행 지점장이에요.",
+            "그의 은행도 시내 중심에 있어요.",
+            "그들의 아이들은 커스티와 닉입니다.",
+            "그들은 Camden College의 학생입니다.",
+            "그들은 런던에서 행복하게 살고 있습니다."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: Is Sally married?",
+          "B: Yes, she is.",
+          "A: Where is their house?",
+          "B: It is in London.",
+          "A: What is Sally's job?",
+          "B: She is a teacher.",
+          "A: What is Tom's job?",
+          "B: He is a bank manager.",
+          "A: Are their children doctors?",
+          "B: No, they are students."
+        ],
+        "ja": [
+          "A: サリーは けっこん していますか？",
+          "B: はい。",
+          "A: かれらの いえ は どこですか？",
+          "B: ロンドン です。",
+          "A: サリーの しごと は なんですか？",
+          "B: せんせい です。",
+          "A: トムの しごと は なんですか？",
+          "B: ぎんこうの しごと を しています。",
+          "A: かれらの こどもたち は いしゃ ですか？",
+          "B: いいえ、がくせい です。"
+        ],
+        "fr": [
+          "A: Sally est-elle mariée ?",
+          "B: Oui, elle l'est.",
+          "A: Où est leur maison ?",
+          "B: Elle est à Londres.",
+          "A: Quel est le métier de Sally ?",
+          "B: Elle est professeur.",
+          "A: Quel est le métier de Tom ?",
+          "B: Il est directeur de banque.",
+          "A: Leurs enfants sont-ils médecins ?",
+          "B: Non, ce sont des étudiants."
+        ],
+        "ko": [
+          "A: 샐리는 결혼했나요?",
+          "B: 네, 그렇습니다.",
+          "A: 그들의 집은 어디인가요?",
+          "B: 런던에 있어요.",
+          "A: 샐리의 직업은 무엇인가요?",
+          "B: 선생님이에요.",
+          "A: 톰의 직업은 무엇인가요?",
+          "B: 은행 지점장이에요.",
+          "A: 그들의 아이들은 의사인가요?",
+          "B: 아니요, 학생들이에요."
+        ]
+      }
+    },
+    "5": {
+      "unit_id": 5,
+      "title": {
+        "en": "It's my life!",
+        "ja": "わたしの せいかつ！",
+        "fr": "C'est ma vie !",
+        "ko": "나의 일상!"
+      },
+      "theme": {
+        "en": "Sports, food, drinks, present simple",
+        "ja": "スポーツ、たべもの、のみもの",
+        "fr": "Sports, nourriture, boissons, présent simple",
+        "ko": "스포츠, 음식, 음료, 현재형"
+      },
+      "story": {
+        "title": {
+          "en": "Gordon Wilson from Aberdeen",
+          "ja": "アバディーンの ゴードン・ウィルソン",
+          "fr": "Gordon Wilson d'Aberdeen",
+          "ko": "애버딘 출신의 고든 윌슨"
+        },
+        "paragraphs": {
+          "en": [
+            "My name is Gordon Wilson.",
+            "I come from Aberdeen in Scotland, but now I live and work in London.",
+            "I have a very small flat near the centre.",
+            "I am a waiter and I am also a drama student.",
+            "I work in an Italian restaurant.",
+            "I eat Italian food and I drink Italian and French wine.",
+            "I do not drink beer. I do not like it.",
+            "And I do not play sports.",
+            "I speak three languages: English, French, and a little Italian.",
+            "I want to be an actor."
+          ],
+          "ja": [
+            "わたしの なまえ は ゴードン・ウィルソン です。",
+            "わたしは スコットランドの アバディーン から きました。でも いまは ロンドン に すんで はたらいています。",
+            "まちの まんなか の ちかく に とても ちいさい アパート が あります。",
+            "わたしは ウェイター で、えんげきの がくせい でも あります。",
+            "イタリアの レストラン で はたらいています。",
+            "イタリアの たべもの を たべて、イタリアと フランスの ワイン を のみます。",
+            "ビール は のみません。すき じゃ ありません。",
+            "そして スポーツ は しません。",
+            "わたしは 3つの ことば を はなせます。えいご、フランスご、そして イタリアご を すこし。",
+            "はいゆう に なりたい です。"
+          ],
+          "fr": [
+            "Je m'appelle Gordon Wilson.",
+            "Je viens d'Aberdeen en Écosse, mais maintenant je vis et travaille à Londres.",
+            "J'ai un très petit appartement près du centre.",
+            "Je suis serveur et aussi étudiant en art dramatique.",
+            "Je travaille dans un restaurant italien.",
+            "Je mange de la nourriture italienne et je bois du vin italien et français.",
+            "Je ne bois pas de bière. Je n'aime pas ça.",
+            "Et je ne fais pas de sport.",
+            "Je parle trois langues: l'anglais, le français et un peu d'italien.",
+            "Je veux devenir acteur."
+          ],
+          "ko": [
+            "제 이름은 고든 윌슨입니다.",
+            "저는 스코틀랜드 애버딘 출신이지만, 지금은 런던에 살며 일합니다.",
+            "시내 근처에 아주 작은 아파트가 있습니다.",
+            "저는 웨이터이고 연극 학생이기도 합니다.",
+            "이탈리안 레스토랑에서 일합니다.",
+            "이탈리아 음식을 먹고 이탈리아 와인과 프랑스 와인을 마십니다.",
+            "맥주는 마시지 않습니다. 싫어해서요.",
+            "그리고 운동도 하지 않습니다.",
+            "저는 세 가지 언어를 합니다: 영어, 프랑스어, 그리고 약간의 이탈리아어요.",
+            "배우가 되고 싶습니다."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: Do you come from Scotland?",
+          "B: Yes, I do.",
+          "A: Do you live in Aberdeen?",
+          "B: No, I do not. I live in London.",
+          "A: Do you live in a flat?",
+          "B: Yes, I do.",
+          "A: Do you like Italian food?",
+          "B: Yes, I do. I like it a lot.",
+          "A: Do you drink beer?",
+          "B: No, I do not. I do not like it.",
+          "A: Do you speak French?",
+          "B: Yes, I do. I speak French and English."
+        ],
+        "ja": [
+          "A: スコットランド から きましたか？",
+          "B: はい。",
+          "A: アバディーン に すんで いますか？",
+          "B: いいえ、ロンドン に すんで います。",
+          "A: アパート に すんで いますか？",
+          "B: はい。",
+          "A: イタリアの たべもの は すき ですか？",
+          "B: はい、とても すき です。",
+          "A: ビール は のみますか？",
+          "B: いいえ、すき じゃ ない ので のみません。",
+          "A: フランスご を はなせますか？",
+          "B: はい、フランスご と えいご を はなせます。"
+        ],
+        "fr": [
+          "A: Venez-vous d'Écosse ?",
+          "B: Oui.",
+          "A: Habitez-vous à Aberdeen ?",
+          "B: Non, j'habite à Londres.",
+          "A: Habitez-vous dans un appartement ?",
+          "B: Oui.",
+          "A: Aimez-vous la nourriture italienne ?",
+          "B: Oui, beaucoup.",
+          "A: Buvez-vous de la bière ?",
+          "B: Non, je n'aime pas ça.",
+          "A: Parlez-vous français ?",
+          "B: Oui, je parle français et anglais."
+        ],
+        "ko": [
+          "A: 스코틀랜드 출신인가요?",
+          "B: 네.",
+          "A: 애버딘에 살고 있나요?",
+          "B: 아니요, 런던에 살아요.",
+          "A: 아파트에 살고 있나요?",
+          "B: 네.",
+          "A: 이탈리아 음식을 좋아하나요?",
+          "B: 네, 매우 좋아해요.",
+          "A: 맥주를 마시나요?",
+          "B: 아니요, 싫어해서 안 마셔요.",
+          "A: 프랑스어를 할 수 있나요?",
+          "B: 네, 프랑스어와 영어를 할 수 있어요."
+        ]
+      }
+    },
+    "6": {
+      "unit_id": 6,
+      "title": {
+        "en": "Every day",
+        "ja": "まいにち",
+        "fr": "Chaque jour",
+        "ko": "매일"
+      },
+      "theme": {
+        "en": "Daily routine, time, adverbs of frequency",
+        "ja": "まいにちの くらし、じかん",
+        "fr": "Routine quotidienne, heure, adverbes de fréquence",
+        "ko": "일상, 시간, 빈도 부사"
+      },
+      "story": {
+        "title": {
+          "en": "A Computer Millionaire's Day",
+          "ja": "コンピューターの おかねもち の いちにち",
+          "fr": "La journée d'un millionnaire de l'informatique",
+          "ko": "컴퓨터 백만장자의 하루"
+        },
+        "paragraphs": {
+          "en": [
+            "Karl Wilk is 22 and he is a computer millionaire.",
+            "He is the director of netstore24.com, a 24-hour shopping site on the Internet.",
+            "He gets up at six o'clock and he has a shower.",
+            "He has breakfast at six forty-five.",
+            "He leaves home at seven fifteen and goes to work by taxi.",
+            "He has lunch in his office at one o'clock.",
+            "He usually works late. He leaves work at eight in the evening.",
+            "He sometimes buys a pizza and eats it at home.",
+            "He gets home at eight thirty.",
+            "He never goes out in the evening. He works at his computer.",
+            "He goes to bed at eleven forty-five."
+          ],
+          "ja": [
+            "カール・ウィルクは 22さい の コンピューターの おかねもち です。",
+            "かれは 24じかん あいている インターネット かいもの サイト netstore24.com の しゃちょう です。",
+            "かれは 6じ に おきて、シャワー を あびます。",
+            "かれは 6じ 45ふん に あさごはん を たべます。",
+            "かれは 7じ 15ふん に いえ を でて、タクシー で しごと に いきます。",
+            "かれは 1じ に じむしょ で ひるごはん を たべます。",
+            "かれは たいてい おそく まで はたらきます。よる 8じ に しごと を おわります。",
+            "かれは ときどき ピザ を かって いえ で たべます。",
+            "かれは 8じ はん に いえ に かえります。",
+            "かれは ぜったいに よる に そと に でません。コンピューター で しごと を します。",
+            "かれは 11じ 45ふん に ねます。"
+          ],
+          "fr": [
+            "Karl Wilk a 22 ans et c'est un millionnaire de l'informatique.",
+            "Il est le directeur de netstore24.com, un site de shopping en ligne 24 heures sur 24.",
+            "Il se lève à six heures et il prend une douche.",
+            "Il prend son petit déjeuner à six heures quarante-cinq.",
+            "Il quitte la maison à sept heures quinze et va au travail en taxi.",
+            "Il déjeune dans son bureau à une heure.",
+            "Il travaille généralement tard. Il quitte le travail à vingt heures.",
+            "Il achète parfois une pizza et la mange à la maison.",
+            "Il rentre à la maison à vingt heures trente.",
+            "Il ne sort jamais le soir. Il travaille sur son ordinateur.",
+            "Il se couche à vingt-trois heures quarante-cinq."
+          ],
+          "ko": [
+            "칼 윌크는 22세의 컴퓨터 백만장자입니다.",
+            "그는 24시간 인터넷 쇼핑 사이트 netstore24.com의 디렉터입니다.",
+            "그는 6시에 일어나서 샤워를 합니다.",
+            "그는 6시 45분에 아침을 먹습니다.",
+            "그는 7시 15분에 집을 나서서 택시로 출근합니다.",
+            "그는 1시에 사무실에서 점심을 먹습니다.",
+            "그는 보통 늦게까지 일합니다. 저녁 8시에 퇴근합니다.",
+            "그는 가끔 피자를 사서 집에서 먹습니다.",
+            "그는 8시 30분에 집에 도착합니다.",
+            "그는 절대 저녁에 외출하지 않습니다. 컴퓨터로 일합니다.",
+            "그는 11시 45분에 잠자리에 듭니다."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: What time do you get up?",
+          "B: I get up at seven thirty.",
+          "A: What time do you have breakfast?",
+          "B: I have breakfast at eight o'clock.",
+          "A: What time do you go to work?",
+          "B: I go to work at eight fifteen.",
+          "A: What time do you have lunch?",
+          "B: I have lunch at one o'clock.",
+          "A: What time do you go home?",
+          "B: I go home at five thirty.",
+          "A: What time do you go to bed?",
+          "B: I go to bed at eleven o'clock."
+        ],
+        "ja": [
+          "A: なんじ に おきますか？",
+          "B: 7じ はん に おきます。",
+          "A: なんじ に あさごはん を たべますか？",
+          "B: 8じ に たべます。",
+          "A: なんじ に しごと に いきますか？",
+          "B: 8じ 15ふん に いきます。",
+          "A: なんじ に ひるごはん を たべますか？",
+          "B: 1じ に たべます。",
+          "A: なんじ に いえ に かえりますか？",
+          "B: 5じ はん に かえります。",
+          "A: なんじ に ねますか？",
+          "B: 11じ に ねます。"
+        ],
+        "fr": [
+          "A: À quelle heure te lèves-tu ?",
+          "B: Je me lève à sept heures et demie.",
+          "A: À quelle heure prends-tu ton petit déjeuner ?",
+          "B: Je prends mon petit déjeuner à huit heures.",
+          "A: À quelle heure vas-tu au travail ?",
+          "B: Je vais au travail à huit heures quinze.",
+          "A: À quelle heure déjeunes-tu ?",
+          "B: Je déjeune à treize heures.",
+          "A: À quelle heure rentres-tu à la maison ?",
+          "B: Je rentre à dix-sept heures trente.",
+          "A: À quelle heure te couches-tu ?",
+          "B: Je me couche à vingt-trois heures."
+        ],
+        "ko": [
+          "A: 몇 시에 일어나나요?",
+          "B: 7시 30분에 일어나요.",
+          "A: 몇 시에 아침을 먹나요?",
+          "B: 8시에 먹어요.",
+          "A: 몇 시에 출근하나요?",
+          "B: 8시 15분에 가요.",
+          "A: 몇 시에 점심을 먹나요?",
+          "B: 1시에 먹어요.",
+          "A: 몇 시에 집에 가나요?",
+          "B: 5시 30분에 가요.",
+          "A: 몇 시에 자나요?",
+          "B: 11시에 자요."
+        ]
+      }
+    },
+    "7": {
+      "unit_id": 7,
+      "title": {
+        "en": "Places I like",
+        "ja": "すきな ばしょ",
+        "fr": "Les endroits que j'aime",
+        "ko": "내가 좋아하는 장소"
+      },
+      "theme": {
+        "en": "Places, buildings, directions",
+        "ja": "ばしょ、たてもの、みち",
+        "fr": "Lieux, bâtiments, directions",
+        "ko": "장소, 건물, 길 안내"
+      },
+      "story": {
+        "title": {
+          "en": "Celine in London",
+          "ja": "ロンドンの セリーヌ",
+          "fr": "Céline à Londres",
+          "ko": "런던의 셀린"
+        },
+        "paragraphs": {
+          "en": [
+            "Celine is a famous Hollywood film star.",
+            "She is in her house in London with Guy Norman, a journalist.",
+            "Guy says: This is a very beautiful house.",
+            "Celine says: Thank you. I like it very much.",
+            "Guy asks: Why do you live here in London?",
+            "Celine says: Because I just love it here!",
+            "The people are fantastic! I love them!",
+            "And my husband, Charles, is English, and I love him too."
+          ],
+          "ja": [
+            "セリーヌは ゆうめいな ハリウッド えいが スター です。",
+            "かのじょは ロンドンの いえ で きしゃの ガイ・ノーマン と います。",
+            "ガイ: とても きれいな いえ ですね。",
+            "セリーヌ: ありがとう。とても きに いっています。",
+            "ガイ: なぜ ロンドン に すんで いる のですか？",
+            "セリーヌ: ここ が だいすき だから です！",
+            "ひとびと は すばらしい です！だいすき です！",
+            "そして わたしの おっと チャールズ は イギリスじん で、かれも だいすき です。"
+          ],
+          "fr": [
+            "Céline est une célèbre star de cinéma à Hollywood.",
+            "Elle est dans sa maison à Londres avec Guy Norman, un journaliste.",
+            "Guy dit: Cette maison est très belle.",
+            "Céline dit: Merci. Je l'aime beaucoup.",
+            "Guy demande: Pourquoi habitez-vous à Londres ?",
+            "Céline dit: Parce que j'adore cet endroit !",
+            "Les gens sont fantastiques ! Je les aime !",
+            "Et mon mari, Charles, est anglais, et je l'aime aussi."
+          ],
+          "ko": [
+            "셀린은 유명한 할리우드 영화 스타입니다.",
+            "그녀는 저널리스트 가이 노먼과 함께 런던의 자택에 있습니다.",
+            "가이: 아주 아름다운 집이네요.",
+            "셀린: 고마워요. 매우 마음에 들어요.",
+            "가이: 왜 런던에 살고 있나요?",
+            "셀린: 이곳이 정말 좋기 때문이에요!",
+            "사람들이 환상적이에요! 정말 좋아해요!",
+            "그리고 제 남편 찰스는 영국인이고, 그도 사랑해요."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: Excuse me, is there a bank near here?",
+          "B: Yes, go straight on. It is on the left.",
+          "A: Thank you very much.",
+          "B: You are welcome.",
+          "A: Excuse me, where is the post office?",
+          "B: Turn left at the church. It is next to the cinema.",
+          "A: Is it far?",
+          "B: No, it is about two hundred metres."
+        ],
+        "ja": [
+          "A: すみません、この ちかく に ぎんこう は ありますか？",
+          "B: はい、まっすぐ いって ください。ひだりがわ に あります。",
+          "A: ありがとう ございます。",
+          "B: どういたしまして。",
+          "A: すみません、ゆうびんきょく は どこですか？",
+          "B: きょうかい で ひだり に まがって ください。えいがかん の となり です。",
+          "A: とおい ですか？",
+          "B: いいえ、およそ 200 メートル です。"
+        ],
+        "fr": [
+          "A: Excusez-moi, y a-t-il une banque près d'ici ?",
+          "B: Oui, allez tout droit. C'est sur la gauche.",
+          "A: Merci beaucoup.",
+          "B: De rien.",
+          "A: Excusez-moi, où est la poste ?",
+          "B: Tournez à gauche à l'église. C'est à côté du cinéma.",
+          "A: C'est loin ?",
+          "B: Non, c'est à environ deux cents mètres."
+        ],
+        "ko": [
+          "A: 실례합니다, 여기 근처에 은행이 있나요?",
+          "B: 네, 곧장 가세요. 왼쪽에 있어요.",
+          "A: 대단히 감사합니다.",
+          "B: 천만에요.",
+          "A: 실례합니다, 우체국이 어디인가요?",
+          "B: 교회에서 왼쪽으로 도세요. 영화관 옆에 있어요.",
+          "A: 멀리 있나요?",
+          "B: 아니요, 약 200미터 정도예요."
+        ]
+      }
+    },
+    "8": {
+      "unit_id": 8,
+      "title": {
+        "en": "Where I live",
+        "ja": "わたしの すむ ばしょ",
+        "fr": "Là où j'habite",
+        "ko": "내가 사는 곳"
+      },
+      "theme": {
+        "en": "Rooms, furniture, there is/are",
+        "ja": "へや、かぐ",
+        "fr": "Pièces, meubles, il y a",
+        "ko": "방, 가구, there is/are"
+      },
+      "story": {
+        "title": {
+          "en": "Nicole's Living Room",
+          "ja": "ニコールの リビング",
+          "fr": "Le salon de Nicole",
+          "ko": "니콜의 거실"
+        },
+        "paragraphs": {
+          "en": [
+            "Nicole lives in a small flat in Paris.",
+            "Her living room is not very big, but she loves it.",
+            "There is a comfortable sofa in the living room.",
+            "There are also two armchairs.",
+            "In front of the sofa, there is a small table.",
+            "On the table, there is a TV.",
+            "There are a lot of books on the shelf.",
+            "Nicole also has a CD player and some CDs.",
+            "There are beautiful pictures on the wall.",
+            "There are two lamps that give warm light.",
+            "It is a very comfortable and cozy room.",
+            "Nicole likes to read books in her living room.",
+            "She often listens to music there too.",
+            "Her friends like to visit her.",
+            "They always have a good time together."
+          ],
+          "ja": [
+            "ニコールは パリの ちいさい アパート に すんで います。",
+            "かのじょの リビング は あまり ひろく ありません が、だいすき です。",
+            "リビング に は きもちのいい ソファ が あります。",
+            "ひじかけいす も ふたつ あります。",
+            "ソファの まえ に は ちいさい テーブル が あります。",
+            "テーブルの うえ に は テレビ が あります。",
+            "ほんだな に は たくさんの ほん が あります。",
+            "ニコールは CD プレーヤー と なんまいかの CD も もっています。",
+            "かべ に は きれいな え が あります。",
+            "あたたかい ひかり を くれる ランプ が ふたつ あります。",
+            "とても きもちがよくて あたたかい へや です。",
+            "ニコールは リビング で ほん を よむ のが すき です。",
+            "よく そこで おんがく も ききます。",
+            "かのじょの ともだち は あそびに くる のが すき です。",
+            "かれらは いつも いっしょに たのしい じかん を すごします。"
+          ],
+          "fr": [
+            "Nicole habite dans un petit appartement à Paris.",
+            "Son salon n'est pas très grand, mais elle l'aime.",
+            "Il y a un canapé confortable dans le salon.",
+            "Il y a aussi deux fauteuils.",
+            "Devant le canapé, il y a une petite table.",
+            "Sur la table, il y a une télévision.",
+            "Il y a beaucoup de livres sur l'étagère.",
+            "Nicole a aussi un lecteur CD et quelques CD.",
+            "Il y a de belles images sur le mur.",
+            "Il y a deux lampes qui donnent une lumière chaude.",
+            "C'est une pièce très confortable et douillette.",
+            "Nicole aime lire des livres dans son salon.",
+            "Elle écoute souvent de la musique là aussi.",
+            "Ses amis aiment lui rendre visite.",
+            "Ils passent toujours de bons moments ensemble."
+          ],
+          "ko": [
+            "니콜은 파리의 작은 아파트에 살고 있습니다.",
+            "그녀의 거실은 별로 크지 않지만, 정말 좋아합니다.",
+            "거실에는 편안한 소파가 하나 있습니다.",
+            "안락의자도 두 개 있습니다.",
+            "소파 앞에는 작은 테이블이 있습니다.",
+            "테이블 위에는 TV가 있습니다.",
+            "책장에는 책이 많이 있습니다.",
+            "니콜은 CD 플레이어와 CD도 가지고 있습니다.",
+            "벽에는 아름다운 그림들이 있습니다.",
+            "따뜻한 빛을 주는 램프가 두 개 있습니다.",
+            "아주 편안하고 아늑한 방입니다.",
+            "니콜은 거실에서 책 읽는 것을 좋아합니다.",
+            "그곳에서 음악도 자주 듣습니다.",
+            "그녀의 친구들은 그녀를 방문하길 좋아합니다.",
+            "그들은 항상 함께 좋은 시간을 보냅니다."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: Is there a sofa in your living room?",
+          "B: Yes, there is.",
+          "A: Are there any armchairs?",
+          "B: Yes, there are two armchairs.",
+          "A: Is there a television?",
+          "B: Yes, there is a small TV on the table.",
+          "A: Is there a CD player?",
+          "B: Yes, there is."
+        ],
+        "ja": [
+          "A: リビング に ソファ は ありますか？",
+          "B: はい、あります。",
+          "A: ひじかけいす は ありますか？",
+          "B: はい、ふたつ あります。",
+          "A: テレビ は ありますか？",
+          "B: はい、テーブルの うえ に ちいさい テレビ が あります。",
+          "A: CD プレーヤー は ありますか？",
+          "B: はい、あります。"
+        ],
+        "fr": [
+          "A: Y a-t-il un canapé dans votre salon ?",
+          "B: Oui, il y en a un.",
+          "A: Y a-t-il des fauteuils ?",
+          "B: Oui, il y a deux fauteuils.",
+          "A: Y a-t-il une télévision ?",
+          "B: Oui, il y a une petite télé sur la table.",
+          "A: Y a-t-il un lecteur CD ?",
+          "B: Oui, il y en a un."
+        ],
+        "ko": [
+          "A: 거실에 소파가 있나요?",
+          "B: 네, 있어요.",
+          "A: 안락의자는 있나요?",
+          "B: 네, 두 개 있어요.",
+          "A: TV는 있나요?",
+          "B: 네, 테이블 위에 작은 TV가 있어요.",
+          "A: CD 플레이어는 있나요?",
+          "B: 네, 있어요."
+        ]
+      }
+    },
+    "9": {
+      "unit_id": 9,
+      "title": {
+        "en": "Happy birthday!",
+        "ja": "おたんじょうび！",
+        "fr": "Bon anniversaire !",
+        "ko": "생일 축하!"
+      },
+      "theme": {
+        "en": "Years, birthdays, past of be",
+        "ja": "とし、たんじょうび",
+        "fr": "Années, anniversaires, passé de be",
+        "ko": "연도, 생일, be동사 과거형"
+      },
+      "story": {
+        "title": {
+          "en": "Famous People",
+          "ja": "ゆうめいな ひとびと",
+          "fr": "Personnes célèbres",
+          "ko": "유명 인사들"
+        },
+        "paragraphs": {
+          "en": [
+            "Leonardo da Vinci was a painter and scientist.",
+            "He was born in 1452 in Tuscany, Italy.",
+            "Marie Curie was a scientist.",
+            "She was born in 1867 in Warsaw, Poland.",
+            "William Shakespeare was a writer.",
+            "He was born in 1564 in England.",
+            "Marilyn Monroe was an actress.",
+            "She was born in 1926 in the United States.",
+            "Elvis Presley was a singer.",
+            "He was born in 1935 in the United States."
+          ],
+          "ja": [
+            "レオナルド・ダ・ヴィンチは えかき で かがくしゃ でした。",
+            "かれは 1452ねん に イタリアの トスカーナ で うまれました。",
+            "マリー・キュリーは かがくしゃ でした。",
+            "かのじょは 1867ねん に ポーランドの ワルシャワ で うまれました。",
+            "ウィリアム・シェイクスピアは さっか でした。",
+            "かれは 1564ねん に イギリス で うまれました。",
+            "マリリン・モンローは じょゆう でした。",
+            "かのじょは 1926ねん に アメリカ で うまれました。",
+            "エルビス・プレスリーは かしゅ でした。",
+            "かれは 1935ねん に アメリカ で うまれました。"
+          ],
+          "fr": [
+            "Leonardo da Vinci était peintre et scientifique.",
+            "Il est né en 1452 en Toscane, en Italie.",
+            "Marie Curie était scientifique.",
+            "Elle est née en 1867 à Varsovie, en Pologne.",
+            "William Shakespeare était écrivain.",
+            "Il est né en 1564 en Angleterre.",
+            "Marilyn Monroe était actrice.",
+            "Elle est née en 1926 aux États-Unis.",
+            "Elvis Presley était chanteur.",
+            "Il est né en 1935 aux États-Unis."
+          ],
+          "ko": [
+            "레오나르도 다 빈치는 화가이자 과학자였습니다.",
+            "그는 1452년 이탈리아 토스카나에서 태어났습니다.",
+            "마리 퀴리는 과학자였습니다.",
+            "그녀는 1867년 폴란드 바르샤바에서 태어났습니다.",
+            "윌리엄 셰익스피어는 작가였습니다.",
+            "그는 1564년 영국에서 태어났습니다.",
+            "마릴린 먼로는 배우였습니다.",
+            "그녀는 1926년 미국에서 태어났습니다.",
+            "엘비스 프레슬리는 가수였습니다.",
+            "그는 1935년 미국에서 태어났습니다."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: When were you born?",
+          "B: I was born in 1986.",
+          "A: When was he born?",
+          "B: He was born in 1975.",
+          "A: When was she born?",
+          "B: She was born in 1991.",
+          "A: When were they born?",
+          "B: They were born in 2001.",
+          "A: Where were you born?",
+          "B: I was born in Seoul."
+        ],
+        "ja": [
+          "A: いつ うまれましたか？",
+          "B: 1986ねん に うまれました。",
+          "A: かれは いつ うまれましたか？",
+          "B: 1975ねん に うまれました。",
+          "A: かのじょは いつ うまれましたか？",
+          "B: 1991ねん に うまれました。",
+          "A: かれらは いつ うまれましたか？",
+          "B: 2001ねん に うまれました。",
+          "A: どこで うまれましたか？",
+          "B: ソウル で うまれました。"
+        ],
+        "fr": [
+          "A: Quand êtes-vous né ?",
+          "B: Je suis né en 1986.",
+          "A: Quand est-il né ?",
+          "B: Il est né en 1975.",
+          "A: Quand est-elle née ?",
+          "B: Elle est née en 1991.",
+          "A: Quand sont-ils nés ?",
+          "B: Ils sont nés en 2001.",
+          "A: Où êtes-vous né ?",
+          "B: Je suis né à Séoul."
+        ],
+        "ko": [
+          "A: 언제 태어났나요?",
+          "B: 1986년에 태어났어요.",
+          "A: 그는 언제 태어났나요?",
+          "B: 1975년에 태어났어요.",
+          "A: 그녀는 언제 태어났나요?",
+          "B: 1991년에 태어났어요.",
+          "A: 그들은 언제 태어났나요?",
+          "B: 2001년에 태어났어요.",
+          "A: 어디에서 태어났나요?",
+          "B: 서울에서 태어났어요."
+        ]
+      }
+    },
+    "10": {
+      "unit_id": 10,
+      "title": {
+        "en": "We had a good time!",
+        "ja": "たのしい じかん を すごしました！",
+        "fr": "Nous avons passé un bon moment !",
+        "ko": "좋은 시간을 보냈어요!"
+      },
+      "theme": {
+        "en": "Past simple, regular and irregular verbs",
+        "ja": "かこけい",
+        "fr": "Passé simple, verbes réguliers et irréguliers",
+        "ko": "과거형, 규칙 및 불규칙 동사"
+      },
+      "story": {
+        "title": {
+          "en": "A Good Weekend",
+          "ja": "すてきな しゅうまつ",
+          "fr": "Un bon week-end",
+          "ko": "좋았던 주말"
+        },
+        "paragraphs": {
+          "en": [
+            "Yesterday was Sunday, so I got up late, at eleven thirty.",
+            "I had a big breakfast: orange juice, toast, eggs, and coffee.",
+            "Then I went shopping to the supermarket.",
+            "I bought some chocolate and a Sunday newspaper.",
+            "In the afternoon I listened to music and then I watched a film on TV.",
+            "In the evening I cooked a meal just for me, soup and a salad.",
+            "I went to bed early. It was a lovely, lazy day."
+          ],
+          "ja": [
+            "きのうは にちようび だったので、おそく おきました。11じ はん です。",
+            "おおきな あさごはん を たべました。オレンジジュース、トースト、たまご、コーヒー。",
+            "それから スーパー に かいもの に いきました。",
+            "チョコレート と にちようび しんぶん を かいました。",
+            "ごご は おんがく を きいて、それから テレビ で えいが を みました。",
+            "ゆうがた に は じぶん だけ の ために しょくじ を つくりました。スープ と サラダ です。",
+            "はやく ねました。すてきで のんびりした いちにち でした。"
+          ],
+          "fr": [
+            "Hier c'était dimanche, donc je me suis levé tard, à onze heures et demie.",
+            "J'ai pris un grand petit déjeuner: jus d'orange, toast, œufs et café.",
+            "Ensuite je suis allé faire les courses au supermarché.",
+            "J'ai acheté du chocolat et un journal du dimanche.",
+            "L'après-midi, j'ai écouté de la musique puis j'ai regardé un film à la télé.",
+            "Le soir, j'ai cuisiné un repas juste pour moi, de la soupe et une salade.",
+            "Je me suis couché tôt. C'était une belle journée paresseuse."
+          ],
+          "ko": [
+            "어제는 일요일이라서 늦게 일어났어요. 11시 30분이었어요.",
+            "아침을 푸짐하게 먹었어요: 오렌지 주스, 토스트, 계란, 커피.",
+            "그리고 슈퍼마켓에 쇼핑하러 갔어요.",
+            "초콜릿과 일요일 신문을 샀어요.",
+            "오후에는 음악을 듣고 TV에서 영화를 봤어요.",
+            "저녁에는 나 혼자만을 위한 식사를 만들었어요. 수프와 샐러드요.",
+            "일찍 잤어요. 아름답고 게으른 하루였어요."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: Did you have a good weekend?",
+          "B: Yes, I did, thanks.",
+          "A: What did you do yesterday?",
+          "B: I got up early and played tennis with some friends.",
+          "A: Did you go out yesterday afternoon?",
+          "B: No, I did not. I stayed at home.",
+          "A: What did you do yesterday evening?",
+          "B: I did not do much. I worked a bit at my computer."
+        ],
+        "ja": [
+          "A: しゅうまつ は たのしかった ですか？",
+          "B: はい、たのしかった です。",
+          "A: きのう は なに を しましたか？",
+          "B: はやおき して ともだち と テニス を しました。",
+          "A: きのうの ごご は でかけましたか？",
+          "B: いいえ、いえ に いました。",
+          "A: きのうの ゆうがた は なに を しましたか？",
+          "B: あまり なにも しませんでした。コンピューター で すこし しごと を しました。"
+        ],
+        "fr": [
+          "A: As-tu passé un bon week-end ?",
+          "B: Oui, merci.",
+          "A: Qu'as-tu fait hier ?",
+          "B: Je me suis levé tôt et j'ai joué au tennis avec des amis.",
+          "A: Es-tu sorti hier après-midi ?",
+          "B: Non, je suis resté à la maison.",
+          "A: Qu'as-tu fait hier soir ?",
+          "B: Je n'ai pas fait grand-chose. J'ai un peu travaillé sur mon ordinateur."
+        ],
+        "ko": [
+          "A: 주말 잘 보냈어요?",
+          "B: 네, 잘 보냈어요.",
+          "A: 어제 뭐 했어요?",
+          "B: 일찍 일어나서 친구들이랑 테니스를 쳤어요.",
+          "A: 어제 오후에 외출했어요?",
+          "B: 아니요, 집에 있었어요.",
+          "A: 어제 저녁에는 뭐 했어요?",
+          "B: 별로 한 게 없어요. 컴퓨터로 일 좀 했어요."
+        ]
+      }
+    },
+    "11": {
+      "unit_id": 11,
+      "title": {
+        "en": "We can do it!",
+        "ja": "できるよ！",
+        "fr": "Nous pouvons le faire !",
+        "ko": "할 수 있어요!"
+      },
+      "theme": {
+        "en": "Abilities, can/can't, requests",
+        "ja": "できる こと",
+        "fr": "Capacités, can/can't, demandes",
+        "ko": "능력, 할 수 있다/없다, 요청"
+      },
+      "story": {
+        "title": {
+          "en": "Josh and Tessa",
+          "ja": "ジョシュと テッサ",
+          "fr": "Josh et Tessa",
+          "ko": "조쉬와 테사"
+        },
+        "paragraphs": {
+          "en": [
+            "Tessa asks Josh: Can you use a computer?",
+            "Josh says: Yes, of course I can.",
+            "All my friends can. I use a computer at school and at home.",
+            "Tessa asks: What other things can you do?",
+            "Josh says: I can run fast, very fast.",
+            "I can draw a bit. I can draw planes and cars very well.",
+            "But I cannot drive a car, of course.",
+            "When I am big I want to be a farmer and drive a tractor.",
+            "I can speak French very well because my dad is French.",
+            "And I can cook! I can make cakes."
+          ],
+          "ja": [
+            "テッサが ジョシュ に ききます: コンピューター を つかえますか？",
+            "ジョシュ: はい、もちろん できます。",
+            "ともだち は みんな できます。がっこう でも いえ でも コンピューター を つかいます。",
+            "テッサ: ほかに なに が できますか？",
+            "ジョシュ: はやく はしれます。とても はやく。",
+            "え を すこし かけます。ひこうき や くるま は とても じょうず に かけます。",
+            "でも もちろん くるま の うんてん は できません。",
+            "おおきく なったら のうか に なって トラクター を うんてん したい です。",
+            "フランスご は とても じょうず に はなせます。おとうさん が フランスじん だから です。",
+            "そして りょうり も できます！ケーキ が つくれます。"
+          ],
+          "fr": [
+            "Tessa demande à Josh: Sais-tu utiliser un ordinateur ?",
+            "Josh dit: Oui, bien sûr.",
+            "Tous mes amis le savent. J'utilise un ordinateur à l'école et à la maison.",
+            "Tessa demande: Quelles autres choses sais-tu faire ?",
+            "Josh dit: Je peux courir vite, très vite.",
+            "Je peux dessiner un peu. Je peux très bien dessiner des avions et des voitures.",
+            "Mais je ne peux pas conduire une voiture, bien sûr.",
+            "Quand je serai grand, je veux être agriculteur et conduire un tracteur.",
+            "Je parle très bien français parce que mon père est français.",
+            "Et je sais cuisiner ! Je sais faire des gâteaux."
+          ],
+          "ko": [
+            "테사가 조쉬에게 묻습니다: 컴퓨터 사용할 수 있니?",
+            "조쉬: 응, 물론 할 수 있어.",
+            "내 친구들 모두 할 수 있어. 학교에서도 집에서도 컴퓨터를 사용해.",
+            "테사: 다른 건 뭐 할 수 있니?",
+            "조쉬: 빨리 달릴 수 있어, 아주 빨리.",
+            "그림도 조금 그릴 수 있어. 비행기랑 자동차는 아주 잘 그려.",
+            "그런데 물론 자동차는 운전 못 해.",
+            "크면 농부가 되어서 트랙터를 운전하고 싶어.",
+            "프랑스어는 아주 잘 할 수 있어. 아빠가 프랑스 사람이거든.",
+            "그리고 요리도 할 수 있어! 케이크도 만들 수 있어."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: Can you use a computer?",
+          "B: Yes, of course I can.",
+          "A: Can you speak French?",
+          "B: Yes, I can.",
+          "A: Can you speak Spanish?",
+          "B: No, I cannot.",
+          "A: Can you swim?",
+          "B: Yes, I can.",
+          "A: Can you play the piano?",
+          "B: No, I cannot.",
+          "A: Can I help you?",
+          "B: Yes, please."
+        ],
+        "ja": [
+          "A: コンピューター を つかえますか？",
+          "B: はい、もちろん できます。",
+          "A: フランスご を はなせますか？",
+          "B: はい、はなせます。",
+          "A: スペインご を はなせますか？",
+          "B: いいえ、はなせません。",
+          "A: およげますか？",
+          "B: はい、およげます。",
+          "A: ピアノ を ひけますか？",
+          "B: いいえ、ひけません。",
+          "A: おてつだい しましょうか？",
+          "B: はい、おねがいします。"
+        ],
+        "fr": [
+          "A: Sais-tu utiliser un ordinateur ?",
+          "B: Oui, bien sûr.",
+          "A: Sais-tu parler français ?",
+          "B: Oui.",
+          "A: Sais-tu parler espagnol ?",
+          "B: Non.",
+          "A: Sais-tu nager ?",
+          "B: Oui.",
+          "A: Sais-tu jouer du piano ?",
+          "B: Non.",
+          "A: Puis-je vous aider ?",
+          "B: Oui, s'il vous plaît."
+        ],
+        "ko": [
+          "A: 컴퓨터 사용할 수 있나요?",
+          "B: 네, 물론 할 수 있어요.",
+          "A: 프랑스어 할 수 있나요?",
+          "B: 네, 할 수 있어요.",
+          "A: 스페인어 할 수 있나요?",
+          "B: 아니요, 못 해요.",
+          "A: 수영할 수 있나요?",
+          "B: 네, 할 수 있어요.",
+          "A: 피아노 칠 수 있나요?",
+          "B: 아니요, 못 쳐요.",
+          "A: 도와드릴까요?",
+          "B: 네, 부탁드려요."
+        ]
+      }
+    },
+    "12": {
+      "unit_id": 12,
+      "title": {
+        "en": "Thank you very much!",
+        "ja": "ありがとう ございます！",
+        "fr": "Merci beaucoup !",
+        "ko": "대단히 감사합니다!"
+      },
+      "theme": {
+        "en": "Food, restaurant, shopping, would like",
+        "ja": "たべもの、レストラン、かいもの",
+        "fr": "Nourriture, restaurant, shopping, would like",
+        "ko": "음식, 레스토랑, 쇼핑, would like"
+      },
+      "story": {
+        "title": {
+          "en": "Enrique's Trip to Town",
+          "ja": "エンリケの まち への たび",
+          "fr": "Le voyage d'Enrique en ville",
+          "ko": "엔리케의 시내 나들이"
+        },
+        "paragraphs": {
+          "en": [
+            "Enrique goes to town. He has a shopping list.",
+            "First, he goes to the post office. He wants a stamp.",
+            "He says: Good morning. I would like a stamp for this letter to Venezuela, please.",
+            "Next, he goes to a cafe. He says: I would like a cup of coffee, please.",
+            "The waiter asks: Would you like black or white?",
+            "Enrique says: Black, please.",
+            "Then he goes to a bookshop. He wants to buy a Spanish-English dictionary.",
+            "The assistant asks: Would you like a big dictionary or a mini dictionary?",
+            "Enrique says: Just a mini dictionary, please.",
+            "He buys the dictionary and goes home."
+          ],
+          "ja": [
+            "エンリケは まち に いきます。かいもの リスト が あります。",
+            "まず ゆうびんきょく に いきます。きって が ほしい です。",
+            "かれは いいます: おはよう ございます。ベネズエラ に おくる この てがみ の きって を ください。",
+            "つぎに カフェ に いきます。コーヒー を のみたい です。",
+            "ウェイター が ききます: ブラック と ホワイト、どちら に しますか？",
+            "エンリケ: ブラック で おねがいします。",
+            "それから ほんや に いきます。スペインご-えいご じてん を かいたい です。",
+            "てんいん が ききます: おおきな じてん と ミニ じてん、どちら に しますか？",
+            "エンリケ: ミニ じてん を ください。",
+            "じてん を かって いえ に かえります。"
+          ],
+          "fr": [
+            "Enrique va en ville. Il a une liste de courses.",
+            "D'abord, il va à la poste. Il veut un timbre.",
+            "Il dit: Bonjour, je voudrais un timbre pour cette lettre pour le Venezuela, s'il vous plaît.",
+            "Ensuite, il va dans un café. Il dit: Je voudrais une tasse de café, s'il vous plaît.",
+            "Le serveur demande: Voulez-vous du noir ou du blanc ?",
+            "Enrique dit: Noir, s'il vous plaît.",
+            "Puis il va dans une librairie. Il veut acheter un dictionnaire espagnol-anglais.",
+            "Le vendeur demande: Voulez-vous un grand dictionnaire ou un mini dictionnaire ?",
+            "Enrique dit: Juste un mini dictionnaire, s'il vous plaît.",
+            "Il achète le dictionnaire et rentre chez lui."
+          ],
+          "ko": [
+            "엔리케가 시내에 나갑니다. 쇼핑 목록이 있습니다.",
+            "먼저 우체국에 갑니다. 우표가 필요합니다.",
+            "그가 말합니다: 안녕하세요. 베네수엘라로 보낼 이 편지의 우표를 주세요.",
+            "다음으로 카페에 갑니다. 커피를 마시고 싶다고 말합니다.",
+            "웨이터가 묻습니다: 블랙과 화이트 중 무엇으로 드릴까요?",
+            "엔리케: 블랙으로 주세요.",
+            "그다음 서점에 갑니다. 스페인어-영어 사전을 사고 싶습니다.",
+            "점원이 묻습니다: 큰 사전과 미니 사전 중 어떤 걸 원하세요?",
+            "엔리케: 미니 사전만 주세요.",
+            "사전을 사고 집으로 돌아갑니다."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: I would like a stamp, please.",
+          "B: Here you are. That is 75 pence.",
+          "A: Thank you.",
+          "B: You are welcome.",
+          "A: I would like a cup of coffee, please.",
+          "B: Would you like black or white?",
+          "A: Black, please.",
+          "B: Here you are. One pound twenty, please.",
+          "A: I would like to buy a dictionary.",
+          "B: Would you like a big dictionary or a mini dictionary?",
+          "A: A mini dictionary, please."
+        ],
+        "ja": [
+          "A: きって を ください。",
+          "B: はい、75 ペンス です。",
+          "A: ありがとう ございます。",
+          "B: どういたしまして。",
+          "A: コーヒー を ください。",
+          "B: ブラック と ホワイト、どちら に しますか？",
+          "A: ブラック で おねがいします。",
+          "B: はい、1 ポンド 20 ペンス です。",
+          "A: じてん を かいたい のですが。",
+          "B: おおきな じてん と ミニ じてん、どちら に しますか？",
+          "A: ミニ じてん を ください。"
+        ],
+        "fr": [
+          "A: Je voudrais un timbre, s'il vous plaît.",
+          "B: Voilà. C'est 75 pence.",
+          "A: Merci.",
+          "B: De rien.",
+          "A: Je voudrais une tasse de café, s'il vous plaît.",
+          "B: Voulez-vous du noir ou du blanc ?",
+          "A: Noir, s'il vous plaît.",
+          "B: Voilà. Une livre vingt, s'il vous plaît.",
+          "A: Je voudrais acheter un dictionnaire.",
+          "B: Voulez-vous un grand dictionnaire ou un mini dictionnaire ?",
+          "A: Un mini dictionnaire, s'il vous plaît."
+        ],
+        "ko": [
+          "A: 우표 좀 주세요.",
+          "B: 여기 있습니다. 75펜스입니다.",
+          "A: 감사합니다.",
+          "B: 천만에요.",
+          "A: 커피 한 잔 주세요.",
+          "B: 블랙과 화이트 중 어떤 걸로 드릴까요?",
+          "A: 블랙으로 주세요.",
+          "B: 여기 있습니다. 1파운드 20펜스입니다.",
+          "A: 사전을 사고 싶습니다.",
+          "B: 큰 사전과 미니 사전 중 어떤 걸 원하세요?",
+          "A: 미니 사전으로 주세요."
+        ]
+      }
+    },
+    "13": {
+      "unit_id": 13,
+      "title": {
+        "en": "Here and now",
+        "ja": "いま ここで",
+        "fr": "Ici et maintenant",
+        "ko": "지금 여기서"
+      },
+      "theme": {
+        "en": "Present continuous, clothes, colours",
+        "ja": "いま している こと、ふく、いろ",
+        "fr": "Présent continu, vêtements, couleurs",
+        "ko": "현재진행형, 옷, 색깔"
+      },
+      "story": {
+        "title": {
+          "en": "George on Holiday",
+          "ja": "きゅうじつの ジョージ",
+          "fr": "George en vacances",
+          "ko": "휴가 중인 조지"
+        },
+        "paragraphs": {
+          "en": [
+            "George usually works in a bank.",
+            "He starts work at 9.00 and leaves at 5.30.",
+            "He always wears a black jacket and grey trousers.",
+            "Now George is on holiday in Thailand with his wife.",
+            "He is wearing a white T-shirt.",
+            "His wife is reading a book.",
+            "They are having lunch.",
+            "George says: We are having a great holiday."
+          ],
+          "ja": [
+            "ジョージは たいてい ぎんこう で はたらきます。",
+            "9じ に しごと を はじめ、5じ はん に おわります。",
+            "いつも くろい ジャケット と はいいろの ズボン を きます。",
+            "いま ジョージは つま と タイ で きゅうじつ を すごしています。",
+            "しろい Tシャツ を きています。",
+            "つま は ほん を よんでいます。",
+            "かれらは ひるごはん を たべています。",
+            "ジョージ: すばらしい きゅうじつ を すごしています。"
+          ],
+          "fr": [
+            "George travaille habituellement dans une banque.",
+            "Il commence à 9h00 et finit à 17h30.",
+            "Il porte toujours une veste noire et un pantalon gris.",
+            "Maintenant George est en vacances en Thaïlande avec sa femme.",
+            "Il porte un T-shirt blanc.",
+            "Sa femme lit un livre.",
+            "Ils déjeunent.",
+            "George dit: Nous passons de très bonnes vacances."
+          ],
+          "ko": [
+            "조지는 평소에 은행에서 일합니다.",
+            "9시에 일을 시작하고 5시 30분에 끝냅니다.",
+            "항상 검은 자켓과 회색 바지를 입습니다.",
+            "지금 조지는 아내와 함께 태국에서 휴가 중입니다.",
+            "흰색 티셔츠를 입고 있어요.",
+            "아내는 책을 읽고 있어요.",
+            "그들은 점심을 먹고 있어요.",
+            "조지: 정말 멋진 휴가를 보내고 있어요."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: What are you doing here in Milan?",
+          "B: I am working. There is a big fashion show here.",
+          "A: Are you staying in a hotel?",
+          "B: No, I am not. I am staying with friends.",
+          "A: Are you having a good time?",
+          "B: Yes, I am. I am enjoying it very much.",
+          "A: What are you wearing now?",
+          "B: I am not wearing anything special. Just jeans and a T-shirt."
+        ],
+        "ja": [
+          "A: ミラノ で なに を していますか？",
+          "B: しごと です。ここで おおきな ファッションショー が あります。",
+          "A: ホテル に とまっていますか？",
+          "B: いいえ、ともだち の いえ に とまっています。",
+          "A: たのしく すごしていますか？",
+          "B: はい、とても たのしんでいます。",
+          "A: いま なに を きていますか？",
+          "B: とくべつな もの は なにも きていません。ジーンズ と Tシャツ です。"
+        ],
+        "fr": [
+          "A: Que faites-vous ici à Milan ?",
+          "B: Je travaille. Il y a un grand défilé de mode ici.",
+          "A: Séjournez-vous dans un hôtel ?",
+          "B: Non, je reste chez des amis.",
+          "A: Passez-vous un bon moment ?",
+          "B: Oui, je l'apprécie beaucoup.",
+          "A: Que portez-vous maintenant ?",
+          "B: Je ne porte rien de spécial. Juste un jean et un T-shirt."
+        ],
+        "ko": [
+          "A: 밀라노에서 무엇을 하고 있나요?",
+          "B: 일하고 있어요. 여기서 큰 패션쇼가 열려요.",
+          "A: 호텔에 묵고 있나요?",
+          "B: 아니요, 친구 집에 머물고 있어요.",
+          "A: 즐거운 시간을 보내고 있나요?",
+          "B: 네, 아주 즐겁게 보내고 있어요.",
+          "A: 지금 뭐 입고 있나요?",
+          "B: 특별한 건 입고 있지 않아요. 그냥 청바지와 티셔츠요."
+        ]
+      }
+    },
+    "14": {
+      "unit_id": 14,
+      "title": {
+        "en": "It's time to go!",
+        "ja": "でかける じかん です！",
+        "fr": "Il est temps de partir !",
+        "ko": "갈 시간이에요!"
+      },
+      "theme": {
+        "en": "Future plans, transport, travel",
+        "ja": "これからの けいかく、のりもの、たび",
+        "fr": "Projets futurs, transport, voyage",
+        "ko": "미래 계획, 교통, 여행"
+      },
+      "story": {
+        "title": {
+          "en": "Ellie's Holiday Plans",
+          "ja": "エリーの きゅうか けいかく",
+          "fr": "Les projets de vacances d'Ellie",
+          "ko": "엘리의 휴가 계획"
+        },
+        "paragraphs": {
+          "en": [
+            "Ellie is going on holiday to Mexico next Friday.",
+            "On Monday she is collecting her tickets from the travel agent.",
+            "On Tuesday she is meeting her friends Ed and Lucy after work.",
+            "They are going shopping.",
+            "On Wednesday she is seeing the doctor at eleven o'clock.",
+            "Then she is having lunch with her mother.",
+            "On Thursday she is leaving work early and she is packing.",
+            "She is taking just a bag and a rucksack.",
+            "On Friday at six thirty in the morning she is going by taxi to the airport.",
+            "She is meeting Ed and Lucy there.",
+            "At nine thirty they are flying to Mexico City.",
+            "Ellie is very excited."
+          ],
+          "ja": [
+            "エリーは らいしゅうの きんようび に メキシコ へ きゅうか に いきます。",
+            "げつようび は りょこうがいしゃ で チケット を うけとります。",
+            "かようび は しごと が おわって から ともだちの エド と ルーシー に あいます。",
+            "かれらは かいもの に いきます。",
+            "すいようび は 11じ に いしゃ に みてもらいます。",
+            "それから おかあさん と ひるごはん を たべます。",
+            "もくようび は はやく しごと を おわらせて にもつ を つめます。",
+            "バッグ と リュックサック だけ を もっていきます。",
+            "きんようび の あさ 6じ はん に タクシー で くうこう に いきます。",
+            "そこで エド と ルーシー と あいます。",
+            "9じ はん に メキシコシティ へ ひこうき で とびたちます。",
+            "エリーは とても わくわく しています。"
+          ],
+          "fr": [
+            "Ellie part en vacances au Mexique vendredi prochain.",
+            "Lundi, elle récupère ses billets à l'agence de voyages.",
+            "Mardi, elle retrouve ses amis Ed et Lucy après le travail.",
+            "Ils vont faire du shopping.",
+            "Mercredi, elle voit le médecin à onze heures.",
+            "Ensuite, elle déjeune avec sa mère.",
+            "Jeudi, elle quitte le travail tôt et elle fait ses bagages.",
+            "Elle prend juste un sac et un sac à dos.",
+            "Vendredi à six heures et demie du matin, elle va en taxi à l'aéroport.",
+            "Elle retrouve Ed et Lucy là-bas.",
+            "À neuf heures et demie, ils s'envolent pour Mexico.",
+            "Ellie est très excitée."
+          ],
+          "ko": [
+            "엘리는 다음 주 금요일에 멕시코로 휴가를 갑니다.",
+            "월요일에는 여행사에서 티켓을 수령합니다.",
+            "화요일에는 퇴근 후 친구 에드와 루시를 만납니다.",
+            "그들은 쇼핑하러 갑니다.",
+            "수요일에는 11시에 의사를 만납니다.",
+            "그다음 엄마와 점심을 먹습니다.",
+            "목요일에는 일찍 퇴근하고 짐을 쌉니다.",
+            "가방과 배낭만 가져갑니다.",
+            "금요일 아침 6시 30분에 택시를 타고 공항으로 갑니다.",
+            "거기서 에드와 루시를 만납니다.",
+            "9시 30분에 멕시코시티로 비행기를 타고 갑니다.",
+            "엘리는 매우 신나 있습니다."
+          ]
+        }
+      },
+      "dialogue": {
+        "en": [
+          "A: What are you doing?",
+          "B: I am reading about Mexico.",
+          "A: Why?",
+          "B: Because I am going there on holiday soon.",
+          "A: When are you leaving?",
+          "B: We are leaving next Friday.",
+          "A: Who are you going with?",
+          "B: My friends Ed and Lucy.",
+          "A: How are you travelling?",
+          "B: By plane to Mexico City, then by bus and train.",
+          "A: Where are you staying?",
+          "B: In small hotels and hostels."
+        ],
+        "ja": [
+          "A: なに を していますか？",
+          "B: メキシコ に ついて よんでいます。",
+          "A: なぜ ですか？",
+          "B: もうすぐ そこ へ きゅうか に いく から です。",
+          "A: いつ でかけますか？",
+          "B: らいしゅうの きんようび に でかけます。",
+          "A: だれ と いきますか？",
+          "B: ともだちの エド と ルーシー です。",
+          "A: どうやって たび を しますか？",
+          "B: ひこうき で メキシコシティ へ、それから バス と でんしゃ です。",
+          "A: どこ に とまりますか？",
+          "B: ちいさい ホテル と ホステル です。"
+        ],
+        "fr": [
+          "A: Que fais-tu ?",
+          "B: Je lis sur le Mexique.",
+          "A: Pourquoi ?",
+          "B: Parce que je vais bientôt y partir en vacances.",
+          "A: Quand pars-tu ?",
+          "B: Nous partons vendredi prochain.",
+          "A: Avec qui pars-tu ?",
+          "B: Mes amis Ed et Lucy.",
+          "A: Comment voyagez-vous ?",
+          "B: En avion pour Mexico, puis en bus et en train.",
+          "A: Où allez-vous loger ?",
+          "B: Dans de petits hôtels et auberges."
+        ],
+        "ko": [
+          "A: 뭐 하고 있나요?",
+          "B: 멕시코에 대해 읽고 있어요.",
+          "A: 왜요?",
+          "B: 곧 거기에 휴가를 가기 때문이에요.",
+          "A: 언제 출발하나요?",
+          "B: 다음 주 금요일에 출발해요.",
+          "A: 누구랑 가나요?",
+          "B: 친구 에드와 루시랑요.",
+          "A: 어떻게 여행하나요?",
+          "B: 비행기로 멕시코시티에 가고, 그다음 버스와 기차로요.",
+          "A: 어디에 머물 예정인가요?",
+          "B: 작은 호텔과 호스텔에서요."
+        ]
+      }
+    }
+  }
+}

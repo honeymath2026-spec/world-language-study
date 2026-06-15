@@ -1,0 +1,464 @@
+{
+  "title": {
+    "en": "How terribly clever!",
+    "ja": "なんて恐ろしく賢いのでしょう！",
+    "fr": "Comme c'est terriblement intelligent !",
+    "ko": "정말 대단하군요!"
+  },
+  "topic": {
+    "en": "Question forms, adverbs/adjectives, describing feelings, catching a train",
+    "ja": "疑問詞、副詞・形容詞、感情表現、電車の利用",
+    "fr": "Formes interrogatives, adverbes/adjectifs, décrire des sentiments, prendre le train",
+    "ko": "의문문 형태, 부사/형용사, 감정 표현하기, 기차 이용하기"
+  },
+  "core_title": {
+    "en": "Question forms and adverbs",
+    "ja": "疑問詞と副詞",
+    "fr": "Formes interrogatives et adverbes",
+    "ko": "의문문 형태와 부사"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'><strong>Part 1: A train journey</strong></p><p>The people on the train were hot and tired. A tall young man sat next to three small children and their aunt. The aunt and the children talked. When the aunt spoke she always began with 'Don't …'. When the children spoke they always began with 'Why …?' The young man said nothing. The small boy whistled loudly. 'Don't do that, Cyril,' said his aunt. Cyril stood up and looked out of the window. 'Why is that man taking those sheep out of that field?' he asked. 'Perhaps he's taking them to another field where there's more grass,' said the aunt. 'But there's lots of grass in that field. Why can't the sheep stay there?'</p><p><strong>Part 2: The story of Bertha</strong></p><p>Once upon a time, there was a little girl called Bertha. She was always well behaved and worked hard. She was never late, never dirty, never rude, and she never told lies. Bertha was so good that she won three gold medals: 'Never late', 'Always polite', and 'Best Child in the World'. One day the king invited her to his palace. She put on her best white dress and pinned her medals to the front. She walked through the woods. But in the woods there lived a big hungry wolf. He saw her white dress and heard the medals clinking. The wolf caught her easily and ate everything except her three medals.</p>",
+    "ja": "<p style='margin-top:0;'><strong>パート1: 列車の旅</strong></p><p>列車の中の人々は暑くて疲れていました。背の高い青年が3人の小さな子供たちとその叔母の隣に座っていました。叔母と子供たちは話していました。叔母が話すときはいつも「〜してはいけません」で始まりました。子供たちが話すときはいつも「なぜ？」で始まりました。青年は何も言いませんでした。小さな男の子が大きな口笛を吹きました。「やめなさい、シリル」と叔母は言いました。シリルは立ち上がって窓の外を見ました。「なぜあの男は羊をあの野原から連れ出しているの？」と尋ねました。「もっと草がある別の野原に連れて行っているのかもしれない」と叔母は言いました。「でもあの野原にはたくさん草があるよ。なぜ羊はそこにいられないの？」</p><p><strong>パート2: バーサの物語</strong></p><p>昔々、バーサという小さな女の子がいました。彼女はいつも行儀がよく、一生懸命働きました。決して遅刻せず、汚くならず、失礼でなく、嘘もつきませんでした。バーサはとても良い子だったので、3つの金メダルを獲得しました。「遅刻しない」「いつも礼儀正しい」「世界で一番良い子」。ある日、王様が彼女を宮殿に招待しました。彼女は最高の白いドレスを着て、メダルを胸に留めました。森を歩いていると、大きな飢えたオオカミが住んでいました。オオカミは白いドレスとメダルの音を聞いて、バーサを簡単に捕まえ、3つのメダル以外はすべて食べてしまいました。</p>",
+    "fr": "<p style='margin-top:0;'><strong>Partie 1: Un voyage en train</strong></p><p>Les gens dans le train avaient chaud et étaient fatigués. Un grand jeune homme était assis à côté de trois petits enfants et de leur tante. La tante et les enfants parlaient. Quand la tante parlait, elle commençait toujours par « Ne … pas ». Quand les enfants parlaient, ils commençaient toujours par « Pourquoi … ? » Le jeune homme ne disait rien. Le petit garçon siffla bruyamment. « Ne fais pas ça, Cyril », dit sa tante. Cyril se leva et regarda par la fenêtre. « Pourquoi cet homme emmène-t-il ces moutons hors de ce champ ? » demanda-t-il. « Peut-être les emmène-t-il dans un autre champ où il y a plus d'herbe », dit la tante. « Mais il y a beaucoup d'herbe dans ce champ. Pourquoi les moutons ne peuvent-ils pas rester là ? »</p><p><strong>Partie 2: L'histoire de Bertha</strong></p><p>Il était une fois une petite fille appelée Bertha. Elle était toujours bien élevée et travaillait dur. Elle n'était jamais en retard, jamais sale, jamais impolie, et elle ne mentait jamais. Bertha était si bonne qu'elle gagna trois médailles d'or : « Jamais en retard », « Toujours polie » et « Meilleure enfant du monde ». Un jour, le roi l'invita à son palais. Elle mit sa plus belle robe blanche et épingla ses médailles sur le devant. Elle traversa les bois. Mais dans les bois vivait un grand loup affamé. Il vit sa robe blanche et entendit les médailles cliqueter. Le loup l'attrapa facilement et mangea tout sauf ses trois médailles.</p>",
+    "ko": "<p style='margin-top:0;'><strong>파트 1: 기차 여행</strong></p><p>기차 안의 사람들은 덥고 피곤했습니다. 키 큰 청년이 세 명의 어린 아이들과 그들의 이모 옆에 앉아 있었습니다. 이모와 아이들은 이야기하고 있었습니다. 이모가 말할 때는 항상 '하지 마세요'로 시작했습니다. 아이들이 말할 때는 항상 '왜요?'로 시작했습니다. 청년은 아무 말도 하지 않았습니다. 작은 소년이 휘파람을 크게 불었습니다. '그렇게 하지 마, Cyril.' 이모가 말했습니다. Cyril은 일어나 창밖을 내다보았습니다. '저 남자는 왜 양들을 들판 밖으로 데리고 나가는 거예요?'라고 물었습니다. '아마 풀이 더 많은 다른 들판으로 데려가는 거란다.' 이모가 말했습니다. '그런데 저 들판에도 풀이 많잖아요. 왜 양들은 거기 있을 수 없나요?'</p><p><strong>파트 2: Bertha 이야기</strong></p><p>옛날 옛적에 Bertha라는 어린 소녀가 살았습니다. 그녀는 항상 착하게 행동하고 열심히 공부했습니다. 지각한 적도, 더럽힌 적도, 무례한 적도, 거짓말을 한 적도 없었습니다. Bertha는 너무 착해서 금메달 세 개를 받았습니다: '지각하지 않음', '항상 예의 바름', '세계 최고의 어린이'. 어느 날 왕이 그녀를 궁전으로 초대했습니다. 그녀는 가장 예쁜 흰 드레스를 입고 메달을 앞쪽에 달았습니다. 그녀는 숲속을 걸어갔습니다. 그런데 그 숲에는 배고픈 큰 늑대가 살고 있었습니다. 늑대는 그녀의 흰 드레스를 보고 메달이 딸랑거리는 소리를 들었습니다. 늑대는 그녀를 쉽게 잡아서 세 개의 메달을 제외한 모든 것을 먹어치웠습니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "bored",
+        "word": "bored",
+        "definition": "Feeling tired and unhappy because something is not interesting.",
+        "pronunciation": "/bɔːrd/"
+      },
+      {
+        "id": "excited",
+        "word": "excited",
+        "definition": "Feeling very happy and enthusiastic about something.",
+        "pronunciation": "/ɪkˈsaɪtɪd/"
+      },
+      {
+        "id": "worried",
+        "word": "worried",
+        "definition": "Feeling anxious or unhappy because you think something bad might happen.",
+        "pronunciation": "/ˈwɜːrid/"
+      },
+      {
+        "id": "tired",
+        "word": "tired",
+        "definition": "Feeling that you need to sleep or rest.",
+        "pronunciation": "/ˈtaɪərd/"
+      },
+      {
+        "id": "annoyed",
+        "word": "annoyed",
+        "definition": "Slightly angry or irritated.",
+        "pronunciation": "/əˈnɔɪd/"
+      },
+      {
+        "id": "interested",
+        "word": "interested",
+        "definition": "Wanting to give your attention to something or learn more.",
+        "pronunciation": "/ˈɪntrəstɪd/"
+      }
+    ],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "listening_tracks": {
+    "en": [
+  {
+    "title": "How terribly clever!",
+    "label": "Conversation 1: At the information bureau",
+    "script": [
+      { "speaker": "A", "text": "Good morning. Can you tell me the times of trains from Bristol back to Oxford, please?" },
+      { "speaker": "B", "text": "Afternoon, evening? When do you want to come back?" },
+      { "speaker": "A", "text": "About five o’clock this afternoon." },
+      { "speaker": "B", "text": "About five o’clock. Right. Let’s have a look. There’s a train that leaves at 5.28, then there isn’t another one until 6.50." },
+      { "speaker": "A", "text": "And what time do they get in?" },
+      { "speaker": "B", "text": "The 5.28 gets into Oxford at 6.54 and the 6.50 gets in at 8.10." },
+      { "speaker": "A", "text": "Thanks a lot." }
+    ]
+  },
+  {
+    "title": "How terribly clever!",
+    "label": "Conversation 2: At the ticket office",
+    "script": [
+      { "speaker": "A", "text": "Hello. A return to Bristol, please." },
+      { "speaker": "C", "text": "Day return or period return?" },
+      { "speaker": "A", "text": "A day return." },
+      { "speaker": "C", "text": "How do you want to pay?" },
+      { "speaker": "A", "text": "Cash, please." },
+      { "speaker": "C", "text": "That’s eighteen pounds." },
+      { "speaker": "A", "text": "Here’s a twenty-pound note." },
+      { "speaker": "C", "text": "Here’s your change and your ticket." },
+      { "speaker": "A", "text": "Thank you. Which platform is it?" },
+      { "speaker": "C", "text": "You want platform 1 over there." },
+      { "speaker": "A", "text": "OK, thanks very much. Goodbye." }
+    ]
+  },
+  {
+    "title": "How terribly clever!",
+    "label": "Conversation 3: Questions and answers",
+    "script": [
+      { "speaker": "A", "text": "Why do you want to go?" },
+      { "speaker": "B", "text": "To visit my family." },
+      { "speaker": "A", "text": "Who is she?" },
+      { "speaker": "B", "text": "My sister." },
+      { "speaker": "A", "text": "Where’s he staying?" },
+      { "speaker": "B", "text": "At a hotel near the station." },
+      { "speaker": "A", "text": "Why didn’t they come?" },
+      { "speaker": "B", "text": "They missed the bus." },
+      { "speaker": "A", "text": "How old was she?" },
+      { "speaker": "B", "text": "Thirty-six." },
+      { "speaker": "A", "text": "Does he play the guitar?" },
+      { "speaker": "B", "text": "Yes, very well." },
+      { "speaker": "A", "text": "Where did you go at the weekend?" },
+      { "speaker": "B", "text": "To the coast." }
+    ]
+  },
+  {
+    "title": "How terribly clever!",
+    "label": "Listening 1: Noises in the night",
+    "script": [
+      { "speaker": "Narrator", "text": "It was about 2 o’clock in the morning, and suddenly I woke up. I heard a noise. I got out of bed and went slowly downstairs. There was a light on in the living room. I listened carefully. I could hear two men speaking very quietly: ‘Burglars!’ I thought. ‘Two burglars!’ Immediately I ran back upstairs and phoned the police. I was really frightened. Fortunately the police arrived quickly. They opened the front door and went into the living room. Then they came upstairs to find me. ‘It’s all right now, sir,’ they explained. ‘We turned the television off for you!’" }
+    ]
+  }
+],
+      "ja": [
+    {
+      "title": "なんて恐ろしく賢いのでしょう！",
+      "label": "会話 1: 案内所で",
+      "script": [
+        { "speaker": "A", "text": "おはようございます。ブリストルからオックスフォードまでの電車の時間を教えていただけますか？" },
+        { "speaker": "B", "text": "午後ですか、夕方ですか？ どのくらいの時間に戻りたいですか？" },
+        { "speaker": "A", "text": "今日の午後5時ごろです。" },
+        { "speaker": "B", "text": "5時ごろですね。ええと… 5時28分の電車があります。その次は6時50分までありませんね。" },
+        { "speaker": "A", "text": "到着時間は何時ですか？" },
+        { "speaker": "B", "text": "5時28分発はオックスフォードに6時54分着、6時50分発は8時10分着です。" },
+        { "speaker": "A", "text": "どうもありがとうございました。" }
+      ]
+    },
+    {
+      "title": "なんて恐ろしく賢いのでしょう！",
+      "label": "会話 2: 切符売り場で",
+      "script": [
+        { "speaker": "A", "text": "こんにちは。ブリストルまでの往復切符をください。" },
+        { "speaker": "C", "text": "日帰り往復ですか、期間限定往復ですか？" },
+        { "speaker": "A", "text": "日帰りでお願いします。" },
+        { "speaker": "C", "text": "お支払いはどうなさいますか？" },
+        { "speaker": "A", "text": "現金で。" },
+        { "speaker": "C", "text": "18ポンドです。" },
+        { "speaker": "A", "text": "20ポンド札でお願いします。" },
+        { "speaker": "C", "text": "お釣りと切符です。" },
+        { "speaker": "A", "text": "ありがとうございます。何番線ですか？" },
+        { "speaker": "C", "text": "あちらの1番線です。" },
+        { "speaker": "A", "text": "わかりました。どうもありがとう。さようなら。" }
+      ]
+    },
+    {
+      "title": "なんて恐ろしく賢いのでしょう！",
+      "label": "会話 3: 質問と答え",
+      "script": [
+        { "speaker": "A", "text": "なぜ行きたいのですか？" },
+        { "speaker": "B", "text": "家族に会うためです。" },
+        { "speaker": "A", "text": "彼女は誰ですか？" },
+        { "speaker": "B", "text": "私の妹です。" },
+        { "speaker": "A", "text": "彼はどこに泊まっているのですか？" },
+        { "speaker": "B", "text": "駅の近くのホテルです。" },
+        { "speaker": "A", "text": "なぜ彼らは来なかったのですか？" },
+        { "speaker": "B", "text": "バスに乗り遅れたからです。" },
+        { "speaker": "A", "text": "彼女は何歳でしたか？" },
+        { "speaker": "B", "text": "36歳です。" },
+        { "speaker": "A", "text": "彼はギターを弾きますか？" },
+        { "speaker": "B", "text": "はい、とても上手に。" },
+        { "speaker": "A", "text": "週末はどこへ行きましたか？" },
+        { "speaker": "B", "text": "海辺へ。" }
+      ]
+    },
+    {
+      "title": "なんて恐ろしく賢いのでしょう！",
+      "label": "リスニング 1: 夜中の物音",
+      "script": [
+        { "speaker": "ナレーター", "text": "夜中の2時ごろ、突然目が覚めました。物音がしたのです。ベッドから出て、ゆっくりと階段を下りました。居間に明かりがついていました。よく耳を澄ますと、二人の男がとても静かに話しているのが聞こえました。『泥棒だ！』と思いました。『二人の泥棒だ！』すぐに二階に駆け上がり、警察に電話しました。本当に怖かったです。幸い警察はすぐに到着しました。彼らは玄関を開けて居間に入りました。それから私を探して二階に上がってきました。『もう大丈夫です、ご主人。テレビを消しておきましたので』と説明してくれました。" }
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "title": "Comme c'est terriblement intelligent !",
+      "label": "Conversation 1 : Au bureau d'information",
+      "script": [
+        { "speaker": "A", "text": "Bonjour. Pouvez-vous me donner les horaires des trains de Bristol retour à Oxford, s'il vous plaît ?" },
+        { "speaker": "B", "text": "Après-midi ou soir ? À quelle heure voulez-vous revenir ?" },
+        { "speaker": "A", "text": "Vers cinq heures cet après-midi." },
+        { "speaker": "B", "text": "Vers cinq heures. D'accord. Voyons voir. Il y a un train à 17h28, et le suivant n'est qu'à 18h50." },
+        { "speaker": "A", "text": "Et à quelle heure arrivent-ils ?" },
+        { "speaker": "B", "text": "Celui de 17h28 arrive à Oxford à 18h54, et celui de 18h50 arrive à 20h10." },
+        { "speaker": "A", "text": "Merci beaucoup." }
+      ]
+    },
+    {
+      "title": "Comme c'est terriblement intelligent !",
+      "label": "Conversation 2 : Au guichet",
+      "script": [
+        { "speaker": "A", "text": "Bonjour. Un aller-retour pour Bristol, s'il vous plaît." },
+        { "speaker": "C", "text": "Aller-retour journée ou aller-retour longue durée ?" },
+        { "speaker": "A", "text": "Un aller-retour journée." },
+        { "speaker": "C", "text": "Comment voulez-vous payer ?" },
+        { "speaker": "A", "text": "En espèces, s'il vous plaît." },
+        { "speaker": "C", "text": "Ça fait dix-huit livres." },
+        { "speaker": "A", "text": "Voici un billet de vingt livres." },
+        { "speaker": "C", "text": "Voici votre monnaie et votre billet." },
+        { "speaker": "A", "text": "Merci. Quel quai ?" },
+        { "speaker": "C", "text": "Vous prenez le quai 1, là-bas." },
+        { "speaker": "A", "text": "D'accord, merci beaucoup. Au revoir." }
+      ]
+    },
+    {
+      "title": "Comme c'est terriblement intelligent !",
+      "label": "Conversation 3 : Questions et réponses",
+      "script": [
+        { "speaker": "A", "text": "Pourquoi veux-tu y aller ?" },
+        { "speaker": "B", "text": "Pour rendre visite à ma famille." },
+        { "speaker": "A", "text": "Qui est-elle ?" },
+        { "speaker": "B", "text": "Ma sœur." },
+        { "speaker": "A", "text": "Où est-ce qu'il séjourne ?" },
+        { "speaker": "B", "text": "Dans un hôtel près de la gare." },
+        { "speaker": "A", "text": "Pourquoi ne sont-ils pas venus ?" },
+        { "speaker": "B", "text": "Ils ont raté le bus." },
+        { "speaker": "A", "text": "Quel âge avait-elle ?" },
+        { "speaker": "B", "text": "Trente-six ans." },
+        { "speaker": "A", "text": "Est-ce qu'il joue de la guitare ?" },
+        { "speaker": "B", "text": "Oui, très bien." },
+        { "speaker": "A", "text": "Où es-tu allé ce week-end ?" },
+        { "speaker": "B", "text": "À la côte." }
+      ]
+    },
+    {
+      "title": "Comme c'est terriblement intelligent !",
+      "label": "Écoute 1 : Des bruits dans la nuit",
+      "script": [
+        { "speaker": "Narrateur", "text": "Il était environ deux heures du matin, et soudain je me suis réveillé. J'ai entendu un bruit. Je suis sorti du lit et je suis descendu lentement. Il y avait de la lumière dans le salon. J'ai écouté attentivement. J'entendais deux hommes parler tout doucement : « Des cambrioleurs ! » ai-je pensé. « Deux cambrioleurs ! » J'ai tout de suite remonté à l'étage et j'ai appelé la police. J'étais vraiment effrayé. Heureusement, la police est arrivée rapidement. Ils ont ouvert la porte d'entrée et sont entrés dans le salon. Puis ils sont montés à l'étage pour me trouver. « Tout va bien maintenant, monsieur, » ont-ils expliqué. « Nous avons éteint la télévision pour vous ! »" }
+      ]
+    }
+  ],
+  "ko": [
+    {
+      "title": "정말 대단하군요!",
+      "label": "대화 1: 안내소에서",
+      "script": [
+        { "speaker": "A", "text": "안녕하세요. 브리스틀에서 옥스퍼드로 돌아가는 기차 시간을 알려 주시겠어요?" },
+        { "speaker": "B", "text": "오후요, 저녁요? 몇 시쯤 돌아오시려고요?" },
+        { "speaker": "A", "text": "오늘 오후 5시쯤이요." },
+        { "speaker": "B", "text": "5시쯤이군요. 자, 한번 볼게요. 5시 28분 기차가 있고, 그다음은 6시 50분까지 없네요." },
+        { "speaker": "A", "text": "도착 시간은 몇 시인가요?" },
+        { "speaker": "B", "text": "5시 28분 출발은 옥스퍼드에 6시 54분 도착이고, 6시 50분 출발은 8시 10분에 도착해요." },
+        { "speaker": "A", "text": "정말 감사합니다." }
+      ]
+    },
+    {
+      "title": "정말 대단하군요!",
+      "label": "대화 2: 매표소에서",
+      "script": [
+        { "speaker": "A", "text": "안녕하세요. 브리스틀까지 왕복표 한 장 주세요." },
+        { "speaker": "C", "text": "당일 왕복이세요, 기간 왕복이세요?" },
+        { "speaker": "A", "text": "당일 왕복으로요." },
+        { "speaker": "C", "text": "결제는 어떻게 하시겠어요?" },
+        { "speaker": "A", "text": "현금으로 할게요." },
+        { "speaker": "C", "text": "18파운드입니다." },
+        { "speaker": "A", "text": "20파운드 지폐 여기 있어요." },
+        { "speaker": "C", "text": "잔돈과 표 여기 있습니다." },
+        { "speaker": "A", "text": "감사합니다. 몇 번 플랫폼인가요?" },
+        { "speaker": "C", "text": "저쪽에 있는 1번 플랫폼이에요." },
+        { "speaker": "A", "text": "네, 정말 고맙습니다. 안녕히 계세요." }
+      ]
+    },
+    {
+      "title": "정말 대단하군요!",
+      "label": "대화 3: 질문과 답변",
+      "script": [
+        { "speaker": "A", "text": "왜 가고 싶은 거예요?" },
+        { "speaker": "B", "text": "가족을 만나러요." },
+        { "speaker": "A", "text": "그녀는 누구인데요?" },
+        { "speaker": "B", "text": "제 여동생이에요." },
+        { "speaker": "A", "text": "그는 어디에 묵고 있나요?" },
+        { "speaker": "B", "text": "역 근처 호텔이요." },
+        { "speaker": "A", "text": "그들은 왜 안 왔어요?" },
+        { "speaker": "B", "text": "버스를 놓쳤거든요." },
+        { "speaker": "A", "text": "그녀는 몇 살이었나요?" },
+        { "speaker": "B", "text": "서른여섯 살이었어요." },
+        { "speaker": "A", "text": "그는 기타를 치나요?" },
+        { "speaker": "B", "text": "네, 아주 잘 쳐요." },
+        { "speaker": "A", "text": "주말에 어디 갔다 왔어요?" },
+        { "speaker": "B", "text": "바닷가에요." }
+      ]
+    },
+    {
+      "title": "정말 대단하군요!",
+      "label": "듣기 1: 밤중의 소음",
+      "script": [
+        { "speaker": "내레이터", "text": "새벽 2시쯤이었어요. 갑자기 잠에서 깼는데, 소음이 들렸어요. 침대에서 나와 천천히 계단을 내려갔죠. 거실에 불이 켜져 있었어요. 조용히 귀를 기울였더니 두 남자가 아주 조용히 말하는 소리가 났어요. ‘도둑이구나!’라고 생각했죠. ‘두 명의 도둑!’ 곧바로 다시 위층으로 뛰어올라가 경찰에 전화했어요. 정말 무서웠거든요. 다행히 경찰이 빨리 도착했어요. 경찰관들이 현관문을 열고 거실로 들어갔어요. 그런 다음 저를 찾으러 위층으로 올라왔죠. ‘이제 괜찮습니다, 손님. 텔레비전을 꺼 드렸습니다.’라고 설명하더라고요." }
+      ]
+    }
+  ]
+  },
+  "extra_reading_title": {
+    "en": "The Storyteller's Lesson",
+    "ja": "語り手の教訓",
+    "fr": "La leçon du conteur",
+    "ko": "이야기꾼의 교훈"
+  },
+  "extra_reading_html": {
+    "en": "<p>After hearing the young man's story about Bertha, the children on the train were excited. 'That's a terrible story!' said the aunt. 'No it isn't!' shouted the children. 'It's the best story ever!' The young man smiled. 'Ah, the train's stopping. It's my station.' He got off the train, leaving the aunt looking annoyed and the children looking interested. What do you think is the moral of Bertha's story? Is it 'It pays to be good', 'It never pays to be good', or 'It doesn't always pay to be good'? The story suggests that being extremely good doesn't always protect you from danger. Sometimes, it's better to be clever than horribly good.</p>",
+    "ja": "<p>ベルタについての青年のお話を聞いた後、列車に乗っていた子供たちは興奮していました。「なんてひどいお話なの！」と叔母は言いました。「そんなことないよ！」子供たちは叫びました。「今までで一番最高のお話だよ！」青年は微笑みました。「ああ、列車が止まる。私の駅だ。」彼は列車を降りました。叔母は苛立った様子で、子供たちは興味深そうな様子でした。ベルタのお話の教訓は何だと思いますか？「正直者は報われる」「正直者は損をする」、それとも「正直者でいることが必ずしも報われるとは限らない」でしょうか。このお話は、極端に「良い子」でいることが、常に危険から守ってくれるわけではないことを示唆しています。時には、ひどく良い子でいるよりも、賢くある方が良いこともあるのです。</p>",
+    "fr": "<p>Après avoir écouté l'histoire du jeune homme sur Bertha, les enfants dans le train étaient enthousiastes. « C'est une histoire terrible ! » a dit la tante. « Non, ça ne l'est pas ! » ont crié les enfants. « C'est la meilleure histoire de tous les temps ! » Le jeune homme a souri. « Ah, le train s'arrête. C'est ma gare. » Il est descendu du train, laissant la tante avec un air agacé et les enfants avec un air intéressé. Quelle est, selon vous, la morale de l'histoire de Bertha ? Est-ce « Il est payant d'être bon », « Il n'est jamais payant d'être bon » ou « Il n'est pas toujours payant d'être bon » ? L'histoire suggère qu'être extrêmement bon ne vous protège pas toujours du danger. Parfois, il vaut mieux être malin qu'horriblement bon.</p>",
+    "ko": "<p>벨타에 관한 청년의 이야기를 들은 후, 기차에 타고 있던 아이들은 신이 났습니다. \"정말 끔찍한 이야기구나!\" 숙모가 말했습니다. \"아니에요!\" 아이들이 소리쳤습니다. \"지금까지 들은 이야기 중 최고예요!\" 청년은 미소를 지었습니다. \"아, 기차가 멈추네요. 제가 내릴 곳입니다.\" 그는 기차에서 내렸고, 숙모는 짜증이 난 표정으로, 아이들은 흥미로운 표정으로 남았습니다. 벨타 이야기의 교훈은 무엇이라고 생각하나요? '착하게 사는 것은 보람이 있다', '착하게 사는 것은 결코 보람이 없다', 아니면 '착하게 사는 것이 항상 보람 있는 것은 아니다'일까요? 이 이야기는 지나치게 착하게 행동하는 것이 항상 위험으로부터 당신을 보호해주지는 않는다는 점을 시사합니다. 때로는 지독하게 착한 것보다 영리하게 행동하는 것이 더 나을 때도 있습니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      { "question": "The young man's story about Bertha made the children feel bored.", "correct": "F", "explanation": "False. The children thought it was 'the best story ever' and were excited." },
+      { "question": "Bertha won three medals for her good behavior.", "correct": "T", "explanation": "True. She won medals for being punctual, polite, and the best child." },
+      { "question": "The aunt was happy with the young man's story.", "correct": "F", "explanation": "False. The aunt called it a 'terrible story' and looked annoyed." },
+      { "question": "The moral of the story suggests that being good is always the safest option.", "correct": "F", "explanation": "False. The story suggests that being extremely good doesn't always protect you from danger." },
+      { "question": "The young man got off the train at his destination.", "correct": "T", "explanation": "True. He said 'It's my station' and got off." }
+    ],
+    "ja": [
+      { "question": "青年のお話は子供たちを退屈させた。", "correct": "F", "explanation": "誤りです。子供たちは「今までで最高のお話」だと興奮していました。" },
+      { "question": "ベルタは行儀の良さで3つのメダルを獲得した。", "correct": "T", "explanation": "真実です。遅刻しない、礼儀正しいなどの理由でメダルを得ました。" },
+      { "question": "叔母は青年のお話に満足していた。", "correct": "F", "explanation": "誤りです。叔母は「ひどい話だ」と言い、苛立っていました。" },
+      { "question": "このお話の教訓は、善良でいることが常に最も安全だと言っている。", "correct": "F", "explanation": "誤りです。常に善良であることが危険を防ぐとは限らないと示唆しています。" },
+      { "question": "青年は自分の駅で列車を降りた。", "correct": "T", "explanation": "真実です。自分の駅だと言って降りました。" }
+    ],
+    "fr": [
+      { "question": "L'histoire du jeune homme a ennuyé les enfants.", "correct": "F", "explanation": "Faux. Les enfants étaient enthousiastes et ont adoré l'histoire." },
+      { "question": "Bertha a gagné trois médailles pour sa bonne conduite.", "correct": "T", "explanation": "Vrai. Elle a été récompensée pour son comportement exemplaire." },
+      { "question": "La tante a aimé l'histoire racontée par le jeune homme.", "correct": "F", "explanation": "Faux. La tante a trouvé l'histoire terrible et semblait agacée." },
+      { "question": "La morale suggère qu'être bon est toujours la meilleure protection.", "correct": "F", "explanation": "Faux. L'histoire suggère qu'être trop bon ne protège pas toujours." },
+      { "question": "Le jeune homme est descendu à sa gare.", "correct": "T", "explanation": "Vrai. Il a quitté le train une fois arrivé à sa destination." }
+    ],
+    "ko": [
+      { "question": "청년의 이야기는 아이들을 지루하게 만들었다.", "correct": "F", "explanation": "거짓입니다. 아이들은 그 이야기가 '최고'라며 매우 흥분했습니다." },
+      { "question": "벨타는 착한 행동으로 세 개의 메달을 받았다.", "correct": "T", "explanation": "사실입니다. 정직하고 예의 바른 행동으로 메달을 땄습니다." },
+      { "question": "숙모는 청년이 들려준 이야기에 기뻐했다.", "correct": "F", "explanation": "거짓입니다. 숙모는 이야기가 끔찍하다고 하며 짜증을 냈습니다." },
+      { "question": "이 이야기의 교훈은 착하게 사는 것이 항상 가장 안전하다고 말한다.", "correct": "F", "explanation": "거짓입니다. 지나치게 착한 것이 항상 안전한 것은 아니라고 합니다." },
+      { "question": "청년은 자신의 역에서 기차를 내렸다.", "correct": "T", "explanation": "사실입니다. 내릴 역에 도착해 기차에서 내렸습니다." }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "What time does the train leave?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "When does it get in?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>What time does the train leave?</b> It leaves at 5.28.",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "A return ticket to Bristol, please.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Day return or period return?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>A return ticket to Bristol, please.</b> <b>Day return or period return?</b> Day return.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "How do you want to pay?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "Cash, please.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>How do you want to pay?</b> <b>Cash, please.</b> Here's a twenty-pound note.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      }
+    ],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "grammar_html": {
+    "en": "<h3>1. Question words</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>Question words are used to ask for specific information. Common question words: <strong>who, what, where, when, why, which, how, how many, how much</strong>.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Where</strong> do you live? <em>In London.</em></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• When</strong> did the first man walk on the moon? <em>1969.</em></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• How much</strong> does an African elephant weigh? <em>5–7 tonnes.</em></li></ul><h3>2. Adjectives vs Adverbs</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>Adjectives describe <strong>nouns</strong>. Adverbs describe <strong>verbs</strong>. Most adverbs are formed by adding <strong>-ly</strong> to the adjective.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• quick</strong> meal (adjective) → eat <strong style='color:#d35400;'>quickly</strong> (adverb)</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• careful</strong> driver (adjective) → drive <strong style='color:#d35400;'>carefully</strong> (adverb)</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• hard</strong> life (adjective) → work <strong style='color:#d35400;'>hard</strong> (adverb - irregular, same form)</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• good</strong> cook (adjective) → cook <strong style='color:#d35400;'>well</strong> (adverb - irregular)</li></ul><h3>3. -ed / -ing adjectives</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>-ed adjectives describe <strong>feelings</strong> (how someone feels). -ing adjectives describe <strong>things or situations</strong> (what causes the feeling).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• The book was interesting.</strong> I was interested.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• The lesson was boring.</strong> The students were bored.</li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "In this unit, you learned about question forms (who, what, where, when, why, which, how), adverbs vs adjectives, and describing feelings (bored, excited, worried, etc.). <b>How do you form a question with a question word? What is the difference between an adjective and an adverb? What is the difference between 'bored' and 'boring'?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "question words, adverbs, adjectives, feelings, -ed/-ing, train travel",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "To make a question with a question word, you put the question word first, then the auxiliary verb, then the subject...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "The story of Bertha shows a contrast between being 'horribly good' and being clever. <b>Do you agree with the moral 'It doesn't always pay to be good'? Why or why not? Can you think of a situation where being too good might be a disadvantage?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "I agree/disagree because... For example, if you are too good...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "In this unit, you learned to ask different types of questions (with who, what, where, when, why, how) and to describe feelings using -ed and -ing adjectives. <b>Why is it important to know how to ask different types of questions in English? How can using the correct adjective (e.g., 'I'm bored' vs 'The movie is boring') help you communicate more clearly when describing your feelings?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Knowing different question types is important because... Using the correct adjective helps because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

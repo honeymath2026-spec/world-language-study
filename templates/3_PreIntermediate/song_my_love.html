@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎵 My Love - Westlife</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="../../css/unit.css">
+    <style>
+        .song-header {
+            background: linear-gradient(135deg, #2980B9, #3498DB);
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            border-radius: 20px;
+            margin-bottom: 2rem;
+        }
+        .song-header h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+        .song-header p {
+            margin: 0.5rem 0 0;
+            opacity: 0.9;
+        }
+        .audio-player-section {
+            background: #EBF5FB;
+            padding: 1.5rem;
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            text-align: center;
+            border: 2px solid #2980B9;
+        }
+        .audio-player-section audio {
+            width: 100%;
+            max-width: 500px;
+        }
+        .section-badge {
+            display: inline-block;
+            background: #2980B9;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            margin-bottom: 1rem;
+        }
+        .final-challenge {
+            background: linear-gradient(135deg, #2c3e50, #2980B9);
+            color: white;
+            padding: 25px;
+            border-radius: 20px;
+            margin-top: 30px;
+            text-align: center;
+        }
+        .final-challenge h3 {
+            margin: 0 0 10px;
+        }
+        .action-buttons {
+            display: flex;
+            gap: 8px;
+            flex-shrink: 0;
+            flex-wrap: wrap;
+        }
+        .action-btn {
+            border: none;
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .transcript-result {
+            margin-top: 10px;
+            padding: 10px 14px;
+            background: #f3e5f5;
+            border-left: 4px solid #9c27b0;
+            border-radius: 10px;
+            font-size: 14px;
+            color: #4a148c;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .copy-btn {
+            background: #e1bee7;
+            border: none;
+            border-radius: 6px;
+            padding: 5px 12px;
+            color: #4a148c;
+            cursor: pointer;
+            font-size: 12px;
+        }
+        .close-btn {
+            background: none;
+            border: none;
+            color: #999;
+            cursor: pointer;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<a href="../../index.html" class="back-to-dashboard">🏠 Back to Dashboard</a>
+
+<header>
+    <h1>🎵 Song Break</h1>
+    <nav class="nav-links">
+        <a href="#verse1">Verse 1</a>
+        <a href="#chorus">Chorus</a>
+        <a href="#verse3">Verse 3</a>
+        <a href="#chorus2">Chorus (Reprise)</a>
+        <a href="#bridge">Bridge</a>
+        <a href="#outro">Outro</a>
+        <a href="#final">🎤 Full Song</a>
+    </nav>
+</header>
+
+<div class="container">
+
+    <div class="song-header">
+        <h1>My Love</h1>
+        <p>Westlife (2000)</p>
+    </div>
+
+    <div class="audio-player-section">
+        <div class="section-badge">🎧 Official Audio</div>
+        <p><i class="fas fa-music"></i> Listen to the original song:</p>
+        <audio id="full-song-audio" controls>
+            <source src="../../data/3_PreIntermediate/my_love.mp3" type="audio/mpeg">
+        </audio>
+        <p style="font-size: 0.8rem; margin-top: 10px; color: #666;">
+            ℹ️ MP3 파일 위치: <source src="../../data/3_PreIntermediate/my_love.mp3" type="audio/mpeg">
+        </p>
+    </div>
+
+    <!-- ==================== VERSE 1 ==================== -->
+    <section id="verse1">
+        <h2>📍 Verse 1</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="verse1-container"></div>
+        </div>
+    </section>
+
+    <!-- ==================== CHORUS ==================== -->
+    <section id="chorus">
+        <h2>📍 Chorus</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="chorus-container"></div>
+        </div>
+    </section>
+
+    <!-- ==================== VERSE 3 ==================== -->
+    <section id="verse3">
+        <h2>📍 Verse 3</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="verse3-container"></div>
+        </div>
+    </section>
+
+    <!-- ==================== CHORUS (REPRISE - Line 9 "my love"만 제거) ==================== -->
+    <section id="chorus2">
+        <h2>📍 Chorus (Reprise)</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="chorus2-container"></div>
+        </div>
+    </section>
+
+    <!-- ==================== BRIDGE ==================== -->
+    <section id="bridge">
+        <h2>📍 Bridge</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="bridge-container"></div>
+        </div>
+    </section>
+
+    <!-- ==================== OUTRO ==================== -->
+    <section id="outro">
+        <h2>📍 Outro</h2>
+        <div class="instruction" style="margin-bottom: 20px;">
+            <i class="fas fa-headphones-alt"></i> Listen (🔊), record (🎤), play (▶), download (💾), transcribe (📝)
+        </div>
+        <div class="quiz-item" style="background: #fff; padding: 25px; border-radius: 15px; border: 1px solid #ddd;">
+            <div id="outro-container"></div>
+        </div>
+    </section>
+
+    <!-- ==================== FINAL CHALLENGE ==================== -->
+    <div id="final" class="final-challenge">
+        <h3>🎤 FINAL CHALLENGE: Complete Song</h3>
+        <p>Sing the whole song from beginning to end!</p>
+        <div class="quiz-item" style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px; margin-top: 15px;">
+            <div id="full-song-container"></div>
+        </div>
+    </div>
+
+    <!-- ==================== Listening Worksheet ==================== -->
+    <section style="margin-top: 3rem;">
+        <h2>📝 Listening Worksheet</h2>
+        <div style="background: #fef9e7; padding: 25px; border-radius: 15px; border-left: 6px solid #f39c12;">
+            <p><strong>🎧 Fill in the missing words:</strong></p>
+            <div style="line-height: 2; font-size: 1rem;">
+                <p>1. An empty street, an empty <input type="text" class="mini-input" style="width: 80px;">, a hole inside my heart.<br>
+                <small>Answer: house</small></p>
+                <p>2. I'm all <input type="text" class="mini-input" style="width: 60px;">, the rooms are getting smaller.<br>
+                <small>Answer: alone</small></p>
+                <p>3. I wonder how, I wonder <input type="text" class="mini-input" style="width: 60px;">, I wonder where they are.<br>
+                <small>Answer: why</small></p>
+                <p>4. The days we had, the <input type="text" class="mini-input" style="width: 70px;"> we sang together, oh, yeah.<br>
+                <small>Answer: songs</small></p>
+                <p>5. To hold you in my <input type="text" class="mini-input" style="width: 60px;">, to promise you my love.<br>
+                <small>Answer: arms</small></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ==================== Vocabulary ==================== -->
+    <section style="margin-top: 2rem;">
+        <h2>📖 Key Vocabulary</h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+            <div class="card"><strong>empty (adj.)</strong> - 비어 있는</div>
+            <div class="card"><strong>hole (n.)</strong> - 구멍</div>
+            <div class="card"><strong>wonder (v.)</strong> - 궁금해하다</div>
+            <div class="card"><strong>prayer (n.)</strong> - 기도</div>
+            <div class="card"><strong>reach for (v.)</strong> - 닿으려 애쓰다</div>
+        </div>
+    </section>
+
+</div>
+
+<footer>
+    &copy; 2026 AI English Tutor | "My Love" - Westlife
+</footer>
+
+<script>
+// ============================================================
+// 독립형 녹음 + 필사 시스템
+// Windows 10, Zorin OS 모두에서 작동
+// ============================================================
+
+const recordings = {};
+
+function speakText(text, character) {
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'en-US';
+    window.speechSynthesis.speak(utterance);
+}
+
+async function toggleRecord(uniqueId) {
+    const recordBtn = document.getElementById(`rec-${uniqueId}`);
+    if (!recordBtn) return;
+    
+    if (recordings[uniqueId] && recordings[uniqueId].recorder && recordings[uniqueId].recorder.state === "recording") {
+        recordings[uniqueId].recorder.stop();
+        recordBtn.style.backgroundColor = "#e74c3c";
+        recordBtn.innerHTML = "🎤";
+        return;
+    }
+    
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        const recorder = new MediaRecorder(stream);
+        const chunks = [];
+        
+        recorder.ondataavailable = (e) => {
+            if (e.data.size > 0) chunks.push(e.data);
+        };
+        
+        recorder.onstop = () => {
+            const blob = new Blob(chunks, { type: 'audio/webm' });
+            const url = URL.createObjectURL(blob);
+            recordings[uniqueId] = { blob, url, recorder: null, stream: null };
+            
+            const playBtn = document.getElementById(`play-${uniqueId}`);
+            if (playBtn) playBtn.style.display = "flex";
+            const downloadBtn = document.getElementById(`download-${uniqueId}`);
+            if (downloadBtn) downloadBtn.style.display = "flex";
+            const transcribeBtn = document.getElementById(`transcribe-${uniqueId}`);
+            if (transcribeBtn) transcribeBtn.style.display = "flex";
+            
+            stream.getTracks().forEach(track => track.stop());
+        };
+        
+        recorder.start();
+        recordings[uniqueId] = { recorder, stream, blob: null, url: null };
+        recordBtn.style.backgroundColor = "#000";
+        recordBtn.innerHTML = "⏹";
+        
+    } catch (err) {
+        console.error("Microphone error:", err);
+        alert("마이크 접근 오류: " + (err.message || "권한을 확인해주세요"));
+    }
+}
+
+function playMyVoice(uniqueId) {
+    if (recordings[uniqueId] && recordings[uniqueId].url) {
+        new Audio(recordings[uniqueId].url).play();
+    } else {
+        alert("먼저 녹음해주세요");
+    }
+}
+
+function downloadRecording(uniqueId) {
+    if (recordings[uniqueId] && recordings[uniqueId].blob) {
+        const url = URL.createObjectURL(recordings[uniqueId].blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `recording_${uniqueId}.webm`;
+        a.click();
+        URL.revokeObjectURL(url);
+    } else {
+        alert("다운로드할 녹음이 없습니다");
+    }
+}
+
+function transcribeRecording(uniqueId) {
+    const existingResult = document.getElementById(`transcript-result-${uniqueId}`);
+    if (existingResult) {
+        existingResult.remove();
+        return;
+    }
+    
+    if (!('webkitSpeechRecognition' in window)) {
+        alert("Speech recognition is not supported in this browser.");
+        return;
+    }
+    
+    const transcribeBtn = document.getElementById(`transcribe-${uniqueId}`);
+    if (!transcribeBtn) {
+        alert("Please record first.");
+        return;
+    }
+    
+    const originalText = transcribeBtn.innerHTML;
+    transcribeBtn.style.backgroundColor = "#e91e63";
+    transcribeBtn.innerHTML = "🎙️";
+    
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    const recognition = new SpeechRecognition();
+    recognition.lang = 'en-US';
+    
+    recognition.onresult = (event) => {
+        const recognizedText = event.results[0][0].transcript;
+        
+        const recordBtn = document.getElementById(`rec-${uniqueId}`);
+        const targetRow = recordBtn ? recordBtn.closest('[style*="padding: 12px 15px"]') : null;
+        
+        if (targetRow) {
+            const resultDiv = document.createElement('div');
+            resultDiv.id = `transcript-result-${uniqueId}`;
+            resultDiv.className = 'transcript-result';
+            resultDiv.innerHTML = `
+                <span><strong>📝 Transcription:</strong> "${recognizedText}"</span>
+                <div style="display: flex; gap: 8px;">
+                    <button class="copy-btn" onclick="copyTranscription('${uniqueId}', this)">📋 Copy</button>
+                    <button class="close-btn" onclick="this.parentElement.parentElement.remove()">✖</button>
+                </div>
+            `;
+            targetRow.insertAdjacentElement('afterend', resultDiv);
+        }
+        
+        transcribeBtn.style.backgroundColor = "#9c27b0";
+        transcribeBtn.innerHTML = originalText;
+    };
+    
+    recognition.onerror = () => {
+        transcribeBtn.style.backgroundColor = "#9c27b0";
+        transcribeBtn.innerHTML = originalText;
+        alert("Recognition failed. Please try again.");
+    };
+    
+    recognition.start();
+}
+
+function copyTranscription(uniqueId, btn) {
+    const resultDiv = document.getElementById(`transcript-result-${uniqueId}`);
+    if (resultDiv) {
+        const textMatch = resultDiv.innerText.match(/"([^"]*)"/);
+        const text = textMatch ? textMatch[1] : "";
+        if (text) {
+            navigator.clipboard.writeText(text).then(() => {
+                btn.innerText = "✓ Copied!";
+                setTimeout(() => { btn.innerText = "📋 Copy"; }, 1500);
+            });
+        }
+    }
+}
+
+// ============================================================
+// 가사 데이터 (원문 정확히 반영)
+// ============================================================
+
+// Verse 1: An empty street... And oh my love, I'm holding on forever
+const verse1Data = [
+    { name: "Line 1", color: "#2980B9", bg: "#EBF5FB", text: "An empty street, an empty house" },
+    { name: "Line 2", color: "#2980B9", bg: "#EBF5FB", text: "A hole inside my heart" },
+    { name: "Line 3", color: "#2980B9", bg: "#EBF5FB", text: "I'm all alone, the rooms are getting smaller" },
+    { name: "Line 4", color: "#2980B9", bg: "#EBF5FB", text: "I wonder how, I wonder why" },
+    { name: "Line 5", color: "#2980B9", bg: "#EBF5FB", text: "I wonder where they are" },
+    { name: "Line 6", color: "#2980B9", bg: "#EBF5FB", text: "The days we had, the songs we sang together, oh, yeah" },
+    { name: "Line 7", color: "#2980B9", bg: "#EBF5FB", text: "And oh my love, I'm holding on forever" },
+    { name: "🎵 Full Verse 1", color: "#ffffff", bg: "#2C3E50", text: "An empty street, an empty house, a hole inside my heart. I'm all alone, the rooms are getting smaller. I wonder how, I wonder why, I wonder where they are. The days we had, the songs we sang together, oh, yeah. And oh my love, I'm holding on forever." }
+];
+
+// Chorus: Reaching for the love... Where the fields are green to see you once again, my love
+const chorusData = [
+    { name: "Line 1", color: "#3498DB", bg: "#EBF5FB", text: "Reaching for the love that seems so far" },
+    { name: "Line 2", color: "#3498DB", bg: "#EBF5FB", text: "So, I say a little prayer" },
+    { name: "Line 3", color: "#3498DB", bg: "#EBF5FB", text: "And hope my dreams will take me there" },
+    { name: "Line 4", color: "#3498DB", bg: "#EBF5FB", text: "Where the skies are blue" },
+    { name: "Line 5", color: "#3498DB", bg: "#EBF5FB", text: "To see you once again, my love" },
+    { name: "Line 6", color: "#3498DB", bg: "#EBF5FB", text: "Overseas, from coast to coast" },
+    { name: "Line 7", color: "#3498DB", bg: "#EBF5FB", text: "To find a place I love the most" },
+    { name: "Line 8", color: "#3498DB", bg: "#EBF5FB", text: "Where the fields are green" },
+    { name: "Line 9", color: "#3498DB", bg: "#EBF5FB", text: "To see you once again, my love" },
+    { name: "🎵 Full Chorus", color: "#ffffff", bg: "#2C3E50", text: "Reaching for the love that seems so far. So, I say a little prayer and hope my dreams will take me there. Where the skies are blue to see you once again, my love. Overseas, from coast to coast to find a place I love the most. Where the fields are green to see you once again, my love." }
+];
+
+// Chorus Reprise 전용 - Line 9의 "my love"만 제거 (Line 5는 그대로 유지)
+const chorusRepriseData = [
+    { name: "Line 1", color: "#3498DB", bg: "#EBF5FB", text: "Reaching for the love that seems so far" },
+    { name: "Line 2", color: "#3498DB", bg: "#EBF5FB", text: "So, I say a little prayer" },
+    { name: "Line 3", color: "#3498DB", bg: "#EBF5FB", text: "And hope my dreams will take me there" },
+    { name: "Line 4", color: "#3498DB", bg: "#EBF5FB", text: "Where the skies are blue" },
+    { name: "Line 5", color: "#3498DB", bg: "#EBF5FB", text: "To see you once again, my love" },
+    { name: "Line 6", color: "#3498DB", bg: "#EBF5FB", text: "Overseas, from coast to coast" },
+    { name: "Line 7", color: "#3498DB", bg: "#EBF5FB", text: "To find a place I love the most" },
+    { name: "Line 8", color: "#3498DB", bg: "#EBF5FB", text: "Where the fields are green" },
+    { name: "Line 9", color: "#3498DB", bg: "#EBF5FB", text: "To see you once again" },
+    { name: "🎵 Full Chorus (Reprise)", color: "#ffffff", bg: "#2C3E50", text: "Reaching for the love that seems so far. So, I say a little prayer and hope my dreams will take me there. Where the skies are blue to see you once again, my love. Overseas, from coast to coast to find a place I love the most. Where the fields are green to see you once again." }
+];
+
+// Verse 3: I try to read... And oh my love, I'm holding on forever
+const verse3Data = [
+    { name: "Line 1", color: "#2E86C1", bg: "#EBF5FB", text: "I try to read, I go to work" },
+    { name: "Line 2", color: "#2E86C1", bg: "#EBF5FB", text: "I'm laughing with my friends" },
+    { name: "Line 3", color: "#2E86C1", bg: "#EBF5FB", text: "But I can't stop to keep myself from thinking, oh, no" },
+    { name: "Line 4", color: "#2E86C1", bg: "#EBF5FB", text: "I wonder how, I wonder why" },
+    { name: "Line 5", color: "#2E86C1", bg: "#EBF5FB", text: "I wonder where they are" },
+    { name: "Line 6", color: "#2E86C1", bg: "#EBF5FB", text: "The days we had, the songs we sang together, oh, yeah" },
+    { name: "Line 7", color: "#2E86C1", bg: "#EBF5FB", text: "And oh my love, I'm holding on forever" },
+    { name: "🎵 Full Verse 3", color: "#ffffff", bg: "#2C3E50", text: "I try to read, I go to work, I'm laughing with my friends. But I can't stop to keep myself from thinking, oh, no. I wonder how, I wonder why, I wonder where they are. The days we had, the songs we sang together, oh, yeah. And oh my love, I'm holding on forever." }
+];
+
+// Bridge: To hold you in my arms... Where the fields are green to see you once again, my love
+const bridgeData = [
+    { name: "Line 1", color: "#5DADE2", bg: "#EBF5FB", text: "To hold you in my arms" },
+    { name: "Line 2", color: "#5DADE2", bg: "#EBF5FB", text: "To promise you my love" },
+    { name: "Line 3", color: "#5DADE2", bg: "#EBF5FB", text: "To tell you from the heart" },
+    { name: "Line 4", color: "#5DADE2", bg: "#EBF5FB", text: "You're all I'm thinkin' of" },
+    { name: "Line 5", color: "#5DADE2", bg: "#EBF5FB", text: "I'm reaching for the love that seems so far" },
+    { name: "Line 6", color: "#5DADE2", bg: "#EBF5FB", text: "so, I say a little prayer" },
+    { name: "Line 7", color: "#5DADE2", bg: "#EBF5FB", text: "And hope my dreams will take me there" },
+    { name: "Line 8", color: "#5DADE2", bg: "#EBF5FB", text: "Where the skies are blue" },
+    { name: "Line 9", color: "#5DADE2", bg: "#EBF5FB", text: "To see you once again, my love" },
+    { name: "Line 10", color: "#5DADE2", bg: "#EBF5FB", text: "Overseas, from coast to coast (overseas)" },
+    { name: "Line 11", color: "#5DADE2", bg: "#EBF5FB", text: "To find the place I love the most (love the most)" },
+    { name: "Line 12", color: "#5DADE2", bg: "#EBF5FB", text: "Where the fields are green" },
+    { name: "Line 13", color: "#5DADE2", bg: "#EBF5FB", text: "To see you once again, my love" },
+    { name: "🎵 Full Bridge", color: "#ffffff", bg: "#2C3E50", text: "To hold you in my arms, to promise you my love, to tell you from the heart, you're all I'm thinkin' of. I'm reaching for the love that seems so far, so, I say a little prayer and hope my dreams will take me there. Where the skies are blue to see you once again, my love. Overseas, from coast to coast (overseas) to find the place I love the most (love the most). Where the fields are green to see you once again, my love." }
+];
+
+// Outro: Say a little prayer... Where the fields are green to see you once again, my love
+const outroData = [
+    { name: "Line 1", color: "#2980B9", bg: "#EBF5FB", text: "Say a little prayer (my sweet love)" },
+    { name: "Line 2", color: "#2980B9", bg: "#EBF5FB", text: "Dreams will take me there" },
+    { name: "Line 3", color: "#2980B9", bg: "#EBF5FB", text: "Where the skies are blue (whoa, yeah)" },
+    { name: "Line 4", color: "#2980B9", bg: "#EBF5FB", text: "To see you once again (oh my love)" },
+    { name: "Line 5", color: "#2980B9", bg: "#EBF5FB", text: "Overseas, from coast to coast" },
+    { name: "Line 6", color: "#2980B9", bg: "#EBF5FB", text: "To find the place I love the most" },
+    { name: "Line 7", color: "#2980B9", bg: "#EBF5FB", text: "Where the fields are green" },
+    { name: "Line 8", color: "#2980B9", bg: "#EBF5FB", text: "To see you once again, my love" },
+    { name: "🎵 Full Outro", color: "#ffffff", bg: "#2C3E50", text: "Say a little prayer (my sweet love), dreams will take me there. Where the skies are blue (whoa, yeah) to see you once again (oh my love). Overseas, from coast to coast to find the place I love the most. Where the fields are green to see you once again, my love." }
+];
+
+// Full Song (전체 가사 순서대로)
+const fullSongData = [
+    { name: "Verse 1", color: "#2980B9", bg: "#D6EAF8", text: "An empty street, an empty house, a hole inside my heart. I'm all alone, the rooms are getting smaller. I wonder how, I wonder why, I wonder where they are. The days we had, the songs we sang together, oh, yeah. And oh my love, I'm holding on forever." },
+    { name: "Chorus", color: "#3498DB", bg: "#D6EAF8", text: "Reaching for the love that seems so far. So, I say a little prayer and hope my dreams will take me there. Where the skies are blue to see you once again, my love. Overseas, from coast to coast to find a place I love the most. Where the fields are green to see you once again, my love." },
+    { name: "Verse 3", color: "#2E86C1", bg: "#D6EAF8", text: "I try to read, I go to work, I'm laughing with my friends. But I can't stop to keep myself from thinking, oh, no. I wonder how, I wonder why, I wonder where they are. The days we had, the songs we sang together, oh, yeah. And oh my love, I'm holding on forever." },
+    { name: "Chorus", color: "#3498DB", bg: "#D6EAF8", text: "Reaching for the love that seems so far. So, I say a little prayer and hope my dreams will take me there. Where the skies are blue to see you once again, my love. Overseas, from coast to coast to find a place I love the most. Where the fields are green to see you once again, my love." },
+    { name: "Bridge", color: "#5DADE2", bg: "#D6EAF8", text: "To hold you in my arms, to promise you my love, to tell you from the heart, you're all I'm thinkin' of. I'm reaching for the love that seems so far, so, I say a little prayer and hope my dreams will take me there. Where the skies are blue to see you once again, my love. Overseas, from coast to coast (overseas) to find the place I love the most (love the most). Where the fields are green to see you once again, my love." },
+    { name: "Outro", color: "#2980B9", bg: "#D6EAF8", text: "Say a little prayer (my sweet love), dreams will take me there. Where the skies are blue (whoa, yeah) to see you once again (oh my love). Overseas, from coast to coast to find the place I love the most. Where the fields are green to see you once again, my love." }
+];
+
+// ============================================================
+// 렌더링 함수
+// ============================================================
+
+function renderDialogue(containerId, data, sectionPrefix) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    
+    container.innerHTML = '';
+    
+    data.forEach((item, idx) => {
+        const uniqueId = `${sectionPrefix}_${idx}`;
+        
+        const rowDiv = document.createElement('div');
+        rowDiv.style.cssText = `padding: 12px 15px; background: ${item.bg}; border-radius: 12px; border-left: 6px solid ${item.color}; display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin-bottom: 8px;`;
+        
+        // 텍스트 영역
+        const textDiv = document.createElement('div');
+        textDiv.style.flex = '1';
+        textDiv.innerHTML = `<strong style="color: ${item.color};">${item.name}:</strong> <span>${item.text}</span>`;
+        
+        // 버튼 영역
+        const btnDiv = document.createElement('div');
+        btnDiv.className = 'action-buttons';
+        
+        // Speak 버튼
+        const speakBtn = document.createElement('button');
+        speakBtn.className = 'action-btn';
+        speakBtn.style.background = item.color;
+        speakBtn.innerHTML = '🔊';
+        speakBtn.onclick = () => speakText(item.text.replace(/<[^>]*>/g, ''), 'assistant');
+        
+        // Record 버튼
+        const recordBtn = document.createElement('button');
+        recordBtn.id = `rec-${uniqueId}`;
+        recordBtn.className = 'action-btn';
+        recordBtn.style.background = '#e74c3c';
+        recordBtn.innerHTML = '🎤';
+        recordBtn.onclick = () => toggleRecord(uniqueId);
+        
+        // Play 버튼
+        const playBtn = document.createElement('button');
+        playBtn.id = `play-${uniqueId}`;
+        playBtn.className = 'action-btn';
+        playBtn.style.background = '#2ecc71';
+        playBtn.innerHTML = '▶';
+        playBtn.style.display = 'none';
+        playBtn.onclick = () => playMyVoice(uniqueId);
+        
+        // Download 버튼
+        const downloadBtn = document.createElement('button');
+        downloadBtn.id = `download-${uniqueId}`;
+        downloadBtn.className = 'action-btn';
+        downloadBtn.style.background = '#3498db';
+        downloadBtn.innerHTML = '💾';
+        downloadBtn.style.display = 'none';
+        downloadBtn.onclick = () => downloadRecording(uniqueId);
+        
+        // Transcribe 버튼
+        const transcribeBtn = document.createElement('button');
+        transcribeBtn.id = `transcribe-${uniqueId}`;
+        transcribeBtn.className = 'action-btn';
+        transcribeBtn.style.background = '#9c27b0';
+        transcribeBtn.innerHTML = '📝';
+        transcribeBtn.style.display = 'none';
+        transcribeBtn.onclick = () => transcribeRecording(uniqueId);
+        
+        // 👇 새로 추가: 저장 버튼 (항상 보임)
+        const saveBtn = document.createElement('button');
+        saveBtn.className = 'action-btn';
+        saveBtn.style.background = '#f39c12';
+        saveBtn.innerHTML = '📦';
+        saveBtn.title = 'Save this chunk to Speaking Drill Center';
+        saveBtn.onclick = () => {
+            const plainText = item.text.replace(/<[^>]*>/g, '');
+            // 파일명에서 unitId 추출 (song_wonderful_world)
+            const unitId = window.location.pathname.match(/(song_\w+)/)?.[1] || 'song_my_love';
+            const unitTitle = '🎵 My Love - Westlife';
+            
+            // saveChunkToDrillCenter 함수 호출
+            if (typeof saveChunkToDrillCenter === 'function') {
+                saveChunkToDrillCenter(unitId, unitTitle, plainText, item.color, item.bg);
+            } else {
+                alert('saveChunkToDrillCenter function not found. Make sure speaking.js is loaded.');
+            }
+        };
+        
+        btnDiv.appendChild(speakBtn);
+        btnDiv.appendChild(recordBtn);
+        btnDiv.appendChild(playBtn);
+        btnDiv.appendChild(downloadBtn);
+        btnDiv.appendChild(transcribeBtn);
+        btnDiv.appendChild(saveBtn);  // 저장 버튼 추가
+        
+        rowDiv.appendChild(textDiv);
+        rowDiv.appendChild(btnDiv);
+        container.appendChild(rowDiv);
+    });
+}
+
+// ========== DRILL CENTER 저장 함수 ==========
+function saveChunkToDrillCenter(unitId, unitTitle, chunkText, color, bg) {
+    const saved = JSON.parse(localStorage.getItem("chunkStorage")) || [];
+    
+    // 중복 체크
+    const exists = saved.some(ch => ch.unitId === unitId && ch.chunkText === chunkText);
+    if (exists) {
+        alert("⚠️ This chunk is already in your Drill Center!");
+        return;
+    }
+    
+    saved.push({
+        unitId: unitId,
+        unitTitle: unitTitle,
+        chunkText: chunkText,
+        style: { color: color, bg: bg },
+        savedAt: new Date().toISOString()
+    });
+    
+    localStorage.setItem("chunkStorage", JSON.stringify(saved));
+    alert("✅ Chunk saved to Speaking Drill Center!");
+}
+
+// ============================================================
+// 초기화
+// ============================================================
+
+window.addEventListener('DOMContentLoaded', () => {
+    renderDialogue('verse1-container', verse1Data, 'verse1');
+    renderDialogue('chorus-container', chorusData, 'chorus');
+    renderDialogue('verse3-container', verse3Data, 'verse3');
+    renderDialogue('chorus2-container', chorusRepriseData, 'chorus2');  // ← Reprise 전용 데이터 (Line 9만 "my love" 제거)
+    renderDialogue('bridge-container', bridgeData, 'bridge');
+    renderDialogue('outro-container', outroData, 'outro');
+    renderDialogue('full-song-container', fullSongData, 'full');
+});
+</script>
+
+</body>
+</html>

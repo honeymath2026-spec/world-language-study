@@ -1,0 +1,560 @@
+{
+  "title": {
+    "en": "Can you speak English?",
+    "ja": "英語を話せますか？",
+    "fr": "Parlez-vous anglais ?",
+    "ko": "영어 할 수 있나요?"
+  },
+  "topic": {
+    "en": "Ability, past states, telephone English, homophones",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "core_title": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "core_reading_html": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "listening_tracks": {
+    "en": [
+  {
+    "title": "Can you speak Japanese?",
+    "label": "Conversation 1: Asking about abilities",
+    "script": [
+      { "speaker": "A", "text": "Can you speak Japanese?" },
+      { "speaker": "B", "text": "No, I can't." },
+      { "speaker": "A", "text": "Can dogs swim?" },
+      { "speaker": "B", "text": "Yes, they can." }
+    ]
+  },
+  {
+    "title": "Can she drive?",
+    "label": "Conversation 2: Talking about what people can and can't do",
+    "script": [
+      { "speaker": "A", "text": "Can she drive?" },
+      { "speaker": "B", "text": "No, she can't." },
+      { "speaker": "A", "text": "Can you cook?" },
+      { "speaker": "B", "text": "Yes, I can." }
+    ]
+  },
+  {
+    "title": "Charlotte's party",
+    "label": "Conversation 3: Talking about the past",
+    "script": [
+      { "speaker": "Kim", "text": "Were you at Charlotte's party last Saturday?" },
+      { "speaker": "Max", "text": "Yes, I was." },
+      { "speaker": "Kim", "text": "Was Henry there?" },
+      { "speaker": "Max", "text": "No, he wasn't. Why weren't you there?" },
+      { "speaker": "Kim", "text": "I was at Mark's party. It was brilliant!" }
+    ]
+  },
+  {
+    "title": "Things I can and can't do",
+    "label": "Listening 1: Tina talks about her abilities",
+    "script": [
+      { "speaker": "Tina", "text": "There are a lot of things I can't do. I can't drive a car, but I want to have lessons soon." },
+      { "speaker": "Tina", "text": "I can't speak French but I can speak Italian. My mother's Italian." },
+      { "speaker": "Tina", "text": "My mother can cook really well, but I can't cook at all. I just love eating!" },
+      { "speaker": "Tina", "text": "I think I'm good at quite a lot of sports. I can play tennis, ski, and of course I can swim." },
+      { "speaker": "Tina", "text": "I can't play any musical instruments. I'm not very musical, but I love dancing!" },
+      { "speaker": "Tina", "text": "Of course I can use a computer – all my friends can." }
+    ]
+  }
+],
+      "ja": [
+    {
+      "title": "日本語を話せますか？",
+      "label": "会話 1: できるかどうかを聞く",
+      "script": [
+        { "speaker": "A", "text": "日本語を話せますか？" },
+        { "speaker": "B", "text": "いいえ、話せません。" },
+        { "speaker": "A", "text": "犬は泳げますか？" },
+        { "speaker": "B", "text": "はい、泳げます。" }
+      ]
+    },
+    {
+      "title": "彼女は運転できますか？",
+      "label": "会話 2: できること・できないことを話す",
+      "script": [
+        { "speaker": "A", "text": "彼女は運転できますか？" },
+        { "speaker": "B", "text": "いいえ、できません。" },
+        { "speaker": "A", "text": "料理はできますか？" },
+        { "speaker": "B", "text": "はい、できます。" }
+      ]
+    },
+    {
+      "title": "シャーロットのパーティー",
+      "label": "会話 3: 過去のことを話す",
+      "script": [
+        { "speaker": "キム", "text": "先週の土曜日、シャーロットのパーティーにいましたか？" },
+        { "speaker": "マックス", "text": "はい、いました。" },
+        { "speaker": "キム", "text": "ヘンリーはいましたか？" },
+        { "speaker": "マックス", "text": "いいえ、いませんでした。どうして来なかったんですか？" },
+        { "speaker": "キム", "text": "マークのパーティーにいたんです。すごく楽しかったです！" }
+      ]
+    },
+    {
+      "title": "できること・できないこと",
+      "label": "リスニング 1: ティナが自分のできることを話す",
+      "script": [
+        { "speaker": "ティナ", "text": "私にはできないことがたくさんあります。車は運転できませんが、すぐに教習所に通いたいです。" },
+        { "speaker": "ティナ", "text": "フランス語は話せませんが、イタリア語は話せます。母がイタリア人なので。" },
+        { "speaker": "ティナ", "text": "母はとても料理が上手ですが、私はまったくできません。ただ食べるのが大好きです！" },
+        { "speaker": "ティナ", "text": "スポーツはかなり得意だと思います。テニスもスキーもできますし、もちろん泳げます。" },
+        { "speaker": "ティナ", "text": "楽器はまったくできません。音楽はあまり得意じゃないですが、ダンスは大好きです！" },
+        { "speaker": "ティナ", "text": "もちろんパソコンは使えます。友達はみんな使えますから。" }
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "title": "Parlez-vous anglais ?",
+      "label": "Conversation 1 : Demander si on sait faire quelque chose",
+      "script": [
+        { "speaker": "A", "text": "Parlez-vous anglais ?" },
+        { "speaker": "B", "text": "Non, je ne parle pas anglais." },
+        { "speaker": "A", "text": "Est-ce que les chiens savent nager ?" },
+        { "speaker": "B", "text": "Oui, ils savent nager." }
+      ]
+    },
+    {
+      "title": "Elle sait conduire ?",
+      "label": "Conversation 2 : Parler de ce qu'on sait ou pas faire",
+      "script": [
+        { "speaker": "A", "text": "Est-ce qu'elle sait conduire ?" },
+        { "speaker": "B", "text": "Non, elle ne sait pas." },
+        { "speaker": "A", "text": "Tu sais cuisiner ?" },
+        { "speaker": "B", "text": "Oui, je sais." }
+      ]
+    },
+    {
+      "title": "La fête de Charlotte",
+      "label": "Conversation 3 : Parler du passé",
+      "script": [
+        { "speaker": "Kim", "text": "Tu étais à la fête de Charlotte samedi dernier ?" },
+        { "speaker": "Max", "text": "Oui, j'étais là." },
+        { "speaker": "Kim", "text": "Est-ce qu'Henry était là ?" },
+        { "speaker": "Max", "text": "Non, il n'était pas là. Pourquoi tu n'étais pas venue ?" },
+        { "speaker": "Kim", "text": "J'étais à la fête de Marc. C'était génial !" }
+      ]
+    },
+    {
+      "title": "Ce que je sais et ne sais pas faire",
+      "label": "Compréhension orale 1 : Tina parle de ce qu'elle sait faire",
+      "script": [
+        { "speaker": "Tina", "text": "Il y a beaucoup de choses que je ne sais pas faire. Je ne sais pas conduire, mais je veux bientôt prendre des leçons." },
+        { "speaker": "Tina", "text": "Je ne parle pas français mais je parle italien. Ma mère est italienne." },
+        { "speaker": "Tina", "text": "Ma mère cuisine très bien, mais moi, je ne sais pas cuisiner du tout. J'adore manger !" },
+        { "speaker": "Tina", "text": "Je pense que je suis assez bonne dans pas mal de sports. Je sais jouer au tennis, skier, et bien sûr nager." },
+        { "speaker": "Tina", "text": "Je ne sais jouer d'aucun instrument de musique. Je ne suis pas très musicienne, mais j'adore danser !" },
+        { "speaker": "Tina", "text": "Bien sûr que je sais utiliser un ordinateur – tous mes amis savent le faire." }
+      ]
+    }
+  ],
+  "ko": [
+    {
+      "title": "영어 할 수 있나요?",
+      "label": "대화 1: 가능한지 묻기",
+      "script": [
+        { "speaker": "A", "text": "영어 할 수 있나요?" },
+        { "speaker": "B", "text": "아니요, 못 해요." },
+        { "speaker": "A", "text": "개는 수영할 수 있나요?" },
+        { "speaker": "B", "text": "네, 할 수 있어요." }
+      ]
+    },
+    {
+      "title": "그녀는 운전할 수 있나요?",
+      "label": "대화 2: 할 수 있는 것과 없는 것 말하기",
+      "script": [
+        { "speaker": "A", "text": "그녀는 운전할 수 있나요?" },
+        { "speaker": "B", "text": "아니요, 못 해요." },
+        { "speaker": "A", "text": "요리할 수 있나요?" },
+        { "speaker": "B", "text": "네, 할 수 있어요." }
+      ]
+    },
+    {
+      "title": "샬럿의 파티",
+      "label": "대화 3: 과거 이야기하기",
+      "script": [
+        { "speaker": "킴", "text": "지난 토요일에 샬럿 파티에 있었어요?" },
+        { "speaker": "맥스", "text": "네, 있었어요." },
+        { "speaker": "킴", "text": "헨리도 거기 있었나요?" },
+        { "speaker": "맥스", "text": "아니요, 없었어요. 그런데 왜 안 온 거예요?" },
+        { "speaker": "킴", "text": "마크 파티에 갔었거든요. 정말 재미있었어요!" }
+      ]
+    },
+    {
+      "title": "내가 할 수 있는 것과 없는 것",
+      "label": "듣기 1: 티나가 자신의 능력에 대해 말하다",
+      "script": [
+        { "speaker": "티나", "text": "제가 못하는 것들이 정말 많아요. 운전은 못 하지만 곧 운전 학원을 다니고 싶어요." },
+        { "speaker": "티나", "text": "프랑스어는 못 하지만 이탈리아어는 할 수 있어요. 우리 엄마가 이탈리아 사람이거든요." },
+        { "speaker": "티나", "text": "엄마는 요리를 정말 잘하시는데 저는 전혀 못 해요. 그냥 먹는 걸 너무 좋아해요!" },
+        { "speaker": "티나", "text": "스포츠는 꽤 잘하는 편인 것 같아요. 테니스도 할 수 있고 스키도 탈 수 있고, 물론 수영도 할 수 있어요." },
+        { "speaker": "티나", "text": "악기는 하나도 못 다뤄요. 음악적이지는 않은데 춤추는 건 정말 좋아해요!" },
+        { "speaker": "티나", "text": "컴퓨터는 당연히 할 수 있죠 – 제 친구들 다 할 수 있어요." }
+      ]
+    }
+  ]
+  },
+  "extra_reading_title": {
+    "en": "Young Talents Around the World",
+    "ja": "世界の若き天才たち",
+    "fr": "Jeunes talents à travers le monde",
+    "ko": "세계의 어린 천재들"
+},
+  "extra_reading_html": {
+    "en": "<p><strong>Alexandra Nechita (Little Miss Picasso)</strong><br>Alexandra Nechita is thirteen and she is called ‘the new Picasso’. She paints large pictures in cubist style and sells them for between $10,000 and $80,000. She was born in Romania but now she lives in Los Angeles with her family.</p><p><strong>Lukas Vondracek (The New Mozart)</strong><br>Ten-year-old Lukas Vondracek is very shy, but every year he travels the world and gives concerts. He was born in Opava in the Czech Republic but now lives with his parents in Vienna, where he practises the piano six hours a day.</p>",
+    "ja": "<p><strong>秋山和慶（天才指揮者）</strong><br>12歳の和慶は、世界中で指揮棒を振る天才少年です。彼は日本で生まれ、幼い頃からオーケストラを指揮していました。毎日、学校が終わると3時間練習し、週末にはプロのオーケストラと一緒に演奏します。</p><p><strong>佐藤美咲（数学の天才）</strong><br>11歳の美咲は、どんな複雑な数学の問題でも数分で解いてしまいます。東京で生まれ育ち、今は数学の研究機関に通っています。彼女は4歳の時に掛け算をマスターしていました。</p>",
+    "fr": "<p><strong>Lucas Moreau (Le petit génie de l'informatique)</strong><br>Lucas a douze ans et vit à Lyon. Il a commencé à coder des jeux vidéo à l'âge de cinq ans. Aujourd'hui, il crée des applications pour aider les élèves à apprendre les mathématiques. Il passe deux heures par jour sur son ordinateur après l'école.</p><p><strong>Élise Dubois (La violoniste prodige)</strong><br>À seulement dix ans, Élise joue du violon comme une professionnelle. Née à Bordeaux, elle donne des concerts dans toute la France. Elle travaille son instrument quatre heures par jour et adore lire de la poésie pendant son temps libre.</p>",
+    "ko": "<p><strong>김지훈 (수학 천재)</strong><br>13살인 김지훈은 고등학교 수준의 미적분 문제를 순식간에 풀어냅니다. 서울에서 태어난 그는 5살 때부터 수학 기호를 읽기 시작했습니다. 그는 매일 학교 수업이 끝나면 수학 연구실에서 4시간씩 공부합니다.</p><p><strong>이서연 (피아노 신동)</strong><br>10살인 이서연은 전국 피아노 콩쿠르에서 수차례 우승했습니다. 부산 출신인 그녀는 피아노 연주를 할 때 가장 행복하다고 합니다. 그녀는 매일 아침 6시에 일어나 3시간 동안 연습을 한 뒤 학교에 갑니다.</p>"
+},
+  "tf_quiz": {
+    "en": [
+      {"question": "Alexandra Nechita was born in Los Angeles.", "correct": "F", "explanation": "False. She was born in Romania."},
+      {"question": "Lukas Vondracek practices the piano six hours a day.", "correct": "T", "explanation": "True. The text states he practices six hours a day."},
+      {"question": "Alexandra is known as 'the new Picasso'.", "correct": "T", "explanation": "True. She is called 'the new Picasso'."},
+      {"question": "Lukas Vondracek was born in Vienna.", "correct": "F", "explanation": "False. He was born in Opava, Czech Republic."},
+      {"question": "Alexandra paints in cubist style.", "correct": "T", "explanation": "True. She paints in cubist style."}
+    ],
+    "ja": [
+      {"question": "和慶は日本で生まれました。", "correct": "T", "explanation": "正解です。彼は日本で生まれました。"},
+      {"question": "美咲は10歳の時に掛け算をマスターしました。", "correct": "F", "explanation": "間違いです。彼女は4歳の時にマスターしました。"},
+      {"question": "和慶は週末にプロと演奏します。", "correct": "T", "explanation": "正解です。週末にオーケストラと共演します。"},
+      {"question": "美咲は東京で育ちました。", "correct": "T", "explanation": "正解です。彼女は東京で生まれ育ちました。"},
+      {"question": "和慶は毎日1時間練習します。", "correct": "F", "explanation": "間違いです。彼は毎日3時間練習します。"}
+    ],
+    "fr": [
+      {"question": "Lucas crée des jeux vidéo depuis l'âge de cinq ans.", "correct": "T", "explanation": "Vrai. Il a commencé à l'âge de cinq ans."},
+      {"question": "Élise travaille son violon huit heures par jour.", "correct": "F", "explanation": "Faux. Elle travaille quatre heures par jour."},
+      {"question": "Lucas vit à Bordeaux.", "correct": "F", "explanation": "Faux. Lucas vit à Lyon."},
+      {"question": "Élise donne des concerts dans toute la France.", "correct": "T", "explanation": "Vrai. Elle se produit dans tout le pays."},
+      {"question": "Lucas crée des applications pour les mathématiques.", "correct": "T", "explanation": "Vrai. Ses applications aident les élèves."}
+    ],
+    "ko": [
+      {"question": "김지훈은 5살 때부터 수학 기호를 읽기 시작했습니다.", "correct": "T", "explanation": "정답입니다. 지문에서 5살 때부터 시작했다고 명시되어 있습니다."},
+      {"question": "이서연은 매일 저녁에 피아노 연습을 합니다.", "correct": "F", "explanation": "틀렸습니다. 그녀는 매일 아침 6시에 일어나 3시간 동안 연습합니다."},
+      {"question": "김지훈은 하루에 4시간씩 공부합니다.", "correct": "T", "explanation": "정답입니다. 방과 후 연구실에서 4시간씩 공부합니다."},
+      {"question": "이서연은 서울 출신입니다.", "correct": "F", "explanation": "틀렸습니다. 이서연은 부산 출신입니다."},
+      {"question": "김지훈은 고등학교 수준의 미적분을 풀 수 있습니다.", "correct": "T", "explanation": "정답입니다. 그는 미적분 문제를 순식간에 풀어냅니다."}
+    ]
+},
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "Can you...?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Yes, I can.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "No, I can’t.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Can you</b> speak French? <b>Yes, I can</b>.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Where were you...?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "I was at...",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Where were you</b> yesterday? <b>I was at</b> home.",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "Could you... when you were...?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "Yes, I could.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Could you swim when you were</b> five? <b>Yes, I could</b>.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "〜できますか？",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "はい、できます。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "いいえ、できません。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>フランス語を話せますか？</b> <b>はい、話せます。</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "どこにいましたか？",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "〜にいました。",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>昨日どこにいましたか？</b> <b>家にいました。</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "〜歳のとき〜できましたか？",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "はい、できました。",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>5歳のとき泳げましたか？</b> <b>はい、泳げました。</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "Pouvez-vous... ?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Oui, je peux.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Non, je ne peux pas.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Parlez-vous français ?</b> <b>Oui, je parle.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Où étiez-vous... ?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "J'étais à...",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Où étiez-vous hier ?</b> <b>J'étais à</b> la maison.",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "Saviez-vous... quand vous aviez... ?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "Oui, je savais.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Saviez-vous nager quand vous aviez cinq ans ?</b> <b>Oui, je savais.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "~할 수 있나요?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "네, 할 수 있습니다.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "아니요, 못합니다.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>프랑스어 할 수 있나요?</b> <b>네, 할 수 있습니다.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "어디에 있었나요?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "~에 있었습니다.",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>어제 어디에 있었나요?</b> <b>집에 있었습니다.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "~살 때 ~할 수 있었나요?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "네, 할 수 있었습니다.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>다섯 살 때 수영할 수 있었나요?</b> <b>네, 할 수 있었습니다.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "The unit explains how to talk about ability using 'can/can't' and past ability using 'could/couldn't', as well as past states using 'was/were'. <b>How do you ask someone if they can swim? How do you say you couldn't do something in the past? How do you ask where someone was yesterday?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "can, can't, could, couldn't, was, were, ability, past",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "To ask if someone can swim, say... To say you couldn't do something in the past, say... To ask where someone was yesterday, say...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "The unit features child geniuses like Alexandra (painter) and Lukas (pianist) who have exceptional abilities. <b>What special abilities or talents did you have when you were very young? What could you do at age five that you can't do as well now? What can you do now that you couldn't do five years ago?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "When I was five, I could... but now I can't... Five years ago, I couldn't... but now I can...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "In this unit, you learned to talk about abilities using 'can/can't' and 'could/couldn't'. You also learned about homophones (words that sound the same) like 'hear/here' and 'write/right'. <b>Why is it important to be able to talk about what you can and cannot do when meeting new people or in a job interview? Why do you think English has so many words that sound the same but have different spellings and meanings?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Talking about abilities is important because... English has many homophones because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

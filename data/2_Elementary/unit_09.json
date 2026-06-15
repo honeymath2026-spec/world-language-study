@@ -1,0 +1,330 @@
+{
+  "title": {
+    "en": "Food you like!",
+    "ja": "あなたの好きな食べ物！",
+    "fr": "La nourriture que vous aimez !",
+    "ko": "좋아하는 음식!"
+  },
+  "topic": {
+    "en": "Count and uncount nouns, I like/I'd like, much/many, food, polite requests",
+    "ja": "可算名詞と不可算名詞、I like/I'd like、much/many、食べ物、丁寧なリクエスト",
+    "fr": "Noms dénombrables et indénombrables, I like/I'd like, much/many, nourriture, demandes polies",
+    "ko": "가산명사와 불가산명사, I like/I'd like, much/many, 음식, 정중한 요청"
+  },
+  "core_title": {
+    "en": "Food and Drink, Count and Uncount Nouns, Offers and Requests",
+    "ja": "食べ物と飲み物、可算名詞と不可算名詞、申し出とリクエスト",
+    "fr": "Nourriture et boissons, noms dénombrables et indénombrables, offres et demandes",
+    "ko": "음식과 음료, 가산명사와 불가산명사, 제안과 요청"
+  },
+  "core_reading_html": {
+    "en": "<p>We use <strong>count nouns</strong> for things we can count (apples, biscuits). We use <strong>uncount nouns</strong> for things we cannot count (chocolate, apple juice).</p><p>We use '<strong>I like</strong>' to talk about things we enjoy in general. We use '<strong>I'd like</strong>' (I would like) to ask for something or say what we want now.</p><p>We use '<strong>some</strong>' in offers and requests (Would you like some tea? Can I have some biscuits?). We use '<strong>any</strong>' in questions and negatives (Are there any chips? There isn't any tea).</p><p>We use '<strong>many</strong>' with count nouns in questions and negatives (How many eggs? There aren't many eggs). We use '<strong>much</strong>' with uncount nouns (How much coffee? There isn't much coffee).</p>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "listening_tracks": {
+    "en": [
+    {
+  "title": "Food you like!",
+  "label": "Conversation 1: Daisy and Tom talk about food they like and dislike",
+  "script": [
+    { "speaker": "Daisy", "text": "I don’t like tea." },
+    { "speaker": "Tom", "text": "Oh, I do. Well, sometimes, with sugar. But coffee’s horrible!" },
+    { "speaker": "Daisy", "text": "Yeah. Disgusting. I don’t like wine or beer either." },
+    { "speaker": "Tom", "text": "Well – I don’t like wine but I like beer. My dad has beer every day after work and sometimes I have a bit." },
+    { "speaker": "Daisy", "text": "Beer! Yuck! But apple juice is nice. I really like apple juice. It’s delicious." },
+    { "speaker": "Tom", "text": "Mmmm! Yeah, it’s delicious and it’s good for you. Apples are too! I love all fruit – apples, oranges, bananas, strawberries." }
+  ]
+},
+{
+  "title": "Food you like!",
+  "label": "Conversation 2: More likes and dislikes",
+  "script": [
+    { "speaker": "Daisy", "text": "Yeah. OK. I like fruit, but I hate all vegetables, specially carrots." },
+    { "speaker": "Tom", "text": "Yeah, vegetables are disgusting. Er – but not all of them, I quite like peas. Hamburgers, chips, and peas. Mmm! That’s one of my favourite meals." },
+    { "speaker": "Daisy", "text": "Yeah – hamburgers, I like. Chips, I like. But peas – yuk!" },
+    { "speaker": "Tom", "text": "My very favourite meal is spaghetti. Spaghetti, then ice-cream after. Yummy! … Or yoghurt. I love strawberry yoghurt." },
+    { "speaker": "Daisy", "text": "Ice-cream – OK, yes. Yoghurt, no! Spaghetti – yes. I like all pasta and pizza! But I don’t like it with tomatoes or cheese. I don’t like tomatoes very much and I hate cheese." }
+  ]
+},
+{
+  "title": "Food you like!",
+  "label": "Conversation 3: Can you have pizza without tomatoes and cheese?",
+  "script": [
+    { "speaker": "Tom", "text": "Mmmm! Pizza. The best. But … you can’t have pizza without tomatoes and cheese." },
+    { "speaker": "Daisy", "text": "You can." },
+    { "speaker": "Tom", "text": "You can’t!" },
+    { "speaker": "Daisy", "text": "Well, I can. I don’t like cheese at all!" },
+    { "speaker": "Tom", "text": "What do you like then?" },
+    { "speaker": "Daisy", "text": "Well, I like … er … I like chocolate and chocolate biscuits …" },
+    { "speaker": "Tom", "text": "Yeah! I really like chocolate. Everybody likes chocolate." },
+    { "speaker": "Daisy", "text": "Yeah!" }
+  ]
+},
+{
+  "title": "Food you like!",
+  "label": "Listening 1: My favourite food",
+  "script": [
+    { "speaker": "Marian", "text": "Well, I love vegetables, all vegetables – I eat meat too – but not much. I think this is why I like Chinese food so much. There are lots of vegetables in Chinese food. Yes, Chinese is my very favourite food. I like the noodles too. Can you eat with chopsticks? I can!" },
+    { "speaker": "Graham", "text": "Now in my job, I travel the world, and I like all kinds of food … but my favourite … is a full English breakfast. Bacon, eggs, sausage, mushrooms, tomatoes, and of course toast. I love it, not every day but when I’m at home we have it every Sunday. Mmmm! I’d like it right now – delicious." },
+    { "speaker": "Lucy", "text": "Oh, no question. I know exactly what my favourite food is. Pasta. All pasta. Especially spaghetti. Pasta with tomato sauce – and I like it best when I’m in Italy. I went on holiday to the Italian lakes last year. The food was wonderful." },
+    { "speaker": "Gavin", "text": "My favourite food is Indian food. Friday night I like to go to the pub with friends from work and have a few beers … and after we always go to an Indian restaurant and I have a chicken curry with rice. It’s the best! I like it more than chips!" },
+    { "speaker": "Sally", "text": "Well, shhh! But my very, very favourite food is chocolate. Chocolate anything, I love it. Chocolate ice-cream, chocolate biscuits, chocolate cake, but especially just a big bar of chocolate. Mmmm! Terrible, isn’t it? Go on! Have some of this! My friend brought it back from Switzerland for me!" }
+  ]
+}
+],
+    "ja": [
+    {
+      "title": "好きな食べ物！",
+      "label": "会話 1: 好きな食べ物・嫌いな食べ物について",
+      "script": [
+        { "speaker": "デイジー", "text": "お茶は好きじゃないんだ。" },
+        { "speaker": "トム", "text": "え、そうなの？僕は好きだよ。でも紅茶には砂糖を入れる。コーヒーはまずいけどね！" },
+        { "speaker": "デイジー", "text": "うん、最悪。ワインもビールも嫌い。" },
+        { "speaker": "トム", "text": "ワインは好きじゃないけど、ビールは好き。父が仕事の後毎日飲んでて、たまにちょっと貰うんだ。" },
+        { "speaker": "デイジー", "text": "ビール！やだ！でもリンゴジュースは好き。すごくおいしい。" },
+        { "speaker": "トム", "text": "うん、おいしいし体にもいい。リンゴもね！果物全部好き。リンゴ、オレンジ、バナナ、イチゴ。" }
+      ]
+    },
+    {
+      "title": "好きな食べ物！",
+      "label": "会話 2: もっと好き嫌い",
+      "script": [
+        { "speaker": "デイジー", "text": "うん、果物は好きだけど、野菜は全部嫌い。特に人参。" },
+        { "speaker": "トム", "text": "野菜はまずいよね。でも全部じゃない。グリーンピースは結構好き。ハンバーガーとポテトとグリーンピース。最高の食事のひとつ。" },
+        { "speaker": "デイジー", "text": "ハンバーガーもポテトも好き。でもグリーンピースは無理！" },
+        { "speaker": "トム", "text": "一番好きなのはスパゲッティ。それからアイスクリーム。やっぱりヨーグルトも。イチゴヨーグルトが大好き。" },
+        { "speaker": "デイジー", "text": "アイスクリームはいいけど、ヨーグルトはダメ。スパゲッティは好き。パスタもピザも好き！でもトマトとチーズが乗ってるのは嫌。トマトはあまり好きじゃないし、チーズは大嫌い。" }
+      ]
+    },
+    {
+      "title": "好きな食べ物！",
+      "label": "会話 3: トマトとチーズなしでピザはあり？",
+      "script": [
+        { "speaker": "トム", "text": "ピザは最高。でもトマトとチーズなしじゃピザじゃないよね。" },
+        { "speaker": "デイジー", "text": "ありだよ。" },
+        { "speaker": "トム", "text": "ありえない！" },
+        { "speaker": "デイジー", "text": "私はありにする。チーズは全然好きじゃないから。" },
+        { "speaker": "トム", "text": "じゃあ何が好きなの？" },
+        { "speaker": "デイジー", "text": "えっと…チョコレートとチョコレートビスケット。" },
+        { "speaker": "トム", "text": "それならいいね。チョコレートはみんな好きだよ。" },
+        { "speaker": "デイジー", "text": "うん！" }
+      ]
+    },
+    {
+      "title": "好きな食べ物！",
+      "label": "リスニング 1: 私の大好きな食べ物",
+      "script": [
+        { "speaker": "マリアン", "text": "私は野菜が大好き。全部。肉も食べるけどあまり多くはない。だから中華料理がそんなに好きなんだ。野菜がたくさん入ってるから。中華が一番好き。麺も好き。箸使えるよ！" },
+        { "speaker": "グラハム", "text": "仕事で世界中を回ってるけど、一番好きなのは帰ってきたときのフルイングリッシュブレックファースト。ベーコン、卵、ソーセージ、マッシュルーム、トマト、それにトースト。毎日じゃないけど、家にいるときは日曜日に食べる。今すぐ食べたいな。" },
+        { "speaker": "ルーシー", "text": "迷わず言える。パスタ。全部好きだけど特にスパゲッティ。トマトソースのパスタ。イタリアで食べるのが一番。去年イタリアの湖に旅行に行ったんだけど、食べ物が最高だった。" },
+        { "speaker": "ギャビン", "text": "インド料理が一番好き。金曜の夜は仕事の友達とパブに行ってビールを何杯か飲んで、それからいつもインドレストランに行ってチキンカレーとライスを食べる。それが最高！ポテトより好きだよ。" },
+        { "speaker": "サリー", "text": "しーっ。でも本当に一番好きなのはチョコレート。チョコレートなら何でも。チョコアイス、チョコビスケット、チョコケーキ、特に大きな板チョコ。ひどいよね？はい、どうぞ！スイスから友達が持ってきてくれたの。" }
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "title": "La nourriture que vous aimez !",
+      "label": "Conversation 1 : Daisy et Tom parlent de ce qu'ils aiment et n'aiment pas",
+      "script": [
+        { "speaker": "Daisy", "text": "Je n’aime pas le thé." },
+        { "speaker": "Tom", "text": "Ah moi si. Enfin, parfois, avec du sucre. Mais le café, c’est horrible !" },
+        { "speaker": "Daisy", "text": "Ouais, dégoûtant. Je n’aime pas non plus le vin ni la bière." },
+        { "speaker": "Tom", "text": "Moi, je n’aime pas le vin, mais j’aime la bière. Mon père en boit tous les jours après le boulot et parfois j’en prends un peu." },
+        { "speaker": "Daisy", "text": "La bière ! Beurk ! Mais le jus de pomme, c’est bon. J’aime vraiment le jus de pomme. C’est délicieux." },
+        { "speaker": "Tom", "text": "Mmmm ! Ouais, c’est délicieux et c’est bon pour la santé. Les pommes aussi ! J’adore tous les fruits – pommes, oranges, bananes, fraises." }
+      ]
+    },
+    {
+      "title": "La nourriture que vous aimez !",
+      "label": "Conversation 2 : Autres goûts et dégoûts",
+      "script": [
+        { "speaker": "Daisy", "text": "Ouais, bon. J’aime les fruits, mais je déteste tous les légumes, surtout les carottes." },
+        { "speaker": "Tom", "text": "Ouais, les légumes, c’est dégoûtant. Enfin, pas tous – j’aime bien les petits pois. Hamburger, frites et petits pois. Mmm ! C’est un de mes repas préférés." },
+        { "speaker": "Daisy", "text": "Ouais – j’aime les hamburgers. J’aime les frites. Mais les petits pois – beurk !" },
+        { "speaker": "Tom", "text": "Mon repas préféré, c’est les spaghettis. Spaghettis, puis une glace après. Miam ! … Ou du yaourt. J’adore le yaourt à la fraise." },
+        { "speaker": "Daisy", "text": "La glace – OK, oui. Le yaourt – non ! Les spaghettis – oui. J’aime toutes les pâtes et les pizzas ! Mais je n’aime pas avec des tomates ou du fromage. Je n’aime pas trop les tomates et je déteste le fromage." }
+      ]
+    },
+    {
+      "title": "La nourriture que vous aimez !",
+      "label": "Conversation 3 : Peut-on avoir une pizza sans tomates ni fromage ?",
+      "script": [
+        { "speaker": "Tom", "text": "Mmmm ! La pizza. Le meilleur. Mais … on ne peut pas avoir de pizza sans tomates ni fromage." },
+        { "speaker": "Daisy", "text": "Si, on peut." },
+        { "speaker": "Tom", "text": "Non, on peut pas !" },
+        { "speaker": "Daisy", "text": "Eh bien moi, je peux. Je n’aime pas du tout le fromage !" },
+        { "speaker": "Tom", "text": "Alors, tu aimes quoi ?" },
+        { "speaker": "Daisy", "text": "Eh bien, j’aime … euh … j’aime le chocolat et les biscuits au chocolat …" },
+        { "speaker": "Tom", "text": "Oui ! J’aime beaucoup le chocolat. Tout le monde aime le chocolat." },
+        { "speaker": "Daisy", "text": "Oui !" }
+      ]
+    },
+    {
+      "title": "La nourriture que vous aimez !",
+      "label": "Écoute 1 : Ma nourriture préférée",
+      "script": [
+        { "speaker": "Marian", "text": "Moi, j’adore les légumes, tous les légumes – je mange aussi de la viande, mais pas beaucoup. C’est pour ça que j’aime tant la cuisine chinoise. Il y a beaucoup de légumes dans la cuisine chinoise. Oui, la chinoise est mon plat préféré. J’aime aussi les nouilles. Vous savez manger avec des baguettes ? Moi, oui !" },
+        { "speaker": "Graham", "text": "Avec mon métier, je voyage partout dans le monde, et j’aime toutes sortes de plats… mais mon préféré… c’est un petit-déjeuner anglais complet. Bacon, œufs, saucisses, champignons, tomates, et bien sûr des toasts. J’adore ça, pas tous les jours, mais quand je suis à la maison, on en mange tous les dimanches. Mmmm ! J’en prendrais bien tout de suite – délicieux." },
+        { "speaker": "Lucy", "text": "Oh, sans hésitation. Je sais exactement ce que j’aime le plus : les pâtes. Toutes les pâtes, surtout les spaghettis. Des pâtes à la sauce tomate – et je les préfère quand je suis en Italie. L’année dernière, je suis partie en vacances aux lacs italiens. La nourriture était merveilleuse." },
+        { "speaker": "Gavin", "text": "Mon plat préféré, c’est la cuisine indienne. Le vendredi soir, j’aime aller au pub avec des copains du travail, prendre quelques bières… pas trop… et après on va toujours dans un restaurant indien, et je prends un curry de poulet avec du riz. C’est le meilleur ! Je l’aime plus que les frites !" },
+        { "speaker": "Sally", "text": "Alors, chut ! Mais ce que je préfère vraiment, vraiment, c’est le chocolat. Tout ce qui est au chocolat, j’adore. Glace au chocolat, biscuits au chocolat, gâteau au chocolat, mais surtout une grande tablette de chocolat. Mmmm ! C’est terrible, non ? Allez, prenez-en un peu ! Mon ami me l’a rapporté de Suisse !" }
+      ]
+    }
+  ],
+  "ko": [
+    {
+      "title": "좋아하는 음식!",
+      "label": "대화 1: 데이지와 탐이 좋아하는 음식과 싫어하는 음식 이야기",
+      "script": [
+        { "speaker": "데이지", "text": "나는 차 안 좋아해." },
+        { "speaker": "톰", "text": "아, 나는 좋아하는데. 가끔 설탕 넣어서. 그런데 커피는 진짜 별로야!" },
+        { "speaker": "데이지", "text": "응, 역겨워. 나 와인이나 맥주도 싫어." },
+        { "speaker": "톰", "text": "음, 나는 와인은 싫지만 맥주는 좋아해. 아빠가 퇴근하고 매일 맥주 마시는데 가끔 나도 조금 마셔." },
+        { "speaker": "데이지", "text": "맥주! 웩! 그런데 사과 주스는 좋아. 진짜 맛있어." },
+        { "speaker": "톰", "text": "음~ 그래, 맛있고 몸에도 좋아. 사과도 그렇고! 나는 과일 다 좋아해. 사과, 오렌지, 바나나, 딸기." }
+      ]
+    },
+    {
+      "title": "좋아하는 음식!",
+      "label": "대화 2: 좋아하고 싫어하는 것 더 이야기하기",
+      "script": [
+        { "speaker": "데이지", "text": "응, 그래. 과일은 좋아하는데 야채는 다 싫어. 특히 당근." },
+        { "speaker": "톰", "text": "맞아, 야채는 역겨워. 아, 다 그런 건 아니야. 완두콩은 꽤 좋아해. 햄버거, 감자튀김, 그리고 완두콩. 음~ 내가 제일 좋아하는 음식 중 하나야." },
+        { "speaker": "데이지", "text": "맞아, 햄버거 좋아. 감자튀김 좋아. 그런데 완두콩은 웩!" },
+        { "speaker": "톰", "text": "내가 제일 좋아하는 음식은 스파게티야. 스파게티 먹고 나서 아이스크림. 맛있어! 아니면 요거트. 딸기 요거트 진짜 좋아해." },
+        { "speaker": "데이지", "text": "아이스크림은 좋아. 요거트는 싫어. 스파게티는 좋아. 나 파스타랑 피자 다 좋아! 그런데 토마토나 치즈 들어간 건 싫어. 토마토는 별로 안 좋아하고 치즈는 진짜 싫어." }
+      ]
+    },
+    {
+      "title": "좋아하는 음식!",
+      "label": "대화 3: 토마토와 치즈 없이 피자를 먹을 수 있을까?",
+      "script": [
+        { "speaker": "톰", "text": "음~ 피자. 최고야. 그런데 토마토랑 치즈 없이는 피자가 될 수 없지." },
+        { "speaker": "데이지", "text": "될 수 있어." },
+        { "speaker": "톰", "text": "말도 안 돼!" },
+        { "speaker": "데이지", "text": "음, 나는 돼. 나는 치즈를 전혀 안 좋아하거든." },
+        { "speaker": "톰", "text": "그럼 넌 뭘 좋아하는데?" },
+        { "speaker": "데이지", "text": "음, 나는… 어… 초콜릿이랑 초콜릿 비스킷 좋아해." },
+        { "speaker": "톰", "text": "그래! 나 초콜릿 진짜 좋아해. 다들 초콜릿 좋아하잖아." },
+        { "speaker": "데이지", "text": "맞아!" }
+      ]
+    },
+    {
+      "title": "좋아하는 음식!",
+      "label": "듣기 1: 내가 가장 좋아하는 음식",
+      "script": [
+        { "speaker": "매리언", "text": "저는 야채를 정말 좋아해요. 모든 야채요. 고기도 먹지만 많이 먹진 않아요. 그래서 제가 중국 음식을 그렇게 좋아하는 것 같아요. 중국 음식에는 야채가 많이 들어가거든요. 네, 중국 음식이 제일 좋아요. 면도 좋아하고요. 젓가락으로 먹을 수 있어요? 저는 할 수 있어요!" },
+        { "speaker": "그레이엄", "text": "제 직업 때문에 전 세계를 여행하는데, 모든 음식을 다 좋아해요. 그런데 제가 제일 좋아하는 건… 집에 돌아왔을 때 먹는 풀 잉글리시 브렉퍼스트예요. 베이컨, 계란, 소시지, 버섯, 토마토, 물론 토스트까지. 매일은 아니고 집에 있을 때 일요일마다 먹어요. 지금 당장 먹고 싶네요. 정말 맛있어요." },
+        { "speaker": "루시", "text": "고민할 필요 없어요. 제가 제일 좋아하는 음식이 뭔지 정확히 알아요. 파스타예요. 모든 파스타, 특히 스파게티요. 토마토 소스 파스타. 그리고 이탈리아에서 먹을 때 제일 맛있어요. 작년에 이탈리아 호수로 휴가 갔었는데 음식이 정말 환상적이었어요." },
+        { "speaker": "개빈", "text": "제가 제일 좋아하는 음식은 인도 음식이에요. 금요일 밤이면 직장 친구들이랑 펍에 가서 맥주를 몇 잔 마셔요. 너무 많이 마시진 않고요. 그런 다음 항상 인도 레스토랑에 가서 치킨 카레랑 밥을 먹어요. 그게 최고예요! 감자튀김보다 더 좋아해요!" },
+        { "speaker": "샐리", "text": "쉿! 그런데 제가 진짜 제일 좋아하는 음식은 초콜릿이에요. 초콜릿이면 뭐든 다 좋아해요. 초콜릿 아이스크림, 초콜릿 비스킷, 초콜릿 케이크, 특히 큰 초콜릿 바가 제일 좋아요. 맛있어요! 이상하죠? 자, 이것 좀 먹어 봐요! 제 친구가 스위스에서 저한테 선물로 사 왔어요!" }
+      ]
+    }
+  ]
+  },
+  "extra_reading_title": {
+    "en": "Food and Culture Around the World",
+    "ja": "世界各地の食文化",
+    "fr": "La nourriture et la culture à travers le monde",
+    "ko": "세계의 음식과 문화"
+  },
+  "extra_reading_html": {
+    "en": "<p>For 99% of human history, people took their food from the world around them. Then about 10,000 years ago, people learned to farm. The kind of food we eat depends on where we live. In the south of China they eat rice, but in the north they eat noodles. In Scandinavia they eat a lot of herrings, and the Portuguese love sardines. In central Europe people eat more meat and sausages. In North America, Australia, and Europe there are two or more courses to every meal and people eat with knives and forks. In China there is only one course, and they eat with chopsticks. In parts of India and the Middle East people use their fingers and bread. Nowadays we can transport food easily. Our bananas come from the Caribbean or Africa; our rice from India or the USA; our strawberries from Chile or Spain. But in poor countries people are still hungry, and in rich countries people eat too much.</p>",
+    "ja": "<p>人類の歴史の99%において、人々は周囲の環境から食料を得ていました。その後約1万年前に農業が始まりました。私たちが何を食べるかは、住んでいる場所によって異なります。中国南部では米を食べますが、北部では麺類が主流です。スカンジナビアではニシンをよく食べ、ポルトガル人はイワシを好みます。中央ヨーロッパでは肉やソーセージが多く食べられます。北米、オーストラリア、ヨーロッパでは、食事は2つ以上のコースで構成され、ナイフとフォークを使います。中国では基本的に一品料理で、箸を使います。インドや中東の一部では、手とパンを使って食事をします。今日、食料は容易に輸送できるようになりました。バナナはカリブ海やアフリカから、米はインドやアメリカから、イチゴはチリやスペインから届きます。しかし、貧しい国々では今も飢餓に苦しむ人々がいる一方で、豊かな国々では食べ過ぎが問題となっています。</p>",
+    "fr": "<p>Pendant 99 % de l'histoire humaine, les gens se sont nourris de ce qu'ils trouvaient dans leur environnement. Puis, il y a environ 10 000 ans, l'agriculture a été découverte. Le type de nourriture que nous consommons dépend de l'endroit où nous vivons. Dans le sud de la Chine, on mange du riz, mais dans le nord, on mange des nouilles. En Scandinavie, on consomme beaucoup de harengs, et les Portugais adorent les sardines. En Europe centrale, les gens mangent plus de viande et de saucisses. En Amérique du Nord, en Australie et en Europe, chaque repas comporte au moins deux plats et les gens utilisent des couteaux et des fourchettes. En Chine, il n'y a qu'un seul plat et on utilise des baguettes. Dans certaines parties de l'Inde et du Moyen-Orient, les gens mangent avec leurs doigts et du pain. Aujourd'hui, nous pouvons transporter facilement la nourriture. Nos bananes viennent des Caraïbes ou d'Afrique ; notre riz d'Inde ou des États-Unis ; nos fraises du Chili ou d'Espagne. Mais dans les pays pauvres, les gens souffrent encore de la faim, tandis que dans les pays riches, les gens mangent trop.</p>",
+    "ko": "<p>인류 역사의 99% 동안 사람들은 주변 자연에서 식량을 구했습니다. 그러다 약 1만 년 전 농경이 시작되었습니다. 우리가 먹는 음식은 사는 지역에 따라 다릅니다. 중국 남부 사람들은 쌀을 먹지만, 북부 사람들은 면을 먹습니다. 스칸디나비아 사람들은 청어를 즐겨 먹고, 포르투갈 사람들은 정어리를 좋아합니다. 중앙 유럽에서는 육류와 소시지를 더 많이 먹습니다. 북미, 호주, 유럽에서는 한 끼에 두 코스 이상의 요리가 나오며 나이프와 포크를 사용합니다. 중국에서는 한 가지 요리가 나오며 젓가락을 사용합니다. 인도와 중동 일부 지역에서는 손과 빵을 이용해 식사합니다. 오늘날 식량은 쉽게 운송됩니다. 바나나는 카리브해나 아프리카에서, 쌀은 인도나 미국에서, 딸기는 칠레나 스페인에서 옵니다. 하지만 가난한 나라에서는 여전히 사람들이 굶주리고 있고, 부유한 나라에서는 과도한 섭취가 문제가 되고 있습니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      { "question": "People started farming about 10,000 years ago.", "correct": "T", "explanation": "The text mentions that people learned to farm about 10,000 years ago." },
+      { "question": "In the south of China, people eat noodles.", "correct": "F", "explanation": "In the south of China, they eat rice; in the north, they eat noodles." },
+      { "question": "In Scandinavia, people eat a lot of herrings.", "correct": "T", "explanation": "The text states that in Scandinavia they eat a lot of herrings." },
+      { "question": "People in China use knives and forks to eat.", "correct": "F", "explanation": "In China, people eat with chopsticks." },
+      { "question": "Nowadays, it is difficult to transport food around the world.", "correct": "F", "explanation": "The text says that nowadays we can transport food easily." }
+    ],
+    "ja": [
+      { "question": "農業は約1万年前に始まった。", "correct": "T", "explanation": "本文によると、約1万年前に人々は農業を学びました。" },
+      { "question": "中国北部では主に米を食べる。", "correct": "F", "explanation": "中国北部では麺類を食べ、南部では米を食べます。" },
+      { "question": "北米やヨーロッパでは食事にナイフとフォークを使う。", "correct": "T", "explanation": "本文に、それらの地域ではナイフとフォークを使うと記載されています。" },
+      { "question": "中国では食事は通常2つ以上のコースで提供される。", "correct": "F", "explanation": "中国では一品料理（ワンコース）が一般的です。" },
+      { "question": "今日、バナナや米などの食料は世界中から容易に輸送される。", "correct": "T", "explanation": "食料の輸送が容易になり、世界各地の食材を手にすることができます。" }
+    ],
+    "fr": [
+      { "question": "L'agriculture existe depuis environ 10 000 ans.", "correct": "T", "explanation": "Le texte confirme que l'agriculture a été apprise il y a environ 10 000 ans." },
+      { "question": "Dans le sud de la Chine, on mange principalement des nouilles.", "correct": "F", "explanation": "Au sud de la Chine, on mange du riz, et au nord, des nouilles." },
+      { "question": "En Europe centrale, les gens mangent peu de viande.", "correct": "F", "explanation": "En Europe centrale, les gens mangent beaucoup de viande et de saucisses." },
+      { "question": "En Chine, les gens utilisent des baguettes pour manger.", "correct": "T", "explanation": "Le texte indique que les gens utilisent des baguettes en Chine." },
+      { "question": "Il est difficile de transporter de la nourriture aujourd'hui.", "correct": "F", "explanation": "Le texte souligne qu'aujourd'hui, nous pouvons transporter facilement la nourriture." }
+    ],
+    "ko": [
+      { "question": "인류는 약 1만 년 전부터 농사를 짓기 시작했다.", "correct": "T", "explanation": "본문에 약 1만 년 전 농경이 시작되었다고 나와 있습니다." },
+      { "question": "중국 북부 사람들은 주로 쌀을 먹는다.", "correct": "F", "explanation": "중국 북부에서는 면을, 남부에서는 쌀을 먹습니다." },
+      { "question": "포르투갈 사람들은 정어리를 즐겨 먹는다.", "correct": "T", "explanation": "본문에 포르투갈 사람들은 정어리를 좋아한다고 명시되어 있습니다." },
+      { "question": "북미와 유럽에서는 한 가지 요리만 제공된다.", "correct": "F", "explanation": "북미와 유럽에서는 두 코스 이상의 요리가 나옵니다." },
+      { "question": "오늘날 우리는 세계 각지의 음식을 쉽게 구할 수 있다.", "correct": "T", "explanation": "오늘날 식량 운송이 쉬워져 여러 나라의 음식을 쉽게 얻을 수 있습니다." }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Count vs Uncount Nouns</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>Count nouns</strong> have a plural form (apple → apples). <strong>Uncount nouns</strong> do not have a plural form (chocolate, not chocolates).</p></div><h3>2. I like vs I'd like</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>I like</strong> = general enjoyment (I like tea). <strong>I'd like (I would like)</strong> = want now (I'd like a cup of tea).</p></div><h3>3. Some and Any</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>Use <strong>some</strong> in offers and requests (Would you like <strong>some</strong> tea? Can I have <strong>some</strong> biscuits?). Use <strong>any</strong> in other questions and negatives (Are there <strong>any</strong> chips? There isn't <strong>any</strong> tea).</p></div><h3>4. Much vs Many</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>Many</strong> + count nouns (How <strong>many</strong> eggs?). <strong>Much</strong> + uncount nouns (How <strong>much</strong> coffee?).</p></div><h3>5. Polite requests</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>Can I have...? / Could I have...?</strong> = ask for something. <strong>Can you...? / Could you...?</strong> = ask someone to do something.</p></div>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "The unit explains count/uncount nouns, 'I like' vs 'I'd like', 'some/any', 'much/many', and polite requests about food. <b>What is the difference between 'I like' and 'I'd like'? When do we use 'some' instead of 'any'? How do you politely ask for something in a shop or at the table?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "count nouns, uncount nouns, I like, I'd like, some, any, much, many, polite requests, food vocabulary",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "Explain the difference between I like and I'd like, when to use some/any, much/many, and how to make polite requests...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "The reading 'Food around the world' shows how eating habits differ by region. <b>What is a typical meal in your country? How do people eat it (with chopsticks, fork and knife, bread, fingers)? Do you eat more rice, noodles, or bread? What foreign foods are popular where you live?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "In my country, a typical meal is... We eat with... We eat a lot of... Popular foreign foods include...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "In this unit you learned to talk about food, use count/uncount nouns, and make polite requests. <b>Why is it useful to know the difference between 'I like' and 'I'd like' when ordering food in a restaurant or shopping? How can polite requests like 'Could I have...' or 'Can you pass...' help you in daily life?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Knowing the difference helps because... Polite requests are useful when...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

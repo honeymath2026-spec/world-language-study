@@ -1,0 +1,672 @@
+{
+  "title": {
+    "en": "Take it easy!",
+    "ja": "リラックスしよう！",
+    "fr": "Détends-toi !",
+    "ko": "편하게 살아요!"
+  },
+  "topic": {
+    "en": "Weekdays and weekends, present simple (I/you/we/they), leisure activities, social expressions",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "core_title": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "core_reading_html": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "listening_tracks": {
+    "en": [
+  {
+    "title": "Take it easy!",
+    "label": "Conversation 1: Bobbi Brown’s weekday routine",
+    "script": [
+      { "speaker": "Interviewer", "text": "Where do you work?" },
+      { "speaker": "Bobbi", "text": "In New York." },
+      { "speaker": "Interviewer", "text": "Do you like your work?" },
+      { "speaker": "Bobbi", "text": "Yes, I do." },
+      { "speaker": "Interviewer", "text": "Do you relax at weekends?" },
+      { "speaker": "Bobbi", "text": "No, I don’t." },
+      { "speaker": "Interviewer", "text": "Why don’t you relax at weekends?" },
+      { "speaker": "Bobbi", "text": "Because I work." }
+    ]
+  },
+  {
+    "title": "Take it easy!",
+    "label": "Conversation 2: Daily questions and answers",
+    "script": [
+      { "speaker": "A", "text": "What time do you go to bed?" },
+      { "speaker": "B", "text": "At 11 o’clock." },
+      { "speaker": "A", "text": "Where do you go on holiday?" },
+      { "speaker": "B", "text": "To Spain or Portugal." },
+      { "speaker": "A", "text": "What do you do on Sundays?" },
+      { "speaker": "B", "text": "I always relax." },
+      { "speaker": "A", "text": "When do you do your homework?" },
+      { "speaker": "B", "text": "After dinner." },
+      { "speaker": "A", "text": "Who do you live with?" },
+      { "speaker": "B", "text": "My mother and sisters." },
+      { "speaker": "A", "text": "Why do you like your job?" },
+      { "speaker": "B", "text": "Because it’s interesting." },
+      { "speaker": "A", "text": "How do you travel to school?" },
+      { "speaker": "B", "text": "By bus." },
+      { "speaker": "A", "text": "Do you go out on Friday evenings?" },
+      { "speaker": "B", "text": "Yes, I do sometimes." }
+    ]
+  },
+  {
+    "title": "Take it easy!",
+    "label": "Conversation 3: Listen carefully examples",
+    "script": [
+      { "speaker": "Speaker", "text": "What does she do on Sundays?" },
+      { "speaker": "Speaker", "text": "Do you stay home on Thursday evenings?" },
+      { "speaker": "Speaker", "text": "He lives here." },
+      { "speaker": "Speaker", "text": "What do you do on Saturday evenings?" },
+      { "speaker": "Speaker", "text": "I read a lot." },
+      { "speaker": "Speaker", "text": "Why don’t you like your job?" }
+    ]
+  },
+  {
+    "title": "Take it easy!",
+    "label": "Listening 1: Favourite seasons",
+    "script": [
+      { "speaker": "Al Wheeler", "text": "We have long, cold winters and short, hot summers. We have a holiday home near a lake, so in summer I go sailing a lot and I play baseball, but in winter I often play ice hockey and go ice-skating. My favourite season is autumn, or fall, as we say in North America. I love the colours of the trees – red, gold, orange, yellow, and brown." },
+      { "speaker": "Manuela da Silva", "text": "People think it’s always warm and sunny in Portugal, but January and February are often cold, wet, and grey. I don’t like winter. I usually meet friends in restaurants and bars and we chat. Sometimes we go to a Brazilian bar. I love Brazilian music. But then suddenly it’s summer and at weekends we drive to the beach, sunbathe, and go swimming. I love summer." },
+      { "speaker": "Toshi Suzuki", "text": "I work for Pentax cameras, in the export department. I don’t have a lot of free time, but I have one special hobby – taking photographs, of course! I like taking photographs of flowers, especially in spring. Sometimes, after work, I relax in a bar near my office with friends. My friend, Shigeru, likes singing pop songs in the bar. This has a special name, karaoke. I don’t sing – I’m too shy!" }
+    ]
+  }
+],
+    "ja": [
+  {
+    "title": "リラックスしよう！",
+    "label": "会話 1: ボビー・ブラウンの平日のルーティン",
+    "script": [
+      { "speaker": "インタビュアー", "text": "どこで働いているんですか？" },
+      { "speaker": "ボビー", "text": "ニューヨークです。" },
+      { "speaker": "インタビュアー", "text": "仕事は好きですか？" },
+      { "speaker": "ボビー", "text": "はい、好きです。" },
+      { "speaker": "インタビュアー", "text": "週末はリラックスしますか？" },
+      { "speaker": "ボビー", "text": "いいえ、しません。" },
+      { "speaker": "インタビュアー", "text": "なぜ週末リラックスしないんですか？" },
+      { "speaker": "ボビー", "text": "仕事があるからです。" }
+    ]
+  },
+  {
+    "title": "リラックスしよう！",
+    "label": "会話 2: 日常の質問と答え",
+    "script": [
+      { "speaker": "A", "text": "何時に寝ますか？" },
+      { "speaker": "B", "text": "11時です。" },
+      { "speaker": "A", "text": "休暇はどこへ行きますか？" },
+      { "speaker": "B", "text": "スペインかポルトガルです。" },
+      { "speaker": "A", "text": "日曜日は何をしますか？" },
+      { "speaker": "B", "text": "いつもリラックスします。" },
+      { "speaker": "A", "text": "いつ宿題をしますか？" },
+      { "speaker": "B", "text": "夕食後です。" },
+      { "speaker": "A", "text": "誰と住んでいますか？" },
+      { "speaker": "B", "text": "母と姉妹です。" },
+      { "speaker": "A", "text": "なぜ自分の仕事が好きなんですか？" },
+      { "speaker": "B", "text": "面白いからです。" },
+      { "speaker": "A", "text": "どうやって学校へ通っていますか？" },
+      { "speaker": "B", "text": "バスです。" },
+      { "speaker": "A", "text": "金曜の夜は出かけますか？" },
+      { "speaker": "B", "text": "ええ、時々出かけます。" }
+    ]
+  },
+  {
+    "title": "リラックスしよう！",
+    "label": "会話 3: よく聞いてみよう",
+    "script": [
+      { "speaker": "話し手", "text": "彼女は日曜日に何をしますか？" },
+      { "speaker": "話し手", "text": "木曜の夜は家にいますか？" },
+      { "speaker": "話し手", "text": "彼はここに住んでいます。" },
+      { "speaker": "話し手", "text": "土曜の夜は何をしますか？" },
+      { "speaker": "話し手", "text": "よく本を読みます。" },
+      { "speaker": "話し手", "text": "なぜ自分の仕事が好きじゃないんですか？" }
+    ]
+  },
+  {
+    "title": "リラックスしよう！",
+    "label": "リスニング 1: 好きな季節",
+    "script": [
+      { "speaker": "アル・ウィーラー", "text": "カナダは冬が長く寒く、夏は短く暑いです。湖の近くに別荘があるので、夏はよくセーリングをしたり野球をします。でも冬はアイスホッケーやスケートをよくします。私の好きな季節は秋です。北米ではフォールと言います。木の色が赤、金、オレンジ、黄、茶色できれいなんです。" },
+      { "speaker": "マヌエラ・ダ・シルバ", "text": "ポルトガルはいつも暖かく晴れていると思われがちですが、1月と2月は寒くて雨が多く曇っています。冬は好きじゃありません。よく友だちとレストランやバーで会って話します。ブラジル料理のバーに行くこともあります。ブラジル音楽が大好きです。でもある日突然夏が来て、週末は車で海に行き、日光浴をして泳ぎます。夏が大好きです。" },
+      { "speaker": "鈴木敏志", "text": "ペンタックスカメラの輸出部門で働いています。自由な時間はあまりありませんが、特別な趣味があります。もちろん写真撮影です。特に春の花の写真を撮るのが好きです。仕事の後、よく友だちと会社の近くのバーでリラックスします。友達のシゲルはバーでポップソングを歌うのが好きです。それをカラオケと言います。私は歌いません。恥ずかしすぎて。" }
+    ]
+  }
+],
+    "fr": [
+  {
+    "title": "Détends-toi !",
+    "label": "Conversation 1 : La semaine de Bobbi Brown",
+    "script": [
+      { "speaker": "Interviewer", "text": "Où travailles-tu ?" },
+      { "speaker": "Bobbi", "text": "À New York." },
+      { "speaker": "Interviewer", "text": "Tu aimes ton travail ?" },
+      { "speaker": "Bobbi", "text": "Oui, beaucoup." },
+      { "speaker": "Interviewer", "text": "Tu te détends le week-end ?" },
+      { "speaker": "Bobbi", "text": "Non, pas du tout." },
+      { "speaker": "Interviewer", "text": "Pourquoi tu ne te détends pas le week-end ?" },
+      { "speaker": "Bobbi", "text": "Parce que je travaille." }
+    ]
+  },
+  {
+    "title": "Détends-toi !",
+    "label": "Conversation 2 : Questions et réponses du quotidien",
+    "script": [
+      { "speaker": "A", "text": "Tu te couches à quelle heure ?" },
+      { "speaker": "B", "text": "À 11 heures." },
+      { "speaker": "A", "text": "Où est-ce que tu pars en vacances ?" },
+      { "speaker": "B", "text": "En Espagne ou au Portugal." },
+      { "speaker": "A", "text": "Tu fais quoi le dimanche ?" },
+      { "speaker": "B", "text": "Je me détends toujours." },
+      { "speaker": "A", "text": "Quand est-ce que tu fais tes devoirs ?" },
+      { "speaker": "B", "text": "Après le dîner." },
+      { "speaker": "A", "text": "Avec qui tu habites ?" },
+      { "speaker": "B", "text": "Avec ma mère et mes sœurs." },
+      { "speaker": "A", "text": "Pourquoi tu aimes ton travail ?" },
+      { "speaker": "B", "text": "Parce qu’il est intéressant." },
+      { "speaker": "A", "text": "Comment tu vas à l’école ?" },
+      { "speaker": "B", "text": "En bus." },
+      { "speaker": "A", "text": "Tu sors le vendredi soir ?" },
+      { "speaker": "B", "text": "Oui, parfois." }
+    ]
+  },
+  {
+    "title": "Détends-toi !",
+    "label": "Conversation 3 : Écoute bien",
+    "script": [
+      { "speaker": "Locuteur", "text": "Qu’est-ce qu’elle fait le dimanche ?" },
+      { "speaker": "Locuteur", "text": "Tu restes chez toi le jeudi soir ?" },
+      { "speaker": "Locuteur", "text": "Il habite ici." },
+      { "speaker": "Locuteur", "text": "Tu fais quoi le samedi soir ?" },
+      { "speaker": "Locuteur", "text": "Je lis beaucoup." },
+      { "speaker": "Locuteur", "text": "Pourquoi tu n’aimes pas ton travail ?" }
+    ]
+  },
+  {
+    "title": "Détends-toi !",
+    "label": "Compréhension orale 1 : Saisons préférées",
+    "script": [
+      { "speaker": "Al Wheeler", "text": "Chez nous, les hivers sont longs et froids, les étés courts et chauds. On a une maison près d’un lac, donc l’été je fais beaucoup de voile et je joue au baseball. Mais l’hiver, je joue souvent au hockey sur glace et je patine. Ma saison préférée, c’est l’automne. J’adore les couleurs des arbres – rouge, or, orange, jaune et marron." },
+      { "speaker": "Manuela da Silva", "text": "Les gens pensent qu’il fait toujours chaud et soleil au Portugal, mais janvier et février sont souvent froids, humides et gris. Je n’aime pas l’hiver. Je retrouve des amis dans des bars et restaurants pour discuter. Parfois on va dans un bar brésilien. J’adore la musique brésilienne. Mais soudain, c’est l’été : le week-end, on va à la plage, on se baigne et on bronze. J’adore l’été." },
+      { "speaker": "Toshi Suzuki", "text": "Je travaille chez Pentax, au département export. Je n’ai pas beaucoup de temps libre, mais j’ai un hobby particulier : la photo, bien sûr ! J’aime prendre des photos de fleurs, surtout au printemps. Parfois après le travail, je me détends dans un bar près du bureau avec des amis. Mon ami Shigeru aime chanter des chansons pop dans le bar. Ça s’appelle le karaoké. Moi, je ne chante pas – je suis trop timide !" }
+    ]
+  }
+],
+    "ko": [
+  {
+    "title": "편하게 살아요!",
+    "label": "대화 1: 바비 브라운의 평일 일과",
+    "script": [
+      { "speaker": "인터뷰어", "text": "어디에서 일하세요?" },
+      { "speaker": "바비", "text": "뉴욕이요." },
+      { "speaker": "인터뷰어", "text": "일 좋아하세요?" },
+      { "speaker": "바비", "text": "네, 좋아해요." },
+      { "speaker": "인터뷰어", "text": "주말에는 쉬면서 편하게 지내세요?" },
+      { "speaker": "바비", "text": "아니요, 그렇지 않아요." },
+      { "speaker": "인터뷰어", "text": "왜 주말에 쉬지 않으세요?" },
+      { "speaker": "바비", "text": "일하니까요." }
+    ]
+  },
+  {
+    "title": "편하게 살아요!",
+    "label": "대화 2: 일상 질문과 답변",
+    "script": [
+      { "speaker": "A", "text": "몇 시에 자요?" },
+      { "speaker": "B", "text": "11시요." },
+      { "speaker": "A", "text": "휴가는 어디로 가요?" },
+      { "speaker": "B", "text": "스페인 아니면 포르투갈이요." },
+      { "speaker": "A", "text": "일요일에는 뭐 해요?" },
+      { "speaker": "B", "text": "항상 쉬어요." },
+      { "speaker": "A", "text": "숙제는 언제 해요?" },
+      { "speaker": "B", "text": "저녁 먹고 나서요." },
+      { "speaker": "A", "text": "누구랑 같이 살아요?" },
+      { "speaker": "B", "text": "엄마랑 여자형제들이요." },
+      { "speaker": "A", "text": "왜 자기 일을 좋아하세요?" },
+      { "speaker": "B", "text": "재미있으니까요." },
+      { "speaker": "A", "text": "학교에 어떻게 가요?" },
+      { "speaker": "B", "text": "버스로요." },
+      { "speaker": "A", "text": "금요일 저녁에는 나가요?" },
+      { "speaker": "B", "text": "네, 가끔 나가요." }
+    ]
+  },
+  {
+    "title": "편하게 살아요!",
+    "label": "대화 3: 잘 들어 보세요",
+    "script": [
+      { "speaker": "말하는이", "text": "그녀는 일요일에 뭐 하나요?" },
+      { "speaker": "말하는이", "text": "목요일 저녁에는 집에 있어요?" },
+      { "speaker": "말하는이", "text": "그는 여기 살아요." },
+      { "speaker": "말하는이", "text": "토요일 저녁에는 뭐 하나요?" },
+      { "speaker": "말하는이", "text": "저는 책을 많이 읽어요." },
+      { "speaker": "말하는이", "text": "왜 자기 일이 싫으세요?" }
+    ]
+  },
+  {
+    "title": "편하게 살아요!",
+    "label": "리스닝 1: 좋아하는 계절",
+    "script": [
+      { "speaker": "알 휠러", "text": "저희는 겨울이 길고 춥고, 여름은 짧고 더워요. 호수 근처에 별장이 있어서 여름에는 요트도 많이 타고 야구도 해요. 하지만 겨울에는 아이스하키를 자주 하고 스케이트도 타요. 제가 가장 좋아하는 계절은 가을이에요. 나뭇잎 색깔이 빨강, 금색, 주황, 노랑, 갈색으로 정말 아름다워요." },
+      { "speaker": "마누엘라 다 실바", "text": "사람들은 포르투갈이 항상 따뜻하고 화창할 거라고 생각하는데, 1월과 2월은 춥고 비도 많이 오고 흐려요. 저는 겨울이 싫어요. 주로 친구들이랑 레스토랑이나 바에서 만나서 수다 떨어요. 가끔 브라질 바에 가기도 해요. 브라질 음악을 정말 좋아하거든요. 그러다 갑자기 여름이 되면, 주말마다 차로 해변에 가서 일광욕도 하고 수영도 해요. 저는 여름이 최고예요." },
+      { "speaker": "스즈키 토시", "text": "저는 펜탁스 카메라 수출 부서에서 일해요. 자유 시간이 많지는 않지만, 특별한 취미가 하나 있어요. 당연히 사진 찍기죠! 저는 특히 봄에 꽃 사진 찍는 걸 좋아해요. 퇴근 후에는 가끔 친구들이랑 회사 근처 바에서 편하게 시간을 보내요. 제 친구 시게루는 바에서 팝송 부르는 걸 좋아해요. 그걸 가라오케라고 해요. 저는 노래 안 불러요. 너무 부끄러워서요!" }
+    ]
+  }
+]
+  },
+  "extra_reading_title": {
+    "en": "My Favourite Season",
+    "ja": "私の好きな季節",
+    "fr": "Ma saison préférée",
+    "ko": "내가 가장 좋아하는 계절"
+  },
+  "extra_reading_html": {
+    "en": "<p><strong>Al Wheeler from Canada</strong><br>We have long, cold winters and short, hot summers. We have a holiday home near a lake, so in summer I go sailing a lot and I play baseball, but in winter I often play ice hockey and go ice-skating. My favourite season is autumn, or fall, as we say in North America. I love the colour of the trees – red, gold, orange, yellow, and brown.</p><p><strong>Manuela da Silva from Portugal</strong><br>People think it's always warm and sunny in Portugal, but January and February are often cold, wet, and grey. I don't like winter. I usually meet friends in restaurants and bars and we chat. Sometimes we go to a Brazilian bar. I love Brazilian music. But then suddenly it's summer and at weekends we drive to the beach, sunbathe, and go swimming. I love summer.</p><p><strong>Toshi Suzuki from Japan</strong><br>I work for Pentax cameras, in the export department. I don't have a lot of free time, but I have one special hobby – taking photographs, of course! I like taking photographs of flowers, especially in spring. Sometimes, after work, I relax in a bar near my office with friends. My friend, Shigeru, likes singing pop songs in the bar. This has a special name, 'karaoke'. I don't sing – I'm too shy!</p>",
+    "ja": "<p><strong>カナダのアル・ウィーラー</strong><br>私たちのところは冬が長く寒く、夏は短く暑いです。湖の近くに別荘があるので、夏はよくセーリングをしたり、野球をしたりします。冬はよくアイスホッケーをしたり、スケートをしたりします。私の好きな季節は秋です。北米では「フォール」とも言います。木の葉の赤、金、オレンジ、黄、茶色の色合いが大好きです。</p><p><strong>ポルトガルのマヌエラ・ダ・シルバ</strong><br>ポルトガルはいつも暖かくて晴れていると思われがちですが、1月と2月は大抵寒くて雨が降り、曇っています。冬は好きではありません。よくレストランやバーで友達に会って話します。時々ブラジル風バーに行きます。ブラジルの音楽が大好きです。でも、ある日突然夏が来て、週末には車でビーチに行き、日光浴をし、泳ぎに行きます。夏が大好きです。</p><p><strong>日本の鈴木敏志</strong><br>ペンタックスカメラの輸出部門で働いています。自由な時間はあまりありませんが、特別な趣味が一つあります。もちろん写真を撮ることです！特に春に花の写真を撮るのが好きです。仕事の後、時々オフィス近くのバーで友達とくつろぎます。友達の滋はバーでポップソングを歌うのが好きです。これには「カラオケ」という特別な名前があります。私は歌いません – 恥ずかしすぎるので！</p>",
+    "fr": "<p><strong>Al Wheeler du Canada</strong><br>Nous avons des hivers longs et froids, et des étés courts et chauds. Nous avons une résidence secondaire près d'un lac, donc en été je fais beaucoup de voile et je joue au baseball, mais en hiver je joue souvent au hockey sur glace et je patine. Ma saison préférée est l'automne. J'adore les couleurs des arbres – rouge, or, orange, jaune et brun.</p><p><strong>Manuela da Silva du Portugal</strong><br>Les gens pensent qu'il fait toujours chaud et ensoleillé au Portugal, mais janvier et février sont souvent froids, humides et gris. Je n'aime pas l'hiver. Je rencontre généralement des amis dans des restaurants et des bars et nous bavardons. Parfois, nous allons dans un bar brésilien. J'adore la musique brésilienne. Mais soudain, c'est l'été et le week-end, nous allons à la plage en voiture, nous prenons des bains de soleil et nous nageons. J'adore l'été.</p><p><strong>Toshi Suzuki du Japon</strong><br>Je travaille pour les appareils photo Pentax, au département export. Je n'ai pas beaucoup de temps libre, mais j'ai un hobby spécial – prendre des photos, bien sûr ! J'aime prendre des photos de fleurs, surtout au printemps. Parfois, après le travail, je me détends dans un bar près de mon bureau avec des amis. Mon ami Shigeru aime chanter des chansons pop dans le bar. Cela a un nom spécial, « karaoké ». Je ne chante pas – je suis trop timide !</p>",
+    "ko": "<p><strong>캐나다의 알 휠러</strong><br>우리 지역은 겨울이 길고 추우며, 여름은 짧고 덥습니다. 호수 근처에 별장이 있어서 여름에는 자주 요트를 타고 야구를 합니다. 겨울에는 주로 아이스하키를 하고 스케이트를 탑니다. 제가 가장 좋아하는 계절은 가을입니다. 북미에서는 '폴(fall)'이라고도 부릅니다. 나무들의 빛깔 – 빨강, 금색, 주황, 노랑, 갈색 – 이 정말 좋습니다.</p><p><strong>포르투갈의 마누엘라 다 실바</strong><br>사람들은 포르투갈이 항상 따뜻하고 화창하다고 생각하지만, 1월과 2월은 종종 춥고 비가 오며 흐립니다. 저는 겨울을 좋아하지 않습니다. 주로 레스토랑과 바에서 친구들을 만나 수다를 떱니다. 가끔 브라질 바에 가기도 합니다. 저는 브라질 음악을 사랑합니다. 그런데 어느 순간 갑자기 여름이 오면, 주말에 차를 타고 해변에 가서 일광욕을 하고 수영을 합니다. 저는 여름을 사랑합니다.</p><p><strong>일본의 스즈키 토시</strong><br>저는 펜탁스 카메라 수출 부서에서 일합니다. 자유 시간이 많지는 않지만, 특별한 취미가 하나 있습니다 – 물론 사진 찍기입니다! 특히 봄에 꽃 사진을 찍는 것을 좋아합니다. 때로는 퇴근 후에 회사 근처 바에서 친구들과 쉬기도 합니다. 제 친구 시게루는 바에서 팝송 부르는 것을 좋아합니다. 이것에는 '가라오케'라는 특별한 이름이 붙어 있습니다. 저는 노래하지 않습니다 – 너무 부끄러워서요!</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Bobbi Brown works on weekdays.",
+        "correct": "F",
+        "explanation": "False. The text says she doesn't work on weekdays, she only works at weekends."
+      },
+      {
+        "question": "Bobbi gets up at 6.30 in the morning.",
+        "correct": "F",
+        "explanation": "False. She gets up at 3.00 in the morning. She starts work at 6.30."
+      },
+      {
+        "question": "Bobbi doesn't like cooking.",
+        "correct": "T",
+        "explanation": "True. She says 'I don't like cooking.'"
+      },
+      {
+        "question": "Al Wheeler's favourite season is summer.",
+        "correct": "F",
+        "explanation": "False. His favourite season is autumn (fall)."
+      },
+      {
+        "question": "Toshi Suzuki likes singing pop songs in bars.",
+        "correct": "F",
+        "explanation": "False. His friend Shigeru likes singing. Toshi is too shy to sing."
+      }
+    ],
+    "ja": [
+  {
+    "question": "アル・ウィーラーの好きな季節は夏です。",
+    "correct": "F",
+    "explanation": "間違い。彼の好きな季節は秋（フォール）です。"
+  },
+  {
+    "question": "マヌエラは冬にビーチで日光浴をします。",
+    "correct": "F",
+    "explanation": "間違い。彼女は夏に週末ビーチへ行きます。冬はレストランやバーで過ごします。"
+  },
+  {
+    "question": "鈴木敏志はペンタックスカメラで働いています。",
+    "correct": "T",
+    "explanation": "正しい。彼は輸出部門で働いています。"
+  },
+  {
+    "question": "カナダの冬は長くて寒いです。",
+    "correct": "T",
+    "explanation": "正しい。アル・ウィーラーは「冬が長く寒い」と言っています。"
+  },
+  {
+    "question": "鈴木敏志はカラオケで歌うのが大好きです。",
+    "correct": "F",
+    "explanation": "間違い。歌うのは友達の滋で、鈴木は恥ずかしがって歌いません。"
+  }
+],
+    "fr": [
+  {
+    "question": "Al Wheeler habite au Canada et sa saison préférée est l'été.",
+    "correct": "F",
+    "explanation": "Faux. Sa saison préférée est l'automne."
+  },
+  {
+    "question": "Au Portugal, les mois de janvier et février sont souvent froids et humides.",
+    "correct": "T",
+    "explanation": "Vrai. Manuela dit qu'ils sont souvent froids, humides et gris."
+  },
+  {
+    "question": "Manuela déteste la musique brésilienne.",
+    "correct": "F",
+    "explanation": "Faux. Elle adore la musique brésilienne."
+  },
+  {
+    "question": "Toshi Suzuki travaille dans le département export de Pentax.",
+    "correct": "T",
+    "explanation": "Vrai. Il travaille pour Pentax au département export."
+  },
+  {
+    "question": "Toshi Suzuki chante souvent au karaoké avec son ami Shigeru.",
+    "correct": "F",
+    "explanation": "Faux. C'est Shigeru qui chante. Toshi est trop timide pour chanter."
+  }
+],
+    "ko": [
+  {
+    "question": "알 휠러가 가장 좋아하는 계절은 여름이다.",
+    "correct": "F",
+    "explanation": "거짓. 그가 가장 좋아하는 계절은 가을(폴)입니다."
+  },
+  {
+    "question": "마누엘라는 겨울에 해변에서 일광욕을 한다.",
+    "correct": "F",
+    "explanation": "거짓. 그녀는 여름에 주말마다 해변에 갑니다. 겨울에는 레스토랑이나 바에서 친구를 만납니다."
+  },
+  {
+    "question": "스즈키 토시는 펜탁스 카메라 회사에서 일한다.",
+    "correct": "T",
+    "explanation": "참. 그는 수출 부서에서 일합니다."
+  },
+  {
+    "question": "캐나다의 겨울은 길고 춥다.",
+    "correct": "T",
+    "explanation": "참. 알 휠러는 '겨울이 길고 춥다'고 말합니다."
+  },
+  {
+    "question": "스즈키 토시는 가라오케에서 노래 부르는 것을 좋아한다.",
+    "correct": "F",
+    "explanation": "거짓. 노래를 좋아하는 사람은 그의 친구 시게루이며, 토시는 너무 부끄러워서 노래하지 않습니다."
+  }
+]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "Where do you work?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "I work in...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Where do you work?</b> <b>I work in</b> New York.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Do you like your work?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "Yes, I do. / No, I don't.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Do you like your work?</b> <b>Yes, I do.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "What time do you get up?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "I get up at...",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>What time do you get up?</b> <b>I get up at</b> 7.00.",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "Do you have children?",
+        "color": "#16a085",
+        "bg": "#e8f8f5"
+      },
+      {
+        "type": "chunk",
+        "text": "Yes, I do. / No, I don't.",
+        "color": "#16a085",
+        "bg": "#e8f8f5"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Do you have children?</b> <b>Yes, I do.</b> I have two sons.",
+        "color": "#1abc9c",
+        "bg": "#d1f2eb"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "どこで働いていますか？",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "私は...で働いています。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>どこで働いていますか？</b> <b>私は</b>ニューヨーク<b>で働いています。</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "仕事は好きですか？",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "はい、好きです。／いいえ、好きではありません。",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>仕事は好きですか？</b> <b>はい、好きです。</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "何時に起きますか？",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "私は...時に起きます。",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>何時に起きますか？</b> <b>私は</b>7時<b>に起きます。</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "Où travaillez-vous ?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Je travaille à...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Où travaillez-vous ?</b> <b>Je travaille à</b> New York.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Aimez-vous votre travail ?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "Oui, j'aime. / Non, je n'aime pas.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Aimez-vous votre travail ?</b> <b>Oui, j'aime.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "어디에서 일하시나요?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "저는...에서 일합니다.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>어디에서 일하시나요?</b> <b>저는</b> 뉴욕<b>에서 일합니다.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "당신의 일을 좋아하시나요?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "네, 좋아합니다. / 아니요, 좋아하지 않습니다.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>당신의 일을 좋아하시나요?</b> <b>네, 좋아합니다.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "몇 시에 일어나시나요?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "저는...시에 일어납니다.",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>몇 시에 일어나시나요?</b> <b>저는</b> 7시<b>에 일어납니다.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Present Simple (I/you/we/they) - Positive and Negative</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use the present simple to talk about routines, habits, and facts. For I/you/we/they, the verb does not change. For negatives, use <strong>don't</strong> + verb.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• I/You/We/They work</strong> in New York. (<strong>Positive</strong>)</li><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• I/You/We/They don't work</strong> on Sundays. (<strong>Negative</strong>)</li><li style='margin-bottom:15px;'>Bobbi <strong>lives</strong> in New Jersey. (For he/she/it, add <strong>-s</strong>)</li></ul><h3>2. Questions in Present Simple (I/you/we/they)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>To make a question, use <strong>do</strong> + subject + verb. Answer with <strong>do/don't</strong>.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Where do you work?</strong> I work in New York.</li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Do you like your work?</strong> Yes, I do. / No, I don't.</li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Why don't you relax at weekends?</strong> Because I work.</li></ul><h3>3. Adverbs of frequency (always, usually, often, sometimes, never)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>These words tell us how often something happens. They come before the main verb (but after the verb 'to be').</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• always (100%)</strong> I <strong>always</strong> buy food on Mondays.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• usually (90%)</strong> We <strong>usually</strong> relax in the evenings.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• often (70%)</strong> I <strong>often</strong> cook dinner.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• sometimes (50%)</strong> Sometimes we go out with friends.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• never (0%)</strong> We <strong>never</strong> go out on Friday evenings.</li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "The text explains Bobbi Brown's weekends and weekdays using the present simple tense. <b>Where does Bobbi work? What time does she get up? Does she like cooking? What does she do on Tuesdays and Thursdays?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "present simple, weekend, weekday, routine, get up, work, interview, cook, relax, go out",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "Bobbi works for SKYTV in New York City. She gets up at 3.00 in the morning...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "The reading texts describe the favourite seasons of three people from Canada, Portugal, and Japan. <b>What is your favourite season? Why? What do you like to do in that season? What do you do in other seasons?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "My favourite season is... because I like to... In that season, I usually... In winter/summer/autumn/spring, I...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "In this unit, you learned to talk about daily routines, leisure activities, and favourite seasons. <b>How do you think daily routines differ between people in different countries? Why might someone's favourite season depend on where they live?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Daily routines might be different because of work culture, climate, or family habits. Someone's favourite season might depend on the weather where they live, the activities available, or personal memories...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

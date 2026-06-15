@@ -1,0 +1,2288 @@
+{
+  "title": {
+    "en": "PHONE",
+    "ja": "電話",
+    "fr": "TÉLÉPHONE",
+    "ko": "전화"
+  },
+  "topic": {
+    "en": "Communication, emergency services, customer service, technology impact",
+    "ja": "コミュニケーション、緊急サービス、カスタマーサービス、テクノロジーの影響",
+    "fr": "Communication, services d'urgence, service client, impact de la technologie",
+    "ko": "의사소통, 긴급 서비스, 고객 서비스, 기술의 영향"
+  },
+  "core_title": {
+    "en": "Communication, Services, and Critical Moments",
+    "ja": "コミュニケーション、サービス、そして危機的な瞬間",
+    "fr": "Communication, Services et Moments Critiques",
+    "ko": "의사소통, 서비스, 그리고 위기의 순간들"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>In our modern world, we are more connected than ever. Whether it is a quick mobile phone call to a friend or an <strong><span class='vocab-link' id='text-urgent' onclick='speakAndScroll(\"urgent\", \"vocab-urgent\")'>urgent</span></strong> 999 emergency dial, communication is the thread that holds our society together. However, this ease of connection comes with its own set of challenges. Sometimes, the lines of communication get crossed, leading to <strong><span class='vocab-link' id='text-frustration' onclick='speakAndScroll(\"frustration\", \"vocab-frustration\")'>frustration</span></strong>, while at other times, a single message or photo can <strong><span class='vocab-link' id='text-literally' onclick='speakAndScroll(\"literally\", \"vocab-literally\")'>literally</span></strong> save a life.</p><p>In northern England, the police face a growing crisis. Every day, they have to answer three hundred 999 calls, but <b>still</b>, a third of them are found to be <b>totally unnecessary</b>. People have called the emergency line for <strong><span class='vocab-link' id='text-trivial' onclick='speakAndScroll(\"trivial\", \"vocab-trivial\")'>trivial</span></strong> reasons, such as complaining about a broken TV. To combat <strong><span class='vocab-link' id='text-improper' onclick='speakAndScroll(\"improper\", \"vocab-improper\")'>improper</span></strong> calls, the police have <b>already</b> introduced £80 fines and are distributing <strong><span class='vocab-link' id='text-leaflets' onclick='speakAndScroll(\"leaflets\", \"vocab-leaflets\")'>leaflets</span></strong> to educate the public. Although they have started this campaign, many people haven't changed their habits <b>yet</b>.</p><p>While some use phones for minor issues, others have used them to perform miracles. In a remote town in Australia, a young boy suffered a serious head injury. His mother noticed a <strong><span class='vocab-link' id='text-swelling' onclick='speakAndScroll(\"swelling\", \"vocab-swelling\")'>swelling</span></strong> on his head and rushed him to the hospital. The doctor, despite having never performed such an operation, had the <strong><span class='vocab-link' id='text-presence' onclick='speakAndScroll(\"presence\", \"vocab-presence\")'>presence</span></strong> of mind to call a colleague for help. He used a household drill to save the boy's life.</p><p>Similarly, a man bitten by a poisonous spider used his mobile phone to take a picture. This photo was sent to <strong><span class='vocab-link' id='text-experts' onclick='speakAndScroll(\"experts\", \"vocab-experts\")'>experts</span></strong> at a university, who <strong><span class='vocab-link' id='text-identified' onclick='speakAndScroll(\"identified\", \"vocab-identified\")'>identified</span></strong> the <strong><span class='vocab-link' id='text-species' onclick='speakAndScroll(\"species\", \"vocab-species\")'>species</span></strong> and found a cure. Without that digital image, the doctor might not have known how to treat the poison in time.</p><p>However, technology and services are not always reliable. Take the case of Jaslyn, who tried to track two packages from Singapore. She was told they were being held due to <strong><span class='vocab-link' id='text-insufficient' onclick='speakAndScroll(\"insufficient\", \"vocab-insufficient\")'>insufficient</span></strong> <strong><span class='vocab-link' id='text-postage' onclick='speakAndScroll(\"postage\", \"vocab-postage\")'>postage</span></strong>. Despite being promised that they would arrive, she later discovered that one had <b>already</b> been returned. Similarly, many customers face <b>awful</b> service with their internet connections, where automated systems often <b>drive them mad</b>.</p><p>Whether we are dealing with a life-threatening situation or an annoying bill, how we communicate <strong><span class='vocab-link' id='text-defines' onclick='speakAndScroll(\"defines\", \"vocab-defines\")'>defines</span></strong> our daily experience. We have <b>already</b> seen how technology can save us, but we <b>still</b> have a long way to go in making sure our service systems function as they should.</p>",
+    "ja": "<p style='margin-top:0;'>現代社会では、これまで以上に人と人がつながっています。友人への短い携帯電話であれ、<strong><span class='vocab-link' id='text-urgent' onclick='speakAndScroll(\"urgent\", \"vocab-urgent\")'>緊急</span></strong>の999番通報であれ、コミュニケーションは私たちの社会をつなぐ糸です。しかし、このつながりの容易さには、それ自身の問題もあります。時にはコミュニケーションの行き違いが<strong><span class='vocab-link' id='text-frustration' onclick='speakAndScroll(\"frustration\", \"vocab-frustration\")'>欲求不満</span></strong>を引き起こす一方で、他の時にはたった一通のメッセージや写真が<strong><span class='vocab-link' id='text-literally' onclick='speakAndScroll(\"literally\", \"vocab-literally\")'>文字通り</span></strong>命を救うこともあります。</p><p>イングランド北部では、警察が深刻な危機に直面しています。毎日300件の999番通報に対応しなければなりませんが、<b>それでも</b>その3分の1は<b>まったく不必要な</b>ものだと判明しています。人々は、壊れたテレビについての苦情など、<strong><span class='vocab-link' id='text-trivial' onclick='speakAndScroll(\"trivial\", \"vocab-trivial\")'>些細な</span></strong>理由で緊急電話番号に電話してきました。<strong><span class='vocab-link' id='text-improper' onclick='speakAndScroll(\"improper\", \"vocab-improper\")'>不適切な</span></strong>電話に対処するため、警察は<b>すでに</b>80ポンドの罰金を導入し、一般市民を教育するための<strong><span class='vocab-link' id='text-leaflets' onclick='speakAndScroll(\"leaflets\", \"vocab-leaflets\")'>リーフレット</span></strong>を配布しています。このキャンペーンを開始したものの、多くの人々は<b>まだ</b>習慣を変えていません。</p><p>一部の人々が電話を些細な問題に使用する一方で、他の人々は奇跡を起こすために電話を使用してきました。オーストラリアの辺鄙な町で、少年が頭に重傷を負いました。母親は少年の頭に<strong><span class='vocab-link' id='text-swelling' onclick='speakAndScroll(\"swelling\", \"vocab-swelling\")'>腫れ</span></strong>を発見し、急いで病院に連れて行きました。医師はそのような手術を一度も行ったことがありませんでしたが、同僚に助けを求める<strong><span class='vocab-link' id='text-presence' onclick='speakAndScroll(\"presence\", \"vocab-presence\")'>冷静さ</span></strong>を持っていました。彼は家庭用のドリルを使って少年の命を救いました。</p><p>同様に、毒グモに噛まれた男性は、携帯電話で写真を撮りました。この写真は大学の<strong><span class='vocab-link' id='text-experts' onclick='speakAndScroll(\"experts\", \"vocab-experts\")'>専門家</span></strong>に送られ、彼らは<strong><span class='vocab-link' id='text-identified' onclick='speakAndScroll(\"identified\", \"vocab-identified\")'>特定した</span>その<span class='vocab-link' id='text-species' onclick='speakAndScroll(\"species\", \"vocab-species\")'>種</span>を…し、治療法を見つけました。そのデジタル画像がなければ、医師は時間内に毒を治療する方法を知らなかったかもしれません。</p><p>しかし、テクノロジーとサービスは常に信頼できるとは限りません。シンガポールからの2つの小包を追跡しようとしたジャスリンのケースを考えてみましょう。彼女は<strong><span class='vocab-link' id='text-insufficient' onclick='speakAndScroll(\"insufficient\", \"vocab-insufficient\")'>不十分な</span></strong><strong><span class='vocab-link' id='text-postage' onclick='speakAndScroll(\"postage\", \"vocab-postage\")'>郵便料金</span></strong>のために小包が保留されていると言われました。届くと約束されたにもかかわらず、後にそのうちの1つは<b>すでに</b>返送されていたことを知りました。同様に、多くの顧客はインターネット接続でひどいサービスに直面しており、自動化システムがしばしば彼らを<b>狂わせます</b>。</p><p>生命を脅かす状況に対処しているのか、それとも迷惑な請求書に対処しているのかにかかわらず、私たちのコミュニケーションの仕方が私たちの日常の経験を<strong><span class='vocab-link' id='text-defines' onclick='speakAndScroll(\"defines\", \"vocab-defines\")'>定義</span></strong>します。テクノロジーが私たちを救うことができることは<b>すでに</b>目の当たりにしていますが、私たちのサービスシステムが本来あるべきように機能することを確認するには、<b>まだ</b>長い道のりがあります。</p>",
+    "fr": "<p style='margin-top:0;'>Dans notre monde moderne, nous sommes plus connectés que jamais. Qu'il s'agisse d'un appel rapide sur un téléphone portable à un ami ou d'un <strong><span class='vocab-link' id='text-urgent' onclick='speakAndScroll(\"urgent\", \"vocab-urgent\")'>appel d'urgence</span></strong> au 999, la communication est le fil qui maintient notre société ensemble. Cependant, cette facilité de connexion comporte son propre lot de défis. Parfois, les lignes de communication se croisent, entraînant <strong><span class='vocab-link' id='text-frustration' onclick='speakAndScroll(\"frustration\", \"vocab-frustration\")'>frustration</span></strong>, tandis qu'à d'autres moments, un simple message ou une photo peut <strong><span class='vocab-link' id='text-literally' onclick='speakAndScroll(\"literally\", \"vocab-literally\")'>littéralement</span></strong> sauver une vie.</p><p>Dans le nord de l'Angleterre, la police est confrontée à une crise croissante. Chaque jour, elle doit répondre à trois cents appels au 999, mais <b>encore</b>, un tiers d'entre eux s'avèrent <b>totalement inutiles</b>. Les gens ont appelé la ligne d'urgence pour des raisons <strong><span class='vocab-link' id='text-trivial' onclick='speakAndScroll(\"trivial\", \"vocab-trivial\")'>triviales</span></strong>, comme se plaindre d'une télévision cassée. Pour lutter contre les appels <strong><span class='vocab-link' id='text-improper' onclick='speakAndScroll(\"improper\", \"vocab-improper\")'>inappropriés</span></strong>, la police a <b>déjà</b> introduit des amendes de 80 £ et distribue des <strong><span class='vocab-link' id='text-leaflets' onclick='speakAndScroll(\"leaflets\", \"vocab-leaflets\")'>dépliants</span></strong> pour éduquer le public. Bien qu'elle ait lancé cette campagne, beaucoup de gens n'ont <b>pas encore</b> changé leurs habitudes.</p><p>Alors que certains utilisent le téléphone pour des problèmes mineurs, d'autres l'ont utilisé pour accomplir des miracles. Dans une ville isolée d'Australie, un jeune garçon a subi une grave blessure à la tête. Sa mère a remarqué un <strong><span class='vocab-link' id='text-swelling' onclick='speakAndScroll(\"swelling\", \"vocab-swelling\")'>gonflement</span></strong> sur sa tête et l'a emmené d'urgence à l'hôpital. Le médecin, bien qu'il n'ait jamais pratiqué une telle opération, a eu la <strong><span class='vocab-link' id='text-presence' onclick='speakAndScroll(\"presence\", \"vocab-presence\")'>présence</span></strong> d'esprit d'appeler un collègue à l'aide. Il a utilisé une perceuse domestique pour sauver la vie du garçon.</p><p>De même, un homme mordu par une araignée venimeuse a utilisé son téléphone portable pour prendre une photo. Cette photo a été envoyée à des <strong><span class='vocab-link' id='text-experts' onclick='speakAndScroll(\"experts\", \"vocab-experts\")'>experts</span></strong> d'une université, qui ont <strong><span class='vocab-link' id='text-identified' onclick='speakAndScroll(\"identified\", \"vocab-identified\")'>identifié</span></strong> l'<strong><span class='vocab-link' id='text-species' onclick='speakAndScroll(\"species\", \"vocab-species\")'>espèce</span></strong> et trouvé un remède. Sans cette image numérique, le médecin n'aurait peut-être pas su comment traiter le poison à temps.</p><p>Cependant, la technologie et les services ne sont pas toujours fiables. Prenons le cas de Jaslyn, qui a essayé de suivre deux colis de Singapour. On lui a dit qu'ils étaient retenus en raison d'un <strong><span class='vocab-link' id='text-insufficient' onclick='speakAndScroll(\"insufficient\", \"vocab-insufficient\")'>affranchissement</span></strong> <strong><span class='vocab-link' id='text-postage' onclick='speakAndScroll(\"postage\", \"vocab-postage\")'>insuffisant</span></strong>. Bien qu'on lui ait promis qu'ils arriveraient, elle a découvert plus tard que l'un d'eux avait <b>déjà</b> été retourné. De même, de nombreux clients sont confrontés à un service <b>exécrable</b> avec leurs connexions Internet, où les systèmes automatisés les rendent souvent <b>fous</b>.</p><p>Que nous ayons affaire à une situation potentiellement mortelle ou à une facture agaçante, notre façon de communiquer <strong><span class='vocab-link' id='text-defines' onclick='speakAndScroll(\"defines\", \"vocab-defines\")'>définit</span></strong> notre expérience quotidienne. Nous avons <b>déjà</b> vu comment la technologie peut nous sauver, mais nous avons <b>encore</b> un long chemin à parcourir pour nous assurer que nos systèmes de service fonctionnent comme ils le devraient.</p>",
+    "ko": "<p style='margin-top:0;'>현대 사회에서 우리는 그 어느 때보다 더 연결되어 있습니다. 친구에게 거는 빠른 휴대폰 전화이든 <strong><span class='vocab-link' id='text-urgent' onclick='speakAndScroll(\"urgent\", \"vocab-urgent\")'>긴급</span></strong> 999 신고이든, 의사소통은 우리 사회를 하나로 묶는 실입니다. 그러나 이러한 연결의 용이성에는 그 자체의 문제점도 따릅니다. 때로는 의사소통의 회선이 교차되어 <strong><span class='vocab-link' id='text-frustration' onclick='speakAndScroll(\"frustration\", \"vocab-frustration\")'>좌절감</span></strong>을 초래하는 반면, 다른 때에는 단 하나의 메시지나 사진이 <strong><span class='vocab-link' id='text-literally' onclick='speakAndScroll(\"literally\", \"vocab-literally\")'>말 그대로</span></strong> 생명을 구할 수 있습니다.</p><p>잉글랜드 북부에서 경찰은 증가하는 위기에 직면해 있습니다. 매일 300건의 999 신고에 응답해야 하지만, <b>여전히</b> 그중 3분의 1은 <b>완전히 불필요한</b> 것으로 밝혀졌습니다. 사람들은 고장난 TV에 대한 불평과 같은 <strong><span class='vocab-link' id='text-trivial' onclick='speakAndScroll(\"trivial\", \"vocab-trivial\")'>사소한</span></strong> 이유로 긴급 전화번호에 전화를 걸었습니다. <strong><span class='vocab-link' id='text-improper' onclick='speakAndScroll(\"improper\", \"vocab-improper\")'>부적절한</span></strong> 전화에 대처하기 위해 경찰은 <b>이미</b> 80파운드의 벌금을 도입하고 대중을 교육하기 위한 <strong><span class='vocab-link' id='text-leaflets' onclick='speakAndScroll(\"leaflets\", \"vocab-leaflets\")'>전단지</span></strong>를 배포하고 있습니다. 이 캠페인을 시작했지만, 많은 사람들은 <b>아직</b> 습관을 바꾸지 않았습니다.</p><p>어떤 사람들은 사소한 문제에 전화를 사용하는 반면, 다른 사람들은 기적을 수행하기 위해 전화를 사용했습니다. 호주의 외딴 마을에서 한 소년이 머리에 심각한 부상을 입었습니다. 그의 어머니는 소년의 머리에 <strong><span class='vocab-link' id='text-swelling' onclick='speakAndScroll(\"swelling\", \"vocab-swelling\")'>부기</span></strong>가 생긴 것을 발견하고 급히 병원으로 데려갔습니다. 의사는 그러한 수술을 한 번도 해본 적이 없었지만, 동료에게 도움을 요청하는 <strong><span class='vocab-link' id='text-presence' onclick='speakAndScroll(\"presence\", \"vocab-presence\")'>침착함</span></strong>을 유지했습니다. 그는 가정용 드릴을 사용하여 소년의 생명을 구했습니다.</p><p>마찬가지로, 독거미에 물린 한 남성은 휴대폰으로 사진을 찍었습니다. 이 사진은 대학의 <strong><span class='vocab-link' id='text-experts' onclick='speakAndScroll(\"experts\", \"vocab-experts\")'>전문가</span></strong>들에게 보내졌고, 그들은 <strong><span class='vocab-link' id='text-identified' onclick='speakAndScroll(\"identified\", \"vocab-identified\")'>종을 식별</span></strong>하고 치료법을 찾았습니다. 그 디지털 이미지가 없었다면, 의사는 제때 독을 치료하는 방법을 알지 못했을 것입니다.</p><p>그러나 기술과 서비스가 항상 신뢰할 수 있는 것은 아닙니다. 싱가포르에서 보낸 두 개의 소포를 추적하려 했던 재슬린의 사례를 생각해 보십시오. 그녀는 <strong><span class='vocab-link' id='text-insufficient' onclick='speakAndScroll(\"insufficient\", \"vocab-insufficient\")'>불충분한</span></strong> <strong><span class='vocab-link' id='text-postage' onclick='speakAndScroll(\"postage\", \"vocab-postage\")'>우편 요금</span></strong>으로 인해 소포가 보류되고 있다는 말을 들었습니다. 도착할 것이라는 약속을 받았음에도 불구하고, 그녀는 나중에 그중 하나가 <b>이미</b> 반환되었다는 사실을 알게 되었습니다. 마찬가지로, 많은 고객들이 인터넷 연결에서 끔찍한 서비스에 직면하고 있으며, 자동화 시스템은 종종 그들을 <b>미치게 만듭니다</b>.</p><p>생명을 위협하는 상황을 처리하고 있든, 짜증나는 청구서를 처리하고 있든, 우리가 의사소통하는 방식이 우리의 일상 경험을 <strong><span class='vocab-link' id='text-defines' onclick='speakAndScroll(\"defines\", \"vocab-defines\")'>정의</span></strong>합니다. 기술이 우리를 구할 수 있다는 것은 <b>이미</b> 목격했지만, 우리의 서비스 시스템이 제대로 기능하도록 하는 데는 <b>여전히</b> 갈 길이 멉니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "urgent",
+        "word": "Urgent",
+        "definition": "Very important and needing to be dealt with immediately."
+      },
+      {
+        "id": "frustration",
+        "word": "Frustration",
+        "definition": "The feeling of being annoyed or impatient because you cannot do what you want."
+      },
+      {
+        "id": "literally",
+        "word": "Literally",
+        "definition": "Used to emphasize that something is actually true, even if it sounds surprising."
+      },
+      {
+        "id": "trivial",
+        "word": "Trivial",
+        "definition": "Not important or serious; having very little value."
+      },
+      {
+        "id": "improper",
+        "word": "Improper",
+        "definition": "Not right or not suitable for a particular situation; dishonest."
+      },
+      {
+        "id": "leaflets",
+        "word": "Leaflets",
+        "definition": "Small pieces of printed paper that give information or advertise something."
+      },
+      {
+        "id": "swelling",
+        "word": "Swelling",
+        "definition": "A place on your body that has become larger than normal because of an injury or illness."
+      },
+      {
+        "id": "presence",
+        "word": "Presence (of mind)",
+        "definition": "The ability to stay calm and make good decisions in a difficult or surprising situation."
+      },
+      {
+        "id": "experts",
+        "word": "Experts",
+        "definition": "People who have a lot of knowledge or skill in a particular subject."
+      },
+      {
+        "id": "identified",
+        "word": "Identified",
+        "definition": "Recognized or named someone or something correctly."
+      },
+      {
+        "id": "species",
+        "word": "Species",
+        "definition": "A group of animals or plants that are very similar to each other."
+      },
+      {
+        "id": "insufficient",
+        "word": "Insufficient",
+        "definition": "Not enough for a particular purpose."
+      },
+      {
+        "id": "postage",
+        "word": "Postage",
+        "definition": "The amount of money you pay to send a letter or a package by mail."
+      },
+      {
+        "id": "defines",
+        "word": "Defines",
+        "definition": "Describes or explains the quality or nature of something."
+      }
+    ],
+    "ja": [
+      {
+        "id": "urgent",
+        "word": "緊急",
+        "definition": "非常に重要で、すぐに対処する必要がある。"
+      },
+      {
+        "id": "frustration",
+        "word": "欲求不満",
+        "definition": "やりたいことができないためにイライラしたり焦ったりする感情。"
+      },
+      {
+        "id": "literally",
+        "word": "文字通り",
+        "definition": "驚くべきことに思えても、実際に真実であることを強調するために使用される。"
+      },
+      {
+        "id": "trivial",
+        "word": "些細な",
+        "definition": "重要でも深刻でもない、ほとんど価値がない。"
+      },
+      {
+        "id": "improper",
+        "word": "不適切な",
+        "definition": "特定の状況に対して正しくない、または適していない、不正直な。"
+      },
+      {
+        "id": "leaflets",
+        "word": "リーフレット",
+        "definition": "情報を提供したり、何かを宣伝したりする小さな印刷物。"
+      },
+      {
+        "id": "swelling",
+        "word": "腫れ",
+        "definition": "怪我や病気のために通常より大きくなった体の部分。"
+      },
+      {
+        "id": "presence",
+        "word": "冷静さ",
+        "definition": "困難な状況や驚くべき状況でも冷静さを保ち、良い決断を下す能力。"
+      },
+      {
+        "id": "experts",
+        "word": "専門家",
+        "definition": "特定の分野で多くの知識や技能を持っている人々。"
+      },
+      {
+        "id": "identified",
+        "word": "特定した",
+        "definition": "誰かや何かを正しく認識したり名前を付けたりした。"
+      },
+      {
+        "id": "species",
+        "word": "種",
+        "definition": "互いに非常に類似した動物や植物のグループ。"
+      },
+      {
+        "id": "insufficient",
+        "word": "不十分な",
+        "definition": "特定の目的のために十分でない。"
+      },
+      {
+        "id": "postage",
+        "word": "郵便料金",
+        "definition": "手紙や小包を郵便で送るために支払う金額。"
+      },
+      {
+        "id": "defines",
+        "word": "定義する",
+        "definition": "何かの性質や本質を説明する。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "urgent",
+        "word": "Urgent",
+        "definition": "Très important et nécessitant un traitement immédiat."
+      },
+      {
+        "id": "frustration",
+        "word": "Frustration",
+        "definition": "Sentiment d'être agacé ou impatient parce qu'on ne peut pas faire ce que l'on veut."
+      },
+      {
+        "id": "literally",
+        "word": "Littéralement",
+        "definition": "Utilisé pour souligner que quelque chose est réellement vrai, même si cela semble surprenant."
+      },
+      {
+        "id": "trivial",
+        "word": "Trivial",
+        "definition": "Pas important ou sérieux ; ayant très peu de valeur."
+      },
+      {
+        "id": "improper",
+        "word": "Inapproprié",
+        "definition": "Pas juste ou pas adapté à une situation particulière ; malhonnête."
+      },
+      {
+        "id": "leaflets",
+        "word": "Dépliants",
+        "definition": "Petits morceaux de papier imprimé qui donnent des informations ou font la publicité de quelque chose."
+      },
+      {
+        "id": "swelling",
+        "word": "Gonflement",
+        "definition": "Un endroit sur votre corps qui est devenu plus grand que la normale à cause d'une blessure ou d'une maladie."
+      },
+      {
+        "id": "presence",
+        "word": "Présence d'esprit",
+        "definition": "Capacité à rester calme et à prendre de bonnes décisions dans une situation difficile ou surprenante."
+      },
+      {
+        "id": "experts",
+        "word": "Experts",
+        "definition": "Personnes qui ont beaucoup de connaissances ou de compétences dans un domaine particulier."
+      },
+      {
+        "id": "identified",
+        "word": "Identifié",
+        "definition": "Reconnu ou nommé correctement quelqu'un ou quelque chose."
+      },
+      {
+        "id": "species",
+        "word": "Espèce",
+        "definition": "Groupe d'animaux ou de plantes qui se ressemblent beaucoup."
+      },
+      {
+        "id": "insufficient",
+        "word": "Insuffisant",
+        "definition": "Pas assez pour un usage particulier."
+      },
+      {
+        "id": "postage",
+        "word": "Affranchissement",
+        "definition": "Montant d'argent que vous payez pour envoyer une lettre ou un colis par la poste."
+      },
+      {
+        "id": "defines",
+        "word": "Définit",
+        "definition": "Décrit ou explique la qualité ou la nature de quelque chose."
+      }
+    ],
+    "ko": [
+      {
+        "id": "urgent",
+        "word": "긴급한",
+        "definition": "매우 중요하고 즉시 처리해야 하는."
+      },
+      {
+        "id": "frustration",
+        "word": "좌절감",
+        "definition": "원하는 것을 할 수 없어서 짜증나거나 초조해지는 감정."
+      },
+      {
+        "id": "literally",
+        "word": "말 그대로",
+        "definition": "놀랍게 들릴지라도 실제로 사실임을 강조하는 데 사용되는."
+      },
+      {
+        "id": "trivial",
+        "word": "사소한",
+        "definition": "중요하거나 심각하지 않은, 가치가 거의 없는."
+      },
+      {
+        "id": "improper",
+        "word": "부적절한",
+        "definition": "특정 상황에 맞지 않거나 적합하지 않은, 부정직한."
+      },
+      {
+        "id": "leaflets",
+        "word": "전단지",
+        "definition": "정보를 제공하거나 무언가를 광고하는 작은 인쇄물."
+      },
+      {
+        "id": "swelling",
+        "word": "부기",
+        "definition": "부상이나 질병으로 인해 평소보다 커진 신체 부위."
+      },
+      {
+        "id": "presence",
+        "word": "침착함",
+        "definition": "어렵거나 놀라운 상황에서도 침착함을 유지하고 좋은 결정을 내리는 능력."
+      },
+      {
+        "id": "experts",
+        "word": "전문가",
+        "definition": "특정 분야에 대한 많은 지식이나 기술을 가진 사람들."
+      },
+      {
+        "id": "identified",
+        "word": "식별한",
+        "definition": "누군가 또는 무언가를 올바르게 인식하거나 이름을 붙인."
+      },
+      {
+        "id": "species",
+        "word": "종",
+        "definition": "서로 매우 유사한 동물이나 식물의 그룹."
+      },
+      {
+        "id": "insufficient",
+        "word": "불충분한",
+        "definition": "특정 목적에 충분하지 않은."
+      },
+      {
+        "id": "postage",
+        "word": "우편 요금",
+        "definition": "편지나 소포를 우편으로 보내기 위해 지불하는 금액."
+      },
+      {
+        "id": "defines",
+        "word": "정의하다",
+        "definition": "무엇의 질이나 본질을 설명하거나 나타내다."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Appointment Change",
+        "label": "Conversation 1: Meeting Earlier",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Hello."
+          },
+          {
+            "speaker": "Brendan",
+            "text": "Hi, it's Brendan. Is Neil there?"
+          },
+          {
+            "speaker": "A",
+            "text": "No, he's not up yet. Is it urgent?"
+          },
+          {
+            "speaker": "Brendan",
+            "text": "No, it's OK. Just tell him we're meeting earlier - at seven, not eight."
+          },
+          {
+            "speaker": "Brendan",
+            "text": "And tell him he's very lazy! 12 o'clock and still in bed!"
+          },
+          {
+            "speaker": "A",
+            "text": "Well, he was out late last night. Has he got your number, Brendan?"
+          },
+          {
+            "speaker": "Brendan",
+            "text": "Yeah, he has. So what time will he be up?"
+          },
+          {
+            "speaker": "A",
+            "text": "I imagine in about an hour. He didn't get back home till four."
+          },
+          {
+            "speaker": "Brendan",
+            "text": "Oh right. Well, I'll see him later. Thanks."
+          },
+          {
+            "speaker": "A",
+            "text": "That's OK. I'll give him your message. Meet at seven, not eight."
+          },
+          {
+            "speaker": "Brendan",
+            "text": "Yeah."
+          },
+          {
+            "speaker": "A",
+            "text": "Bye now."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Business Inquiry",
+        "label": "Conversation 2: Diane's Call",
+        "script": [
+          {
+            "speaker": "Receptionist",
+            "text": "Good morning, DBB. How can I help you?"
+          },
+          {
+            "speaker": "Diane",
+            "text": "Yeah hi. Could I speak to Jane Simpson, please?"
+          },
+          {
+            "speaker": "Receptionist",
+            "text": "Of course. I'll just put you through to her."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Thanks."
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Hello."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Hi, Jane?"
+          },
+          {
+            "speaker": "Poppy",
+            "text": "No, it's actually Poppy. I'm afraid Jane's out visiting a client."
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Would you like to leave a message?"
+          },
+          {
+            "speaker": "Diane",
+            "text": "Yeah, could you tell her Diane called."
+          },
+          {
+            "speaker": "Diane",
+            "text": "I've already spoken to my boss and he's fine with the price."
+          },
+          {
+            "speaker": "Diane",
+            "text": "So we can go ahead with the work."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Can you ask her to phone me when she gets back so we can sort out the details?"
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Of course. Has she got your number?"
+          },
+          {
+            "speaker": "Diane",
+            "text": "I don't think she has my mobile. It's 07729-651-118."
+          },
+          {
+            "speaker": "Poppy",
+            "text": "OK. 07729-651-118. And what was your name again? Sorry."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Diane Lincoln. L-I-N-C-O-L-N."
+          },
+          {
+            "speaker": "Diane",
+            "text": "So when will she be back?"
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Probably later this afternoon. I think she's going for lunch."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Oh right. Well, hopefully I can speak to her today."
+          },
+          {
+            "speaker": "Diane",
+            "text": "I'm actually away on holiday from tomorrow."
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Oh right. Well, I'll let her know anyway."
+          },
+          {
+            "speaker": "Diane",
+            "text": "OK. Thanks. Bye."
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Bye."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Tracking a Package",
+        "label": "Conversation 3: World Mail",
+        "script": [
+          {
+            "speaker": "System",
+            "text": "If you'd like to obtain a postal code, please press one."
+          },
+          {
+            "speaker": "System",
+            "text": "If you'd like to check the status of a recorded or special delivery..."
+          },
+          {
+            "speaker": "H",
+            "text": "Hello. World Mail. How can I help you?"
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "Oh hi. I'm trying to find out what's happened to two packages."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "that my parents sent them from Singapore."
+          },
+          {
+            "speaker": "H",
+            "text": "OK. How long ago were they sent because obviously international mail can take a lot longer sometimes?"
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "It's nearly two months now."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "and they were sent by registered airmail post."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "So they should be here by now, really."
+          },
+          {
+            "speaker": "H",
+            "text": "Hmm. Yes, that does sound strange. Can I take your address, please?"
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "Sure. It's Jaslyn - that's J-A-S-L-Y-N - Wang."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "and my address is Flat 13, 30 Bedford Way, Walford - "
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "that's W-A-L-F-O-R-D, London E25 4QW."
+          },
+          {
+            "speaker": "H",
+            "text": "Right. Let me just check that on my computer."
+          },
+          {
+            "speaker": "H",
+            "text": "Yes. OK. I've got them."
+          },
+          {
+            "speaker": "H",
+            "text": "It seems they entered England on June the 16th, which is five weeks ago now and "
+          },
+          {
+            "speaker": "H",
+            "text": "they're now being held in our main sorting office in Manchester."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "OK. Do you know why?"
+          },
+          {
+            "speaker": "H",
+            "text": "I have no information on that, I'm afraid."
+          },
+          {
+            "speaker": "H",
+            "text": "But they're going out this week."
+          },
+          {
+            "speaker": "H",
+            "text": "They'll be with you by the end of the week, the 25th."
+          },
+          {
+            "speaker": "H",
+            "text": "Oh, and you'll have to pay £8.70 for one of them as well,"
+          },
+          {
+            "speaker": "H",
+            "text": "because of insufficient postage."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "Oh, OK. That's strange. Thanks anyway, though."
+          }
+        ]
+      },
+      {
+        "title": "1-4. A Processing Error",
+        "label": "Conversation 4: Returned Package",
+        "script": [
+          {
+            "speaker": "H",
+            "text": "If you can just wait one more minute. I'm just checking everything now."
+          },
+          {
+            "speaker": "H",
+            "text": "The system's a bit slow today, I'm afraid."
+          },
+          {
+            "speaker": "H",
+            "text": "OK. So one of your packages has been returned to Singapore."
+          },
+          {
+            "speaker": "H",
+            "text": "And the other one is in our main sorting office in Manchester..."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "No, that's not possible! Look, the last time I called,"
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "the man I spoke to said my packages had entered England on June the 16th, I think, and were being held in Manchester.."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "He said they were going out that week and promised me,"
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "promised me that they'd be with me by the end of that week."
+          },
+          {
+            "speaker": "H",
+            "text": "Ah, well... I don't know what's happened, but obviously something has gone wrong."
+          },
+          {
+            "speaker": "H",
+            "text": "What I can do is I can..."
+          }
+        ]
+      },
+      {
+        "title": "1-5. Internet Problems",
+        "label": "Conversation 5: Jim's Voicemail",
+        "script": [
+          {
+            "speaker": "Trish",
+            "text": "Hi there. Sorry I can't get to the phone at the moment,"
+          },
+          {
+            "speaker": "Trish",
+            "text": "but if you'd like to leave a message, please do so after the tone."
+          },
+          {
+            "speaker": "Jim",
+            "text": "Hi Tricia. It's me, Jim. Sorry I haven't been in touch."
+          },
+          {
+            "speaker": "Jim",
+            "text": "I wanted to email you, but I'm having all kinds of problems with my Internet connection."
+          },
+          {
+            "speaker": "Jim",
+            "text": "I signed a contract with World Mail the other week, but they've been awful."
+          },
+          {
+            "speaker": "Jim",
+            "text": "They took about three weeks to deliver everything,"
+          },
+          {
+            "speaker": "Jim",
+            "text": "and then the wireless box didn't work properly."
+          },
+          {
+            "speaker": "Jim",
+            "text": "I've tried calling them, but I always just get this automated system, which drives me mad!"
+          },
+          {
+            "speaker": "Jim",
+            "text": "Then this morning I got a bill for £80."
+          },
+          {
+            "speaker": "Jim",
+            "text": "Thirty for installation and fifty for the first month! I couldn't believe it!"
+          },
+          {
+            "speaker": "Jim",
+            "text": "It's so annoying. Anyway, sorry. I didn't mean to complain."
+          },
+          {
+            "speaker": "Jim",
+            "text": "Listen, I'll ... Oh. Um."
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. 予定の変更",
+        "label": "会話 1: 早める待ち合わせ",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "もしもし。"
+          },
+          {
+            "speaker": "ブレンダン",
+            "text": "やあ、ブレンダンだけど。ニールいる？"
+          },
+          {
+            "speaker": "A",
+            "text": "ううん、まだ起きてないよ。緊急？"
+          },
+          {
+            "speaker": "ブレンダン",
+            "text": "いや、大丈夫。待ち合わせが早まったって伝えてくれ - 8時じゃなくて7時に。"
+          },
+          {
+            "speaker": "ブレンダン",
+            "text": "それと、すごく怠け者だって伝えてくれ！12時なのにまだベッドの中だって！"
+          },
+          {
+            "speaker": "A",
+            "text": "えっとね、昨夜遅かったんだよ。ブレンダン、彼は君の番号知ってる？"
+          },
+          {
+            "speaker": "ブレンダン",
+            "text": "うん、知ってるよ。で、何時に起きるの？"
+          },
+          {
+            "speaker": "A",
+            "text": "1時間くらいかな。帰ってきたの4時だったんだ。"
+          },
+          {
+            "speaker": "ブレンダン",
+            "text": "そうか。わかった、じゃあ後で会うよ。ありがとう。"
+          },
+          {
+            "speaker": "A",
+            "text": "いいよ。伝言伝えておくね。7時、8時じゃなくて。"
+          },
+          {
+            "speaker": "ブレンダン",
+            "text": "うん。"
+          },
+          {
+            "speaker": "A",
+            "text": "じゃあね。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. ビジネスの問い合わせ",
+        "label": "会話 2: ダイアンの電話",
+        "script": [
+          {
+            "speaker": "受付",
+            "text": "おはようございます、DBBです。どのようにお手伝いしましょうか？"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "ああ、こんにちは。ジェーン・シンプソンさんをお願いします。"
+          },
+          {
+            "speaker": "受付",
+            "text": "かしこまりました。ただいまおつなぎします。"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "ありがとう。"
+          },
+          {
+            "speaker": "ポピー",
+            "text": "もしもし。"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "もしもし、ジェーンさん？"
+          },
+          {
+            "speaker": "ポピー",
+            "text": "いいえ、ポピーです。申し訳ありませんが、ジェーンは顧客訪問で外出しています。"
+          },
+          {
+            "speaker": "ポピー",
+            "text": "伝言を残されますか？"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "はい、ダイアンから電話があったと伝えてください。"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "上司とはもう話しましたが、価格には問題ないそうです。"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "ですから、作業を進めて大丈夫です。"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "戻ってきたら私に電話するように伝えてもらえますか？詳細を話し合いたいので。"
+          },
+          {
+            "speaker": "ポピー",
+            "text": "もちろんです。彼女はあなたの番号をお持ちですか？"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "携帯番号は持っていないと思います。07729-651-118です。"
+          },
+          {
+            "speaker": "ポピー",
+            "text": "かしこまりました。07729-651-118。もう一度お名前をお聞きしてもよろしいですか？すみません。"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "ダイアン・リンカーンです。L-I-N-C-O-L-N。"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "それで、彼女はいつ戻りますか？"
+          },
+          {
+            "speaker": "ポピー",
+            "text": "おそらく今日の午後遅くに。ランチに行くと思います。"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "そうですか。わかりました。今日中に話せると良いのですが。"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "実は明日から休暇で出かけるんです。"
+          },
+          {
+            "speaker": "ポピー",
+            "text": "そうなんですね。では、彼女に伝えておきます。"
+          },
+          {
+            "speaker": "ダイアン",
+            "text": "はい、ありがとう。さようなら。"
+          },
+          {
+            "speaker": "ポピー",
+            "text": "さようなら。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. 小包の追跡",
+        "label": "会話 3: ワールドメール",
+        "script": [
+          {
+            "speaker": "システム",
+            "text": "郵便番号を取得するには1を押してください。"
+          },
+          {
+            "speaker": "システム",
+            "text": "書留や特別配達のステータスを確認するには..."
+          },
+          {
+            "speaker": "H",
+            "text": "もしもし、ワールドメールです。どのようにお手伝いしましょうか？"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "ああ、こんにちは。2つの小包がどうなったのか知りたいのですが。"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "両親がシンガポールから送ってくれたんです。"
+          },
+          {
+            "speaker": "H",
+            "text": "いつ頃送られましたか？国際郵便は時間がかかることがありますから。"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "もうすぐ2ヶ月になります。"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "書留航空郵便で送られました。"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "ですから、もう届いていてもおかしくないんです。"
+          },
+          {
+            "speaker": "H",
+            "text": "そうですね。それはおかしいですね。住所を伺ってもよろしいですか？"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "はい。ジャスリン - J-A-S-L-Y-N - ワンです。"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "住所はフラット13、30ベッドフォード・ウェイ、ウォルフォード、"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "W-A-L-F-O-R-D、ロンドン E25 4QWです。"
+          },
+          {
+            "speaker": "H",
+            "text": "かしこまりました。コンピューターで確認しますね。"
+          },
+          {
+            "speaker": "H",
+            "text": "はい、見つかりました。"
+          },
+          {
+            "speaker": "H",
+            "text": "6月16日にイングランドに到着しているようです。それは5週間前ですね。"
+          },
+          {
+            "speaker": "H",
+            "text": "現在、マンチェスターの中央仕分け事務所で保留されています。"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "そうですか。理由はわかりますか？"
+          },
+          {
+            "speaker": "H",
+            "text": "申し訳ありませんが、その情報はありません。"
+          },
+          {
+            "speaker": "H",
+            "text": "しかし、今週中に出荷されます。"
+          },
+          {
+            "speaker": "H",
+            "text": "今週末、25日までにはお手元に届くはずです。"
+          },
+          {
+            "speaker": "H",
+            "text": "ああ、それと、1つにつき8.70ポンドをお支払いいただく必要があります。"
+          },
+          {
+            "speaker": "H",
+            "text": "郵便料金不足のためです。"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "ああ、そうですか。それは変ですね。でも、どうもありがとう。"
+          }
+        ]
+      },
+      {
+        "title": "1-4. 処理エラー",
+        "label": "会話 4: 返送された小包",
+        "script": [
+          {
+            "speaker": "H",
+            "text": "あと1分だけお待ちいただけますか。今すべてを確認しているところです。"
+          },
+          {
+            "speaker": "H",
+            "text": "今日はシステムが少し遅いんです。"
+          },
+          {
+            "speaker": "H",
+            "text": "わかりました。お客様の小包の1つはシンガポールに返送されました。"
+          },
+          {
+            "speaker": "H",
+            "text": "もう1つはマンチェスターの中央仕分け事務所にあります..."
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "いや、それはありえません！前回電話したとき、"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "対応した男性は、小包は6月16日にイングランドに到着し、マンチェスターで保留されていると言いました。"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "その週中に出荷されると言って、約束してくれたんです。"
+          },
+          {
+            "speaker": "ジャスリン",
+            "text": "その週の終わりまでには届くと約束してくれたんです！"
+          },
+          {
+            "speaker": "H",
+            "text": "ああ、そうですか...何が起こったのかはわかりませんが、明らかにどこかで間違いが起こりました。"
+          },
+          {
+            "speaker": "H",
+            "text": "私にできることは..."
+          }
+        ]
+      },
+      {
+        "title": "1-5. インターネットの問題",
+        "label": "会話 5: ジムのボイスメール",
+        "script": [
+          {
+            "speaker": "トリッシュ",
+            "text": "こんにちは。ただいま電話に出ることができません。"
+          },
+          {
+            "speaker": "トリッシュ",
+            "text": "伝言を残したい場合は、発信音の後にお願いします。"
+          },
+          {
+            "speaker": "ジム",
+            "text": "やあ、トリシア。ジムだよ。連絡しなくてごめん。"
+          },
+          {
+            "speaker": "ジム",
+            "text": "メールしたかったんだけど、インターネット接続にいろんな問題があってね。"
+          },
+          {
+            "speaker": "ジム",
+            "text": "先週ワールドメールと契約したんだけど、ひどいんだ。"
+          },
+          {
+            "speaker": "ジム",
+            "text": "全部届くのに3週間もかかったし、"
+          },
+          {
+            "speaker": "ジム",
+            "text": "それから無線ボックスがちゃんと動かないんだ。"
+          },
+          {
+            "speaker": "ジム",
+            "text": "電話してみたんだけど、いつも自動応答システムで、それが本当にイライラさせるんだ！"
+          },
+          {
+            "speaker": "ジム",
+            "text": "それで今朝、80ポンドの請求書が届いたんだ。"
+          },
+          {
+            "speaker": "ジム",
+            "text": "設置に30ポンド、最初の月に50ポンド！信じられないよ！"
+          },
+          {
+            "speaker": "ジム",
+            "text": "本当に腹が立つ。とにかく、ごめん。愚痴るつもりじゃなかったんだ。"
+          },
+          {
+            "speaker": "ジム",
+            "text": "じゃあ、また... あっ、えーと。"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Changement de rendez-vous",
+        "label": "Conversation 1: Rendez-vous plus tôt",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Bonjour."
+          },
+          {
+            "speaker": "Brendan",
+            "text": "Salut, c'est Brendan. Neil est là ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Non, il n'est pas encore levé. C'est urgent ?"
+          },
+          {
+            "speaker": "Brendan",
+            "text": "Non, ça va. Dis-lui qu'on se rencontre plus tôt - à sept heures, pas huit."
+          },
+          {
+            "speaker": "Brendan",
+            "text": "Et dis-lui qu'il est très paresseux ! Il est midi et il est encore au lit !"
+          },
+          {
+            "speaker": "A",
+            "text": "Eh bien, il est sorti tard hier soir. Il a ton numéro, Brendan ?"
+          },
+          {
+            "speaker": "Brendan",
+            "text": "Oui, il l'a. À quelle heure va-t-il se lever ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Dans environ une heure, je suppose. Il n'est rentré qu'à quatre heures."
+          },
+          {
+            "speaker": "Brendan",
+            "text": "Ah d'accord. Bon, je le verrai plus tard. Merci."
+          },
+          {
+            "speaker": "A",
+            "text": "Pas de problème. Je lui transmets ton message. Rendez-vous à sept heures, pas huit."
+          },
+          {
+            "speaker": "Brendan",
+            "text": "Oui."
+          },
+          {
+            "speaker": "A",
+            "text": "Au revoir."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Demande professionnelle",
+        "label": "Conversation 2: L'appel de Diane",
+        "script": [
+          {
+            "speaker": "Réceptionniste",
+            "text": "Bonjour, DBB. Comment puis-je vous aider ?"
+          },
+          {
+            "speaker": "Diane",
+            "text": "Bonjour. Puis-je parler à Jane Simpson, s'il vous plaît ?"
+          },
+          {
+            "speaker": "Réceptionniste",
+            "text": "Bien sûr. Je vous la passe."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Merci."
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Bonjour."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Bonjour, Jane ?"
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Non, c'est Poppy. Je suis désolée, Jane est en visite chez un client."
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Souhaitez-vous laisser un message ?"
+          },
+          {
+            "speaker": "Diane",
+            "text": "Oui, pourriez-vous lui dire que Diane a appelé."
+          },
+          {
+            "speaker": "Diane",
+            "text": "J'ai déjà parlé à mon patron et le prix lui convient."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Nous pouvons donc aller de l'avant avec le travail."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Pouvez-vous lui demander de m'appeler quand elle revient pour que nous puissions régler les détails ?"
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Bien sûr. A-t-elle votre numéro ?"
+          },
+          {
+            "speaker": "Diane",
+            "text": "Je ne pense pas qu'elle ait mon portable. C'est le 07729-651-118."
+          },
+          {
+            "speaker": "Poppy",
+            "text": "D'accord. 07729-651-118. Et quel était votre nom, désolée ?"
+          },
+          {
+            "speaker": "Diane",
+            "text": "Diane Lincoln. L-I-N-C-O-L-N."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Alors, quand rentre-t-elle ?"
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Probablement cet après-midi. Je pense qu'elle va déjeuner."
+          },
+          {
+            "speaker": "Diane",
+            "text": "Ah d'accord. J'espère pouvoir lui parler aujourd'hui."
+          },
+          {
+            "speaker": "Diane",
+            "text": "En fait, je pars en vacances à partir de demain."
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Ah d'accord. Je lui dirai quand même."
+          },
+          {
+            "speaker": "Diane",
+            "text": "D'accord, merci. Au revoir."
+          },
+          {
+            "speaker": "Poppy",
+            "text": "Au revoir."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Suivi d'un colis",
+        "label": "Conversation 3: World Mail",
+        "script": [
+          {
+            "speaker": "Système",
+            "text": "Si vous souhaitez obtenir un code postal, veuillez appuyer sur un."
+          },
+          {
+            "speaker": "Système",
+            "text": "Si vous souhaitez vérifier le statut d'un envoi recommandé ou spécial..."
+          },
+          {
+            "speaker": "H",
+            "text": "Bonjour, World Mail. Comment puis-je vous aider ?"
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "Bonjour. J'essaie de savoir ce qui est arrivé à deux colis."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "que mes parents m'ont envoyés de Singapour."
+          },
+          {
+            "speaker": "H",
+            "text": "D'accord. Il y a combien de temps ont-ils été envoyés ? Le courrier international peut parfois prendre beaucoup plus de temps."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "Cela fait presque deux mois maintenant."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "et ils ont été envoyés par poste aérienne recommandée."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "Donc ils devraient être arrivés depuis longtemps."
+          },
+          {
+            "speaker": "H",
+            "text": "Hmm. Oui, c'est étrange en effet. Puis-je prendre votre adresse ?"
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "Bien sûr. C'est Jaslyn - J-A-S-L-Y-N - Wang."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "et mon adresse est Flat 13, 30 Bedford Way, Walford -"
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "W-A-L-F-O-R-D, Londres E25 4QW."
+          },
+          {
+            "speaker": "H",
+            "text": "D'accord. Laissez-moi vérifier sur mon ordinateur."
+          },
+          {
+            "speaker": "H",
+            "text": "Oui. D'accord. Je les ai."
+          },
+          {
+            "speaker": "H",
+            "text": "Ils sont entrés en Angleterre le 16 juin, ce qui fait cinq semaines maintenant, et"
+          },
+          {
+            "speaker": "H",
+            "text": "ils sont actuellement retenus dans notre bureau de tri principal à Manchester."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "D'accord. Savez-vous pourquoi ?"
+          },
+          {
+            "speaker": "H",
+            "text": "Je n'ai aucune information sur cela, je suis désolé."
+          },
+          {
+            "speaker": "H",
+            "text": "Mais ils partiront cette semaine."
+          },
+          {
+            "speaker": "H",
+            "text": "Ils seront avec vous d'ici la fin de la semaine, le 25."
+          },
+          {
+            "speaker": "H",
+            "text": "Oh, et vous devrez payer 8,70 £ pour l'un d'eux également,"
+          },
+          {
+            "speaker": "H",
+            "text": "en raison d'un affranchissement insuffisant."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "Oh, d'accord. C'est étrange. Merci quand même."
+          }
+        ]
+      },
+      {
+        "title": "1-4. Erreur de traitement",
+        "label": "Conversation 4: Colis retourné",
+        "script": [
+          {
+            "speaker": "H",
+            "text": "Si vous pouvez patienter encore une minute. Je vérifie tout maintenant."
+          },
+          {
+            "speaker": "H",
+            "text": "Le système est un peu lent aujourd'hui, je suis désolé."
+          },
+          {
+            "speaker": "H",
+            "text": "D'accord. L'un de vos colis a été retourné à Singapour."
+          },
+          {
+            "speaker": "H",
+            "text": "Et l'autre est dans notre bureau de tri principal à Manchester..."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "Non, ce n'est pas possible ! Écoutez, la dernière fois que j'ai appelé,"
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "l'homme à qui j'ai parlé a dit que mes colis étaient entrés en Angleterre le 16 juin, je crois, et qu'ils étaient retenus à Manchester..."
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "Il a dit qu'ils partiraient cette semaine et m'a promis,"
+          },
+          {
+            "speaker": "Jaslyn",
+            "text": "m'a promis qu'ils seraient avec moi d'ici la fin de cette semaine !"
+          },
+          {
+            "speaker": "H",
+            "text": "Ah, eh bien... Je ne sais pas ce qui s'est passé, mais manifestement, quelque chose a mal tourné."
+          },
+          {
+            "speaker": "H",
+            "text": "Ce que je peux faire, c'est..."
+          }
+        ]
+      },
+      {
+        "title": "1-5. Problèmes Internet",
+        "label": "Conversation 5: Message vocal de Jim",
+        "script": [
+          {
+            "speaker": "Trish",
+            "text": "Bonjour. Désolée, je ne peux pas répondre pour le moment."
+          },
+          {
+            "speaker": "Trish",
+            "text": "mais si vous souhaitez laisser un message, veuillez le faire après la tonalité."
+          },
+          {
+            "speaker": "Jim",
+            "text": "Salut Tricia. C'est moi, Jim. Désolé de ne pas avoir donné de nouvelles."
+          },
+          {
+            "speaker": "Jim",
+            "text": "Je voulais t'envoyer un email, mais j'ai toutes sortes de problèmes avec ma connexion Internet."
+          },
+          {
+            "speaker": "Jim",
+            "text": "J'ai signé un contrat avec World Mail l'autre semaine, mais ils ont été épouvantables."
+          },
+          {
+            "speaker": "Jim",
+            "text": "Ils ont pris environ trois semaines pour tout livrer,"
+          },
+          {
+            "speaker": "Jim",
+            "text": "et ensuite la box sans fil ne fonctionnait pas correctement."
+          },
+          {
+            "speaker": "Jim",
+            "text": "J'ai essayé de les appeler, mais je tombe toujours sur ce système automatisé, qui me rend fou !"
+          },
+          {
+            "speaker": "Jim",
+            "text": "Puis ce matin, j'ai reçu une facture de 80 £."
+          },
+          {
+            "speaker": "Jim",
+            "text": "Trente pour l'installation et cinquante pour le premier mois ! Je n'en croyais pas mes yeux !"
+          },
+          {
+            "speaker": "Jim",
+            "text": "C'est tellement agaçant. Bref, désolé. Je ne voulais pas me plaindre."
+          },
+          {
+            "speaker": "Jim",
+            "text": "Écoute, je vais... Oh. Euh."
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 약속 시간 변경",
+        "label": "대화 1: 일찍 만나기",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "여보세요."
+          },
+          {
+            "speaker": "브렌던",
+            "text": "안녕, 나 브렌던인데. 닐 있어?"
+          },
+          {
+            "speaker": "A",
+            "text": "아니, 아직 안 일어났어. 급한 일이야?"
+          },
+          {
+            "speaker": "브렌던",
+            "text": "아니, 괜찮아. 만나는 시간이 일찍 변경됐다고 전해줘 - 8시 말고 7시에."
+          },
+          {
+            "speaker": "브렌던",
+            "text": "그리고 게으르다고 전해줘! 12시인데 아직 침대에 있다고!"
+          },
+          {
+            "speaker": "A",
+            "text": "글쎄, 어제 늦게 나갔었거든. 브렌던, 걔가 네 번호 알고 있어?"
+          },
+          {
+            "speaker": "브렌던",
+            "text": "응, 알고 있어. 그럼 몇 시쯤 일어날까?"
+          },
+          {
+            "speaker": "A",
+            "text": "한 시간쯤 후에 일어날 것 같아. 4시에 집에 돌아왔어."
+          },
+          {
+            "speaker": "브렌던",
+            "text": "아, 그래. 알겠어, 그럼 나중에 보자. 고마워."
+          },
+          {
+            "speaker": "A",
+            "text": "괜찮아. 네 메시지 전해줄게. 8시 말고 7시에 만나."
+          },
+          {
+            "speaker": "브렌던",
+            "text": "응."
+          },
+          {
+            "speaker": "A",
+            "text": "그럼 안녕."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 업무 문의",
+        "label": "대화 2: 다이앤의 전화",
+        "script": [
+          {
+            "speaker": "리셉셔니스트",
+            "text": "좋은 아침입니다, DBB입니다. 어떻게 도와드릴까요?"
+          },
+          {
+            "speaker": "다이앤",
+            "text": "안녕하세요. 제인 심슨과 통화할 수 있을까요?"
+          },
+          {
+            "speaker": "리셉셔니스트",
+            "text": "물론입니다. 연결해 드리겠습니다."
+          },
+          {
+            "speaker": "다이앤",
+            "text": "감사합니다."
+          },
+          {
+            "speaker": "포피",
+            "text": "여보세요."
+          },
+          {
+            "speaker": "다이앤",
+            "text": "여보세요, 제인 씨?"
+          },
+          {
+            "speaker": "포피",
+            "text": "아니요, 저는 포피입니다. 죄송합니다만 제인은 고객 방문 중이에요."
+          },
+          {
+            "speaker": "포피",
+            "text": "메시지를 남기시겠어요?"
+          },
+          {
+            "speaker": "다이앤",
+            "text": "네, 다이앤이 전화했다고 전해주세요."
+          },
+          {
+            "speaker": "다이앤",
+            "text": "상사와 이미 이야기했는데, 가격에 문제없다고 하셨어요."
+          },
+          {
+            "speaker": "다이앤",
+            "text": "그러니까 작업을 진행해도 됩니다."
+          },
+          {
+            "speaker": "다이앤",
+            "text": "돌아오면 저에게 전화해 달라고 부탁해 주시겠어요? 세부 사항을 조율해야 해서요."
+          },
+          {
+            "speaker": "포피",
+            "text": "물론이죠. 제인 씨가 당신 번호를 가지고 있나요?"
+          },
+          {
+            "speaker": "다이앤",
+            "text": "제 휴대폰 번호는 없을 거예요. 07729-651-118입니다."
+          },
+          {
+            "speaker": "포피",
+            "text": "알겠습니다. 07729-651-118. 죄송합니다만, 이름이 어떻게 되셨죠?"
+          },
+          {
+            "speaker": "다이앤",
+            "text": "다이앤 링컨입니다. L-I-N-C-O-L-N."
+          },
+          {
+            "speaker": "다이앤",
+            "text": "그럼 언제 돌아오나요?"
+          },
+          {
+            "speaker": "포피",
+            "text": "아마 오늘 오후 늦게요. 점심을 먹으러 간 것 같아요."
+          },
+          {
+            "speaker": "다이앤",
+            "text": "아, 그래요. 오늘 중으로 통화할 수 있었으면 좋겠네요."
+          },
+          {
+            "speaker": "다이앤",
+            "text": "사실 내일부터 휴가로 떠나거든요."
+          },
+          {
+            "speaker": "포피",
+            "text": "아, 그래요? 그래도 그녀에게 전해드릴게요."
+          },
+          {
+            "speaker": "다이앤",
+            "text": "네, 감사합니다. 안녕히 계세요."
+          },
+          {
+            "speaker": "포피",
+            "text": "안녕히 계세요."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 소포 추적",
+        "label": "대화 3: 월드 메일",
+        "script": [
+          {
+            "speaker": "시스템",
+            "text": "우편번호를 조회하시려면 1번을 눌러주세요."
+          },
+          {
+            "speaker": "시스템",
+            "text": "등기우편이나 특별배송 상태를 확인하시려면..."
+          },
+          {
+            "speaker": "H",
+            "text": "여보세요, 월드 메일입니다. 어떻게 도와드릴까요?"
+          },
+          {
+            "speaker": "재슬린",
+            "text": "안녕하세요. 두 개의 소포가 어떻게 된 일인지 알고 싶어요."
+          },
+          {
+            "speaker": "재슬린",
+            "text": "부모님이 싱가포르에서 보내주셨어요."
+          },
+          {
+            "speaker": "H",
+            "text": "네. 언제쯤 보내셨나요? 국제우편은 가끔 훨씬 더 오래 걸릴 수 있어서요."
+          },
+          {
+            "speaker": "재슬린",
+            "text": "거의 두 달 됐어요."
+          },
+          {
+            "speaker": "재슬린",
+            "text": "등기 항공우편으로 보내졌어요."
+          },
+          {
+            "speaker": "재슬린",
+            "text": "그러니까 지금쯤은 도착했어야 하는데 말이죠."
+          },
+          {
+            "speaker": "H",
+            "text": "음, 네. 이상하네요. 주소를 알려주시겠어요?"
+          },
+          {
+            "speaker": "재슬린",
+            "text": "네. 재슬린 - J-A-S-L-Y-N - 왕이에요."
+          },
+          {
+            "speaker": "재슬린",
+            "text": "제 주소는 Flat 13, 30 Bedford Way, Walford -"
+          },
+          {
+            "speaker": "재슬린",
+            "text": "W-A-L-F-O-R-D, London E25 4QW입니다."
+          },
+          {
+            "speaker": "H",
+            "text": "네. 컴퓨터로 확인해 보겠습니다."
+          },
+          {
+            "speaker": "H",
+            "text": "네, 찾았습니다."
+          },
+          {
+            "speaker": "H",
+            "text": "6월 16일에 영국에 도착한 것으로 보이는데, 지금으로부터 5주 전이고"
+          },
+          {
+            "speaker": "H",
+            "text": "현재 맨체스터에 있는 저희 중앙 분류 사무소에 보관되어 있습니다."
+          },
+          {
+            "speaker": "재슬린",
+            "text": "네. 이유를 아시나요?"
+          },
+          {
+            "speaker": "H",
+            "text": "죄송합니다만 그 정보는 없습니다."
+          },
+          {
+            "speaker": "H",
+            "text": "하지만 이번 주 중으로 발송될 예정입니다."
+          },
+          {
+            "speaker": "H",
+            "text": "이번 주말인 25일까지는 받아보실 수 있을 겁니다."
+          },
+          {
+            "speaker": "H",
+            "text": "아, 그리고 하나는 8.70파운드를 지불하셔야 합니다."
+          },
+          {
+            "speaker": "H",
+            "text": "우편 요금이 부족해서요."
+          },
+          {
+            "speaker": "재슬린",
+            "text": "아, 네. 이상하네요. 그래도 감사합니다."
+          }
+        ]
+      },
+      {
+        "title": "1-4. 처리 오류",
+        "label": "대화 4: 반송된 소포",
+        "script": [
+          {
+            "speaker": "H",
+            "text": "잠시만 1분만 더 기다려 주시겠어요? 지금 모두 확인 중입니다."
+          },
+          {
+            "speaker": "H",
+            "text": "죄송합니다만 오늘 시스템이 좀 느리네요."
+          },
+          {
+            "speaker": "H",
+            "text": "네. 소포 중 하나가 싱가포르로 반송되었습니다."
+          },
+          {
+            "speaker": "H",
+            "text": "그리고 다른 하나는 맨체스터의 중앙 분류 사무소에 있습니다..."
+          },
+          {
+            "speaker": "재슬린",
+            "text": "아니, 그럴 리가 없어요! 저번에 전화했을 때,"
+          },
+          {
+            "speaker": "재슬린",
+            "text": "통화했던 직원이 제 소포가 6월 16일에 영국에 도착했고 맨체스터에 보관 중이라고 말했어요."
+          },
+          {
+            "speaker": "재슬린",
+            "text": "그 주 중에 발송될 거라고 하면서 약속했어요,"
+          },
+          {
+            "speaker": "재슬린",
+            "text": "그 주가 끝나기 전까지는 제게 도착할 거라고 약속했다니까요!"
+          },
+          {
+            "speaker": "H",
+            "text": "아, 글쎄요... 무슨 일이 일어났는지 모르겠지만, 분명히 뭔가 잘못됐네요."
+          },
+          {
+            "speaker": "H",
+            "text": "제가 할 수 있는 일은..."
+          }
+        ]
+      },
+      {
+        "title": "1-5. 인터넷 문제",
+        "label": "대화 5: 짐의 음성 메일",
+        "script": [
+          {
+            "speaker": "트리쉬",
+            "text": "안녕하세요. 지금은 전화를 받을 수 없어 죄송합니다."
+          },
+          {
+            "speaker": "트리쉬",
+            "text": "메시지를 남기시려면 신호음 후에 남겨주세요."
+          },
+          {
+            "speaker": "짐",
+            "text": "안녕 트리샤. 나야, 짐. 연락을 못 해서 미안해."
+          },
+          {
+            "speaker": "짐",
+            "text": "이메일을 보내고 싶었는데, 인터넷 연결에 온갖 문제가 생겼어."
+          },
+          {
+            "speaker": "짐",
+            "text": "저번 주에 월드 메일과 계약했는데, 정말 형편없었어."
+          },
+          {
+            "speaker": "짐",
+            "text": "모든 걸 배송하는 데 3주나 걸렸고,"
+          },
+          {
+            "speaker": "짐",
+            "text": "그리고 무선 박스가 제대로 작동하지 않았어."
+          },
+          {
+            "speaker": "짐",
+            "text": "전화해 봤는데, 항상 자동 응답 시스템만 나와서 정말 미치겠어!"
+          },
+          {
+            "speaker": "짐",
+            "text": "그러다 오늘 아침에 80파운드짜리 청구서가 왔어."
+          },
+          {
+            "speaker": "짐",
+            "text": "설치비 30파운드에 첫 달 요금 50파운드라고! 믿을 수가 없었어!"
+          },
+          {
+            "speaker": "짐",
+            "text": "정말 짜증나. 어쨌든, 미안해. 불평하려던 건 아니었어."
+          },
+          {
+            "speaker": "짐",
+            "text": "있잖아, 내가... 아, 음."
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "News and Stories",
+    "ja": "ニュースとストーリー",
+    "fr": "Actualités et Histoires",
+    "ko": "뉴스와 이야기"
+  },
+  "extra_reading_html": {
+    "en": "<p style='margin-top:0; font-size: 1.2rem; color: #2b6cb0;'><b>1. Unnecessary 999 Calls in Northern England</b></p><p>Every day, the police in northern England have to answer three hundred 999 calls, but <b>a third of them are totally unnecessary</b>. Last year, the calls that police received included someone wanting a ride home, a man <b>complaining about his TV not working</b>, and two people who reported lost cats. A number of calls were also from young children who had accidentally dialled 999.</p><p>The police are <b>still</b> dealing with this problem, so they are sending leaflets to houses to explain the situation. They have <b>already</b> introduced £80 fines for those making improper calls to prevent further time-wasting.</p><hr style='border:0; border-top:1px solid #edf2f7; margin:25px 0;'><p style='font-size:1.2rem; color:#2b6cb0;'><b>2. A Miracle Operation in Remote Australia</b></p><p>Nicolas Rossi, a 13-year-old boy from a remote town in Australia, fell off his bicycle and hit his head. Although Nicolas initially seemed fine, his mother, a nurse, <b>noticed a swelling on his head</b>. She rushed him to the nearest hospital, where the doctor realized the boy was in danger of dying if he didn't have an operation <b>to reduce the pressure on his brain</b>.</p><p>Unfortunately, Doctor Carson had <b>never done the operation</b> before and only had a normal household drill. After cleaning the drill, he <b>just</b> phoned a colleague in Melbourne, who explained where and how to make the hole. The one-minute operation was successful, and the boy was transferred by plane to a Melbourne hospital. Nicolas has <b>already</b> made a complete recovery, and Carson described his actions as <b>'just part of the job'</b>.</p><hr style='border:0; border-top:1px solid #edf2f7; margin:25px 0;'><p style='font-size:1.2rem; color:#2b6cb0;'><b>3. The Spider Photo that Saved a Life</b></p><p>Matthew Stevens, 23, was <b>bitten by a Brazilian wandering spider</b> in a pub in south-west England while he was cleaning the kitchen. The spider probably came into Britain in a box of bananas. After the incident, Mr. Stevens <b>took a photo of the 12-centimetre spider</b> with his mobile phone, but then went home, even though his hand was <b>still</b> swelling 'like a balloon'.</p><p>At home, he collapsed with breathing difficulties and had to be rushed to the hospital. Fortunately, he had <b>already</b> taken the picture, which he was able to show to the doctors. The photo was <b>just</b> sent to a university, where they identified the species and found a cure for the poison. He hasn't fully recovered <b>yet</b>, but he is out of danger thanks to that photo.</p>",
+    "ja": "<p style='margin-top:0; font-size: 1.2rem; color: #2b6cb0;'><b>1. イングランド北部での不要な999番通報</b></p><p>毎日、イングランド北部の警察は300件の999番通報に対応しなければなりませんが、<b>その3分の1はまったく不必要</b>です。昨年、警察が受け取った通報には、家まで送ってほしいという依頼、<b>テレビが動かないという苦情</b>を言う男性、迷子の猫を報告した2人が含まれていました。また、誤って999番を押してしまった幼い子どもからの通報も多数ありました。</p><p>警察は<b>まだ</b>この問題に対処しているため、状況を説明するリーフレットを各家庭に送付しています。これ以上の時間の無駄を防ぐため、不適切な通報を行った者には<b>すでに</b>80ポンドの罰金を導入しています。</p><hr style='border:0; border-top:1px solid #edf2f7; margin:25px 0;'><p style='font-size:1.2rem; color:#2b6cb0;'><b>2. オーストラリア辺鄙な町での奇跡の手術</b></p><p>オーストラリアの辺鄙な町に住む13歳の少年ニコラス・ロッシは、自転車から落ちて頭を打ちました。ニコラスは最初は大丈夫そうに見えましたが、看護師である母親は<b>頭の腫れに気づきました</b>。彼女は急いで最寄りの病院に連れて行き、そこで医師は<b>脳への圧力を下げる</b>手術をしなければ少年が死亡する危険があることに気づきました。</p><p>残念ながら、カーソン医師はその手術を<b>行ったことがなく</b>、普通の家庭用ドリルしか持っていませんでした。ドリルを消毒した後、彼は<b>ただちに</b>メルボルンの同僚に電話し、どこにどのように穴を開けるかを説明してもらいました。1分間の手術は成功し、少年は飛行機でメルボルンの病院に搬送されました。ニコラスは<b>すでに</b>完全に回復しており、カーソン医師は自分の行動を<b>「ただの仕事の一部」</b>と表現しました。</p><hr style='border:0; border-top:1px solid #edf2f7; margin:25px 0;'><p style='font-size:1.2rem; color:#2b6cb0;'><b>3. 命を救ったクモの写真</b></p><p>23歳のマシュー・スティーブンスは、イングランド南西部のパブでキッチンを掃除中に、<b>ブラジルの徘徊グモに噛まれました</b>。そのクモはおそらくバナナの箱に入ってイギリスにやって来たのでしょう。事件後、スティーブンスさんは携帯電話で<b>12センチのクモの写真を撮りました</b>が、手が<b>まだ</b>「風船のように」腫れているにもかかわらず、家に帰りました。</p><p>家で彼は呼吸困難で倒れ、緊急搬送されなければなりませんでした。幸い、彼は<b>すでに</b>写真を撮っており、それを医者に見せることができました。その写真は<b>ただちに</b>大学に送られ、そこで専門家がクモの種類を特定し、毒の治療法を見つけました。彼は<b>まだ</b>完全には回復していませんが、その写真のおかげで危機を脱しました。</p>",
+    "fr": "<p style='margin-top:0; font-size: 1.2rem; color: #2b6cb0;'><b>1. Appels 999 inutiles dans le nord de l'Angleterre</b></p><p>Chaque jour, la police du nord de l'Angleterre doit répondre à trois cents appels au 999, mais <b>un tiers d'entre eux sont totalement inutiles</b>. L'année dernière, les appels reçus par la police comprenaient quelqu'un qui voulait rentrer chez lui, un homme <b>se plaignant que sa télévision ne fonctionnait pas</b>, et deux personnes qui ont signalé des chats perdus. Un certain nombre d'appels provenaient également de jeunes enfants qui avaient composé le 999 par accident.</p><p>La police est <b>encore</b> confrontée à ce problème, elle envoie donc des dépliants aux maisons pour expliquer la situation. Elle a <b>déjà</b> introduit des amendes de 80 £ pour ceux qui font des appels inappropriés afin d'éviter de perdre davantage de temps.</p><hr style='border:0; border-top:1px solid #edf2f7; margin:25px 0;'><p style='font-size:1.2rem; color:#2b6cb0;'><b>2. Une opération miraculeuse en Australie isolée</b></p><p>Nicolas Rossi, un garçon de 13 ans d'une ville isolée d'Australie, est tombé de son vélo et s'est cogné la tête. Bien que Nicolas ait semblé aller bien au début, sa mère, infirmière, a <b>remarqué un gonflement sur sa tête</b>. Elle l'a emmené d'urgence à l'hôpital le plus proche, où le médecin a réalisé que le garçon risquait de mourir s'il ne subissait pas une opération <b>pour réduire la pression sur son cerveau</b>.</p><p>Malheureusement, le docteur Carson n'<b>avait jamais pratiqué</b> cette opération auparavant et ne disposait que d'une perceuse domestique ordinaire. Après avoir nettoyé la perceuse, il a <b>juste</b> téléphoné à un collègue à Melbourne, qui lui a expliqué où et comment faire le trou. L'opération d'une minute a réussi, et le garçon a été transféré par avion dans un hôpital de Melbourne. Nicolas a <b>déjà</b> complètement récupéré, et Carson a décrit ses actions comme <b>« juste une partie du travail »</b>.</p><hr style='border:0; border-top:1px solid #edf2f7; margin:25px 0;'><p style='font-size:1.2rem; color:#2b6cb0;'><b>3. La photo d'araignée qui a sauvé une vie</b></p><p>Matthew Stevens, 23 ans, a été <b>mordu par une araignée errante brésilienne</b> dans un pub du sud-ouest de l'Angleterre alors qu'il nettoyait la cuisine. L'araignée est probablement arrivée en Grande-Bretagne dans une caisse de bananes. Après l'incident, M. Stevens a <b>pris une photo de l'araignée de 12 centimètres</b> avec son téléphone portable, puis il est rentré chez lui, même si sa main <b>enflait encore</b> « comme un ballon ».</p><p>Chez lui, il s'est effondré avec des difficultés respiratoires et a dû être transporté d'urgence à l'hôpital. Heureusement, il avait <b>déjà</b> pris la photo, qu'il a pu montrer aux médecins. La photo a été <b>juste</b> envoyée à une université, où ils ont identifié l'espèce et trouvé un remède contre le poison. Il n'a pas <b>encore</b> complètement récupéré, mais il est hors de danger grâce à cette photo.</p>",
+    "ko": "<p style='margin-top:0; font-size: 1.2rem; color: #2b6cb0;'><b>1. 잉글랜드 북부의 불필요한 999번 전화</b></p><p>매일 잉글랜드 북부 경찰은 300건의 999번 전화에 응답해야 하지만, <b>그중 3분의 1은 완전히 불필요합니다</b>. 작년에 경찰이 받은 전화에는 집까지 데려다 달라는 요청, <b>TV가 작동하지 않는다는 불평</b>을 하는 남성, 길 잃은 고양이를 신고한 두 사람이 포함되어 있었습니다. 또한 실수로 999번을 누른 어린 아이들의 전화도 많았습니다.</p><p>경찰은 <b>여전히</b> 이 문제에 대처하고 있으므로, 상황을 설명하는 전단지를 가정집에 보내고 있습니다. 추가적인 시간 낭비를 막기 위해 부적절한 전화를 하는 사람들에게는 <b>이미</b> 80파운드의 벌금을 도입했습니다.</p><hr style='border:0; border-top:1px solid #edf2f7; margin:25px 0;'><p style='font-size:1.2rem; color:#2b6cb0;'><b>2. 호주 외딴 마을의 기적적인 수술</b></p><p>호주 외딴 마을에 사는 13세 소년 니콜라스 로시는 자전거에서 떨어져 머리를 부딪혔습니다. 니콜라스는 처음에는 괜찮아 보였지만, 간호사인 그의 어머니는 <b>머리에 부기가 생긴 것을 발견했습니다</b>. 그녀는 급히 가장 가까운 병원으로 데려갔고, 그곳에서 의사는 <b>뇌압을 낮추는</b> 수술을 하지 않으면 소년이 죽을 위험에 처해 있다는 것을 깨달았습니다.</p><p>안타깝게도 카슨 의사는 그 수술을 <b>해본 적이 없었으며</b> 일반 가정용 드릴만 가지고 있었습니다. 드릴을 소독한 후, 그는 <b>바로</b> 멜버른에 있는 동료에게 전화를 걸어 어디에 어떻게 구멍을 뚫을지 설명을 들었습니다. 1분 간의 수술은 성공적이었고, 소년은 비행기로 멜버른의 병원으로 이송되었습니다. 니콜라스는 <b>이미</b> 완전히 회복되었으며, 카슨 의사는 자신의 행동을 <b>'그냥 일의 일부'</b>라고 말했습니다.</p><hr style='border:0; border-top:1px solid #edf2f7; margin:25px 0;'><p style='font-size:1.2rem; color:#2b6cb0;'><b>3. 생명을 구한 거미 사진</b></p><p>23세의 매튜 스티븐스는 잉글랜드 남서부의 한 펍에서 주방을 청소하다가 <b>브라질 방랑 거미에 물렸습니다</b>. 그 거미는 아마 바나나 상자에 들어 있어 영국에 들어왔을 것입니다. 사건 후, 스티븐스 씨는 휴대폰으로 <b>12cm 거미의 사진을 찍었지만</b>, 그의 손이 <b>여전히</b> '풍선처럼' 부어오르고 있었음에도 불구하고 집에 갔습니다.</p><p>집에서 그는 호흡 곤란으로 쓰러졌고 급히 병원으로 이송되어야 했습니다. 다행히도 그는 <b>이미</b> 사진을 찍어 두었고, 이를 의사들에게 보여줄 수 있었습니다. 그 사진은 <b>바로</b> 대학으로 보내졌고, 그곳에서 그들은 거미의 종을 식별하고 독에 대한 치료법을 찾았습니다. 그는 <b>아직</b> 완전히 회복되지 않았지만, 그 사진 덕분에 위험에서 벗어났습니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "In northern England, about 33% of 999 calls are considered unnecessary.",
+        "correct": "T",
+        "explanation": "True (A third of the 300 daily 999 calls are totally unnecessary.)"
+      },
+      {
+        "question": "The police have already started fining people £80 for making improper emergency calls.",
+        "correct": "T",
+        "explanation": "True (The police have already introduced £80 fines for those making improper calls.)"
+      },
+      {
+        "question": "Doctor Carson had performed the brain operation many times before helping Nicolas.",
+        "correct": "F",
+        "explanation": "False (Doctor Carson had never done the operation before and had to use a household drill.)"
+      },
+      {
+        "question": "Matthew Stevens went straight to the hospital as soon as the spider bit him.",
+        "correct": "F",
+        "explanation": "False (He took a photo and went home first, despite his hand swelling like a balloon.)"
+      },
+      {
+        "question": "The photo on Matthew's phone was just sent to a university to help find a cure.",
+        "correct": "T",
+        "explanation": "True (The photo was just sent to a university where they identified the spider and a cure.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "イングランド北部では、999番通報の約33%が不必要と考えられている。",
+        "correct": "T",
+        "explanation": "真 (毎日300件の999番通報の3分の1はまったく不必要です。)"
+      },
+      {
+        "question": "警察は不適切な緊急通報を行った人に80ポンドの罰金をすでに導入している。",
+        "correct": "T",
+        "explanation": "真 (警察は不適切な通報を行った者にすでに80ポンドの罰金を導入しています。)"
+      },
+      {
+        "question": "カーソン医師はニコラスを助ける前に、その脳手術を何度も行ったことがあった。",
+        "correct": "F",
+        "explanation": "偽 (カーソン医師はその手術を行ったことがなく、家庭用ドリルを使用しなければなりませんでした。)"
+      },
+      {
+        "question": "マシュー・スティーブンスはクモに噛まれるとすぐに病院へ直行した。",
+        "correct": "F",
+        "explanation": "偽 (彼は写真を撮って先に家に帰りました。手が風船のように腫れていたにもかかわらずです。)"
+      },
+      {
+        "question": "マシューの携帯電話の写真は、治療法を見つけるために大学に送られた。",
+        "correct": "T",
+        "explanation": "真 (写真は大学に送られ、そこでクモの種類と治療法が特定されました。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Dans le nord de l'Angleterre, environ 33 % des appels au 999 sont considérés comme inutiles.",
+        "correct": "T",
+        "explanation": "Vrai (Un tiers des 300 appels quotidiens au 999 sont totalement inutiles.)"
+      },
+      {
+        "question": "La police a déjà commencé à infliger des amendes de 80 £ aux personnes qui font des appels d'urgence inappropriés.",
+        "correct": "T",
+        "explanation": "Vrai (La police a déjà introduit des amendes de 80 £ pour ceux qui font des appels inappropriés.)"
+      },
+      {
+        "question": "Le docteur Carson avait déjà pratiqué l'opération du cerveau plusieurs fois avant d'aider Nicolas.",
+        "correct": "F",
+        "explanation": "Faux (Le docteur Carson n'avait jamais fait l'opération auparavant et a dû utiliser une perceuse domestique.)"
+      },
+      {
+        "question": "Matthew Stevens est allé directement à l'hôpital dès que l'araignée l'a mordu.",
+        "correct": "F",
+        "explanation": "Faux (Il a pris une photo et est d'abord rentré chez lui, même si sa main enflait comme un ballon.)"
+      },
+      {
+        "question": "La photo sur le téléphone de Matthew a été envoyée à une université pour aider à trouver un remède.",
+        "correct": "T",
+        "explanation": "Vrai (La photo a été envoyée à une université où ils ont identifié l'araignée et trouvé un remède.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "잉글랜드 북부에서는 999번 전화의 약 33%가 불필요한 것으로 간주된다.",
+        "correct": "T",
+        "explanation": "참 (매일 300건의 999번 전화 중 3분의 1이 완전히 불필요합니다.)"
+      },
+      {
+        "question": "경찰은 부적절한 긴급 전화를 하는 사람들에게 이미 80파운드의 벌금을 부과하기 시작했다.",
+        "correct": "T",
+        "explanation": "참 (경찰은 부적절한 전화를 하는 사람들에게 이미 80파운드의 벌금을 도입했습니다.)"
+      },
+      {
+        "question": "카슨 의사는 니콜라스를 돕기 전에 그 뇌 수술을 여러 번 수행한 적이 있었다.",
+        "correct": "F",
+        "explanation": "거짓 (카슨 의사는 그 수술을 해본 적이 없었고 가정용 드릴을 사용해야 했습니다.)"
+      },
+      {
+        "question": "매튜 스티븐스는 거미에 물리자마자 바로 병원으로 갔다.",
+        "correct": "F",
+        "explanation": "거짓 (그는 사진을 찍고 먼저 집에 갔습니다. 손이 풍선처럼 부어오르고 있었는데도 말이죠.)"
+      },
+      {
+        "question": "매튜의 휴대폰 사진은 치료법을 찾는 데 도움을 주기 위해 대학으로 보내졌다.",
+        "correct": "T",
+        "explanation": "참 (그 사진은 대학으로 보내졌고, 그곳에서 거미의 종과 치료법을 찾아냈습니다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "totally unnecessary",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "improper calls",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "A third of the calls police receive are totally unnecessary, including improper calls about lost cats.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "dealing with this problem",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "prevent further time-wasting",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Police are dealing with this problem by introducing fines to prevent further time-wasting.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Because many calls are totally unnecessary, the police are dealing with this problem. They fined those making improper calls to prevent further time-wasting.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "in danger of dying",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "reduce the pressure",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "The doctor realized the boy was in danger of dying without an operation to reduce the pressure.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "made a complete recovery",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "just part of the job",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "The boy has made a complete recovery, though the doctor said it was just part of the job.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "A boy in danger of dying needed an operation to reduce the pressure on his brain. He made a complete recovery, but his doctor described the action as just part of the job.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Police want to prevent further time-wasting from totally unnecessary improper calls. In real emergencies, like when a boy is in danger of dying, doctors must reduce the pressure to save lives. After the patient has made a complete recovery, many modest heroes say their work is just part of the job.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "まったく不必要な",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "不適切な電話",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "警察が受ける通報の3分の1はまったく不必要であり、迷子の猫についての不適切な電話も含まれている。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "この問題に対処している",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "これ以上の時間の無駄を防ぐ",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "警察は罰金を導入することでこの問題に対処し、これ以上の時間の無駄を防いでいる。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "多くの通報がまったく不必要であるため、警察はこの問題に対処している。彼らは不適切な電話をした者に罰金を科し、これ以上の時間の無駄を防いでいる。",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "死の危険にさらされている",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "圧力を下げる",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "医師は、圧力を下げる手術をしなければ少年が死の危険にさらされていることに気づいた。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "完全に回復した",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "ただの仕事の一部",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "少年は完全に回復したが、医師はそれはただの仕事の一部だと言った。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "死の危険にさらされている少年は、脳への圧力を下げる手術を必要としていた。彼は完全に回復したが、医師はその行動をただの仕事の一部と表現した。",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "警察は、まったく不必要な不適切な電話によるこれ以上の時間の無駄を防ぎたいと考えている。本当の緊急時、例えば少年が死の危険にさらされている場合、医師は命を救うために圧力を下げなければならない。患者が完全に回復した後、多くの謙虚な英雄たちは自分の仕事はただの仕事の一部だと言う。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "totalement inutiles",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "appels inappropriés",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Un tiers des appels reçus par la police sont totalement inutiles, y compris des appels inappropriés concernant des chats perdus.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "faire face à ce problème",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "éviter de perdre davantage de temps",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "La police fait face à ce problème en introduisant des amendes pour éviter de perdre davantage de temps.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Parce que de nombreux appels sont totalement inutiles, la police fait face à ce problème. Ils ont infligé des amendes à ceux qui font des appels inappropriés pour éviter de perdre davantage de temps.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "en danger de mort",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "réduire la pression",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Le médecin a réalisé que le garçon était en danger de mort sans une opération pour réduire la pression.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "complètement récupéré",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "juste une partie du travail",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Le garçon a complètement récupéré, mais le médecin a dit que c'était juste une partie du travail.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un garçon en danger de mort avait besoin d'une opération pour réduire la pression sur son cerveau. Il a complètement récupéré, mais son médecin a décrit son action comme juste une partie du travail.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "La police veut éviter de perdre davantage de temps à cause des appels inappropriés totalement inutiles. Dans les vraies urgences, comme quand un garçon est en danger de mort, les médecins doivent réduire la pression pour sauver des vies. Après que le patient a complètement récupéré, de nombreux héros modestes disent que leur travail est juste une partie du travail.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "완전히 불필요한",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "부적절한 전화",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "경찰이 받는 전화의 3분의 1은 완전히 불필요하며, 길 잃은 고양이에 관한 부적절한 전화도 포함된다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "이 문제에 대처하고 있다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "추가적인 시간 낭비를 막다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "경찰은 벌금을 도입함으로써 이 문제에 대처하고, 추가적인 시간 낭비를 막고 있다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "많은 전화가 완전히 불필요하기 때문에, 경찰은 이 문제에 대처하고 있다. 그들은 부적절한 전화를 한 사람들에게 벌금을 부과하여 추가적인 시간 낭비를 막고 있다.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "죽음의 위험에 처한",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "압력을 낮추다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "의사는 압력을 낮추는 수술을 하지 않으면 소년이 죽음의 위험에 처해 있다는 것을 깨달았다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "완전히 회복했다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "그냥 일의 일부",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "소년은 완전히 회복했지만, 의사는 그것이 그냥 일의 일부라고 말했다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "죽음의 위험에 처한 소년은 뇌의 압력을 낮추는 수술이 필요했다. 그는 완전히 회복했지만, 의사는 그 행동을 그냥 일의 일부라고 표현했다.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "경찰은 완전히 불필요한 부적절한 전화로 인한 추가적인 시간 낭비를 막고 싶어 한다. 진짜 긴급 상황, 예를 들어 소년이 죽음의 위험에 처했을 때, 의사는 생명을 구하기 위해 압력을 낮춰야 한다. 환자가 완전히 회복된 후, 많은 겸손한 영웅들은 자신의 일이 그냥 일의 일부라고 말한다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3 style='color:#2c3e50; border-bottom:2px solid #3498db; padding-bottom:10px; margin-top:0;'>1. Completed Actions (Already & Just)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• already</strong>: Used to say that something happened <strong>sooner than expected</strong>.</p><p style='margin:5px 0;'><strong>• just</strong>: Used to say that something happened <strong>a very short time ago</strong>.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> 'The police have <span style='color:#e67e22; font-weight:bold;'>already introduced</span> £80 fines.'<br><i style='color:#7f8c8d;'>(Action taken against improper calls)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'Doctor Carson <span style='color:#16a085; font-weight:bold;'>just phoned</span> a colleague for help.'<br><i style='color:#7f8c8d;'>(Immediate action during the operation)</i></li></ul><h3 style='color:#2c3e50; border-bottom:2px solid #3498db; padding-bottom:10px; margin-top:25px;'>2. Expected & Continuing Actions (Yet & Still)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• yet</strong>: Used in negative sentences or questions to talk about something <strong>expected to happen</strong>.</p><p style='margin:5px 0;'><strong>• still</strong>: Used to say that a situation is <strong>continuing</strong>, especially when it should have finished.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'Many people <span style='color:#2980b9; font-weight:bold;'>haven't changed</span> their habits <span style='color:#2980b9; font-weight:bold;'>yet</span>.'<br><i style='color:#7f8c8d;'>(Expected change in behavior)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'He is <span style='color:#2980b9; font-weight:bold;'>still in bed</span> at 12 o'clock!'<br><i style='color:#7f8c8d;'>(A continuing state of sleeping)</i></li></ul><h3 style='color:#2c3e50; border-bottom:2px solid #3498db; padding-bottom:10px; margin-top:25px;'>3. Negative Contexts with Still & Yet</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• still (negative)</strong>: Often used to show <strong>surprise or annoyance</strong> that something hasn't happened.</p><p style='margin:5px 0;'><strong>• haven't + yet</strong>: A standard way to describe an <strong>uncompleted</strong> task.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'The wireless box <span style='color:#d35400; font-weight:bold;'>still doesn't work</span> properly.'<br><i style='color:#7f8c8d;'>(Frustration with technology)</i></li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'He <span style='color:#d35400; font-weight:bold;'>hasn't been able</span> to talk to a person <span style='color:#d35400; font-weight:bold;'>yet</span>.'<br><i style='color:#7f8c8d;'>(Service complaint)</i></li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Services & Systems</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: urgent, frustration, automated, properly, defines</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. My internet connection is slow and doesn't work <select class='vocab-select'><option value=''>── select ──</option><option value='urgent'>urgent</option><option value='frustration'>frustration</option><option value='automated'>automated</option><option value='properly'>properly</option><option value='defines'>defines</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='properly' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Please help me now; this emergency call is very <select class='vocab-select'><option value=''>── select ──</option><option value='urgent'>urgent</option><option value='frustration'>frustration</option><option value='automated'>automated</option><option value='properly'>properly</option><option value='defines'>defines</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='urgent' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. I don't like <select class='vocab-select'><option value=''>── select ──</option><option value='urgent'>urgent</option><option value='frustration'>frustration</option><option value='automated'>automated</option><option value='properly'>properly</option><option value='defines'>defines</option></select> voices on the phone; I want a real person.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='automated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Waiting for a slow computer system causes a lot of <select class='vocab-select'><option value=''>── select ──</option><option value='urgent'>urgent</option><option value='frustration'>frustration</option><option value='automated'>automated</option><option value='properly'>properly</option><option value='defines'>defines</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='frustration' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. How we communicate often <select class='vocab-select'><option value=''>── select ──</option><option value='urgent'>urgent</option><option value='frustration'>frustration</option><option value='automated'>automated</option><option value='properly'>properly</option><option value='defines'>defines</option></select> our daily experience.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='defines' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Post & Public Info</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: insufficient, postage, leaflets, improper, trivial</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. It is <select class='vocab-select'><option value=''>── select ──</option><option value='insufficient'>insufficient</option><option value='postage'>postage</option><option value='leaflets'>leaflets</option><option value='improper'>improper</option><option value='trivial'>trivial</option></select> to use 999 for non-emergency situations.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='improper' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. The package was held because of <select class='vocab-select'><option value=''>── select ──</option><option value='insufficient'>insufficient</option><option value='postage'>postage</option><option value='leaflets'>leaflets</option><option value='improper'>improper</option><option value='trivial'>trivial</option></select> money on the stamp.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='insufficient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Don't call the police for <select class='vocab-select'><option value=''>── select ──</option><option value='insufficient'>insufficient</option><option value='postage'>postage</option><option value='leaflets'>leaflets</option><option value='improper'>improper</option><option value='trivial'>trivial</option></select> matters like a lost cat.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='trivial' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. You need to pay the correct <select class='vocab-select'><option value=''>── select ──</option><option value='insufficient'>insufficient</option><option value='postage'>postage</option><option value='leaflets'>leaflets</option><option value='improper'>improper</option><option value='trivial'>trivial</option></select> to send a letter abroad.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='postage' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. The police are giving out information <select class='vocab-select'><option value=''>── select ──</option><option value='insufficient'>insufficient</option><option value='postage'>postage</option><option value='leaflets'>leaflets</option><option value='improper'>improper</option><option value='trivial'>trivial</option></select> to every house.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='leaflets' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Emergency & Medical</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: swelling, presence, literally, poisonous, recovery</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Matthew was bitten by a very <select class='vocab-select'><option value=''>── select ──</option><option value='swelling'>swelling</option><option value='presence'>presence</option><option value='literally'>literally</option><option value='poisonous'>poisonous</option><option value='recovery'>recovery</option></select> spider in the kitchen.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='poisonous' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. In a serious accident, a mobile phone can <select class='vocab-select'><option value=''>── select ──</option><option value='swelling'>swelling</option><option value='presence'>presence</option><option value='literally'>literally</option><option value='poisonous'>poisonous</option><option value='recovery'>recovery</option></select> save your life.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='literally' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Having the <select class='vocab-select'><option value=''>── select ──</option><option value='swelling'>swelling</option><option value='presence'>presence</option><option value='literally'>literally</option><option value='poisonous'>poisonous</option><option value='recovery'>recovery</option></select> of mind to stay calm can save a life.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='presence' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. After the operation, the young boy made a complete <select class='vocab-select'><option value=''>── select ──</option><option value='swelling'>swelling</option><option value='presence'>presence</option><option value='literally'>literally</option><option value='poisonous'>poisonous</option><option value='recovery'>recovery</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='recovery' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. The doctor noticed a large <select class='vocab-select'><option value=''>── select ──</option><option value='swelling'>swelling</option><option value='presence'>presence</option><option value='literally'>literally</option><option value='poisonous'>poisonous</option><option value='recovery'>recovery</option></select> on the boy's head.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='swelling' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Identification</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: experts, identified, species, colleague, fine</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. You will have to pay a <select class='vocab-select'><option value=''>── select ──</option><option value='experts'>experts</option><option value='identified'>identified</option><option value='species'>species</option><option value='colleague'>colleague</option><option value='fine'>fine</option></select> of £80 for a false 999 call.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='fine' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. University <select class='vocab-select'><option value=''>── select ──</option><option value='experts'>experts</option><option value='identified'>identified</option><option value='species'>species</option><option value='colleague'>colleague</option><option value='fine'>fine</option></select> studied the photo to find a cure.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='experts' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. The scientists <select class='vocab-select'><option value=''>── select ──</option><option value='experts'>experts</option><option value='identified'>identified</option><option value='species'>species</option><option value='colleague'>colleague</option><option value='fine'>fine</option></select> the spider as a Brazilian wandering spider.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='identified' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. The doctor called a <select class='vocab-select'><option value=''>── select ──</option><option value='experts'>experts</option><option value='identified'>identified</option><option value='species'>species</option><option value='colleague'>colleague</option><option value='fine'>fine</option></select> in Melbourne for surgical advice.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='colleague' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. There are many different <select class='vocab-select'><option value=''>── select ──</option><option value='experts'>experts</option><option value='identified'>identified</option><option value='species'>species</option><option value='colleague'>colleague</option><option value='fine'>fine</option></select> of insects in the rainforest.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='species' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ 1: サービスとシステム</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 緊急, 欲求不満, 自動化された, ちゃんと, 定義する</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 私のインターネット接続は遅くて、<select class='vocab-select'><option value=''>── 選択 ──</option><option value='緊急'>緊急</option><option value='欲求不満'>欲求不満</option><option value='自動化された'>自動化された</option><option value='ちゃんと'>ちゃんと</option><option value='定義する'>定義する</option></select>動かない。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='properly' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 今すぐ助けてください。この緊急電話はとても<select class='vocab-select'><option value=''>── 選択 ──</option><option value='緊急'>緊急</option><option value='欲求不満'>欲求不満</option><option value='自動化された'>自動化された</option><option value='ちゃんと'>ちゃんと</option><option value='定義する'>定義する</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='urgent' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 電話での<select class='vocab-select'><option value=''>── 選択 ──</option><option value='緊急'>緊急</option><option value='欲求不満'>欲求不満</option><option value='自動化された'>自動化された</option><option value='ちゃんと'>ちゃんと</option><option value='定義する'>定義する</option></select>音声は好きではありません。生身の人間と話したいのです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='automated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 遅いコンピューターシステムを待つのは、大きな<select class='vocab-select'><option value=''>── 選択 ──</option><option value='緊急'>緊急</option><option value='欲求不満'>欲求不満</option><option value='自動化された'>自動化された</option><option value='ちゃんと'>ちゃんと</option><option value='定義する'>定義する</option></select>の原因となる。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='frustration' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 私たちのコミュニケーションの仕方は、日常の経験を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='緊急'>緊急</option><option value='欲求不満'>欲求不満</option><option value='自動化された'>自動化された</option><option value='ちゃんと'>ちゃんと</option><option value='定義する'>定義する</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='defines' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ 2: 郵便と公共情報</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 不十分な, 郵便料金, リーフレット, 不適切な, 些細な</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 緊急でない状況で999番を使うのは<select class='vocab-select'><option value=''>── 選択 ──</option><option value='不十分な'>不十分な</option><option value='郵便料金'>郵便料金</option><option value='リーフレット'>リーフレット</option><option value='不適切な'>不適切な</option><option value='些細な'>些細な</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='improper' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 切手の<select class='vocab-select'><option value=''>── 選択 ──</option><option value='不十分な'>不十分な</option><option value='郵便料金'>郵便料金</option><option value='リーフレット'>リーフレット</option><option value='不適切な'>不適切な</option><option value='些細な'>些細な</option></select>金額のため、小包は保留された。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='insufficient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 迷子の猫のような<select class='vocab-select'><option value=''>── 選択 ──</option><option value='不十分な'>不十分な</option><option value='郵便料金'>郵便料金</option><option value='リーフレット'>リーフレット</option><option value='不適切な'>不適切な</option><option value='些細な'>些細な</option></select>ことで警察に電話してはいけない。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='trivial' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 海外に手紙を送るには、正しい<select class='vocab-select'><option value=''>── 選択 ──</option><option value='不十分な'>不十分な</option><option value='郵便料金'>郵便料金</option><option value='リーフレット'>リーフレット</option><option value='不適切な'>不適切な</option><option value='些細な'>些細な</option></select>を支払う必要がある。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='postage' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 警察は情報<select class='vocab-select'><option value=''>── 選択 ──</option><option value='不十分な'>不十分な</option><option value='郵便料金'>郵便料金</option><option value='リーフレット'>リーフレット</option><option value='不適切な'>不適切な</option><option value='些細な'>些細な</option></select>を各家庭に配布している。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='leaflets' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ 3: 緊急と医療</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 腫れ, 冷静さ, 文字通り, 毒のある, 回復</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. マシューはキッチンで非常に<select class='vocab-select'><option value=''>── 選択 ──</option><option value='腫れ'>腫れ</option><option value='冷静さ'>冷静さ</option><option value='文字通り'>文字通り</option><option value='毒のある'>毒のある</option><option value='回復'>回復</option></select>クモに噛まれた。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='poisonous' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 重大な事故では、携帯電話が<select class='vocab-select'><option value=''>── 選択 ──</option><option value='腫れ'>腫れ</option><option value='冷静さ'>冷静さ</option><option value='文字通り'>文字通り</option><option value='毒のある'>毒のある</option><option value='回復'>回復</option></select>命を救うことができる。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='literally' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 冷静さを保つ<select class='vocab-select'><option value=''>── 選択 ──</option><option value='腫れ'>腫れ</option><option value='冷静さ'>冷静さ</option><option value='文字通り'>文字通り</option><option value='毒のある'>毒のある</option><option value='回復'>回復</option></select>を持つことは命を救うことができる。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='presence' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 手術後、少年は完全な<select class='vocab-select'><option value=''>── 選択 ──</option><option value='腫れ'>腫れ</option><option value='冷静さ'>冷静さ</option><option value='文字通り'>文字通り</option><option value='毒のある'>毒のある</option><option value='回復'>回復</option></select>を遂げた。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='recovery' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 医師は少年の頭に大きな<select class='vocab-select'><option value=''>── 選択 ──</option><option value='腫れ'>腫れ</option><option value='冷静さ'>冷静さ</option><option value='文字通り'>文字通り</option><option value='毒のある'>毒のある</option><option value='回復'>回復</option></select>を発見した。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='swelling' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ 4: 識別</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 専門家, 特定した, 種, 同僚, 罰金</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 虚偽の999番通報には80ポンドの<select class='vocab-select'><option value=''>── 選択 ──</option><option value='専門家'>専門家</option><option value='特定した'>特定した</option><option value='種'>種</option><option value='同僚'>同僚</option><option value='罰金'>罰金</option></select>を支払わなければならない。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='fine' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 大学の<select class='vocab-select'><option value=''>── 選択 ──</option><option value='専門家'>専門家</option><option value='特定した'>特定した</option><option value='種'>種</option><option value='同僚'>同僚</option><option value='罰金'>罰金</option></select>たちが治療法を見つけるために写真を研究した。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='experts' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 科学者たちはそのクモをブラジルの徘徊グモと<select class='vocab-select'><option value=''>── 選択 ──</option><option value='専門家'>専門家</option><option value='特定した'>特定した</option><option value='種'>種</option><option value='同僚'>同僚</option><option value='罰金'>罰金</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='identified' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 医師は手術のアドバイスを得るためにメルボルンの<select class='vocab-select'><option value=''>── 選択 ──</option><option value='専門家'>専門家</option><option value='特定した'>特定した</option><option value='種'>種</option><option value='同僚'>同僚</option><option value='罰金'>罰金</option></select>に電話した。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='colleague' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 熱帯雨林には多くの異なる<select class='vocab-select'><option value=''>── 選択 ──</option><option value='専門家'>専門家</option><option value='特定した'>特定した</option><option value='種'>種</option><option value='同僚'>同僚</option><option value='罰金'>罰金</option></select>の昆虫がいる。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='species' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1 : Services & Systèmes</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: urgent, frustration, automatisé, correctement, définit</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Ma connexion Internet est lente et ne fonctionne pas <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='urgent'>urgent</option><option value='frustration'>frustration</option><option value='automatisé'>automatisé</option><option value='correctement'>correctement</option><option value='définit'>définit</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='properly' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Aidez-moi maintenant, s'il vous plaît ; cet appel d'urgence est très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='urgent'>urgent</option><option value='frustration'>frustration</option><option value='automatisé'>automatisé</option><option value='correctement'>correctement</option><option value='définit'>définit</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='urgent' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Je n'aime pas les voix <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='urgent'>urgent</option><option value='frustration'>frustration</option><option value='automatisé'>automatisé</option><option value='correctement'>correctement</option><option value='définit'>définit</option></select> au téléphone ; je veux une vraie personne.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='automated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Attendre un système informatique lent cause beaucoup de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='urgent'>urgent</option><option value='frustration'>frustration</option><option value='automatisé'>automatisé</option><option value='correctement'>correctement</option><option value='définit'>définit</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='frustration' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. La façon dont nous communiquons <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='urgent'>urgent</option><option value='frustration'>frustration</option><option value='automatisé'>automatisé</option><option value='correctement'>correctement</option><option value='définit'>définit</option></select> souvent notre expérience quotidienne.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='defines' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2 : Poste & Info Publique</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: insuffisant, affranchissement, dépliants, inapproprié, trivial</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Il est <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='insuffisant'>insuffisant</option><option value='affranchissement'>affranchissement</option><option value='dépliants'>dépliants</option><option value='inapproprié'>inapproprié</option><option value='trivial'>trivial</option></select> d'utiliser le 999 pour des situations non urgentes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='improper' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Le colis a été retenu en raison d'un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='insuffisant'>insuffisant</option><option value='affranchissement'>affranchissement</option><option value='dépliants'>dépliants</option><option value='inapproprié'>inapproprié</option><option value='trivial'>trivial</option></select> sur le timbre.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='insufficient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. N'appelez pas la police pour des questions <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='insuffisant'>insuffisant</option><option value='affranchissement'>affranchissement</option><option value='dépliants'>dépliants</option><option value='inapproprié'>inapproprié</option><option value='trivial'>trivial</option></select> comme un chat perdu.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='trivial' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Vous devez payer le bon <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='insuffisant'>insuffisant</option><option value='affranchissement'>affranchissement</option><option value='dépliants'>dépliants</option><option value='inapproprié'>inapproprié</option><option value='trivial'>trivial</option></select> pour envoyer une lettre à l'étranger.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='postage' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. La police distribue des <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='insuffisant'>insuffisant</option><option value='affranchissement'>affranchissement</option><option value='dépliants'>dépliants</option><option value='inapproprié'>inapproprié</option><option value='trivial'>trivial</option></select> d'information à chaque maison.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='leaflets' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3 : Urgence & Médical</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: gonflement, présence, littéralement, venimeux, rétablissement</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Matthew a été mordu par une araignée très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='gonflement'>gonflement</option><option value='présence'>présence</option><option value='littéralement'>littéralement</option><option value='venimeux'>venimeux</option><option value='rétablissement'>rétablissement</option></select> dans la cuisine.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='poisonous' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Dans un accident grave, un téléphone portable peut <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='gonflement'>gonflement</option><option value='présence'>présence</option><option value='littéralement'>littéralement</option><option value='venimeux'>venimeux</option><option value='rétablissement'>rétablissement</option></select> vous sauver la vie.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='literally' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Avoir la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='gonflement'>gonflement</option><option value='présence'>présence</option><option value='littéralement'>littéralement</option><option value='venimeux'>venimeux</option><option value='rétablissement'>rétablissement</option></select> d'esprit de rester calme peut sauver une vie.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='presence' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Après l'opération, le jeune garçon a fait un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='gonflement'>gonflement</option><option value='présence'>présence</option><option value='littéralement'>littéralement</option><option value='venimeux'>venimeux</option><option value='rétablissement'>rétablissement</option></select> complet.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='recovery' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. Le médecin a remarqué un gros <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='gonflement'>gonflement</option><option value='présence'>présence</option><option value='littéralement'>littéralement</option><option value='venimeux'>venimeux</option><option value='rétablissement'>rétablissement</option></select> sur la tête du garçon.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='swelling' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4 : Identification</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: experts, identifié, espèce, collègue, amende</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Vous devrez payer une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='experts'>experts</option><option value='identifié'>identifié</option><option value='espèce'>espèce</option><option value='collègue'>collègue</option><option value='amende'>amende</option></select> de 80 £ pour un faux appel au 999.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='fine' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Des <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='experts'>experts</option><option value='identifié'>identifié</option><option value='espèce'>espèce</option><option value='collègue'>collègue</option><option value='amende'>amende</option></select> universitaires ont étudié la photo pour trouver un remède.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='experts' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Les scientifiques ont <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='experts'>experts</option><option value='identifié'>identifié</option><option value='espèce'>espèce</option><option value='collègue'>collègue</option><option value='amende'>amende</option></select> l'araignée comme une araignée errante brésilienne.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='identified' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Le médecin a appelé un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='experts'>experts</option><option value='identifié'>identifié</option><option value='espèce'>espèce</option><option value='collègue'>collègue</option><option value='amende'>amende</option></select> à Melbourne pour obtenir des conseils chirurgicaux.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='colleague' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. Il existe de nombreuses <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='experts'>experts</option><option value='identifié'>identifié</option><option value='espèce'>espèce</option><option value='collègue'>collègue</option><option value='amende'>amende</option></select> d'insectes différentes dans la forêt tropicale.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='species' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 서비스와 시스템</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 긴급한, 좌절감, 자동화된, 제대로, 정의하다</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 내 인터넷 연결은 느리고 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='긴급한'>긴급한</option><option value='좌절감'>좌절감</option><option value='자동화된'>자동화된</option><option value='제대로'>제대로</option><option value='정의하다'>정의하다</option></select> 작동하지 않는다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='properly' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 지금 도와주세요; 이 긴급 전화는 매우 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='긴급한'>긴급한</option><option value='좌절감'>좌절감</option><option value='자동화된'>자동화된</option><option value='제대로'>제대로</option><option value='정의하다'>정의하다</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='urgent' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 나는 전화에서 나오는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='긴급한'>긴급한</option><option value='좌절감'>좌절감</option><option value='자동화된'>자동화된</option><option value='제대로'>제대로</option><option value='정의하다'>정의하다</option></select> 음성을 싫어한다; 진짜 사람이 필요하다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='automated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 느린 컴퓨터 시스템을 기다리는 것은 많은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='긴급한'>긴급한</option><option value='좌절감'>좌절감</option><option value='자동화된'>자동화된</option><option value='제대로'>제대로</option><option value='정의하다'>정의하다</option></select>을 유발한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='frustration' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 우리가 의사소통하는 방식은 우리의 일상 경험을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='긴급한'>긴급한</option><option value='좌절감'>좌절감</option><option value='자동화된'>자동화된</option><option value='제대로'>제대로</option><option value='정의하다'>정의하다</option></select>.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='defines' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 우편과 공공 정보</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 불충분한, 우편 요금, 전단지, 부적절한, 사소한</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 비긴급 상황에서 999번을 사용하는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='불충분한'>불충분한</option><option value='우편 요금'>우편 요금</option><option value='전단지'>전단지</option><option value='부적절한'>부적절한</option><option value='사소한'>사소한</option></select> 행위이다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='improper' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 우표의 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='불충분한'>불충분한</option><option value='우편 요금'>우편 요금</option><option value='전단지'>전단지</option><option value='부적절한'>부적절한</option><option value='사소한'>사소한</option></select> 금액 때문에 소포가 보류되었다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='insufficient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 길 잃은 고양이 같은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='불충분한'>불충분한</option><option value='우편 요금'>우편 요금</option><option value='전단지'>전단지</option><option value='부적절한'>부적절한</option><option value='사소한'>사소한</option></select> 문제로 경찰에 전화하지 마라.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='trivial' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 해외로 편지를 보내려면 정확한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='불충분한'>불충분한</option><option value='우편 요금'>우편 요금</option><option value='전단지'>전단지</option><option value='부적절한'>부적절한</option><option value='사소한'>사소한</option></select>을 지불해야 한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='postage' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 경찰은 정보 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='불충분한'>불충분한</option><option value='우편 요금'>우편 요금</option><option value='전단지'>전단지</option><option value='부적절한'>부적절한</option><option value='사소한'>사소한</option></select>을 각 가정에 배포하고 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='leaflets' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3: 긴급과 의료</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 부기, 침착함, 말 그대로, 독성이 있는, 회복</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 매튜는 주방에서 매우 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='부기'>부기</option><option value='침착함'>침착함</option><option value='말 그대로'>말 그대로</option><option value='독성이 있는'>독성이 있는</option><option value='회복'>회복</option></select> 거미에 물렸다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='poisonous' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 심각한 사고에서 휴대폰은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='부기'>부기</option><option value='침착함'>침착함</option><option value='말 그대로'>말 그대로</option><option value='독성이 있는'>독성이 있는</option><option value='회복'>회복</option></select> 당신의 생명을 구할 수 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='literally' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 침착함을 유지하는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='부기'>부기</option><option value='침착함'>침착함</option><option value='말 그대로'>말 그대로</option><option value='독성이 있는'>독성이 있는</option><option value='회복'>회복</option></select>은 생명을 구할 수 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='presence' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 수술 후, 어린 소년은 완전한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='부기'>부기</option><option value='침착함'>침착함</option><option value='말 그대로'>말 그대로</option><option value='독성이 있는'>독성이 있는</option><option value='회복'>회복</option></select>을 했다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='recovery' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 의사는 소년의 머리에 큰 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='부기'>부기</option><option value='침착함'>침착함</option><option value='말 그대로'>말 그대로</option><option value='독성이 있는'>독성이 있는</option><option value='회복'>회복</option></select>을 발견했다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='swelling' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4: 식별</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 전문가, 식별한, 종, 동료, 벌금</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 거짓 999번 전화에는 80파운드의 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='전문가'>전문가</option><option value='식별한'>식별한</option><option value='종'>종</option><option value='동료'>동료</option><option value='벌금'>벌금</option></select>을 내야 한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='fine' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 대학 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='전문가'>전문가</option><option value='식별한'>식별한</option><option value='종'>종</option><option value='동료'>동료</option><option value='벌금'>벌금</option></select>들이 치료법을 찾기 위해 사진을 연구했다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='experts' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 과학자들은 그 거미를 브라질 방랑 거미로 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='전문가'>전문가</option><option value='식별한'>식별한</option><option value='종'>종</option><option value='동료'>동료</option><option value='벌금'>벌금</option></select>.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='identified' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 의사는 수술 조언을 얻기 위해 멜버른에 있는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='전문가'>전문가</option><option value='식별한'>식별한</option><option value='종'>종</option><option value='동료'>동료</option><option value='벌금'>벌금</option></select>에게 전화했다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='colleague' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 열대 우림에는 다양한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='전문가'>전문가</option><option value='식별한'>식별한</option><option value='종'>종</option><option value='동료'>동료</option><option value='벌금'>벌금</option></select>의 곤충이 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='species' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "The unit explores how phones are used in different situations. In the Core Reading, how did a mobile phone literally save Matthew's life after he was bitten by a poisonous spider? Also, why does the police department issue leaflets about 999 calls?",
+    "ja": "このユニットでは、電話がさまざまな状況でどのように使用されているかを探ります。Core Readingの中で、マシューは毒グモに噛まれた後、携帯電話がどのように文字通り彼の命を救いましたか？また、警察はなぜ999番通報についてのリーフレットを配布しているのですか？",
+    "fr": "Cette unité explore comment les téléphones sont utilisés dans différentes situations. Dans la lecture principale, comment un téléphone portable a-t-il littéralement sauvé la vie de Matthew après avoir été mordu par une araignée venimeuse ? De plus, pourquoi le service de police distribue-t-il des dépliants sur les appels au 999 ?",
+    "ko": "이 유닛에서는 전화가 다양한 상황에서 어떻게 사용되는지 탐구합니다. 코어 리딩에서, 매튜는 독거미에 물린 후 휴대폰이 어떻게 말 그대로 그의 목숨을 구했습니까? 또한, 경찰은 왜 999번 전화에 관한 전단지를 배포합니까?"
+  },
+  "content_check_keywords": {
+    "en": "presence of mind, mobile photo, identified the species, university experts, improper calls, trivial matters, £80 fine",
+    "ja": "冷静さ, 携帯写真, 種を特定, 大学の専門家, 不適切な電話, 些細な問題, 80ポンドの罰金",
+    "fr": "présence d'esprit, photo mobile, espèce identifiée, experts universitaires, appels inappropriés, questions triviales, amende de 80 £",
+    "ko": "침착함, 휴대폰 사진, 식별된 종, 대학 전문가, 부적절한 전화, 사소한 문제, 80파운드 벌금"
+  },
+  "content_check_placeholder": {
+    "en": "Explain how the photo helped Matthew and why the police are worried about 999 calls...",
+    "ja": "写真がどのようにマシューを助けたか、そして警察がなぜ999番通報を心配しているのかを説明してください...",
+    "fr": "Expliquez comment la photo a aidé Matthew et pourquoi la police s'inquiète des appels au 999...",
+    "ko": "사진이 어떻게 매튜를 도왔는지, 그리고 경찰이 왜 999번 전화를 걱정하는지 설명하세요..."
+  },
+  "deepening_question": {
+    "en": "In the listening and reading tasks, we saw characters like Jim who felt frustration because of automated systems and insufficient customer service. He had already paid his bill, but his internet still didn't work properly.<br><br>In your opinion, why do many companies use 'automated systems' instead of real people? Do you think this technology makes our lives better or just more stressful?",
+    "ja": "リスニングとリーディングのタスクでは、ジムのような登場人物が、自動化システムや不十分なカスタマーサービスに欲求不満を感じている様子を見ました。彼はすでに請求書を支払っていましたが、インターネットはまだちゃんと動きませんでした。<br><br>あなたの意見では、なぜ多くの企業は生身の人間の代わりに「自動化システム」を使用するのですか？このテクノロジーは私たちの生活をより良くしていると思いますか、それとも単にストレスを増やしているだけだと思いますか？",
+    "fr": "Dans les tâches d'écoute et de lecture, nous avons vu des personnages comme Jim qui ressentaient de la frustration à cause des systèmes automatisés et d'un service client insuffisant. Il avait déjà payé sa facture, mais son Internet ne fonctionnait toujours pas correctement.<br><br>Selon vous, pourquoi de nombreuses entreprises utilisent-elles des « systèmes automatisés » au lieu de vraies personnes ? Pensez-vous que cette technologie améliore nos vies ou ne fait qu'ajouter du stress ?",
+    "ko": "듣기와 읽기 과제에서 우리는 짐과 같은 인물들이 자동화 시스템과 불충분한 고객 서비스로 인해 좌절감을 느끼는 것을 보았습니다. 그는 이미 청구서를 지불했지만, 그의 인터넷은 여전히 제대로 작동하지 않았습니다.<br><br>여러분의 생각에는, 왜 많은 기업들이 실제 사람 대신 '자동화 시스템'을 사용할까요? 이 기술이 우리의 삶을 더 좋게 만든다고 생각하나요, 아니면 단지 더 스트레스를 주는 것일까요?"
+  },
+  "deepening_placeholder": {
+    "en": "I think companies use them because... In my view, this technology is... because...",
+    "ja": "企業がそれらを使用するのは...だと思います。私の見解では、このテクノロジーは...です。なぜなら...",
+    "fr": "Je pense que les entreprises les utilisent parce que... À mon avis, cette technologie est... parce que...",
+    "ko": "기업들이 그것을 사용하는 이유는... 제 생각에는 이 기술은... 왜냐하면..."
+  },
+  "critical_question": {
+    "en": "We explored how phones can be powerful tools in modern society. In this unit, phones helped doctors save lives, allowed experts to identify dangerous spiders, and made communication faster during emergencies. However, we also saw negative problems such as improper 999 calls, frustrating automated systems, and people's growing dependence on technology.<br><br>Do you think phones have improved our lives more than they have created problems? Why or why not?<br><br>Support your opinion by using examples from the unit and the grammar we learned (just, already, yet, still). You can talk about positive changes people have 'already' experienced, or problems that 'still' exist because of phones and communication technology.",
+    "ja": "私たちは、電話が現代社会においてどのように強力なツールとなり得るかを探求しました。このユニットでは、電話は医師が命を救うのを助け、専門家が危険なクモを特定できるようにし、緊急時のコミュニケーションをより速くしました。しかし、不適切な999番通報、イライラさせる自動化システム、テクノロジーへの依存度の高まりといった否定的な問題も見てきました。<br><br>電話は問題を生み出した以上に私たちの生活を改善したと思いますか？なぜ、あるいはなぜそう思わないのですか？<br><br>ユニットからの例と学んだ文法（just, already, yet, still）を使ってあなたの意見を裏付けてください。人々が「すでに」経験した肯定的な変化や、電話やコミュニケーションテクノロジーのために「まだ」存在する問題について話すことができます。",
+    "fr": "Nous avons exploré comment les téléphones peuvent être des outils puissants dans la société moderne. Dans cette unité, les téléphones ont aidé les médecins à sauver des vies, permis à des experts d'identifier des araignées dangereuses et rendu la communication plus rapide en cas d'urgence. Cependant, nous avons également vu des problèmes négatifs tels que les appels inappropriés au 999, les systèmes automatisés frustrants et la dépendance croissante des gens à la technologie.<br><br>Pensez-vous que les téléphones ont amélioré nos vies plus qu'ils n'ont créé de problèmes ? Pourquoi ou pourquoi pas ?<br><br>Appuyez votre opinion à l'aide d'exemples tirés de l'unité et de la grammaire que nous avons apprise (just, already, yet, still). Vous pouvez parler des changements positifs que les gens ont « déjà » connus, ou des problèmes qui « existent encore » à cause des téléphones et des technologies de communication.",
+    "ko": "우리는 전화가 현대 사회에서 얼마나 강력한 도구가 될 수 있는지 탐구했습니다. 이 유닛에서 전화는 의사들이 생명을 구하는 것을 도왔고, 전문가들이 위험한 거미를 식별할 수 있게 했으며, 긴급 상황에서 의사소통을 더 빠르게 만들었습니다. 그러나 우리는 또한 부적절한 999번 전화, 좌절감을 주는 자동화 시스템, 그리고 사람들의 기술에 대한 증가하는 의존성과 같은 부정적인 문제들도 보았습니다.<br><br>전화가 문제를 일으킨 것보다 우리의 삶을 더 많이 개선했다고 생각하시나요? 그 이유는 무엇인가요?<br><br>유닛의 예시와 배운 문법(just, already, yet, still)을 사용하여 여러분의 의견을 뒷받침하세요. 사람들이 '이미' 경험한 긍정적인 변화나, 전화와 통신 기술 때문에 '여전히' 존재하는 문제들에 대해 이야기할 수 있습니다."
+  },
+  "critical_placeholder": {
+    "en": "Explain whether phones create more benefits or more problems in society. Use examples from the unit and include 'just, already, yet, still' in your answer...",
+    "ja": "電話が社会にもたらす利益と問題のどちらが多いかを説明してください。ユニットからの例を使用し、答えに「just, already, yet, still」を含めてください...",
+    "fr": "Expliquez si les téléphones créent plus d'avantages ou plus de problèmes dans la société. Utilisez des exemples tirés de l'unité et incluez 'just, already, yet, still' dans votre réponse...",
+    "ko": "전화가 사회에 더 많은 이점을 가져다주는지, 아니면 더 많은 문제를 일으키는지 설명하세요. 유닛의 예시를 사용하고 답변에 'just, already, yet, still'을 포함하세요..."
+  }
+}

@@ -1,0 +1,1516 @@
+{
+  "title": {
+    "en": "SCHOOL AND UNIVERSITY",
+    "ja": "学校と大学",
+    "fr": "ÉCOLE ET UNIVERSITÉ",
+    "ko": "학교와 대학교"
+  },
+  "topic": {
+    "en": "Education, technology, future plans",
+    "ja": "教育、テクノロジー、将来の計画",
+    "fr": "Éducation, technologie, projets d'avenir",
+    "ko": "교육, 기술, 미래 계획"
+  },
+  "core_title": {
+    "en": "The University of Life",
+    "ja": "人生の大学",
+    "fr": "L'Université de la Vie",
+    "ko": "인생의 대학교"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>Education is a journey that looks different for everyone, whether they are switching schools across borders or <b>navigating</b> the digital world. Rebecca, for instance, experienced a major change when she moved from England to Spain. In her English primary school, she <b>could enjoy</b> group work and creative projects with the same teacher all day. However, in Spain, she <b>had to change</b> teachers for different subjects and face a much heavier workload. She remembers crying because she <b>had to do</b> hours of homework every night, whereas her friends back in England <b>could finish</b> their tasks much faster. This contrast shows how educational environments can vary <strong><span class='vocab-link' id='text-significantly' onclick='speakAndScroll(\"significantly\", \"vocab-significantly\")'>significantly</span></strong> between countries.</p><p>This shift in how we study is also being shaped by technology. As explored in <i>\"A Web of Lies?\"</i>, the Internet has made information more accessible, but it has also made cheating easier. In the past, if a student wanted to write an essay, they <b>had to go</b> to a library and physically copy words from books. Nowadays, <strong><span class='vocab-link' id='text-plagiarism' onclick='speakAndScroll(\"plagiarism\", \"vocab-plagiarism\")'>plagiarism</span></strong> is a huge concern for teachers. <b>If a student copies</b> an entire essay from a website, they <b>will not learn</b> the actual material. Furthermore, <b>if they rely</b> only on the Web, they <b>will lose</b> the ability to think critically. However, technology also brings solutions; <b>if teachers use</b> <strong><span class='vocab-link' id='text-sophisticated' onclick='speakAndScroll(\"sophisticated\", \"vocab-sophisticated\")'>sophisticated</span></strong> software, they <b>will</b> <strong><span class='vocab-link' id='text-detect' onclick='speakAndScroll(\"detect\", \"vocab-detect\")'>detect</span></strong> copied work immediately.</p><p>Beyond the classroom, the road to the future is filled with different choices. Ollie, a Year 9 student, is already <strong><span class='vocab-link' id='text-contemplating' onclick='speakAndScroll(\"contemplating\", \"vocab-contemplating\")'>contemplating</span></strong> his life after school. <b>If he saves</b> enough money, he <b>will try</b> to take a gap year to travel. His father, however, wants him to stay in the academic system and go straight to university to study Business. On the other hand, students like Pep are already <strong><span class='vocab-link' id='text-encountering' onclick='speakAndScroll(\"encountering\", \"vocab-encountering\")'>encountering</span></strong> the reality of higher education. Studying Pure Mathematics is intellectually demanding, especially since he <b>has to do</b> his whole degree in English. Pep knows that <b>if he gets</b> the required grades, he <b>will probably apply</b> for a Master's degree in Astrophysics to follow his passion.</p><p>Even after university, the learning process never truly ends. Dhanya studied International Law in France, but she found the courses very <strong><span class='vocab-link' id='text-theoretical' onclick='speakAndScroll(\"theoretical\", \"vocab-theoretical\")'>theoretical</span></strong>. She believes she has learned much more since she started working. As she says, \"You can't beat the university of life.\" This reminds us that while we <b>had to learn</b> academic facts in school, practical experience is just as important. <b>If you work</b> hard and remain ambitious for success, you <b>will find</b> that every challenge is an opportunity to grow. The tutors and supportive peers we meet along the way also play a crucial role in our development.</p><p>In conclusion, whether we are dealing with the stress of exams, the <strong><span class='vocab-link' id='text-temptation' onclick='speakAndScroll(\"temptation\", \"vocab-temptation\")'>temptation</span></strong> of the Internet, or the pressure of choosing a career, our education shapes who we become. <b>If we</b> <strong><span class='vocab-link' id='text-embrace' onclick='speakAndScroll(\"embrace\", \"vocab-embrace\")'>embrace</span></strong> both modern technology and traditional values, we <b>will be</b> better prepared for the diverse world that waits for us after graduation. Education is not just about knowledge acquisition; it is about developing social skills and responsibility for our own future.</p>",
+    "ja": "<p style='margin-top:0;'>教育は、国境を越えて学校を変えたり、デジタル世界を<b>ナビゲート</b>したりするなど、すべての人にとって異なるように見える旅です。たとえば、レベッカはイギリスからスペインに引っ越したときに大きな変化を経験しました。イギリスの小学校では、一日中同じ先生とグループワークや創造的なプロジェクトを<b>楽しむことができました</b>。しかし、スペインでは、異なる科目のために先生を<b>変えなければならず</b>、はるかに重い workload に直面しなければなりませんでした。彼女は毎晩何時間もの宿題を<b>しなければならなかった</b>ために泣いたことを覚えていますが、イギリスにいる友達ははるかに速く課題を<b>終わらせることができました</b>。この対比は、教育環境が国によって<strong><span class='vocab-link' id='text-significantly' onclick='speakAndScroll(\"significantly\", \"vocab-significantly\")'>大幅に</span></strong>異なる可能性を示しています。</p><p>私たちの勉強方法のこの変化は、テクノロジーによっても形作られています。<i>「嘘のウェブ？」</i>で探求されているように、インターネットは情報へのアクセスを容易にしましたが、カンニングも容易にしました。過去に学生がエッセイを書きたいと思ったら、図書館に<b>行かなければならず</b>、本から言葉を物理的にコピーしなければなりませんでした。今日、<strong><span class='vocab-link' id='text-plagiarism' onclick='speakAndScroll(\"plagiarism\", \"vocab-plagiarism\")'>盗作</span></strong>は教師にとって大きな懸念事項です。<b>学生が</b>ウェブサイトからエッセイ全体を<b>コピーしたら</b>、実際の教材を<b>学べないでしょう</b>。さらに、<b>彼らが</b>ウェブだけに<b>頼ったら</b>、批判的に考える能力を<b>失うでしょう</b>。しかし、テクノロジーは解決策ももたらします。<b>教師が</b><strong><span class='vocab-link' id='text-sophisticated' onclick='speakAndScroll(\"sophisticated\", \"vocab-sophisticated\")'>洗練された</span></strong>ソフトウェアを<b>使用すれば</b>、コピーされた作業を即座に<strong><span class='vocab-link' id='text-detect' onclick='speakAndScroll(\"detect\", \"vocab-detect\")'>検出するでしょう</span></strong>。</p><p>教室の外では、未来への道はさまざまな選択で満たされています。9年生のオリは、すでに学校後の人生を<strong><span class='vocab-link' id='text-contemplating' onclick='speakAndScroll(\"contemplating\", \"vocab-contemplating\")'>熟考しています</span></strong>。<b>彼が</b>十分なお金を<b>貯めれば</b>、旅行のためにギャップイヤーを<b>取ろうとするでしょう</b>。しかし、彼の父親は彼が学業システムにとどまり、すぐに大学に行ってビジネスを学ぶことを望んでいます。一方、ペップのような学生はすでに高等教育の現実に<strong><span class='vocab-link' id='text-encountering' onclick='speakAndScroll(\"encountering\", \"vocab-encountering\")'>遭遇しています</span></strong>。純粋数学を勉強することは知的な要求が高く、特に彼は学位全体を英語で<b>行わなければならない</b>からです。ペップは<b>彼が</b>必要な成績を<b>取得すれば</b>、自分の情熱を追いかけて天体物理学の修士号に<b>おそらく申請するでしょう</b>。</p><p>大学卒業後も、学習プロセスは決して真に終わりません。ドゥニヤはフランスで国際法を学びましたが、彼女はコースが非常に<strong><span class='vocab-link' id='text-theoretical' onclick='speakAndScroll(\"theoretical\", \"vocab-theoretical\")'>理論的</span></strong>であると感じました。彼女は働き始めてからはるかに多くを学んだと信じています。彼女が言うように、「人生の大学には敵いません。」これは、私たちが学校で学問的事実を<b>学ばなければならなかった</b>一方で、実践的な経験も同様に重要であることを思い出させてくれます。<b>あなたが</b>一生懸命<b>働き</b>、成功への野心を持ち続ければ、すべての課題が成長の機会であることを<b>見つけるでしょう</b>。私たちが出会う教師や支援的な仲間も、私たちの発展に重要な役割を果たします。</p><p>結論として、試験のストレス、インターネットの<strong><span class='vocab-link' id='text-temptation' onclick='speakAndScroll(\"temptation\", \"vocab-temptation\")'>誘惑</span></strong>、またはキャリア選択のプレッシャーに対処するとき、私たちの教育は私たちが誰になるかを形作ります。<b>私たちが</b>現代のテクノロジーと伝統的価値観の両方を<strong><span class='vocab-link' id='text-embrace' onclick='speakAndScroll(\"embrace\", \"vocab-embrace\")'>受け入れれば</span></strong>、卒業後に私たちを待つ多様な世界によりよく準備される<b>でしょう</b>。教育は単なる知識獲得ではありません。それは社会的スキルと自分自身の未来に対する責任を発展させることです。</p>",
+    "fr": "<p style='margin-top:0;'>L'éducation est un voyage qui semble différent pour chacun, qu'il s'agisse de changer d'école à travers les frontières ou de <b>naviguer</b> dans le monde numérique. Rebecca, par exemple, a vécu un grand changement lorsqu'elle a déménagé d'Angleterre en Espagne. Dans son école primaire anglaise, elle <b>pouvait profiter</b> de travaux de groupe et de projets créatifs avec le même professeur toute la journée. Cependant, en Espagne, elle <b>devait changer</b> de professeur pour différentes matières et faire face à une charge de travail beaucoup plus lourde. Elle se souvient d'avoir pleuré parce qu'elle <b>devait faire</b> des heures de devoirs chaque soir, alors que ses amis en Angleterre <b>pouvaient finir</b> leurs tâches beaucoup plus rapidement. Ce contraste montre comment les environnements éducatifs peuvent varier <strong><span class='vocab-link' id='text-significantly' onclick='speakAndScroll(\"significantly\", \"vocab-significantly\")'>considérablement</span></strong> d'un pays à l'autre.</p><p>Ce changement dans notre façon d'étudier est également façonné par la technologie. Comme exploré dans <i>\"Un Web de Mensonges ?\"</i>, Internet a rendu l'information plus accessible, mais il a aussi rendu la tricherie plus facile. Dans le passé, si un étudiant voulait rédiger une dissertation, il <b>devait aller</b> à la bibliothèque et copier physiquement des mots des livres. Aujourd'hui, le <strong><span class='vocab-link' id='text-plagiarism' onclick='speakAndScroll(\"plagiarism\", \"vocab-plagiarism\")'>plagiat</span></strong> est une préoccupation majeure pour les enseignants. <b>Si un étudiant copie</b> une dissertation entière d'un site Web, il <b>n'apprendra pas</b> le matériel réel. De plus, <b>s'ils comptent</b> uniquement sur le Web, ils <b>perdront</b> la capacité de penser de manière critique. Cependant, la technologie apporte également des solutions ; <b>si les enseignants utilisent</b> un logiciel <strong><span class='vocab-link' id='text-sophisticated' onclick='speakAndScroll(\"sophisticated\", \"vocab-sophisticated\")'>sophistiqué</span></strong>, ils <b>détecteront</b> immédiatement le travail copié.</p><p>Au-delà de la salle de classe, la route vers l'avenir est remplie de choix différents. Ollie, un élève de 9e année, <strong><span class='vocab-link' id='text-contemplating' onclick='speakAndScroll(\"contemplating\", \"vocab-contemplating\")'>envisage</span></strong> déjà sa vie après l'école. <b>S'il économise</b> assez d'argent, il <b>essaiera</b> de prendre une année sabbatique pour voyager. Son père, cependant, veut qu'il reste dans le système académique et qu'il aille directement à l'université pour étudier le commerce. D'autre part, des étudiants comme Pep <strong><span class='vocab-link' id='text-encountering' onclick='speakAndScroll(\"encountering\", \"vocab-encountering\")'>rencontrent</span></strong> déjà la réalité de l'enseignement supérieur. Étudier les mathématiques pures est intellectuellement exigeant, surtout parce qu'il <b>doit faire</b> tout son diplôme en anglais. Pep sait que <b>s'il obtient</b> les notes requises, il <b>postulera probablement</b> pour un master en astrophysique pour suivre sa passion.</p><p>Même après l'université, le processus d'apprentissage ne s'arrête jamais vraiment. Dhanya a étudié le droit international en France, mais elle a trouvé les cours très <strong><span class='vocab-link' id='text-theoretical' onclick='speakAndScroll(\"theoretical\", \"vocab-theoretical\")'>théoriques</span></strong>. Elle croit qu'elle a beaucoup plus appris depuis qu'elle a commencé à travailler. Comme elle le dit : \"On ne peut pas battre l'université de la vie.\" Cela nous rappelle que si nous <b>devions apprendre</b> des faits académiques à l'école, l'expérience pratique est tout aussi importante. <b>Si vous travaillez</b> dur et restez ambitieux pour le succès, vous <b>trouverez</b> que chaque défi est une opportunité de grandir. Les tuteurs et les pairs solidaires que nous rencontrons en cours de route jouent également un rôle crucial dans notre développement.</p><p>En conclusion, que nous traitions du stress des examens, de la <strong><span class='vocab-link' id='text-temptation' onclick='speakAndScroll(\"temptation\", \"vocab-temptation\")'>tentation</span></strong> d'Internet ou de la pression de choisir une carrière, notre éducation façonne qui nous devenons. <b>Si nous</b> <strong><span class='vocab-link' id='text-embrace' onclick='speakAndScroll(\"embrace\", \"vocab-embrace\")'>embrassons</span></strong> à la fois la technologie moderne et les valeurs traditionnelles, nous <b>serons</b> mieux préparés pour le monde diversifié qui nous attend après l'obtention de notre diplôme. L'éducation n'est pas seulement une question d'acquisition de connaissances ; il s'agit de développer des compétences sociales et la responsabilité de notre propre avenir.</p>",
+    "ko": "<p style='margin-top:0;'>교육은 국경을 넘나들며 학교를 옮기거나 디지털 세계를 <b>탐색</b>하는 등 모든 사람에게 다르게 보이는 여정입니다. 예를 들어 레베카는 영국에서 스페인으로 이사하면서 큰 변화를 경험했습니다. 영국 초등학교에서는 하루 종일 같은 선생님과 함께 그룹 작업과 창의적인 프로젝트를 <b>즐길 수 있었습니다</b>. 그러나 스페인에서는 과목마다 선생님이 <b>바뀌어야 했고</b> 훨씬 더 많은 학업량에 직면해야 했습니다. 그녀는 매일 밤 몇 시간씩 숙제를 <b>해야 했기</b> 때문에 울었던 것을 기억하는 반면, 영국에 있는 친구들은 훨씬 빠르게 과제를 <b>마칠 수 있었습니다</b>. 이러한 대비는 교육 환경이 국가마다 <strong><span class='vocab-link' id='text-significantly' onclick='speakAndScroll(\"significantly\", \"vocab-significantly\")'>현저하게</span></strong> 다를 수 있음을 보여줍니다.</p><p>우리가 공부하는 방식의 이러한 변화는 기술에 의해서도 형성되고 있습니다. <i>\"거짓말의 웹?\"</i>에서 살펴본 바와 같이, 인터넷은 정보에 더 쉽게 접근할 수 있게 만들었지만, 부정행위도 더 쉽게 만들었습니다. 과거에 학생이 에세이를 쓰고 싶다면 도서관에 <b>가야 했고</b> 책에서 직접 단어를 복사해야 했습니다. 오늘날 <strong><span class='vocab-link' id='text-plagiarism' onclick='speakAndScroll(\"plagiarism\", \"vocab-plagiarism\")'>표절</span></strong>은 교사들에게 큰 문제입니다. <b>학생이</b> 웹사이트에서 전체 에세이를 <b>복사하면</b> 실제 자료를 <b>배우지 못할 것입니다</b>. 더욱이, <b>그들이</b> 웹에만 <b>의존한다면</b> 비판적으로 사고하는 능력을 <b>잃을 것입니다</b>. 그러나 기술은 또한 해결책을 가져옵니다; <b>교사들이</b> <strong><span class='vocab-link' id='text-sophisticated' onclick='speakAndScroll(\"sophisticated\", \"vocab-sophisticated\")'>정교한</span></strong> 소프트웨어를 <b>사용하면</b> 복사된 작업을 즉시 <strong><span class='vocab-link' id='text-detect' onclick='speakAndScroll(\"detect\", \"vocab-detect\")'>탐지할</span></strong> <b>것입니다</b>.</p><p>교실 너머, 미래로 가는 길은 다양한 선택으로 가득 차 있습니다. 9학년 학생인 올리는 이미 학교 후의 삶을 <strong><span class='vocab-link' id='text-contemplating' onclick='speakAndScroll(\"contemplating\", \"vocab-contemplating\")'>숙고하고</span></strong> 있습니다. <b>그가</b> 충분한 돈을 <b>저축하면</b> 여행을 위해 휴학년을 <b>보낼 것입니다</b>. 그러나 그의 아버지는 그가 학업 시스템에 남아 곧바로 대학에 가서 경영학을 공부하길 원합니다. 반면에 펩과 같은 학생들은 이미 고등 교육의 현실을 <strong><span class='vocab-link' id='text-encountering' onclick='speakAndScroll(\"encountering\", \"vocab-encountering\")'>경험하고</span></strong> 있습니다. 순수 수학을 공부하는 것은 지적으로 힘든 일이며, 특히 그가 전체 학위를 영어로 <b>해야 하기</b> 때문입니다. 펩은 <b>그가</b> 필요한 성적을 <b>받으면</b> 자신의 열정을 따라 천체 물리학 석사 과정에 <b>지원할 것</b>임을 알고 있습니다.</p><p>대학毕业后에도 학습 과정은 결코 진정으로 끝나지 않습니다. 드냐는 프랑스에서 국제법을 공부했지만, 그녀는 그 과정이 매우 <strong><span class='vocab-link' id='text-theoretical' onclick='speakAndScroll(\"theoretical\", \"vocab-theoretical\")'>이론적</span></strong>이라고 느꼈습니다. 그녀는 일을 시작한 이후로 훨씬 더 많이 배웠다고 믿습니다. 그녀가 말하듯이, \"인생의 대학을 이길 수는 없어요.\" 이것은 우리가 학교에서 학문적 사실을 <b>배워야 했지만</b>, 실용적인 경험이 똑같이 중요하다는 것을 상기시켜 줍니다. <b>당신이</b> 열심히 <b>일하고</b> 성공에 대한 야심을 유지한다면, 모든 도전이 성장의 기회임을 <b>발견할 것입니다</b>. 우리가 만나는 교사와 지지하는 동료들도 우리의 발전에 중요한 역할을 합니다.</p><p>결론적으로, 시험의 스트레스, 인터넷의 <strong><span class='vocab-link' id='text-temptation' onclick='speakAndScroll(\"temptation\", \"vocab-temptation\")'>유혹</span></strong>, 또는 진로 선택의 압력을 다룰 때, 우리의 교육은 우리가 누구로 성장하는지 형성합니다. <b>우리가</b> 현대 기술과 전통적 가치를 모두 <strong><span class='vocab-link' id='text-embrace' onclick='speakAndScroll(\"embrace\", \"vocab-embrace\")'>수용한다면</span></strong>, 졸업 후 우리를 기다리는 다양한 세계에 더 잘 준비될 <b>것입니다</b>. 교육은 단순한 지식 습득이 아닙니다; 그것은 사회적 기술과 우리 자신의 미래에 대한 책임감을 발전시키는 것입니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "significantly",
+        "word": "Significantly",
+        "definition": "In a way that is large or important enough to be noticed."
+      },
+      {
+        "id": "plagiarism",
+        "word": "Plagiarism",
+        "definition": "Copying someone else's words or ideas and pretending they are your own."
+      },
+      {
+        "id": "sophisticated",
+        "word": "Sophisticated",
+        "definition": "Very advanced and using complex ideas or modern technology."
+      },
+      {
+        "id": "detect",
+        "word": "Detect",
+        "definition": "To notice or find something that is difficult to see or hidden."
+      },
+      {
+        "id": "contemplating",
+        "word": "Contemplating",
+        "definition": "Thinking deeply or carefully about something for a long time."
+      },
+      {
+        "id": "encountering",
+        "word": "Encountering",
+        "definition": "Experiencing or meeting something, especially a problem or a challenge."
+      },
+      {
+        "id": "theoretical",
+        "word": "Theoretical",
+        "definition": "Based on ideas and rules rather than on practical experience or use."
+      },
+      {
+        "id": "temptation",
+        "word": "Temptation",
+        "definition": "A strong feeling that you want to do something, even if you know it is wrong."
+      },
+      {
+        "id": "embrace",
+        "word": "Embrace",
+        "definition": "To eagerly accept a new idea, opinion, or way of doing something."
+      }
+    ],
+    "ja": [
+      {
+        "id": "significantly",
+        "word": "大幅に",
+        "definition": "目立つほど大きく、または重要な方法で。"
+      },
+      {
+        "id": "plagiarism",
+        "word": "盗作",
+        "definition": "他人の言葉やアイデアをコピーして、自分のものであるかのように装うこと。"
+      },
+      {
+        "id": "sophisticated",
+        "word": "洗練された",
+        "definition": "非常に進歩しており、複雑なアイデアや現代技術を使用している。"
+      },
+      {
+        "id": "detect",
+        "word": "検出する",
+        "definition": "見えにくいものや隠されているものに気づいたり見つけたりすること。"
+      },
+      {
+        "id": "contemplating",
+        "word": "熟考する",
+        "definition": "何かについて長い間深く考えたり慎重に考えたりすること。"
+      },
+      {
+        "id": "encountering",
+        "word": "遭遇する",
+        "definition": "特に問題や挑戦を経験したり出会ったりすること。"
+      },
+      {
+        "id": "theoretical",
+        "word": "理論的な",
+        "definition": "実際の経験や使用ではなく、アイデアや規則に基づいている。"
+      },
+      {
+        "id": "temptation",
+        "word": "誘惑",
+        "definition": "それが間違っているとわかっていても、何かをしたいという強い感情。"
+      },
+      {
+        "id": "embrace",
+        "word": "受け入れる",
+        "definition": "新しいアイデア、意見、または物事のやり方を熱心に受け入れること。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "significantly",
+        "word": "Considérablement",
+        "definition": "D'une manière suffisamment grande ou importante pour être remarquée."
+      },
+      {
+        "id": "plagiarism",
+        "word": "Plagiat",
+        "definition": "Copier les mots ou les idées de quelqu'un d'autre et prétendre qu'ils sont les siens."
+      },
+      {
+        "id": "sophisticated",
+        "word": "Sophistiqué",
+        "definition": "Très avancé et utilisant des idées complexes ou une technologie moderne."
+      },
+      {
+        "id": "detect",
+        "word": "Détecter",
+        "definition": "Remarquer ou trouver quelque chose qui est difficile à voir ou caché."
+      },
+      {
+        "id": "contemplating",
+        "word": "Envisager",
+        "definition": "Réfléchir profondément ou attentivement à quelque chose pendant longtemps."
+      },
+      {
+        "id": "encountering",
+        "word": "Rencontrer",
+        "definition": "Faire l'expérience ou rencontrer quelque chose, en particulier un problème ou un défi."
+      },
+      {
+        "id": "theoretical",
+        "word": "Théorique",
+        "definition": "Basé sur des idées et des règles plutôt que sur l'expérience ou l'utilisation pratique."
+      },
+      {
+        "id": "temptation",
+        "word": "Tentation",
+        "definition": "Un fort désir de faire quelque chose, même si l'on sait que c'est mal."
+      },
+      {
+        "id": "embrace",
+        "word": "Embrasser",
+        "definition": "Accepter avec enthousiasme une nouvelle idée, une opinion ou une façon de faire."
+      }
+    ],
+    "ko": [
+      {
+        "id": "significantly",
+        "word": "현저하게",
+        "definition": "눈에 띄게 크거나 중요할 정도로."
+      },
+      {
+        "id": "plagiarism",
+        "word": "표절",
+        "definition": "다른 사람의 말이나 아이디어를 복사하여 자신의 것인 것처럼 속이는 것."
+      },
+      {
+        "id": "sophisticated",
+        "word": "정교한",
+        "definition": "매우 발전되었으며 복잡한 아이디어나 현대 기술을 사용하는."
+      },
+      {
+        "id": "detect",
+        "word": "탐지하다",
+        "definition": "보기 어렵거나 숨겨진 것을 알아차리거나 찾다."
+      },
+      {
+        "id": "contemplating",
+        "word": "숙고하는",
+        "definition": "무언가에 대해 오랫동안 깊이 생각하는 것."
+      },
+      {
+        "id": "encountering",
+        "word": "경험하는",
+        "definition": "특히 문제나 도전을 경험하거나 만나는 것."
+      },
+      {
+        "id": "theoretical",
+        "word": "이론적인",
+        "definition": "실제 경험이나 사용보다는 아이디어와 규칙에 기반한."
+      },
+      {
+        "id": "temptation",
+        "word": "유혹",
+        "definition": "잘못된 것임을 알면서도 무언가를 하고 싶은 강한 느낌."
+      },
+      {
+        "id": "embrace",
+        "word": "수용하다",
+        "definition": "새로운 아이디어, 의견, 또는 방식을 열정적으로 받아들이는 것."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Rebecca's School Experience",
+        "label": "Conversation 1: Moving Schools",
+        "script": [
+          {
+            "speaker": "I",
+            "text": "So how did you find school when you came here?"
+          },
+          {
+            "speaker": "R",
+            "text": "A bit mixed. I made friends quickly. I knew a bit of Spanish and people were friendly, but I remember that to begin with, my brother just stood in the corner of the playground watching everyone play. It was sad!"
+          },
+          {
+            "speaker": "I",
+            "text": "But he made friends in the end?"
+          },
+          {
+            "speaker": "R",
+            "text": "Yeah."
+          },
+          {
+            "speaker": "I",
+            "text": "So you could speak Spanish?"
+          },
+          {
+            "speaker": "R",
+            "text": "A bit, but in class I hardly understood anything. It was horrible, but I sat with a girl that had an Australian dad and she sometimes translated for me."
+          },
+          {
+            "speaker": "I",
+            "text": "That's lucky. Were classes very different?"
+          },
+          {
+            "speaker": "R",
+            "text": "Primary was. For some reason, I did the last year of primary here, although I'd already done it in England."
+          },
+          {
+            "speaker": "I",
+            "text": "Were classes different?"
+          },
+          {
+            "speaker": "R",
+            "text": "Oh yeah. Basically, in primary in England we had the same teacher all day, but here we changed teachers. I liked some, but some were really boring! He just read from the book. We didn't use textbooks much in England - we did more group work and arty things."
+          },
+          {
+            "speaker": "I",
+            "text": "Right."
+          },
+          {
+            "speaker": "R",
+            "text": "And we had lots of homework! I hardly had any in primary in England - maybe some reading or sums and once a term we did a project. Here, I had loads - maybe an hour or more each night. I remember really crying about it."
+          },
+          {
+            "speaker": "I",
+            "text": "So which do you prefer?"
+          },
+          {
+            "speaker": "R",
+            "text": "It's difficult to say. Now I'm at secondary school. We finish at two o'clock every day and then we get almost three months off in the summer whereas in England my friends finish at four and they only get six weeks' summer holiday."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Ollie's Future Plans",
+        "label": "Conversation 2: Gap Year or University",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "So how's school, Ollie? Your father told me you're doing well."
+          },
+          {
+            "speaker": "B",
+            "text": "It's OK, I suppose. Some bits are good."
+          },
+          {
+            "speaker": "A",
+            "text": "Yeah? What're your favourite subjects?"
+          },
+          {
+            "speaker": "B",
+            "text": "Spanish and Art. And History's OK as well."
+          },
+          {
+            "speaker": "A",
+            "text": "And what year are you in now?"
+          },
+          {
+            "speaker": "B",
+            "text": "Year Nine."
+          },
+          {
+            "speaker": "A",
+            "text": "So how long have you got left?"
+          },
+          {
+            "speaker": "B",
+            "text": "Two more years."
+          },
+          {
+            "speaker": "A",
+            "text": "What are you going to do when you finish? Have you got any plans?"
+          },
+          {
+            "speaker": "B",
+            "text": "Well, if I can save enough money between now and then, I'll try and take a year off. Dad doesn't want me to, though."
+          },
+          {
+            "speaker": "A",
+            "text": "No?"
+          },
+          {
+            "speaker": "B",
+            "text": "No, he just wants me to stay in the system and go straight to university and study Business or something and graduate and become just like him."
+          },
+          {
+            "speaker": "A",
+            "text": "Yeah, well. He's probably just worried about you."
+          },
+          {
+            "speaker": "B",
+            "text": "Yeah, right. Whatever!"
+          }
+        ]
+      },
+      {
+        "title": "1-3. Pep's University Life",
+        "label": "Conversation 3: Pure Mathematics",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "So what course are you doing, Pep?"
+          },
+          {
+            "speaker": "D",
+            "text": "Pure Mathematics."
+          },
+          {
+            "speaker": "C",
+            "text": "Wow! OK. That sounds hard."
+          },
+          {
+            "speaker": "D",
+            "text": "Yeah, it can be, but I'm really enjoying it. To be honest, the most difficult thing for me is doing the whole degree in English, but my tutors are great. Everybody has been very supportive."
+          },
+          {
+            "speaker": "C",
+            "text": "What year are you in?"
+          },
+          {
+            "speaker": "D",
+            "text": "My third, unfortunately. I've got my finals next April!"
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, OK. Well, good luck!"
+          },
+          {
+            "speaker": "D",
+            "text": "Thanks!"
+          },
+          {
+            "speaker": "C",
+            "text": "What're you going to do after you graduate? Any plans?"
+          },
+          {
+            "speaker": "D",
+            "text": "Well, if I get the grades I want, I'll probably do a Master's somewhere."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, OK. What in? The same subject?"
+          },
+          {
+            "speaker": "D",
+            "text": "Maybe. I'm not sure. I'm thinking of maybe doing Astrophysics, actually."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, right. Have you applied anywhere yet?"
+          },
+          {
+            "speaker": "D",
+            "text": "No, I haven't, actually - not yet. But I probably should!"
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. レベッカの学校経験",
+        "label": "会話 1: 学校の転校",
+        "script": [
+          {
+            "speaker": "I",
+            "text": "それで、ここの学校はどうだった？"
+          },
+          {
+            "speaker": "R",
+            "text": "ちょっと複雑だったよ。友達はすぐにできた。スペイン語を少し知っていて、みんな親切だったけど、最初は弟が校庭の隅に立ってみんなが遊んでいるのを見ていただけだったんだ。悲しかったよ！"
+          },
+          {
+            "speaker": "I",
+            "text": "それでも最終的には友達ができたんだろ？"
+          },
+          {
+            "speaker": "R",
+            "text": "うん。"
+          },
+          {
+            "speaker": "I",
+            "text": "じゃあスペイン語は話せたの？"
+          },
+          {
+            "speaker": "R",
+            "text": "少しはね。でも授業ではほとんど何も理解できなかった。ひどかったけど、オーストラリア人のお父さんがいる女の子の隣に座っていて、彼女が時々通訳してくれたんだ。"
+          },
+          {
+            "speaker": "I",
+            "text": "それはラッキーだったね。授業はとても違った？"
+          },
+          {
+            "speaker": "R",
+            "text": "小学校はそうだったよ。どういうわけか、ここで小学校の最後の年を過ごしたんだ。イギリスではもう終わっていたのに。"
+          },
+          {
+            "speaker": "I",
+            "text": "授業は違ったの？"
+          },
+          {
+            "speaker": "R",
+            "text": "そうそう。基本的にイギリスの小学校では一日中同じ先生だったけど、ここでは先生が変わったんだ。好きな先生もいたけど、すごく退屈な先生もいたよ！ただ本を読むだけだった。イギリスでは教科書をあまり使わなかったんだ - グループワークや芸術的なことをもっとやっていたよ。"
+          },
+          {
+            "speaker": "I",
+            "text": "なるほど。"
+          },
+          {
+            "speaker": "R",
+            "text": "それに宿題がたくさんあったんだ！イギリスの小学校ではほとんどなかったよ - 読書か計算、学期に一度プロジェクトをするくらいだった。ここではたくさんあった - 毎晩1時間以上。本当に泣いたのを覚えているよ。"
+          },
+          {
+            "speaker": "I",
+            "text": "じゃあどっちが好き？"
+          },
+          {
+            "speaker": "R",
+            "text": "簡単には言えないよ。今は中学校に通っているんだ。毎日2時に終わって、夏にはほぼ3ヶ月の休みがあるけど、イギリスの友達は4時に終わって夏休みはたったの6週間しかないんだ。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. オリの将来計画",
+        "label": "会話 2: ギャップイヤーか大学か",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "オリ、学校はどう？お父さんがうまくやっているって言ってたよ。"
+          },
+          {
+            "speaker": "B",
+            "text": "まあまあかな。いい部分もあるよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "そうなの？好きな科目は何？"
+          },
+          {
+            "speaker": "B",
+            "text": "スペイン語と美術。歴史もまあまあかな。"
+          },
+          {
+            "speaker": "A",
+            "text": "今は何年生？"
+          },
+          {
+            "speaker": "B",
+            "text": "9年生。"
+          },
+          {
+            "speaker": "A",
+            "text": "じゃあ、あとどれくらいあるの？"
+          },
+          {
+            "speaker": "B",
+            "text": "あと2年。"
+          },
+          {
+            "speaker": "A",
+            "text": "卒業したら何をするつもり？何か計画はあるの？"
+          },
+          {
+            "speaker": "B",
+            "text": "うーん、それまでにお金を十分に貯められたら、1年休みを取って旅行してみるよ。でもお父さんはそれを望んでいないんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "そうなの？"
+          },
+          {
+            "speaker": "B",
+            "text": "うん、彼はただ僕にシステムに留まって、すぐに大学に行ってビジネスか何かを学び、卒業して彼のようになってほしいだけなんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "そうか。彼はただ君のことを心配しているだけだろう。"
+          },
+          {
+            "speaker": "B",
+            "text": "そうだね、わかってるよ。でもね！"
+          }
+        ]
+      },
+      {
+        "title": "1-3. ペップの大学生活",
+        "label": "会話 3: 純粋数学",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "ペップ、何を専攻しているの？"
+          },
+          {
+            "speaker": "D",
+            "text": "純粋数学だよ。"
+          },
+          {
+            "speaker": "C",
+            "text": "わあ！そうなんだ。それは難しそうだね。"
+          },
+          {
+            "speaker": "D",
+            "text": "うん、そうかもしれないけど、本当に楽しんでいるんだ。正直言って、一番難しいのは学位全体を英語で取得することだけど、先生たちは素晴らしいんだ。みんなとても協力的だよ。"
+          },
+          {
+            "speaker": "C",
+            "text": "何年生？"
+          },
+          {
+            "speaker": "D",
+            "text": "3年生だよ、残念ながら。来年の4月に最終試験があるんだ！"
+          },
+          {
+            "speaker": "C",
+            "text": "そうなんだ。頑張ってね！"
+          },
+          {
+            "speaker": "D",
+            "text": "ありがとう！"
+          },
+          {
+            "speaker": "C",
+            "text": "卒業したら何をするつもり？何か計画はある？"
+          },
+          {
+            "speaker": "D",
+            "text": "うーん、希望の成績を取れたら、どこかで修士号を取ると思うよ。"
+          },
+          {
+            "speaker": "C",
+            "text": "そうなんだ。何の専攻で？同じ科目？"
+          },
+          {
+            "speaker": "D",
+            "text": "かもしれないね。よくわからないんだ。実は、天体物理学をやろうかなって考えているんだ。"
+          },
+          {
+            "speaker": "C",
+            "text": "そうなんだ。もうどこかに出願したの？"
+          },
+          {
+            "speaker": "D",
+            "text": "いや、実はまだなんだ。でも出願すべきだよね！"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. L'expérience scolaire de Rebecca",
+        "label": "Conversation 1: Changer d'école",
+        "script": [
+          {
+            "speaker": "I",
+            "text": "Alors, comment as-tu trouvé l'école quand tu es arrivée ici ?"
+          },
+          {
+            "speaker": "R",
+            "text": "Un peu mitigé. Je me suis fait des amis rapidement. Je connaissais un peu d'espagnol et les gens étaient sympathiques, mais je me souviens qu'au début, mon frère se tenait juste dans le coin de la cour de récréation à regarder tout le monde jouer. C'était triste !"
+          },
+          {
+            "speaker": "I",
+            "text": "Mais il s'est fait des amis à la fin ?"
+          },
+          {
+            "speaker": "R",
+            "text": "Oui."
+          },
+          {
+            "speaker": "I",
+            "text": "Donc tu pouvais parler espagnol ?"
+          },
+          {
+            "speaker": "R",
+            "text": "Un peu, mais en classe je ne comprenais presque rien. C'était horrible, mais j'étais assise à côté d'une fille dont le père était australien et elle traduisait parfois pour moi."
+          },
+          {
+            "speaker": "I",
+            "text": "C'est chanceux. Les cours étaient très différents ?"
+          },
+          {
+            "speaker": "R",
+            "text": "Pour le primaire, oui. Pour une raison quelconque, j'ai fait la dernière année de primaire ici, même si je l'avais déjà faite en Angleterre."
+          },
+          {
+            "speaker": "I",
+            "text": "Les cours étaient différents ?"
+          },
+          {
+            "speaker": "R",
+            "text": "Oh oui. Fondamentalement, en primaire en Angleterre, nous avions le même professeur toute la journée, mais ici nous changions de professeur. J'en aimais certains, mais d'autres étaient vraiment ennuyeux ! Il lisait juste dans le livre. Nous n'utilisions pas beaucoup les manuels en Angleterre - nous faisions plus de travaux de groupe et de choses artistiques."
+          },
+          {
+            "speaker": "I",
+            "text": "D'accord."
+          },
+          {
+            "speaker": "R",
+            "text": "Et nous avions beaucoup de devoirs ! Je n'en avais presque pas en primaire en Angleterre - peut-être un peu de lecture ou des calculs et une fois par trimestre nous faisions un projet. Ici, j'en avais beaucoup - peut-être une heure ou plus chaque nuit. Je me souviens avoir vraiment pleuré à ce sujet."
+          },
+          {
+            "speaker": "I",
+            "text": "Alors, que préfères-tu ?"
+          },
+          {
+            "speaker": "R",
+            "text": "C'est difficile à dire. Maintenant je suis au collège. Nous finissons à deux heures chaque jour et nous avons presque trois mois de vacances en été alors qu'en Angleterre mes amis finissent à quatre heures et ils n'ont que six semaines de vacances d'été."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Les projets d'avenir d'Ollie",
+        "label": "Conversation 2: Année sabbatique ou université",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Alors, comment va l'école, Ollie ? Ton père m'a dit que tu te débrouillais bien."
+          },
+          {
+            "speaker": "B",
+            "text": "Ça va, je suppose. Certains aspects sont bons."
+          },
+          {
+            "speaker": "A",
+            "text": "Oui ? Quelles sont tes matières préférées ?"
+          },
+          {
+            "speaker": "B",
+            "text": "L'espagnol et l'art. Et l'histoire est pas mal aussi."
+          },
+          {
+            "speaker": "A",
+            "text": "Et tu es en quelle année maintenant ?"
+          },
+          {
+            "speaker": "B",
+            "text": "En neuvième année."
+          },
+          {
+            "speaker": "A",
+            "text": "Alors, combien de temps te reste-t-il ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Deux ans de plus."
+          },
+          {
+            "speaker": "A",
+            "text": "Qu'est-ce que tu vas faire quand tu auras fini ? Tu as des projets ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Eh bien, si je peux économiser assez d'argent d'ici là, je vais essayer de prendre une année sabbatique. Mais mon père ne veut pas."
+          },
+          {
+            "speaker": "A",
+            "text": "Non ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Non, il veut juste que je reste dans le système et que j'aille directement à l'université pour étudier le commerce ou quelque chose comme ça, que j'obtienne mon diplôme et que je devienne comme lui."
+          },
+          {
+            "speaker": "A",
+            "text": "Oui, eh bien. Il s'inquiète probablement pour toi."
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, c'est ça. Peu importe !"
+          }
+        ]
+      },
+      {
+        "title": "1-3. La vie universitaire de Pep",
+        "label": "Conversation 3: Mathématiques pures",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "Alors, quel cours suis-tu, Pep ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Mathématiques pures."
+          },
+          {
+            "speaker": "C",
+            "text": "Wow ! D'accord. Ça a l'air difficile."
+          },
+          {
+            "speaker": "D",
+            "text": "Oui, ça peut l'être, mais j'aime vraiment ça. Pour être honnête, la chose la plus difficile pour moi est de faire tout mon diplôme en anglais, mais mes tuteurs sont formidables. Tout le monde a été très solidaire."
+          },
+          {
+            "speaker": "C",
+            "text": "Tu es en quelle année ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Ma troisième, malheureusement. J'ai mes examens finaux en avril prochain !"
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, d'accord. Bonne chance !"
+          },
+          {
+            "speaker": "D",
+            "text": "Merci !"
+          },
+          {
+            "speaker": "C",
+            "text": "Qu'est-ce que tu vas faire après l'obtention de ton diplôme ? Des projets ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Eh bien, si j'obtiens les notes que je veux, je ferai probablement un master quelque part."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, d'accord. Dans quoi ? Le même sujet ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Peut-être. Je ne suis pas sûr. En fait, je pense peut-être faire de l'astrophysique."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, d'accord. Tu as postulé quelque part ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Non, pas encore, en fait. Mais je devrais probablement le faire !"
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 레베카의 학교 경험",
+        "label": "대화 1: 학교 전학",
+        "script": [
+          {
+            "speaker": "I",
+            "text": "그래, 여기 학교는 어땠어?"
+          },
+          {
+            "speaker": "R",
+            "text": "좀 그랬어. 친구는 빨리 사귀었어. 스페인어를 조금 알았고 사람들이 친절했지만, 처음에는 내 남동생이 운동장 구석에 서서 모두가 노는 걸 보고 있었어. 슬펐어!"
+          },
+          {
+            "speaker": "I",
+            "text": "그래도 결국 친구를 사귀었잖아?"
+          },
+          {
+            "speaker": "R",
+            "text": "응."
+          },
+          {
+            "speaker": "I",
+            "text": "그럼 스페인어를 할 수 있었어?"
+          },
+          {
+            "speaker": "R",
+            "text": "조금, 하지만 수업 시간에는 거의 이해하지 못했어. 끔찍했지만, 호주인 아빠를 둔 여자아이 옆에 앉았는데 그녀가 가끔 번역해 줬어."
+          },
+          {
+            "speaker": "I",
+            "text": "운이 좋았네. 수업은 많이 달랐어?"
+          },
+          {
+            "speaker": "R",
+            "text": "초등학교는 그랬어. 왠지 모르게 나는 여기서 초등학교 마지막 학년을 보냈는데, 이미 영국에서 다 했었거든."
+          },
+          {
+            "speaker": "I",
+            "text": "수업이 달랐어?"
+          },
+          {
+            "speaker": "R",
+            "text": "응. 기본적으로 영국 초등학교에서는 하루 종일 같은 선생님이 있었지만, 여기서는 선생님이 바뀌었어. 어떤 선생님은 좋았지만, 어떤 선생님은 정말 지루했어! 그냥 책에서 읽기만 하셨어. 영국에서는 교과서를 많이 사용하지 않았어 - 우리는 그룹 활동과 예술적인 활동을 더 많이 했어."
+          },
+          {
+            "speaker": "I",
+            "text": "그렇구나."
+          },
+          {
+            "speaker": "R",
+            "text": "그리고 숙제가 많았어! 영국 초등학교에서는 거의 없었어 - 아마 읽기나 계산, 그리고 한 학기에 한 번 프로젝트를 했을 뿐이야. 여기서는 많았어 - 매일 밤 한 시간 이상씩. 정말 울었던 기억이 나."
+          },
+          {
+            "speaker": "I",
+            "text": "그럼 어느 쪽이 더 좋아?"
+          },
+          {
+            "speaker": "R",
+            "text": "말하기 어려워. 지금은 중학교에 다니고 있어. 매일 2시에 끝나고 여름에 거의 3개월의 휴가가 있는데 반해 영국 친구들은 4시에 끝나고 여름 방학이 6주밖에 없어."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 올리의 미래 계획",
+        "label": "대화 2: 휴학년 아니면 대학",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "올리, 학교 어때? 네 아버지가 잘하고 있다고 하시더라."
+          },
+          {
+            "speaker": "B",
+            "text": "괜찮아, 그런 것 같아. 어떤 부분은 좋아."
+          },
+          {
+            "speaker": "A",
+            "text": "그래? 가장 좋아하는 과목이 뭐니?"
+          },
+          {
+            "speaker": "B",
+            "text": "스페인어와 미술. 역사도 괜찮아."
+          },
+          {
+            "speaker": "A",
+            "text": "지금 몇 학년이니?"
+          },
+          {
+            "speaker": "B",
+            "text": "9학년."
+          },
+          {
+            "speaker": "A",
+            "text": "그럼 얼마나 남았어?"
+          },
+          {
+            "speaker": "B",
+            "text": "2년 더."
+          },
+          {
+            "speaker": "A",
+            "text": "졸업하고 나서 뭘 할 거니? 계획 있어?"
+          },
+          {
+            "speaker": "B",
+            "text": "음, 그때까지 돈을 충분히 저축할 수 있다면, 1년 휴학하고 여행할 생각이야. 아빠는 원하지 않으시지만."
+          },
+          {
+            "speaker": "A",
+            "text": "그래?"
+          },
+          {
+            "speaker": "B",
+            "text": "아니, 아빠는 내가 시스템에 계속 남아서 바로 대학에 가서 경영학이나 그런 걸 공부하고 졸업해서 아빠처럼 되길 바라셔."
+          },
+          {
+            "speaker": "A",
+            "text": "음, 그가 널 걱정하는 것 같아."
+          },
+          {
+            "speaker": "B",
+            "text": "그래, 알았어. 뭐!"
+          }
+        ]
+      },
+      {
+        "title": "1-3. 펩의 대학 생활",
+        "label": "대화 3: 순수 수학",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "펩, 무슨 전공이야?"
+          },
+          {
+            "speaker": "D",
+            "text": "순수 수학."
+          },
+          {
+            "speaker": "C",
+            "text": "와! 그래. 어렵겠다."
+          },
+          {
+            "speaker": "D",
+            "text": "응, 그럴 수 있어, 하지만 정말 즐기고 있어. 솔직히 가장 어려운 점은 전체 학위를 영어로 해야 한다는 거야, 하지만 교수님들이 훌륭하셔. 모두가 매우 지지해 주셨어."
+          },
+          {
+            "speaker": "C",
+            "text": "몇 학년이야?"
+          },
+          {
+            "speaker": "D",
+            "text": "3학년이야, 불행하게도. 내년 4월에 기말고사가 있어!"
+          },
+          {
+            "speaker": "C",
+            "text": "오, 그래. 행운을 빌어!"
+          },
+          {
+            "speaker": "D",
+            "text": "고마워!"
+          },
+          {
+            "speaker": "C",
+            "text": "졸업하고 나서 뭘 할 거야? 계획 있어?"
+          },
+          {
+            "speaker": "D",
+            "text": "음, 원하는 성적을 받으면, 어딘가에서 석사 과정을 밟을 거야."
+          },
+          {
+            "speaker": "C",
+            "text": "오, 그래. 무슨 전공으로? 같은 과목?"
+          },
+          {
+            "speaker": "D",
+            "text": "아마도. 잘 모르겠어. 사실 천체 물리학을 생각하고 있어."
+          },
+          {
+            "speaker": "C",
+            "text": "오, 그래. 어디 지원했어?"
+          },
+          {
+            "speaker": "D",
+            "text": "아니, 아직 안 했어. 하지만 해야 할 것 같아!"
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "A WEB OF LIES?",
+    "ja": "嘘のウェブ？",
+    "fr": "UN WEB DE MENSONGES ?",
+    "ko": "거짓말의 웹?"
+  },
+  "extra_reading_html": {
+    "en": "<p>Jane Wilshere explores the effect that the World Wide Web is having on school life. The incredible growth of the Internet over recent years has caused problems for parents and teachers. Parents worry about which sites their children spend time on, while for teachers, the main worry is the way the <b>Internet makes cheating easier</b>!</p><p>Schools and universities say there has been a huge increase in <b>plagiarism</b> – taking other people's words and ideas and pretending that they are your own. In the past, anyone who wanted to copy <b>had to go to a library</b>, find the right books, read through them, find the sections they needed and then physically write down the words they wanted to use.</p><p>Nowadays, though, students can simply copy extracts from websites. Despite all this, we shouldn't assume that the Internet only brings problems. Indeed, <b>you could say</b> that for every problem the Internet creates, it also brings a solution. New software now helps teachers to detect copied work immediately.</p><p>\"Some students suddenly start using words they can't possibly understand,\" explains one teacher. \"In fact, one of my students recently gave me an essay he'd copied from the Web and it even <b>contained Web advertisements</b> – AND the name of the original author!\"</p><p>As more and more schools install computers, the role of the teacher is changing. Making sure students don't just copy things and do learn how to quote work properly is part of their job. My 13-year-old son is currently working on a project about trees in our town. <b>He has to photograph them</b> and write about their characteristics.</p><p>This is all uploaded onto a website, and his group discusses their work online. <b>If they finish the project</b>, they <b>will give a PowerPoint presentation</b> about their ideas to the class. Instead of helping him cheat, the Web is actually helping him learn about school subjects, while also developing his life skills!</p>",
+    "ja": "<p>ジェーン・ウィルシャーは、ワールドワイドウェブが学校生活に与える影響を探っています。近年のインターネットの驚異的な成長は、親や教師に問題を引き起こしています。親は子供がどのサイトに時間を費やしているかを心配し、教師にとっての主な心配は、<b>インターネットがカンニングを容易にする</b>方法です！</p><p>学校や大学は、<b>盗作</b>が大幅に増加していると述べています。他の人の言葉やアイデアを自分のものとして使用することです。過去にコピーしたい人は、<b>図書館に行かなければならず</b>、適切な本を見つけ、それらを読み通し、必要なセクションを見つけ、使用したい単語を物理的に書き留める必要がありました。</p><p>しかし今日では、学生は単にウェブサイトから抜粋をコピーできます。これにもかかわらず、インターネットが問題だけをもたらすと仮定すべきではありません。実際、インターネットが作り出すすべての問題に対して、それは解決策ももたらすと<b>言えるでしょう</b>。新しいソフトウェアは、教師がコピーされた作業を即座に検出するのに役立ちます。</p><p>「一部の学生は突然、理解できない単語を使い始めます」とある教師は説明します。「実際、最近私の学生の一人がウェブからコピーしたエッセイを私に渡しましたが、それには<b>ウェブ広告が含まれて</b>おり、元の著者の名前も含まれていました！」</p><p>ますます多くの学校がコンピューターを設置するにつれて、教師の役割は変化しています。学生が単に物をコピーしないようにし、作業を適切に引用する方法を学ぶようにすることは、彼らの仕事の一部です。私の13歳の息子は現在、私たちの町の木に関するプロジェクトに取り組んでいます。<b>それらを写真に撮り</b>、その特性について書かなければなりません。</p><p>これはすべてウェブサイトにアップロードされ、彼のグループはオンラインで作業について話し合います。<b>プロジェクトを完了すれば</b>、彼らは<b>パワーポイントのプレゼンテーション</b>で自分のアイデアをクラスに発表<b>するでしょう</b>。ウェブは彼のカンニングを助ける代わりに、実際に彼が学校の科目を学び、同時に生活スキルを開発するのを助けています！</p>",
+    "fr": "<p>Jane Wilshere explore l'effet que le World Wide Web a sur la vie scolaire. La croissance incroyable d'Internet ces dernières années a causé des problèmes aux parents et aux enseignants. Les parents s'inquiètent des sites sur lesquels leurs enfants passent du temps, tandis que pour les enseignants, la principale préoccupation est la façon dont <b>Internet facilite la tricherie</b> !</p><p>Les écoles et les universités affirment qu'il y a eu une énorme augmentation du <b>plagiat</b> – prendre les mots et les idées d'autres personnes et prétendre qu'ils sont les vôtres. Dans le passé, quiconque voulait copier <b>devait aller à la bibliothèque</b>, trouver les bons livres, les lire, trouver les sections dont il avait besoin, puis écrire physiquement les mots qu'il voulait utiliser.</p><p>Aujourd'hui, cependant, les étudiants peuvent simplement copier des extraits de sites Web. Malgré tout cela, nous ne devons pas supposer qu'Internet n'apporte que des problèmes. En effet, <b>on pourrait dire</b> que pour chaque problème qu'Internet crée, il apporte aussi une solution. Un nouveau logiciel aide désormais les enseignants à détecter immédiatement les travaux copiés.</p><p>« Certains étudiants commencent soudainement à utiliser des mots qu'ils ne peuvent pas comprendre », explique un enseignant. « En fait, un de mes étudiants m'a récemment donné une dissertation qu'il avait copiée sur le Web et elle <b>contenait même des publicités Web</b> – ET le nom de l'auteur original ! »</p><p>Alors que de plus en plus d'écoles installent des ordinateurs, le rôle de l'enseignant change. S'assurer que les étudiants ne se contentent pas de copier et qu'ils apprennent à citer correctement le travail fait partie de leur travail. Mon fils de 13 ans travaille actuellement sur un projet concernant les arbres de notre ville. <b>Il doit les photographier</b> et écrire sur leurs caractéristiques.</p><p>Tout cela est téléchargé sur un site Web, et son groupe discute de son travail en ligne. <b>S'ils terminent le projet</b>, ils <b>feront une présentation PowerPoint</b> de leurs idées à la classe. Au lieu de l'aider à tricher, le Web l'aide réellement à apprendre les matières scolaires, tout en développant ses compétences de vie !</p>",
+    "ko": "<p>제인 윌셔는 월드 와이드 웹이 학교 생활에 미치는 영향을 탐구합니다. 최근 몇 년간 인터넷의 놀라운 성장은 학부모와 교사들에게 문제를 일으켰습니다. 학부모들은 자녀들이 어떤 사이트에 시간을 보내는지 걱정하는 반면, 교사들에게 주요 걱정은 <b>인터넷이 부정행위를 더 쉽게 만든다는 점</b>입니다!</p><p>학교와 대학에서는 <b>표절</b>이 크게 증가했다고 말합니다 - 다른 사람의 말과 아이디어를 가져와 자신의 것인 것처럼 속이는 것입니다. 과거에 복사하고 싶은 사람은 도서관에 <b>가야 했고</b>, 적절한 책을 찾고, 읽어보고, 필요한 부분을 찾은 다음 사용하고 싶은 단어를 물리적으로 적어야 했습니다.</p><p>그러나 오늘날 학생들은 단순히 웹사이트에서 발췌한 내용을 복사할 수 있습니다. 그럼에도 불구하고 우리는 인터넷이 문제만 가져온다고 가정해서는 안 됩니다. 실제로 인터넷이 만드는 모든 문제에 대해 그것은 또한 해결책을 가져온다고 <b>말할 수 있습니다</b>. 새로운 소프트웨어는 이제 교사가 복사된 작업을 즉시 탐지하는 데 도움이 됩니다.</p><p>\"일부 학생들은 갑자기 이해할 수 없는 단어를 사용하기 시작합니다\"라고 한 교사는 설명합니다. \"사실, 제 학생 중 한 명이 최근에 웹에서 복사한 에세이를 제출했는데 <b>웹 광고가 포함되어 있었고</b> 원저자의 이름도 있었습니다!\"</p><p>점점 더 많은 학교가 컴퓨터를 설치함에 따라 교사의 역할이 변화하고 있습니다. 학생들이 단순히 복사하지 않고 작업을 적절히 인용하는 방법을 배우도록 하는 것이 그들의 업무의 일부입니다. 제 13세 아들은 현재 우리 마을의 나무에 관한 프로젝트를 진행하고 있습니다. <b>그것들을 사진으로 찍고</b> 그 특성에 대해 글을 써야 합니다.</p><p>이 모든 것은 웹사이트에 업로드되며, 그의 그룹은 온라인에서 작업에 대해 논의합니다. <b>프로젝트를 완료하면</b> 그들은 수업 시간에 자신들의 아이디어에 대한 <b>파워포인트 프레젠테이션을 할 것입니다</b>. 웹은 그가 부정행위를 하도록 돕는 대신, 실제로 그가 학교 과목에 대해 배우는 동시에 그의 생활 기술을 개발하도록 돕고 있습니다!</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Plagiarism means taking someone else's ideas and pretending they are your own.",
+        "correct": "T",
+        "explanation": "True (Plagiarism is defined as taking other people's words and ideas and pretending they are your own.)"
+      },
+      {
+        "question": "In the past, students had to use the Internet to find books in the library.",
+        "correct": "F",
+        "explanation": "False (In the past, students had to physically go to a library and write down words by hand without the Internet.)"
+      },
+      {
+        "question": "Teachers can use new software to detect if a student has copied work from the Web.",
+        "correct": "T",
+        "explanation": "True (The text mentions that new software helps teachers to detect copied work immediately.)"
+      },
+      {
+        "question": "The author believes the Internet only brings problems to school life and has no solutions.",
+        "correct": "F",
+        "explanation": "False (The author states that we shouldn't assume the Internet only brings problems; it also brings solutions.)"
+      },
+      {
+        "question": "If the author's son finishes his project, his group will give a PowerPoint presentation.",
+        "correct": "T",
+        "explanation": "True (The text says they will give a PowerPoint presentation about their ideas to the class.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "盗作とは、他人のアイデアを自分のもののように装うことを意味します。",
+        "correct": "T",
+        "explanation": "真 (盗作は、他人の言葉やアイデアを自分のもののように装うことと定義されます。)"
+      },
+      {
+        "question": "昔は、図書館で本を見つけるためにインターネットを使わなければなりませんでした。",
+        "correct": "F",
+        "explanation": "偽 (昔は、学生は物理的に図書館に行き、インターネットなしで手で単語を書き留めなければなりませんでした。)"
+      },
+      {
+        "question": "教師は新しいソフトウェアを使って、学生がウェブからコピーしたかどうかを検出できます。",
+        "correct": "T",
+        "explanation": "真 (本文では、新しいソフトウェアが教師がコピーされた作業を即座に検出するのに役立つと述べられています。)"
+      },
+      {
+        "question": "著者は、インターネットは学校生活に問題だけをもたらし、解決策はないと信じています。",
+        "correct": "F",
+        "explanation": "偽 (著者は、インターネットが問題だけをもたらすと仮定すべきではないと述べています；それは解決策ももたらします。)"
+      },
+      {
+        "question": "著者の息子がプロジェクトを完了すれば、彼のグループはパワーポイントのプレゼンテーションを行います。",
+        "correct": "T",
+        "explanation": "真 (本文では、彼らは自分のアイデアについてクラスでパワーポイントのプレゼンテーションを行うと述べられています。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Le plagiat signifie prendre les idées de quelqu'un d'autre et prétendre qu'elles sont les vôtres.",
+        "correct": "T",
+        "explanation": "Vrai (Le plagiat est défini comme le fait de prendre les mots et les idées d'autres personnes et de prétendre qu'ils sont les vôtres.)"
+      },
+      {
+        "question": "Dans le passé, les étudiants devaient utiliser Internet pour trouver des livres à la bibliothèque.",
+        "correct": "F",
+        "explanation": "Faux (Dans le passé, les étudiants devaient physiquement aller à la bibliothèque et écrire les mots à la main sans Internet.)"
+      },
+      {
+        "question": "Les enseignants peuvent utiliser un nouveau logiciel pour détecter si un étudiant a copié du travail sur le Web.",
+        "correct": "T",
+        "explanation": "Vrai (Le texte mentionne qu'un nouveau logiciel aide les enseignants à détecter immédiatement les travaux copiés.)"
+      },
+      {
+        "question": "L'auteur croit qu'Internet n'apporte que des problèmes à la vie scolaire et n'a pas de solutions.",
+        "correct": "F",
+        "explanation": "Faux (L'auteur déclare que nous ne devons pas supposer qu'Internet n'apporte que des problèmes ; il apporte aussi des solutions.)"
+      },
+      {
+        "question": "Si le fils de l'auteur termine son projet, son groupe fera une présentation PowerPoint.",
+        "correct": "T",
+        "explanation": "Vrai (Le texte dit qu'ils feront une présentation PowerPoint de leurs idées à la classe.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "표절은 다른 사람의 아이디어를 가져와 자신의 것인 것처럼 속이는 것을 의미한다.",
+        "correct": "T",
+        "explanation": "참 (표절은 다른 사람의 말과 아이디어를 가져와 자신의 것인 것처럼 속이는 것으로 정의됩니다.)"
+      },
+      {
+        "question": "과거에는 학생들이 도서관에서 책을 찾기 위해 인터넷을 사용해야 했다.",
+        "correct": "F",
+        "explanation": "거짓 (과거에는 학생들이 물리적으로 도서관에 가서 인터넷 없이 손으로 단어를 적어야 했습니다.)"
+      },
+      {
+        "question": "교사는 새로운 소프트웨어를 사용하여 학생이 웹에서 작업을 복사했는지 탐지할 수 있다.",
+        "correct": "T",
+        "explanation": "참 (본문에서는 새로운 소프트웨어가 교사가 복사된 작업을 즉시 탐지하는 데 도움이 된다고 언급합니다.)"
+      },
+      {
+        "question": "저자는 인터넷이 학교 생활에 문제만 가져오고 해결책은 없다고 믿는다.",
+        "correct": "F",
+        "explanation": "거짓 (저자는 인터넷이 문제만 가져온다고 가정해서는 안 된다고 말합니다; 그것은 또한 해결책도 가져옵니다.)"
+      },
+      {
+        "question": "저자의 아들이 프로젝트를 완료하면 그의 그룹이 파워포인트 프레젠테이션을 할 것이다.",
+        "correct": "T",
+        "explanation": "참 (본문에서는 그들이 수업 시간에 자신들의 아이디어에 대한 파워포인트 프레젠테이션을 할 것이라고 말합니다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "increase in plagiarism",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "copy extracts from websites",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Schools say there has been a huge increase in plagiarism as students copy extracts from websites.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "detect copied work",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "immediately",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "New software now helps teachers to detect copied work immediately.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Despite the increase in plagiarism from those who copy extracts from websites, technology can now detect copied work immediately.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "working on a project",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "quote work properly",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Students working on a project must learn how to quote work properly.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "give a PowerPoint presentation",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "developing life skills",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "They will give a PowerPoint presentation while developing life skills.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "By working on a project, students learn to quote work properly and give a PowerPoint presentation, effectively developing life skills.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Although there is an increase in plagiarism because students copy extracts from websites, teachers can detect copied work immediately. When working on a project, it is important to quote work properly and give a PowerPoint presentation to focus on developing life skills.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "盗作の増加",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "ウェブサイトからの抜粋のコピー",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "学校は、学生がウェブサイトから抜粋をコピーするにつれて、盗作が大幅に増加していると言っています。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "コピーされた作業の検出",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "即座に",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "新しいソフトウェアは、教師がコピーされた作業を即座に検出するのに役立ちます。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "ウェブサイトから抜粋をコピーする人々による盗作の増加にもかかわらず、技術は現在、コピーされた作業を即座に検出できます。",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "プロジェクトに取り組む",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "作業を適切に引用する",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "プロジェクトに取り組む学生は、作業を適切に引用する方法を学ばなければなりません。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "パワーポイントのプレゼンテーションを行う",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "生活スキルの開発",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "彼らは生活スキルを開発しながらパワーポイントのプレゼンテーションを行います。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "プロジェクトに取り組むことで、学生は作業を適切に引用し、パワーポイントのプレゼンテーションを行い、効果的に生活スキルを開発することを学びます。",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "学生がウェブサイトから抜粋をコピーするため盗作が増加していますが、教師はコピーされた作業を即座に検出できます。プロジェクトに取り組む際には、生活スキルの開発に焦点を当てるために、作業を適切に引用し、パワーポイントのプレゼンテーションを行うことが重要です。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "augmentation du plagiat",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "copier des extraits de sites Web",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Les écoles disent qu'il y a eu une énorme augmentation du plagiat car les étudiants copient des extraits de sites Web.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "détecter le travail copié",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "immédiatement",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Un nouveau logiciel aide désormais les enseignants à détecter immédiatement les travaux copiés.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Malgré l'augmentation du plagiat de la part de ceux qui copient des extraits de sites Web, la technologie peut désormais détecter immédiatement les travaux copiés.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "travailler sur un projet",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "citer correctement le travail",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Les étudiants travaillant sur un projet doivent apprendre à citer correctement le travail.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "faire une présentation PowerPoint",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "développer des compétences de vie",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Ils feront une présentation PowerPoint tout en développant des compétences de vie.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "En travaillant sur un projet, les étudiants apprennent à citer correctement le travail et à faire une présentation PowerPoint, développant ainsi efficacement leurs compétences de vie.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bien qu'il y ait une augmentation du plagiat parce que les étudiants copient des extraits de sites Web, les enseignants peuvent détecter immédiatement les travaux copiés. Lorsqu'ils travaillent sur un projet, il est important de citer correctement le travail et de faire une présentation PowerPoint pour se concentrer sur le développement des compétences de vie.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "표절 증가",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "웹사이트에서 발췌 복사",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "학교들은 학생들이 웹사이트에서 발췌한 내용을 복사함에 따라 표절이 크게 증가했다고 말합니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "복사된 작업 탐지",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "즉시",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "새로운 소프트웨어는 이제 교사가 복사된 작업을 즉시 탐지하는 데 도움이 됩니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "웹사이트에서 발췌한 내용을 복사하는 사람들로 인한 표절 증가에도 불구하고, 기술은 이제 복사된 작업을 즉시 탐지할 수 있습니다.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "프로젝트 작업",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "작업을 적절히 인용",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "프로젝트를 진행하는 학생들은 작업을 적절히 인용하는 방법을 배워야 합니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "파워포인트 프레젠테이션",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "생활 기술 개발",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "그들은 생활 기술을 개발하면서 파워포인트 프레젠테이션을 할 것입니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "프로젝트를 진행함으로써 학생들은 작업을 적절히 인용하고 파워포인트 프레젠테이션을 하는 방법을 배우며, 효과적으로 생활 기술을 개발합니다.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "학생들이 웹사이트에서 발췌한 내용을 복사하기 때문에 표절이 증가하지만, 교사는 복사된 작업을 즉시 탐지할 수 있습니다. 프로젝트를 진행할 때는 생활 기술 개발에 집중하기 위해 작업을 적절히 인용하고 파워포인트 프레젠테이션을 하는 것이 중요합니다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Past Necessity and Ability (had to / could)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• had to</strong>: Used to express an obligation or necessity in the past (The past of 'must' or 'have to').</p><p style='margin:5px 0;'><strong>• could</strong>: Used to express a general ability or permission in the past (The past of 'can').</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> 'Rebecca <span style='color:#e67e22; font-weight:bold;'>had to finish</span> loads of homework every night.'<br><i style='color:#7f8c8d;'>(Her experience in the Spanish school system)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'In England, students <span style='color:#16a085; font-weight:bold;'>could enjoy</span> more group work.'<br><i style='color:#7f8c8d;'>(Comparison of classroom activities)</i></li></ul><h3>2. First Conditional (Real Possibilities)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Structure</strong>: <strong>If</strong> + Subject + <strong>Present Simple</strong>, Subject + <strong>will</strong> + verb.</p><p style='margin:5px 0;'><strong>• Usage</strong>: To talk about a possible future situation and its result.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'If Ollie <span style='color:#2980b9; font-weight:bold;'>saves</span> enough money, he <span style='color:#2980b9; font-weight:bold;'>will take</span> a gap year.'<br><i style='color:#7f8c8d;'>(Ollie's future travel plans)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'If students <span style='color:#2980b9; font-weight:bold;'>copy</span> from the web, they <span style='color:#2980b9; font-weight:bold;'>will not develop</span> critical thinking.'<br><i style='color:#7f8c8d;'>(The risk of plagiarism)</i></li></ul><h3>3. Questions with 'will' and 'had to'</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Past Question</strong>: <strong>Did</strong> + Subject + <strong>have to</strong> + verb...?</p><p style='margin:5px 0;'><strong>• Future Question</strong>: <strong>What will</strong> + Subject + <strong>do if</strong>...?</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> '<span style='color:#d35400; font-weight:bold;'>Did</span> Rebecca <span style='color:#d35400; font-weight:bold;'>have to</span> change teachers every hour?'<br><i style='color:#7f8c8d;'>(Yes, she did in Spain)</i></li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'What <span style='color:#d35400; font-weight:bold;'>will Pep do</span> if he <span style='color:#d35400; font-weight:bold;'>gets</span> good grades?'<br><i style='color:#7f8c8d;'>(He will apply for a Master's degree)</i></li></ul>",
+    "ja": "<p><em>文法ノートは現在英語のみ利用可能です。日本語版は後日追加されます。</em></p>",
+    "fr": "<p><em>Les notes de grammaire sont actuellement disponibles uniquement en anglais. La version française sera ajoutée ultérieurement.</em></p>",
+    "ko": "<p><em>문법 노트는 현재 영어로만 제공됩니다. 한국어 버전은 추후 추가될 예정입니다.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Thinking & Processing</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: navigating, contemplating, encounter, embrace, detect</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. University students often <select class='vocab-select'><option value=''>── select ──</option><option value='navigating'>navigating</option><option value='contemplating'>contemplating</option><option value='encounter'>encounter</option><option value='embrace'>embrace</option><option value='detect'>detect</option></select> difficulties with their heavy workload.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='encounter' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Teachers use special software to <select class='vocab-select'><option value=''>── select ──</option><option value='navigating'>navigating</option><option value='contemplating'>contemplating</option><option value='encounter'>encounter</option><option value='embrace'>embrace</option><option value='detect'>detect</option></select> if a student has copied from the Internet.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='detect' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Education is a journey, and students must learn <select class='vocab-select'><option value=''>── select ──</option><option value='navigating'>navigating</option><option value='contemplating'>contemplating</option><option value='encounter'>encounter</option><option value='embrace'>embrace</option><option value='detect'>detect</option></select> the challenges of school life.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='navigating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Ollie is <select class='vocab-select'><option value=''>── select ──</option><option value='navigating'>navigating</option><option value='contemplating'>contemplating</option><option value='encounter'>encounter</option><option value='embrace'>embrace</option><option value='detect'>detect</option></select> his future and thinking about taking a gap year.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='contemplating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. To succeed in the modern world, we must <select class='vocab-select'><option value=''>── select ──</option><option value='navigating'>navigating</option><option value='contemplating'>contemplating</option><option value='encounter'>encounter</option><option value='embrace'>embrace</option><option value='detect'>detect</option></select> new technology rather than fear it.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='embrace' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Academic Challenges & Ethics</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: plagiarism, temptation, cheating, workload, responsibility</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Some students try <select class='vocab-select'><option value=''>── select ──</option><option value='plagiarism'>plagiarism</option><option value='temptation'>temptation</option><option value='cheating'>cheating</option><option value='workload'>workload</option><option value='responsibility'>responsibility</option></select> by looking at their classmates' answers during exams.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='cheating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Education is not just about knowledge; it also teaches students <select class='vocab-select'><option value=''>── select ──</option><option value='plagiarism'>plagiarism</option><option value='temptation'>temptation</option><option value='cheating'>cheating</option><option value='workload'>workload</option><option value='responsibility'>responsibility</option></select> for their own learning.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='responsibility' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Copying someone else's work and pretending it is your own is called <select class='vocab-select'><option value=''>── select ──</option><option value='plagiarism'>plagiarism</option><option value='temptation'>temptation</option><option value='cheating'>cheating</option><option value='workload'>workload</option><option value='responsibility'>responsibility</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='plagiarism' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Spanish students often complain about the heavy <select class='vocab-select'><option value=''>── select ──</option><option value='plagiarism'>plagiarism</option><option value='temptation'>temptation</option><option value='cheating'>cheating</option><option value='workload'>workload</option><option value='responsibility'>responsibility</option></select> of homework they receive every night.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='workload' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. The <select class='vocab-select'><option value=''>── select ──</option><option value='plagiarism'>plagiarism</option><option value='temptation'>temptation</option><option value='cheating'>cheating</option><option value='workload'>workload</option><option value='responsibility'>responsibility</option></select> to use AI for homework is strong, but students should resist it.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='temptation' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Education & Support</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: sophisticated, theoretical, significant, supportive, tutor</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Pep's teachers have been very <select class='vocab-select'><option value=''>── select ──</option><option value='sophisticated'>sophisticated</option><option value='theoretical'>theoretical</option><option value='significant'>significant</option><option value='supportive'>supportive</option><option value='tutor'>tutor</option></select> while he studies in English.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='supportive' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Dhanya found her law courses too <select class='vocab-select'><option value=''>── select ──</option><option value='sophisticated'>sophisticated</option><option value='theoretical'>theoretical</option><option value='significant'>significant</option><option value='supportive'>supportive</option><option value='tutor'>tutor</option></select> and not practical enough.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='theoretical' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. If you are struggling with a subject, you can ask for a <select class='vocab-select'><option value=''>── select ──</option><option value='sophisticated'>sophisticated</option><option value='theoretical'>theoretical</option><option value='significant'>significant</option><option value='supportive'>supportive</option><option value='tutor'>tutor</option></select> to help you improve your grades.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='tutor' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Universities now use <select class='vocab-select'><option value=''>── select ──</option><option value='sophisticated'>sophisticated</option><option value='theoretical'>theoretical</option><option value='significant'>significant</option><option value='supportive'>supportive</option><option value='tutor'>tutor</option></select> software to check student work for plagiarism.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='sophisticated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. There has been a <select class='vocab-select'><option value=''>── select ──</option><option value='sophisticated'>sophisticated</option><option value='theoretical'>theoretical</option><option value='significant'>significant</option><option value='supportive'>supportive</option><option value='tutor'>tutor</option></select> increase in online learning since the pandemic.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='significant' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2b6cb0; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Digital Literacy & Growth</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: extract, characteristics, develop, presentation, quote</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. To avoid plagiarism, students must learn how to <select class='vocab-select'><option value=''>── select ──</option><option value='extract'>extract</option><option value='characteristics'>characteristics</option><option value='develop'>develop</option><option value='presentation'>presentation</option><option value='quote'>quote</option></select> the original author correctly.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='quote' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. The student was caught after he tried to <select class='vocab-select'><option value=''>── select ──</option><option value='extract'>extract</option><option value='characteristics'>characteristics</option><option value='develop'>develop</option><option value='presentation'>presentation</option><option value='quote'>quote</option></select> a long paragraph directly from a website.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='extract' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. In biology class, students are asked to observe and describe the <select class='vocab-select'><option value=''>── select ──</option><option value='extract'>extract</option><option value='characteristics'>characteristics</option><option value='develop'>develop</option><option value='presentation'>presentation</option><option value='quote'>quote</option></select> of local plants.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='characteristics' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Group projects are a great way for students to <select class='vocab-select'><option value=''>── select ──</option><option value='extract'>extract</option><option value='characteristics'>characteristics</option><option value='develop'>develop</option><option value='presentation'>presentation</option><option value='quote'>quote</option></select> essential life skills like teamwork.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='develop' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. After finishing their research, each group will give a PowerPoint <select class='vocab-select'><option value=''>── select ──</option><option value='extract'>extract</option><option value='characteristics'>characteristics</option><option value='develop'>develop</option><option value='presentation'>presentation</option><option value='quote'>quote</option></select> to the rest of the class.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='presentation' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ1: 思考と処理</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 乗り越える, 熟考する, 直面する, 受け入れる, 検出する</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 大学生は重い課題にしばしば困難を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='navigating'>乗り越える</option><option value='contemplating'>熟考する</option><option value='encounter'>直面する</option><option value='embrace'>受け入れる</option><option value='detect'>検出する</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='encounter' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 教師は特別なソフトウェアを使って、学生がインターネットからコピーしたかどうかを<select class='vocab-select'><option value=''>── 選択 ──</option><option value='navigating'>乗り越える</option><option value='contemplating'>熟考する</option><option value='encounter'>直面する</option><option value='embrace'>受け入れる</option><option value='detect'>検出する</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='detect' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 教育は旅であり、学生は学校生活の課題を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='navigating'>乗り越える</option><option value='contemplating'>熟考する</option><option value='encounter'>直面する</option><option value='embrace'>受け入れる</option><option value='detect'>検出する</option></select>ことを学ばなければならない。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='navigating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. オリーは自分の将来を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='navigating'>乗り越える</option><option value='contemplating'>熟考する</option><option value='encounter'>直面する</option><option value='embrace'>受け入れる</option><option value='detect'>検出する</option></select>いて、ギャップイヤーを取ることを考えている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='contemplating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. 現代社会で成功するには、新しい技術を恐れるのではなく<select class='vocab-select'><option value=''>── 選択 ──</option><option value='navigating'>乗り越える</option><option value='contemplating'>熟考する</option><option value='encounter'>直面する</option><option value='embrace'>受け入れる</option><option value='detect'>検出する</option></select>なければならない。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='embrace' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ2: 学業上の課題と倫理</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 盗用, 誘惑, カンニング, 課題量, 責任</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 一部の学生は試験中にクラスメートの答えを見て<select class='vocab-select'><option value=''>── 選択 ──</option><option value='plagiarism'>盗用</option><option value='temptation'>誘惑</option><option value='cheating'>カンニング</option><option value='workload'>課題量</option><option value='responsibility'>責任</option></select>しようとする。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='cheating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 教育は知識だけでなく、学生に自分の学習に対する<select class='vocab-select'><option value=''>── 選択 ──</option><option value='plagiarism'>盗用</option><option value='temptation'>誘惑</option><option value='cheating'>カンニング</option><option value='workload'>課題量</option><option value='responsibility'>責任</option></select>も教える。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='responsibility' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 他人の作品をコピーして自分のものだと偽ることは<select class='vocab-select'><option value=''>── 選択 ──</option><option value='plagiarism'>盗用</option><option value='temptation'>誘惑</option><option value='cheating'>カンニング</option><option value='workload'>課題量</option><option value='responsibility'>責任</option></select>と呼ばれる。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='plagiarism' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. スペインの学生は毎晩の宿題の多い<select class='vocab-select'><option value=''>── 選択 ──</option><option value='plagiarism'>盗用</option><option value='temptation'>誘惑</option><option value='cheating'>カンニング</option><option value='workload'>課題量</option><option value='responsibility'>責任</option></select>によく不満を言う。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='workload' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 宿題にAIを使う<select class='vocab-select'><option value=''>── 選択 ──</option><option value='plagiarism'>盗用</option><option value='temptation'>誘惑</option><option value='cheating'>カンニング</option><option value='workload'>課題量</option><option value='responsibility'>責任</option></select>は強いが、学生はそれに抵抗すべきだ。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='temptation' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ3: 教育と支援</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 高度な, 理論的な, 重要な, 支援的な, 家庭教師</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. ペップの先生は彼が英語で勉強している間、とても<select class='vocab-select'><option value=''>── 選択 ──</option><option value='sophisticated'>高度な</option><option value='theoretical'>理論的な</option><option value='significant'>重要な</option><option value='supportive'>支援的な</option><option value='tutor'>家庭教師</option></select>だった。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='supportive' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. ダニヤは自分の法律コースが<select class='vocab-select'><option value=''>── 選択 ──</option><option value='sophisticated'>高度な</option><option value='theoretical'>理論的な</option><option value='significant'>重要な</option><option value='supportive'>支援的な</option><option value='tutor'>家庭教師</option></select>すぎて十分に実用的ではないと感じた。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='theoretical' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. ある科目に苦労しているなら、成績を上げるために<select class='vocab-select'><option value=''>── 選択 ──</option><option value='sophisticated'>高度な</option><option value='theoretical'>理論的な</option><option value='significant'>重要な</option><option value='supportive'>支援的な</option><option value='tutor'>家庭教師</option></select>を頼むことができる。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='tutor' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 大学は現在、学生の盗用をチェックするために<select class='vocab-select'><option value=''>── 選択 ──</option><option value='sophisticated'>高度な</option><option value='theoretical'>理論的な</option><option value='significant'>重要な</option><option value='supportive'>支援的な</option><option value='tutor'>家庭教師</option></select>ソフトウェアを使用している。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='sophisticated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. パンデミック以降、オンライン学習が<select class='vocab-select'><option value=''>── 選択 ──</option><option value='sophisticated'>高度な</option><option value='theoretical'>理論的な</option><option value='significant'>重要な</option><option value='supportive'>支援的な</option><option value='tutor'>家庭教師</option></select>増加している。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='significant' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2b6cb0; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ4: デジタルリテラシーと成長</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 抽出する, 特徴, 発達させる, プレゼンテーション, 引用する</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 盗用を避けるために、学生は元の著者を正しく<select class='vocab-select'><option value=''>── 選択 ──</option><option value='extract'>抽出する</option><option value='characteristics'>特徴</option><option value='develop'>発達させる</option><option value='presentation'>プレゼンテーション</option><option value='quote'>引用する</option></select>方法を学ばなければならない。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='quote' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. その学生は、ウェブサイトから長い段落を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='extract'>抽出する</option><option value='characteristics'>特徴</option><option value='develop'>発達させる</option><option value='presentation'>プレゼンテーション</option><option value='quote'>引用する</option></select>しようとした後、捕まった。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='extract' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 生物学の授業では、学生は地元の植物の<select class='vocab-select'><option value=''>── 選択 ──</option><option value='extract'>抽出する</option><option value='characteristics'>特徴</option><option value='develop'>発達させる</option><option value='presentation'>プレゼンテーション</option><option value='quote'>引用する</option></select>を観察して説明するよう求められる。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='characteristics' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. グループプロジェクトは、学生がチームワークなどの重要なライフスキルを<select class='vocab-select'><option value=''>── 選択 ──</option><option value='extract'>抽出する</option><option value='characteristics'>特徴</option><option value='develop'>発達させる</option><option value='presentation'>プレゼンテーション</option><option value='quote'>引用する</option></select>ための素晴らしい方法である。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='develop' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 研究を終えた後、各グループはクラスの他の生徒にPowerPointの<select class='vocab-select'><option value=''>── 選択 ──</option><option value='extract'>抽出する</option><option value='characteristics'>特徴</option><option value='develop'>発達させる</option><option value='presentation'>プレゼンテーション</option><option value='quote'>引用する</option></select>を行う。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='presentation' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1: Pensée et Traitement</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: naviguer, contempler, rencontrer, adopter, détecter</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Les étudiants universitaires <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='navigating'>naviguent</option><option value='contemplating'>contemplent</option><option value='encounter'>rencontrent</option><option value='embrace'>adoptent</option><option value='detect'>détectent</option></select> souvent des difficultés avec leur charge de travail lourde.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='encounter' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Les enseignants utilisent un logiciel spécial pour <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='navigating'>naviguer</option><option value='contemplating'>contempler</option><option value='encounter'>rencontrer</option><option value='embrace'>adopter</option><option value='detect'>détecter</option></select> si un étudiant a copié depuis Internet.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='detect' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. L'éducation est un voyage, et les étudiants doivent apprendre à <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='navigating'>naviguer</option><option value='contemplating'>contempler</option><option value='encounter'>rencontrer</option><option value='embrace'>adopter</option><option value='detect'>détecter</option></select> les défis de la vie scolaire.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='navigating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Ollie <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='navigating'>navigue</option><option value='contemplating'>contemple</option><option value='encounter'>rencontre</option><option value='embrace'>adopte</option><option value='detect'>détecte</option></select> son avenir et pense à prendre une année sabbatique.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='contemplating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. Pour réussir dans le monde moderne, nous devons <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='navigating'>naviguer</option><option value='contemplating'>contempler</option><option value='encounter'>rencontrer</option><option value='embrace'>adopter</option><option value='detect'>détecter</option></select> les nouvelles technologies plutôt que de les craindre.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='embrace' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2: Défis Académiques et Éthique</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: plagiat, tentation, tricherie, charge de travail, responsabilité</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Certains étudiants essaient la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='plagiarism'>plagiat</option><option value='temptation'>tentation</option><option value='cheating'>tricherie</option><option value='workload'>charge de travail</option><option value='responsibility'>responsabilité</option></select> en regardant les réponses de leurs camarades pendant les examens.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='cheating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. L'éducation ne concerne pas seulement les connaissances; elle apprend aussi aux étudiants la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='plagiarism'>plagiat</option><option value='temptation'>tentation</option><option value='cheating'>tricherie</option><option value='workload'>charge de travail</option><option value='responsibility'>responsabilité</option></select> pour leur propre apprentissage.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='responsibility' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Copier le travail de quelqu'un d'autre et prétendre qu'il est le vôtre s'appelle le <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='plagiarism'>plagiat</option><option value='temptation'>tentation</option><option value='cheating'>tricherie</option><option value='workload'>charge de travail</option><option value='responsibility'>responsabilité</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='plagiarism' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Les étudiants espagnols se plaignent souvent de la lourde <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='plagiarism'>plagiat</option><option value='temptation'>tentation</option><option value='cheating'>tricherie</option><option value='workload'>charge de travail</option><option value='responsibility'>responsabilité</option></select> de devoirs qu'ils reçoivent chaque soir.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='workload' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. La <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='plagiarism'>plagiat</option><option value='temptation'>tentation</option><option value='cheating'>tricherie</option><option value='workload'>charge de travail</option><option value='responsibility'>responsabilité</option></select> d'utiliser l'IA pour les devoirs est forte, mais les étudiants devraient y résister.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='temptation' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3: Éducation et Soutien</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: sophistiqué, théorique, significatif, solidaire, tuteur</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Les professeurs de Pep ont été très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sophisticated'>sophistiqués</option><option value='theoretical'>théoriques</option><option value='significant'>significatifs</option><option value='supportive'>solidaires</option><option value='tutor'>tuteur</option></select> pendant qu'il étudie en anglais.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='supportive' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Dhanya a trouvé ses cours de droit trop <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sophisticated'>sophistiqués</option><option value='theoretical'>théoriques</option><option value='significant'>significatifs</option><option value='supportive'>solidaires</option><option value='tutor'>tuteur</option></select> et pas assez pratiques.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='theoretical' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Si vous avez des difficultés avec une matière, vous pouvez demander un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sophisticated'>sophistiqué</option><option value='theoretical'>théorique</option><option value='significant'>significatif</option><option value='supportive'>solidaire</option><option value='tutor'>tuteur</option></select> pour vous aider à améliorer vos notes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='tutor' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Les universités utilisent désormais des logiciels <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sophisticated'>sophistiqués</option><option value='theoretical'>théoriques</option><option value='significant'>significatifs</option><option value='supportive'>solidaires</option><option value='tutor'>tuteur</option></select> pour vérifier le plagiat dans les travaux des étudiants.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='sophisticated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. Il y a eu une augmentation <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sophisticated'>sophistiquée</option><option value='theoretical'>théorique</option><option value='significant'>significative</option><option value='supportive'>solidaire</option><option value='tutor'>tuteur</option></select> de l'apprentissage en ligne depuis la pandémie.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='significant' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2b6cb0; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4: Littératie Numérique et Croissance</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: extraire, caractéristiques, développer, présentation, citer</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Pour éviter le plagiat, les étudiants doivent apprendre à <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='extract'>extraire</option><option value='characteristics'>caractéristiques</option><option value='develop'>développer</option><option value='presentation'>présentation</option><option value='quote'>citer</option></select> correctement l'auteur original.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='quote' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. L'étudiant a été surpris après avoir essayé d'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='extract'>extraire</option><option value='characteristics'>caractéristiques</option><option value='develop'>développer</option><option value='presentation'>présentation</option><option value='quote'>citer</option></select> un long paragraphe directement d'un site Web.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='extract' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. En cours de biologie, on demande aux étudiants d'observer et de décrire les <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='extract'>extraire</option><option value='characteristics'>caractéristiques</option><option value='develop'>développer</option><option value='presentation'>présentation</option><option value='quote'>citer</option></select> des plantes locales.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='characteristics' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Les projets de groupe sont un excellent moyen pour les étudiants de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='extract'>extraire</option><option value='characteristics'>caractéristiques</option><option value='develop'>développer</option><option value='presentation'>présentation</option><option value='quote'>citer</option></select> des compétences de vie essentielles comme le travail d'équipe.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='develop' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. Après avoir terminé leurs recherches, chaque groupe fera une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='extract'>extraire</option><option value='characteristics'>caractéristiques</option><option value='develop'>développer</option><option value='presentation'>présentation</option><option value='quote'>citer</option></select> PowerPoint devant le reste de la classe.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='presentation' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 사고와 처리</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 헤쳐나가다, 숙고하다, 직면하다, 받아들이다, 탐지하다</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 대학생들은 많은 과제로 인해 종종 어려움을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='navigating'>헤쳐나간다</option><option value='contemplating'>숙고한다</option><option value='encounter'>직면한다</option><option value='embrace'>받아들인다</option><option value='detect'>탐지한다</option></select>.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='encounter' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 교사들은 특수 소프트웨어를 사용하여 학생이 인터넷에서 복사했는지 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='navigating'>헤쳐나간다</option><option value='contemplating'>숙고한다</option><option value='encounter'>직면한다</option><option value='embrace'>받아들인다</option><option value='detect'>탐지한다</option></select>.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='detect' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 교육은 여정이며, 학생들은 학교 생활의 도전 과제를 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='navigating'>헤쳐나가는</option><option value='contemplating'>숙고하는</option><option value='encounter'>직면하는</option><option value='embrace'>받아들이는</option><option value='detect'>탐지하는</option></select> 방법을 배워야 한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='navigating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 올리는 자신의 미래를 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='navigating'>헤쳐나가며</option><option value='contemplating'>숙고하며</option><option value='encounter'>직면하며</option><option value='embrace'>받아들이며</option><option value='detect'>탐지하며</option></select> 갭 이어를 보낼 생각을 하고 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='contemplating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. 현대 사회에서 성공하려면 새로운 기술을 두려워하지 말고 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='navigating'>헤쳐나가야</option><option value='contemplating'>숙고해야</option><option value='encounter'>직면해야</option><option value='embrace'>받아들여야</option><option value='detect'>탐지해야</option></select> 한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='embrace' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 학업적 도전과 윤리</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 표절, 유혹, 부정행위, 과제량, 책임감</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 일부 학생들은 시험 중에 급우들의 답변을 보면서 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='plagiarism'>표절</option><option value='temptation'>유혹</option><option value='cheating'>부정행위</option><option value='workload'>과제량</option><option value='responsibility'>책임감</option></select>을 시도한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='cheating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 교육은 지식뿐만 아니라 학생들에게 자신의 학습에 대한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='plagiarism'>표절</option><option value='temptation'>유혹</option><option value='cheating'>부정행위</option><option value='workload'>과제량</option><option value='responsibility'>책임감</option></select>도 가르친다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='responsibility' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 다른 사람의 작업을 복사하여 자신의 것이라고 속이는 것을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='plagiarism'>표절</option><option value='temptation'>유혹</option><option value='cheating'>부정행위</option><option value='workload'>과제량</option><option value='responsibility'>책임감</option></select>이라고 한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='plagiarism' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 스페인 학생들은 매일 밤 받는 방대한 숙제 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='plagiarism'>표절</option><option value='temptation'>유혹</option><option value='cheating'>부정행위</option><option value='workload'>과제량</option><option value='responsibility'>책임감</option></select>에 대해 자주 불평한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='workload' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 숙제에 AI를 사용하려는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='plagiarism'>표절</option><option value='temptation'>유혹</option><option value='cheating'>부정행위</option><option value='workload'>과제량</option><option value='responsibility'>책임감</option></select>은 강력하지만, 학생들은 이에 저항해야 한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='temptation' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3: 교육과 지원</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 정교한, 이론적인, 중요한, 지지하는, 개인교사</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 펩의 선생님들은 그가 영어로 공부하는 동안 매우 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='sophisticated'>정교한</option><option value='theoretical'>이론적인</option><option value='significant'>중요한</option><option value='supportive'>지지하는</option><option value='tutor'>개인교사</option></select> 태도를 보였다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='supportive' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 다냐는 자신의 법학 과정이 너무 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='sophisticated'>정교했고</option><option value='theoretical'>이론적이었으며</option><option value='significant'>중요했고</option><option value='supportive'>지지했으며</option><option value='tutor'>개인교사였지만</option></select> 실제적이지 않다고 느꼈다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='theoretical' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 특정 과목에 어려움을 겪고 있다면, 성적 향상을 위해 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='sophisticated'>정교한</option><option value='theoretical'>이론적인</option><option value='significant'>중요한</option><option value='supportive'>지지하는</option><option value='tutor'>개인교사</option></select>를 요청할 수 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='tutor' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 대학들은 현재 학생들의 표절 여부를 확인하기 위해 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='sophisticated'>정교한</option><option value='theoretical'>이론적인</option><option value='significant'>중요한</option><option value='supportive'>지지하는</option><option value='tutor'>개인교사</option></select> 소프트웨어를 사용하고 있다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='sophisticated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. 팬데믹 이후 온라인 학습이 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='sophisticated'>정교하게</option><option value='theoretical'>이론적으로</option><option value='significant'>중요하게</option><option value='supportive'>지지하게</option><option value='tutor'>개인교사처럼</option></select> 증가했다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='significant' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2b6cb0; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4: 디지털 리터러시와 성장</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 발췌하다, 특성, 개발하다, 발표, 인용하다</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 표절을 피하기 위해 학생들은 원저자를 올바르게 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='extract'>발췌하는</option><option value='characteristics'>특성을</option><option value='develop'>개발하는</option><option value='presentation'>발표하는</option><option value='quote'>인용하는</option></select> 방법을 배워야 한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='quote' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 그 학생은 웹사이트에서 긴 단락을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='extract'>발췌하려다</option><option value='characteristics'>특성을</option><option value='develop'>개발하려다</option><option value='presentation'>발표하려다</option><option value='quote'>인용하려다</option></select> 적발되었다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='extract' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 생물학 수업에서 학생들은 지역 식물의 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='extract'>발췌를</option><option value='characteristics'>특성을</option><option value='develop'>개발을</option><option value='presentation'>발표를</option><option value='quote'>인용을</option></select> 관찰하고 설명해야 한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='characteristics' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 그룹 프로젝트는 학생들이 팀워크와 같은 필수적인 생활 기술을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='extract'>발췌하는</option><option value='characteristics'>특성을</option><option value='develop'>개발하는</option><option value='presentation'>발표하는</option><option value='quote'>인용하는</option></select> 훌륭한 방법이다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='develop' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 연구를 마친 후, 각 조는 반 전체 앞에서 PowerPoint <select class='vocab-select'><option value=''>── 선택 ──</option><option value='extract'>발췌를</option><option value='characteristics'>특성을</option><option value='develop'>개발을</option><option value='presentation'>발표를</option><option value='quote'>인용을</option></select> 한다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='presentation' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "The text compares different educational experiences and the impact of technology. Based on the reading, what were the <b>main differences</b> between Rebecca's school life in Spain and England, and how has the <b>internet</b> changed the way students approach their projects?",
+    "ja": "このテキストは異なる教育経験と技術の影響を比較しています。読解に基づくと、レベッカのスペインとイギリスの学校生活の<b>主な違い</b>は何でしたか、そして<b>インターネット</b>は学生がプロジェクトに取り組む方法をどのように変えましたか？",
+    "fr": "Le texte compare différentes expériences éducatives et l'impact de la technologie. D'après la lecture, quelles étaient les <b>différences principales</b> entre la vie scolaire de Rebecca en Espagne et en Angleterre, et comment <b>Internet</b> a-t-il changé la façon dont les étudiants abordent leurs projets ?",
+    "ko": "이 텍스트는 다양한 교육 경험과 기술의 영향을 비교합니다. 본문에 따르면, 레베카의 스페인과 영국 학교 생활의 <b>주요 차이점</b>은 무엇이며, <b>인터넷</b>은 학생들이 프로젝트에 접근하는 방식을 어떻게 변화시켰나요?"
+  },
+  "content_check_keywords": {
+    "en": "had to, homework, could, group work, plagiarism, sophisticated, detect, temptation",
+    "ja": "しなければならなかった, 宿題, できた, グループワーク, 盗作, 洗練された, 検出する, 誘惑",
+    "fr": "devait, devoirs, pouvait, travail de groupe, plagiat, sophistiqué, détecter, tentation",
+    "ko": "해야 했다, 숙제, 할 수 있었다, 그룹 작업, 표절, 정교한, 탐지하다, 유혹"
+  },
+  "content_check_placeholder": {
+    "en": "Explain the differences in Rebecca's experience and the effect of the internet on students' work...",
+    "ja": "レベッカの経験の違いと、学生の作業に対するインターネットの影響を説明してください...",
+    "fr": "Expliquez les différences dans l'expérience de Rebecca et l'effet d'Internet sur le travail des étudiants...",
+    "ko": "레베카의 경험 차이점과 인터넷이 학생들의 작업에 미치는 영향을 설명하세요..."
+  },
+  "deepening_question": {
+    "en": "Our reading highlights that while the internet is a great tool, it also brings the <b>temptation</b> of <b>plagiarism</b>. Many students now use <b>sophisticated</b> AI tools, making it harder for teachers to <b>detect</b> original work.<br><br><b>In your opinion, if a student uses AI to write their entire essay, is it still 'their work'? Why do you think some students choose to copy instead of developing their own critical thinking?</b>",
+    "ja": "私たちの読解は、インターネットが素晴らしいツールである一方で、<b>盗作</b>の<b>誘惑</b>ももたらすことを強調しています。多くの学生が現在<b>洗練された</b>AIツールを使用しており、教師がオリジナルの作業を<b>検出</b>することをより困難にしています。<br><br><b>あなたの意見では、学生がAIを使用してエッセイ全体を書いた場合、それはまだ「彼らの作品」ですか？なぜ一部の学生は自分の批判的思考を発展させる代わりにコピーを選ぶと思いますか？</b>",
+    "fr": "Notre lecture souligne que si Internet est un excellent outil, il apporte aussi la <b>tentation</b> du <b>plagiat</b>. De nombreux étudiants utilisent maintenant des outils d'IA <b>sophistiqués</b>, rendant plus difficile pour les enseignants de <b>détecter</b> le travail original.<br><br><b>À votre avis, si un étudiant utilise l'IA pour écrire entièrement sa dissertation, est-ce encore « son travail » ? Pourquoi pensez-vous que certains étudiants choisissent de copier plutôt que de développer leur propre pensée critique ?</b>",
+    "ko": "본문은 인터넷이 훌륭한 도구인 동시에 <b>표절</b>의 <b>유혹</b>도 가져온다는 점을 강조합니다. 많은 학생들이 이제 <b>정교한</b> AI 도구를 사용하여 교사가 독창적인 작업을 <b>탐지</b>하기 더 어렵게 만듭니다.<br><br><b>학생이 AI를 사용하여 전체 에세이를 작성한다면, 그것이 여전히 '그들의 작업'이라고 생각하나요? 어떤 학생들이 자신의 비판적 사고를 개발하는 대신 복사를 선택한다고 생각하나요?</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I think using AI for everything is... Some students copy because...",
+    "ja": "すべてにAIを使用することは... 一部の学生がコピーする理由は...",
+    "fr": "Je pense qu'utiliser l'IA pour tout est... Certains étudiants copient parce que...",
+    "ko": "모든 것에 AI를 사용하는 것은... 어떤 학생들은 복사하는 이유는..."
+  },
+  "critical_question": {
+    "en": "We have explored various aspects of <b>SCHOOL AND UNIVERSITY</b>, from personal stories like Rebecca's to the <b>theoretical</b> challenges of modern technology. We learned that education is a <b>journey</b> that requires both <b>honesty</b> and <b>effort</b>.<br><br><b>If you could design the 'perfect' university, what rules would you change? For example, would you strictly ban AI, or would you embrace it?<br>Support your answer by using the First Conditional (If... will) and talk about what you 'had to' do in your past school that you would change in your new university.</b>",
+    "ja": "私たちは、レベッカのような個人的な話から現代技術の<b>理論的</b>な課題まで、<b>学校と大学</b>のさまざまな側面を探求してきました。教育は<b>誠実さ</b>と<b>努力</b>の両方を必要とする<b>旅</b>であることを学びました。<br><br><b>もし「完璧な」大学を設計できるなら、どのようなルールを変更しますか？例えば、AIを厳しく禁止しますか、それとも受け入れますか？<br>第一条件法（If... will）を使って答えを裏付け、新しい大学で変えたい過去の学校で「しなければならなかった」ことについて話してください。</b>",
+    "fr": "Nous avons exploré divers aspects de <b>L'ÉCOLE ET L'UNIVERSITÉ</b>, des histoires personnelles comme celle de Rebecca aux défis <b>théoriques</b> de la technologie moderne. Nous avons appris que l'éducation est un <b>voyage</b> qui nécessite à la fois <b>honnêteté</b> et <b>effort</b>.<br><br><b>Si vous pouviez concevoir l'université « parfaite », quelles règles changeriez-vous ? Par exemple, interdiriez-vous strictement l'IA, ou l'embrasseriez-vous ?<br>Étayez votre réponse en utilisant le conditionnel présent (If... will) et parlez de ce que vous « deviez » faire dans votre ancienne école que vous changeriez dans votre nouvelle université.</b>",
+    "ko": "우리는 레베카의 개인적인 이야기부터 현대 기술의 <b>이론적</b> 도전까지 <b>학교와 대학교</b>의 다양한 측면을 탐구했습니다. 교육은 <b>정직함</b>과 <b>노력</b>이 모두 필요한 <b>여정</b>임을 배웠습니다.<br><br><b>'완벽한' 대학을 설계할 수 있다면 어떤 규칙을 바꾸겠습니까? 예를 들어, AI를 엄격히 금지하시겠습니까, 아니면 수용하시겠습니까?<br>1차 조건문(If... will)을 사용하여 답변을 뒷받침하고, 새 대학에서 바꾸고 싶은 과거 학교에서 '해야 했던' 일에 대해 말해보세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "Describe your perfect university. Use 'If I design..., students will...' and 'In the past, I had to... but now...' to explain your ideas...",
+    "ja": "完璧な大学を説明してください。「もし私が設計すれば、学生は...」と「過去には、私は...しなければならなかったが、今は...」を使ってあなたのアイデアを説明してください...",
+    "fr": "Décrivez votre université parfaite. Utilisez 'Si je conçois..., les étudiants...' et 'Dans le passé, je devais... mais maintenant...' pour expliquer vos idées...",
+    "ko": "완벽한 대학을 설명하세요. '내가 설계한다면, 학생들은...'과 '과거에는...을 해야 했지만, 지금은...'을 사용하여 아이디어를 설명하세요..."
+  }
+}

@@ -1,0 +1,2012 @@
+{
+  "title": {
+    "en": "RELAX",
+    "ja": "リラックス",
+    "fr": "SE DÉTENDRE",
+    "ko": "휴식"
+  },
+  "topic": {
+    "en": "Leisure, sports, rest, cultural traditions",
+    "ja": "レジャー、スポーツ、休息、文化的伝統",
+    "fr": "Loisirs, sports, repos, traditions culturelles",
+    "ko": "여가, 스포츠, 휴식, 문화 전통"
+  },
+  "core_title": {
+    "en": "The Diverse Ways We Relax and Play",
+    "ja": "私たちがリラックスし遊ぶ多様な方法",
+    "fr": "Les diverses façons dont nous nous détendons et jouons",
+    "ko": "우리가 휴식과 놀이를 즐기는 다양한 방법"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>The concept of relaxation varies significantly across different cultures, yet the fundamental need to 'take it easy' remains a universal human <strong><span class='vocab-link' id='text-trait' onclick='speakAndScroll(\"trait\", \"vocab-trait\")'>trait</span></strong>. Whether it is through physical activity, <strong><span class='vocab-link' id='text-spectator' onclick='speakAndScroll(\"spectator\", \"vocab-spectator\")'>spectator</span></strong> sports, or simply catching up on sleep, how we choose to spend our free time defines our lifestyle and well-being. This unit <strong><span class='vocab-link' id='text-explores' onclick='speakAndScroll(\"explores\", \"vocab-explores\")'>explores</span></strong> the <strong><span class='vocab-link' id='text-fascinating' onclick='speakAndScroll(\"fascinating\", \"vocab-fascinating\")'>fascinating</span></strong> balance between active leisure and essential rest.</p><p>For many, the weekend is the primary time to recharge. Some people prefer high-energy outdoor activities, such as hiking in the mountains or camping in the forest with family. These plans often depend on the weather forecast, as a sunny and warm weekend provides the perfect opportunity for a walk in nature or a refreshing swim in a clear river. Others, however, choose a more <strong><span class='vocab-link' id='text-sedentary' onclick='speakAndScroll(\"sedentary\", \"vocab-sedentary\")'>sedentary</span></strong> approach, <strong><span class='vocab-link' id='text-opting' onclick='speakAndScroll(\"opting\", \"vocab-opting\")'>opting</span></strong> to stay at home, read a book, or watch a movie to recover from a long work week.</p><p>When it comes to entertainment, sports play a <strong><span class='vocab-link' id='text-massive' onclick='speakAndScroll(\"massive\", \"vocab-massive\")'>massive</span></strong> role in global culture. Football, often <strong><span class='vocab-link' id='text-cited' onclick='speakAndScroll(\"cited\", \"vocab-cited\")'>cited</span></strong> as the world's most popular sport, attracts billions of viewers. Its <strong><span class='vocab-link' id='text-simplicity' onclick='speakAndScroll(\"simplicity\", \"vocab-simplicity\")'>simplicity</span></strong>—requiring no expensive gear or complex skills to start—makes it accessible to everyone. Even when a big game ends in a boring nil-nil draw, the <strong><span class='vocab-link' id='text-unpredictability' onclick='speakAndScroll(\"unpredictability\", \"vocab-unpredictability\")'>unpredictability</span></strong> of the next match keeps fans coming back. However, beyond mainstream football, many countries <strong><span class='vocab-link' id='text-cherish' onclick='speakAndScroll(\"cherish\", \"vocab-cherish\")'>cherish</span></strong> their own unique national traditions. In Argentina, 'Pato' combines history and horsemanship, while in Japan, 'Keirin' turns cycling into a high-speed, high-<strong><span class='vocab-link' id='text-stakes' onclick='speakAndScroll(\"stakes\", \"vocab-stakes\")'>stakes</span></strong> <strong><span class='vocab-link' id='text-spectator' onclick='speakAndScroll(\"spectator\", \"vocab-spectator\")'>spectator</span></strong> event. Newer inventions like 'Bossaball' even blend music and gymnastics, showing that the way we play is <strong><span class='vocab-link' id='text-constantly' onclick='speakAndScroll(\"constantly\", \"vocab-constantly\")'>constantly</span></strong> <strong><span class='vocab-link' id='text-evolving' onclick='speakAndScroll(\"evolving\", \"vocab-evolving\")'>evolving</span></strong>.</p><p>While active sports are exciting, the importance of rest cannot be <strong><span class='vocab-link' id='text-overlooked' onclick='speakAndScroll(\"overlooked\", \"vocab-overlooked\")'>overlooked</span></strong>. In Spain, the tradition of the 'siesta'—a short nap after lunch—has long been a cultural <strong><span class='vocab-link' id='text-staple' onclick='speakAndScroll(\"staple\", \"vocab-staple\")'>staple</span></strong>. Although modern work schedules have made it a luxury for some, recent research highlights its <strong><span class='vocab-link' id='text-immense' onclick='speakAndScroll(\"immense\", \"vocab-immense\")'>immense</span></strong> benefits. A short nap can increase energy levels, improve mood, and make workers more productive. In fact, companies in cities like New York and London are now installing high-tech napping pods, recognizing that tired employees lose <strong><span class='vocab-link' id='text-concentration' onclick='speakAndScroll(\"concentration\", \"vocab-concentration\")'>concentration</span></strong> and make more mistakes.</p><p><strong><span class='vocab-link' id='text-ultimately' onclick='speakAndScroll(\"ultimately\", \"vocab-ultimately\")'>Ultimately</span></strong>, whether we are dancing at a birthday party, betting on a fast-paced cycle race, or enjoying a quiet nap, the goal is the same: to find a healthy balance. Relaxing isn't just about being lazy; it's about staying healthy, reducing stress, and making the most of our time so we can stay happy and productive in our daily lives.</p>",
+    "ja": "<p style='margin-top:0;'>リラックスの概念は文化によって大きく異なりますが、「リラックスする」という基本的な欲求は普遍的な人間の<strong><span class='vocab-link' id='text-trait' onclick='speakAndScroll(\"trait\", \"vocab-trait\")'>特性</span></strong>です。身体活動、<strong><span class='vocab-link' id='text-spectator' onclick='speakAndScroll(\"spectator\", \"vocab-spectator\")'>観戦</span></strong>スポーツ、あるいは単に睡眠を取ることなど、私たちが自由時間をどのように過ごすかを選ぶかによって、私たちのライフスタイルと幸福度が決まります。このユニットは、活動的な余暇と必要な休息の間の<strong><span class='vocab-link' id='text-fascinating' onclick='speakAndScroll(\"fascinating\", \"vocab-fascinating\")'>魅力的な</span></strong>バランスを<strong><span class='vocab-link' id='text-explores' onclick='speakAndScroll(\"explores\", \"vocab-explores\")'>探求</span></strong>します。</p><p>多くの人にとって、週末はエネルギーを充電する主要な時間です。山でのハイキングや家族との森でのキャンプなど、エネルギッシュな屋外活動を好む人もいます。これらの計画はしばしば天気予報に依存します。晴れて暖かい週末は、自然の中での散歩や澄んだ川での爽やかな水泳の完璧な機会を提供します。しかし、他の人々は、長い仕事の週から回復するために、家にいて本を読んだり映画を見たりするという、より<strong><span class='vocab-link' id='text-sedentary' onclick='speakAndScroll(\"sedentary\", \"vocab-sedentary\")'>座りがちな</span></strong>アプローチを<strong><span class='vocab-link' id='text-opting' onclick='speakAndScroll(\"opting\", \"vocab-opting\")'>選択</span></strong>します。</p><p>エンターテイメントに関しては、スポーツは世界の文化において<strong><span class='vocab-link' id='text-massive' onclick='speakAndScroll(\"massive\", \"vocab-massive\")'>巨大な</span></strong>役割を果たしています。フットボールは、しばしば世界で最も人気のあるスポーツとして<strong><span class='vocab-link' id='text-cited' onclick='speakAndScroll(\"cited\", \"vocab-cited\")'>引用</span></strong>され、何十億もの視聴者を魅了しています。その<strong><span class='vocab-link' id='text-simplicity' onclick='speakAndScroll(\"simplicity\", \"vocab-simplicity\")'>シンプルさ</span></strong>（高価な装備や複雑なスキルを必要としないこと）は、誰でもアクセスできるようにしています。大試合が退屈なスコアレスドローで終わっても、次の試合の<strong><span class='vocab-link' id='text-unpredictability' onclick='speakAndScroll(\"unpredictability\", \"vocab-unpredictability\")'>予測不可能性</span></strong>がファンを引き付け続けます。しかし、主流のフットボールを超えて、多くの国々は独自の国民的伝統を<strong><span class='vocab-link' id='text-cherish' onclick='speakAndScroll(\"cherish\", \"vocab-cherish\")'>大切に</span></strong>しています。アルゼンチンでは「パト」が歴史と乗馬技術を組み合わせ、日本では「ケイリン」がサイクリングを高速で<strong><span class='vocab-link' id='text-stakes' onclick='speakAndScroll(\"stakes\", \"vocab-stakes\")'>ハイステークス</span></strong>の<strong><span class='vocab-link' id='text-spectator' onclick='speakAndScroll(\"spectator\", \"vocab-spectator\")'>観戦</span></strong>イベントに変えています。「ボサボール」のような新しい発明は音楽と体操を融合させ、私たちの遊び方が<strong><span class='vocab-link' id='text-constantly' onclick='speakAndScroll(\"constantly\", \"vocab-constantly\")'>常に</span></strong><strong><span class='vocab-link' id='text-evolving' onclick='speakAndScroll(\"evolving\", \"vocab-evolving\")'>進化</span></strong>していることを示しています。</p><p>活動的なスポーツは刺激的ですが、休息の重要性を<strong><span class='vocab-link' id='text-overlooked' onclick='speakAndScroll(\"overlooked\", \"vocab-overlooked\")'>見落とす</span></strong>ことはできません。スペインでは、「シエスタ」（昼食後の短い昼寝）の伝統は長い間文化的な<strong><span class='vocab-link' id='text-staple' onclick='speakAndScroll(\"staple\", \"vocab-staple\")'>定番</span></strong>でした。現代の仕事のスケジュールは一部の人にとってそれを贅沢なものにしましたが、最近の研究はその<strong><span class='vocab-link' id='text-immense' onclick='speakAndScroll(\"immense\", \"vocab-immense\")'>計り知れない</span></strong>利点を強調しています。短い昼寝はエネルギーレベルを高め、気分を改善し、労働者をより生産的にすることができます。実際、ニューヨークやロンドンなどの都市の企業は、疲れた従業員が<strong><span class='vocab-link' id='text-concentration' onclick='speakAndScroll(\"concentration\", \"vocab-concentration\")'>集中力</span></strong>を失い、より多くのミスをすることを認識して、ハイテクな仮眠ポッドを設置しています。</p><p><strong><span class='vocab-link' id='text-ultimately' onclick='speakAndScroll(\"ultimately\", \"vocab-ultimately\")'>最終的に</span></strong>、私たちが誕生日パーティーで踊っていようと、ペースの速いサイクルレースに賭けていようと、静かな昼寝を楽しんでいようと、目標は同じです：健康的なバランスを見つけることです。リラックスすることは単に怠惰であることではありません。それは健康を維持し、ストレスを軽減し、時間を最大限に活用して、日常生活で幸せで生産的に過ごすことです。</p>",
+    "fr": "<p style='margin-top:0;'>Le concept de relaxation varie considérablement selon les cultures, mais le besoin fondamental de « se détendre » reste un <strong><span class='vocab-link' id='text-trait' onclick='speakAndScroll(\"trait\", \"vocab-trait\")'>trait</span></strong> humain universel. Que ce soit par l'activité physique, les sports <strong><span class='vocab-link' id='text-spectator' onclick='speakAndScroll(\"spectator\", \"vocab-spectator\")'>spectateurs</span></strong>, ou simplement en rattrapant son sommeil, la façon dont nous choisissons de passer notre temps libre définit notre mode de vie et notre bien-être. Cette unité <strong><span class='vocab-link' id='text-explores' onclick='speakAndScroll(\"explores\", \"vocab-explores\")'>explore</span></strong> l'équilibre <strong><span class='vocab-link' id='text-fascinating' onclick='speakAndScroll(\"fascinating\", \"vocab-fascinating\")'>fascinant</span></strong> entre les loisirs actifs et le repos essentiel.</p><p>Pour beaucoup, le week-end est le moment principal pour se ressourcer. Certaines personnes préfèrent les activités de plein air énergiques, comme la randonnée en montagne ou le camping en forêt en famille. Ces plans dépendent souvent des prévisions météorologiques, car un week-end ensoleillé et chaud offre l'occasion parfaite pour une promenade dans la nature ou une baignade rafraîchissante dans une rivière claire. D'autres, cependant, choisissent une approche plus <strong><span class='vocab-link' id='text-sedentary' onclick='speakAndScroll(\"sedentary\", \"vocab-sedentary\")'>sédentaire</span></strong>, <strong><span class='vocab-link' id='text-opting' onclick='speakAndScroll(\"opting\", \"vocab-opting\")'>optant</span></strong> pour rester à la maison, lire un livre ou regarder un film pour récupérer d'une longue semaine de travail.</p><p>En matière de divertissement, les sports jouent un rôle <strong><span class='vocab-link' id='text-massive' onclick='speakAndScroll(\"massive\", \"vocab-massive\")'>massif</span></strong> dans la culture mondiale. Le football, souvent <strong><span class='vocab-link' id='text-cited' onclick='speakAndScroll(\"cited\", \"vocab-cited\")'>cité</span></strong> comme le sport le plus populaire au monde, attire des milliards de spectateurs. Sa <strong><span class='vocab-link' id='text-simplicity' onclick='speakAndScroll(\"simplicity\", \"vocab-simplicity\")'>simplicité</span></strong> (ne nécessitant ni équipement coûteux ni compétences complexes pour commencer) le rend accessible à tous. Même lorsqu'un grand match se termine par un ennuyeux match nul et vierge, l'<strong><span class='vocab-link' id='text-unpredictability' onclick='speakAndScroll(\"unpredictability\", \"vocab-unpredictability\")'>imprévisibilité</span></strong> du match suivant attire les fans. Cependant, au-delà du football grand public, de nombreux pays <strong><span class='vocab-link' id='text-cherish' onclick='speakAndScroll(\"cherish\", \"vocab-cherish\")'>chérissent</span></strong> leurs propres traditions nationales uniques. En Argentine, le « Pato » combine histoire et équitation, tandis qu'au Japon, le « Keirin » transforme le cyclisme en un événement <strong><span class='vocab-link' id='text-spectator' onclick='speakAndScroll(\"spectator\", \"vocab-spectator\")'>spectateur</span></strong> à grande vitesse et à <strong><span class='vocab-link' id='text-stakes' onclick='speakAndScroll(\"stakes\", \"vocab-stakes\")'>enjeux</span></strong> élevés. De nouvelles inventions comme le « Bossaball » mélangent même musique et gymnastique, montrant que notre façon de jouer est <strong><span class='vocab-link' id='text-constantly' onclick='speakAndScroll(\"constantly\", \"vocab-constantly\")'>constamment</span></strong> en <strong><span class='vocab-link' id='text-evolving' onclick='speakAndScroll(\"evolving\", \"vocab-evolving\")'>évolution</span></strong>.</p><p>Bien que les sports actifs soient excitants, l'importance du repos ne peut être <strong><span class='vocab-link' id='text-overlooked' onclick='speakAndScroll(\"overlooked\", \"vocab-overlooked\")'>négligée</span></strong>. En Espagne, la tradition de la « sieste » (une courte sieste après le déjeuner) est depuis longtemps un <strong><span class='vocab-link' id='text-staple' onclick='speakAndScroll(\"staple\", \"vocab-staple\")'>élément de base</span></strong> culturel. Bien que les horaires de travail modernes en aient fait un luxe pour certains, des recherches récentes soulignent ses avantages <strong><span class='vocab-link' id='text-immense' onclick='speakAndScroll(\"immense\", \"vocab-immense\")'>immenses</span></strong>. Une courte sieste peut augmenter les niveaux d'énergie, améliorer l'humeur et rendre les travailleurs plus productifs. En fait, des entreprises dans des villes comme New York et Londres installent désormais des pods de sieste high-tech, reconnaissant que les employés fatigués perdent leur <strong><span class='vocab-link' id='text-concentration' onclick='speakAndScroll(\"concentration\", \"vocab-concentration\")'>concentration</span></strong> et commettent plus d'erreurs.</p><p><strong><span class='vocab-link' id='text-ultimately' onclick='speakAndScroll(\"ultimately\", \"vocab-ultimately\")'>En fin de compte</span></strong>, que nous dansions à une fête d'anniversaire, que nous pariions sur une course cycliste rapide ou que nous profitions d'une sieste tranquille, l'objectif est le même : trouver un équilibre sain. Se détendre ne consiste pas seulement à être paresseux ; il s'agit de rester en bonne santé, de réduire le stress et de profiter au maximum de notre temps afin de rester heureux et productifs dans notre vie quotidienne.</p>",
+    "ko": "<p style='margin-top:0;'>휴식의 개념은 문화에 따라 크게 다르지만, '편안히 쉬다'라는 기본적인 욕구는 보편적인 인간의 <strong><span class='vocab-link' id='text-trait' onclick='speakAndScroll(\"trait\", \"vocab-trait\")'>특성</span></strong>으로 남아 있습니다. 신체 활동, <strong><span class='vocab-link' id='text-spectator' onclick='speakAndScroll(\"spectator\", \"vocab-spectator\")'>관람</span></strong> 스포츠, 또는 단순히 수면을 취하는 것을 통해, 우리가 자유 시간을 보내는 방식을 선택하는 것은 우리의 라이프스타일과 웰빙을 정의합니다. 이 유닛은 활동적인 여가와 필수적인 휴식 사이의 <strong><span class='vocab-link' id='text-fascinating' onclick='speakAndScroll(\"fascinating\", \"vocab-fascinating\")'>매혹적인</span></strong> 균형을 <strong><span class='vocab-link' id='text-explores' onclick='speakAndScroll(\"explores\", \"vocab-explores\")'>탐구</span></strong>합니다.</p><p>많은 사람들에게 주말은 재충전의 주요 시간입니다. 어떤 사람들은 산에서 하이킹을 하거나 가족과 함께 숲에서 캠핑을 하는 것과 같은 고에너지 야외 활동을 선호합니다. 이러한 계획은 종종 일기 예보에 따라 달라집니다. 화창하고 따뜻한 주말은 자연 속 산책이나 맑은 강에서 상쾌한 수영을 할 수 있는 완벽한 기회를 제공하기 때문입니다. 그러나 다른 사람들은 긴 일주일의 업무에서 회복하기 위해 집에 머물면서 책을 읽거나 영화를 보는 더 <strong><span class='vocab-link' id='text-sedentary' onclick='speakAndScroll(\"sedentary\", \"vocab-sedentary\")'>좌식</span></strong>적인 접근 방식을 <strong><span class='vocab-link' id='text-opting' onclick='speakAndScroll(\"opting\", \"vocab-opting\")'>선택</span></strong>합니다.</p><p>엔터테인먼트와 관련하여 스포츠는 세계 문화에서 <strong><span class='vocab-link' id='text-massive' onclick='speakAndScroll(\"massive\", \"vocab-massive\")'>거대한</span></strong> 역할을 합니다. 축구는 종종 세계에서 가장 인기 있는 스포츠로 <strong><span class='vocab-link' id='text-cited' onclick='speakAndScroll(\"cited\", \"vocab-cited\")'>인용</span></strong>되며, 수십억 명의 시청자를 끌어들입니다. 그 <strong><span class='vocab-link' id='text-simplicity' onclick='speakAndScroll(\"simplicity\", \"vocab-simplicity\")'>단순함</span></strong>(시작하는 데 값비싼 장비나 복잡한 기술이 필요하지 않음)은 누구나 접근할 수 있게 합니다. 큰 경기가 지루한 무득점 무승부로 끝나더라도, 다음 경기의 <strong><span class='vocab-link' id='text-unpredictability' onclick='speakAndScroll(\"unpredictability\", \"vocab-unpredictability\")'>예측 불가능성</span></strong>은 팬들이 계속 돌아오게 만듭니다. 그러나 주류 축구를 넘어 많은 국가들은 자신들만의 독특한 국가적 전통을 <strong><span class='vocab-link' id='text-cherish' onclick='speakAndScroll(\"cherish\", \"vocab-cherish\")'>소중히 여깁니다</span></strong>. 아르헨티나에서는 '파토'가 역사와 승마 기술을 결합하고, 일본에서는 '케이린'이 사이클링을 고속, <strong><span class='vocab-link' id='text-stakes' onclick='speakAndScroll(\"stakes\", \"vocab-stakes\")'>하이스테이크</span></strong> <strong><span class='vocab-link' id='text-spectator' onclick='speakAndScroll(\"spectator\", \"vocab-spectator\")'>관람</span></strong> 스포츠로 변화시킵니다. '보사볼'과 같은 새로운 발명품은 음악과 체조를 혼합하여, 우리가 노는 방식이 <strong><span class='vocab-link' id='text-constantly' onclick='speakAndScroll(\"constantly\", \"vocab-constantly\")'>지속적으로</span></strong> <strong><span class='vocab-link' id='text-evolving' onclick='speakAndScroll(\"evolving\", \"vocab-evolving\")'>진화</span></strong>하고 있음을 보여줍니다.</p><p>활동적인 스포츠는 흥미진진하지만, 휴식의 중요성을 <strong><span class='vocab-link' id='text-overlooked' onclick='speakAndScroll(\"overlooked\", \"vocab-overlooked\")'>간과</span></strong>할 수 없습니다. 스페인에서는 '시에스타'(점심 식사 후 짧은 낮잠)의 전통이 오랫동안 문화적 <strong><span class='vocab-link' id='text-staple' onclick='speakAndScroll(\"staple\", \"vocab-staple\")'>필수 요소</span></strong>였습니다. 현대의 업무 일정은 일부 사람들에게 그것을 사치로 만들었지만, 최근 연구는 그 <strong><span class='vocab-link' id='text-immense' onclick='speakAndScroll(\"immense\", \"vocab-immense\")'>엄청난</span></strong> 이점을 강조합니다. 짧은 낮잠은 에너지 수준을 높이고, 기분을 개선하며, 근로자를 더 생산적으로 만들 수 있습니다. 실제로 뉴욕과 런던 같은 도시의 기업들은 피곤한 직원들이 <strong><span class='vocab-link' id='text-concentration' onclick='speakAndScroll(\"concentration\", \"vocab-concentration\")'>집중력</span></strong>을 잃고 더 많은 실수를 한다는 사실을 인식하고 하이테크 낮잠 포드를 설치하고 있습니다.</p><p><strong><span class='vocab-link' id='text-ultimately' onclick='speakAndScroll(\"ultimately\", \"vocab-ultimately\")'>궁극적으로</span></strong>, 우리가 생일 파티에서 춤을 추든, 빠른 속도의 사이클 레이스에 베팅을 하든, 조용한 낮잠을 즐기든, 목표는 동일합니다: 건강한 균형을 찾는 것입니다. 휴식을 취하는 것은 단순히 게으른 것이 아닙니다. 그것은 건강을 유지하고, 스트레스를 줄이며, 우리의 시간을 최대한 활용하여 일상 생활에서 행복하고 생산적으로 지내는 것입니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "trait",
+        "word": "Trait",
+        "definition": "A particular quality in your personality or body."
+      },
+      {
+        "id": "spectator",
+        "word": "Spectator",
+        "definition": "A person who watches a sport or an event."
+      },
+      {
+        "id": "explores",
+        "word": "Explores",
+        "definition": "To examine or talk about something to learn more about it."
+      },
+      {
+        "id": "fascinating",
+        "word": "Fascinating",
+        "definition": "Extremely interesting."
+      },
+      {
+        "id": "sedentary",
+        "word": "Sedentary",
+        "definition": "Spending a lot of time sitting down and not moving."
+      },
+      {
+        "id": "opting",
+        "word": "Opting",
+        "definition": "Choosing one thing instead of another."
+      },
+      {
+        "id": "massive",
+        "word": "Massive",
+        "definition": "Very, very big or powerful."
+      },
+      {
+        "id": "cited",
+        "word": "Cited",
+        "definition": "Mentioned as an example or a reason."
+      },
+      {
+        "id": "simplicity",
+        "word": "Simplicity",
+        "definition": "The quality of being easy to understand or do."
+      },
+      {
+        "id": "unpredictability",
+        "word": "Unpredictability",
+        "definition": "The quality of being difficult to know what will happen next."
+      },
+      {
+        "id": "cherish",
+        "word": "Cherish",
+        "definition": "To love and keep something as a very important thing."
+      },
+      {
+        "id": "stakes",
+        "word": "Stakes",
+        "definition": "The money or risk involved in a game or event."
+      },
+      {
+        "id": "constantly",
+        "word": "Constantly",
+        "definition": "All the time or very often."
+      },
+      {
+        "id": "evolving",
+        "word": "Evolving",
+        "definition": "Changing and developing slowly over time."
+      },
+      {
+        "id": "overlooked",
+        "word": "Overlooked",
+        "definition": "Not noticed or not thought to be important."
+      },
+      {
+        "id": "staple",
+        "word": "Staple",
+        "definition": "A main or very important part of a culture or diet."
+      },
+      {
+        "id": "immense",
+        "word": "Immense",
+        "definition": "Extremely large or great."
+      },
+      {
+        "id": "concentration",
+        "word": "Concentration",
+        "definition": "The ability to think carefully about one thing."
+      },
+      {
+        "id": "ultimately",
+        "word": "Ultimately",
+        "definition": "Used to emphasize the most important or final result."
+      }
+    ],
+    "ja": [
+      {
+        "id": "trait",
+        "word": "特性",
+        "definition": "性格や身体における特定の性質。"
+      },
+      {
+        "id": "spectator",
+        "word": "観客",
+        "definition": "スポーツやイベントを観戦する人。"
+      },
+      {
+        "id": "explores",
+        "word": "探求する",
+        "definition": "何かについてもっと学ぶために調べたり話し合ったりすること。"
+      },
+      {
+        "id": "fascinating",
+        "word": "魅力的な",
+        "definition": "非常に興味深い。"
+      },
+      {
+        "id": "sedentary",
+        "word": "座りがちな",
+        "definition": "多くの時間を座って過ごし、あまり動かないこと。"
+      },
+      {
+        "id": "opting",
+        "word": "選択する",
+        "definition": "何かを別のものの代わりに選ぶこと。"
+      },
+      {
+        "id": "massive",
+        "word": "巨大な",
+        "definition": "非常に大きい、または強力な。"
+      },
+      {
+        "id": "cited",
+        "word": "引用された",
+        "definition": "例や理由として挙げられた。"
+      },
+      {
+        "id": "simplicity",
+        "word": "シンプルさ",
+        "definition": "理解や実行が簡単である性質。"
+      },
+      {
+        "id": "unpredictability",
+        "word": "予測不可能性",
+        "definition": "次に何が起こるか知ることが難しい性質。"
+      },
+      {
+        "id": "cherish",
+        "word": "大切にする",
+        "definition": "何かを愛し、非常に重要なものとして維持すること。"
+      },
+      {
+        "id": "stakes",
+        "word": "賭け金",
+        "definition": "ゲームやイベントに関わるお金やリスク。"
+      },
+      {
+        "id": "constantly",
+        "word": "常に",
+        "definition": "絶え間なく、または非常に頻繁に。"
+      },
+      {
+        "id": "evolving",
+        "word": "進化している",
+        "definition": "時間をかけてゆっくりと変化し発展すること。"
+      },
+      {
+        "id": "overlooked",
+        "word": "見落とされた",
+        "definition": "気づかれなかったり、重要ではないと考えられたりすること。"
+      },
+      {
+        "id": "staple",
+        "word": "定番",
+        "definition": "文化や食事の主要な、または非常に重要な部分。"
+      },
+      {
+        "id": "immense",
+        "word": "計り知れない",
+        "definition": "非常に大きい。"
+      },
+      {
+        "id": "concentration",
+        "word": "集中力",
+        "definition": "一つのことに注意深く考える能力。"
+      },
+      {
+        "id": "ultimately",
+        "word": "最終的に",
+        "definition": "最も重要な結果や最終結果を強調するために使用される。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "trait",
+        "word": "Trait",
+        "definition": "Une qualité particulière de votre personnalité ou de votre corps."
+      },
+      {
+        "id": "spectator",
+        "word": "Spectateur",
+        "definition": "Une personne qui regarde un sport ou un événement."
+      },
+      {
+        "id": "explores",
+        "word": "Explore",
+        "definition": "Examiner ou parler de quelque chose pour en apprendre davantage."
+      },
+      {
+        "id": "fascinating",
+        "word": "Fascinant",
+        "definition": "Extrêmement intéressant."
+      },
+      {
+        "id": "sedentary",
+        "word": "Sédentaire",
+        "definition": "Passer beaucoup de temps assis sans bouger."
+      },
+      {
+        "id": "opting",
+        "word": "Optant",
+        "definition": "Choisir une chose plutôt qu'une autre."
+      },
+      {
+        "id": "massive",
+        "word": "Massif",
+        "definition": "Très, très grand ou puissant."
+      },
+      {
+        "id": "cited",
+        "word": "Cité",
+        "definition": "Mentionné comme exemple ou raison."
+      },
+      {
+        "id": "simplicity",
+        "word": "Simplicité",
+        "definition": "La qualité d'être facile à comprendre ou à faire."
+      },
+      {
+        "id": "unpredictability",
+        "word": "Imprévisibilité",
+        "definition": "La qualité d'être difficile à savoir ce qui va arriver ensuite."
+      },
+      {
+        "id": "cherish",
+        "word": "Chérir",
+        "definition": "Aimer et garder quelque chose comme une chose très importante."
+      },
+      {
+        "id": "stakes",
+        "word": "Enjeux",
+        "definition": "L'argent ou le risque impliqué dans un jeu ou un événement."
+      },
+      {
+        "id": "constantly",
+        "word": "Constamment",
+        "definition": "Tout le temps ou très souvent."
+      },
+      {
+        "id": "evolving",
+        "word": "Évoluant",
+        "definition": "Changer et se développer lentement au fil du temps."
+      },
+      {
+        "id": "overlooked",
+        "word": "Négligé",
+        "definition": "Non remarqué ou non considéré comme important."
+      },
+      {
+        "id": "staple",
+        "word": "Élément de base",
+        "definition": "Une partie principale ou très importante d'une culture ou d'un régime."
+      },
+      {
+        "id": "immense",
+        "word": "Immense",
+        "definition": "Extrêmement grand."
+      },
+      {
+        "id": "concentration",
+        "word": "Concentration",
+        "definition": "La capacité de penser attentivement à une chose."
+      },
+      {
+        "id": "ultimately",
+        "word": "En fin de compte",
+        "definition": "Utilisé pour souligner le résultat le plus important ou final."
+      }
+    ],
+    "ko": [
+      {
+        "id": "trait",
+        "word": "특성",
+        "definition": "성격이나 신체의 특정한 자질."
+      },
+      {
+        "id": "spectator",
+        "word": "관람객",
+        "definition": "스포츠나 이벤트를 관람하는 사람."
+      },
+      {
+        "id": "explores",
+        "word": "탐구하다",
+        "definition": "무언가에 대해 더 배우기 위해 조사하거나 이야기하는 것."
+      },
+      {
+        "id": "fascinating",
+        "word": "매혹적인",
+        "definition": "매우 흥미로운."
+      },
+      {
+        "id": "sedentary",
+        "word": "좌식의",
+        "definition": "앉아서 많은 시간을 보내고 움직이지 않는."
+      },
+      {
+        "id": "opting",
+        "word": "선택하다",
+        "definition": "다른 것 대신 한 가지를 고르는 것."
+      },
+      {
+        "id": "massive",
+        "word": "거대한",
+        "definition": "매우 크거나 강력한."
+      },
+      {
+        "id": "cited",
+        "word": "인용된",
+        "definition": "예시나 이유로 언급된."
+      },
+      {
+        "id": "simplicity",
+        "word": "단순함",
+        "definition": "이해하거나 실행하기 쉬운 특성."
+      },
+      {
+        "id": "unpredictability",
+        "word": "예측 불가능성",
+        "definition": "다음에 무엇이 일어날지 알기 어려운 특성."
+      },
+      {
+        "id": "cherish",
+        "word": "소중히 여기다",
+        "definition": "무언가를 사랑하고 매우 중요한 것으로 간주하는 것."
+      },
+      {
+        "id": "stakes",
+        "word": "판돈",
+        "definition": "게임이나 이벤트에 관련된 돈이나 위험."
+      },
+      {
+        "id": "constantly",
+        "word": "지속적으로",
+        "definition": "항상 또는 매우 자주."
+      },
+      {
+        "id": "evolving",
+        "word": "진화하는",
+        "definition": "시간이 지남에 따라 천천히 변화하고 발전하는."
+      },
+      {
+        "id": "overlooked",
+        "word": "간과된",
+        "definition": "눈에 띄지 않거나 중요하지 않게 여겨지는."
+      },
+      {
+        "id": "staple",
+        "word": "필수 요소",
+        "definition": "문화나 식단의 주요하거나 매우 중요한 부분."
+      },
+      {
+        "id": "immense",
+        "word": "엄청난",
+        "definition": "매우 크거나 거대한."
+      },
+      {
+        "id": "concentration",
+        "word": "집중력",
+        "definition": "한 가지에 대해 주의 깊게 생각하는 능력."
+      },
+      {
+        "id": "ultimately",
+        "word": "궁극적으로",
+        "definition": "가장 중요하거나 최종적인 결과를 강조하는 데 사용됨."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. A Weekend Trip to the Mountains",
+        "label": "Conversation: Making Plans for the Weekend",
+        "script": [
+          {
+            "speaker": "Corinne",
+            "text": "So what are you going to do while you're here?"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "I'm just going to take it easy. I might go shopping tomorrow. You're working tomorrow, aren't you?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Yes - and Saturday morning, I'm afraid."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Oh dear."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "I'm sorry, but some important clients are coming and I need to go and meet them at the airport and make sure everything's OK."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Right. What time are you going to be back?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Hopefully about 2."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "That's OK, then. I don't usually get up before 11 anyway and I've brought my trainers, so I might go for a run. Is there anywhere to go near here?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "There's actually an athletics track just down the road."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "OK. To be honest, though, I'd prefer a park or somewhere like that."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Hmm. There's not much near here. I usually just run on the streets."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "OK. Well, I'll see. Have you got any plans for us over the weekend?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Well, a friend is having a party for his birthday on Saturday night, if you'd like to go."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Yeah, great. You know I always like a dance!"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "And the forecast is really good for Sunday, so we're thinking of going for a walk in the mountains near here."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Oh right. That sounds nice."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Yes, it's great there. There's a lovely river we can go swimming in."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Oh right. I haven't got my swimming gear with me."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "That's OK. I'm sure I can lend you something."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Isn't the water cold?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "A bit, but you soon warm up."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "I must admit, I'm a bit soft. I like a heated pool."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Honestly, it's not so bad and the water's really clear. It's just beautiful with the mountains and everything!"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "So what time are you thinking of leaving?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Well, it's two or three hours by car, so if we want to make the most of the day, we need to leave about 6 o'clock."
+          }
+        ]
+      },
+      {
+        "title": "1-2. The Magic of the World's Favorite Sport",
+        "label": "Conversation: Why Football is So Popular",
+        "script": [
+          {
+            "speaker": "Speaker",
+            "text": "Last night I watched the big game in England between Liverpool and Chelsea."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "I was one of 1 billion people watching in places as far apart as Peru, Saudi Arabia and Vietnam."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "It was a nil-nil draw and perhaps the most boring game I've ever seen."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Football may be the most popular sport in the world, but it's difficult to know why when you see a game like that."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Knowing that the players earn millions a year just makes it worse!"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "So why do we watch when there are plenty of alternatives?"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "The Olympics contains thirty-five sports; other countries have different national sports such as cricket; and new sports are being created all the time."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Maybe it's because football is the simplest game to play. Does anyone really understand the rules of cricket?"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Football doesn't need expensive equipment. In fact, it requires hardly any gear at all and you need no real skill to play - who can't kick a ball?"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "So nearly everyone has played at least once in their life and once you've played a sport, you appreciate it more."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Finally, football's different every game. Last night's game was boring, but next time Chelsea might win five-four, with a goal in the last minute!"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "You never know."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Useful Phrases for Everyday Life",
+        "label": "Conversation: Common Expressions",
+        "script": [
+          {
+            "speaker": "1",
+            "text": "These days, people are married on average for eleven and a half years, but the longest marriage lasted eighty years!"
+          },
+          {
+            "speaker": "2",
+            "text": "English must be one of the easiest languages to learn."
+          },
+          {
+            "speaker": "3",
+            "text": "We wanted to go there because they said it's the nicest place to eat."
+          },
+          {
+            "speaker": "4",
+            "text": "It's the prettiest village round here, so there's often a shortage of places to stay."
+          }
+        ]
+      },
+      {
+        "title": "1-4. The Power of the Siesta",
+        "label": "Conversation: The Benefits of Napping",
+        "script": [
+          {
+            "speaker": "Speaker",
+            "text": "In Spain, people typically work from nine in the morning till seven in the evening, though some start even earlier and finish even later."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "When people go out and relax, they often book a table in a restaurant for around ten at night or later and people frequently stay out till two, three or four in the morning. How do they do it?"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "In the past, the answer was the siesta - a short nap after lunch at around three or in the early evening."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Recent research on sleep suggests the Spanish were very wise."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "A short nap of between 20 minutes and an hour sometime between 1 and 3 pm can increase energy levels and improve your mood and creativity."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "However, nowadays more and more Spanish people are working longer and longer hours, and the siesta is becoming a luxury outside the summer holidays."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "At the moment, late nights are still common, but some academics say people are going to suffer from not having enough sleep if lifestyles don't change."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Strangely, this comes at a time when other countries are finally showing more interest in the siesta."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "One group in Britain has launched a campaign called National Nap at Work Week."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "They aim to inform people of the benefits of napping - and say that workers who take naps aren't lazy."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "In fact, exactly the opposite is true - people who nap during work time actually work better than those who don't sleep."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Tired people lose concentration and make more mistakes. Naps also bring increased happiness, and happy workers are more productive."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Elsewhere, a New York-based company called Metronaps has created a special hi-tech room for business people to nap in during the day."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "They are hoping to install the rooms in businesses everywhere."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "And in Europe a lot of offices are buying a specially designed bed, called the Ready Bed, which can be easily folded and put away."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "But remember, napping isn't only about being able to work better. Research also shows health benefits."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "People who nap regularly are apparently less likely to have heart attacks - maybe because they're more relaxed."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "A nap also means you can stay awake to do the things you really enjoy instead of falling asleep in front of the TV because you're so tired after a long day's work."
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. 山への週末旅行",
+        "label": "会話: 週末の計画を立てる",
+        "script": [
+          {
+            "speaker": "Corinne",
+            "text": "ここにいる間、何をするつもり？"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "ただゆっくりするつもり。明日は買い物に行くかも。明日は仕事なんでしょ？"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "そう - そして土曜の朝もね、残念ながら。"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "あらまあ。"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "ごめんね、でも大事なクライアントが来るから、空港に迎えに行って、すべてが大丈夫か確認しなきゃいけないの。"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "そう。何時に帰ってくるの？"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "願わくば2時頃に。"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "それなら大丈夫。私は普段11時前に起きないし、トレーナーも持ってきたから、ランニングに行くかも。この近くにどこか走れる場所ある？"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "実は道路を少し下ったところに陸上トラックがあるよ。"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "OK。でも正直言うと、公園とかそういう場所の方がいいな。"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "うーん。この辺にはあまりないんだ。私は普段通りを走っているよ。"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "OK。じゃあ、様子を見るよ。週末の私たちの予定は何かある？"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "そうだね、土曜の夜に友達の誕生日パーティーがあるんだけど、よかったら行かない？"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "うん、いいね。私がいつも踊るのが好きなの知ってるでしょ！"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "それに日曜日の天気予報が本当に良いから、この近くの山を散歩しようと思っているんだ。"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "そうなんだ。いいね。"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "うん、そこは素晴らしいんだ。泳げる素敵な川があるんだよ。"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "そうなんだ。水着を持ってきていないよ。"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "大丈夫。何か貸せると思うよ。"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "水は冷たくない？"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "少しね、でもすぐに温まるよ。"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "認めるけど、私はちょっと弱いんだ。温水プールが好きなの。"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "正直言って、それほど悪くないし、水は本当に澄んでいるよ。山とすべてがちょうど美しいんだ！"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "それで、何時頃に出発しようと思っているの？"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "そうだね、車で2、3時間かかるから、一日を最大限に活用したいなら、6時頃に出発する必要があるね。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. 世界で一番人気のスポーツの魔法",
+        "label": "会話: なぜフットボールはそんなに人気があるのか",
+        "script": [
+          {
+            "speaker": "話者",
+            "text": "昨夜、イングランドのリバプール対チェルシーの大試合を観た。"
+          },
+          {
+            "speaker": "話者",
+            "text": "私はペルー、サウジアラビア、ベトナムのように離れた場所で観ていた10億人のうちの一人だった。"
+          },
+          {
+            "speaker": "話者",
+            "text": "それはスコアレスドローで、おそらく今まで見た中で最も退屈な試合だった。"
+          },
+          {
+            "speaker": "話者",
+            "text": "フットボールは世界で最も人気のあるスポーツかもしれないが、あのような試合を見ると、なぜそうなのか知るのは難しい。"
+          },
+          {
+            "speaker": "話者",
+            "text": "選手が年間数百万稼いでいることを知ると、それはさらに悪くなる！"
+          },
+          {
+            "speaker": "話者",
+            "text": "では、たくさんの選択肢があるのに、なぜ私たちは観るのだろうか？"
+          },
+          {
+            "speaker": "話者",
+            "text": "オリンピックには35のスポーツがある；他の国々にはクリケットのような異なる国技がある；そして新しいスポーツが常に作られている。"
+          },
+          {
+            "speaker": "話者",
+            "text": "多分、フットボールが最もシンプルなスポーツだからだろう。誰か本当にクリケットのルールを理解しているだろうか？"
+          },
+          {
+            "speaker": "話者",
+            "text": "フットボールは高価な装備を必要としない。実際、ほとんど道具を必要とせず、プレイするのに本当のスキルは必要ない - 誰がボールを蹴れないだろうか？"
+          },
+          {
+            "speaker": "話者",
+            "text": "だからほとんどすべての人が人生で少なくとも一度はプレイしたことがあり、一度スポーツをプレイすると、それをより評価するようになる。"
+          },
+          {
+            "speaker": "話者",
+            "text": "最後に、フットボールは試合ごとに異なる。昨夜の試合は退屈だったが、次回はチェルシーが最後の1分にゴールを決めて5-4で勝つかもしれない！"
+          },
+          {
+            "speaker": "話者",
+            "text": "それは誰にもわからない。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. 日常生活のための便利なフレーズ",
+        "label": "会話: よく使う表現",
+        "script": [
+          {
+            "speaker": "1",
+            "text": "最近、人々は平均して11年半結婚しているが、最も長い結婚は80年続いた！"
+          },
+          {
+            "speaker": "2",
+            "text": "英語は間違いなく最も簡単な言語の一つだろう。"
+          },
+          {
+            "speaker": "3",
+            "text": "そこが一番美味しい食事ができる場所だと言われていたので、行きたかった。"
+          },
+          {
+            "speaker": "4",
+            "text": "この辺りで一番きれいな村なので、宿泊場所が不足することがよくある。"
+          }
+        ]
+      },
+      {
+        "title": "1-4. シエスタの力",
+        "label": "会話: 昼寝のメリット",
+        "script": [
+          {
+            "speaker": "話者",
+            "text": "スペインでは、人々は通常午前9時から午後7時まで働くが、中にはもっと早く始めてもっと遅く終える人もいる。"
+          },
+          {
+            "speaker": "話者",
+            "text": "人々が出かけたりリラックスしたりするとき、彼らはしばしば夜の10時頃以降にレストランのテーブルを予約し、午前2時、3時、4時まで頻繁に外出している。どうやってそれをしているのだろうか？"
+          },
+          {
+            "speaker": "話者",
+            "text": "昔は、その答えはシエスタ（午後3時頃または夕方早くの短い昼寝）だった。"
+          },
+          {
+            "speaker": "話者",
+            "text": "睡眠に関する最近の研究は、スペイン人が非常に賢明だったことを示唆している。"
+          },
+          {
+            "speaker": "話者",
+            "text": "午後1時から3時の間の20分から1時間の短い昼寝は、エネルギーレベルを高め、気分と創造性を向上させることができる。"
+          },
+          {
+            "speaker": "話者",
+            "text": "しかし、今日ではますます多くのスペイン人がますます長い時間働いており、シエスタは夏休み以外では贅沢になりつつある。"
+          },
+          {
+            "speaker": "話者",
+            "text": "現在のところ、夜更かしはまだ一般的だが、一部の学者はライフスタイルが変わらなければ人々は十分な睡眠を取れずに苦しむだろうと言っている。"
+          },
+          {
+            "speaker": "話者",
+            "text": "奇妙なことに、これは他の国々がようやくシエスタにもっと関心を示している時期に起こっている。"
+          },
+          {
+            "speaker": "話者",
+            "text": "イギリスのあるグループは、「職場での全国昼寝週間」というキャンペーンを開始した。"
+          },
+          {
+            "speaker": "話者",
+            "text": "彼らは人々に昼寝の利点を知らせることを目的としており、昼寝をする労働者は怠け者ではないと言っている。"
+          },
+          {
+            "speaker": "話者",
+            "text": "実際、まったく逆が真実である - 仕事中に昼寝をする人は、眠らない人よりも実際により良く働く。"
+          },
+          {
+            "speaker": "話者",
+            "text": "疲れた人は集中力を失い、より多くの間違いを犯す。昼寝はまた幸福感を高め、幸せな労働者はより生産的である。"
+          },
+          {
+            "speaker": "話者",
+            "text": "他の地域では、Metronapsというニューヨークの会社が、ビジネス関係者が日中に昼寝をするための特別なハイテクルームを作成した。"
+          },
+          {
+            "speaker": "話者",
+            "text": "彼らは至るところの企業にそのルームを設置することを望んでいる。"
+          },
+          {
+            "speaker": "話者",
+            "text": "そしてヨーロッパでは、多くのオフィスがReady Bedと呼ばれる特別に設計されたベッドを購入している。それは簡単に折りたたんで片付けられる。"
+          },
+          {
+            "speaker": "話者",
+            "text": "しかし忘れてはいけない、昼寝はより良く働くことができることだけではない。研究は健康上の利点も示している。"
+          },
+          {
+            "speaker": "話者",
+            "text": "定期的に昼寝をする人は、明らかに心臓発作を起こす可能性が低い - おそらくよりリラックスしているからだろう。"
+          },
+          {
+            "speaker": "話者",
+            "text": "昼寝はまた、長い一日の仕事の後にあまりにも疲れてテレビの前で眠りに落ちる代わりに、起きて本当に楽しむことをすることを意味する。"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Un week-end à la montagne",
+        "label": "Conversation : Planifier le week-end",
+        "script": [
+          {
+            "speaker": "Corinne",
+            "text": "Alors, qu'est-ce que tu vas faire pendant que tu es ici ?"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Je vais juste me détendre. Je vais peut-être faire du shopping demain. Tu travailles demain, n'est-ce pas ?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Oui - et samedi matin, j'en ai peur."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Oh mince."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Je suis désolée, mais des clients importants arrivent et je dois aller les accueillir à l'aéroport et m'assurer que tout va bien."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "D'accord. À quelle heure vas-tu rentrer ?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Espérons vers 14h."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "C'est bon, alors. Je ne me lève généralement pas avant 11h de toute façon et j'ai apporté mes baskets, donc je vais peut-être aller courir. Y a-t-il un endroit où aller près d'ici ?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Il y a en fait une piste d'athlétisme juste en bas de la rue."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "D'accord. Pour être honnête, je préférerais un parc ou un endroit comme ça."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Hum. Il n'y a pas grand-chose près d'ici. Je cours généralement dans les rues."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "D'accord. Eh bien, je verrai. As-tu des plans pour nous ce week-end ?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Eh bien, un ami organise une fête pour son anniversaire samedi soir, si tu veux y aller."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Oui, super. Tu sais que j'aime toujours danser !"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Et les prévisions sont vraiment bonnes pour dimanche, donc nous pensons aller nous promener dans les montagnes près d'ici."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Oh d'accord. Ça a l'air bien."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Oui, c'est génial là-bas. Il y a une jolie rivière où nous pouvons aller nager."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Oh d'accord. Je n'ai pas apporté mon maillot de bain."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Ce n'est pas grave. Je suis sûre que je peux te prêter quelque chose."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "L'eau n'est-elle pas froide ?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Un peu, mais on se réchauffe vite."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Je dois admettre que je suis un peu fragile. J'aime une piscine chauffée."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Honnêtement, ce n'est pas si mal et l'eau est vraiment claire. C'est tout simplement magnifique avec les montagnes et tout !"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "Alors, à quelle heure penses-tu partir ?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "Eh bien, c'est deux ou trois heures en voiture, donc si nous voulons profiter au maximum de la journée, nous devons partir vers 6 heures."
+          }
+        ]
+      },
+      {
+        "title": "1-2. La magie du sport le plus populaire au monde",
+        "label": "Conversation : Pourquoi le football est si populaire",
+        "script": [
+          {
+            "speaker": "Intervenant",
+            "text": "Hier soir, j'ai regardé le grand match en Angleterre entre Liverpool et Chelsea."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "J'étais l'une des 1 milliard de personnes qui regardaient dans des endroits aussi éloignés que le Pérou, l'Arabie Saoudite et le Vietnam."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "C'était un match nul et vierge et peut-être le match le plus ennuyeux que j'aie jamais vu."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Le football est peut-être le sport le plus populaire au monde, mais il est difficile de savoir pourquoi quand on voit un match comme celui-là."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Savoir que les joueurs gagnent des millions par an aggrave les choses !"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Alors pourquoi regardons-nous alors qu'il existe de nombreuses alternatives ?"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Les Jeux Olympiques comprennent trente-cinq sports ; d'autres pays ont des sports nationaux différents comme le cricket ; et de nouveaux sports sont créés tout le temps."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Peut-être parce que le football est le jeu le plus simple à jouer. Quelqu'un comprend-il vraiment les règles du cricket ?"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Le football n'a pas besoin d'équipement coûteux. En fait, il ne nécessite pratiquement aucun équipement et vous n'avez besoin d'aucune vraie compétence pour jouer - qui ne peut pas donner un coup de pied dans un ballon ?"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Donc presque tout le monde a joué au moins une fois dans sa vie et une fois que vous avez pratiqué un sport, vous l'appréciez davantage."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Enfin, le football est différent à chaque match. Le match d'hier soir était ennuyeux, mais la prochaine fois, Chelsea pourrait gagner cinq à quatre, avec un but à la dernière minute !"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "On ne sait jamais."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Phrases utiles pour la vie quotidienne",
+        "label": "Conversation : Expressions courantes",
+        "script": [
+          {
+            "speaker": "1",
+            "text": "De nos jours, les gens sont mariés en moyenne pendant onze ans et demi, mais le mariage le plus long a duré quatre-vingts ans !"
+          },
+          {
+            "speaker": "2",
+            "text": "L'anglais doit être l'une des langues les plus faciles à apprendre."
+          },
+          {
+            "speaker": "3",
+            "text": "Nous voulions y aller parce qu'ils disaient que c'était le meilleur endroit pour manger."
+          },
+          {
+            "speaker": "4",
+            "text": "C'est le plus joli village d'ici, donc il y a souvent une pénurie de logements."
+          }
+        ]
+      },
+      {
+        "title": "1-4. Le pouvoir de la sieste",
+        "label": "Conversation : Les bienfaits de la sieste",
+        "script": [
+          {
+            "speaker": "Intervenant",
+            "text": "En Espagne, les gens travaillent généralement de neuf heures du matin à sept heures du soir, bien que certains commencent encore plus tôt et finissent encore plus tard."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Lorsque les gens sortent et se détendent, ils réservent souvent une table dans un restaurant vers dix heures du soir ou plus tard et les gens restent fréquemment jusqu'à deux, trois ou quatre heures du matin. Comment font-ils ?"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Dans le passé, la réponse était la sieste - une courte sieste après le déjeuner vers trois heures ou en début de soirée."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Des recherches récentes sur le sommeil suggèrent que les Espagnols étaient très sages."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Une courte sieste de 20 minutes à une heure entre 13h et 15h peut augmenter les niveaux d'énergie et améliorer votre humeur et votre créativité."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Cependant, de nos jours, de plus en plus d'Espagnols travaillent de plus en plus longtemps, et la sieste devient un luxe en dehors des vacances d'été."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Pour l'instant, les nuits tardives sont encore courantes, mais certains universitaires disent que les gens vont souffrir de ne pas avoir assez de sommeil si les modes de vie ne changent pas."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Curieusement, cela arrive au moment où d'autres pays montrent enfin plus d'intérêt pour la sieste."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Un groupe en Grande-Bretagne a lancé une campagne appelée Semaine nationale de la sieste au travail."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Ils visent à informer les gens des bienfaits de la sieste - et disent que les travailleurs qui font la sieste ne sont pas paresseux."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "En fait, c'est exactement le contraire qui est vrai - les personnes qui font la sieste pendant les heures de travail travaillent en fait mieux que celles qui ne dorment pas."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Les personnes fatiguées perdent leur concentration et commettent plus d'erreurs. Les siestes apportent également un bonheur accru, et les travailleurs heureux sont plus productifs."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Ailleurs, une entreprise basée à New York appelée Metronaps a créé une salle high-tech spéciale pour que les gens d'affaires puissent faire la sieste pendant la journée."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Ils espèrent installer ces salles dans les entreprises partout dans le monde."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Et en Europe, de nombreux bureaux achètent un lit spécialement conçu, appelé Ready Bed, qui peut être facilement plié et rangé."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Mais rappelez-vous, la sieste ne consiste pas seulement à pouvoir mieux travailler. La recherche montre également des avantages pour la santé."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Les personnes qui font la sieste régulièrement sont apparemment moins susceptibles d'avoir des crises cardiaques - peut-être parce qu'elles sont plus détendues."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Une sieste signifie également que vous pouvez rester éveillé pour faire les choses que vous aimez vraiment au lieu de vous endormir devant la télévision parce que vous êtes trop fatigué après une longue journée de travail."
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 산으로 떠나는 주말 여행",
+        "label": "대화: 주말 계획 세우기",
+        "script": [
+          {
+            "speaker": "Corinne",
+            "text": "여기 있는 동안 뭐 할 거야?"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "그냥 푹 쉴 생각이야. 내일 쇼핑하러 갈 수도 있고. 너 내일 일하잖아?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "응 - 그리고 토요일 아침에도, 유감이지만."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "오 이런."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "미안해, 하지만 중요한 고객들이 오셔서 공항에 마중 나가서 모든 게 괜찮은지 확인해야 해."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "그래. 몇 시에 돌아올 거야?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "아마 2시쯤."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "그럼 괜찮네. 나는 원래 11시 전에는 안 일어나고 운동화도 가져왔으니까, 달리기를 할지도 몰라. 여기 근처에 갈 만한 데 있어?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "사실 길 아래에 육상 트랙이 있어."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "알겠어. 솔직히 말하면, 공원이나 그런 곳이 더 좋을 것 같아."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "음. 여기 근처엔 별로 없어. 나는 보통 길에서 달려."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "알겠어. 음, 생각해볼게. 우리 주말 계획 있어?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "음, 토요일 밤에 친구 생일 파티가 있는데, 가고 싶으면."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "응, 좋아. 내가 항상 춤추는 거 좋아하는 거 알잖아!"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "그리고 일요일 일기예보가 정말 좋아서, 여기 근처 산에 산책 가려고 생각 중이야."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "아 그렇구나. 좋겠다."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "응, 거기 정말 멋져. 수영할 수 있는 예쁜 강이 있어."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "아 그래. 수영복을 안 가져왔네."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "괜찮아. 내가 뭐 빌려줄 수 있을 거야."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "물 안 차가워?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "조금, 하지만 곧 따뜻해져."
+          },
+          {
+            "speaker": "Maribel",
+            "text": "인정할게, 나는 좀 약해. 난 온수 수영장이 좋아."
+          },
+          {
+            "speaker": "Corinne",
+            "text": "솔직히, 그렇게 나쁘지 않고 물도 정말 맑아. 산이랑 모든 게 그냥 아름다워!"
+          },
+          {
+            "speaker": "Maribel",
+            "text": "그럼 몇 시쯤 출발할 생각이야?"
+          },
+          {
+            "speaker": "Corinne",
+            "text": "음, 차로 2, 3시간 걸리니까, 하루를 최대한 활용하려면 6시쯤 출발해야 해."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 세계에서 가장 인기 있는 스포츠의 마법",
+        "label": "대화: 축구가 왜 그렇게 인기 있는가",
+        "script": [
+          {
+            "speaker": "화자",
+            "text": "어젯밤에 나는 잉글랜드의 리버풀 대 첼시 경기를 봤다."
+          },
+          {
+            "speaker": "화자",
+            "text": "나는 페루, 사우디아라비아, 베트남처럼 떨어진 장소에서 시청하는 10억 명 중 한 명이었다."
+          },
+          {
+            "speaker": "화자",
+            "text": "그것은 무득점 무승부였고 아마도 내가 본 가장 지루한 경기였을 것이다."
+          },
+          {
+            "speaker": "화자",
+            "text": "축구는 세계에서 가장 인기 있는 스포츠일지 모르지만, 그런 경기를 보면 그 이유를 알기 어렵다."
+          },
+          {
+            "speaker": "화자",
+            "text": "선수들이 연간 수백만 달러를 버는 것을 아는 것은 상황을 더 악화시킬 뿐이다!"
+          },
+          {
+            "speaker": "화자",
+            "text": "그렇다면 많은 대안이 있는데 왜 우리는 시청하는가?"
+          },
+          {
+            "speaker": "화자",
+            "text": "올림픽에는 35개의 스포츠가 있다; 다른 나라들은 크리켓과 같은 다른 국기(國技)를 가지고 있다; 그리고 새로운 스포츠가 끊임없이 만들어지고 있다."
+          },
+          {
+            "speaker": "화자",
+            "text": "아마도 축구가 가장 간단한 게임이기 때문일 것이다. 크리켓의 규칙을 정말로 이해하는 사람이 있을까?"
+          },
+          {
+            "speaker": "화자",
+            "text": "축구는 비싼 장비가 필요하지 않다. 사실, 거의 어떤 장비도 필요하지 않고 플레이하는 데 진짜 기술이 필요하지 않다 - 누가 공을 못 차겠는가?"
+          },
+          {
+            "speaker": "화자",
+            "text": "그래서 거의 모든 사람이 인생에서 적어도 한 번은 플레이해 보았고, 한 번 스포츠를 해보면 그것을 더 감상하게 된다."
+          },
+          {
+            "speaker": "화자",
+            "text": "마지막으로, 축구는 매 경기마다 다르다. 어젯밤 경기는 지루했지만, 다음 번에는 첼시가 마지막 1분에 골을 넣어 5-4로 이길지도 모른다!"
+          },
+          {
+            "speaker": "화자",
+            "text": "그건 아무도 모른다."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 일상 생활을 위한 유용한 표현들",
+        "label": "대화: 일상 표현",
+        "script": [
+          {
+            "speaker": "1",
+            "text": "요즘 사람들은 평균 11년 반 동안 결혼 생활을 하지만, 가장 긴 결혼 생활은 80년 동안 지속되었다!"
+          },
+          {
+            "speaker": "2",
+            "text": "영어는 배우기 가장 쉬운 언어 중 하나임에 틀림없다."
+          },
+          {
+            "speaker": "3",
+            "text": "그곳이 가장 맛있는 식사를 할 수 있는 장소라고 해서 우리는 거기에 가고 싶었다."
+          },
+          {
+            "speaker": "4",
+            "text": "여기서 가장 예쁜 마을이라서 숙박 장소가 부족할 때가 많다."
+          }
+        ]
+      },
+      {
+        "title": "1-4. 시에스타의 힘",
+        "label": "대화: 낮잠의 이점",
+        "script": [
+          {
+            "speaker": "화자",
+            "text": "스페인에서는 사람들이 보통 오전 9시부터 오후 7시까지 일하지만, 어떤 이들은 더 일찍 시작하고 더 늦게 끝내기도 한다."
+          },
+          {
+            "speaker": "화자",
+            "text": "사람들이 외출하여 �식을 취할 때, 그들은 종종 밤 10시쯤 이후에 레스토랑 테이블을 예약하고, 새벽 2시, 3시, 4시까지 자주 외출한다. 어떻게 그럴 수 있을까?"
+          },
+          {
+            "speaker": "화자",
+            "text": "과거에는 그 답이 시에스타(오후 3시쯤이나 이른 저녁의 짧은 낮잠)였다."
+          },
+          {
+            "speaker": "화자",
+            "text": "수면에 대한 최근 연구는 스페인 사람들이 매우 현명했다는 것을 시사한다."
+          },
+          {
+            "speaker": "화자",
+            "text": "오후 1시에서 3시 사이의 20분에서 1시간 사이의 짧은 낮잠은 에너지 수준을 높이고 기분과 창의성을 향상시킬 수 있다."
+          },
+          {
+            "speaker": "화자",
+            "text": "그러나 오늘날 점점 더 많은 스페인 사람들이 점점 더 오랜 시간 일하고 있으며, 시에스타는 여름 휴가철 외에는 사치가 되어가고 있다."
+          },
+          {
+            "speaker": "화자",
+            "text": "현재로서는 늦은 밤 시간이 여전히 일반적이지만, 일부 학자들은 생활 방식이 변하지 않으면 사람들이 충분한 수면 부족으로 고통받을 것이라고 말한다."
+          },
+          {
+            "speaker": "화자",
+            "text": "이상하게도, 이것은 다른 나라들이 마침내 시에스타에 더 많은 관심을 보이는 시기에 일어나고 있다."
+          },
+          {
+            "speaker": "화자",
+            "text": "영국의 한 단체는 '직장에서의 국가 낮잠 주간'이라는 캠페인을 시작했다."
+          },
+          {
+            "speaker": "화자",
+            "text": "그들은 사람들에게 낮잠의 이점을 알리는 것을 목표로 하며, 낮잠을 자는 근로자는 게으르지 않다고 말한다."
+          },
+          {
+            "speaker": "화자",
+            "text": "사실, 정반대가 사실이다 - 업무 시간 중 낮잠을 자는 사람들은 잠을 자지 않는 사람들보다 실제로 더 잘 일한다."
+          },
+          {
+            "speaker": "화자",
+            "text": "피곤한 사람들은 집중력을 잃고 더 많은 실수를 저지른다. 낮잠은 또한 행복감을 증가시키며, 행복한 근로자는 더 생산적이다."
+          },
+          {
+            "speaker": "화자",
+            "text": "다른 지역에서는 Metronaps라는 뉴욕 기반 회사가 비즈니스 사람들이 낮에 낮잠을 잘 수 있는 특별한 하이테크 룸을 만들었다."
+          },
+          {
+            "speaker": "화자",
+            "text": "그들은 그 룸을 모든 기업에 설치하기를 희망하고 있다."
+          },
+          {
+            "speaker": "화자",
+            "text": "그리고 유럽에서는 많은 사무실이 쉽게 접고 치울 수 있는 Ready Bed라는 특별히 디자인된 침대를 구매하고 있다."
+          },
+          {
+            "speaker": "화자",
+            "text": "하지만 기억하라, 낮잠은 단순히 더 잘 일할 수 있는 능력에 관한 것이 아니다. 연구는 건강상의 이점도 보여준다."
+          },
+          {
+            "speaker": "화자",
+            "text": "정기적으로 낮잠을 자는 사람들은 분명히 심장 마비가 덜 발생한다 - 아마도 그들이 더 이완되어 있기 때문일 것이다."
+          },
+          {
+            "speaker": "화자",
+            "text": "낮잠은 또한 긴 하루 일과 후 너무 피곤해서 TV 앞에서 잠드는 대신, 깨어서 정말 즐기는 일을 할 수 있음을 의미한다."
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "UNIQUE SPORTS AROUND THE WORLD",
+    "ja": "世界のユニークなスポーツ",
+    "fr": "SPORTS UNIQUES À TRAVERS LE MONDE",
+    "ko": "세계의 독특한 스포츠"
+  },
+  "extra_reading_html": {
+    "en": "<p>Pato: The National Sport of Argentina</p><p>Although it doesn't attract big crowds or money, Pato is the national sport of Argentina. It was invented in the 17th century and originally involved two teams on horses trying to prevent each other from carrying a duck (pato in Spanish) to their farmhouse. The sport was banned for a while because of violence - not only to the duck, but also to other players. Some were killed in fights or from being kicked by the horses. The modern game (sometimes also known as Horseball) is a lot safer. Teams of four riders fight for the 'duck' (now a ball with handles) and throw and catch it to try and score in their opponent's net.</p><p>Keirin: Japan's High-Speed Cycle Racing</p><p>Since 1948, Keirin has become one of Japan's biggest spectator sports with over 20 million a year attending events. People now bet over $15 billion dollars on the outcome of the races. Keirin is like horseracing, but with cyclists. Nine competitors ride round a track following a cyclist who sets the pace at about 50km/h. He then leaves the track so the riders can race each other for the remaining two laps, reaching speeds of 70km/h. There are often crashes as there is so little space to race in. Riders have to train 15 hours a day in special schools to be able to race and can win millions of dollars.</p><p>Bossaball: A Fusion of Music and Sport</p><p>Bossaball is a new game with a small but growing support. It was invented in Belgium a few years ago. It's played on a special inflatable pitch and is a mixture of volleyball, football, gymnastics and dance. Players bounce up and down and aim to pass, kick and head the ball over the net. The rules are a little complicated, but you basically lose a point when the ball touches the floor. The referee is also a DJ who plays Brazilian music as the teams play.</p>",
+    "ja": "<p>パト：アルゼンチンの国技</p><p>大きな観客やお金を集めるわけではないが、パトはアルゼンチンの国技である。17世紀に発明され、元々は馬に乗った2つのチームが、農家にアヒル（スペイン語でパト）を運ぶのをお互いに妨害しようとするものだった。このスポーツは暴力のために一時禁止された - アヒルに対してだけでなく、他のプレイヤーに対しても。戦いや馬に蹴られて死亡する者もいた。現代のゲーム（時にはホースボールとしても知られている）ははるかに安全である。4人のライダーのチームが「アヒル」（現在はハンドル付きのボール）を奪い合い、相手のネットに得点を入れようと投げたりキャッチしたりする。</p><p>ケイリン：日本の高速サイクルレース</p><p>1948年以来、ケイリンは日本最大の観戦スポーツの一つとなり、年間2000万人以上がイベントに参加している。人々は現在、レースの結果に150億ドル以上を賭けている。ケイリンは競馬のようなものだが、サイクリストで行う。9人の競技者が、時速約50kmでペースを設定するサイクリストに続いてトラックを周回する。彼はその後トラックを離れ、残り2周の間ライダーたちは互いに競い合い、時速70kmに達する。レーススペースが非常に狭いため、しばしばクラッシュが発生する。ライダーはレースに出場できるようになるために専門学校で1日15時間トレーニングしなければならず、数百万ドルを獲得することができる。</p><p>ボサボール：音楽とスポーツの融合</p><p>ボサボールは、小さいながらも成長している支持を持つ新しいゲームである。数年前にベルギーで発明された。特別なインフレータブルピッチでプレイされ、バレーボール、サッカー、体操、ダンスの混合である。プレイヤーは上下に跳ねながら、ボールをパスし、蹴り、ヘディングでネット越しに送ることを目指す。ルールは少し複雑だが、基本的にボールが床に触れるとポイントを失う。審判はまた、チームがプレイする間にブラジル音楽をかけるDJでもある。</p>",
+    "fr": "<p>Pato : Le sport national d'Argentine</p><p>Bien qu'il n'attire pas de grandes foules ni d'argent, le Pato est le sport national de l'Argentine. Il a été inventé au 17e siècle et impliquait à l'origine deux équipes à cheval essayant de s'empêcher mutuellement de porter un canard (pato en espagnol) jusqu'à leur ferme. Le sport a été interdit pendant un certain temps en raison de la violence - non seulement envers le canard, mais aussi envers les autres joueurs. Certains ont été tués dans des bagarres ou en se faisant donner des coups de pied par les chevaux. Le jeu moderne (parfois aussi connu sous le nom de Horseball) est beaucoup plus sûr. Des équipes de quatre cavaliers se battent pour le « canard » (maintenant un ballon avec des poignées) et le lancent et l'attrapent pour essayer de marquer dans le filet de l'adversaire.</p><p>Keirin : La course cycliste à grande vitesse du Japon</p><p>Depuis 1948, le Keirin est devenu l'un des plus grands sports spectateurs du Japon avec plus de 20 millions de personnes assistant aux événements chaque année. Les gens parient maintenant plus de 15 milliards de dollars sur l'issue des courses. Le Keirin est comme les courses de chevaux, mais avec des cyclistes. Neuf concurrents font le tour d'une piste en suivant un cycliste qui fixe le rythme à environ 50 km/h. Il quitte ensuite la piste pour que les coureurs puissent s'affronter sur les deux derniers tours, atteignant des vitesses de 70 km/h. Il y a souvent des accidents car il y a si peu d'espace pour courir. Les coureurs doivent s'entraîner 15 heures par jour dans des écoles spéciales pour pouvoir courir et peuvent gagner des millions de dollars.</p><p>Bossaball : Une fusion de la musique et du sport</p><p>Le Bossaball est un nouveau jeu avec un soutien petit mais croissant. Il a été inventé en Belgique il y a quelques années. Il se joue sur un terrain gonflable spécial et est un mélange de volleyball, de football, de gymnastique et de danse. Les joueurs rebondissent de haut en bas et visent à passer, donner des coups de pied et faire des headers pour envoyer le ballon par-dessus le filet. Les règles sont un peu compliquées, mais vous perdez essentiellement un point lorsque le ballon touche le sol. L'arbitre est également un DJ qui joue de la musique brésilienne pendant que les équipes jouent.</p>",
+    "ko": "<p>파토: 아르헨티나의 국기(國技)</p><p>많은 관중이나 돈을 모으지는 않지만, 파토는 아르헨티나의 국기이다. 17세기에 발명되었으며, 원래는 말을 탄 두 팀이 서로 오리를 농가로 운반하는 것을 방해하려는 것이었다. 이 스포츠는 폭력 때문에 한동안 금지되었다 - 오리뿐만 아니라 다른 선수들에게도. 말과의 싸움이나 말에 차여 사망하는 사람도 있었다. 현대 게임(때로는 호스볼로도 알려짐)은 훨씬 더 안전하다. 4명의 기수로 구성된 팀이 '오리'(현재는 손잡이가 달린 공)를 놓고 싸우며, 상대방의 그물에 득점하기 위해 던지고 잡는다.</p><p>케이린: 일본의 고속 사이클 레이스</p><p>1948년 이래로, 케이린은 일본 최대의 관중 스포츠 중 하나가 되어 매년 2천만 명 이상이 경기에 참석한다. 사람들은 현재 경기 결과에 150억 달러 이상을 베팅한다. 케이린은 경마와 비슷하지만, 사이클 선수들과 함께한다. 9명의 경쟁자는 약 시속 50km로 페이스를 설정하는 사이클 선수를 따라 트랙을 돈다. 그는 트랙을 떠나면 남은 2바퀴 동안 선수들이 서로 경쟁하며 시속 70km의 속도에 도달한다. 경주 공간이 매우 좁아 종종 충돌이 발생한다. 선수들은 경주를 할 수 있도록 특수 학교에서 하루 15시간을 훈련해야 하며 수백만 달러를 벌 수 있다.</p><p>보사볼: 음악과 스포츠의 융합</p><p>보사볼은 작지만 성장하는 지지를 받는 새로운 게임이다. 몇 년 전 벨기에에서 발명되었다. 특수 에어 매트 피치에서 진행되며 배구, 축구, 체조, 댄스가 혼합된 게임이다. 선수들은 위아래로 튀어오르며 공을 패스하고, 차고, 헤딩하여 네트 너머로 보내는 것을 목표로 한다. 규칙은 약간 복잡하지만, 기본적으로 공이 바닥에 닿으면 점수를 잃는다. 심판은 또한 팀이 플레이하는 동안 브라질 음악을 틀어주는 DJ이기도 하다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Pato was originally played by teams on horses using a ball with handles.",
+        "correct": "F",
+        "explanation": "False (It originally used a real duck.)"
+      },
+      {
+        "question": "The modern version of Pato, also known as Horseball, is safer than the original game.",
+        "correct": "T",
+        "explanation": "True (The modern game 'sometimes also known as Horseball' is a lot safer.)"
+      },
+      {
+        "question": "More than 20 million people attend Keirin events in Japan every year.",
+        "correct": "T",
+        "explanation": "True (Keirin has become one of Japan's biggest spectator sports with over 20 million a year attending events.)"
+      },
+      {
+        "question": "In Keirin, a pace-setting cyclist stays on the track until the very end of the race.",
+        "correct": "F",
+        "explanation": "False (He leaves the track for the final two laps.)"
+      },
+      {
+        "question": "In Bossaball, teams lose a point if the ball touches the inflatable floor.",
+        "correct": "T",
+        "explanation": "True (You basically lose a point when the ball touches the floor.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "パトは元々、ハンドル付きのボールを使った馬に乗ったチームによってプレイされていた。",
+        "correct": "F",
+        "explanation": "偽 (元々は本物のアヒルを使用していました。)"
+      },
+      {
+        "question": "ホースボールとしても知られるパトの現代版は、元のゲームよりも安全である。",
+        "correct": "T",
+        "explanation": "真 (現代のゲーム「時にはホースボールとしても知られる」ははるかに安全です。)"
+      },
+      {
+        "question": "毎年2000万人以上が日本でケイリンイベントに参加している。",
+        "correct": "T",
+        "explanation": "真 (ケイリンは日本最大の観戦スポーツの一つとなり、年間2000万人以上がイベントに参加しています。)"
+      },
+      {
+        "question": "ケイリンでは、ペースメーカーのサイクリストがレースの最後までトラックに留まる。",
+        "correct": "F",
+        "explanation": "偽 (彼は残り2周のためにトラックを離れます。)"
+      },
+      {
+        "question": "ボサボールでは、ボールがエアマットの床に触れるとポイントを失う。",
+        "correct": "T",
+        "explanation": "真 (基本的にボールが床に触れるとポイントを失います。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Le Pato était à l'origine joué par des équipes à cheval utilisant un ballon avec des poignées.",
+        "correct": "F",
+        "explanation": "Faux (Il utilisait à l'origine un vrai canard.)"
+      },
+      {
+        "question": "La version moderne du Pato, également connue sous le nom de Horseball, est plus sûre que le jeu original.",
+        "correct": "T",
+        "explanation": "Vrai (Le jeu moderne « parfois aussi connu sous le nom de Horseball » est beaucoup plus sûr.)"
+      },
+      {
+        "question": "Plus de 20 millions de personnes assistent aux événements Keirin au Japon chaque année.",
+        "correct": "T",
+        "explanation": "Vrai (Le Keirin est devenu l'un des plus grands sports spectateurs du Japon avec plus de 20 millions de personnes assistant aux événements chaque année.)"
+      },
+      {
+        "question": "Au Keirin, un cycliste qui fixe le rythme reste sur la piste jusqu'à la toute fin de la course.",
+        "correct": "F",
+        "explanation": "Faux (Il quitte la piste pour les deux derniers tours.)"
+      },
+      {
+        "question": "Au Bossaball, les équipes perdent un point si le ballon touche le sol gonflable.",
+        "correct": "T",
+        "explanation": "Vrai (Vous perdez essentiellement un point lorsque le ballon touche le sol.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "파토는 원래 손잡이가 달린 공을 사용하여 말을 탄 팀들이 경기를 했다.",
+        "correct": "F",
+        "explanation": "거짓 (원래는 진짜 오리를 사용했습니다.)"
+      },
+      {
+        "question": "호스볼로도 알려진 현대 파토는 원래 게임보다 더 안전하다.",
+        "correct": "T",
+        "explanation": "참 (현대 게임은 '때로는 호스볼로 알려진' 것이 훨씬 더 안전합니다.)"
+      },
+      {
+        "question": "매년 2천만 명 이상의 사람들이 일본에서 케이린 경기에 참석한다.",
+        "correct": "T",
+        "explanation": "참 (케이린은 일본 최대의 관중 스포츠 중 하나가 되어 매년 2천만 명 이상이 경기에 참석합니다.)"
+      },
+      {
+        "question": "케이린에서 페이스를 설정하는 사이클 선수는 경기가 끝날 때까지 트랙에 남아 있다.",
+        "correct": "F",
+        "explanation": "거짓 (그는 마지막 두 바퀴를 위해 트랙을 떠납니다.)"
+      },
+      {
+        "question": "보사볼에서 공이 에어매트 바닥에 닿으면 팀은 점수를 잃는다.",
+        "correct": "T",
+        "explanation": "참 (기본적으로 공이 바닥에 닿으면 점수를 잃습니다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "national sport of Argentina",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "banned for a while",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Pato is the national sport of Argentina, but it was banned for a while due to violence.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "sets the pace",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "bet over $15 billion dollars",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "In Keirin, a cyclist sets the pace before others race, and people bet over $15 billion dollars on the outcome.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "While Pato remains the national sport of Argentina despite being banned for a while in the past, Japan's Keirin is a massive industry. Fans bet over $15 billion dollars on races where a pacer sets the pace for high-speed cyclists.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "fusion of music and sport",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "special inflatable pitch",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Bossaball is a fusion of music and sport played on a special inflatable pitch.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "rules are a little complicated",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "aim to pass, kick and head",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Although the rules are a little complicated, players aim to pass, kick and head the ball over the net.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bossaball offers a unique fusion of music and sport on a special inflatable pitch. Even if the rules are a little complicated, the excitement grows as players aim to pass, kick and head the ball to the beat of the music.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "From the national sport of Argentina that was banned for a while, to Keirin where spectators bet over $15 billion dollars as a cyclist sets the pace, sports are diverse. Newer games like Bossaball create a fusion of music and sport on a special inflatable pitch. Whether players aim to pass, kick and head the ball or follow rules that are a little complicated, these sports define cultural identity.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "アルゼンチンの国技",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "一時的に禁止された",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "パトはアルゼンチンの国技ですが、暴力のために一時的に禁止されました。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "ペースを設定する",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "150億ドル以上を賭ける",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "ケイリンでは、サイクリストが他の人の前にペースを設定し、人々は結果に150億ドル以上を賭けます。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "パトは過去に一時的に禁止されたにもかかわらずアルゼンチンの国技であり続けていますが、日本のケイリンは巨大な産業です。ファンはペースメーカーが高速サイクリストのためにペースを設定するレースに150億ドル以上を賭けます。",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "音楽とスポーツの融合",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "特別なエアマットピッチ",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "ボサボールは特別なエアマットピッチで行われる音楽とスポーツの融合です。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "ルールは少し複雑",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "パスし、蹴り、ヘディングすることを目指す",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "ルールは少し複雑ですが、プレイヤーはネット越しにボールをパスし、蹴り、ヘディングすることを目指します。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "ボサボールは特別なエアマットピッチでユニークな音楽とスポーツの融合を提供します。ルールが少し複雑でも、プレイヤーが音楽のビートに合わせてボールをパスし、蹴り、ヘディングすることを目指すにつれて興奮が高まります。",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "一時的に禁止されたアルゼンチンの国技から、観客がサイクリストがペースを設定するのに150億ドル以上を賭けるケイリンまで、スポーツは多様です。ボサボールのような新しいゲームは、特別なエアマットピッチで音楽とスポーツの融合を生み出します。プレイヤーがボールをパスし、蹴り、ヘディングすることを目指すか、少し複雑なルールに従うかに関わらず、これらのスポーツは文化的アイデンティティを定義します。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "sport national d'Argentine",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "interdit pendant un certain temps",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Le Pato est le sport national d'Argentine, mais il a été interdit pendant un certain temps en raison de la violence.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "fixe le rythme",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "parier plus de 15 milliards de dollars",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Au Keirin, un cycliste fixe le rythme avant que les autres ne courent, et les gens parient plus de 15 milliards de dollars sur le résultat.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alors que le Pato reste le sport national d'Argentine malgré avoir été interdit pendant un certain temps dans le passé, le Keirin japonais est une industrie massive. Les fans parient plus de 15 milliards de dollars sur les courses où un meneur fixe le rythme pour les cyclistes à grande vitesse.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "fusion de la musique et du sport",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "terrain gonflable spécial",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Le Bossaball est une fusion de la musique et du sport joué sur un terrain gonflable spécial.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "les règles sont un peu compliquées",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "viser à passer, donner des coups de pied et faire des headers",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Bien que les règles soient un peu compliquées, les joueurs visent à passer, donner des coups de pied et faire des headers pour envoyer le ballon par-dessus le filet.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le Bossaball offre une fusion unique de la musique et du sport sur un terrain gonflable spécial. Même si les règles sont un peu compliquées, l'excitation grandit à mesure que les joueurs visent à passer, donner des coups de pied et faire des headers au rythme de la musique.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Du sport national d'Argentine qui a été interdit pendant un certain temps, au Keirin où les spectateurs parient plus de 15 milliards de dollars alors qu'un cycliste fixe le rythme, les sports sont diversifiés. Des jeux plus récents comme le Bossaball créent une fusion de la musique et du sport sur un terrain gonflable spécial. Que les joueurs visent à passer, donner des coups de pied et faire des headers ou suivent des règles un peu compliquées, ces sports définissent l'identité culturelle.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "아르헨티나의 국기",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "한동안 금지되었다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "파토는 아르헨티나의 국기이지만, 폭력 때문에 한동안 금지되었습니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "페이스를 설정하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "150억 달러 이상을 베팅하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "케이린에서는 사이클 선수가 다른 선수들보다 먼저 페이스를 설정하고, 사람들은 결과에 150억 달러 이상을 베팅합니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "파토는 과거에 한동안 금지되었음에도 불구하고 아르헨티나의 국기로 남아 있는 반면, 일본의 케이린은 거대한 산업입니다. 팬들은 페이스메이커가 고속 사이클 선수들을 위해 페이스를 설정하는 경주에 150억 달러 이상을 베팅합니다.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "음악과 스포츠의 융합",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "특수 에어매트 피치",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "보사볼은 특수 에어매트 피치에서 진행되는 음악과 스포츠의 융합입니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "규칙이 약간 복잡하다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "패스하고, 차고, 헤딩하는 것을 목표로 하다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "규칙은 약간 복잡하지만, 선수들은 네트 너머로 공을 패스하고, 차고, 헤딩하는 것을 목표로 합니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "보사볼은 특수 에어매트 피치에서 독특한 음악과 스포츠의 융합을 제공합니다. 규칙이 약간 복잡하더라도 선수들이 음악의 비트에 맞춰 공을 패스하고, 차고, 헤딩하는 것을 목표로 함에 따라 흥미진진함이 커집니다.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "한동안 금지되었던 아르헨티나의 국기부터, 관중들이 사이클 선수가 페이스를 설정하는 것에 150억 달러 이상을 베팅하는 케이린까지, 스포츠는 다양합니다. 보사볼과 같은 새로운 게임은 특수 에어매트 피치에서 음악과 스포츠의 융합을 만들어냅니다. 선수들이 공을 패스하고, 차고, 헤딩하는 것을 목표로 하든, 약간 복잡한 규칙을 따르든, 이러한 스포츠는 문화적 정체성을 정의합니다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Form and Structure (Might / Present Continuous / Be going to)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Might + Verb</strong>: Used for <strong>possibility</strong> (not 100% sure).</p><p style='margin:5px 0;'><strong>• Present Continuous (am/is/are + -ing)</strong>: Used for <strong>fixed arrangements</strong> (plan already made).</p><p style='margin:5px 0;'><strong>• Be going to + Verb</strong>: Used for <strong>intentions</strong> (plan decided before speaking).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example (Might):</strong> 'The weather forecast says it <span style='color:#e67e22; font-weight:bold;'>might rain</span>.'<br><i style='color:#7f8c8d;'>(Possibility, not sure)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example (Present Continuous):</strong> 'I'<span style='color:#2980b9; font-weight:bold;'>m watching</span> Bossaball this weekend.'<br><i style='color:#7f8c8d;'>(Fixed arrangement)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example (Be going to):</strong> 'Some people <span style='color:#16a085; font-weight:bold;'>are going to stay</span> at home.'<br><i style='color:#7f8c8d;'>(Intention)</i></li></ul><h3>2. Superlatives (The Best of the Best)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Short Adjectives:</strong> the + adjective + <strong>-est</strong> (e.g., big &rarr; the biggest)</p><p style='margin:5px 0;'><strong>• Long Adjectives:</strong> <strong>the most</strong> + adjective (e.g., popular &rarr; the most popular)</p><p style='margin:5px 0;'><strong>• Irregular:</strong> good &rarr; <strong>the best</strong> / bad &rarr; <strong>the worst</strong></p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'Football is cited as the world's <span style='color:#d35400; font-weight:bold;'>most popular</span> sport.'</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'Learning about Pato was the <span style='color:#d35400; font-weight:bold;'>most fascinating</span> part.'</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'Keirin is one of Japan's <span style='color:#d35400; font-weight:bold;'>biggest</span> spectator sports.'</li></ul>",
+    "ja": "<p><em>文法ノートは現在英語のみ利用可能です。日本語版は後日追加されます。</em></p>",
+    "fr": "<p><em>Les notes de grammaire sont actuellement disponibles uniquement en anglais. La version française sera ajoutée ultérieurement.</em></p>",
+    "ko": "<p><em>문법 노트는 현재 영어로만 제공됩니다. 한국어 버전은 추후 추가될 예정입니다.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Personality & Lifestyle</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: trait, explores, sedentary, opting, fascinating</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. This textbook <select class='vocab-select'><option value=''>── select ──</option><option value='trait'>trait</option><option value='explores'>explores</option><option value='sedentary'>sedentary</option><option value='opting'>opting</option><option value='fascinating'>fascinating</option></select> how different cultures relax.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='explores' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Learning about world traditions is truly <select class='vocab-select'><option value=''>── select ──</option><option value='trait'>trait</option><option value='explores'>explores</option><option value='sedentary'>sedentary</option><option value='opting'>opting</option><option value='fascinating'>fascinating</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='fascinating' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Sitting at a desk all day is a <select class='vocab-select'><option value=''>── select ──</option><option value='trait'>trait</option><option value='explores'>explores</option><option value='sedentary'>sedentary</option><option value='opting'>opting</option><option value='fascinating'>fascinating</option></select> lifestyle.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='sedentary' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. More people are <select class='vocab-select'><option value=''>── select ──</option><option value='trait'>trait</option><option value='explores'>explores</option><option value='sedentary'>sedentary</option><option value='opting'>opting</option><option value='fascinating'>fascinating</option></select> for active hobbies.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='opting' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. The need for rest is a common human <select class='vocab-select'><option value=''>── select ──</option><option value='trait'>trait</option><option value='explores'>explores</option><option value='sedentary'>sedentary</option><option value='opting'>opting</option><option value='fascinating'>fascinating</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='trait' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Sports & Entertainment</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: massive, cited, simplicity, unpredictability, spectator</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Football has a <select class='vocab-select'><option value=''>── select ──</option><option value='massive'>massive</option><option value='cited'>cited</option><option value='simplicity'>simplicity</option><option value='unpredictability'>unpredictability</option><option value='spectator'>spectator</option></select> number of fans.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='massive' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Football is often <select class='vocab-select'><option value=''>── select ──</option><option value='massive'>massive</option><option value='cited'>cited</option><option value='simplicity'>simplicity</option><option value='unpredictability'>unpredictability</option><option value='spectator'>spectator</option></select> as the most popular sport.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='cited' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Fans love the <select class='vocab-select'><option value=''>── select ──</option><option value='massive'>massive</option><option value='cited'>cited</option><option value='simplicity'>simplicity</option><option value='unpredictability'>unpredictability</option><option value='spectator'>spectator</option></select> of the game's rules.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='simplicity' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. The <select class='vocab-select'><option value=''>── select ──</option><option value='massive'>massive</option><option value='cited'>cited</option><option value='simplicity'>simplicity</option><option value='unpredictability'>unpredictability</option><option value='spectator'>spectator</option></select> of the score makes it exciting.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='unpredictability' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. In Keirin, people watch it as a <select class='vocab-select'><option value=''>── select ──</option><option value='massive'>massive</option><option value='cited'>cited</option><option value='simplicity'>simplicity</option><option value='unpredictability'>unpredictability</option><option value='spectator'>spectator</option></select> sport.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='spectator' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Cultural Values</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: cherish, stakes, constantly, evolving, staple</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Betting means there are high financial <select class='vocab-select'><option value=''>── select ──</option><option value='cherish'>cherish</option><option value='stakes'>stakes</option><option value='constantly'>constantly</option><option value='evolving'>evolving</option><option value='staple'>staple</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='stakes' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Many people <select class='vocab-select'><option value=''>── select ──</option><option value='cherish'>cherish</option><option value='stakes'>stakes</option><option value='constantly'>constantly</option><option value='evolving'>evolving</option><option value='staple'>staple</option></select> their local traditions.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='cherish' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Rules of games are <select class='vocab-select'><option value=''>── select ──</option><option value='cherish'>cherish</option><option value='stakes'>stakes</option><option value='constantly'>constantly</option><option value='evolving'>evolving</option><option value='staple'>staple</option></select> changing.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='constantly' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Napping is a cultural <select class='vocab-select'><option value=''>── select ──</option><option value='cherish'>cherish</option><option value='stakes'>stakes</option><option value='constantly'>constantly</option><option value='evolving'>evolving</option><option value='staple'>staple</option></select> in many countries.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='staple' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. The way we play is always <select class='vocab-select'><option value=''>── select ──</option><option value='cherish'>cherish</option><option value='stakes'>stakes</option><option value='constantly'>constantly</option><option value='evolving'>evolving</option><option value='staple'>staple</option></select> over time.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='evolving' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Health & Productivity</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: overlooked, immense, concentration, ultimately, productive</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Rest is important and should not be <select class='vocab-select'><option value=''>── select ──</option><option value='overlooked'>overlooked</option><option value='immense'>immense</option><option value='concentration'>concentration</option><option value='ultimately'>ultimately</option><option value='productive'>productive</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='overlooked' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Sleeping well has <select class='vocab-select'><option value=''>── select ──</option><option value='overlooked'>overlooked</option><option value='immense'>immense</option><option value='concentration'>concentration</option><option value='ultimately'>ultimately</option><option value='productive'>productive</option></select> health benefits.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='immense' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Tiredness makes you lose your <select class='vocab-select'><option value=''>── select ──</option><option value='overlooked'>overlooked</option><option value='immense'>immense</option><option value='concentration'>concentration</option><option value='ultimately'>ultimately</option><option value='productive'>productive</option></select> at work.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='concentration' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. <select class='vocab-select'><option value=''>── select ──</option><option value='overlooked'>overlooked</option><option value='immense'>immense</option><option value='concentration'>concentration</option><option value='ultimately'>ultimately</option><option value='productive'>productive</option></select>, the goal is to find a balance.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='ultimately' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. A short siesta can make you much more <select class='vocab-select'><option value=''>── select ──</option><option value='overlooked'>overlooked</option><option value='immense'>immense</option><option value='concentration'>concentration</option><option value='ultimately'>ultimately</option><option value='productive'>productive</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='productive' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ1: 性格とライフスタイル</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 特性, 探求する, 座りがちな, 選ぶ, 魅力的な</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 世界の伝統について学ぶことは、本当に<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='特性'>特性</option><option value='選ぶ'>選ぶ</option><option value='座りがちな'>座りがちな</option><option value='魅力的な'>魅力的な</option><option value='探求する'>探求する</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='魅力的な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. この教科書は、異なる文化がどのようにリラックスするかを<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='探求する'>探求する</option><option value='座りがちな'>座りがちな</option><option value='特性'>特性</option><option value='選ぶ'>選ぶ</option><option value='魅力的な'>魅力的な</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='探求する' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 休息の必要性は、人間の共通の<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='選ぶ'>選ぶ</option><option value='魅力的な'>魅力的な</option><option value='特性'>特性</option><option value='探求する'>探求する</option><option value='座りがちな'>座りがちな</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='特性' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 一日中デスクに座っているのは、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='座りがちな'>座りがちな</option><option value='探求する'>探求する</option><option value='魅力的な'>魅力的な</option><option value='特性'>特性</option><option value='選ぶ'>選ぶ</option></select>ライフスタイルです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='座りがちな' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. より多くの人々が、アクティブな趣味を<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='探求する'>探求する</option><option value='選ぶ'>選ぶ</option><option value='特性'>特性</option><option value='座りがちな'>座りがちな</option><option value='魅力的な'>魅力的な</option></select>ようになっています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='選ぶ' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ2: スポーツとエンターテインメント</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 巨大な, 引用される, シンプルさ, 予測不可能性, 観客</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. ケイリンでは、人々は<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='引用される'>引用される</option><option value='巨大な'>巨大な</option><option value='予測不可能性'>予測不可能性</option><option value='観客'>観客</option><option value='シンプルさ'>シンプルさ</option></select>スポーツとして観戦します。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='観客' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. ファンは、ゲームルールの<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='シンプルさ'>シンプルさ</option><option value='巨大な'>巨大な</option><option value='観客'>観客</option><option value='引用される'>引用される</option><option value='予測不可能性'>予測不可能性</option></select>を愛しています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='シンプルさ' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. サッカーは、最も人気のあるスポーツとしてしばしば<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='予測不可能性'>予測不可能性</option><option value='観客'>観客</option><option value='引用される'>引用される</option><option value='巨大な'>巨大な</option><option value='シンプルさ'>シンプルさ</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='引用される' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. スコアの<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='巨大な'>巨大な</option><option value='予測不可能性'>予測不可能性</option><option value='シンプルさ'>シンプルさ</option><option value='引用される'>引用される</option><option value='観客'>観客</option></select>が試合をエキサイティングにしています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='予測不可能性' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. サッカーには<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='観客'>観客</option><option value='シンプルさ'>シンプルさ</option><option value='引用される'>引用される</option><option value='予測不可能性'>予測不可能性</option><option value='巨大な'>巨大な</option></select>数のファンがいます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='巨大な' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ3: 文化的価値観</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 大切にする, 賭け金, 絶えず, 進化する, 定番</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 多くの人々は、自分たちの地域の伝統を<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='賭け金'>賭け金</option><option value='進化する'>進化する</option><option value='定番'>定番</option><option value='大切にする'>大切にする</option><option value='絶えず'>絶えず</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='大切にする' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 賭け事には、高い金銭的な<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='絶えず'>絶えず</option><option value='定番'>定番</option><option value='賭け金'>賭け金</option><option value='大切にする'>大切にする</option><option value='進化する'>進化する</option></select>が伴います。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='賭け金' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 昼寝は、多くの国で文化的な<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='進化する'>進化する</option><option value='大切にする'>大切にする</option><option value='絶えず'>絶えず</option><option value='賭け金'>賭け金</option><option value='定番'>定番</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='定番' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. ゲームのルールは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='定番'>定番</option><option value='賭け金'>賭け金</option><option value='絶えず'>絶えず</option><option value='進化する'>進化する</option><option value='大切にする'>大切にする</option></select>変化しています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='絶えず' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. 遊び方のスタイルは、時間とともに常に<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='大切にする'>大切にする</option><option value='定番'>定番</option><option value='賭け金'>賭け金</option><option value='絶えず'>絶えず</option><option value='進化する'>進化する</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='進化する' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ4: 健康と生産性</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 見落とされた, 計り知れない, 集中力, 最終的に, 生産的な</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 短い昼寝は、あなたをより<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='計り知れない'>計り知れない</option><option value='集中力'>集中力</option><option value='生産的な'>生産的な</option><option value='見落とされた'>見落とされた</option><option value='最終的に'>最終的に</option></select>にしてくれます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='生産的な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. よく眠ることは、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='見落とされた'>見落とされた</option><option value='生産的な'>生産的な</option><option value='最終的に'>最終的に</option><option value='集中力'>集中力</option><option value='計り知れない'>計り知れない</option></select>健康上の利益をもたらします。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='計り知れない' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 疲労は、仕事中の<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='最終的に'>最終的に</option><option value='計り知れない'>計り知れない</option><option value='見落とされた'>見落とされた</option><option value='生産的な'>生産的な</option><option value='集中力'>集中力</option></select>を失わせます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='集中力' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 休息は重要であり、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='集中力'>集中力</option><option value='見落とされた'>見落とされた</option><option value='計り知れない'>計り知れない</option><option value='生産的な'>生産的な</option><option value='最終的に'>最終的に</option></select>てはいけません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='見落とされた' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='生産的な'>生産的な</option><option value='見落とされた'>見落とされた</option><option value='最終的に'>最終的に</option><option value='計り知れない'>計り知れない</option><option value='集中力'>集中力</option></select>、目標はバランスを見つけることです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='最終的に' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1: Personnalité et mode de vie</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: trait, explore, sédentaire, opter, fascinant</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Découvrir les traditions du monde est vraiment <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='trait'>trait</option><option value='opter'>opter</option><option value='sédentaire'>sédentaire</option><option value='fascinant'>fascinant</option><option value='explore'>explore</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='fascinant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Rester assis à un bureau toute la journée est un mode de vie <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='sédentaire'>sédentaire</option><option value='explore'>explore</option><option value='opter'>opter</option><option value='trait'>trait</option><option value='fascinant'>fascinant</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='sédentaire' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Le besoin de repos est un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='fascinant'>fascinant</option><option value='opter'>opter</option><option value='trait'>trait</option><option value='sédentaire'>sédentaire</option><option value='explore'>explore</option></select> humain commun.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='trait' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Ce manuel <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='explore'>explore</option><option value='trait'>trait</option><option value='opter'>opter</option><option value='fascinant'>fascinant</option><option value='sédentaire'>sédentaire</option></select> comment différentes cultures se détendent.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='explore' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. De plus en plus de gens <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='opter'>opter</option><option value='explore'>explore</option><option value='trait'>trait</option><option value='fascinant'>fascinant</option><option value='sédentaire'>sédentaire</option></select> pour des loisirs actifs.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='opter' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2: Sports et divertissement</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: massif, cité, simplicité, imprévisibilité, spectateur</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Au Keirin, les gens le regardent comme un sport <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='massif'>massif</option><option value='spectateur'>spectateur</option><option value='cité'>cité</option><option value='simplicité'>simplicité</option><option value='imprévisibilité'>imprévisibilité</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='spectateur' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Le football a un nombre <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='imprévisibilité'>imprévisibilité</option><option value='simplicité'>simplicité</option><option value='massif'>massif</option><option value='spectateur'>spectateur</option><option value='cité'>cité</option></select> de fans.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='massif' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Les fans aiment la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='spectateur'>spectateur</option><option value='cité'>cité</option><option value='massif'>massif</option><option value='imprévisibilité'>imprévisibilité</option><option value='simplicité'>simplicité</option></select> des règles du jeu.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='simplicité' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. L'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='simplicité'>simplicité</option><option value='massif'>massif</option><option value='spectateur'>spectateur</option><option value='cité'>cité</option><option value='imprévisibilité'>imprévisibilité</option></select> du score rend le match excitant.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='imprévisibilité' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. Le football est souvent <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='cité'>cité</option><option value='simplicité'>simplicité</option><option value='imprévisibilité'>imprévisibilité</option><option value='massif'>massif</option><option value='spectateur'>spectateur</option></select> comme le sport le plus populaire.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='cité' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3: Valeurs culturelles</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: chérir, enjeux, constamment, évoluer, incontournable</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. La sieste est un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='enjeux'>enjeux</option><option value='constamment'>constamment</option><option value='incontournable'>incontournable</option><option value='chérir'>chérir</option><option value='évoluer'>évoluer</option></select> culturel dans de nombreux pays.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='incontournable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Les règles des jeux changent <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='chérir'>chérir</option><option value='évoluer'>évoluer</option><option value='enjeux'>enjeux</option><option value='incontournable'>incontournable</option><option value='constamment'>constamment</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='constamment' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Parier signifie qu'il y a des <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='incontournable'>incontournable</option><option value='constamment'>constamment</option><option value='enjeux'>enjeux</option><option value='évoluer'>évoluer</option><option value='chérir'>chérir</option></select> financiers élevés.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='enjeux' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Beaucoup de gens <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='évoluer'>évoluer</option><option value='chérir'>chérir</option><option value='constamment'>constamment</option><option value='enjeux'>enjeux</option><option value='incontournable'>incontournable</option></select> leurs traditions locales.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='chérir' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. La façon dont nous jouons <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='enjeux'>enjeux</option><option value='incontournable'>incontournable</option><option value='chérir'>chérir</option><option value='constamment'>constamment</option><option value='évoluer'>évoluer</option></select> toujours avec le temps.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='évoluer' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4: Santé et productivité</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: négligé, immense, concentration, finalement, productif</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Une petite sieste peut vous rendre beaucoup plus <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='immense'>immense</option><option value='concentration'>concentration</option><option value='productif'>productif</option><option value='négligé'>négligé</option><option value='finalement'>finalement</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='productif' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Bien dormir a des bienfaits <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='finalement'>finalement</option><option value='négligé'>négligé</option><option value='immense'>immense</option><option value='concentration'>concentration</option><option value='productif'>productif</option></select> pour la santé.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='immense' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Le repos est important et ne doit pas être <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='négligé'>négligé</option><option value='immense'>immense</option><option value='productif'>productif</option><option value='finalement'>finalement</option><option value='concentration'>concentration</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='négligé' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. La fatigue vous fait perdre votre <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='productif'>productif</option><option value='finalement'>finalement</option><option value='concentration'>concentration</option><option value='immense'>immense</option><option value='négligé'>négligé</option></select> au travail.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='concentration' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='finalement'>finalement</option><option value='concentration'>concentration</option><option value='productif'>productif</option><option value='immense'>immense</option><option value='négligé'>négligé</option></select>, le but est de trouver un équilibre.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='finalement' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 성격과 라이프스타일</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 특성, 탐구하다, 앉아서 지내는, 선택하다, 매혹적인</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 세계의 전통에 대해 배우는 것은 정말 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='특성'>특성</option><option value='선택하다'>선택하다</option><option value='앉아서 지내는'>앉아서 지내는</option><option value='매혹적인'>매혹적인</option><option value='탐구하다'>탐구하다</option></select>.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='매혹적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 이 교과서는 다양한 문화가 어떻게 휴식하는지를 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='탐구하다'>탐구하다</option><option value='앉아서 지내는'>앉아서 지내는</option><option value='특성'>특성</option><option value='선택하다'>선택하다</option><option value='매혹적인'>매혹적인</option></select>.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='탐구하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 휴식의 필요성은 인간의 공통적인 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='선택하다'>선택하다</option><option value='매혹적인'>매혹적인</option><option value='특성'>특성</option><option value='탐구하다'>탐구하다</option><option value='앉아서 지내는'>앉아서 지내는</option></select>이다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='특성' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 일     중 데스크에 앉아 있는 것은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='앉아서 지내는'>앉아서 지내는</option><option value='탐구하다'>탐구하다</option><option value='매혹적인'>매혹적인</option><option value='특성'>특성</option><option value='선택하다'>선택하다</option></select> 라이프스타일이다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='앉아서 지내는' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. 점점 더 많은 사람들이 활동적인 취미를 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='탐구하다'>탐구하다</option><option value='선택하다'>선택하다</option><option value='특성'>특성</option><option value='앉아서 지내는'>앉아서 지내는</option><option value='매혹적인'>매혹적인</option></select>.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='선택하다' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 스포츠와 엔터테인먼트</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 거대한, 인용되는, 단순함, 예측 불가능성, 관중</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 케이린에서 사람들은 이를 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='인용되는'>인용되는</option><option value='거대한'>거대한</option><option value='예측 불가능성'>예측 불가능성</option><option value='관중'>관중</option><option value='단순함'>단순함</option></select> 스포츠로 관람한다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='관중' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 팬들은 경기 규칙의 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='단순함'>단순함</option><option value='거대한'>거대한</option><option value='관중'>관중</option><option value='인용되는'>인용되는</option><option value='예측 불가능성'>예측 불가능성</option></select>을 사랑한다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='단순함' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 축구는 종종 가장 인기 있는 스포츠로 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='예측 불가능성'>예측 불가능성</option><option value='관중'>관중</option><option value='인용되는'>인용되는</option><option value='거대한'>거대한</option><option value='단순함'>단순함</option></select>.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='인용되는' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 점수의 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='거대한'>거대한</option><option value='예측 불가능성'>예측 불가능성</option><option value='단순함'>단순함</option><option value='인용되는'>인용되는</option><option value='관중'>관중</option></select>이 경기를 흥미진진하게 만든다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='예측 불가능성' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 축구는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='관중'>관중</option><option value='단순함'>단순함</option><option value='인용되는'>인용되는</option><option value='예측 불가능성'>예측 불가능성</option><option value='거대한'>거대한</option></select> 수의 팬을 보유하고 있다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='거대한' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3: 문화적 가치관</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 소중히 여기다, 판돈, 끊임없이, 진화하는, 필수 요소</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 많은 사람들이 자신들의 지역 전통을 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='판돈'>판돈</option><option value='진화하는'>진화하는</option><option value='필수 요소'>필수 요소</option><option value='소중히 여기다'>소중히 여기다</option><option value='끊임없이'>끊임없이</option></select>.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='소중히 여기다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 도박은 높은 금전적 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='끊임없이'>끊임없이</option><option value='필수 요소'>필수 요소</option><option value='판돈'>판돈</option><option value='소중히 여기다'>소중히 여기다</option><option value='진화하는'>진화하는</option></select>이 있음을 의미한다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='판돈' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 낮잠은 많은 국가에서 문화적 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='진화하는'>진화하는</option><option value='소중히 여기다'>소중히 여기다</option><option value='끊임없이'>끊임없이</option><option value='판돈'>판돈</option><option value='필수 요소'>필수 요소</option></select>이다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='필수 요소' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 게임의 규칙은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='필수 요소'>필수 요소</option><option value='판돈'>판돈</option><option value='끊임없이'>끊임없이</option><option value='진화하는'>진화하는</option><option value='소중히 여기다'>소중히 여기다</option></select> 변하고 있다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='끊임없이' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. 우리가 노는 방식은 시간이 지남에 따라 계속해서 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='소중히 여기다'>소중히 여기다</option><option value='필수 요소'>필수 요소</option><option value='판돈'>판돈</option><option value='끊임없이'>끊임없이</option><option value='진화하는'>진화하는</option></select>.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='진화하는' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4: 건강과 생산성</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 간과된, 막대한, 집중력, 궁극적으로, 생산적인</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 짧은 낮잠은 당신을 훨씬 더 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='막대한'>막대한</option><option value='집중력'>집중력</option><option value='생산적인'>생산적인</option><option value='간과된'>간과된</option><option value='궁극적으로'>궁극적으로</option></select>로 만들어 준다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='생산적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 잘 자는 것은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='간과된'>간과된</option><option value='생산적인'>생산적인</option><option value='궁극적으로'>궁극적으로</option><option value='집중력'>집중력</option><option value='막대한'>막대한</option></select> 건강상의 이점을 가져다준다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='막대한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 피로는 직장에서 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='궁극적으로'>궁극적으로</option><option value='막대한'>막대한</option><option value='간과된'>간과된</option><option value='생산적인'>생산적인</option><option value='집중력'>집중력</option></select>을 잃게 만든다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='집중력' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 휴식은 중요하며 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='집중력'>집중력</option><option value='간과된'>간과된</option><option value='막대한'>막대한</option><option value='생산적인'>생산적인</option><option value='궁극적으로'>궁극적으로</option></select>되어서는 안 된다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='간과된' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='생산적인'>생산적인</option><option value='간과된'>간과된</option><option value='궁극적으로'>궁극적으로</option><option value='막대한'>막대한</option><option value='집중력'>집중력</option></select>, 목표는 균형을 찾는 것이다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='궁극적으로' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "While football is the most popular, the text introduces unique sports like <b>Pato</b> and <b>Keirin</b>. What are the specific reasons these sports are so important in their respective countries?",
+    "ja": "フットボールが最も人気がありますが、このテキストでは<b>パト</b>や<b>ケイリン</b>のようなユニークなスポーツを紹介しています。これらのスポーツがそれぞれの国で非常に重要な具体的な理由は何ですか？",
+    "fr": "Bien que le football soit le plus populaire, le texte présente des sports uniques comme le <b>Pato</b> et le <b>Keirin</b>. Quelles sont les raisons spécifiques pour lesquelles ces sports sont si importants dans leurs pays respectifs ?",
+    "ko": "축구가 가장 인기가 있지만, 본문은 <b>파토</b>와 <b>케이린</b>과 같은 독특한 스포츠를 소개합니다. 이 스포츠들이 각 국가에서 중요한 구체적인 이유는 무엇인가요?"
+  },
+  "content_check_keywords": {
+    "en": "national sport, tradition, betting, spectator sport, Japan, Argentina",
+    "ja": "国技, 伝統, 賭け, 観戦スポーツ, 日本, アルゼンチン",
+    "fr": "sport national, tradition, paris, sport spectateur, Japon, Argentine",
+    "ko": "국기, 전통, 베팅, 관중 스포츠, 일본, 아르헨티나"
+  },
+  "content_check_placeholder": {
+    "en": "Write 1-2 sentences about the importance of Pato or Keirin based on the text...",
+    "ja": "テキストに基づいてパトまたはケイリンの重要性について1-2文書いてください...",
+    "fr": "Écrivez 1-2 phrases sur l'importance du Pato ou du Keirin basé sur le texte...",
+    "ko": "본문에 기반하여 파토 또는 케이린의 중요성에 대해 1-2문장 작성하세요..."
+  },
+  "deepening_question": {
+    "en": "The text discusses how different cultures view rest—from the <b>Spanish siesta</b> to the <b>global problem of sleep deprivation</b>. It suggests that being productive is not just about working hard, but also about resting well.<br><br><b>Do you believe that taking a nap (siesta) during the day is a 'sign of laziness' or a 'tool for success'? Choose one side and give a reason.</b>",
+    "ja": "このテキストは、<b>スペインのシエスタ</b>から<b>睡眠不足の世界的な問題</b>まで、異なる文化が休息をどのように見ているかを論じています。それは、生産的であることは一生懸命働くことだけでなく、十分に休むことでもあると示唆しています。<br><br><b>あなたは、昼間に昼寝（シエスタ）をすることは「怠惰の兆候」だと思いますか、それとも「成功のための道具」だと思いますか？どちらかを選んで理由を教えてください。</b>",
+    "fr": "Le texte discute de la façon dont différentes cultures voient le repos - de la <b>sieste espagnole</b> au <b>problème mondial du manque de sommeil</b>. Il suggère qu'être productif ne consiste pas seulement à travailler dur, mais aussi à bien se reposer.<br><br><b>Croyez-vous que faire une sieste pendant la journée est un 'signe de paresse' ou un 'outil de réussite' ? Choisissez un côté et donnez une raison.</b>",
+    "ko": "본문은 <b>스페인의 시에스타</b>부터 <b>수면 부족의 세계적 문제</b>까지 다양한 문화가 휴식을 어떻게 바라보는지 논의합니다. 생산적이라는 것은 단지 열심히 일하는 것이 아니라 충분히 휴식하는 것임을 시사합니다.<br><br><b>낮에 낮잠(시에스타)을 자는 것이 '게으름의 표시'라고 생각하나요, 아니면 '성공을 위한 도구'라고 생각하나요? 한 가지를 선택하고 이유를 들어보세요.</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I believe a siesta is a tool for success because...",
+    "ja": "私はシエスタは成功のための道具だと思います。なぜなら...",
+    "fr": "Je crois qu'une sieste est un outil de réussite parce que...",
+    "ko": "나는 시에스타가 성공을 위한 도구라고 생각합니다. 왜냐하면..."
+  },
+  "critical_question": {
+    "en": "We have seen how sports can be <b>massive spectator events</b> (Keirin), <b>traditional pride</b> (Pato), or <b>pure fun</b> (Bossaball). At the same time, we learned that <b>proper rest</b> is essential for a productive life.<br><br><b>In your opinion, what is the most effective way to recover from the stress of a modern 'sedentary' lifestyle? Should we engage in active, competitive sports, or should we prioritize complete rest like naps and longer sleep? <br>Compare the benefits of 'active leisure' (sports) and 'passive rest' (sleep) mentioned in the text to support your answer.</b>",
+    "ja": "私たちは、スポーツが<b>巨大な観戦イベント</b>（ケイリン）、<b>伝統的な誇り</b>（パト）、または<b>純粋な楽しみ</b>（ボサボール）になり得ることを見てきました。同時に、<b>適切な休息</b>が生産的な生活に不可欠であることを学びました。<br><br><b>あなたの意見では、現代の「座りがちな」ライフスタイルのストレスから回復する最も効果的な方法は何ですか？活動的で競争的なスポーツをすべきですか、それとも昼寝や長時間の睡眠のような完全な休息を優先すべきですか？<br>テキストで言及されている「活動的な余暇」（スポーツ）と「受動的な休息」（睡眠）の利点を比較して、あなたの答えを裏付けてください。</b>",
+    "fr": "Nous avons vu comment les sports peuvent être des <b>événements spectateurs massifs</b> (Keirin), une <b>fierté traditionnelle</b> (Pato), ou du <b>pur divertissement</b> (Bossaball). En même temps, nous avons appris qu'un <b>repos adéquat</b> est essentiel pour une vie productive.<br><br><b>Selon vous, quelle est la façon la plus efficace de se remettre du stress d'un mode de vie 'sédentaire' moderne ? Devrions-nous pratiquer des sports actifs et compétitifs, ou devrions-nous privilégier un repos complet comme les siestes et un sommeil plus long ? <br>Comparez les avantages des 'loisirs actifs' (sports) et du 'repos passif' (sommeil) mentionnés dans le texte pour étayer votre réponse.</b>",
+    "ko": "우리는 스포츠가 <b>거대한 관중 이벤트</b>(케이린), <b>전통적 자부심</b>(파토), 또는 <b>순수한 즐거움</b>(보사볼)이 될 수 있음을 보았습니다. 동시에, <b>적절한 휴식</b>이 생산적인 삶에 필수적임을 배웠습니다.<br><br><b>여러분의 의견으로는, 현대 '좌식' 생활 방식의 스트레스에서 회복하는 가장 효과적인 방법은 무엇인가요? 활동적이고 경쟁적인 스포츠를 해야 할까요, 아니면 낮잠이나 더 긴 수면과 같은 완전한 휴식을 우선시해야 할까요?<br>본문에 언급된 '활동적 여가'(스포츠)와 '수동적 휴식'(수면)의 이점을 비교하여 답변을 뒷받침하세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "Synthesize the ideas of sports and rest. Compare active vs. passive recovery based on the reading...",
+    "ja": "スポーツと休息のアイデアを統合してください。読解に基づいてアクティブな回復とパッシブな回復を比較してください...",
+    "fr": "Synthétisez les idées du sport et du repos. Comparez la récupération active vs passive basée sur la lecture...",
+    "ko": "스포츠와 휴식의 아이디어를 종합하세요. 읽기를 기반으로 활동적 회복과 수동적 회복을 비교하세요..."
+  }
+}

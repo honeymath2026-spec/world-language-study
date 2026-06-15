@@ -1,0 +1,640 @@
+/* study.css - 학습 페이지 전용 스타일 */
+/* 통합 언어 학습 플랫폼 */
+
+/* ==================== 메인 컨테이너 ==================== */
+.study-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    padding-top: 100px;
+}
+
+/* ==================== 섹션 ==================== */
+.section {
+    margin: 50px 0;
+    scroll-margin-top: 100px;
+}
+
+.section h2 {
+    color: var(--primary);
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid var(--secondary);
+    display: inline-block;
+}
+
+/* ==================== 리딩 영역 ==================== */
+.reading-box {
+    background: #fffaf0;
+    border: 1px solid var(--warning);
+    border-radius: 12px;
+    padding: 25px;
+    line-height: 2;
+    font-size: 1.05rem;
+    position: relative;
+}
+
+.reading-audio-controls {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.btn-reading {
+    background: var(--secondary);
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: 0.2s;
+}
+
+.btn-reading:hover {
+    background: #2980b9;
+    transform: scale(1.02);
+}
+
+.reading-status {
+    font-size: 0.8rem;
+    color: #888;
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* 리딩 라인 하이라이트 */
+.reading-line {
+    transition: background 0.2s;
+    padding: 4px 8px;
+    margin: 2px 0;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.reading-line:hover {
+    background: #f0f0f0;
+}
+
+.reading-line.active {
+    background: #fff3cd;
+    border-left: 4px solid var(--warning);
+}
+
+/* ==================== 리스닝 영역 ==================== */
+.listening-area {
+    background: var(--gray-light);
+    border-radius: 12px;
+    padding: 20px;
+}
+
+.audio-controls {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.speed-control {
+    display: flex;
+    gap: 8px;
+}
+
+.speed-btn {
+    background: white;
+    border: 1px solid var(--gray-border);
+    padding: 6px 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: 0.2s;
+}
+
+.speed-btn:hover {
+    background: var(--gray-light);
+}
+
+.speed-btn.active {
+    background: var(--secondary);
+    color: white;
+    border-color: var(--secondary);
+}
+
+.listen-status {
+    font-size: 0.85rem;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+/* 스크립트 박스 */
+.script-box {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    border: 1px solid var(--gray-border);
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.script-line {
+    padding: 12px;
+    margin: 5px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.script-line:hover {
+    background: #f0f0f0;
+}
+
+.script-line.active {
+    background: #fff3cd;
+    border-left: 4px solid var(--warning);
+}
+
+.speaker {
+    font-weight: bold;
+    color: var(--secondary);
+    margin-right: 10px;
+}
+
+/* 진행률 슬라이더 */
+.progress-nav-btn {
+    background: var(--secondary);
+    color: white;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    transition: 0.2s;
+}
+
+.progress-nav-btn:hover {
+    background: #2980b9;
+}
+
+#listenProgress {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 6px;
+    background: #ddd;
+    border-radius: 3px;
+    outline: none;
+}
+
+#listenProgress::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 16px;
+    height: 16px;
+    background: var(--secondary);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+/* ==================== 단어 카드 ==================== */
+.word-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+}
+
+.word-card {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 15px;
+    cursor: pointer;
+    transition: all 0.2s;
+    border: 1px solid var(--gray-border);
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.word-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+    border-color: var(--secondary);
+}
+
+.word-emoji {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+.word-jp {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.word-en, .word-note {
+    font-size: 0.8rem;
+    color: #888;
+}
+
+/* ==================== 스피킹 영역 ==================== */
+.speaking-card {
+    background: var(--white);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid var(--gray-border);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.sentence {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 15px;
+    padding: 10px;
+    background: #f8f9fa;
+    border-radius: 8px;
+}
+
+/* 버튼 그룹 */
+.btn-group {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 15px;
+}
+
+.btn-speak, .btn-record, .btn-play, .btn-download, .btn-transcribe {
+    border: none;
+    padding: 8px 16px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: 0.2s;
+}
+
+.btn-speak {
+    background: var(--secondary);
+    color: white;
+}
+
+.btn-record {
+    background: var(--danger);
+    color: white;
+}
+
+.btn-play {
+    background: var(--success);
+    color: white;
+}
+
+.btn-download {
+    background: var(--purple);
+    color: white;
+}
+
+.btn-transcribe {
+    background: #9c27b0;
+    color: white;
+}
+
+.btn-record.recording {
+    background: #c0392b;
+    animation: pulse 1s infinite;
+}
+
+/* 드릴 저장 버튼 */
+.btn-save-drill {
+    background: var(--warning);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: 0.2s;
+}
+
+.btn-save-drill:hover {
+    background: #e67e22;
+    transform: scale(1.02);
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+/* 받아쓰기 영역 */
+.dictation-section {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px dashed var(--gray-border);
+}
+
+.dictation-title {
+    font-size: 0.85rem;
+    color: var(--secondary);
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.dictation-area {
+    margin-top: 8px;
+}
+
+.dictation-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--gray-border);
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-family: inherit;
+}
+
+.btn-check {
+    background: var(--success);
+    color: white;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-top: 8px;
+    font-size: 0.8rem;
+}
+
+.dictation-feedback {
+    margin-top: 8px;
+    font-size: 0.85rem;
+}
+
+.dictation-feedback.correct {
+    color: var(--success);
+}
+
+.dictation-feedback.wrong {
+    color: var(--danger);
+}
+
+/* ==================== 퀴즈 영역 ==================== */
+.quiz-container {
+    margin: 20px 0;
+}
+
+.quiz-item {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid var(--gray-border);
+}
+
+.quiz-question {
+    font-size: 1rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: var(--primary);
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 20px;
+}
+
+.option {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    padding: 8px 12px;
+    border-radius: 8px;
+    transition: 0.2s;
+}
+
+.option:hover {
+    background: #f0f0f0;
+}
+
+.option input[type="radio"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: var(--secondary);
+}
+
+.quiz-result {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    display: none;
+}
+
+.quiz-result.correct {
+    background: #d4edda;
+    color: #155724;
+    display: block;
+}
+
+.quiz-result.wrong {
+    background: #f8d7da;
+    color: #721c24;
+    display: block;
+}
+
+.quiz-result .score {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+/* ==================== 네비게이션 버튼 ==================== */
+.nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--gray-border);
+}
+
+.btn-nav {
+    display: inline-block;
+    background: #ecf0f1;
+    color: var(--primary);
+    text-decoration: none;
+    padding: 10px 24px;
+    border-radius: 25px;
+    cursor: pointer;
+    border: none;
+    font-size: 0.9rem;
+    transition: 0.2s;
+}
+
+.btn-nav:hover {
+    opacity: 0.9;
+    transform: translateY(-2px);
+}
+
+.btn-nav.next {
+    background: var(--secondary);
+    color: white;
+}
+
+.btn-nav.drill-center {
+    background: var(--warning);
+    color: white;
+}
+
+/* ==================== 음성 설정 영역 ==================== */
+.voice-settings {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 15px 20px;
+    margin: 20px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.voice-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.voice-group label {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--primary);
+}
+
+.voice-group select, .voice-group input {
+    padding: 6px 12px;
+    border-radius: 20px;
+}
+
+/* ==================== 반응형 ==================== */
+@media (max-width: 768px) {
+    .study-container {
+        padding: 15px;
+        padding-top: 120px;
+    }
+    
+    .section h2 {
+        font-size: 1.2rem;
+    }
+    
+    .word-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .nav-buttons {
+        flex-direction: column;
+    }
+    
+    .btn-nav {
+        text-align: center;
+    }
+    
+    .voice-settings {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .voice-group {
+        justify-content: space-between;
+    }
+}
+
+/* ==================== 이모지 크기 증가 (작업 3) ==================== */
+.word-emoji {
+  font-size: 4rem !important;
+  display: block;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.word-card {
+  text-align: center;
+  padding: 20px;
+}
+
+.word-jp {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.word-en {
+  font-size: 0.85rem;
+  color: #888;
+}
+
+
+/* 단어 표시 스타일 - 선택한 언어의 단어 */
+.word-display {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 12px;
+    color: var(--primary);
+}
+
+/* 설명 스타일 - 선택한 언어의 설명 */
+.word-description {
+    font-size: 0.85rem;
+    color: var(--success);
+    margin-top: 8px;
+    font-style: italic;
+    line-height: 1.3;
+}
+
+
+
+/* 리스닝 트랙 스타일 */
+.listening-track {
+    margin-bottom: 30px;
+    border-bottom: 1px solid var(--gray-border);
+    padding-bottom: 15px;
+}
+
+.listening-track h4 {
+    color: var(--secondary);
+    margin-bottom: 15px;
+    font-size: 1rem;
+}
+
+.listening-line {
+    padding: 12px 15px;
+    margin: 5px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.2s;
+    line-height: 1.6;
+}
+
+.listening-line:hover {
+    background: #f0f0f0;
+}
+
+.listening-line.active {
+    background: #fff3cd;
+    border-left: 4px solid var(--warning);
+}
+
+.listening-line .speaker {
+    font-weight: bold;
+    color: var(--secondary);
+    margin-right: 10px;
+}
+
+
+
+/* preintermediate 이상에서 전역 Play 버튼 (#listenBtn) 숨김 */
+body[data-level="preintermediate"] #listenBtn,
+body[data-level="intermediate"] #listenBtn,
+body[data-level="upperintermediate"] #listenBtn,
+body[data-level="advanced"] #listenBtn {
+    display: none !important;
+}

@@ -1,0 +1,420 @@
+{
+  "title": {
+    "en": "How long ago?",
+    "ja": "どのくらい前？",
+    "fr": "Il y a combien de temps ?",
+    "ko": "얼마나 오래 전?"
+  },
+  "topic": {
+    "en": "Past Simple negatives, ago, dates, inventions, meeting people",
+    "ja": "過去形の否定文、ago、日付、発明、人との出会い",
+    "fr": "Négation au prétérit, ago, dates, inventions, rencontres",
+    "ko": "과거 단순 부정문, ago, 날짜, 발명품, 만남"
+  },
+  "core_title": {
+    "en": "Famous Inventions and How People Met",
+    "ja": "有名な発明と人々の出会い",
+    "fr": "Inventions célèbres et rencontres",
+    "ko": "유명한 발명품과 사람들이 만난 방법"
+  },
+  "core_reading_html": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "listening_tracks": {
+    "en": [
+  {
+    "title": "How long ago?",
+    "label": "Conversation 1: Jeans origin",
+    "script": [
+      { "speaker": "A", "text": "Did two Germans make the first jeans?" },
+      { "speaker": "B", "text": "No, two Americans made them. Jacob Davis and Levi Strauss." },
+      { "speaker": "A", "text": "Did Davis sell cloth in Levi's shop?" },
+      { "speaker": "B", "text": "No, he bought cloth from Levi's shop." },
+      { "speaker": "A", "text": "When did jeans become fashionable for women?" },
+      { "speaker": "B", "text": "In 1935, after women saw them in Vogue magazine." }
+    ]
+  },
+  {
+    "title": "How long ago?",
+    "label": "Conversation 2: Television firsts",
+    "script": [
+      { "speaker": "A", "text": "Who transmitted the first television picture?" },
+      { "speaker": "B", "text": "A Scotsman, John Logie Baird." },
+      { "speaker": "A", "text": "When was that?" },
+      { "speaker": "B", "text": "On 25 October, 1925." },
+      { "speaker": "A", "text": "What was the first thing on television?" },
+      { "speaker": "B", "text": "A boy who worked in the office next to Baird's workroom." }
+    ]
+  },
+  {
+    "title": "How long ago?",
+    "label": "Conversation 3: Aspirin invention",
+    "script": [
+      { "speaker": "A", "text": "Who invented aspirin?" },
+      { "speaker": "B", "text": "Felix Hofman, a 29-year-old chemist." },
+      { "speaker": "A", "text": "Did he work for an American company?" },
+      { "speaker": "B", "text": "No, he worked for a German company, Bayer." },
+      { "speaker": "A", "text": "Who got the first aspirin?" },
+      { "speaker": "B", "text": "His father, for his arthritis." }
+    ]
+  },
+  {
+    "title": "How long ago?",
+    "label": "Listening 1: Love on the Internet",
+    "script": [
+      { "speaker": "Debbie", "text": "I'm really quite shy. I find it difficult to talk to people face to face. But I find it easy to chat on the Internet." },
+      { "speaker": "Debbie", "text": "I met Per on a chatline called 'the Chat Room' about a year ago. He was so funny." },
+      { "speaker": "Per", "text": "But I'm only funny on the Internet! Anyway, we chatted for a year, exchanged hundreds of emails and photos." },
+      { "speaker": "Per", "text": "I wanted to phone Debbie but she said no. She was worried. She didn't want it to end." },
+      { "speaker": "Debbie", "text": "Then finally I said OK. He phoned and we spoke for an hour. Then I sent him my address." },
+      { "speaker": "Per", "text": "One week later, I knocked on her door with lots of red roses." },
+      { "speaker": "Debbie", "text": "I opened the door and we fell in love. We got married last Saturday." }
+    ]
+  }
+],
+    "ja": [
+    {
+      "title": "どのくらい前？",
+      "label": "会話 1: ジーンズの起源",
+      "script": [
+        { "speaker": "A", "text": "最初のジーンズを作ったのはドイツ人？" },
+        { "speaker": "B", "text": "いいえ、アメリカ人のジェイコブ・デービスとリーバイ・ストラウスよ。" },
+        { "speaker": "A", "text": "デービスはリーバイの店で布を売ったの？" },
+        { "speaker": "B", "text": "違うよ。リーバイの店から布を買ったんだ。" },
+        { "speaker": "A", "text": "ジーンズが女性に人気になったのはいつ？" },
+        { "speaker": "B", "text": "1935年、『ヴォーグ』誌で見てからだよ。" }
+      ]
+    },
+    {
+      "title": "どのくらい前？",
+      "label": "会話 2: テレビの歴史",
+      "script": [
+        { "speaker": "A", "text": "最初のテレビ画像を送信したのは誰？" },
+        { "speaker": "B", "text": "スコットランド人のジョン・ロジー・ベアードだよ。" },
+        { "speaker": "A", "text": "それはいつ？" },
+        { "speaker": "B", "text": "1925年10月25日。" },
+        { "speaker": "A", "text": "最初に映ったものは何？" },
+        { "speaker": "B", "text": "ベアードの仕事場の隣の事務所で働いていた少年。" }
+      ]
+    },
+    {
+      "title": "どのくらい前？",
+      "label": "会話 3: アスピリンの発明",
+      "script": [
+        { "speaker": "A", "text": "アスピリンを発明したのは誰？" },
+        { "speaker": "B", "text": "29歳の化学者、フェリックス・ホフマン。" },
+        { "speaker": "A", "text": "彼はアメリカの会社で働いていたの？" },
+        { "speaker": "B", "text": "いいえ、ドイツのバイエル社で働いていたよ。" },
+        { "speaker": "A", "text": "最初のアスピリンを誰がもらったの？" },
+        { "speaker": "B", "text": "彼の父親。関節炎のためにね。" }
+      ]
+    },
+    {
+      "title": "どのくらい前？",
+      "label": "リスニング 1: インターネットでの恋愛",
+      "script": [
+        { "speaker": "Debbie", "text": "私は本当に内気なんです。人と直接話すのは苦手。でもインターネットでのチャットは簡単にできるの。" },
+        { "speaker": "Debbie", "text": "約1年前に『チャットルーム』という掲示板でペルと出会ったの。彼はとても面白かった。" },
+        { "speaker": "Per", "text": "でも俺が面白いのはインターネットの中だけなんだ！とにかく、1年間チャットして、何百通ものメールや写真を交換した。" },
+        { "speaker": "Per", "text": "デビーに電話したかったけど、彼女は嫌だって言った。心配だったんだ。終わりにしたくなかったんだよ。" },
+        { "speaker": "Debbie", "text": "でも最終的にOKしたの。彼から電話がかかってきて、1時間話した。それから住所を送った。" },
+        { "speaker": "Per", "text": "1週間後、たくさんの赤いバラを持って彼女のドアをノックした。" },
+        { "speaker": "Debbie", "text": "ドアを開けたら、恋に落ちたの。そして先週の土曜日に結婚したの。" }
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "title": "Il y a combien de temps ?",
+      "label": "Conversation 1 : L'origine du jeans",
+      "script": [
+        { "speaker": "A", "text": "Est-ce que deux Allemands ont fabriqué le premier jeans ?" },
+        { "speaker": "B", "text": "Non, ce sont deux Américains : Jacob Davis et Levi Strauss." },
+        { "speaker": "A", "text": "Est-ce que Davis vendait du tissu dans la boutique de Levi ?" },
+        { "speaker": "B", "text": "Non, il achetait du tissu à la boutique de Levi." },
+        { "speaker": "A", "text": "Quand est-ce que le jeans est devenu à la mode pour les femmes ?" },
+        { "speaker": "B", "text": "En 1935, après qu'elles les ont vus dans le magazine Vogue." }
+      ]
+    },
+    {
+      "title": "Il y a combien de temps ?",
+      "label": "Conversation 2 : Les débuts de la télévision",
+      "script": [
+        { "speaker": "A", "text": "Qui a transmis la première image télévisée ?" },
+        { "speaker": "B", "text": "Un Écossais, John Logie Baird." },
+        { "speaker": "A", "text": "C'était quand ?" },
+        { "speaker": "B", "text": "Le 25 octobre 1925." },
+        { "speaker": "A", "text": "Quelle était la première chose diffusée à la télévision ?" },
+        { "speaker": "B", "text": "Un garçon qui travaillait dans le bureau à côté de l'atelier de Baird." }
+      ]
+    },
+    {
+      "title": "Il y a combien de temps ?",
+      "label": "Conversation 3 : L'invention de l'aspirine",
+      "script": [
+        { "speaker": "A", "text": "Qui a inventé l'aspirine ?" },
+        { "speaker": "B", "text": "Felix Hofman, un chimiste de 29 ans." },
+        { "speaker": "A", "text": "Est-ce qu'il travaillait pour une entreprise américaine ?" },
+        { "speaker": "B", "text": "Non, il travaillait pour une entreprise allemande, Bayer." },
+        { "speaker": "A", "text": "Qui a reçu la première aspirine ?" },
+        { "speaker": "B", "text": "Son père, pour son arthrite." }
+      ]
+    },
+    {
+      "title": "Il y a combien de temps ?",
+      "label": "Écoute 1 : L'amour sur Internet",
+      "script": [
+        { "speaker": "Debbie", "text": "Je suis vraiment très timide. J'ai du mal à parler aux gens en face à face. Mais sur Internet, je trouve ça facile de discuter." },
+        { "speaker": "Debbie", "text": "J'ai rencontré Per il y a environ un an, sur un salon de discussion appelé « Le Chat Room ». Il était tellement drôle." },
+        { "speaker": "Per", "text": "Mais je ne suis drôle que sur Internet ! Bref, on a discuté sur Internet pendant un an, on a échangé des centaines d'e-mails et de photos." },
+        { "speaker": "Per", "text": "Je voulais appeler Debbie, mais elle a dit non. Elle était inquiète. Elle ne voulait pas que ça se termine." },
+        { "speaker": "Debbie", "text": "Puis finalement j'ai accepté. Il a appelé et on a parlé pendant une heure. Ensuite je lui ai envoyé mon adresse." },
+        { "speaker": "Per", "text": "Une semaine plus tard, j'ai frappé à sa porte avec beaucoup de roses rouges." },
+        { "speaker": "Debbie", "text": "J'ai ouvert la porte et nous sommes tombés amoureux. Nous nous sommes mariés samedi dernier." }
+      ]
+    }
+  ],
+  "ko": [
+    {
+      "title": "얼마나 오래 전?",
+      "label": "대화 1: 청바지의 기원",
+      "script": [
+        { "speaker": "A", "text": "첫 청바지를 만든 사람이 독일인이었어?" },
+        { "speaker": "B", "text": "아니, 미국인이었어. 제이콥 데이비스와 리바이 스트라우스." },
+        { "speaker": "A", "text": "데이비스가 리바이 가게에서 천을 팔았어?" },
+        { "speaker": "B", "text": "아니, 리바이 가게에서 천을 샀어." },
+        { "speaker": "A", "text": "청바지가 여성들에게 유행하게 된 때가 언제야?" },
+        { "speaker": "B", "text": "1935년, 여성들이 『보그』 잡지에서 보고 나서부터." }
+      ]
+    },
+    {
+      "title": "얼마나 오래 전?",
+      "label": "대화 2: 텔레비전의 첫발걸음",
+      "script": [
+        { "speaker": "A", "text": "최초의 텔레비전 화면을 전송한 사람은 누구야?" },
+        { "speaker": "B", "text": "스코틀랜드인 존 로지 베어드." },
+        { "speaker": "A", "text": "그게 언제였어?" },
+        { "speaker": "B", "text": "1925년 10월 25일." },
+        { "speaker": "A", "text": "텔레비전에 처음으로 나온 것은 무엇이었어?" },
+        { "speaker": "B", "text": "베어드 작업실 옆 사무실에서 일하던 소년이었어." }
+      ]
+    },
+    {
+      "title": "얼마나 오래 전?",
+      "label": "대화 3: 아스피린의 발명",
+      "script": [
+        { "speaker": "A", "text": "누가 아스피린을 발명했어?" },
+        { "speaker": "B", "text": "29세 화학자 펠릭스 호프만." },
+        { "speaker": "A", "text": "그는 미국 회사에서 일했어?" },
+        { "speaker": "B", "text": "아니, 독일 회사인 바이엘에서 일했어." },
+        { "speaker": "A", "text": "누가 첫 아스피린을 받았어?" },
+        { "speaker": "B", "text": "그의 아버지야. 관절염 때문에." }
+      ]
+    },
+    {
+      "title": "얼마나 오래 전?",
+      "label": "리스닝 1: 인터넷에서 찾은 사랑",
+      "script": [
+        { "speaker": "Debbie", "text": "저는 정말 부끄러움이 많아요. 사람들과 직접 대화하는 게 어렵죠. 하지만 인터넷으로 채팅하는 건 쉬워요." },
+        { "speaker": "Debbie", "text": "약 1년 전에 '채팅룸'이라는 곳에서 페르를 만났어요. 그는 정말 재미있었어요." },
+        { "speaker": "Per", "text": "하지만 내가 재미있는 건 인터넷 안에서뿐이야! 어쨌든 1년 동안 인터넷으로 채팅하고 수백 통의 이메일과 사진을 주고받았어." },
+        { "speaker": "Per", "text": "데비에게 전화하고 싶었지만 그녀가 싫다고 하더군. 걱정됐나 봐. 끝내고 싶지 않았던 거야." },
+        { "speaker": "Debbie", "text": "결국 제가 OK했어요. 그가 전화를 해서 한 시간 동안 이야기했죠. 그 다음에 제 주소를 보냈어요." },
+        { "speaker": "Per", "text": "일주일 후, 빨간 장미를 많이 들고 그녀의 문을 두드렸어." },
+        { "speaker": "Debbie", "text": "문을 열었고 우리는 사랑에 빠졌어요. 지난 토요일에 결혼했어요." }
+      ]
+    }
+  ]
+  },
+  "extra_reading_title": {
+    "en": "Unusual Ways to Find Love",
+    "ja": "変わった愛の探し方",
+    "fr": "Des façons inhabituelles de trouver l'amour",
+    "ko": "색다른 사랑을 찾는 방법"
+  },
+  "extra_reading_html": {
+    "en": "<p><strong>LOVE ON THE INTERNET</strong><br>Nowadays love on the Internet is big business. Millions try to find true love there every day. Per Olafson from Bergen in Norway, and Debbie Grant from Banbury in England, looked for love that way...</p><p><strong>LOVE IN A BOTTLE</strong><br>Fisherman Vincent Banks from Cape Cod in America couldn't find a wife, so he wrote a letter, put it in a bottle and threw it into the sea. Ten years later and five thousand miles away in Spain, Rosa Randeiro found the bottle on the beach.</p>",
+    "ja": "<p><strong>インターネットでの出会い</strong><br>今日、インターネット上の恋愛は大きなビジネスとなっています。毎日何百万人もの人々がそこで真実の愛を探しています。ノルウェーのベルゲン出身のペール・オラフソンと、イギリスのバンベリー出身のデビー・グラントも、その方法で愛を探しました...</p><p><strong>ボトルメールの恋</strong><br>アメリカのケープコッドに住む漁師のヴィンセント・バンクスは、妻が見つからなかったため、手紙を書いてボトルに入れ、海に投げました。それから10年後、5000マイル離れたスペインの海岸で、ロサ・ランデイロがそのボトルを見つけました。</p>",
+    "fr": "<p><strong>L'AMOUR SUR INTERNET</strong><br>De nos jours, l'amour sur Internet est une activité très répandue. Des millions de personnes tentent d'y trouver le grand amour chaque jour. Per Olafson, de Bergen en Norvège, et Debbie Grant, de Banbury en Angleterre, ont cherché l'amour de cette manière...</p><p><strong>L'AMOUR DANS UNE BOUTEILLE</strong><br>Le pêcheur Vincent Banks, de Cape Cod en Amérique, ne trouvait pas d'épouse. Il a donc écrit une lettre, l'a mise dans une bouteille et l'a jetée à la mer. Dix ans plus tard et à huit mille kilomètres de là, en Espagne, Rosa Randeiro a trouvé la bouteille sur la plage.</p>",
+    "ko": "<p><strong>인터넷에서의 사랑</strong><br>오늘날 인터넷에서의 사랑 찾기는 큰 비즈니스가 되었습니다. 매일 수백만 명의 사람들이 그곳에서 진실한 사랑을 찾으려 합니다. 노르웨이 베르겐 출신의 페르 올라프손과 영국 밴버리 출신의 데비 그랜트도 그런 방식으로 사랑을 찾았습니다...</p><p><strong>병 속의 편지</strong><br>미국 케이프코드의 어부 빈센트 뱅크스는 아내를 찾지 못해 편지를 써서 병에 담아 바다에 던졌습니다. 10년 후, 5,000마일 떨어진 스페인의 해변에서 로사 란데이로가 그 병을 발견했습니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Per Olafson is from England.",
+        "correct": "F",
+        "explanation": "False. Per Olafson is from Norway."
+      },
+      {
+        "question": "Vincent Banks is a fisherman.",
+        "correct": "T",
+        "explanation": "True. The text identifies him as a fisherman from Cape Cod."
+      },
+      {
+        "question": "The bottle was found after 20 years.",
+        "correct": "F",
+        "explanation": "False. It was found ten years later."
+      },
+      {
+        "question": "Millions of people use the Internet to find love.",
+        "correct": "T",
+        "explanation": "True. The text mentions that millions try to find love there every day."
+      },
+      {
+        "question": "Rosa Randeiro found the bottle in Norway.",
+        "correct": "F",
+        "explanation": "False. She found it in Spain."
+      }
+    ],
+    "ja": [
+      {
+        "question": "ペール・オラフソンはノルウェー出身です。",
+        "correct": "T",
+        "explanation": "正解です。彼はノルウェーのベルゲン出身です。"
+      },
+      {
+        "question": "ヴィンセントは手紙を飛行機から投げました。",
+        "correct": "F",
+        "explanation": "間違いです。彼はボトルに入れて海に投げました。"
+      },
+      {
+        "question": "ロサ・ランデイロはスペインでボトルを見つけました。",
+        "correct": "T",
+        "explanation": "正解です。ボトルはスペインの海岸で見つかりました。"
+      },
+      {
+        "question": "ヴィンセントは妻を見つけるためにボトルメールを送りました。",
+        "correct": "T",
+        "explanation": "正解です。彼は妻が見つからなかったのでそうしました。"
+      },
+      {
+        "question": "デビー・グラントはノルウェー出身です。",
+        "correct": "F",
+        "explanation": "間違いです。彼女はイギリスのバンベリー出身です。"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Per Olafson vit à Banbury.",
+        "correct": "F",
+        "explanation": "Faux. Per Olafson vit à Bergen."
+      },
+      {
+        "question": "Vincent Banks a jeté une bouteille à la mer.",
+        "correct": "T",
+        "explanation": "Vrai. C'est ce qu'il a fait pour trouver une épouse."
+      },
+      {
+        "question": "La bouteille a été trouvée en Espagne.",
+        "correct": "T",
+        "explanation": "Vrai. Rosa Randeiro l'a trouvée sur une plage espagnole."
+      },
+      {
+        "question": "Il a fallu cinq ans pour trouver la bouteille.",
+        "correct": "F",
+        "explanation": "Faux. Cela a pris dix ans."
+      },
+      {
+        "question": "L'amour sur Internet est devenu une activité importante.",
+        "correct": "T",
+        "explanation": "Vrai. Le texte dit que c'est une activité très répandue."
+      }
+    ],
+    "ko": [
+      {
+        "question": "데비 그랜트는 영국 출신입니다.",
+        "correct": "T",
+        "explanation": "정답입니다. 그녀는 영국 밴버리 출신입니다."
+      },
+      {
+        "question": "빈센트 뱅크스는 아내를 찾기 위해 인터넷을 사용했습니다.",
+        "correct": "F",
+        "explanation": "틀렸습니다. 그는 병에 편지를 담아 바다에 던졌습니다."
+      },
+      {
+        "question": "병은 10년 후에 발견되었습니다.",
+        "correct": "T",
+        "explanation": "정답입니다. 10년 후에 발견되었다고 명시되어 있습니다."
+      },
+      {
+        "question": "로사 란데이로는 노르웨이에서 병을 찾았습니다.",
+        "correct": "F",
+        "explanation": "틀렸습니다. 병은 스페인에서 발견되었습니다."
+      },
+      {
+        "question": "페르 올라프손은 인터넷을 통해 사랑을 찾으려 했습니다.",
+        "correct": "T",
+        "explanation": "정답입니다. 지문에 그렇게 나와 있습니다."
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "grammar_html": {
+    "en": "<h3>1. Past Simple Negatives</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>To make the past simple negative, use <strong>didn't</strong> + base form of the verb.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'>• I <strong>didn't watch</strong> TV yesterday.</li><li style='margin-bottom:15px;'>• They <strong>didn't make</strong> jeans in 1923.</li><li style='margin-bottom:15px;'>• He <strong>didn't give</strong> the aspirin to his mother.</li></ul><h3>2. Using 'ago'</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use <strong>ago</strong> to say how long before now something happened.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'>• Cars were invented <strong>131 years ago</strong> (from 2024).</li><li style='margin-bottom:15px;'>• I got up three hours <strong>ago</strong>.</li><li style='margin-bottom:15px;'>• This term started two months <strong>ago</strong>.</li></ul><h3>3. Saying Dates</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We write: 3/4/1999 or 3 April 1999.<br>We say: 'The third of April, nineteen ninety-nine' or 'April the third, nineteen ninety-nine'.</p></div>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "This unit covers Past Simple negatives, using 'ago', saying dates, and talking about inventions. <b>How do you make a negative sentence in the Past Simple? How do you use 'ago' to talk about when something happened? How do you say the date '3/4/1999'?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "Past Simple negative, didn't, ago, dates, ordinals, inventions, meet",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "To make a negative Past Simple sentence, use didn't + base verb... Use 'ago' after a time expression... The date 3/4/1999 is said...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "The unit includes stories about how people met (Internet, message in a bottle). <b>How do people usually meet their partners in your country? Has technology changed the way people meet? How do you think meeting someone through the Internet is different from meeting them in person?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "In my country, people often meet... Technology has changed meeting by... Internet meetings are different because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "In this unit, you practiced talking about past events using negatives and 'ago', and saying dates. <b>Why is it important to be able to talk about when things did NOT happen, as well as when they did? How can using dates and 'ago' help you understand history or news stories in English?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Talking about what didn't happen is important because... Dates and 'ago' help with history and news because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

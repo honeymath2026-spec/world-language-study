@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>🌍 통합 언어 학습 플랫폼 | Beginner to Advanced</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css/common.css">
+    <style>
+        .hero { text-align: center; padding: 40px 20px; background: linear-gradient(135deg, var(--primary) 0%, #1a252f 100%); color: white; border-radius: 20px; margin-bottom: 40px; }
+        .hero h1 { font-size: 2.5rem; margin-bottom: 10px; }
+        .hero p { font-size: 1.1rem; opacity: 0.9; }
+        .hero-badge { display: inline-block; background: var(--secondary); padding: 5px 15px; border-radius: 30px; font-size: 0.8rem; margin-top: 15px; }
+        .level-selector, .series-selector { display: flex; justify-content: center; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; }
+        .level-btn, .series-btn { background: var(--white); border: 2px solid var(--secondary); color: var(--secondary); padding: 10px 24px; border-radius: 40px; cursor: pointer; font-weight: bold; transition: all 0.2s; }
+        .level-btn:hover, .series-btn:hover { transform: translateY(-2px); }
+        .level-btn.active, .series-btn.active { background: var(--secondary); color: white; }
+        .section-title { font-size: 1.3rem; font-weight: bold; margin: 30px 0 15px 0; padding-left: 12px; border-left: 4px solid var(--secondary); color: var(--primary); }
+        .unit-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
+        .unit-card { background: var(--white); border-radius: 15px; padding: 20px; transition: all 0.3s; cursor: pointer; border: 1px solid var(--gray-border); text-decoration: none; color: inherit; display: block; }
+        .unit-card:hover { transform: translateY(-5px); box-shadow: 0 10px 25px rgba(0,0,0,0.1); border-color: var(--secondary); }
+        .unit-number { display: inline-block; background: var(--secondary); color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; margin-bottom: 12px; }
+        .unit-number.midterm { background: var(--danger); }
+        .unit-number.song { background: var(--warning); }
+        .unit-number.final { background: var(--danger); }
+        .unit-number.drill { background: var(--warning); }
+        .unit-number.library { background: var(--success); }
+        .unit-number.test { background: var(--primary); }
+        .unit-title { font-size: 1.2rem; font-weight: bold; margin-bottom: 8px; }
+        .unit-topic { font-size: 0.85rem; color: #888; margin-bottom: 8px; }
+        .unit-description { font-size: 0.8rem; color: #666; line-height: 1.4; }
+        .progress { margin-top: 15px; height: 4px; background: #e0e0e0; border-radius: 2px; overflow: hidden; }
+        .progress-bar { width: 0%; height: 100%; background: var(--success); border-radius: 2px; transition: width 0.3s; }
+        .badge-completed { display: inline-block; background: var(--success); color: white; font-size: 0.7rem; padding: 2px 8px; border-radius: 20px; margin-top: 10px; }
+        .footer { text-align: center; margin-top: 50px; padding: 30px; color: #888; font-size: 0.8rem; border-top: 1px solid var(--gray-border); }
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 1.8rem; }
+            .level-btn, .series-btn { padding: 6px 16px; font-size: 0.8rem; }
+            .unit-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="fixed-header">
+    <div class="header-content">
+        <div class="logo-area">
+            <span class="level-badge" id="levelBadge">🌍 Beginner</span>
+            <span class="page-title" id="headerTitle">통합 언어 학습</span>
+        </div>
+        <div class="lang-selector">
+            <button class="lang-btn" data-lang="en">🇬🇧 English</button>
+            <button class="lang-btn" data-lang="ja">🇯🇵 日本語</button>
+            <button class="lang-btn" data-lang="fr">🇫🇷 Français</button>
+            <button class="lang-btn" data-lang="ko">🇰🇷 한국어</button>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="hero">
+        <h1 id="heroTitle"><i class="fas fa-language"></i> 통합 언어 학습 플랫폼</h1>
+        <p id="heroSubtitle">하나의 플랫폼에서 영어, 일본어, 프랑스어, 한국어를 배우세요</p>
+        <div class="hero-badge" id="heroBadge">
+            <i class="fas fa-microphone"></i> TTS 음성 지원 | 
+            <i class="fas fa-robot"></i> 발음 평가 | 
+            <i class="fas fa-database"></i> 드릴센터
+        </div>
+    </div>
+
+    <div class="level-selector" id="levelSelector"></div>
+    <div class="series-selector" id="seriesSelector"></div>
+
+    <div class="dashboard" id="dashboard">
+        <div class="section-title" id="sectionUnitsTitle">📖 학습 유닛</div>
+        <div class="unit-grid" id="unitGrid">
+            <div style="text-align: center; padding: 40px;">로딩 중...</div>
+        </div>
+
+        <div class="section-title" id="sectionSpecialTitle">🎯 특별 학습</div>
+        <div class="unit-grid" id="specialGrid"></div>
+    </div>
+
+    <div class="footer">
+        <p id="footerText">© 2026 통합 언어 학습 플랫폼 | Beginner to Advanced | TTS · 발음 평가 · 드릴센터 지원</p>
+    </div>
+</div>
+
+<a href="index.html" class="back-to-dashboard">
+    <i class="fas fa-home"></i> <span id="backToDashboard">대시보드</span>
+</a>
+
+<script src="js/utils.js"></script>
+<script src="js/tts.js"></script>
+
+<script>
+// ==================== 다국어 텍스트 ====================
+const i18n = {
+    en: {
+        header_title: "Unified Language Learning",
+        hero_title: "Unified Language Learning Platform",
+        hero_subtitle: "Learn English, Japanese, French, and Korean on one platform",
+        hero_badge: '<i class="fas fa-microphone"></i> TTS Voice Support | <i class="fas fa-robot"></i> Pronunciation Assessment | <i class="fas fa-database"></i> Drill Center',
+        section_units: "📖 Learning Units",
+        section_special: "🎯 Special Learning",
+        footer: "© 2026 Unified Language Learning Platform | Beginner to Advanced | TTS · Pronunciation · Drill Center",
+        back_to_dashboard: "Dashboard",
+        unit: "Unit",
+        click_to_start: "Click to start learning",
+        complete: "% complete",
+        quiz: "Quiz",
+        song: "Song",
+        final: "Final",
+        comprehensive_test: "Comprehensive Test",
+        refresh_break: "Refresh & Break - Learn English with music",
+        vocabulary_builder: "Insight Library",
+        vocabulary_assessment: "Word Test",
+        speaking_drill: "Speaking Drill Center",
+        drill_desc: "Practice saved sentences intensively and improve your pronunciation.",
+        library_desc: "Additional materials for vocabulary enhancement",
+        wordtest_desc: "Test your vocabulary skills",
+        final_desc: "Comprehensive evaluation of the entire course",
+        preparing: "Preparing...",
+        review_quiz: "Review Quiz",
+        units: "Units"
+    },
+    ja: {
+        header_title: "統合言語学習",
+        hero_title: "統合言語学習プラットフォーム",
+        hero_subtitle: "英語、日本語、フランス語、韓国語を一つのプラットフォームで学べます",
+        hero_badge: '<i class="fas fa-microphone"></i> TTS音声サポート | <i class="fas fa-robot"></i> 発音評価 | <i class="fas fa-database"></i> ドリルセンター',
+        section_units: "📖 学習ユニット",
+        section_special: "🎯 特別学習",
+        footer: "© 2026 統合言語学習プラットフォーム | Beginner to Advanced | TTS · 発音評価 · ドリルセンター",
+        back_to_dashboard: "ダッシュボード",
+        unit: "ユニット",
+        click_to_start: "クリックして学習を開始",
+        complete: "% 完了",
+        quiz: "クイズ",
+        song: "歌",
+        final: "最終",
+        comprehensive_test: "総合テスト",
+        refresh_break: "リフレッシュ＆ブレイク - 音楽で英語学習",
+        vocabulary_builder: "インサイトライブラリー",
+        vocabulary_assessment: "ワードテスト",
+        speaking_drill: "スピーキングドリルセンター",
+        drill_desc: "保存した文を集中的に練習し、発音を向上させましょう。",
+        library_desc: "語彙力向上のための追加資料",
+        wordtest_desc: "語彙力をテストします",
+        final_desc: "コース全体の総合評価",
+        preparing: "準備中...",
+        review_quiz: "レビュークイズ",
+        units: "ユニット"
+    },
+    fr: {
+        header_title: "Apprentissage linguistique unifié",
+        hero_title: "Plateforme d'apprentissage des langues unifiée",
+        hero_subtitle: "Apprenez l'anglais, le japonais, le français et le coréen sur une seule plateforme",
+        hero_badge: '<i class="fas fa-microphone"></i> Support vocal TTS | <i class="fas fa-robot"></i> Évaluation de la prononciation | <i class="fas fa-database"></i> Centre d\'exercices',
+        section_units: "📖 Unités d'apprentissage",
+        section_special: "🎯 Apprentissage spécial",
+        footer: "© 2026 Plateforme d'apprentissage des langues | Débutant à Avancé | TTS · Prononciation · Centre d'exercices",
+        back_to_dashboard: "Tableau de bord",
+        unit: "Unité",
+        click_to_start: "Cliquez pour commencer",
+        complete: "% terminé",
+        quiz: "Quiz",
+        song: "Chanson",
+        final: "Final",
+        comprehensive_test: "Test complet",
+        refresh_break: "Détente & Break - Apprenez l'anglais avec la musique",
+        vocabulary_builder: "Bibliothèque Insight",
+        vocabulary_assessment: "Test de vocabulaire",
+        speaking_drill: "Centre d'exercices d'expression orale",
+        drill_desc: "Entraînez-vous intensivement sur les phrases enregistrées et améliorez votre prononciation.",
+        library_desc: "Matériel supplémentaire pour l'enrichissement du vocabulaire",
+        wordtest_desc: "Testez vos compétences en vocabulaire",
+        final_desc: "Évaluation complète de l'ensemble du cours",
+        preparing: "Préparation...",
+        review_quiz: "Quiz de révision",
+        units: "Unités"
+    },
+    ko: {
+        header_title: "통합 언어 학습",
+        hero_title: "통합 언어 학습 플랫폼",
+        hero_subtitle: "하나의 플랫폼에서 영어, 일본어, 프랑스어, 한국어를 배우세요",
+        hero_badge: '<i class="fas fa-microphone"></i> TTS 음성 지원 | <i class="fas fa-robot"></i> 발음 평가 | <i class="fas fa-database"></i> 드릴센터',
+        section_units: "📖 학습 유닛",
+        section_special: "🎯 특별 학습",
+        footer: "© 2026 통합 언어 학습 플랫폼 | Beginner to Advanced | TTS · 발음 평가 · 드릴센터 지원",
+        back_to_dashboard: "대시보드",
+        unit: "유닛",
+        click_to_start: "클릭하여 학습 시작",
+        complete: "% 완료",
+        quiz: "퀴즈",
+        song: "노래",
+        final: "최종",
+        comprehensive_test: "종합 평가",
+        refresh_break: "쉬어가기 - 음악과 함께 영어 학습",
+        vocabulary_builder: "인사이트 라이브러리",
+        vocabulary_assessment: "단어 테스트",
+        speaking_drill: "스피킹 드릴센터",
+        drill_desc: "저장한 문장을 집중적으로 연습하고 발음을 향상시키세요.",
+        library_desc: "어휘력 향상을 위한 추가 자료",
+        wordtest_desc: "어휘 실력을 테스트하세요",
+        final_desc: "전체 과정을 종합 평가합니다",
+        preparing: "준비 중입니다...",
+        review_quiz: "복습 퀴즈",
+        units: "유닛"
+    }
+};
+
+// ==================== 레벨 데이터 ====================
+const levelsData = {
+    beginner: { emoji: '🔰', name: { en: 'Beginner', ja: '初心者', fr: 'Débutant', ko: '초급' } },
+    elementary: { emoji: '📘', name: { en: 'Elementary', ja: '初級者', fr: 'Élémentaire', ko: '초중급' } },
+    preintermediate: { emoji: '📗', name: { en: 'Pre-Intermediate', ja: '初中級者', fr: 'Pré-intermédiaire', ko: '중급' } },
+    intermediate: { emoji: '📙', name: { en: 'Intermediate', ja: '中級者', fr: 'Intermédiaire', ko: '중상급' } },
+    upperintermediate: { emoji: '📕', name: { en: 'Upper-Intermediate', ja: '中上級者', fr: 'Supérieur', ko: '상급' } },
+    advanced: { emoji: '🎓', name: { en: 'Advanced', ja: '上級者', fr: 'Avancé', ko: '고급' } }
+};
+
+// ==================== 레벨 폴더 매핑 함수 ====================
+function getLevelFolder(level) {
+    const mapping = {
+        'beginner': '1_Beginner',
+        'elementary': '2_Elementary',
+        'preintermediate': '3_PreIntermediate',
+        'intermediate': '4_Intermediate',
+        'upperintermediate': '5_UpperIntermediate',
+        'advanced': '6_Advanced'
+    };
+    return mapping[level] || '3_PreIntermediate';
+}
+
+// ==================== 시리즈 데이터 ====================
+const seriesData = {
+    core: { emoji: '📘', name: { en: 'Core', ja: 'コア', fr: 'Noyau', ko: '코어' } },
+    plus: { emoji: '🎯', name: { en: 'Plus', ja: 'プラス', fr: 'Plus', ko: '플러스' } }
+};
+
+// ==================== 레벨별 카드 구성 (core 시리즈) ====================
+const levelCards = {
+    beginner: [
+        { type: 'unit', unit: 1 }, { type: 'unit', unit: 2 }, { type: 'unit', unit: 3 }, { type: 'unit', unit: 4 },
+        { type: 'quiz', nameKey: 'review_quiz_a', range: '01-04' },
+        { type: 'unit', unit: 5 }, { type: 'unit', unit: 6 }, { type: 'unit', unit: 7 }, { type: 'unit', unit: 8 },
+        { type: 'quiz', nameKey: 'review_quiz_b', range: '05-08' },
+        { type: 'song', nameKey: 'song_wonderful_world', artist: 'Louis Armstrong' },
+        { type: 'unit', unit: 9 }, { type: 'unit', unit: 10 }, { type: 'unit', unit: 11 }, { type: 'unit', unit: 12 },
+        { type: 'quiz', nameKey: 'review_quiz_c', range: '09-12' },
+        { type: 'final', nameKey: 'final_test' }
+    ],
+    elementary: [
+        { type: 'unit', unit: 1 }, { type: 'unit', unit: 2 }, { type: 'unit', unit: 3 }, { type: 'unit', unit: 4 },
+        { type: 'quiz', nameKey: 'review_quiz_a', range: '01-04' },
+        { type: 'unit', unit: 5 }, { type: 'unit', unit: 6 }, { type: 'unit', unit: 7 }, { type: 'unit', unit: 8 },
+        { type: 'quiz', nameKey: 'review_quiz_b', range: '05-08' },
+        { type: 'song', nameKey: 'song_wonderful_world', artist: 'Louis Armstrong' },
+        { type: 'unit', unit: 9 }, { type: 'unit', unit: 10 }, { type: 'unit', unit: 11 }, { type: 'unit', unit: 12 },
+        { type: 'quiz', nameKey: 'review_quiz_c', range: '09-12' },
+        { type: 'unit', unit: 13 }, { type: 'unit', unit: 14 },
+        { type: 'quiz', nameKey: 'review_quiz_d', range: '13-14' },
+        { type: 'song', nameKey: 'song_my_love', artist: 'Westlife' },
+        { type: 'final', nameKey: 'final_test' }
+    ],
+    preintermediate: [
+        { type: 'unit', unit: 1 }, { type: 'unit', unit: 2 }, { type: 'unit', unit: 3 }, { type: 'unit', unit: 4 },
+        { type: 'quiz', nameKey: 'review_quiz_a', range: '01-04' },
+        { type: 'unit', unit: 5 }, { type: 'unit', unit: 6 }, { type: 'unit', unit: 7 }, { type: 'unit', unit: 8 },
+        { type: 'quiz', nameKey: 'review_quiz_b', range: '05-08' },
+        { type: 'song', nameKey: 'song_wonderful_world', artist: 'Louis Armstrong' },
+        { type: 'unit', unit: 9 }, { type: 'unit', unit: 10 }, { type: 'unit', unit: 11 }, { type: 'unit', unit: 12 },
+        { type: 'quiz', nameKey: 'review_quiz_c', range: '09-12' },
+        { type: 'unit', unit: 13 }, { type: 'unit', unit: 14 }, { type: 'unit', unit: 15 }, { type: 'unit', unit: 16 },
+        { type: 'quiz', nameKey: 'review_quiz_d', range: '13-16' },
+        { type: 'song', nameKey: 'song_my_love', artist: 'Westlife' },
+        { type: 'final', nameKey: 'final_test' }
+    ],
+    intermediate: [
+        { type: 'unit', unit: 1 }, { type: 'unit', unit: 2 }, { type: 'unit', unit: 3 }, { type: 'unit', unit: 4 },
+        { type: 'quiz', nameKey: 'review_quiz_a', range: '01-04' },
+        { type: 'unit', unit: 5 }, { type: 'unit', unit: 6 }, { type: 'unit', unit: 7 }, { type: 'unit', unit: 8 },
+        { type: 'quiz', nameKey: 'review_quiz_b', range: '05-08' },
+        { type: 'song', nameKey: 'song_wonderful_world', artist: 'Louis Armstrong' },
+        { type: 'unit', unit: 9 }, { type: 'unit', unit: 10 }, { type: 'unit', unit: 11 }, { type: 'unit', unit: 12 },
+        { type: 'quiz', nameKey: 'review_quiz_c', range: '09-12' },
+        { type: 'final', nameKey: 'final_test' }
+    ],
+    upperintermediate: [
+        { type: 'unit', unit: 1 }, { type: 'unit', unit: 2 }, { type: 'unit', unit: 3 }, { type: 'unit', unit: 4 },
+        { type: 'quiz', nameKey: 'review_quiz_a', range: '01-04' },
+        { type: 'unit', unit: 5 }, { type: 'unit', unit: 6 }, { type: 'unit', unit: 7 }, { type: 'unit', unit: 8 },
+        { type: 'quiz', nameKey: 'review_quiz_b', range: '05-08' },
+        { type: 'song', nameKey: 'song_wonderful_world', artist: 'Louis Armstrong' },
+        { type: 'unit', unit: 9 }, { type: 'unit', unit: 10 }, { type: 'unit', unit: 11 }, { type: 'unit', unit: 12 },
+        { type: 'quiz', nameKey: 'review_quiz_c', range: '09-12' },
+        { type: 'final', nameKey: 'final_test' }
+    ],
+    advanced: [
+        { type: 'unit', unit: 1 }, { type: 'unit', unit: 2 }, { type: 'unit', unit: 3 }, { type: 'unit', unit: 4 },
+        { type: 'quiz', nameKey: 'review_quiz_a', range: '01-04' },
+        { type: 'unit', unit: 5 }, { type: 'unit', unit: 6 }, { type: 'unit', unit: 7 }, { type: 'unit', unit: 8 },
+        { type: 'quiz', nameKey: 'review_quiz_b', range: '05-08' },
+        { type: 'song', nameKey: 'song_wonderful_world', artist: 'Louis Armstrong' },
+        { type: 'unit', unit: 9 }, { type: 'unit', unit: 10 }, { type: 'unit', unit: 11 }, { type: 'unit', unit: 12 },
+        { type: 'quiz', nameKey: 'review_quiz_c', range: '09-12' },
+        { type: 'final', nameKey: 'final_test' }
+    ]
+};
+
+// ==================== 카드 이름 다국어 매핑 ====================
+const cardNames = {
+    en: {
+        review_quiz_a: "Review Quiz A",
+        review_quiz_b: "Review Quiz B", 
+        review_quiz_c: "Review Quiz C",
+        review_quiz_d: "Review Quiz D",
+        final_test: "FINAL COMPREHENSIVE TEST",
+        song_wonderful_world: "What A Wonderful World",
+        song_my_love: "My Love"
+    },
+    ja: {
+        review_quiz_a: "復習クイズ A",
+        review_quiz_b: "復習クイズ B",
+        review_quiz_c: "復習クイズ C", 
+        review_quiz_d: "復習クイズ D",
+        final_test: "最終総合テスト",
+        song_wonderful_world: "What A Wonderful World (英語)",
+        song_my_love: "My Love (英語)"
+    },
+    fr: {
+        review_quiz_a: "Quiz de révision A",
+        review_quiz_b: "Quiz de révision B",
+        review_quiz_c: "Quiz de révision C",
+        review_quiz_d: "Quiz de révision D", 
+        final_test: "TEST FINAL COMPLET",
+        song_wonderful_world: "What A Wonderful World (anglais)",
+        song_my_love: "My Love (anglais)"
+    },
+    ko: {
+        review_quiz_a: "복습 퀴즈 A",
+        review_quiz_b: "복습 퀴즈 B",
+        review_quiz_c: "복습 퀴즈 C",
+        review_quiz_d: "복습 퀴즈 D",
+        final_test: "최종 종합 평가",
+        song_wonderful_world: "왓 어 원더풀 월드 (영어)",
+        song_my_love: "마이 러브 (영어)"
+    }
+};
+
+// ==================== 특별 학습 카드 ====================
+const specialCards = [
+    { type: 'drill', nameKey: 'speaking_drill', icon: '🎯', descKey: 'drill_desc' },
+    // TODO: 다국어 지원 후 추가 예정
+    // { type: 'library', nameKey: 'vocabulary_builder', icon: '📚', descKey: 'library_desc' },
+    // { type: 'wordtest', nameKey: 'vocabulary_assessment', icon: '📝', descKey: 'wordtest_desc' }
+];
+
+// ==================== 글로벌 변수 ====================
+let currentLanguage = 'ko';
+let currentLevel = 'preintermediate';
+let currentSeries = 'core';
+let unitMetadata = {};
+
+// ==================== 유틸리티 함수 ====================
+function getProgressKey(level, series, cardId) {
+    return `${currentLanguage}_${level}_${series}_card_${cardId}`;
+}
+
+function getCardProgress(level, series, cardId) {
+    const key = getProgressKey(level, series, cardId);
+    const saved = localStorage.getItem(key);
+    if (saved) {
+        const data = JSON.parse(saved);
+        if (data.quiz) {
+            return (data.quiz.score / data.quiz.total) * 100;
+        }
+    }
+    return 0;
+}
+
+// ==================== UI 업데이트 ====================
+function updateUILanguage(lang) {
+    const texts = i18n[lang] || i18n.ko;
+    document.getElementById('headerTitle').textContent = texts.header_title;
+    document.getElementById('heroTitle').innerHTML = '<i class="fas fa-language"></i> ' + texts.hero_title;
+    document.getElementById('heroSubtitle').textContent = texts.hero_subtitle;
+    document.getElementById('heroBadge').innerHTML = texts.hero_badge;
+    document.getElementById('sectionUnitsTitle').innerHTML = texts.section_units;
+    document.getElementById('sectionSpecialTitle').innerHTML = texts.section_special;
+    document.getElementById('footerText').textContent = texts.footer;
+    document.getElementById('backToDashboard').textContent = texts.back_to_dashboard;
+}
+
+// ==================== 레벨 버튼 렌더링 ====================
+function renderLevelButtons() {
+    const container = document.getElementById('levelSelector');
+    if (!container) return;
+    
+    let html = '';
+    for (const [level, data] of Object.entries(levelsData)) {
+        const displayName = data.name[currentLanguage] || data.name.en;
+        const activeClass = (currentLevel === level) ? 'active' : '';
+        html += `<button class="level-btn ${activeClass}" data-level="${level}">${data.emoji} ${displayName}</button>`;
+    }
+    container.innerHTML = html;
+    
+    document.querySelectorAll('.level-btn').forEach(btn => {
+        btn.addEventListener('click', () => setLevel(btn.dataset.level));
+    });
+}
+
+// ==================== 시리즈 버튼 렌더링 ====================
+function renderSeriesButtons() {
+    const container = document.getElementById('seriesSelector');
+    if (!container) return;
+    
+    let html = '';
+    for (const [series, data] of Object.entries(seriesData)) {
+        if (series === 'plus' && currentLevel === 'beginner') continue;
+        const displayName = data.name[currentLanguage] || data.name.en;
+        const activeClass = (currentSeries === series) ? 'active' : '';
+        html += `<button class="series-btn ${activeClass}" data-series="${series}">${data.emoji} ${displayName}</button>`;
+    }
+    container.innerHTML = html;
+    
+    document.querySelectorAll('.series-btn').forEach(btn => {
+        btn.addEventListener('click', () => setSeries(btn.dataset.series));
+    });
+}
+
+// ==================== 유닛 메타데이터 로드 ====================
+// loadUnitMetadata 함수 수정
+async function loadUnitMetadata(level) {
+    const cards = levelCards[level] || [];
+    const metadata = {};
+    const levelFolder = getLevelFolder(level);  // 레벨 폴더 매핑 추가
+    
+    for (const card of cards) {
+        if (card.type === 'unit') {
+            try {
+                const unitStr = String(card.unit).padStart(2, '0');
+                // 수정된 경로: data/3_PreIntermediate/unit_01.json
+                const response = await fetch(`data/${levelFolder}/unit_${unitStr}.json`);
+                if (response.ok) {
+                    const unitData = await response.json();
+                    metadata[card.unit] = {
+                        title: unitData.title || {},
+                        topic: unitData.topic || {}
+                    };
+                } else {
+                    metadata[card.unit] = {
+                        title: { en: `Unit ${card.unit}`, ko: `${card.unit}과`, ja: `ユニット ${card.unit}`, fr: `Unité ${card.unit}` },
+                        topic: { en: '', ko: '', ja: '', fr: '' }
+                    };
+                }
+            } catch (err) {
+                console.warn(`Failed to load unit ${card.unit}:`, err);
+                metadata[card.unit] = {
+                    title: { en: `Unit ${card.unit}`, ko: `${card.unit}과`, ja: `ユニット ${card.unit}`, fr: `Unité ${card.unit}` },
+                    topic: { en: '', ko: '', ja: '', fr: '' }
+                };
+            }
+        }
+    }
+    
+    unitMetadata = metadata;
+    return metadata;
+}
+
+// ==================== 유닛 목록 렌더링 ====================
+async function renderUnits() {
+    const container = document.getElementById('unitGrid');
+    if (!container) return;
+    
+    const cards = levelCards[currentLevel] || [];
+    await loadUnitMetadata(currentLevel);
+    
+    const texts = i18n[currentLanguage] || i18n.en;
+    const names = cardNames[currentLanguage] || cardNames.en;
+    
+    let html = '';
+    for (let i = 0; i < cards.length; i++) {
+        const card = cards[i];
+        const progress = getCardProgress(currentLevel, currentSeries, i);
+        
+        let title = '', topic = '', unitClass = '', unitLabel = '', description = '', onClickAttr = '';
+        
+        if (card.type === 'unit') {
+            const unit = unitMetadata[card.unit] || {};
+            title = unit.title?.[currentLanguage] || unit.title?.en || `${texts.unit} ${card.unit}`;
+            topic = unit.topic?.[currentLanguage] || unit.topic?.en || '';
+            unitClass = 'unit-number';
+            unitLabel = `${texts.unit} ${card.unit}`;
+            description = texts.click_to_start;
+            onClickAttr = `onclick="goToUnit(${card.unit})"`;
+        } else if (card.type === 'quiz') {
+            title = names[card.nameKey] || card.nameKey;
+            topic = `${texts.units} ${card.range}`;
+            unitClass = 'unit-number midterm';
+            unitLabel = `📝 ${texts.quiz}`;
+            description = texts.click_to_start;
+            onClickAttr = `onclick="goToQuiz('${title}', '${card.range}')"`;
+        } else if (card.type === 'song') {
+            title = names[card.nameKey] || card.nameKey;
+            topic = `🎵 ${card.artist}`;
+            unitClass = 'unit-number song';
+            unitLabel = `🎵 ${texts.song}`;
+            description = texts.refresh_break;
+            onClickAttr = `onclick="goToSong('${title.replace(/'/g, "\\'")}', '${card.artist.replace(/'/g, "\\'")}')"`;
+        } else if (card.type === 'final') {
+            title = names[card.nameKey] || card.nameKey;
+            topic = texts.comprehensive_test;
+            unitClass = 'unit-number final';
+            unitLabel = `🏆 ${texts.final}`;
+            description = texts.final_desc;
+            onClickAttr = 'onclick="goToFinalTest()"';
+        }
+        
+        html += `<div class="unit-card" ${onClickAttr}>
+            <div class="${unitClass}">${unitLabel}</div>
+            <div class="unit-title">${Utils.escapeHtml(title)}</div>
+            <div class="unit-topic">${Utils.escapeHtml(topic)}</div>
+            <div class="unit-description">${description}</div>
+            <div class="progress"><div class="progress-bar" style="width: ${progress}%"></div></div>
+            <div style="font-size: 0.7rem; text-align: right; margin-top: 5px; color: #888;">${Math.round(progress)}${texts.complete}</div>
+            ${progress >= 100 ? '<span class="badge-completed">✓ Complete</span>' : ''}
+        </div>`;
+    }
+    container.innerHTML = html;
+}
+
+// ==================== 특별 학습 렌더링 ====================
+function renderSpecialCards() {
+    const container = document.getElementById('specialGrid');
+    if (!container) return;
+    
+    const texts = i18n[currentLanguage] || i18n.en;
+    
+    let html = '';
+    for (const card of specialCards) {
+        const title = texts[card.nameKey] || card.nameKey;
+        const description = texts[card.descKey] || '';
+        let topic = '', onClickAttr = '';
+        
+        if (card.type === 'drill') {
+            topic = texts.speaking_drill;
+            onClickAttr = 'onclick="goToDrillCenter()"';
+        } else if (card.type === 'library') {
+            topic = texts.vocabulary_builder;
+            onClickAttr = 'onclick="goToInsightLibrary()"';
+        } else if (card.type === 'wordtest') {
+            topic = texts.vocabulary_assessment;
+            onClickAttr = 'onclick="goToWordTest()"';
+        }
+        
+        html += `<div class="unit-card" ${onClickAttr}>
+            <div class="unit-number ${card.type}">${card.icon}</div>
+            <div class="unit-title">${title}</div>
+            <div class="unit-topic">${topic}</div>
+            <div class="unit-description">${description}</div>
+        </div>`;
+    }
+    container.innerHTML = html;
+}
+
+// ==================== 네비게이션 함수 ====================
+function goToUnit(unit) {
+    const folder = getLevelFolder(currentLevel);
+    const url = `templates/${folder}/${currentLevel}_template.html?lang=${currentLanguage}&unit=${unit}&series=${currentSeries}`;
+    window.location.href = url;
+}
+
+function goToQuiz(name, range) {
+    const folder = getLevelFolder(currentLevel);
+    let fileName = '';
+    if (range === '01-04') fileName = 'review_quiz_a.html';
+    else if (range === '05-08') fileName = 'review_quiz_b.html';
+    else if (range === '09-12') fileName = 'review_quiz_c.html';
+    else if (range === '13-16') fileName = 'review_quiz_d.html';
+    
+    window.location.href = `templates/${folder}/${fileName}?lang=${currentLanguage}&range=${range}`;
+}
+
+function goToSong(name, artist) {
+    const folder = getLevelFolder(currentLevel);
+    let fileName = '';
+    
+    if (name.includes('Wonderful World') || name.includes('왓 어 원더풀') || name.includes('What A Wonderful')) {
+        fileName = 'song_wonderful_world.html';
+    } else if (name.includes('My Love') || name.includes('마이 러브')) {
+        fileName = 'song_my_love.html';
+    } else {
+        const texts = i18n[currentLanguage] || i18n.en;
+        alert(`${texts.song}: ${name}\n${artist}\n\n${texts.preparing}`);
+        return;
+    }
+    
+    window.location.href = `templates/${folder}/${fileName}?lang=${currentLanguage}`;
+}
+
+function goToFinalTest() {
+    const folder = getLevelFolder(currentLevel);
+    window.location.href = `templates/${folder}/final_test.html?lang=${currentLanguage}`;
+}
+
+function goToDrillCenter() {
+    window.location.href = `drill_center.html?lang=${currentLanguage}&level=${currentLevel}&series=${currentSeries}`;
+}
+
+// ==================== 레벨/시리즈 변경 ====================
+function setLevel(level) {
+    currentLevel = level;
+    localStorage.setItem('dashboard_level', level);
+    
+    const levelName = levelsData[level]?.name[currentLanguage] || levelsData[level]?.name.en || level;
+    document.getElementById('levelBadge').textContent = `🌍 ${levelName}`;
+    
+    renderLevelButtons();
+    renderSeriesButtons();
+    renderUnits();
+    renderSpecialCards();
+}
+
+function setSeries(series) {
+    currentSeries = series;
+    localStorage.setItem('dashboard_series', series);
+    
+    renderSeriesButtons();
+    renderUnits();
+}
+
+// ==================== 언어 설정 ====================
+function setLanguage(lang) {
+    currentLanguage = lang;
+    localStorage.setItem('dashboard_language', lang);
+    
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.dataset.lang === lang) btn.classList.add('active');
+    });
+    
+    updateUILanguage(lang);
+    
+    const levelName = levelsData[currentLevel]?.name[currentLanguage] || levelsData[currentLevel]?.name.en || currentLevel;
+    document.getElementById('levelBadge').textContent = `🌍 ${levelName}`;
+    
+    renderLevelButtons();
+    renderSeriesButtons();
+    renderUnits();
+    renderSpecialCards();
+    
+    if (window.TTS) TTS.setLanguage(lang);
+}
+
+// ==================== 초기화 ====================
+async function init() {
+    const savedLang = localStorage.getItem('dashboard_language');
+    const savedLevel = localStorage.getItem('dashboard_level');
+    const savedSeries = localStorage.getItem('dashboard_series');
+    
+    if (savedLang && i18n[savedLang]) currentLanguage = savedLang;
+    if (savedLevel && levelsData[savedLevel]) currentLevel = savedLevel;
+    if (savedSeries && seriesData[savedSeries]) currentSeries = savedSeries;
+    
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+        if (btn.dataset.lang === currentLanguage) btn.classList.add('active');
+    });
+    
+    renderLevelButtons();
+    renderSeriesButtons();
+    
+    const levelName = levelsData[currentLevel]?.name[currentLanguage] || levelsData[currentLevel]?.name.en || currentLevel;
+    document.getElementById('levelBadge').textContent = `🌍 ${levelName}`;
+    
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+        btn.addEventListener('click', () => setLanguage(btn.dataset.lang));
+    });
+    
+    updateUILanguage(currentLanguage);
+    
+    if (window.TTS) {
+        TTS.init();
+        TTS.setLanguage(currentLanguage);
+    }
+    
+    await renderUnits();
+    renderSpecialCards();
+}
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+} else {
+    init();
+}
+</script>
+</body>
+</html>

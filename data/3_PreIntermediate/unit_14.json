@@ -1,0 +1,1660 @@
+{
+  "title": {
+    "en": "MIND AND BODY",
+    "ja": "マインド・アンド・ボディ",
+    "fr": "ESPRIT ET CORPS",
+    "ko": "마음과 몸"
+  },
+  "topic": {
+    "en": "Consumer choices, environmental responsibility, household items, gifts and memories",
+    "ja": "消費者としての選択、環境への責任、家庭用品、贈り物と記憶",
+    "fr": "Choix des consommateurs, responsabilité environnementale, articles ménagers, cadeaux et souvenirs",
+    "ko": "소비자 선택, 환경 책임, 가정용품, 선물과 추억"
+  },
+  "core_title": {
+    "en": "Things, Choices, and Our Planet",
+    "ja": "物、選択、そして私たちの地球",
+    "fr": "Objets, Choix et Notre Planète",
+    "ko": "물건, 선택, 그리고 우리의 지구"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top: 0;'>Every day, we are surrounded by things. Some are <b>the objects that we buy to make our lives easier</b>, while others are <b>the presents that we receive from people we love</b>. However, as Professor Liam Taylor points out, every object has a story and an <b>environmental cost</b>. Whether it is <b>the machine that makes hot water in your kitchen</b> or <b>the mountain bike that you ride to work</b>, we <b>must</b> think about what we own and how we use it.</p><p>When moving into a new place, we often <b>realize</b> how many <b>basic items</b> we <b>lack</b>. In a conversation between three friends, they discuss <b>the things that they need for cleaning and daily life</b>. They talk about <b>a dustpan</b>, which is <b>the thing that you use to get</b> <strong><span class='vocab-link' id='text-rubbish' onclick='speakAndScroll(\"rubbish\", \"vocab-rubbish\")'>rubbish</span></strong> <b>from the floor with a brush</b>, and <strong><span class='vocab-link' id='text-bleach' onclick='speakAndScroll(\"bleach\", \"vocab-bleach\")'>bleach</span></strong>, which is <b>a kind of strong chemical liquid that is good for cleaning the floor</b>.</p><p>They also need to care for their clothes. They look for <b>an iron</b>, which is <b>the machine that you use for the clothes after you wash them</b>, and <b>an ironing board</b>, which is <b>the thing that you put the clothes on when you use the iron</b>. In the bathroom, they need <b>a shower curtain</b>, which is <b>the plastic thing that stops the water from leaving the shower</b>, and <b>a shower rail</b> to hold it. Finally, they cannot live without a <strong><span class='vocab-link' id='text-kettle' onclick='speakAndScroll(\"kettle\", \"vocab-kettle\")'>kettle</span></strong>, which is <b>the machine that makes hot water for tea</b>.</p><p>The objects we own often come to us as gifts. These gifts can be digital, practical, or even strange. One person received <b>his own website</b>, which was <b>something fun that he and his sister could work on together</b>. Another person got <b>a mountain bike</b>, which has become <b>one of the most useful presents ever</b> because it <b>saves him loads of money on petrol</b>. However, not all gifts are perfect. One woman describes <b>an iron</b> as a \"bad present\" from an <b>ex-boyfriend</b> because of the <b>message</b> it sent about their <b>relationship</b>. On the other hand, a simple <b>rock from a beach</b> can be a great gift. Although it seemed like <b>a thing that was a bit stupid</b> at first, it became a <strong><span class='vocab-link' id='text-precious' onclick='speakAndScroll(\"precious\", \"vocab-precious\")'>precious</span></strong> memory because it was <b>something that he would never forget</b>.</p><p>While we enjoy these objects, we <b>must</b> <b>consider</b> their <b>impact</b> on the planet. Professor Taylor explains that <b>there are laws of nature that we cannot ignore</b>, such as <b>gravity</b> and <b>waste</b>. Everything we <b>consume</b> leads to <b>waste</b>. For example, <b>kiwi fruits that are covered in clear plastic</b> and flown thousands of miles create a <b>huge amount</b> of carbon <strong><span class='vocab-link' id='text-dioxide' onclick='speakAndScroll(\"dioxide\", \"vocab-dioxide\")'>dioxide</span></strong>.</p><p>The <b>materials</b> used in our products are also important. We <b>must</b> remember that <b>the aluminium in soda cans is bad</b> because companies <b>must mine four tonnes of rock</b> just to get one tonne of aluminium. <b>Meanwhile, the transport costs for glass bottles are higher</b> because glass is heavier. If you <b>must</b> have soft drinks, you should buy them in <b>recyclable plastic bottles</b> that are the largest size, as they are more <b>efficient</b>.</p><p>We often believe that <strong><span class='vocab-link' id='text-biodegradable' onclick='speakAndScroll(\"biodegradable\", \"vocab-biodegradable\")'>biodegradable</span></strong> items disappear, but <strong><span class='vocab-link' id='text-archaeologists' onclick='speakAndScroll(\"archaeologists\", \"vocab-archaeologists\")'>archaeologists</span></strong> recently <b>investigated</b> sites and found <b>newspapers that were thirty years old</b> and perfectly <strong><span class='vocab-link' id='text-preserved' onclick='speakAndScroll(\"preserved\", \"vocab-preserved\")'>preserved</span></strong> sausages. Therefore, we <b>mustn't</b> be <b>careless</b> with our <b>choices</b>. We <b>must</b> accept our <strong><span class='vocab-link' id='text-responsibility' onclick='speakAndScroll(\"responsibility\", \"vocab-responsibility\")'>responsibility</span></strong> to buy <b>local products</b> and avoid <b>unnecessary packaging</b>. By understanding <b>the things that we use every day</b>, we can make better decisions for our future.</p>",
+    "ja": "<p style='margin-top: 0;'>私たちは毎日、物に囲まれています。あるものは<b>生活をより楽にするために買う物</b>であり、他のものは<b>愛する人からもらう贈り物</b>です。しかし、リアム・テイラー教授が指摘するように、すべての物には物語と<b>環境コスト</b>があります。それが<b>キッチンでお湯を沸かす機械</b>であれ、<b>通勤に使うマウンテンバイク</b>であれ、私たちは自分が何を所有し、どのように使うかについて<b>考えなければなりません</b>。</p><p>新しい場所に引っ越すとき、私たちは自分たちがどれだけ多くの<b>基本的なアイテム</b>を<b>不足している</b>かに気づきます。3人の友人の会話の中で、彼らは<b>掃除や日常生活に必要な物</b>について話し合っています。彼らは<b>ちり取り</b>、つまり<b>ほうきで床の</b><strong><span class='vocab-link' id='text-rubbish' onclick='speakAndScroll(\"rubbish\", \"vocab-rubbish\")'>ゴミ</span></strong><b>を集めるのに使う物</b>や、<strong><span class='vocab-link' id='text-bleach' onclick='speakAndScroll(\"bleach\", \"vocab-bleach\")'>漂白剤</span></strong>、つまり<b>床の掃除に適した強力な化学薬品の一種</b>について話します。</p><p>また、衣類の手入れも必要です。彼らは<b>アイロン</b>、つまり<b>洗濯した後に衣類に使う機械</b>や、<b>アイロン台</b>、つまり<b>アイロンを使うときに衣類を置く物</b>を探します。バスルームでは、<b>シャワーカーテン</b>、つまり<b>水がシャワーから出るのを防ぐプラスチックの物</b>と、それを支える<b>シャワーレール</b>が必要です。最後に、彼らは<strong><span class='vocab-link' id='text-kettle' onclick='speakAndScroll(\"kettle\", \"vocab-kettle\")'>ケトル</span></strong>なしでは生きていけません。それは<b>お茶のために湯を沸かす機械</b>です。</p><p>私たちが所有する物は、しばしば贈り物として私たちのもとに届きます。これらの贈り物は、デジタルであったり、実用的であったり、時には奇妙であったりします。ある人は<b>自分のウェブサイト</b>を受け取りました。それは<b>彼と妹が一緒に取り組める楽しいもの</b>でした。別の人は<b>マウンテンバイク</b>をもらいました。それは<b>ガソリン代をたくさん節約してくれる</b>ので、<b>これまでで最も役に立つプレゼントの一つ</b>になりました。しかし、すべての贈り物が完璧というわけではありません。ある女性は、<b>アイロン</b>を、彼らの<b>関係</b>について送った<b>メッセージ</b>のために、<b>元彼</b>からの「悪いプレゼント」だと表現しています。一方、<b>浜辺の石</b>のような単純なものでも、素晴らしい贈り物になり得ます。最初は<b>少しばかげた物</b>のように見えましたが、<b>決して忘れられないもの</b>だったため、<strong><span class='vocab-link' id='text-precious' onclick='speakAndScroll(\"precious\", \"vocab-precious\")'>貴重な</span></strong>思い出になりました。</p><p>私たちはこれらの物を楽しむ一方で、その地球への<b>影響</b>を<b>考慮しなければなりません</b>。テイラー教授は、<b>重力</b>や<b>廃棄物</b>のように、<b>無視できない自然の法則がある</b>と説明しています。私たちが<b>消費する</b>ものはすべて<b>廃棄物</b>につながります。例えば、<b>透明なプラスチックで覆われたキウイフルーツ</b>を何千マイルも空輸すると、大量の二<strong><span class='vocab-link' id='text-dioxide' onclick='speakAndScroll(\"dioxide\", \"vocab-dioxide\")'>酸化</span></strong>炭素が発生します。</p><p>製品に使われる<b>材料</b>も重要です。ソフトドリンクの缶の<b>アルミニウムは良くない</b>ということを私たちは<b>覚えておかなければなりません</b>。なぜなら、1トンのアルミニウムを得るために会社は<b>4トンの岩石を採掘しなければならない</b>からです。<b>一方、ガラス瓶は重いため輸送コストが高くなります</b>。どうしてもソフトドリンクを飲みたいなら、<b>リサイクル可能なペットボトル</b>で最も大きいサイズのものを買うべきです。それらはより<b>効率的</b>だからです。</p><p>私たちは、<strong><span class='vocab-link' id='text-biodegradable' onclick='speakAndScroll(\"biodegradable\", \"vocab-biodegradable\")'>生分解性</span></strong>のアイテムは消えてなくなると思いがちですが、<strong><span class='vocab-link' id='text-archaeologists' onclick='speakAndScroll(\"archaeologists\", \"vocab-archaeologists\")'>考古学者</span></strong>が最近発掘現場を<b>調査した</b>ところ、<b>30年前の新聞</b>や完全に<strong><span class='vocab-link' id='text-preserved' onclick='speakAndScroll(\"preserved\", \"vocab-preserved\")'>保存された</span></strong>ソーセージを発見しました。したがって、私たちは自分の<b>選択</b>について<b>不注意であってはなりません</b>。私たちは、<b>地域の製品</b>を購入し、<b>不必要な包装</b>を避けるという<strong><span class='vocab-link' id='text-responsibility' onclick='speakAndScroll(\"responsibility\", \"vocab-responsibility\")'>責任</span></strong>を受け入れ<b>なければなりません</b>。<b>私たちが毎日使うもの</b>を理解することで、私たちは未来のために、より良い決断を下すことができます。</p>",
+    "fr": "<p style='margin-top: 0;'>Chaque jour, nous sommes entourés d'objets. Certains sont <b>les objets que nous achetons pour nous faciliter la vie</b>, tandis que d'autres sont <b>les cadeaux que nous recevons des personnes que nous aimons</b>. Cependant, comme le souligne le professeur Liam Taylor, chaque objet a une histoire et un <b>coût environnemental</b>. Qu'il s'agisse de <b>la machine qui fait chauffer l'eau dans votre cuisine</b> ou du <b>vélo tout terrain que vous utilisez pour aller au travail</b>, nous <b>devons</b> réfléchir à ce que nous possédons et à la façon dont nous l'utilisons.</p><p>En emménageant dans un nouvel endroit, nous <b>réalisons</b> souvent le nombre d'<b>articles de base</b> qui nous <b>manquent</b>. Dans une conversation entre trois amis, ils discutent <b>des choses dont ils ont besoin pour le nettoyage et la vie quotidienne</b>. Ils parlent d'<b>une pelle à poussière</b>, qui est <b>la chose que vous utilisez pour ramasser les</b> <strong><span class='vocab-link' id='text-rubbish' onclick='speakAndScroll(\"rubbish\", \"vocab-rubbish\")'>ordures</span></strong> <b>du sol avec une brosse</b>, et de <strong><span class='vocab-link' id='text-bleach' onclick='speakAndScroll(\"bleach\", \"vocab-bleach\")'>l'eau de Javel</span></strong>, qui est <b>une sorte de liquide chimique puissant qui est bon pour nettoyer le sol</b>.</p><p>Ils doivent également prendre soin de leurs vêtements. Ils cherchent <b>un fer à repasser</b>, qui est <b>la machine que vous utilisez pour les vêtements après les avoir lavés</b>, et <b>une planche à repasser</b>, qui est <b>la chose sur laquelle vous posez les vêtements lorsque vous utilisez le fer</b>. Dans la salle de bain, ils ont besoin <b>d'un rideau de douche</b>, qui est <b>la chose en plastique qui empêche l'eau de sortir de la douche</b>, et <b>d'une tringle de douche</b> pour le maintenir. Enfin, ils ne peuvent pas vivre sans <strong><span class='vocab-link' id='text-kettle' onclick='speakAndScroll(\"kettle\", \"vocab-kettle\")'>bouilloire</span></strong>, qui est <b>la machine qui fait chauffer l'eau pour le thé</b>.</p><p>Les objets que nous possédons nous parviennent souvent sous forme de cadeaux. Ces cadeaux peuvent être numériques, pratiques ou même étranges. Une personne a reçu <b>son propre site web</b>, qui était <b>quelque chose d'amusant sur lequel lui et sa sœur pouvaient travailler ensemble</b>. Une autre personne a reçu <b>un vélo tout terrain</b>, qui est devenu <b>l'un des cadeaux les plus utiles jamais reçus</b> car il <b>lui fait économiser beaucoup d'argent sur l'essence</b>. Cependant, tous les cadeaux ne sont pas parfaits. Une femme décrit <b>un fer à repasser</b> comme un \"mauvais cadeau\" de la part d'un <b>ex-petit ami</b> en raison du <b>message</b> qu'il envoyait sur leur <b>relation</b>. D'autre part, un simple <b>caillou de plage</b> peut être un excellent cadeau. Bien qu'il ait semblé <b>un peu stupide</b> au début, il est devenu un souvenir <strong><span class='vocab-link' id='text-precious' onclick='speakAndScroll(\"precious\", \"vocab-precious\")'>précieux</span></strong> car c'était <b>quelque chose qu'il n'oublierait jamais</b>.</p><p>Tout en appréciant ces objets, nous <b>devons</b> <b>considérer</b> leur <b>impact</b> sur la planète. Le professeur Taylor explique qu'<b>il y a des lois de la nature que nous ne pouvons pas ignorer</b>, comme la <b>gravité</b> et les <b>déchets</b>. Tout ce que nous <b>consommons</b> conduit à des <b>déchets</b>. Par exemple, <b>les kiwis recouverts de plastique transparent</b> et transportés par avion sur des milliers de kilomètres créent une <b>énorme quantité</b> de <strong><span class='vocab-link' id='text-dioxide' onclick='speakAndScroll(\"dioxide\", \"vocab-dioxide\")'>dioxyde</span></strong> de carbone.</p><p>Les <b>matériaux</b> utilisés dans nos produits sont également importants. Nous <b>devons</b> nous rappeler que <b>l'aluminium des canettes de soda est mauvais</b> car les entreprises <b>doivent extraire quatre tonnes de roche</b> pour obtenir une tonne d'aluminium. <b>Pendant ce temps, les coûts de transport des bouteilles en verre sont plus élevés</b> car le verre est plus lourd. Si vous <b>devez</b> absolument boire des sodas, vous devriez les acheter dans des <b>bouteilles en plastique recyclables</b> de la plus grande taille, car elles sont plus <b>efficaces</b>.</p><p>Nous croyons souvent que les articles <strong><span class='vocab-link' id='text-biodegradable' onclick='speakAndScroll(\"biodegradable\", \"vocab-biodegradable\")'>biodégradables</span></strong> disparaissent, mais des <strong><span class='vocab-link' id='text-archaeologists' onclick='speakAndScroll(\"archaeologists\", \"vocab-archaeologists\")'>archéologues</span></strong> ont récemment <b>enquêté</b> sur des sites et ont trouvé <b>des journaux vieux de trente ans</b> et des saucisses parfaitement <strong><span class='vocab-link' id='text-preserved' onclick='speakAndScroll(\"preserved\", \"vocab-preserved\")'>conservées</span></strong>. Par conséquent, nous <b>ne devons pas</b> être <b>négligents</b> dans nos <b>choix</b>. Nous <b>devons</b> accepter notre <strong><span class='vocab-link' id='text-responsibility' onclick='speakAndScroll(\"responsibility\", \"vocab-responsibility\")'>responsabilité</span></strong> d'acheter des <b>produits locaux</b> et d'éviter les <b>emballages inutiles</b>. En comprenant <b>les choses que nous utilisons tous les jours</b>, nous pouvons prendre de meilleures décisions pour notre avenir.</p>",
+    "ko": "<p style='margin-top: 0;'>우리는 매일 사물들에 둘러싸여 살아갑니다. 어떤 것들은 <b>우리의 삶을 더 편하게 만들기 위해 사는 물건</b>이고, 다른 것들은 <b>우리가 사랑하는 사람들에게서 받는 선물</b>입니다. 그러나 리엄 테일러 교수가 지적하듯이, 모든 물건에는 이야기와 <b>환경적 비용</b>이 따릅니다. 그것이 <b>부엌에서 뜨거운 물을 만드는 기계</b>이든 <b>출퇴근에 타는 산악 자전거</b>이든, 우리는 무엇을 소유하고 어떻게 사용하는지에 대해 <b>생각해야 합니다</b>.</p><p>새집으로 이사할 때, 우리는 얼마나 많은 <b>기본 물품</b>이 <b>부족한지</b> 깨닫곤 합니다. 세 친구의 대화에서 그들은 <b>청소와 일상 생활에 필요한 물건들</b>에 대해 논의합니다. 그들은 <b>쓰레받기</b>, 즉 <b>빗자루로 바닥의</b> <strong><span class='vocab-link' id='text-rubbish' onclick='speakAndScroll(\"rubbish\", \"vocab-rubbish\")'>쓰레기</span></strong><b>를 긁어모으는 데 사용하는 물건</b>과 <strong><span class='vocab-link' id='text-bleach' onclick='speakAndScroll(\"bleach\", \"vocab-bleach\")'>표백제</span></strong>, 즉 <b>바닥 청소에 좋은 강력한 화학 액체의 일종</b>에 대해 이야기합니다.</p><p>그들은 또한 옷을 관리해야 합니다. 그들은 <b>다리미</b>, 즉 <b>세탁 후 옷에 사용하는 기계</b>와 <b>다림대</b>, 즉 <b>다리미를 사용할 때 옷을 올려놓는 물건</b>을 찾습니다. 욕실에는 <b>샤워 커튼</b>, 즉 <b>물이 샤워기 밖으로 나가는 것을 막는 플라스틱 물건</b>과 그것을 고정하는 <b>샤워 레일</b>이 필요합니다. 마지막으로, 그들은 <strong><span class='vocab-link' id='text-kettle' onclick='speakAndScroll(\"kettle\", \"vocab-kettle\")'>주전자</span></strong> 없이는 살 수 없습니다. 그것은 <b>차를 위해 뜨거운 물을 만드는 기계</b>입니다.</p><p>우리가 소유한 물건들은 종종 선물로 우리에게 옵니다. 이 선물들은 디지털일 수도 있고, 실용적일 수도 있고, 때로는 이상할 수도 있습니다. 한 사람은 <b>자신의 웹사이트</b>를 받았는데, 그것은 <b>그와 그의 여동생이 함께 작업할 수 있는 재미있는 무언가</b>였습니다. 또 다른 사람은 <b>산악 자전거</b>를 받았는데, 그것은 <b>기름값을 엄청나게 절약해 주기</b> 때문에 <b>가장 유용했던 선물 중 하나</b>가 되었습니다. 그러나 모든 선물이 완벽한 것은 아닙니다. 한 여성은 <b>다리미</b>를, 그것이 그들의 <b>관계</b>에 대해 보내는 <b>메시지</b> 때문에 <b>전 남자친구</b>에게 받은 \"나쁜 선물\"이라고 묘사합니다. 반면에, <b>해변의 돌멩이</b> 같은 단순한 것도 훌륭한 선물이 될 수 있습니다. 처음에는 <b>약간 어리석은 물건</b>처럼 보였지만, 그것은 <b>결코 잊을 수 없는 무언가</b>였기 때문에 <strong><span class='vocab-link' id='text-precious' onclick='speakAndScroll(\"precious\", \"vocab-precious\")'>소중한</span></strong> 추억이 되었습니다.</p><p>우리가 이러한 물건들을 즐기는 동안, 우리는 그것들이 지구에 미치는 <b>영향</b>을 <b>고려해야 합니다</b>. 테일러 교수는 <b>중력</b>이나 <b>폐기물</b>과 같이 <b>우리가 무시할 수 없는 자연의 법칙이 있다</b>고 설명합니다. 우리가 <b>소비하는</b> 모든 것은 <b>폐기물</b>로 이어집니다. 예를 들어, <b>투명 플라스틱으로 덮인 키위 과일</b>을 수천 마일을 비행기로 수송하면 엄청난 양의 이산화탄소가 발생합니다.</p><p>우리 제품에 사용되는 <b>재료</b>도 중요합니다. 소다 캔의 <b>알루미늄은 좋지 않다</b>는 점을 우리는 <b>기억해야 합니다</b>. 왜냐하면 기업들은 알루미늄 1톤을 얻기 위해 <b>4톤의 암석을 채굴해야 하기</b> 때문입니다. <b>한편, 유리병은 무거워서 운송 비용이 더 높습니다</b>. 부득이하게 청량음료를 마셔야 한다면, <b>재활용 가능한 플라스틱 병</b> 중에서 가장 큰 사이즈를 사야 합니다. 그것들이 더 <b>효율적</b>이기 때문입니다.</p><p>우리는 <strong><span class='vocab-link' id='text-biodegradable' onclick='speakAndScroll(\"biodegradable\", \"vocab-biodegradable\")'>생분해성</span></strong> 물건은 사라진다고 믿지만, <strong><span class='vocab-link' id='text-archaeologists' onclick='speakAndScroll(\"archaeologists\", \"vocab-archaeologists\")'>고고학자</span></strong>들이 최근 매립지를 <b>조사한</b> 결과 <b>30년 된 신문</b>과 완벽하게 <strong><span class='vocab-link' id='text-preserved' onclick='speakAndScroll(\"preserved\", \"vocab-preserved\")'>보존된</span></strong> 소시지를 발견했습니다. 그러므로 우리는 우리의 <b>선택</b>에 대해 <b>부주의해서는 안 됩니다</b>. 우리는 <b>지역 제품</b>을 사고 <b>불필요한 포장</b>을 피해야 할 <strong><span class='vocab-link' id='text-responsibility' onclick='speakAndScroll(\"responsibility\", \"vocab-responsibility\")'>책임</span></strong>을 받아들여야 합니다. <b>우리가 매일 사용하는 물건들</b>을 이해함으로써, 우리는 우리의 미래를 위해 더 나은 결정을 내릴 수 있습니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "rubbish",
+        "word": "Rubbish",
+        "definition": "Things that are no longer wanted or needed and are thrown away; waste material."
+      },
+      {
+        "id": "bleach",
+        "word": "Bleach",
+        "definition": "A strong chemical liquid used for cleaning and for making things white or removing stains."
+      },
+      {
+        "id": "kettle",
+        "word": "Kettle",
+        "definition": "A metal or plastic container with a lid and handle, used for boiling water to make tea or coffee."
+      },
+      {
+        "id": "precious",
+        "word": "Precious",
+        "definition": "Very valuable or important to someone, often because of sentimental or emotional reasons."
+      },
+      {
+        "id": "dioxide",
+        "word": "Dioxide (Carbon)",
+        "definition": "A gas without color or smell that is produced when things are burned or when we breathe out."
+      },
+      {
+        "id": "biodegradable",
+        "word": "Biodegradable",
+        "definition": "Able to decay naturally and be changed into a harmless form by bacteria, without damaging the environment."
+      },
+      {
+        "id": "archaeologists",
+        "word": "Archaeologists",
+        "definition": "People who study human history by digging up and examining objects and buildings from the past."
+      },
+      {
+        "id": "preserved",
+        "word": "Preserved",
+        "definition": "Kept in its original state or in good condition for a long time by preventing it from decaying."
+      },
+      {
+        "id": "responsibility",
+        "word": "Responsibility",
+        "definition": "Something that it is your job or duty to deal with or take care of."
+      }
+    ],
+    "ja": [
+      {
+        "id": "rubbish",
+        "word": "ゴミ",
+        "definition": "もはや必要とされず、捨てられるもの。廃棄物。"
+      },
+      {
+        "id": "bleach",
+        "word": "漂白剤",
+        "definition": "洗浄や白くすること、シミを落とすために使用される強力な化学薬品の液体。"
+      },
+      {
+        "id": "kettle",
+        "word": "ケトル",
+        "definition": "お茶やコーヒーを淹れるためにお湯を沸かすために使う、蓋と取っ手が付いた金属またはプラスチック製の容器。"
+      },
+      {
+        "id": "precious",
+        "word": "貴重な",
+        "definition": "感傷的または感情的な理由で、誰かにとって非常に価値がある、または重要なこと。"
+      },
+      {
+        "id": "dioxide",
+        "word": "二酸化炭素",
+        "definition": "物が燃えたり、私たちが息を吐き出したりするときに発生する、色も臭いもない気体。"
+      },
+      {
+        "id": "biodegradable",
+        "word": "生分解性の",
+        "definition": "自然に分解され、環境を損なうことなくバクテリアによって無害な形態に変えられる性質を持つ。"
+      },
+      {
+        "id": "archaeologists",
+        "word": "考古学者",
+        "definition": "過去の遺物や建造物を発掘・調査し、人類の歴史を研究する人々。"
+      },
+      {
+        "id": "preserved",
+        "word": "保存された",
+        "definition": "腐敗を防ぎ、元の状態または良好な状態を長期間保たれていること。"
+      },
+      {
+        "id": "responsibility",
+        "word": "責任",
+        "definition": "自分が対処したり世話をしたりする仕事や義務であるもの。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "rubbish",
+        "word": "Ordures",
+        "definition": "Objets qui ne sont plus désirés ou nécessaires et qui sont jetés ; déchets."
+      },
+      {
+        "id": "bleach",
+        "word": "Eau de Javel",
+        "definition": "Liquide chimique puissant utilisé pour nettoyer, blanchir ou enlever les taches."
+      },
+      {
+        "id": "kettle",
+        "word": "Bouilloire",
+        "definition": "Récipient en métal ou en plastique avec un couvercle et une poignée, utilisé pour faire bouillir de l'eau pour le thé ou le café."
+      },
+      {
+        "id": "precious",
+        "word": "Précieux",
+        "definition": "Très précieux ou important pour quelqu'un, souvent pour des raisons sentimentales ou émotionnelles."
+      },
+      {
+        "id": "dioxide",
+        "word": "Dioxyde de carbone",
+        "definition": "Gaz sans couleur ni odeur produit lorsque des choses brûlent ou lorsque nous expirons."
+      },
+      {
+        "id": "biodegradable",
+        "word": "Biodégradable",
+        "definition": "Capable de se décomposer naturellement et d'être transformé en une forme inoffensive par des bactéries, sans nuire à l'environnement."
+      },
+      {
+        "id": "archaeologists",
+        "word": "Archéologues",
+        "definition": "Personnes qui étudient l'histoire humaine en déterrant et en examinant des objets et des bâtiments du passé."
+      },
+      {
+        "id": "preserved",
+        "word": "Conservé",
+        "definition": "Maintenu dans son état d'origine ou en bon état pendant longtemps en empêchant sa décomposition."
+      },
+      {
+        "id": "responsibility",
+        "word": "Responsabilité",
+        "definition": "Quelque chose qu'il est de votre devoir ou obligation de gérer ou de prendre soin."
+      }
+    ],
+    "ko": [
+      {
+        "id": "rubbish",
+        "word": "쓰레기",
+        "definition": "더 이상 필요하지 않아서 버려지는 것들. 폐기물."
+      },
+      {
+        "id": "bleach",
+        "word": "표백제",
+        "definition": "청소나 물건을 하얗게 만들거나 얼룩을 제거하는 데 사용되는 강력한 화학 액체."
+      },
+      {
+        "id": "kettle",
+        "word": "주전자",
+        "definition": "차나 커피를 만들기 위해 물을 끓이는 데 사용되는 뚜껑과 손잡이가 있는 금속 또는 플라스틱 용기."
+      },
+      {
+        "id": "precious",
+        "word": "소중한",
+        "definition": "감상적이거나 감정적인 이유로 누군가에게 매우 가치 있거나 중요한 것."
+      },
+      {
+        "id": "dioxide",
+        "word": "이산화탄소",
+        "definition": "무언가가 연소되거나 우리가 숨을 내쉴 때 생성되는 무색무취의 기체."
+      },
+      {
+        "id": "biodegradable",
+        "word": "생분해성의",
+        "definition": "자연적으로 분해되어 환경을 손상시키지 않고 박테리아에 의해 무해한 형태로 바뀔 수 있는 성질을 가진 것."
+      },
+      {
+        "id": "archaeologists",
+        "word": "고고학자들",
+        "definition": "과거의 물건과 건축물을 발굴하고 조사하여 인류 역사를 연구하는 사람들."
+      },
+      {
+        "id": "preserved",
+        "word": "보존된",
+        "definition": "부패를 막아 원래 상태나 좋은 상태로 오랫동안 유지된 것."
+      },
+      {
+        "id": "responsibility",
+        "word": "책임",
+        "definition": "자신이 처리하거나 돌봐야 할 직업이나 의무인 것."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Shopping for the New Place",
+        "label": "Conversation 1: Making a List",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "It's nice."
+          },
+          {
+            "speaker": "B",
+            "text": "Yes, it is, but it's also very dirty."
+          },
+          {
+            "speaker": "C",
+            "text": "I know. We'll have to give everything a good clean and sort the place out. Maybe we should go into town and buy some stuff."
+          },
+          {
+            "speaker": "A",
+            "text": "Yeah, it's a good idea. One minute. I'll get a pen and we can write a list. OK. So..."
+          },
+          {
+            "speaker": "B",
+            "text": "Well, we need those things for cleaning. A brush and a... I don't know the name. The thing that you put rubbish in. What's the name?"
+          },
+          {
+            "speaker": "C",
+            "text": "Do you mean a rubbish bin?"
+          },
+          {
+            "speaker": "B",
+            "text": "No, not that. You use it to get rubbish from the floor with the brush."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, you mean a dustpan. A dustpan and brush."
+          },
+          {
+            "speaker": "B",
+            "text": "A dustpan and brush. Yes, that's very useful."
+          },
+          {
+            "speaker": "C",
+            "text": "And maybe we should get some cleaning stuff as well. Have we got any bleach?"
+          },
+          {
+            "speaker": "A",
+            "text": "What is bleach?"
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, it's a kind of liquid that's really good for cleaning things, you know, like for cleaning the floor and the toilet. It's a kind of chemical. Quite strong."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, we have some. It's in the kitchen. In the cupboard under the sink."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, OK. I didn't notice that, but that's good."
+          },
+          {
+            "speaker": "B",
+            "text": "We need to buy that machine that you use for the clothes. After you wash them. I can't remember the name. Oh, and I know this word as well."
+          },
+          {
+            "speaker": "A",
+            "text": "You mean an iron?"
+          },
+          {
+            "speaker": "B",
+            "text": "Yes, an iron! And also the thing that you put the clothes on when you use the iron."
+          },
+          {
+            "speaker": "C",
+            "text": "Yeah, an ironing board. OK. What else?"
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, for the bathroom we need a thing for the shower. You know, the plastic thing that stops the water from leaving the shower - and the metal thing that holds it."
+          },
+          {
+            "speaker": "C",
+            "text": "A shower curtain and a shower rail. Yeah, I noticed there wasn't anything like that in the bathroom. It's crazy, isn't it? Why doesn't the landlord provide things like that? It's so basic."
+          },
+          {
+            "speaker": "B",
+            "text": "I know!"
+          },
+          {
+            "speaker": "A",
+            "text": "We should charge the landlord for these things."
+          },
+          {
+            "speaker": "B",
+            "text": "Oh, one more thing. Before I forget. We need the machine that makes hot water - to make tea and coffee."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, yes, of course. A kettle! I can't live without a kettle! I need my tea in the morning!"
+          }
+        ]
+      },
+      {
+        "title": "1-2. The Digital Gift",
+        "label": "Conversation 2: A Website Present",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "For my birthday this year, my big sister bought me my own website."
+          },
+          {
+            "speaker": "A",
+            "text": "She's really good with computers and I'm not, but the website has become something fun we work on together."
+          },
+          {
+            "speaker": "A",
+            "text": "I also loved the way she told me."
+          },
+          {
+            "speaker": "A",
+            "text": "She sent me an email where she gave me clues about the present for me to guess what it was, but I didn't know."
+          },
+          {
+            "speaker": "A",
+            "text": "Then she sent me another email with a link to a website."
+          },
+          {
+            "speaker": "A",
+            "text": "When I clicked on the link, I understood everything and I realised that the site was the present."
+          },
+          {
+            "speaker": "A",
+            "text": "I was really excited!"
+          },
+          {
+            "speaker": "A",
+            "text": "It's my favourite ever gift because, as I said, it's something we do together."
+          }
+        ]
+      },
+      {
+        "title": "1-3. The Useful Present",
+        "label": "Conversation 3: Mountain Bike",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "I got a mountain bike for Christmas a few years ago and it's been one of the most useful presents ever."
+          },
+          {
+            "speaker": "A",
+            "text": "Over the last year, I've lived close enough to work to be able to cycle and so I've saved loads of money on petrol."
+          },
+          {
+            "speaker": "A",
+            "text": "A birthday present that also saves me money. Excellent."
+          },
+          {
+            "speaker": "A",
+            "text": "I'm also fitter and have lost weight."
+          }
+        ]
+      },
+      {
+        "title": "1-4. The King of Bad Presents",
+        "label": "Conversation 4: Iron and Dress",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "One of my ex-boyfriends was the king of bad presents."
+          },
+          {
+            "speaker": "A",
+            "text": "One year, he gave me an iron for my birthday! An iron!"
+          },
+          {
+            "speaker": "A",
+            "text": "I mean, what kind of message does that send about our relationship and the way that he saw me?"
+          },
+          {
+            "speaker": "A",
+            "text": "The following year, he bought me a dress that he really liked and told me that he wanted me to start wearing more clothes like that from then on - because they would make me more attractive."
+          },
+          {
+            "speaker": "A",
+            "text": "I couldn't believe it! A couple of weeks after that, we broke up!"
+          }
+        ]
+      },
+      {
+        "title": "1-5. A Rock to Remember",
+        "label": "Conversation 5: Beach Rock",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "A few years ago, I went out with a girl and as we were getting out of the taxi to go to dinner, she suddenly said, 'I got you a present.'"
+          },
+          {
+            "speaker": "A",
+            "text": "I was quite embarrassed because it was our first date and I hadn't thought of getting her anything."
+          },
+          {
+            "speaker": "A",
+            "text": "Then she handed me a rock from a beach."
+          },
+          {
+            "speaker": "A",
+            "text": "I was confused. Why had she given me this thing?"
+          },
+          {
+            "speaker": "A",
+            "text": "She said, 'I wanted to give you something you'd never forget and you could tell your children about'."
+          },
+          {
+            "speaker": "A",
+            "text": "I said thanks to be polite, but I actually thought it was a bit stupid and it was a bad start to the evening!"
+          },
+          {
+            "speaker": "A",
+            "text": "Now, though, I use that rock to stop papers on my desk blowing away and that girl is my wife!"
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. 新居の買い物",
+        "label": "会話 1: リストを作る",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "いいね。"
+          },
+          {
+            "speaker": "B",
+            "text": "うん、でもすごく汚いね。"
+          },
+          {
+            "speaker": "C",
+            "text": "そうだね。全部きれいに掃除して、片付けないとね。町に出て何か買った方がいいかも。"
+          },
+          {
+            "speaker": "A",
+            "text": "うん、いいアイデアだ。ちょっと待って。ペンを取ってきてリストを書こう。よし、それで..."
+          },
+          {
+            "speaker": "B",
+            "text": "そうだね、掃除に必要なものが必要だよ。ほうきと...名前がわからない。ゴミを入れるもの。何て言うの？"
+          },
+          {
+            "speaker": "C",
+            "text": "ゴミ箱のこと？"
+          },
+          {
+            "speaker": "B",
+            "text": "違うよ。ほうきで床のゴミを取るのに使うやつ。"
+          },
+          {
+            "speaker": "C",
+            "text": "ああ、ちり取りのこと？ちり取りとほうき。"
+          },
+          {
+            "speaker": "B",
+            "text": "ちり取りとほうき。うん、それはとても便利だね。"
+          },
+          {
+            "speaker": "C",
+            "text": "それと、掃除用品も買った方がいいかも。漂白剤ある？"
+          },
+          {
+            "speaker": "A",
+            "text": "漂白剤って何？"
+          },
+          {
+            "speaker": "C",
+            "text": "ああ、掃除にすごくいい液体なんだ。床やトイレの掃除にね。化学薬品の一種で、かなり強いんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "ああ、あるよ。キッチンにある。流しの下の戸棚に。"
+          },
+          {
+            "speaker": "C",
+            "text": "ああ、そうなんだ。気づかなかったけど、それは良いね。"
+          },
+          {
+            "speaker": "B",
+            "text": "洗濯した後の服に使う機械を買わないと。名前を思い出せない。ああ、この言葉も知ってるよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "アイロンのこと？"
+          },
+          {
+            "speaker": "B",
+            "text": "そう、アイロン。そして、アイロンを使うときに服を置くものも。"
+          },
+          {
+            "speaker": "C",
+            "text": "うん、アイロン台ね。わかった。他には？"
+          },
+          {
+            "speaker": "A",
+            "text": "ああ、バスルームにはシャワーのためのものが必要だよ。シャワーの水が出て行くのを防ぐプラスチックのものと、それを支える金属のもの。"
+          },
+          {
+            "speaker": "C",
+            "text": "シャワーカーテンとシャワーレールね。そういえば、バスルームにはそういうのがなかったね。おかしいよね。どうして大家さんはそういうものを提供しないんだろう？すごく基本的なのに。"
+          },
+          {
+            "speaker": "B",
+            "text": "本当にね。"
+          },
+          {
+            "speaker": "A",
+            "text": "大家さんに請求すべきだよ。"
+          },
+          {
+            "speaker": "B",
+            "text": "ああ、もう一つ。忘れる前に。お湯を沸かす機械が必要だよ。お茶やコーヒーを入れるための。"
+          },
+          {
+            "speaker": "C",
+            "text": "ああ、もちろん。やかん！やかんがないと生きていけない！朝にお茶が必要なんだ！"
+          }
+        ]
+      },
+      {
+        "title": "1-2. デジタルギフト",
+        "label": "会話 2: ウェブサイトのプレゼント",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "今年の誕生日に、姉が私にウェブサイトを買ってくれたんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "彼女はコンピューターにすごく詳しくて、私はそうじゃないんだけど、そのウェブサイトは一緒に取り組む楽しいものになったんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "彼女の伝え方も大好きだった。"
+          },
+          {
+            "speaker": "A",
+            "text": "彼女は私にメールを送ってきて、プレゼントについてのヒントをくれて、それが何かを当てさせようとしたんだけど、わからなかった。"
+          },
+          {
+            "speaker": "A",
+            "text": "それから彼女はもう一通のメールにウェブサイトへのリンクを送ってきたんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "リンクをクリックしたとき、すべてを理解して、そのサイトがプレゼントだと気づいたんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "本当に興奮したよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "それは今までで一番好きなプレゼントだ。なぜなら、さっき言ったように、それは私たちが一緒にやるものだからね。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. 便利なプレゼント",
+        "label": "会話 3: マウンテンバイク",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "数年前のクリスマスにマウンテンバイクをもらったんだけど、それが今までで一番役に立つプレゼントの一つになったんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "去年は、仕事に自転車で行けるくらい近くに住んでいて、ガソリン代をたくさん節約できたんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "お金も節約してくれる誕生日プレゼント。最高だね。"
+          },
+          {
+            "speaker": "A",
+            "text": "それに体力もついたし、体重も減ったんだ。"
+          }
+        ]
+      },
+      {
+        "title": "1-4. 悪いプレゼントの王様",
+        "label": "会話 4: アイロンとドレス",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "私の元彼の一人は、悪いプレゼントの王様だったんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "ある年、誕生日にアイロンをくれたんだよ。アイロンをね。"
+          },
+          {
+            "speaker": "A",
+            "text": "つまり、それが私たちの関係や彼の私に対する見方について、どんなメッセージを送っているんだろう？"
+          },
+          {
+            "speaker": "A",
+            "text": "次の年には、彼がすごく気に入ったドレスを買ってくれて、それからはもっとそういう服を着てほしいと言われたんだ。そうすればもっと魅力的になれるからって。"
+          },
+          {
+            "speaker": "A",
+            "text": "信じられなかったよ。それから数週間後、私たちは別れたんだ。"
+          }
+        ]
+      },
+      {
+        "title": "1-5. 記憶に残る石",
+        "label": "会話 5: 浜辺の石",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "数年前、ある女の子とデートしていたんだけど、夕食に行くためにタクシーを降りようとしたとき、彼女が突然「プレゼントを買ったの」と言ったんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "ファーストデートだったし、彼女に何か買ってあげようとも思っていなかったから、すごく気まずかったんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "それから彼女は浜辺の石を私に手渡したんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "混乱したよ。なぜこんなものをくれたんだろう？"
+          },
+          {
+            "speaker": "A",
+            "text": "彼女は言ったんだ。「あなたが決して忘れないもの、あなたが子供たちに話せるものをあげたかったの。」"
+          },
+          {
+            "speaker": "A",
+            "text": "礼儀正しくお礼は言ったけど、実際はちょっとばかげていると思ったし、夕べの悪いスタートだったよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "でも今は、その石を使って机の上の書類が飛ばないようにしているんだ。そしてその女の子は私の妻なんだ。"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Achats pour le nouvel endroit",
+        "label": "Conversation 1: Faire une liste",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "C'est sympa."
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, mais c'est aussi très sale."
+          },
+          {
+            "speaker": "C",
+            "text": "Je sais. Nous devrons tout nettoyer et ranger. Peut-être devrions-nous aller en ville pour acheter des choses."
+          },
+          {
+            "speaker": "A",
+            "text": "Oui, c'est une bonne idée. Une minute. Je vais chercher un stylo et nous pourrons faire une liste. OK. Alors..."
+          },
+          {
+            "speaker": "B",
+            "text": "Eh bien, nous avons besoin de ces choses pour le nettoyage. Une brosse et un... je ne connais pas le nom. La chose dans laquelle on met les déchets. Comment ça s'appelle ?"
+          },
+          {
+            "speaker": "C",
+            "text": "Tu veux dire une poubelle ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Non, pas ça. Tu l'utilises pour enlever les déchets du sol avec la brosse."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, tu veux dire une pelle à poussière. Une pelle à poussière et une brosse."
+          },
+          {
+            "speaker": "B",
+            "text": "Une pelle à poussière et une brosse. Oui, c'est très utile."
+          },
+          {
+            "speaker": "C",
+            "text": "Et nous devrions peut-être aussi acheter des produits de nettoyage. Avons-nous de l'eau de Javel ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Qu'est-ce que l'eau de Javel ?"
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, c'est une sorte de liquide vraiment bon pour nettoyer les choses, tu sais, comme pour nettoyer le sol et les toilettes. C'est une sorte de produit chimique. Assez fort."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, nous en avons. C'est dans la cuisine. Dans le placard sous l'évier."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, d'accord. Je n'avais pas remarqué, mais c'est bien."
+          },
+          {
+            "speaker": "B",
+            "text": "Nous devons acheter cette machine que tu utilises pour les vêtements. Après les avoir lavés. Je ne me souviens pas du nom. Oh, et je connais aussi ce mot."
+          },
+          {
+            "speaker": "A",
+            "text": "Tu veux dire un fer à repasser ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, un fer à repasser ! Et aussi la chose sur laquelle tu poses les vêtements quand tu utilises le fer."
+          },
+          {
+            "speaker": "C",
+            "text": "Oui, une planche à repasser. D'accord. Quoi d'autre ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, pour la salle de bain, nous avons besoin d'une chose pour la douche. Tu sais, la chose en plastique qui empêche l'eau de sortir de la douche - et la chose en métal qui la maintient."
+          },
+          {
+            "speaker": "C",
+            "text": "Un rideau de douche et une tringle de douche. Oui, j'ai remarqué qu'il n'y avait rien de tel dans la salle de bain. C'est fou, non ? Pourquoi le propriétaire ne fournit-il pas ce genre de choses ? C'est tellement basique."
+          },
+          {
+            "speaker": "B",
+            "text": "Je sais !"
+          },
+          {
+            "speaker": "A",
+            "text": "Nous devrions facturer ces choses au propriétaire."
+          },
+          {
+            "speaker": "B",
+            "text": "Oh, encore une chose. Avant que j'oublie. Nous avons besoin de la machine qui fait chauffer l'eau - pour faire du thé et du café."
+          },
+          {
+            "speaker": "C",
+            "text": "Oh, oui, bien sûr. Une bouilloire ! Je ne peux pas vivre sans bouilloire ! J'ai besoin de mon thé le matin !"
+          }
+        ]
+      },
+      {
+        "title": "1-2. Le cadeau numérique",
+        "label": "Conversation 2: Un site Web en cadeau",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Pour mon anniversaire cette année, ma grande sœur m'a acheté mon propre site Web."
+          },
+          {
+            "speaker": "A",
+            "text": "Elle est très bonne en informatique et moi non, mais le site Web est devenu quelque chose d'amusant sur lequel nous travaillons ensemble."
+          },
+          {
+            "speaker": "A",
+            "text": "J'ai aussi adoré la façon dont elle me l'a dit."
+          },
+          {
+            "speaker": "A",
+            "text": "Elle m'a envoyé un e-mail où elle m'a donné des indices sur le cadeau pour que je devine ce que c'était, mais je ne savais pas."
+          },
+          {
+            "speaker": "A",
+            "text": "Puis elle m'a envoyé un autre e-mail avec un lien vers un site Web."
+          },
+          {
+            "speaker": "A",
+            "text": "Quand j'ai cliqué sur le lien, j'ai tout compris et j'ai réalisé que le site était le cadeau."
+          },
+          {
+            "speaker": "A",
+            "text": "J'étais vraiment excitée !"
+          },
+          {
+            "speaker": "A",
+            "text": "C'est mon cadeau préféré parce que, comme je l'ai dit, c'est quelque chose que nous faisons ensemble."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Le cadeau utile",
+        "label": "Conversation 3: Vélo tout terrain",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "J'ai reçu un vélo tout terrain pour Noël il y a quelques années et c'est devenu l'un des cadeaux les plus utiles jamais offerts."
+          },
+          {
+            "speaker": "A",
+            "text": "L'année dernière, j'ai vécu assez près de mon travail pour pouvoir faire du vélo et j'ai donc économisé beaucoup d'argent sur l'essence."
+          },
+          {
+            "speaker": "A",
+            "text": "Un cadeau d'anniversaire qui me fait aussi économiser de l'argent. Excellent."
+          },
+          {
+            "speaker": "A",
+            "text": "Je suis aussi plus en forme et j'ai perdu du poids."
+          }
+        ]
+      },
+      {
+        "title": "1-4. Le roi des mauvais cadeaux",
+        "label": "Conversation 4: Fer à repasser et robe",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Un de mes ex-petits amis était le roi des mauvais cadeaux."
+          },
+          {
+            "speaker": "A",
+            "text": "Une année, il m'a offert un fer à repasser pour mon anniversaire ! Un fer à repasser !"
+          },
+          {
+            "speaker": "A",
+            "text": "Je veux dire, quel genre de message cela envoie-t-il sur notre relation et la façon dont il me voyait ?"
+          },
+          {
+            "speaker": "A",
+            "text": "L'année suivante, il m'a acheté une robe qu'il aimait beaucoup et m'a dit qu'il voulait que je commence à porter plus de vêtements comme ça à partir de ce moment-là - parce que cela me rendrait plus attirante."
+          },
+          {
+            "speaker": "A",
+            "text": "Je n'en croyais pas mes yeux ! Quelques semaines après, nous avons rompu !"
+          }
+        ]
+      },
+      {
+        "title": "1-5. Un caillou à retenir",
+        "label": "Conversation 5: Caillou de plage",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Il y a quelques années, je sortais avec une fille et alors que nous sortions du taxi pour aller dîner, elle a soudainement dit: 'Je t'ai acheté un cadeau.'"
+          },
+          {
+            "speaker": "A",
+            "text": "J'étais assez embarrassé parce que c'était notre premier rendez-vous et je n'avais pas pensé à lui offrir quoi que ce soit."
+          },
+          {
+            "speaker": "A",
+            "text": "Puis elle m'a tendu un caillou de la plage."
+          },
+          {
+            "speaker": "A",
+            "text": "J'étais confus. Pourquoi m'avait-elle donné cette chose ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Elle a dit: 'Je voulais te donner quelque chose que tu n'oublierais jamais et dont tu pourrais parler à tes enfants.'"
+          },
+          {
+            "speaker": "A",
+            "text": "J'ai dit merci pour être poli, mais j'ai vraiment pensé que c'était un peu stupide et que c'était un mauvais début pour la soirée !"
+          },
+          {
+            "speaker": "A",
+            "text": "Maintenant, j'utilise ce caillou pour empêcher les papiers de s'envoler de mon bureau et cette fille est ma femme !"
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 새집 장보기",
+        "label": "대화 1: 리스트 만들기",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "좋네."
+          },
+          {
+            "speaker": "B",
+            "text": "응, 그런데 너무 더러워."
+          },
+          {
+            "speaker": "C",
+            "text": "그러게. 다 깨끗이 청소하고 정리해야 해. 시내에 가서 물건 좀 사는 게 좋겠어."
+          },
+          {
+            "speaker": "A",
+            "text": "응, 좋은 생각이야. 잠깐만. 펜 가져올게, 리스트를 쓰자. 좋아, 그럼..."
+          },
+          {
+            "speaker": "B",
+            "text": "음, 청소에 필요한 것들이 필요해. 솔과... 이름을 모르겠네. 쓰레기를 담는 것. 뭐라고 하지?"
+          },
+          {
+            "speaker": "C",
+            "text": "쓰레기통 말하는 거야?"
+          },
+          {
+            "speaker": "B",
+            "text": "아니, 그게 아니야. 빗자루로 바닥의 쓰레기를 담는 데 사용하는 거."
+          },
+          {
+            "speaker": "C",
+            "text": "아, 쓰레받기 말하는 구나. 쓰레받기와 빗자루."
+          },
+          {
+            "speaker": "B",
+            "text": "쓰레받기와 빗자루. 응, 그건 매우 유용해."
+          },
+          {
+            "speaker": "C",
+            "text": "그리고 세제도 좀 사야 할 것 같아. 표백제 있어?"
+          },
+          {
+            "speaker": "A",
+            "text": "표백제가 뭐야?"
+          },
+          {
+            "speaker": "C",
+            "text": "아, 청소에 아주 좋은 액체인데, 바닥이나 변기 청소 같은 데 사용해. 화학 제품의 일종인데, 꽤 강력해."
+          },
+          {
+            "speaker": "A",
+            "text": "아, 우리 집에 있어. 부엌에 있는데, 싱크대 아래 찬장에."
+          },
+          {
+            "speaker": "C",
+            "text": "아, 그래. 그건 못 봤네, 그런데 좋네."
+          },
+          {
+            "speaker": "B",
+            "text": "세탁한 후에 옷에 사용하는 그 기계를 사야 해. 이름이 기억이 안 나네. 아, 이 단어도 알고 있어."
+          },
+          {
+            "speaker": "A",
+            "text": "다리미 말하는 거야?"
+          },
+          {
+            "speaker": "B",
+            "text": "맞아, 다리미! 그리고 다리미를 사용할 때 옷을 올려놓는 것도."
+          },
+          {
+            "speaker": "C",
+            "text": "응, 다리미판. 알겠어. 또 뭐?"
+          },
+          {
+            "speaker": "A",
+            "text": "아, 욕실에는 샤워기를 위한 게 필요해. 있잖아, 샤워기 물이 밖으로 나가는 걸 막는 플라스틱 것과 그것을 고정하는 금속 것."
+          },
+          {
+            "speaker": "C",
+            "text": "샤워 커튼과 샤워 레일. 응, 욕실에 그런 게 하나도 없더라. 이상하지 않아? 집주인이 왜 그런 기본적인 걸 제공하지 않는 거지?"
+          },
+          {
+            "speaker": "B",
+            "text": "그러니까 말이야!"
+          },
+          {
+            "speaker": "A",
+            "text": "이런 것들 집주인에게 청구해야 해."
+          },
+          {
+            "speaker": "B",
+            "text": "아, 하나 더. 잊기 전에. 물 끓이는 기계가 필요해, 차나 커피를 만들려고."
+          },
+          {
+            "speaker": "C",
+            "text": "아, 맞다. 주전자! 나는 주전자 없이는 못 살아! 아침에 차가 필요하다고!"
+          }
+        ]
+      },
+      {
+        "title": "1-2. 디지털 선물",
+        "label": "대화 2: 웹사이트 선물",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "올해 생일에 큰언니가 나에게 웹사이트를 사줬어."
+          },
+          {
+            "speaker": "A",
+            "text": "언니는 컴퓨터를 잘하는데 나는 못하지만, 그 웹사이트는 우리가 함께 작업하는 재미있는 무언가가 되었어."
+          },
+          {
+            "speaker": "A",
+            "text": "언니가 말하는 방식도 정말 좋았어."
+          },
+          {
+            "speaker": "A",
+            "text": "언니가 이메일을 보내서 선물에 대한 힌트를 줬는데, 뭔지 맞춰보라고 했지만 나는 몰랐어."
+          },
+          {
+            "speaker": "A",
+            "text": "그런 다음 언니는 웹사이트 링크가 있는 또 다른 이메일을 보냈어."
+          },
+          {
+            "speaker": "A",
+            "text": "링크를 클릭했을 때, 나는 모든 것을 이해했고 그 사이트가 선물이라는 것을 깨달았어."
+          },
+          {
+            "speaker": "A",
+            "text": "정말 신났어!"
+          },
+          {
+            "speaker": "A",
+            "text": "그것은 내가 가장 좋아하는 선물이야. 왜냐하면 말했듯이, 그것은 우리가 함께하는 것이기 때문이야."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 유용한 선물",
+        "label": "대화 3: 산악 자전거",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "몇 년 전 크리스마스에 산악 자전거를 받았는데, 지금까지 받은 선물 중 가장 유용한 것 중 하나가 되었어."
+          },
+          {
+            "speaker": "A",
+            "text": "작년에는 직장에 자전거로 갈 수 있을 만큼 가까이 살아서 휘발유 값을 엄청 절약했어."
+          },
+          {
+            "speaker": "A",
+            "text": "돈도 절약해 주는 생일 선물. 최고야."
+          },
+          {
+            "speaker": "A",
+            "text": "또한 체력도 좋아지고 체중도 줄었어."
+          }
+        ]
+      },
+      {
+        "title": "1-4. 나쁜 선물의 왕",
+        "label": "대화 4: 다리미와 드레스",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "내 전 남자친구 중 하나는 나쁜 선물의 왕이었어."
+          },
+          {
+            "speaker": "A",
+            "text": "어느 해, 생일에 나에게 다리미를 줬어! 다리미를!"
+          },
+          {
+            "speaker": "A",
+            "text": "내 말은, 그것이 우리 관계와 그가 나를 어떻게 보는지에 대해 어떤 메시지를 보내는 거야?"
+          },
+          {
+            "speaker": "A",
+            "text": "그 다음 해에는, 그가 정말 좋아하는 드레스를 사줬는데, 그때부터 나에게 그런 옷을 더 많이 입기 시작했으면 좋겠다고 말했어. 왜냐하면 그렇게 하면 내가 더 매력적으로 보일 거라고."
+          },
+          {
+            "speaker": "A",
+            "text": "정말 믿을 수 없었어! 그로부터 몇 주 후, 우리는 헤어졌어!"
+          }
+        ]
+      },
+      {
+        "title": "1-5. 기억에 남는 돌",
+        "label": "대화 5: 해변의 돌",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "몇 년 전, 한 여자와 데이트하고 있었는데, 저녁 먹으러 가려고 택시에서 내리려는데 갑자기 그녀가 말했어, '선물을 샀어.'"
+          },
+          {
+            "speaker": "A",
+            "text": "첫 데이트였고, 나는 그녀에게 아무것도 줄 생각을 하지 못했기 때문에 꽤 당황스러웠어."
+          },
+          {
+            "speaker": "A",
+            "text": "그러더니 그녀가 해변의 돌을 내게 건네주었어."
+          },
+          {
+            "speaker": "A",
+            "text": "당황스러웠어. 왜 나에게 이런 걸 준 거지?"
+          },
+          {
+            "speaker": "A",
+            "text": "그녀가 말했어, '네가 절대 잊지 못할 것, 네 아이들에게 이야기해 줄 수 있는 것을 주고 싶었어.'"
+          },
+          {
+            "speaker": "A",
+            "text": "예의상 고맙다고 말했지만, 사실은 좀 어리석은 생각이었고 저녁의 나쁜 시작이라고 생각했어."
+          },
+          {
+            "speaker": "A",
+            "text": "하지만 지금은 그 돌을 책상 위에 있는 서류가 날아가지 않도록 눌러놓는 용도로 사용하고 있어. 그리고 그 여자는 내 아내야!"
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "RUBBISH FOOD",
+    "ja": "ゴミのような食べ物",
+    "fr": "NOURRITURE DÉCHET",
+    "ko": "쓰레기 음식"
+  },
+  "extra_reading_html": {
+    "en": "<p style='margin-top:0;'>There are laws of nature that we can't ignore, like gravity and waste. We know <b>what goes up must come down</b> and, similarly, we can't avoid the fact that everything we produce and consume leads to waste. In the case of my supermarket shopping, there's loads of waste. Professor Liam Taylor, an expert on the environment, is trying to convince me I could waste less.</p><p>From my shopping basket, he picks up a <b>polystyrene tray of six New Zealand kiwi fruits covered in clear plastic</b>. \"These probably caused three tons of carbon dioxide by being flown twelve thousand miles. To make things worse, <b>this kind of plastic is almost impossible to recycle</b>. What's wrong with local apples?\"</p><p>'Nothing', I weakly reply, 'I just prefer kiwis.'</p><p>'Hmm. Well, <b>if you must have them, eat Italian ones</b> – and buy them with no packaging.'</p><p>He looks at the bottles of water and cans of cola. Before he can say anything, I say, 'I'm always careful to recycle those.'</p><p>'Well, that's good, but the aluminium in those cans is bad. <b>They must mine four tonnes of rock to get one tonne of aluminium</b>, and the transport costs of the cans and glass bottles are higher as they are heavier than plastic. Anyway, what's wrong with having tap water? It's much more efficient.'</p><p>'I... er ... prefer ... .' The professor's look stops me from finishing the sentence!</p><p>'<b>If you must have soft drinks, buy them in recyclable plastic bottles</b> and get the largest size, because they use less plastic than lots of small bottles. The same is true of <b>those small boxes of cereal</b>.'</p><p>The next problem is the amount of meat I've bought. He tells me the chicken is OK, but generally meat is bad for the environment. Firstly, cows and sheep produce a lot of natural gas which causes global warming. Secondly, they're an inefficient way to get food energy. Better to be vegetarian, especially <b>if the vegetables are locally grown</b> and you don't eat too many dairy products.'</p><p>I am becoming depressed as all my favourite things get crossed off my shopping list. 'What about those cakes?' I say. 'They were made in the supermarket bakery and the <b>packaging is biodegradable</b>.'</p><p>He laughs. 'Well, I guess the cake is OK, but forget about biodegradable! Apparently, a <b>team of archaeologists recently investigated sites where rubbish had been buried</b>. They found newspapers that were thirty years old, and which you could still read, next to perfectly preserved sausages!'</p><p>I feel slightly sick and very, very guilty.</p>",
+    "ja": "<p style='margin-top:0;'>無視できない自然の法則があります。重力や廃棄物のようにです。私たちは上がったものは必ず落ちることを知っています。同様に、私たちが生産し消費するすべてのものが廃棄物につながるという事実を避けることはできません。私のスーパーマーケットでの買い物の場合、たくさんの廃棄物があります。環境専門家のリアム・テイラー教授は、私が廃棄物を減らせるかもしれないと説得しようとしています。</p><p>彼は私の買い物かごから、透明なプラスチックで覆われたニュージーランド産キウイフルーツ6個入りの発泡スチロールトレイを取り出します。「これらは1万2千マイル輸送されることで、おそらく3トンの二酸化炭素を発生させました。さらに悪いことに、この種のプラスチックはリサイクルがほぼ不可能です。地元のリンゴが何か悪いのですか？」</p><p>「何も」私は弱々しく答えます。「ただキウイの方が好きなだけです。」</p><p>「ふむ。では、どうしてもキウイを食べたいなら、イタリア産のものを食べなさい。そして包装なしで買いなさい。」</p><p>彼は水のボトルとコーラの缶を見ます。彼が何かを言う前に、私は言います。「私はいつもそれらをリサイクルするように気をつけています。」</p><p>「それは良いことですが、それらの缶のアルミニウムは良くありません。1トンのアルミニウムを得るために4トンの岩を採掘しなければならず、缶やガラス瓶の輸送コストはプラスチックより重いため高くなります。とにかく、水道水が何か悪いのですか？はるかに効率的です。」</p><p>「私は...えっと...好きです...」教授の視線が私が文を終えるのを止めます。</p><p>「どうしても清涼飲料水を飲みたいなら、リサイクル可能なプラスチックボトルで買いなさい。そして最も大きなサイズを買いなさい。小さなボトルをたくさん買うよりプラスチックの使用量が少ないからです。同じことはそれらの小さなシリアルの箱にも言えます。」</p><p>次の問題は私が買った肉の量です。彼は私に鶏肉は大丈夫だと言いますが、一般的に肉は環境に悪いです。まず、牛や羊は地球温暖化を引き起こす多くの天然ガスを生産します。第二に、それらは食物エネルギーを得る非効率的な方法です。特に野菜が地元で栽培されていて、乳製品をあまり食べなければ、ベジタリアンになる方が良いです。</p><p>私のお気に入りのものがすべて買い物リストから消されていくにつれて、私は落ち込んできました。「これらのケーキはどうですか？」私は言います。「スーパーマーケットのベーカリーで作られていて、包装は生分解性です。」</p><p>彼は笑います。「まあ、ケーキは大丈夫だと思いますが、生分解性のことは忘れてください！どうやら、考古学者のチームが最近ゴミが埋められた場所を調査しました。彼らは30年前の新聞紙と、完全に保存されたソーセージの隣で、まだ読める新聞を発見しました。」</p><p>私は少し吐き気を感じ、とてもとても罪悪感を感じます。</p>",
+    "fr": "<p style='margin-top:0;'>Il y a des lois de la nature que nous ne pouvons pas ignorer, comme la gravité et les déchets. Nous savons que ce qui monte doit redescendre et, de même, nous ne pouvons pas éviter le fait que tout ce que nous produisons et consommons conduit aux déchets. Dans le cas de mes achats au supermarché, il y a beaucoup de déchets. Le professeur Liam Taylor, expert en environnement, essaie de me convaincre que je pourrais gaspiller moins.</p><p>De mon panier d'achat, il prend un plateau en polystyrène de six kiwis de Nouvelle-Zélande recouverts de plastique transparent. \"Ceux-ci ont probablement causé trois tonnes de dioxyde de carbone en étant transportés par avion sur douze mille miles. Pour aggraver les choses, ce genre de plastique est presque impossible à recycler. Qu'est-ce qui ne va pas avec les pommes locales ?\"</p><p>'Rien', je réponds faiblement, 'je préfère juste les kiwis.'</p><p>'Hum. Eh bien, si vous devez absolument en avoir, mangez des italiens – et achetez-les sans emballage.'</p><p>Il regarde les bouteilles d'eau et les canettes de cola. Avant qu'il puisse dire quoi que ce soit, je dis, 'Je fais toujours attention à les recycler.'</p><p>'Eh bien, c'est bien, mais l'aluminium dans ces canettes est mauvais. Ils doivent extraire quatre tonnes de roche pour obtenir une tonne d'aluminium, et les coûts de transport des canettes et des bouteilles en verre sont plus élevés car ils sont plus lourds que le plastique. Quoi qu'il en soit, qu'est-ce qui ne va pas avec l'eau du robinet ? C'est beaucoup plus efficace.'</p><p>'Je... euh... préfère...' Le regard du professeur m'empêche de terminer la phrase !</p><p>'Si vous devez absolument avoir des boissons gazeuses, achetez-les dans des bouteilles en plastique recyclables et prenez la plus grande taille, car elles utilisent moins de plastique que beaucoup de petites bouteilles. Il en va de même pour ces petites boîtes de céréales.'</p><p>Le problème suivant est la quantité de viande que j'ai achetée. Il me dit que le poulet est acceptable, mais généralement la viande est mauvaise pour l'environnement. Premièrement, les vaches et les moutons produisent beaucoup de gaz naturel qui cause le réchauffement climatique. Deuxièmement, ils sont un moyen inefficace d'obtenir de l'énergie alimentaire. Mieux vaut être végétarien, surtout si les légumes sont cultivés localement et que vous ne mangez pas trop de produits laitiers.'</p><p>Je deviens déprimé alors que toutes mes choses préférées sont rayées de ma liste de courses. 'Qu'en est-il de ces gâteaux ?' dis-je. 'Ils ont été fabriqués dans la boulangerie du supermarché et l'emballage est biodégradable.'</p><p>Il rit. 'Eh bien, je suppose que le gâteau est acceptable, mais oubliez le biodégradable ! Apparemment, une équipe d'archéologues a récemment enquêté sur des sites où des déchets avaient été enterrés. Ils ont trouvé des journaux vieux de trente ans, que l'on pouvait encore lire, à côté de saucisses parfaitement conservées !'</p><p>Je me sens légèrement malade et très, très coupable.</p>",
+    "ko": "<p style='margin-top:0;'>우리가 무시할 수 없는 자연의 법칙이 있습니다. 중력과 폐기물처럼 말입니다. 올라간 것은 반드시 내려온다는 것을 우리는 알고 있습니다. 마찬가지로, 우리가 생산하고 소비하는 모든 것이 폐기물로 이어진다는 사실을 피할 수 없습니다. 제 슈퍼마켓 쇼핑의 경우, 많은 쓰레기가 발생합니다. 환경 전문가인 리엄 테일러 교수는 제가 쓰레기를 줄일 수 있다고 설득하려 하고 있습니다.</p><p>그는 제 쇼핑 바구니에서 투명한 플라스틱으로 덮인 뉴질랜드산 키위 6개가 들어있는 스티로폼 트레이를 집어 듭니다. \"이것들은 12,000마일을 비행으로 운송되면서 약 3톤의 이산화탄소를 발생시켰을 것입니다. 설상가상으로, 이런 종류의 플라스틱은 재활용이 거의 불가능합니다. 지역 사과가 뭐가 문제입니까?\"</p><p>'아무것도요' 나는 약하게 대답합니다. '그냥 키위가 더 좋을 뿐이에요.'</p><p>'흠. 키위를 꼭 먹어야겠다면, 이탈리아산을 먹으세요. 그리고 포장 없는 걸로 사세요.'</p><p>그는 물병과 콜라 캔을 봅니다. 그가 뭐라고 말하기 전에, 나는 말합니다. '저는 항상 그것들을 재활용하도록 조심하고 있어요.'</p><p>'음, 그건 좋은데, 그 캔들의 알루미늄은 좋지 않아요. 알루미늄 1톤을 얻기 위해 4톤의 암석을 채굴해야 하고, 캔과 유리병의 운송 비용은 플라스틱보다 무겁기 때문에 더 높습니다. 어쨌든, 수돗물이 뭐가 문제인가요? 훨씬 더 효율적입니다.'</p><p>'저는... 어... 좋아해요...' 교수의 시선이 제가 문장을 끝내는 것을 막습니다.</p><p>'탄산음료를 꼭 마셔야 한다면, 재활용 가능한 플라스틱 병으로 사세요. 그리고 가장 큰 사이즈를 사세요. 작은 병 여러 개보다 플라스틱 사용량이 적기 때문입니다. 같은 원리가 그 작은 시리얼 상자에도 적용됩니다.'</p><p>다음 문제는 제가 구입한 고기의 양입니다. 그는 저에게 닭고기는 괜찮지만 일반적으로 고기는 환경에 해롭다고 말합니다. 첫째, 소와 양은 지구 온난화를 유발하는 많은 천연 가스를 생산합니다. 둘째, 그것들은 식량 에너지를 얻는 비효율적인 방법입니다. 특히 야채가 지역에서 재배되고 유제품을 너무 많이 먹지 않는다면 채식주의자가 되는 것이 더 낫습니다.</p><p>제가 좋아하는 모든 것들이 쇼핑 목록에서 지워지면서 저는 우울해지고 있습니다. '그 케이크들은요?' 제가 말합니다. '슈퍼마켓 베이커리에서 만들었고 포장은 생분해성입니다.'</p><p>그는 웃습니다. '음, 케이크는 괜찮을 것 같지만, 생분해성에 대해서는 잊어버리세요! 분명히, 고고학자 팀이 최근 쓰레기가 묻힌 장소를 조사했는데, 30년 된 신문과 완벽하게 보존된 소시지 옆에서 아직도 읽을 수 있는 신문을 발견했습니다.'</p><p>저는 약간 메스껍고 매우 매우 죄책감을 느낍니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "The clear plastic used to cover New Zealand kiwi fruits is easy to recycle.",
+        "correct": "F",
+        "explanation": "False (The text states that this kind of plastic is almost impossible to recycle.)"
+      },
+      {
+        "question": "Professor Taylor suggests eating Italian kiwis without packaging if one must have them.",
+        "correct": "T",
+        "explanation": "True (The professor suggests that if you must have kiwis, choose Italian ones with no packaging.)"
+      },
+      {
+        "question": "Aluminium cans are better for the environment than plastic because they are lighter to transport.",
+        "correct": "F",
+        "explanation": "False (The text says cans and glass are heavier than plastic, making transport costs higher.)"
+      },
+      {
+        "question": "Buying a single large recyclable plastic bottle is better than buying many small ones.",
+        "correct": "T",
+        "explanation": "True (The professor notes that larger sizes use less plastic than lots of small bottles.)"
+      },
+      {
+        "question": "Biodegradable items always disappear quickly once they are buried in rubbish sites.",
+        "correct": "F",
+        "explanation": "False (The text mentions that archaeologists found 30-year-old newspapers and preserved sausages buried in rubbish sites.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "ニュージーランド産キウイフルーツを覆う透明なプラスチックはリサイクルが簡単です。",
+        "correct": "F",
+        "explanation": "間違い (本文では、この種のプラスチックはリサイクルがほぼ不可能であると述べられています。)"
+      },
+      {
+        "question": "テイラー教授は、キウイをどうしても食べたいなら、包装なしのイタリア産キウイを食べることを勧めています。",
+        "correct": "T",
+        "explanation": "正しい (教授は、キウイをどうしても食べたいなら、包装なしのイタリア産を選ぶように提案しています。)"
+      },
+      {
+        "question": "アルミ缶はプラスチックよりも軽いため輸送コストが低く、環境に優しい。",
+        "correct": "F",
+        "explanation": "間違い (本文では、缶やガラス瓶はプラスチックより重いため輸送コストが高いと述べられています。)"
+      },
+      {
+        "question": "大きなリサイクル可能なペットボトルを1本買うことは、小さなボトルをたくさん買うよりも良いです。",
+        "correct": "T",
+        "explanation": "正しい (教授は、大きいサイズは小さなボトルをたくさん買うよりもプラスチックの使用量が少ないと述べています。)"
+      },
+      {
+        "question": "生分解性のアイテムは、ゴミ捨て場に埋められるとすぐに消えてなくなります。",
+        "correct": "F",
+        "explanation": "間違い (考古学者たちがゴミが埋められた場所で30年前の新聞と保存されたソーセージを発見したと本文に記載されています。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Le plastique transparent utilisé pour couvrir les kiwis de Nouvelle-Zélande est facile à recycler.",
+        "correct": "F",
+        "explanation": "Faux (Le texte indique que ce type de plastique est presque impossible à recycler.)"
+      },
+      {
+        "question": "Le professeur Taylor suggère de manger des kiwis italiens sans emballage si l'on doit absolument en avoir.",
+        "correct": "T",
+        "explanation": "Vrai (Le professeur suggère que si vous devez absolument avoir des kiwis, choisissez des italiens sans emballage.)"
+      },
+      {
+        "question": "Les canettes en aluminium sont meilleures pour l'environnement que le plastique car elles sont plus légères à transporter.",
+        "correct": "F",
+        "explanation": "Faux (Le texte indique que les canettes et le verre sont plus lourds que le plastique, ce qui rend les coûts de transport plus élevés.)"
+      },
+      {
+        "question": "Acheter une seule grande bouteille en plastique recyclable est meilleur que d'acheter plusieurs petites.",
+        "correct": "T",
+        "explanation": "Vrai (Le professeur note que les grandes tailles utilisent moins de plastique que beaucoup de petites bouteilles.)"
+      },
+      {
+        "question": "Les articles biodégradables disparaissent toujours rapidement une fois enfouis dans les décharges.",
+        "correct": "F",
+        "explanation": "Faux (Le texte mentionne que des archéologues ont trouvé des journaux vieux de trente ans et des saucisses conservées enfouis dans des décharges.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "뉴질랜드산 키위를 덮는 투명한 플라스틱은 재활용이 쉽습니다.",
+        "correct": "F",
+        "explanation": "거짓 (본문에서는 이런 종류의 플라스틱은 재활용이 거의 불가능하다고 명시되어 있습니다.)"
+      },
+      {
+        "question": "테일러 교수는 키위를 꼭 먹어야 한다면 포장 없는 이탈리아산 키위를 먹으라고 제안합니다.",
+        "correct": "T",
+        "explanation": "참 (교수는 키위를 꼭 먹어야 한다면 포장 없는 이탈리아산을 선택하라고 제안합니다.)"
+      },
+      {
+        "question": "알루미늄 캔은 플라스틱보다 가볍고 운송 비용이 낮아 환경에 더 좋습니다.",
+        "correct": "F",
+        "explanation": "거짓 (본문에서는 캔과 유리병이 플라스틱보다 무거워 운송 비용이 더 높다고 말합니다.)"
+      },
+      {
+        "question": "재활용 가능한 큰 플라스틱 병 하나를 사는 것이 작은 병 여러 개를 사는 것보다 낫습니다.",
+        "correct": "T",
+        "explanation": "참 (교수는 큰 사이즈가 작은 병 여러 개보다 플라스틱 사용량이 적다고 말합니다.)"
+      },
+      {
+        "question": "생분해성 물건은 쓰레기장에 묻히면 항상 빠르게 사라집니다.",
+        "correct": "F",
+        "explanation": "거짓 (본문에서는 고고학자들이 쓰레기가 묻힌 곳에서 30년 된 신문과 보존된 소시지를 발견했다고 언급합니다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "impossible to recycle",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "flown twelve thousand miles",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "This kind of plastic is almost impossible to recycle and the fruit was flown twelve thousand miles.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "locally grown",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "buy them with no packaging",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "It is better to choose locally grown food and buy them with no packaging.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Plastic that is impossible to recycle is a problem, especially when fruit is flown twelve thousand miles. We should focus on locally grown items and buy them with no packaging.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "inefficient way to get food",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "causes global warming",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Meat is an inefficient way to get food energy and causes global warming.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "biodegradable",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "careful to recycle",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Even if you are careful to recycle, don't just rely on labels like biodegradable.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Since meat is an inefficient way to get food and causes global warming, being vegetarian is better. Even if you are careful to recycle, remember that biodegradable packaging may not disappear easily.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "We often buy items flown twelve thousand miles in plastic that is impossible to recycle. Instead, we should buy them with no packaging and choose locally grown food. Meat is an inefficient way to get food, so being careful to recycle and avoiding items that cause global warming is essential, regardless of whether a label says biodegradable.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "リサイクルが不可能",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "一万二千マイル輸送される",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "この種のプラスチックはリサイクルがほぼ不可能で、果物は一万二千マイル輸送されました。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "地元で栽培された",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "包装なしで買う",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "地元で栽培された食品を選び、包装なしで買う方が良いです。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "リサイクルが不可能なプラスチックは問題です。特に果物が一万二千マイル輸送される場合はなおさらです。地元で栽培された品物に焦点を当て、包装なしで買うべきです。",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "非効率な食物摂取方法",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "地球温暖化の原因となる",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "肉は食物エネルギーを得る非効率な方法であり、地球温暖化の原因となります。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "生分解性の",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "リサイクルに注意する",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "リサイクルに注意していても、生分解性のようなラベルだけに頼ってはいけません。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "肉は非効率な食物摂取方法であり地球温暖化の原因となるので、ベジタリアンになる方が良いです。リサイクルに注意していても、生分解性の包装は簡単には消えないかもしれないことを覚えておいてください。",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "私たちはしばしば、リサイクルが不可能なプラスチックで包装され、一万二千マイル輸送された品物を買います。代わりに、包装なしで買い、地元で栽培された食品を選ぶべきです。肉は非効率な食物摂取方法なので、リサイクルに注意し、地球温暖化の原因となる品物を避けることが不可欠です。ラベルに生分解性と書かれているかどうかは関係ありません。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "impossible à recycler",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "transporté par avion sur douze mille miles",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Ce genre de plastique est presque impossible à recycler et les fruits ont été transportés par avion sur douze mille miles.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "cultivé localement",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "acheter sans emballage",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Il est préférable de choisir des aliments cultivés localement et de les acheter sans emballage.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le plastique impossible à recycler est un problème, surtout lorsque les fruits sont transportés par avion sur douze mille miles. Nous devons nous concentrer sur les articles cultivés localement et les acheter sans emballage.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "moyen inefficace d'obtenir de la nourriture",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "cause le réchauffement climatique",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "La viande est un moyen inefficace d'obtenir de l'énergie alimentaire et cause le réchauffement climatique.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "biodégradable",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "attentif au recyclage",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Même si vous êtes attentif au recyclage, ne vous fiez pas uniquement aux étiquettes comme biodégradable.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Puisque la viande est un moyen inefficace d'obtenir de la nourriture et cause le réchauffement climatique, être végétarien est préférable. Même si vous êtes attentif au recyclage, rappelez-vous que les emballages biodégradables peuvent ne pas disparaître facilement.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nous achetons souvent des articles transportés par avion sur douze mille miles dans du plastique impossible à recycler. Au lieu de cela, nous devrions les acheter sans emballage et choisir des aliments cultivés localement. La viande est un moyen inefficace d'obtenir de la nourriture, donc être attentif au recyclage et éviter les articles qui causent le réchauffement climatique est essentiel, qu'une étiquette indique ou non biodégradable.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "재활용이 불가능한",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "1만 2천 마일을 비행으로 운송된",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "이런 종류의 플라스틱은 재활용이 거의 불가능하며, 과일은 1만 2천 마일을 비행으로 운송되었습니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "지역에서 재배된",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "포장 없이 사다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "지역에서 재배된 식품을 선택하고 포장 없이 사는 것이 더 좋습니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "재활용이 불가능한 플라스틱은 문제입니다, 특히 과일이 1만 2천 마일을 비행으로 운송될 때는 더욱 그렇습니다. 우리는 지역에서 재배된 품목에 집중하고 포장 없이 사야 합니다.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "비효율적인 식량 획득 방법",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "지구 온난화를 일으키다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "고기는 식량 에너지를 얻는 비효율적인 방법이며 지구 온난화를 일으킵니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "생분해성의",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "재활용에 주의하다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "재활용에 주의하더라도 생분해성 같은 라벨에만 의존해서는 안 됩니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "고기는 비효율적인 식량 획득 방법이며 지구 온난화를 일으키기 때문에, 채식주의자가 되는 것이 더 좋습니다. 재활용에 주의하더라도 생분해성 포장이 쉽게 사라지지 않을 수 있다는 점을 기억하세요.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "우리는 종종 재활용이 불가능한 플라스틱에 포장되어 1만 2천 마일을 비행으로 운송된 물건을 삽니다. 대신 포장 없이 사고 지역에서 재배된 음식을 선택해야 합니다. 고기는 비효율적인 식량 획득 방법이므로, 재활용에 주의하고 지구 온난화를 일으키는 물건을 피하는 것이 필수적입니다. 라벨에 생분해성이라고 적혀 있는지 여부는 중요하지 않습니다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3 style='color:#2c3e50; border-bottom:2px solid #3498db; padding-bottom:10px; margin-top:0;'>1. Relative Clauses (Describing Things)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• that / which</strong>: Used to <strong>give more information</strong> about an object or to define what something is.</p><p style='margin:5px 0;'><strong>• describing purpose</strong>: Often used with \"the thing that...\" or \"the machine that...\" to explain what an object does.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> 'It's the machine <span style='color:#e67e22; font-weight:bold;'>that makes hot water</span> for tea.'<br><i style='color:#7f8c8d;'>(Describing a kettle)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'I bought a dress <span style='color:#16a085; font-weight:bold;'>that he really liked</span>.'<br><i style='color:#7f8c8d;'>(Present from an ex-boyfriend)</i></li></ul><h3 style='color:#2c3e50; border-bottom:2px solid #3498db; padding-bottom:10px; margin-top:25px;'>2. Strong Obligation & Necessity</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• must</strong>: Used to express a <strong>strong necessity</strong> or a rule that we cannot ignore.</p><p style='margin:5px 0;'><strong>• mustn't</strong>: Used to say that something is <strong>prohibited</strong> or a very bad idea.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'We <span style='color:#2980b9; font-weight:bold;'>must think</span> about what we own.'<br><i style='color:#7f8c8d;'>(Environmental responsibility)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'We <span style='color:#2980b9; font-weight:bold;'>mustn't be careless</span> with our choices.'<br><i style='color:#7f8c8d;'>(Advice on waste)</i></li></ul><h3 style='color:#2c3e50; border-bottom:2px solid #3498db; padding-bottom:10px; margin-top:25px;'>3. Conditional Advice</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• If + must...</strong>: Used to give <strong>specific advice</strong> or alternatives when someone insists on doing something.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> '<span style='color:#d35400; font-weight:bold;'>If you must have</span> them, eat Italian ones.'<br><i style='color:#7f8c8d;'>(Choosing local fruit)</i></li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> '<span style='color:#d35400; font-weight:bold;'>If you must have</span> soft drinks, buy large bottles.'<br><i style='color:#7f8c8d;'>(Tips for recycling)</i></li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #feb2b2; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> Word Bank: rubbish, bleach, kettle, iron, dustpan</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Use some <select class='vocab-select'><option value=''>── select ──</option><option value='rubbish'>rubbish</option><option value='bleach'>bleach</option><option value='kettle'>kettle</option><option value='iron'>iron</option><option value='dustpan'>dustpan</option></select> to kill the germs and clean the white tiles.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='bleach' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. I'll turn on the <select class='vocab-select'><option value=''>── select ──</option><option value='rubbish'>rubbish</option><option value='bleach'>bleach</option><option value='kettle'>kettle</option><option value='iron'>iron</option><option value='dustpan'>dustpan</option></select> so we can make some hot tea.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='kettle' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Your shirt is very wrinkled; you should use an <select class='vocab-select'><option value=''>── select ──</option><option value='rubbish'>rubbish</option><option value='bleach'>bleach</option><option value='kettle'>kettle</option><option value='iron'>iron</option><option value='dustpan'>dustpan</option></select> to make it flat.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='iron' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Don't throw that in the street; put your <select class='vocab-select'><option value=''>── select ──</option><option value='rubbish'>rubbish</option><option value='bleach'>bleach</option><option value='kettle'>kettle</option><option value='iron'>iron</option><option value='dustpan'>dustpan</option></select> in the bin.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='rubbish' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. After you sweep the floor, use a <select class='vocab-select'><option value=''>── select ──</option><option value='rubbish'>rubbish</option><option value='bleach'>bleach</option><option value='kettle'>kettle</option><option value='iron'>iron</option><option value='dustpan'>dustpan</option></select> to pick up the dirt.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='dustpan' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> Word Bank: precious, dioxide, consume, packaging, material</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Cars and factories produce too much carbon <select class='vocab-select'><option value=''>── select ──</option><option value='precious'>precious</option><option value='dioxide'>dioxide</option><option value='consume'>consume</option><option value='packaging'>packaging</option><option value='material'>material</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='dioxide' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Wood is a natural <select class='vocab-select'><option value=''>── select ──</option><option value='precious'>precious</option><option value='dioxide'>dioxide</option><option value='consume'>consume</option><option value='packaging'>packaging</option><option value='material'>material</option></select> used for making furniture.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='material' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. We should try to <select class='vocab-select'><option value=''>── select ──</option><option value='precious'>precious</option><option value='dioxide'>dioxide</option><option value='consume'>consume</option><option value='packaging'>packaging</option><option value='material'>material</option></select> less energy to save the planet.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='consume' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Modern supermarkets use too much plastic <select class='vocab-select'><option value=''>── select ──</option><option value='precious'>precious</option><option value='dioxide'>dioxide</option><option value='consume'>consume</option><option value='packaging'>packaging</option><option value='material'>material</option></select> on their fruit.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='packaging' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. That ring is very <select class='vocab-select'><option value=''>── select ──</option><option value='precious'>precious</option><option value='dioxide'>dioxide</option><option value='consume'>consume</option><option value='packaging'>packaging</option><option value='material'>material</option></select> to her because it belonged to her grandmother.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='precious' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> Word Bank: biodegradable, archaeologists, preserved, responsibility, impact</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. The <select class='vocab-select'><option value=''>── select ──</option><option value='biodegradable'>biodegradable</option><option value='archaeologists'>archaeologists</option><option value='preserved'>preserved</option><option value='responsibility'>responsibility</option><option value='impact'>impact</option></select> found ancient coins buried under the field.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='archaeologists' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. It is our <select class='vocab-select'><option value=''>── select ──</option><option value='biodegradable'>biodegradable</option><option value='archaeologists'>archaeologists</option><option value='preserved'>preserved</option><option value='responsibility'>responsibility</option><option value='impact'>impact</option></select> to protect the environment for our children.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='responsibility' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. The freezing cold weather <select class='vocab-select'><option value=''>── select ──</option><option value='biodegradable'>biodegradable</option><option value='archaeologists'>archaeologists</option><option value='preserved'>preserved</option><option value='responsibility'>responsibility</option><option value='impact'>impact</option></select> the fruit perfectly.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='preserved' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Global warming has a serious <select class='vocab-select'><option value=''>── select ──</option><option value='biodegradable'>biodegradable</option><option value='archaeologists'>archaeologists</option><option value='preserved'>preserved</option><option value='responsibility'>responsibility</option><option value='impact'>impact</option></select> on the world's weather.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='impact' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. Paper is <select class='vocab-select'><option value=''>── select ──</option><option value='biodegradable'>biodegradable</option><option value='archaeologists'>archaeologists</option><option value='preserved'>preserved</option><option value='responsibility'>responsibility</option><option value='impact'>impact</option></select>, so it breaks down naturally.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='biodegradable' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> Word Bank: efficient, recyclable, ignore, investigated, various</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Glass and aluminium are <select class='vocab-select'><option value=''>── select ──</option><option value='efficient'>efficient</option><option value='recyclable'>recyclable</option><option value='ignore'>ignore</option><option value='investigated'>investigated</option><option value='various'>various</option></select> materials that can be used again.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='recyclable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. People have <select class='vocab-select'><option value=''>── select ──</option><option value='efficient'>efficient</option><option value='recyclable'>recyclable</option><option value='ignore'>ignore</option><option value='investigated'>investigated</option><option value='various'>various</option></select> reasons for wanting to protect the ocean.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='various' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. LED light bulbs are more <select class='vocab-select'><option value=''>── select ──</option><option value='efficient'>efficient</option><option value='recyclable'>recyclable</option><option value='ignore'>ignore</option><option value='investigated'>investigated</option><option value='various'>various</option></select> than old ones.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='efficient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. The police <select class='vocab-select'><option value=''>── select ──</option><option value='efficient'>efficient</option><option value='recyclable'>recyclable</option><option value='ignore'>ignore</option><option value='investigated'>investigated</option><option value='various'>various</option></select> the trash site to see what people threw away.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='investigated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. You shouldn't <select class='vocab-select'><option value=''>── select ──</option><option value='efficient'>efficient</option><option value='recyclable'>recyclable</option><option value='ignore'>ignore</option><option value='investigated'>investigated</option><option value='various'>various</option></select> the warnings about climate change.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='ignore' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #feb2b2; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> 単語バンク: ゴミ, 漂白剤, ケトル, アイロン, ちり取り</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 殺菌して白いタイルをきれいにするために、<select class='vocab-select'><option value=''>── 選択 ──</option><option value='ゴミ'>ゴミ</option><option value='漂白剤'>漂白剤</option><option value='ケトル'>ケトル</option><option value='アイロン'>アイロン</option><option value='ちり取り'>ちり取り</option></select>を少し使ってください。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='bleach' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. ホットティーが作れるように、<select class='vocab-select'><option value=''>── 選択 ──</option><option value='ゴミ'>ゴミ</option><option value='漂白剤'>漂白剤</option><option value='ケトル'>ケトル</option><option value='アイロン'>アイロン</option><option value='ちり取り'>ちり取り</option></select>をつけます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='kettle' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. あなたのシャツはとてもしわくちゃです。平らにするために<select class='vocab-select'><option value=''>── 選択 ──</option><option value='ゴミ'>ゴミ</option><option value='漂白剤'>漂白剤</option><option value='ケトル'>ケトル</option><option value='アイロン'>アイロン</option><option value='ちり取り'>ちり取り</option></select>を使うべきです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='iron' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. それを道路に捨てないでください。<select class='vocab-select'><option value=''>── 選択 ──</option><option value='ゴミ'>ゴミ</option><option value='漂白剤'>漂白剤</option><option value='ケトル'>ケトル</option><option value='アイロン'>アイロン</option><option value='ちり取り'>ちり取り</option></select>はゴミ箱に入れてください。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='rubbish' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 床を掃いた後、<select class='vocab-select'><option value=''>── 選択 ──</option><option value='ゴミ'>ゴミ</option><option value='漂白剤'>漂白剤</option><option value='ケトル'>ケトル</option><option value='アイロン'>アイロン</option><option value='ちり取り'>ちり取り</option></select>を使ってほこりを集めてください。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='dustpan' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> 単語バンク: 貴重な, 二酸化炭素, 消費する, 包装, 材料</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 車や工場は大量の炭素<select class='vocab-select'><option value=''>── 選択 ──</option><option value='貴重な'>貴重な</option><option value='二酸化炭素'>二酸化炭素</option><option value='消費する'>消費する</option><option value='包装'>包装</option><option value='材料'>材料</option></select>を生産しています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='dioxide' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 木材は家具を作るために使われる天然の<select class='vocab-select'><option value=''>── 選択 ──</option><option value='貴重な'>貴重な</option><option value='二酸化炭素'>二酸化炭素</option><option value='消費する'>消費する</option><option value='包装'>包装</option><option value='材料'>材料</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='material' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 地球を救うために、より少ないエネルギーを<select class='vocab-select'><option value=''>── 選択 ──</option><option value='貴重な'>貴重な</option><option value='二酸化炭素'>二酸化炭素</option><option value='消費する'>消費する</option><option value='包装'>包装</option><option value='材料'>材料</option></select>うと努めるべきです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='consume' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 現代のスーパーマーケットは果物にプラスチックの<select class='vocab-select'><option value=''>── 選択 ──</option><option value='貴重な'>貴重な</option><option value='二酸化炭素'>二酸化炭素</option><option value='消費する'>消費する</option><option value='包装'>包装</option><option value='材料'>材料</option></select>を使いすぎています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='packaging' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. その指輪は彼女の祖母のものだったので、彼女にとってとても<select class='vocab-select'><option value=''>── 選択 ──</option><option value='貴重な'>貴重な</option><option value='二酸化炭素'>二酸化炭素</option><option value='消費する'>消費する</option><option value='包装'>包装</option><option value='材料'>材料</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='precious' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> 単語バンク: 生分解性の, 考古学者, 保存された, 責任, 影響</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. <select class='vocab-select'><option value=''>── 選択 ──</option><option value='生分解性の'>生分解性の</option><option value='考古学者'>考古学者</option><option value='保存された'>保存された</option><option value='責任'>責任</option><option value='影響'>影響</option></select>たちは畑の下に埋もれた古代の硬貨を発見した。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='archaeologists' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 子供たちのために環境を守ることは私たちの<select class='vocab-select'><option value=''>── 選択 ──</option><option value='生分解性の'>生分解性の</option><option value='考古学者'>考古学者</option><option value='保存された'>保存された</option><option value='責任'>責任</option><option value='影響'>影響</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='responsibility' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 氷点下の寒さがその果物を完全に<select class='vocab-select'><option value=''>── 選択 ──</option><option value='生分解性の'>生分解性の</option><option value='考古学者'>考古学者</option><option value='保存された'>保存された</option><option value='責任'>責任</option><option value='影響'>影響</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='preserved' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 地球温暖化は世界の天候に深刻な<select class='vocab-select'><option value=''>── 選択 ──</option><option value='生分解性の'>生分解性の</option><option value='考古学者'>考古学者</option><option value='保存された'>保存された</option><option value='責任'>責任</option><option value='影響'>影響</option></select>を与えている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='impact' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 紙は<select class='vocab-select'><option value=''>── 選択 ──</option><option value='生分解性の'>生分解性の</option><option value='考古学者'>考古学者</option><option value='保存された'>保存された</option><option value='責任'>責任</option><option value='影響'>影響</option></select>なので、自然に分解されます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='biodegradable' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> 単語バンク: 効率的な, リサイクル可能な, 無視する, 調査した, 様々な</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. ガラスとアルミニウムは再利用できる<select class='vocab-select'><option value=''>── 選択 ──</option><option value='効率的な'>効率的な</option><option value='リサイクル可能な'>リサイクル可能な</option><option value='無視する'>無視する</option><option value='調査した'>調査した</option><option value='様々な'>様々な</option></select>材料です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='recyclable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 人々が海洋を保護したいと思う理由は<select class='vocab-select'><option value=''>── 選択 ──</option><option value='効率的な'>効率的な</option><option value='リサイクル可能な'>リサイクル可能な</option><option value='無視する'>無視する</option><option value='調査した'>調査した</option><option value='様々な'>様々な</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='various' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. LED電球は古いものよりも<select class='vocab-select'><option value=''>── 選択 ──</option><option value='効率的な'>効率的な</option><option value='リサイクル可能な'>リサイクル可能な</option><option value='無視する'>無視する</option><option value='調査した'>調査した</option><option value='様々な'>様々な</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='efficient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 警察は人々が何を捨てたかを見るためにゴミ捨て場を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='効率的な'>効率的な</option><option value='リサイクル可能な'>リサイクル可能な</option><option value='無視する'>無視する</option><option value='調査した'>調査した</option><option value='様々な'>様々な</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='investigated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 気候変動に関する警告を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='効率的な'>効率的な</option><option value='リサイクル可能な'>リサイクル可能な</option><option value='無視する'>無視する</option><option value='調査した'>調査した</option><option value='様々な'>様々な</option></select>べきではありません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='ignore' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #feb2b2; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> Banque de mots: ordures, eau de Javel, bouilloire, fer à repasser, pelle à poussière</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Utilisez un peu d'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='ordures'>ordures</option><option value='eau de Javel'>eau de Javel</option><option value='bouilloire'>bouilloire</option><option value='fer à repasser'>fer à repasser</option><option value='pelle à poussière'>pelle à poussière</option></select> pour tuer les germes et nettoyer les carreaux blancs.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='bleach' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Je vais allumer la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='ordures'>ordures</option><option value='eau de Javel'>eau de Javel</option><option value='bouilloire'>bouilloire</option><option value='fer à repasser'>fer à repasser</option><option value='pelle à poussière'>pelle à poussière</option></select> pour que nous puissions faire du thé chaud.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='kettle' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Votre chemise est très froissée ; vous devriez utiliser un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='ordures'>ordures</option><option value='eau de Javel'>eau de Javel</option><option value='bouilloire'>bouilloire</option><option value='fer à repasser'>fer à repasser</option><option value='pelle à poussière'>pelle à poussière</option></select> pour l'aplatir.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='iron' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Ne jetez pas cela dans la rue ; mettez vos <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='ordures'>ordures</option><option value='eau de Javel'>eau de Javel</option><option value='bouilloire'>bouilloire</option><option value='fer à repasser'>fer à repasser</option><option value='pelle à poussière'>pelle à poussière</option></select> à la poubelle.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='rubbish' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. Après avoir balayé le sol, utilisez une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='ordures'>ordures</option><option value='eau de Javel'>eau de Javel</option><option value='bouilloire'>bouilloire</option><option value='fer à repasser'>fer à repasser</option><option value='pelle à poussière'>pelle à poussière</option></select> pour ramasser la saleté.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='dustpan' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> Banque de mots: précieux, dioxyde, consommer, emballage, matériau</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Les voitures et les usines produisent trop de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='précieux'>précieux</option><option value='dioxyde'>dioxyde</option><option value='consommer'>consommer</option><option value='emballage'>emballage</option><option value='matériau'>matériau</option></select> de carbone.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='dioxide' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Le bois est un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='précieux'>précieux</option><option value='dioxyde'>dioxyde</option><option value='consommer'>consommer</option><option value='emballage'>emballage</option><option value='matériau'>matériau</option></select> naturel utilisé pour fabriquer des meubles.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='material' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Nous devrions essayer de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='précieux'>précieux</option><option value='dioxyde'>dioxyde</option><option value='consommer'>consommer</option><option value='emballage'>emballage</option><option value='matériau'>matériau</option></select> moins d'énergie pour sauver la planète.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='consume' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Les supermarchés modernes utilisent trop d'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='précieux'>précieux</option><option value='dioxyde'>dioxyde</option><option value='consommer'>consommer</option><option value='emballage'>emballage</option><option value='matériau'>matériau</option></select> en plastique sur leurs fruits.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='packaging' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. Cette bague lui est très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='précieux'>précieux</option><option value='dioxyde'>dioxyde</option><option value='consommer'>consommer</option><option value='emballage'>emballage</option><option value='matériau'>matériau</option></select> car elle appartenait à sa grand-mère.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='precious' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> Banque de mots: biodégradable, archéologues, conservé, responsabilité, impact</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Les <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='biodégradable'>biodégradable</option><option value='archéologues'>archéologues</option><option value='conservé'>conservé</option><option value='responsabilité'>responsabilité</option><option value='impact'>impact</option></select> ont trouvé des pièces anciennes enterrées sous le champ.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='archaeologists' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. C'est notre <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='biodégradable'>biodégradable</option><option value='archéologues'>archéologues</option><option value='conservé'>conservé</option><option value='responsabilité'>responsabilité</option><option value='impact'>impact</option></select> de protéger l'environnement pour nos enfants.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='responsibility' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Le froid glacial a parfaitement <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='biodégradable'>biodégradable</option><option value='archéologues'>archéologues</option><option value='conservé'>conservé</option><option value='responsabilité'>responsabilité</option><option value='impact'>impact</option></select> les fruits.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='preserved' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Le réchauffement climatique a un sérieux <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='biodégradable'>biodégradable</option><option value='archéologues'>archéologues</option><option value='conservé'>conservé</option><option value='responsabilité'>responsabilité</option><option value='impact'>impact</option></select> sur la météo mondiale.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='impact' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. Le papier est <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='biodégradable'>biodégradable</option><option value='archéologues'>archéologues</option><option value='conservé'>conservé</option><option value='responsabilité'>responsabilité</option><option value='impact'>impact</option></select>, donc il se décompose naturellement.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='biodegradable' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> Banque de mots: efficace, recyclable, ignorer, enquêté, divers</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Le verre et l'aluminium sont des matériaux <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='efficace'>efficace</option><option value='recyclable'>recyclable</option><option value='ignorer'>ignorer</option><option value='enquêté'>enquêté</option><option value='divers'>divers</option></select> qui peuvent être réutilisés.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='recyclable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Les gens ont des raisons <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='efficace'>efficace</option><option value='recyclable'>recyclable</option><option value='ignorer'>ignorer</option><option value='enquêté'>enquêté</option><option value='divers'>divers</option></select> de vouloir protéger l'océan.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='various' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Les ampoules LED sont plus <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='efficace'>efficace</option><option value='recyclable'>recyclable</option><option value='ignorer'>ignorer</option><option value='enquêté'>enquêté</option><option value='divers'>divers</option></select> que les anciennes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='efficient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. La police a <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='efficace'>efficace</option><option value='recyclable'>recyclable</option><option value='ignorer'>ignorer</option><option value='enquêté'>enquêté</option><option value='divers'>divers</option></select> le site de décharge pour voir ce que les gens jetaient.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='investigated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. Vous ne devriez pas <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='efficace'>efficace</option><option value='recyclable'>recyclable</option><option value='ignorer'>ignorer</option><option value='enquêté'>enquêté</option><option value='divers'>divers</option></select> les avertissements concernant le changement climatique.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='ignore' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #feb2b2; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> 단어 은행: 쓰레기, 표백제, 주전자, 다리미, 쓰레받기</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 세균을 죽이고 하얀 타일을 청소하려면 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='쓰레기'>쓰레기</option><option value='표백제'>표백제</option><option value='주전자'>주전자</option><option value='다리미'>다리미</option><option value='쓰레받기'>쓰레받기</option></select>를 좀 사용하세요.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='bleach' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 뜨거운 차를 만들 수 있도록 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='쓰레기'>쓰레기</option><option value='표백제'>표백제</option><option value='주전자'>주전자</option><option value='다리미'>다리미</option><option value='쓰레받기'>쓰레받기</option></select>를 켤게요.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='kettle' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 셔츠에 주름이 많이 졌네요. 펴려면 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='쓰레기'>쓰레기</option><option value='표백제'>표백제</option><option value='주전자'>주전자</option><option value='다리미'>다리미</option><option value='쓰레받기'>쓰레받기</option></select>를 사용해야 해요.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='iron' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 그걸 길에 버리지 마세요. <select class='vocab-select'><option value=''>── 선택 ──</option><option value='쓰레기'>쓰레기</option><option value='표백제'>표백제</option><option value='주전자'>주전자</option><option value='다리미'>다리미</option><option value='쓰레받기'>쓰레받기</option></select>는 쓰레기통에 넣으세요.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='rubbish' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 바닥을 쓸고 나서, 먼지를 모으려면 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='쓰레기'>쓰레기</option><option value='표백제'>표백제</option><option value='주전자'>주전자</option><option value='다리미'>다리미</option><option value='쓰레받기'>쓰레받기</option></select>를 사용하세요.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='dustpan' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> 단어 은행: 소중한, 이산화탄소, 소비하다, 포장, 재료</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 자동차와 공장은 너무 많은 탄소 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='소중한'>소중한</option><option value='이산화탄소'>이산화탄소</option><option value='소비하다'>소비하다</option><option value='포장'>포장</option><option value='재료'>재료</option></select>를 생산합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='dioxide' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 나무는 가구를 만드는 데 사용되는 천연 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='소중한'>소중한</option><option value='이산화탄소'>이산화탄소</option><option value='소비하다'>소비하다</option><option value='포장'>포장</option><option value='재료'>재료</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='material' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 지구를 구하기 위해 더 적은 에너지를 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='소중한'>소중한</option><option value='이산화탄소'>이산화탄소</option><option value='소비하다'>소비하다</option><option value='포장'>포장</option><option value='재료'>재료</option></select>하도록 노력해야 합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='consume' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 현대 슈퍼마켓은 과일에 플라스틱 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='소중한'>소중한</option><option value='이산화탄소'>이산화탄소</option><option value='소비하다'>소비하다</option><option value='포장'>포장</option><option value='재료'>재료</option></select>을 너무 많이 사용합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='packaging' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 그 반지는 그녀의 할머니 것이었기 때문에 그녀에게 매우 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='소중한'>소중한</option><option value='이산화탄소'>이산화탄소</option><option value='소비하다'>소비하다</option><option value='포장'>포장</option><option value='재료'>재료</option></select>합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='precious' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> 단어 은행: 생분해성의, 고고학자들, 보존된, 책임, 영향</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. <select class='vocab-select'><option value=''>── 선택 ──</option><option value='생분해성의'>생분해성의</option><option value='고고학자들'>고고학자들</option><option value='보존된'>보존된</option><option value='책임'>책임</option><option value='영향'>영향</option></select>이 들판 아래에 묻힌 고대 동전을 발견했습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='archaeologists' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 아이들을 위해 환경을 보호하는 것은 우리의 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='생분해성의'>생분해성의</option><option value='고고학자들'>고고학자들</option><option value='보존된'>보존된</option><option value='책임'>책임</option><option value='영향'>영향</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='responsibility' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 영하의 추운 날씨가 그 과일을 완벽하게 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='생분해성의'>생분해성의</option><option value='고고학자들'>고고학자들</option><option value='보존된'>보존된</option><option value='책임'>책임</option><option value='영향'>영향</option></select>습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='preserved' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 지구 온난화는 세계 날씨에 심각한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='생분해성의'>생분해성의</option><option value='고고학자들'>고고학자들</option><option value='보존된'>보존된</option><option value='책임'>책임</option><option value='영향'>영향</option></select>을 미칩니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='impact' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 종이는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='생분해성의'>생분해성의</option><option value='고고학자들'>고고학자들</option><option value='보존된'>보존된</option><option value='책임'>책임</option><option value='영향'>영향</option></select>이므로 자연적으로 분해됩니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='biodegradable' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px; box-shadow:0 4px 6px rgba(0,0,0,0.02);'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px; font-weight:500;'><i class='fas fa-spell-check'></i> 단어 은행: 효율적인, 재활용 가능한, 무시하다, 조사한, 다양한</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 유리와 알루미늄은 다시 사용할 수 있는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='효율적인'>효율적인</option><option value='재활용 가능한'>재활용 가능한</option><option value='무시하다'>무시하다</option><option value='조사한'>조사한</option><option value='다양한'>다양한</option></select> 재료입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='recyclable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 사람들이 바다를 보호하려는 데에는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='효율적인'>효율적인</option><option value='재활용 가능한'>재활용 가능한</option><option value='무시하다'>무시하다</option><option value='조사한'>조사한</option><option value='다양한'>다양한</option></select> 이유가 있습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='various' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. LED 전구는 기존 전구보다 더 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='효율적인'>효율적인</option><option value='재활용 가능한'>재활용 가능한</option><option value='무시하다'>무시하다</option><option value='조사한'>조사한</option><option value='다양한'>다양한</option></select>합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='efficient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 경찰은 사람들이 무엇을 버렸는지 알아보기 위해 쓰레기장을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='효율적인'>효율적인</option><option value='재활용 가능한'>재활용 가능한</option><option value='무시하다'>무시하다</option><option value='조사한'>조사한</option><option value='다양한'>다양한</option></select>습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='investigated' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 기후 변화에 대한 경고를 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='효율적인'>효율적인</option><option value='재활용 가능한'>재활용 가능한</option><option value='무시하다'>무시하다</option><option value='조사한'>조사한</option><option value='다양한'>다양한</option></select>해서는 안 됩니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='ignore' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "The text 'Rubbish Food' explains the environmental cost of the things we buy. What are some specific environmental problems caused by items like kiwi fruits and soda cans, and what advice does Professor Taylor give?",
+    "ja": "「ゴミのような食べ物」というテキストは、私たちが買うものの環境コストを説明しています。キウイフルーツやソーダ缶のような品物によって引き起こされる具体的な環境問題は何ですか？また、テイラー教授はどのようなアドバイスをしていますか？",
+    "fr": "Le texte « Nourriture déchet » explique le coût environnemental des choses que nous achetons. Quels sont les problèmes environnementaux spécifiques causés par des articles comme les kiwis et les canettes de soda, et quels conseils le professeur Taylor donne-t-il ?",
+    "ko": "「쓰레기 음식」이라는 텍스트는 우리가 사는 물건들의 환경적 비용을 설명합니다. 키위나 소다 캔과 같은 물건들로 인해 발생하는 구체적인 환경 문제는 무엇이며, 테일러 교수는 어떤 조언을 합니까?"
+  },
+  "content_check_keywords": {
+    "en": "carbon dioxide, plastic packaging, aluminium mining, transport costs, buy local, recyclable, largest size",
+    "ja": "二酸化炭素、プラスチック包装、アルミニウム採掘、輸送コスト、地元のものを買う、リサイクル可能、最大サイズ",
+    "fr": "dioxyde de carbone, emballage plastique, extraction d'aluminium, coûts de transport, acheter local, recyclable, plus grande taille",
+    "ko": "이산화탄소, 플라스틱 포장, 알루미늄 채굴, 운송 비용, 지역 제품 구매, 재활용 가능, 가장 큰 사이즈"
+  },
+  "content_check_placeholder": {
+    "en": "Explain the environmental impact of transport and materials, and the advice for better shopping...",
+    "ja": "輸送と材料の環境への影響と、より良い買い物のためのアドバイスを説明してください...",
+    "fr": "Expliquez l'impact environnemental du transport et des matériaux, ainsi que les conseils pour de meilleurs achats...",
+    "ko": "운송과 재료의 환경적 영향과 더 나은 쇼핑을 위한 조언을 설명하세요..."
+  },
+  "deepening_question": {
+    "en": "We learned that objects can have different meanings. For example, an iron can be a 'bad gift' that sends a negative message, while a simple rock from a beach can become a precious memory.<br><br>In your opinion, what makes a gift 'valuable'? Is it the price of the object, or the 'story' behind it? Give an example of a precious thing you own.",
+    "ja": "物には異なる意味があることを学びました。例えば、アイロンは否定的なメッセージを送る悪いプレゼントになり得る一方、浜辺の単純な石は貴重な思い出になることがあります。<br><br>あなたの意見では、何がプレゼントを価値あるものにしますか？それは物の価格ですか、それともその背後にあるストーリーですか？あなたが所有している貴重なものの例を挙げてください。",
+    "fr": "Nous avons appris que les objets peuvent avoir des significations différentes. Par exemple, un fer à repasser peut être un mauvais cadeau qui envoie un message négatif, tandis qu'un simple caillou de plage peut devenir un souvenir précieux.<br><br>Selon vous, qu'est-ce qui rend un cadeau précieux ? Est-ce le prix de l'objet ou l'histoire qui se cache derrière ? Donnez un exemple d'un objet précieux que vous possédez.",
+    "ko": "물건들은 서로 다른 의미를 가질 수 있음을 배웠습니다. 예를 들어, 다리미는 부정적인 메시지를 보내는 나쁜 선물이 될 수 있는 반면, 해변의 단순한 돌은 소중한 추억이 될 수 있습니다.<br><br>당신의 생각에, 무엇이 선물을 가치 있게 만드나요? 그것은 물건의 가격인가요, 아니면 그背后的인 이야기인가요? 당신이 가지고 있는 소중한 물건의 예를 들어 보세요."
+  },
+  "deepening_placeholder": {
+    "en": "I think a gift is valuable when... One precious thing I own is... because...",
+    "ja": "プレゼントが価値があるのは...と思います。私が持っている貴重なものは...です。なぜなら...",
+    "fr": "Je pense qu'un cadeau est précieux quand... Un objet précieux que je possède est... parce que...",
+    "ko": "선물이 가치 있는 때는...이라고 생각합니다. 제가 가진 소중한 물건 하나는...입니다. 왜냐하면..."
+  },
+  "critical_question": {
+    "en": "We have explored the hidden life of things—from the shopping lists for a new home to the responsibility we have for our planet's future. We learned that even biodegradable items can stay preserved for decades in a rubbish site.<br><br>Do you agree that we have a 'moral responsibility' to change our shopping habits, or should companies be more responsible for the waste they create?<br><br>Support your answer by using the grammar we learned (must, mustn't, relative clauses) to describe how we can reduce our impact on the environment.",
+    "ja": "私たちは、新しい家の買い物リストから地球の未来に対する責任まで、物の隠された人生を探求してきました。生分解性の品物でさえ、ゴミ捨て場で何十年も保存されたままになる可能性があることを学びました。<br><br>私たちは買い物習慣を変える道徳的責任があると思いますか？それとも、企業が自分たちが生み出す廃棄物に対してより責任を持つべきだと思いますか？<br><br>学んだ文法（must, mustn't, 関係代名詞）を使って、環境への影響を減らす方法を説明しながら、あなたの答えを裏付けてください。",
+    "fr": "Nous avons exploré la vie cachée des objets, des listes de courses pour une nouvelle maison à la responsabilité que nous avons pour l'avenir de notre planète. Nous avons appris que même les articles biodégradables peuvent rester préservés pendant des décennies dans un site de décharge.<br><br>Êtes-vous d'accord que nous avons une responsabilité morale de changer nos habitudes d'achat, ou les entreprises devraient-elles être plus responsables des déchets qu'elles créent ?<br><br>Étayez votre réponse en utilisant la grammaire que nous avons apprise (must, mustn't, propositions relatives) pour décrire comment nous pouvons réduire notre impact sur l'environnement.",
+    "ko": "우리는 새집을 위한 쇼핑 목록부터 지구의 미래에 대한 책임까지, 물건들의 숨겨진 삶을 탐구했습니다. 생분해성 품목조차 쓰레기장에서 수십 년 동안 보존된 채로 남아 있을 수 있음을 배웠습니다.<br><br>우리가 쇼핑 습관을 바꿔야 할 도덕적 책임이 있다고 생각하시나요? 아니면 기업들이 자신들이 만드는 쓰레기에 대해 더 책임을 져야 한다고 생각하시나요?<br><br>배운 문법(must, mustn't, 관계절)을 사용하여 환경에 미치는 영향을 줄이는 방법을 설명하면서 답변을 뒷받침하세요."
+  },
+  "critical_placeholder": {
+    "en": "Discuss personal vs. company responsibility. Use 'must/mustn't' and 'the things that...' to describe better choices for the planet...",
+    "ja": "個人と企業の責任について議論してください。'must/mustn't'と 'the things that...'を使って、地球のためにより良い選択を説明してください...",
+    "fr": "Discutez de la responsabilité personnelle par rapport à la responsabilité des entreprises. Utilisez 'must/mustn't' et 'the things that...' pour décrire de meilleurs choix pour la planète...",
+    "ko": "개인 대 기업 책임에 대해 논의하세요. 'must/mustn't'와 'the things that...'을 사용하여 지구를 위한 더 나은 선택을 설명하세요..."
+  }
+}

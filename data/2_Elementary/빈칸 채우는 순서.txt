@@ -1,0 +1,235 @@
+-------------------------------------
+"listening_tracks"
+-------------------------------------
+
+"title": {
+    "en": "Have you ever?",
+    "ja": "〜したことがありますか？",
+    "fr": "Avez-vous déjà... ?",
+    "ko": "~해 본 적 있니?"
+  },
+
+"title"에 맞게 
+업로드한 이미지 파일은 영어 "listening_tracks" 스크립트 자료야.
+이미지 내용에서 영어 스크립트를 유닛 번호와 나래이션 말은 빼고 예제틀에 내용을 바꿔서 작성해줘.
+예제틀 Conversation 1 / Listening 1
+
+{
+      "title": "Introductions",
+      "label": "Conversation 1: Meeting someone new",
+      "script": [
+        { "speaker": "A", "text": "Hello. My name's Paula. What's your name?" },
+        { "speaker": "B", "text": "Rosa." },
+        { "speaker": "A", "text": "Where are you from, Rosa?" },
+        { "speaker": "B", "text": "I'm from Chicago." }
+      ]
+    }
+{
+      "title": "Yasmina",
+      "label": "Listening 1: A student from Egypt",
+      "script": [
+        { "speaker": "Yasmina", "text": "My name's Yasmina Kamal and I'm a student." },
+        { "speaker": "Yasmina", "text": "I'm 19. I'm not married." },
+        { "speaker": "Yasmina", "text": "I have one sister and two brothers." },
+        { "speaker": "Yasmina", "text": "I live in a flat in Cairo, Egypt." },
+        { "speaker": "Yasmina", "text": "I want to learn English because it's an international language." }
+      ]
+}
+    
+위에서 처럼 대화체와 듣기 자료를 보고, 이미지의 내용에  맞춰 아래의 틀에다 수정해서 작성하고  대화체 3개와 듣기 자료 1개를 맞춰서 영어로 채워줘.
+{
+      "title": "",
+      "label": "Conversation 1: ",
+      "script": []
+    },
+{
+      "title": "",
+      "label": "Conversation 2: ",
+      "script": []
+},
+{
+      "title": "",
+      "label": "Conversation 2: ",
+      "script": []
+},
+{
+      "title": "",
+      "label": "Conversation 3: ",
+      "script": []
+},
+{
+      "title": "",
+      "label": "Listening 1: ",
+      "script": []
+}
+
+----------------------------------------
+
+"en": [
+  {
+    "title": "Have you ever?",
+    "label": "Conversation 1: The life of Ryan",
+    "script": [
+      { "speaker": "Interviewer", "text": "Have you ever lived in a foreign country?" },
+      { "speaker": "Ryan", "text": "Yes, I’ve lived in a foreign country. In Japan, actually. I lived in Osaka for a year. I enjoyed it very much. I loved the food." },
+      { "speaker": "Interviewer", "text": "Have you ever worked for a big company?" },
+      { "speaker": "Ryan", "text": "Yes, I have worked for a big company. I worked for Nissan, the car company. That was two years ago, then I got another job." },
+      { "speaker": "Interviewer", "text": "Have you ever stayed in an expensive hotel?" },
+      { "speaker": "Ryan", "text": "No, never – only cheap hotels for me, I’m afraid." },
+      { "speaker": "Interviewer", "text": "Have you ever flown in a jumbo jet?" },
+      { "speaker": "Ryan", "text": "Yes – four or five times, actually. Oh, I’ve never cooked a meal for a lot of people. I love food but I don’t like cooking." }
+    ]
+  },
+  {
+    "title": "Have you ever?",
+    "label": "Conversation 2: More questions for Ryan",
+    "script": [
+      { "speaker": "Interviewer", "text": "Have you ever met a famous person?" },
+      { "speaker": "Ryan", "text": "I’ve never met a famous person – oh, just a minute, well not met but I’ve seen … I saw a famous politician at the airport once. I can’t remember his name." },
+      { "speaker": "Interviewer", "text": "Have you ever seen a Shakespeare play?" },
+      { "speaker": "Ryan", "text": "I’ve only seen one, when I was at school. We saw Romeo and Juliet. It was OK." },
+      { "speaker": "Interviewer", "text": "Have you ever driven a tractor?" },
+      { "speaker": "Ryan", "text": "Yes, I’ve driven a tractor. I had a holiday job on a farm when I was 17. I enjoyed that." },
+      { "speaker": "Interviewer", "text": "Have you ever been to hospital?" },
+      { "speaker": "Ryan", "text": "Good news – I’ve never been to hospital. I was born in hospital, of course, but that’s different." },
+      { "speaker": "Interviewer", "text": "Have you ever won a competition?" },
+      { "speaker": "Ryan", "text": "Bad news – I’ve never won a competition. I do the lottery every week but I’ve never, ever won a thing!" }
+    ]
+  },
+  {
+    "title": "Have you ever?",
+    "label": "Conversation 3: A honeymoon in London",
+    "script": [
+      { "speaker": "Judy", "text": "Tell me about it! What have you done so far?" },
+      { "speaker": "Marilyn", "text": "Well, we’ve been to Buckingham Palace. We went inside and looked around." },
+      { "speaker": "Judy", "text": "Have you seen the Houses of Parliament yet?" },
+      { "speaker": "Marilyn", "text": "Yeah, we have. We’ve just had a boat ride on the River Thames and we went right past the Houses of Parliament. We saw Big Ben! Then we went on the London Eye." },
+      { "speaker": "Judy", "text": "Have you travelled on a double-decker bus yet?" },
+      { "speaker": "Marilyn", "text": "Oh, yeah we took one when we went to Buckingham Palace. We sat upstairs. You get a great view of the city." },
+      { "speaker": "Judy", "text": "Tomorrow’s your last night. What are you going to do?" },
+      { "speaker": "Marilyn", "text": "Well, we’re going to the theatre, but we haven’t decided what to see yet." }
+    ]
+  },
+  {
+    "title": "Have you ever?",
+    "label": "Listening 1: Flight announcements at the airport",
+    "script": [
+      { "speaker": "Announcer", "text": "British Airways flight BA 516 to Geneva boarding at gate 4, last call. Flight BA 516 to Geneva, last call." },
+      { "speaker": "Announcer", "text": "Scandinavian Airlines flight SK 832 to Frankfurt is delayed one hour. Flight SK 832 to Frankfurt, delayed one hour." },
+      { "speaker": "Announcer", "text": "Air France flight 472 to Amsterdam is now boarding at gate 17. Flight AF 472 to Amsterdam, now boarding, gate 17." },
+      { "speaker": "Announcer", "text": "Lufthansa flight 309 to Miami is now boarding at gate 32. Flight LH 309 to Miami, now boarding, gate 32." },
+      { "speaker": "Announcer", "text": "Virgin Airlines flight to New York, VS 876 to New York. Please wait in the departure lounge until a further announcement. Thank you." },
+      { "speaker": "Announcer", "text": "Passengers are reminded to keep their hand luggage with them at all times." }
+    ]
+  }
+],
+
+위의 "title"에 맞는 대화3개 와 리스닝 1개의 영어 자료를 보고 
+"ja":일본어/"fr":프랑스어/"ko":한국어 각각의 나라 언어, 제목, 주게에 맞게
+실제 각 나라에서 쓰이는 대화나 듣기 자료로 맥락에 맞게 각색해서 채워줘.
+"ja": [],
+"fr": [],
+"ko": []
+이 3개 언어 모두 각색 해서 채운 내용 한번에 보여줘.
+
+-------------------------------------
+"extra_reading_html"	"tf_quiz"
+-------------------------------------
+
+"extra_reading_title" 제목에 맞게 
+각 나라 언어에서 
+"en": "", <-영어
+"ja": "", <-일본어
+"fr": "", <-프랑스어
+"ko": "" <-한국어
+실제 사용하는 읽기 자료-"extra_reading_html" 는 각 나라의 언어에 맞게 각색하고 
+T/F-"tf_quiz" 퀴즈는 형식만 같게하고 영어/일본어/프랑스어/한국어 각 나라 미국/일본/프랑스/한국 지문에 맞게 문제를 따로 생성해줘. 
+json 형식으로 보여줘.
+
+
+-------------------------------------
+"core_reading_html"	"vocabulary"	"speaking_chunks"	"vocabulary_check"
+-------------------------------------
+
+
+위의 각 나라의 언어로 작성된 내용은 이번 유닛의 "listening_tracks" 파트와 "extra_reading_html" 내용이야.
+각 나라 언어에서 
+"en": "", <-영어
+"ja": "", <-일본어
+"fr": "", <-프랑스어
+"ko": "" <-한국어
+각 나라 미국/일본/프랑스/한국 지문에 맞게 
+json 형식으로 보여줘.
+너가 해야 할 작업은 위의 내용을 가지고 이번 유닛을 관통하는 
+영어/일본어/프랑스어/한국어로 된 core reading 총 단어수는 100 단어 내외로 하고 elementary 수준의 단어 10개 내외만 포함되도록 작성해줘.
+지문에 링크가 될 단어는 아래 json 예시를 보고 링크를 포함해 지문에 넣어줘.
+"core_reading_html"에서 "vocabulary"로 추출된 단어는 지문에 먼저 나오는 순서대로 차례대로 나열하고
+"core_title"은 "core_reading_html" 제목이고
+"topic"은 이번 유닛의 전체 주제를 간단하게 나타내줘.
+
+예시 json
+"title": {
+    "en": "Bigger and better!",
+    "ja": "より大きく、より良く！",
+    "fr": "Plus grand et meilleur !",
+    "ko": "더 크고 더 좋게!"
+  },
+  "topic": {
+    "en": "Comparatives and superlatives · have got · Town and country · Directions",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "core_title": {
+    "en": "City Life vs Country Life",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "core_reading_html": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary": {
+    "en": [],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  
+  링크 예시
+  <strong><span class='vocab-link' id='text-hello' onclick='speakAndScroll(\"hello\", \"vocab-hello\")'>hello</span></strong>   <-"core_reading_html" "en": 단어 링크 예시 
+  { "id": "hello", "word": "Hello", "definition": "A greeting said when meeting someone.", "pronunciation": "Hello" } <- "vocabulary" "en": 단어 링크 예시
+"pronunciation"는 각나라 언어로 하고 일본어는 히라가나로 해서 다시 보여줘.
+
+
+
+  
+-------------------------------------
+"grammar_html"
+-------------------------------------
+
+
+
+-------------------------------------
+"content_check_question"	"content_check_keywords"	"content_check_placeholder"
+-------------------------------------
+
+
+
+-------------------------------------
+"deepening_question"	"deepening_placeholder"
+-------------------------------------
+
+
+
+-------------------------------------
+"critical_question"	"critical_placeholder"
+-------------------------------------
+
+
+
+
+

@@ -1,0 +1,1834 @@
+{
+  "title": {
+    "en": "JOBS",
+    "ja": "仕事",
+    "fr": "EMPLOIS",
+    "ko": "직업"
+  },
+  "topic": {
+    "en": "Work, careers, professional life, job satisfaction",
+    "ja": "仕事、キャリア、職業生活、仕事の満足度",
+    "fr": "Travail, carrières, vie professionnelle, satisfaction au travail",
+    "ko": "일, 경력, 직업 생활, 직업 만족도"
+  },
+  "core_title": {
+    "en": "The Diverse World of Work and Dedication",
+    "ja": "仕事と献身の多様な世界",
+    "fr": "Le monde diversifié du travail et du dévouement",
+    "ko": "일과 헌신의 다양한 세계"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>What does it mean to have a job in the modern world? For some, work is defined by long hours and high salaries. An engineer based in London frequently travels to Glasgow to help build a new stadium. Although the schedule is <strong><span class='vocab-link' id='text-demanding' onclick='speakAndScroll(\"demanding\", \"vocab-demanding\")'>demanding</span></strong>—often requiring a 60-hour week—he finds <strong><span class='vocab-link' id='text-fulfillment' onclick='speakAndScroll(\"fulfillment\", \"vocab-fulfillment\")'>fulfillment</span></strong> because the money is good and he gets on well with his colleagues. This reminds us that a positive social environment and financial rewards can make even the most difficult struggle manageable.</p><p>However, professional life is not always perfect, as we see in Annie's recent letter to Sandra. Annie enjoys her job and likes her coworkers, but she often faces <strong><span class='vocab-link' id='text-internal' onclick='speakAndScroll(\"internal\", \"vocab-internal\")'>internal</span></strong> challenges. During a recent meeting, while Marian was presenting some boring figures for a marketing proposal, Annie found herself <strong><span class='vocab-link' id='text-distracted' onclick='speakAndScroll(\"distracted\", \"vocab-distracted\")'>distracted</span></strong>. Instead of focusing on the data, she was thinking about how smart her colleague Harry looked in his new suit. This moment of distraction led to an awkward struggle when her \"Ugly Boss\" suddenly asked her a question. Annie's experience illustrates that <strong><span class='vocab-link' id='text-maintaining' onclick='speakAndScroll(\"maintaining\", \"vocab-maintaining\")'>maintaining</span></strong> focus is a <strong><span class='vocab-link' id='text-constant' onclick='speakAndScroll(\"constant\", \"vocab-constant\")'>constant</span></strong> demand in a busy office environment.</p><p>For young graduates like Claudia from Germany, the challenge is different. After studying Media Studies, she applied for many jobs in film and television but didn't get a single interview. The competitive market demands prior work experience, but as Claudia asks, \"How can you get experience if nobody gives you a job?\" This <strong><span class='vocab-link' id='text-paradox' onclick='speakAndScroll(\"paradox\", \"vocab-paradox\")'>paradox</span></strong> forced her to take unpaid work at a PR company. While Claudia feels her company might be <strong><span class='vocab-link' id='text-exploiting' onclick='speakAndScroll(\"exploiting\", \"vocab-exploiting\")'>exploiting</span></strong> her by asking for boring tasks like photocopying, she stays because she is finally learning how to advertise films. Her story is a common struggle for many trying to enter their chosen field.</p><p>In contrast, some people find fulfillment through <strong><span class='vocab-link' id='text-voluntary' onclick='speakAndScroll(\"voluntary\", \"vocab-voluntary\")'>voluntary</span></strong> service. Jerome, a doctor from Switzerland, retired five years ago after thirty years of practice. Although he initially enjoyed his rest, he soon grew bored and wanted to help others. He moved to Sierra Leone to train local doctors and advise them on improving health services. Even though he is \"working for nothing\" in terms of money, he describes it as the best thing he has ever done. Jerome shows that voluntary work can provide a sense of <strong><span class='vocab-link' id='text-purpose' onclick='speakAndScroll(\"purpose\", \"vocab-purpose\")'>purpose</span></strong> that a traditional salary cannot fulfill.</p><p>Finally, work is also about identity and <strong><span class='vocab-link' id='text-collective' onclick='speakAndScroll(\"collective\", \"vocab-collective\")'>collective</span></strong> rights. In India, women like Sulochana are organising to fight for the rights of housewives. They believe their work at home is vital for \"building the nation\" and should be recognized with a salary and a pension. If the government does not meet their demands, they are prepared to go on strike. Whether it is a high-powered office job, a voluntary position, or the <strong><span class='vocab-link' id='text-essential' onclick='speakAndScroll(\"essential\", \"vocab-essential\")'>essential</span></strong> work done at home, our struggle for respect and fair treatment remains a <strong><span class='vocab-link' id='text-universal' onclick='speakAndScroll(\"universal\", \"vocab-universal\")'>universal</span></strong> human story.</p>",
+    "ja": "<p style='margin-top:0;'>現代の世界で仕事を持つとはどういうことでしょうか。ある人にとって、仕事は長時間労働と高給によって定義されます。ロンドンに拠点を置くエンジニアは、新しいスタジアムの建設を手伝うために頻繁にグラスゴーへ出張します。週60時間労働を必要とするような<strong><span class='vocab-link' id='text-demanding' onclick='speakAndScroll(\"demanding\", \"vocab-demanding\")'>過酷な</span></strong>スケジュールにもかかわらず、給料が良く同僚とも仲良くやっていけるという理由で、彼は<strong><span class='vocab-link' id='text-fulfillment' onclick='speakAndScroll(\"fulfillment\", \"vocab-fulfillment\")'>やりがい</span></strong>を見出しています。これは、前向きな社会的環境と経済的報酬が、どんなに困難な闘いも管理可能なものにし得ることを思い出させてくれます。</p><p>しかし、私たちがアニーからサンドラへの最近の手紙で見るように、職業生活は常に完璧というわけではありません。アニーは自分の仕事を楽しみ同僚も好きですが、しばしば<strong><span class='vocab-link' id='text-internal' onclick='speakAndScroll(\"internal\", \"vocab-internal\")'>内部的な</span></strong>課題に直面します。最近の会議で、マリアンがマーケティング提案の退屈な数値を発表している間、アニーは<strong><span class='vocab-link' id='text-distracted' onclick='speakAndScroll(\"distracted\", \"vocab-distracted\")'>気を散らして</span></strong>いました。データに集中する代わりに、同僚のハリーが新しいスーツを着ていかにもスマートに見えるか考えていました。この一瞬の注意散漫が、彼女の「醜い上司」が突然質問したときの気まずい苦闘につながりました。アニーの経験は、忙しいオフィス環境では<strong><span class='vocab-link' id='text-maintaining' onclick='speakAndScroll(\"maintaining\", \"vocab-maintaining\")'>集中力を維持することが</span></strong><strong><span class='vocab-link' id='text-constant' onclick='speakAndScroll(\"constant\", \"vocab-constant\")'>絶え間ない</span></strong>要求であることを示しています。</p><p>ドイツのクラウディアのような若い卒業生にとって、課題は異なります。メディア研究を学んだ後、彼女は映画やテレビの仕事にたくさん応募しましたが、面接すら一つも受けられませんでした。競争の激しい市場は事前の職務経験を要求しますが、クラウディアが問うように、「誰も仕事をくれなければ、どうやって経験を積めばいいのでしょうか？」この<strong><span class='vocab-link' id='text-paradox' onclick='speakAndScroll(\"paradox\", \"vocab-paradox\")'>逆説</span></strong>が彼女にPR会社での無給の仕事を取らせました。クラウディアは、コピー取りなどの退屈な仕事をさせることで会社が自分を<strong><span class='vocab-link' id='text-exploiting' onclick='speakAndScroll(\"exploiting\", \"vocab-exploiting\")'>搾取している</span></strong>と感じていますが、ようやく映画の宣伝方法を学んでいるので、彼女はそこに留まります。彼女の話は、選んだ分野に入ろうと奮闘する多くの人々に共通するものです。</p><p>対照的に、<strong><span class='vocab-link' id='text-voluntary' onclick='speakAndScroll(\"voluntary\", \"vocab-voluntary\")'>ボランティア</span></strong>活動を通じてやりがいを見出す人もいます。スイスの医師ジェロームは、30年の診療を経て5年前に退職しました。最初は退職後の休息を楽しみましたが、すぐに退屈し、他の人を助けたいと思うようになりました。彼はシエラレオネに移り、現地の医師を訓練し、医療サービスを改善する方法についてアドバイスしています。金銭的には「無償で働いている」にもかかわらず、彼はそれをこれまでで最高の経験だと語っています。ジェロームは、ボランティア活動が従来の給料では満たせない<strong><span class='vocab-link' id='text-purpose' onclick='speakAndScroll(\"purpose\", \"vocab-purpose\")'>目的意識</span></strong>を提供できることを示しています。</p><p>最後に、仕事はアイデンティティと<strong><span class='vocab-link' id='text-collective' onclick='speakAndScroll(\"collective\", \"vocab-collective\")'>集団的</span></strong>権利についても関わります。インドでは、スロチャナのような女性たちが主婦の権利のために戦う組織を結成しています。彼女たちは、家庭での自分の仕事は「国家建設」に不可欠であり、給与と年金で認められるべきだと考えています。政府が彼女たちの要求に応じなければ、ストライキに踏み切る準備があります。影響力のあるオフィスワークであれ、ボランティアの立場であれ、あるいは家庭で行われる<strong><span class='vocab-link' id='text-essential' onclick='speakAndScroll(\"essential\", \"vocab-essential\")'>不可欠な</span></strong>仕事であれ、尊重と公正な扱いを求める私たちの闘いは、<strong><span class='vocab-link' id='text-universal' onclick='speakAndScroll(\"universal\", \"vocab-universal\")'>普遍的な</span></strong>人間の物語であり続けます。</p>",
+    "fr": "<p style='margin-top:0;'>Qu'est-ce que cela signifie d'avoir un emploi dans le monde moderne ? Pour certains, le travail est défini par de longues heures et des salaires élevés. Un ingénieur basé à Londres se rend fréquemment à Glasgow pour aider à construire un nouveau stade. Bien que l'horaire soit <strong><span class='vocab-link' id='text-demanding' onclick='speakAndScroll(\"demanding\", \"vocab-demanding\")'>exigeant</span></strong> — nécessitant souvent une semaine de 60 heures — il trouve un <strong><span class='vocab-link' id='text-fulfillment' onclick='speakAndScroll(\"fulfillment\", \"vocab-fulfillment\")'>accomplissement</span></strong> parce que l'argent est bon et qu'il s'entend bien avec ses collègues. Cela nous rappelle qu'un environnement social positif et des récompenses financières peuvent rendre même la lutte la plus difficile gérable.</p><p>Cependant, la vie professionnelle n'est pas toujours parfaite, comme nous le voyons dans la récente lettre d'Annie à Sandra. Annie aime son travail et aime ses collègues, mais elle fait souvent face à des défis <strong><span class='vocab-link' id='text-internal' onclick='speakAndScroll(\"internal\", \"vocab-internal\")'>internes</span></strong>. Lors d'une récente réunion, alors que Marian présentait des chiffres ennuyeux pour une proposition marketing, Annie s'est retrouvée <strong><span class='vocab-link' id='text-distracted' onclick='speakAndScroll(\"distracted\", \"vocab-distracted\")'>distraite</span></strong>. Au lieu de se concentrer sur les données, elle pensait à quel point son collègue Harry avait l'air intelligent dans son nouveau costume. Ce moment de distraction a conduit à une lutte embarrassante lorsque son \"moche patron\" lui a soudainement posé une question. L'expérience d'Annie illustre que <strong><span class='vocab-link' id='text-maintaining' onclick='speakAndScroll(\"maintaining\", \"vocab-maintaining\")'>maintenir</span></strong> sa concentration est une exigence <strong><span class='vocab-link' id='text-constant' onclick='speakAndScroll(\"constant\", \"vocab-constant\")'>constante</span></strong> dans un environnement de bureau occupé.</p><p>Pour les jeunes diplômés comme Claudia d'Allemagne, le défi est différent. Après avoir étudié les études médiatiques, elle a postulé à de nombreux emplois dans le cinéma et la télévision mais n'a obtenu aucun entretien. Le marché concurrentiel exige une expérience professionnelle préalable, mais comme le demande Claudia, \"Comment pouvez-vous acquérir de l'expérience si personne ne vous donne d'emploi ?\" Ce <strong><span class='vocab-link' id='text-paradox' onclick='speakAndScroll(\"paradox\", \"vocab-paradox\")'>paradoxe</span></strong> l'a forcée à accepter un travail non rémunéré dans une entreprise de relations publiques. Bien que Claudia pense que son entreprise pourrait l'<strong><span class='vocab-link' id='text-exploiting' onclick='speakAndScroll(\"exploiting\", \"vocab-exploiting\")'>exploiter</span></strong> en lui demandant des tâches ennuyeuses comme la photocopie, elle reste parce qu'elle apprend enfin à faire la publicité de films. Son histoire est une lutte commune pour beaucoup qui tentent d'entrer dans leur domaine choisi.</p><p>En revanche, certaines personnes trouvent un accomplissement grâce au service <strong><span class='vocab-link' id='text-voluntary' onclick='speakAndScroll(\"voluntary\", \"vocab-voluntary\")'>volontaire</span></strong>. Jérôme, un médecin suisse, a pris sa retraite il y a cinq ans après trente ans de pratique. Bien qu'il ait initialement apprécié son repos, il s'est vite ennuyé et a voulu aider les autres. Il a déménagé en Sierra Leone pour former des médecins locaux et les conseiller sur l'amélioration des services de santé. Même s'il \"travaille pour rien\" en termes d'argent, il décrit cela comme la meilleure chose qu'il ait jamais faite. Jérôme montre que le travail volontaire peut fournir un sens du <strong><span class='vocab-link' id='text-purpose' onclick='speakAndScroll(\"purpose\", \"vocab-purpose\")'>but</span></strong> qu'un salaire traditionnel ne peut pas satisfaire.</p><p>Enfin, le travail concerne aussi l'identité et les droits <strong><span class='vocab-link' id='text-collective' onclick='speakAndScroll(\"collective\", \"vocab-collective\")'>collectifs</span></strong>. En Inde, des femmes comme Sulochana s'organisent pour défendre les droits des femmes au foyer. Elles croient que leur travail à la maison est vital pour \"construire la nation\" et devrait être reconnu par un salaire et une pension. Si le gouvernement ne répond pas à leurs demandes, elles sont prêtes à faire la grève. Qu'il s'agisse d'un emploi de bureau puissant, d'un poste bénévole ou du travail <strong><span class='vocab-link' id='text-essential' onclick='speakAndScroll(\"essential\", \"vocab-essential\")'>essentiel</span></strong> effectué à la maison, notre lutte pour le respect et un traitement équitable reste une histoire humaine <strong><span class='vocab-link' id='text-universal' onclick='speakAndScroll(\"universal\", \"vocab-universal\")'>universelle</span></strong>.</p>",
+    "ko": "<p style='margin-top:0;'>현대 사회에서 직업을 가진다는 것은 어떤 의미일까요? 어떤 이들에게 일은 긴 시간과 높은 급여로 정의됩니다. 런던에 기반을 둔 한 엔지니어는 새 경기장 건설을 돕기 위해 자주 글래스고로 출장을 갑니다. 주 60시간 근무를 요구하는 <strong><span class='vocab-link' id='text-demanding' onclick='speakAndScroll(\"demanding\", \"vocab-demanding\")'>힘든</span></strong> 일정임에도 불구하고, 그는 급여도 좋고 동료들과도 잘 지내기 때문에 <strong><span class='vocab-link' id='text-fulfillment' onclick='speakAndScroll(\"fulfillment\", \"vocab-fulfillment\")'>보람</span></strong>을 느낍니다. 이는 긍정적인 사회적 환경과 경제적 보상이 아무리 어려운 투쟁도 관리 가능하게 만들 수 있음을 상기시켜 줍니다.</p><p>하지만 애니가 샌드라에게 보낸 최근 편지에서 볼 수 있듯이, 직장 생활이 항상 완벽한 것은 아닙니다. 애니는 자신의 일을 즐기고 동료들도 좋아하지만, 종종 <strong><span class='vocab-link' id='text-internal' onclick='speakAndScroll(\"internal\", \"vocab-internal\")'>내부적인</span></strong> 어려움에 직면합니다. 최근 회의에서 마리안이 마케팅 제안서의 지루한 수치들을 발표하는 동안, 애니는 <strong><span class='vocab-link' id='text-distracted' onclick='speakAndScroll(\"distracted\", \"vocab-distracted\")'>주의가 산만해졌습니다</span></strong>. 데이터에 집중하는 대신, 그녀는 동료 해리가 새 양복을 입고 얼마나 멋져 보이는지 생각하고 있었습니다. 이 순간의 산만함은 그녀의 \"못생긴 상사\"가 갑자기 질문을 던졌을 때 어색한 곤경으로 이어졌습니다. 애니의 경험은 바쁜 사무실 환경에서 <strong><span class='vocab-link' id='text-maintaining' onclick='speakAndScroll(\"maintaining\", \"vocab-maintaining\")'>집중력을 유지하는 것</span></strong>이 <strong><span class='vocab-link' id='text-constant' onclick='speakAndScroll(\"constant\", \"vocab-constant\")'>끊임없는</span></strong> 요구 사항임을 보여줍니다.</p><p>독일의 클라우디아와 같은 젊은 졸업생들에게 도전 과제는 다릅니다. 미디어 연구를 전공한 후, 그녀는 영화 및 텔레비전 분야의 많은 일자리에 지원했지만 단 한 번의 면접도 보지 못했습니다. 경쟁이 치열한 시장은 사전 경력을 요구하지만, 클라우디아가 묻듯이 \"아무도 일자리를 주지 않으면 어떻게 경험을 쌓을 수 있습니까?\" 이 <strong><span class='vocab-link' id='text-paradox' onclick='speakAndScroll(\"paradox\", \"vocab-paradox\")'>역설</span></strong>이 그녀로 하여금 PR 회사에서 무급으로 일하게 만들었습니다. 클라우디아는 회사가 복사와 같은 지루한 업무를 시키며 자신을 <strong><span class='vocab-link' id='text-exploiting' onclick='speakAndScroll(\"exploiting\", \"vocab-exploiting\")'>착취하고</span></strong> 있다고 느끼지만, 마침내 영화를 홍보하는 방법을 배우고 있기 때문에 그곳에 머무릅니다. 그녀의 이야기는 자신이 선택한 분야에 들어가기 위해 분투하는 많은 사람들에게 공통된 어려움입니다.</p><p>반면, 어떤 이들은 <strong><span class='vocab-link' id='text-voluntary' onclick='speakAndScroll(\"voluntary\", \"vocab-voluntary\")'>자원봉사</span></strong> 활동을 통해 보람을 찾습니다. 스위스의 의사 제롬은 30년의 진료 경험을 쌓고 5년 전에 은퇴했습니다. 처음에는 은퇴 후의 휴식을 즐겼지만, 곧 지루함을 느꼈고 다른 사람들을 돕고 싶어 했습니다. 그는 시에라리온으로 이주하여 현지 의사들을 교육하고 의료 서비스를 개선하는 방법에 대해 조언하고 있습니다. 금전적으로는 \"무료로 일하는\" 셈이지만, 그는 그것이 자신이 한 일 중 최고의 일이라고 말합니다. 제롬은 자원봉사가 전통적인 급여로는 채울 수 없는 <strong><span class='vocab-link' id='text-purpose' onclick='speakAndScroll(\"purpose\", \"vocab-purpose\")'>목적 의식</span></strong>을 제공할 수 있음을 보여줍니다.</p><p>마지막으로, 일은 정체성과 <strong><span class='vocab-link' id='text-collective' onclick='speakAndScroll(\"collective\", \"vocab-collective\")'>집단적</span></strong> 권리에 관한 것이기도 합니다. 인도에서는 술로차나와 같은 여성들이 가정주부의 권리를 위해 싸우는 단체를 조직하고 있습니다. 그들은 가정에서의 자신들의 일이 \"국가 건설\"에 필수적이며 급여와 연금으로 인정받아야 한다고 믿습니다. 정부가 그들의 요구를 들어주지 않으면, 그들은 파업을 할 준비가 되어 있습니다. 막강한 사무실 직장이든, 자원봉사 직위든, 아니면 가정에서 수행되는 <strong><span class='vocab-link' id='text-essential' onclick='speakAndScroll(\"essential\", \"vocab-essential\")'>필수적인</span></strong> 일이든, 존중과 공정한 대우를 위한 우리의 투쟁은 <strong><span class='vocab-link' id='text-universal' onclick='speakAndScroll(\"universal\", \"vocab-universal\")'>보편적인</span></strong> 인간의 이야기로 남아 있습니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "demanding",
+        "word": "Demanding",
+        "definition": "Requiring a lot of time, effort, or attention."
+      },
+      {
+        "id": "fulfillment",
+        "word": "Fulfillment",
+        "definition": "Feeling happy because your work is useful."
+      },
+      {
+        "id": "internal",
+        "word": "Internal",
+        "definition": "Existing or happening inside a person or organization."
+      },
+      {
+        "id": "distracted",
+        "word": "Distracted",
+        "definition": "Not able to focus because you are thinking about something else."
+      },
+      {
+        "id": "maintaining",
+        "word": "Maintaining",
+        "definition": "Keeping something continuing at the same level or standard."
+      },
+      {
+        "id": "constant",
+        "word": "Constant",
+        "definition": "Happening all the time or very often."
+      },
+      {
+        "id": "paradox",
+        "word": "Paradox",
+        "definition": "A situation that seems impossible or difficult to understand because it contains two opposite facts."
+      },
+      {
+        "id": "exploiting",
+        "word": "Exploiting",
+        "definition": "Using someone unfairly for your own advantage."
+      },
+      {
+        "id": "voluntary",
+        "word": "Voluntary",
+        "definition": "Done willingly without being paid."
+      },
+      {
+        "id": "purpose",
+        "word": "Purpose",
+        "definition": "The reason for which something is done or created; a sense of meaning."
+      },
+      {
+        "id": "collective",
+        "word": "Collective",
+        "definition": "Done by a group of people together."
+      },
+      {
+        "id": "essential",
+        "word": "Essential",
+        "definition": "Extremely important or necessary."
+      },
+      {
+        "id": "universal",
+        "word": "Universal",
+        "definition": "Involving or affecting everyone in the world."
+      }
+    ],
+    "ja": [
+      {
+        "id": "demanding",
+        "word": "過酷な",
+        "definition": "多くの時間、労力、または注意を必要とする。"
+      },
+      {
+        "id": "fulfillment",
+        "word": "やりがい",
+        "definition": "自分の仕事が役に立っていると感じる幸せ。"
+      },
+      {
+        "id": "internal",
+        "word": "内部的な",
+        "definition": "人や組織の内部に存在する、または起こる。"
+      },
+      {
+        "id": "distracted",
+        "word": "気を散らして",
+        "definition": "他のことを考えていて集中できない。"
+      },
+      {
+        "id": "maintaining",
+        "word": "維持すること",
+        "definition": "何かを同じレベルや基準で続けていくこと。"
+      },
+      {
+        "id": "constant",
+        "word": "絶え間ない",
+        "definition": "常に、または非常に頻繁に起こる。"
+      },
+      {
+        "id": "paradox",
+        "word": "逆説",
+        "definition": "矛盾する二つの事実を含み、不可能または理解しにくい状況。"
+      },
+      {
+        "id": "exploiting",
+        "word": "搾取している",
+        "definition": "自分の利益のために誰かを不当に利用すること。"
+      },
+      {
+        "id": "voluntary",
+        "word": "ボランティア",
+        "definition": "無償で喜んで行うこと。"
+      },
+      {
+        "id": "purpose",
+        "word": "目的意識",
+        "definition": "何かが行われたり作られたりする理由；意味の感覚。"
+      },
+      {
+        "id": "collective",
+        "word": "集団的",
+        "definition": "人々のグループによって一緒に行われる。"
+      },
+      {
+        "id": "essential",
+        "word": "不可欠な",
+        "definition": "非常に重要または必要な。"
+      },
+      {
+        "id": "universal",
+        "word": "普遍的な",
+        "definition": "世界中のすべての人に関わる、または影響を与える。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "demanding",
+        "word": "Exigeant",
+        "definition": "Qui nécessite beaucoup de temps, d'efforts ou d'attention."
+      },
+      {
+        "id": "fulfillment",
+        "word": "Accomplissement",
+        "definition": "Se sentir heureux parce que votre travail est utile."
+      },
+      {
+        "id": "internal",
+        "word": "Interne",
+        "definition": "Qui existe ou se produit à l'intérieur d'une personne ou d'une organisation."
+      },
+      {
+        "id": "distracted",
+        "word": "Distrait",
+        "definition": "Incapable de se concentrer parce que vous pensez à autre chose."
+      },
+      {
+        "id": "maintaining",
+        "word": "Maintenir",
+        "definition": "Garder quelque chose au même niveau ou standard."
+      },
+      {
+        "id": "constant",
+        "word": "Constant",
+        "definition": "Qui se produit tout le temps ou très souvent."
+      },
+      {
+        "id": "paradox",
+        "word": "Paradoxe",
+        "definition": "Une situation qui semble impossible ou difficile à comprendre car elle contient deux faits opposés."
+      },
+      {
+        "id": "exploiting",
+        "word": "Exploiter",
+        "definition": "Utiliser quelqu'un injustement pour son propre avantage."
+      },
+      {
+        "id": "voluntary",
+        "word": "Volontaire",
+        "definition": "Fait volontairement sans être payé."
+      },
+      {
+        "id": "purpose",
+        "word": "But",
+        "definition": "La raison pour laquelle quelque chose est fait ou créé ; un sens."
+      },
+      {
+        "id": "collective",
+        "word": "Collectif",
+        "definition": "Fait par un groupe de personnes ensemble."
+      },
+      {
+        "id": "essential",
+        "word": "Essentiel",
+        "definition": "Extrêmement important ou nécessaire."
+      },
+      {
+        "id": "universal",
+        "word": "Universel",
+        "definition": "Qui concerne ou affecte tout le monde dans le monde."
+      }
+    ],
+    "ko": [
+      {
+        "id": "demanding",
+        "word": "힘든",
+        "definition": "많은 시간, 노력, 또는 주의를 요구하는."
+      },
+      {
+        "id": "fulfillment",
+        "word": "보람",
+        "definition": "자신의 일이 유용해서 느끼는 행복감."
+      },
+      {
+        "id": "internal",
+        "word": "내부적인",
+        "definition": "사람이나 조직 내부에 존재하거나 일어나는."
+      },
+      {
+        "id": "distracted",
+        "word": "주의가 산만한",
+        "definition": "다른 생각 때문에 집중하지 못하는."
+      },
+      {
+        "id": "maintaining",
+        "word": "유지하기",
+        "definition": "무엇인가를 같은 수준이나 기준으로 계속하게 하는 것."
+      },
+      {
+        "id": "constant",
+        "word": "끊임없는",
+        "definition": "항상 또는 매우 자주 일어나는."
+      },
+      {
+        "id": "paradox",
+        "word": "역설",
+        "definition": "두 개의 반대되는 사실을 포함하여 불가능하거나 이해하기 어려운 상황."
+      },
+      {
+        "id": "exploiting",
+        "word": "착취하는",
+        "definition": "자신의 이익을 위해 누군가를 부당하게 이용하는 것."
+      },
+      {
+        "id": "voluntary",
+        "word": "자발적인",
+        "definition": "돈을 받지 않고 기꺼이 하는."
+      },
+      {
+        "id": "purpose",
+        "word": "목적 의식",
+        "definition": "무언가가 행해지거나 만들어진 이유; 의미에 대한 감각."
+      },
+      {
+        "id": "collective",
+        "word": "집단적인",
+        "definition": "사람들 집단이 함께 하는."
+      },
+      {
+        "id": "essential",
+        "word": "필수적인",
+        "definition": "매우 중요하거나 꼭 필요한."
+      },
+      {
+        "id": "universal",
+        "word": "보편적인",
+        "definition": "세계의 모든 사람에게 관련되거나 영향을 미치는."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Conversation 1",
+        "label": "Work and Travel",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "So what do you do? You haven't told me."
+          },
+          {
+            "speaker": "B",
+            "text": "I'm an engineer."
+          },
+          {
+            "speaker": "A",
+            "text": "Right. Where do you work?"
+          },
+          {
+            "speaker": "B",
+            "text": "Well, the company I work for is based in London, but I travel around quite a lot."
+          },
+          {
+            "speaker": "B",
+            "text": "I'm actually working in Scotland at the moment - in Glasgow."
+          },
+          {
+            "speaker": "B",
+            "text": "They're building a new stadium there and I'm working on that."
+          },
+          {
+            "speaker": "A",
+            "text": "Really? Where do you live then?"
+          },
+          {
+            "speaker": "B",
+            "text": "In London, but I'm renting a flat in Glasgow while I'm there."
+          },
+          {
+            "speaker": "B",
+            "text": "I usually come down to London every two weeks if I can."
+          },
+          {
+            "speaker": "A",
+            "text": "And do you enjoy it?"
+          },
+          {
+            "speaker": "B",
+            "text": "Yeah, it's great. I don't really mind the travelling and the money's good and I don't really have much time to spend it!"
+          },
+          {
+            "speaker": "A",
+            "text": "Really? What are the hours like?"
+          },
+          {
+            "speaker": "B",
+            "text": "Oh, I work hard. I often do a 60-hour week."
+          },
+          {
+            "speaker": "A",
+            "text": "Really? That's a lot."
+          },
+          {
+            "speaker": "B",
+            "text": "Yeah, but it's okay, and I get on really well with the other people I work with."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Conversation 2",
+        "label": "Work and Study",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "So, what do you do?"
+          },
+          {
+            "speaker": "B",
+            "text": "Well, I work for a small company back in Korea, but I'm actually a student at the moment."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, okay. What are you studying?"
+          },
+          {
+            "speaker": "B",
+            "text": "I'm doing a Master's in Marketing."
+          },
+          {
+            "speaker": "A",
+            "text": "Is that what you do in your company? Marketing?"
+          },
+          {
+            "speaker": "B",
+            "text": "Yes, more or less."
+          },
+          {
+            "speaker": "A",
+            "text": "So, how long have you worked for them?"
+          },
+          {
+            "speaker": "B",
+            "text": "About two years."
+          },
+          {
+            "speaker": "A",
+            "text": "Only two years and they're sending you abroad to study? That's fantastic!"
+          },
+          {
+            "speaker": "B",
+            "text": "Yeah. Well, actually, my father runs the company and he wants me to become the marketing manager."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh right, I see. So how do you get on with the other people you work with? Is it difficult being the boss's daughter?"
+          },
+          {
+            "speaker": "B",
+            "text": "Maybe a little bit sometimes."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Speaker 1",
+        "label": "Claudia: Work Experience",
+        "script": [
+          {
+            "speaker": "Claudia",
+            "text": "I graduated in Germany two years ago with a degree in Media Studies"
+          },
+          {
+            "speaker": "Claudia",
+            "text": "and after that I applied for jobs in film and television."
+          },
+          {
+            "speaker": "Claudia",
+            "text": "I know it's a competitive area, but it was depressing, because I didn't get one interview!"
+          },
+          {
+            "speaker": "Claudia",
+            "text": "Everyone wanted me to have work experience, but how can you experience work if nobody gives you a job?"
+          },
+          {
+            "speaker": "Claudia",
+            "text": "In the end, I took unpaid work with a public relations company."
+          },
+          {
+            "speaker": "Claudia",
+            "text": "To begin with, I hated it. I only did boring jobs like making coffee for people and photocopying,"
+          },
+          {
+            "speaker": "Claudia",
+            "text": "but recently I've started doing more interesting things."
+          },
+          {
+            "speaker": "Claudia",
+            "text": "At the moment, I'm helping to advertise a German film."
+          },
+          {
+            "speaker": "Claudia",
+            "text": "I'm not happy working for no money, and sometimes I think the company is exploiting me."
+          },
+          {
+            "speaker": "Claudia",
+            "text": "If they don't offer me a paid job soon, I'm going to start looking for something else!"
+          }
+        ]
+      },
+      {
+        "title": "1-4. Speaker 2",
+        "label": "Jerome: Voluntary Work",
+        "script": [
+          {
+            "speaker": "Jerome",
+            "text": "I worked as a doctor in a small town in Switzerland for almost thirty years and I retired five years ago."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "To begin with, I enjoyed it, but I soon got bored."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "I saw an advertisement for the Voluntary Service Overseas and applied."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "I got a job in Sierra Leone and I've been here for nine months."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "They pay my rent, but basically I'm working for nothing."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "It's the best thing I've ever done!"
+          },
+          {
+            "speaker": "Jerome",
+            "text": "People here live in very difficult circumstances, but have a really positive attitude."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "Now, I'm doing some training with local doctors and advising them how to improve services."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "My contract ends in three months, but I'm planning to stay here for another year, if I can."
+          }
+        ]
+      },
+      {
+        "title": "1-5. Speaker 3",
+        "label": "Sulochana: Housewives' Rights",
+        "script": [
+          {
+            "speaker": "Sulochana",
+            "text": "I belong to an organisation that's fighting for the rights of housewives in Kerala, in the south-west of India."
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "We're hoping to make the government pay us a salary and a pension for the work we do in the home."
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "Something similar is already happening in Venezuela."
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "Women play an important part in building the nation. Without mothers and wives at home, how can men work?"
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "But men don't appreciate this and that's why we're organising ourselves."
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "We're planning to start a website to tell more people about our situation"
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "and if we don't get what we want, we're thinking of stopping work and going on strike."
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "Let's see how men survive without our help then!"
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. 会話1",
+        "label": "仕事と出張",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "それで、お仕事は何をされているんですか？まだ聞いていませんでしたね。"
+          },
+          {
+            "speaker": "B",
+            "text": "エンジニアです。"
+          },
+          {
+            "speaker": "A",
+            "text": "そうなんですね。どこでお勤めなんですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "私が働いている会社はロンドンに本社があるんですが、かなりあちこち出張します。"
+          },
+          {
+            "speaker": "B",
+            "text": "今は実際にスコットランド、グラスゴーで働いています。"
+          },
+          {
+            "speaker": "B",
+            "text": "そこに新しいスタジアムを建設していて、それに携わっているんです。"
+          },
+          {
+            "speaker": "A",
+            "text": "そうなんですね。では、どこに住んでいるんですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "ロンドンですが、グラスゴーにいる間はアパートを借りています。"
+          },
+          {
+            "speaker": "B",
+            "text": "できるだけ2週間に一度はロンドンに戻ってくるようにしています。"
+          },
+          {
+            "speaker": "A",
+            "text": "お仕事は楽しいですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "ええ、とてもいいですよ。出張は全く気になりませんし、給料も良いですし、それにお金を使う時間もあまりないんです！"
+          },
+          {
+            "speaker": "A",
+            "text": "そうなんですか？労働時間はどのような感じですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "そうですね、ハードに働いています。週60時間働くこともよくあります。"
+          },
+          {
+            "speaker": "A",
+            "text": "本当ですか？それは大変ですね。"
+          },
+          {
+            "speaker": "B",
+            "text": "ええ、でも大丈夫です。一緒に働く人たちとは本当に仲良くやっていますから。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. 会話2",
+        "label": "仕事と勉強",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "それで、お仕事は何をされているんですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "私は韓国の小さな会社で働いていますが、実は今は学生なんです。"
+          },
+          {
+            "speaker": "A",
+            "text": "ああ、そうなんですね。何を勉強しているんですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "マーケティングの修士号を取っているところです。"
+          },
+          {
+            "speaker": "A",
+            "text": "それが会社での仕事なんですか？マーケティングですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "はい、だいたいそうです。"
+          },
+          {
+            "speaker": "A",
+            "text": "では、その会社でどのくらい働いているんですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "約2年です。"
+          },
+          {
+            "speaker": "A",
+            "text": "たった2年で海外留学させてくれるなんて、それは素晴らしいですね！"
+          },
+          {
+            "speaker": "B",
+            "text": "ええ。実は、父が会社を経営していて、私にマーケティングマネージャーになってほしいと思っているんです。"
+          },
+          {
+            "speaker": "A",
+            "text": "ああ、なるほど、そういうことですか。では、一緒に働く他の人たちとはうまくやっていますか？上司の娘というのは難しいですか？"
+          },
+          {
+            "speaker": "B",
+            "text": "時々、少しだけ大変なこともあります。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. スピーカー1",
+        "label": "クラウディア：仕事経験",
+        "script": [
+          {
+            "speaker": "クラウディア",
+            "text": "私は2年前にドイツでメディア研究の学位を取得して卒業しました。"
+          },
+          {
+            "speaker": "クラウディア",
+            "text": "その後、映画やテレビの仕事に応募しました。"
+          },
+          {
+            "speaker": "クラウディア",
+            "text": "競争率の高い分野だとは分かっていましたが、面接すら一つも受けられなかったので、本当に落ち込みました。"
+          },
+          {
+            "speaker": "クラウディア",
+            "text": "誰もが職務経験を求めていましたが、誰も仕事をくれなければ、どうやって経験を積めばいいのでしょうか？"
+          },
+          {
+            "speaker": "クラウディア",
+            "text": "結局、私はPR会社で無給の仕事をしました。"
+          },
+          {
+            "speaker": "クラウディア",
+            "text": "最初はそれが大嫌いでした。人のためにコーヒーを入れたり、コピーを取ったりする退屈な仕事ばかりでした。"
+          },
+          {
+            "speaker": "クラウディア",
+            "text": "しかし最近は、もっと面白い仕事をするようになりました。"
+          },
+          {
+            "speaker": "クラウディア",
+            "text": "今は、あるドイツ映画の宣伝を手伝っています。"
+          },
+          {
+            "speaker": "クラウディア",
+            "text": "無料で働くのは嬉しくありませんし、会社が自分を搾取していると感じることもあります。"
+          },
+          {
+            "speaker": "クラウディア",
+            "text": "もしすぐに有給の仕事を提供してくれなければ、別の仕事を探し始めるつもりです！"
+          }
+        ]
+      },
+      {
+        "title": "1-4. スピーカー2",
+        "label": "ジェローム：ボランティア活動",
+        "script": [
+          {
+            "speaker": "ジェローム",
+            "text": "私はスイスの小さな町で30年近く医者として働き、5年前に退職しました。"
+          },
+          {
+            "speaker": "ジェローム",
+            "text": "最初は退職生活を楽しんでいましたが、すぐに退屈してしまいました。"
+          },
+          {
+            "speaker": "ジェローム",
+            "text": "海外ボランティアの広告を見て、応募しました。"
+          },
+          {
+            "speaker": "ジェローム",
+            "text": "シエラレオネでの仕事を得て、ここに来て9ヶ月になります。"
+          },
+          {
+            "speaker": "ジェローム",
+            "text": "家賃は支払われますが、基本的には無給で働いています。"
+          },
+          {
+            "speaker": "ジェローム",
+            "text": "それは私がこれまでにやった中で最高のことです！"
+          },
+          {
+            "speaker": "ジェローム",
+            "text": "ここの人々は非常に困難な状況に暮らしていますが、本当に前向きな態度を持っています。"
+          },
+          {
+            "speaker": "ジェローム",
+            "text": "今は、現地の医師たちを訓練し、サービスを改善する方法をアドバイスしています。"
+          },
+          {
+            "speaker": "ジェローム",
+            "text": "契約はあと3ヶ月で終了しますが、できればあと1年ここに滞在するつもりです。"
+          }
+        ]
+      },
+      {
+        "title": "1-5. スピーカー3",
+        "label": "スロチャナ：主婦の権利",
+        "script": [
+          {
+            "speaker": "スロチャナ",
+            "text": "私は、インド南西部のケララ州で主婦の権利のために戦っている組織に所属しています。"
+          },
+          {
+            "speaker": "スロチャナ",
+            "text": "私たちは、家庭で行う仕事に対して、政府が給与と年金を支払うようにしてもらうことを目指しています。"
+          },
+          {
+            "speaker": "スロチャナ",
+            "text": "同様のことは、すでにベネズエラで起こっています。"
+          },
+          {
+            "speaker": "スロチャナ",
+            "text": "女性は国家建設において重要な役割を果たしています。家に母親や妻がいなければ、男性はどうやって働けるでしょうか？"
+          },
+          {
+            "speaker": "スロチャナ",
+            "text": "しかし、男性はこのことを理解しておらず、だから私たちは団結しているのです。"
+          },
+          {
+            "speaker": "スロチャナ",
+            "text": "私たちはウェブサイトを立ち上げ、自分たちの状況をより多くの人に伝える計画です。"
+          },
+          {
+            "speaker": "スロチャナ",
+            "text": "そして、望むものが得られなければ、仕事をやめてストライキに入ることも考えています。"
+          },
+          {
+            "speaker": "スロチャナ",
+            "text": "それでは、男性たちが私たちの助けなしでどうやって生き延びるか、見てみましょう！"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Conversation 1",
+        "label": "Travail et déplacements",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Alors, qu'est-ce que vous faites dans la vie ? Vous ne me l'avez pas dit."
+          },
+          {
+            "speaker": "B",
+            "text": "Je suis ingénieur."
+          },
+          {
+            "speaker": "A",
+            "text": "D'accord. Où travaillez-vous ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Eh bien, l'entreprise pour laquelle je travaille est basée à Londres, mais je me déplace pas mal."
+          },
+          {
+            "speaker": "B",
+            "text": "En ce moment, je travaille en Écosse - à Glasgow."
+          },
+          {
+            "speaker": "B",
+            "text": "Ils construisent un nouveau stade là-bas et je travaille dessus."
+          },
+          {
+            "speaker": "A",
+            "text": "Vraiment ? Où habitez-vous alors ?"
+          },
+          {
+            "speaker": "B",
+            "text": "À Londres, mais je loue un appartement à Glasgow pendant que j'y suis."
+          },
+          {
+            "speaker": "B",
+            "text": "En général, je descends à Londres toutes les deux semaines si je peux."
+          },
+          {
+            "speaker": "A",
+            "text": "Et vous aimez ça ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, c'est génial. Les déplacements ne me dérangent pas vraiment, l'argent est bon et je n'ai pas vraiment beaucoup de temps pour le dépenser !"
+          },
+          {
+            "speaker": "A",
+            "text": "Vraiment ? Les horaires sont comment ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Oh, je travaille dur. Je fais souvent une semaine de 60 heures."
+          },
+          {
+            "speaker": "A",
+            "text": "Vraiment ? C'est beaucoup."
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, mais ça va, et je m'entends très bien avec les autres personnes avec qui je travaille."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Conversation 2",
+        "label": "Travail et études",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Alors, qu'est-ce que vous faites ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Eh bien, je travaille pour une petite entreprise en Corée, mais en fait je suis étudiant en ce moment."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, d'accord. Qu'est-ce que vous étudiez ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Je fais un master en marketing."
+          },
+          {
+            "speaker": "A",
+            "text": "C'est ce que vous faites dans votre entreprise ? Le marketing ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, plus ou moins."
+          },
+          {
+            "speaker": "A",
+            "text": "Alors, depuis combien de temps travaillez-vous pour eux ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Environ deux ans."
+          },
+          {
+            "speaker": "A",
+            "text": "Seulement deux ans et ils vous envoient étudier à l'étranger ? C'est fantastique !"
+          },
+          {
+            "speaker": "B",
+            "text": "Oui. En fait, mon père dirige l'entreprise et il veut que je devienne le responsable marketing."
+          },
+          {
+            "speaker": "A",
+            "text": "Ah d'accord, je vois. Alors, comment vous entendez-vous avec les autres personnes avec qui vous travaillez ? Est-ce difficile d'être la fille du patron ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Peut-être un petit peu parfois."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Intervenant 1",
+        "label": "Claudia : Expérience professionnelle",
+        "script": [
+          {
+            "speaker": "Claudia",
+            "text": "J'ai été diplômée en Allemagne il y a deux ans avec un diplôme en études médiatiques"
+          },
+          {
+            "speaker": "Claudia",
+            "text": "et après cela, j'ai postulé à des emplois dans le cinéma et la télévision."
+          },
+          {
+            "speaker": "Claudia",
+            "text": "Je sais que c'est un domaine compétitif, mais c'était déprimant, parce que je n'ai pas eu un seul entretien !"
+          },
+          {
+            "speaker": "Claudia",
+            "text": "Tout le monde voulait que j'aie de l'expérience professionnelle, mais comment peut-on acquérir de l'expérience si personne ne vous donne d'emploi ?"
+          },
+          {
+            "speaker": "Claudia",
+            "text": "Finalement, j'ai accepté un travail non rémunéré dans une entreprise de relations publiques."
+          },
+          {
+            "speaker": "Claudia",
+            "text": "Au début, je détestais ça. Je ne faisais que des tâches ennuyeuses comme préparer du café pour les gens et faire des photocopies,"
+          },
+          {
+            "speaker": "Claudia",
+            "text": "mais récemment, j'ai commencé à faire des choses plus intéressantes."
+          },
+          {
+            "speaker": "Claudia",
+            "text": "En ce moment, j'aide à faire la publicité d'un film allemand."
+          },
+          {
+            "speaker": "Claudia",
+            "text": "Je ne suis pas heureuse de travailler sans argent, et parfois je pense que l'entreprise m'exploite."
+          },
+          {
+            "speaker": "Claudia",
+            "text": "S'ils ne me proposent pas bientôt un emploi rémunéré, je vais commencer à chercher autre chose !"
+          }
+        ]
+      },
+      {
+        "title": "1-4. Intervenant 2",
+        "label": "Jerome : Bénévolat",
+        "script": [
+          {
+            "speaker": "Jerome",
+            "text": "J'ai travaillé comme médecin dans une petite ville en Suisse pendant presque trente ans et j'ai pris ma retraite il y a cinq ans."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "Au début, j'appréciais, mais je me suis vite ennuyé."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "J'ai vu une annonce pour le Service Volontaire à l'Étranger et j'ai postulé."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "J'ai obtenu un emploi en Sierra Leone et je suis ici depuis neuf mois."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "Ils paient mon loyer, mais essentiellement, je travaille pour rien."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "C'est la meilleure chose que j'aie jamais faite !"
+          },
+          {
+            "speaker": "Jerome",
+            "text": "Les gens ici vivent dans des circonstances très difficiles, mais ont une attitude vraiment positive."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "Maintenant, je fais de la formation avec des médecins locaux et je les conseille sur la façon d'améliorer les services."
+          },
+          {
+            "speaker": "Jerome",
+            "text": "Mon contrat se termine dans trois mois, mais je prévois de rester ici encore un an, si je peux."
+          }
+        ]
+      },
+      {
+        "title": "1-5. Intervenant 3",
+        "label": "Sulochana : Droits des femmes au foyer",
+        "script": [
+          {
+            "speaker": "Sulochana",
+            "text": "J'appartiens à une organisation qui lutte pour les droits des femmes au foyer au Kerala, dans le sud-ouest de l'Inde."
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "Nous espérons amener le gouvernement à nous payer un salaire et une pension pour le travail que nous faisons à la maison."
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "Quelque chose de similaire se produit déjà au Venezuela."
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "Les femmes jouent un rôle important dans la construction de la nation. Sans mères et épouses à la maison, comment les hommes peuvent-ils travailler ?"
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "Mais les hommes n'apprécient pas cela et c'est pourquoi nous nous organisons."
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "Nous prévoyons de créer un site web pour informer plus de gens de notre situation"
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "et si nous n'obtenons pas ce que nous voulons, nous envisageons d'arrêter le travail et de faire la grève."
+          },
+          {
+            "speaker": "Sulochana",
+            "text": "Nous verrons alors comment les hommes survivront sans notre aide !"
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 대화 1",
+        "label": "일과 출장",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "그래서, 무슨 일을 하세요? 아직 말씀 안 해주셨네요."
+          },
+          {
+            "speaker": "B",
+            "text": "저는 엔지니어예요."
+          },
+          {
+            "speaker": "A",
+            "text": "그렇군요. 어디서 일하세요?"
+          },
+          {
+            "speaker": "B",
+            "text": "제가 일하는 회사는 런던에 본사가 있지만, 출장을 꽤 많이 다녀요."
+          },
+          {
+            "speaker": "B",
+            "text": "지금은 실제로 스코틀랜드 글래스고에서 일하고 있어요."
+          },
+          {
+            "speaker": "B",
+            "text": "거기에 새 경기장을 짓고 있는데, 그 일을 맡고 있거든요."
+          },
+          {
+            "speaker": "A",
+            "text": "정말요? 그럼 어디 사세요?"
+          },
+          {
+            "speaker": "B",
+            "text": "런던이요. 하지만 글래스고에 있는 동안은 아파트를 빌려 살고 있어요."
+          },
+          {
+            "speaker": "B",
+            "text": "가능하면 2주에 한 번씩 런던에 내려와요."
+          },
+          {
+            "speaker": "A",
+            "text": "일 즐기세요?"
+          },
+          {
+            "speaker": "B",
+            "text": "네, 좋아요. 출장은 전혀 신경 쓰이지 않고, 월급도 좋고, 쓸 시간도 별로 없어요!"
+          },
+          {
+            "speaker": "A",
+            "text": "정말요? 근무 시간은 어떤가요?"
+          },
+          {
+            "speaker": "B",
+            "text": "음, 열심히 일해요. 자주 주 60시간씩 일하기도 해요."
+          },
+          {
+            "speaker": "A",
+            "text": "정말요? 그건 많네요."
+          },
+          {
+            "speaker": "B",
+            "text": "네, 하지만 괜찮아요. 함께 일하는 사람들과 정말 잘 지내거든요."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 대화 2",
+        "label": "일과 공부",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "그래서, 무슨 일을 하세요?"
+          },
+          {
+            "speaker": "B",
+            "text": "음, 저는 한국에 있는 작은 회사에서 일해요. 하지만 지금은 사실 학생이에요."
+          },
+          {
+            "speaker": "A",
+            "text": "아, 네. 무슨 공부를 하세요?"
+          },
+          {
+            "speaker": "B",
+            "text": "마케팅 석사 과정을 밟고 있어요."
+          },
+          {
+            "speaker": "A",
+            "text": "그게 회사에서 하는 일인가요? 마케팅?"
+          },
+          {
+            "speaker": "B",
+            "text": "네, 거의 그렇죠."
+          },
+          {
+            "speaker": "A",
+            "text": "그럼, 그 회사에서 얼마나 일했어요?"
+          },
+          {
+            "speaker": "B",
+            "text": "약 2년 정도요."
+          },
+          {
+            "speaker": "A",
+            "text": "겨우 2년 만에 해외로 유학 보내 주다니? 정말 대단하네요!"
+          },
+          {
+            "speaker": "B",
+            "text": "네. 사실, 아버지가 회사를 운영하시는데, 제가 마케팅 매니저가 되길 바라세요."
+          },
+          {
+            "speaker": "A",
+            "text": "아, 그렇군요, 알겠어요. 그럼 함께 일하는 다른 사람들과는 잘 지내요? 사장님 딸이라는 게 어렵지 않아요?"
+          },
+          {
+            "speaker": "B",
+            "text": "가끔 조금 그럴 때도 있어요."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 화자 1",
+        "label": "클라우디아: 직장 경험",
+        "script": [
+          {
+            "speaker": "클라우디아",
+            "text": "저는 2년 전 독일에서 미디어 학위를 받고 졸업했어요."
+          },
+          {
+            "speaker": "클라우디아",
+            "text": "그리고 나서 영화와 텔레비전 분야 일자리에 지원했죠."
+          },
+          {
+            "speaker": "클라우디아",
+            "text": "경쟁이 치열한 분야라는 건 알지만, 면접 하나도 보지 못해서 정말 우울했어요!"
+          },
+          {
+            "speaker": "클라우디아",
+            "text": "모든 곳에서 경력 경험을 요구했지만, 아무도 일자리를 안 주면 어떻게 경험을 쌓을 수 있나요?"
+          },
+          {
+            "speaker": "클라우디아",
+            "text": "결국, 저는 PR 회사에서 무급으로 일하게 되었어요."
+          },
+          {
+            "speaker": "클라우디아",
+            "text": "처음에는 정말 싫었어요. 사람들 커피 타주고, 복사하는 지루한 일만 했거든요."
+          },
+          {
+            "speaker": "클라우디아",
+            "text": "하지만 최근에는 좀 더 재미있는 일들을 하기 시작했어요."
+          },
+          {
+            "speaker": "클라우디아",
+            "text": "지금은 독일 영화 하나를 홍보하는 일을 돕고 있어요."
+          },
+          {
+            "speaker": "클라우디아",
+            "text": "돈도 없이 일하는 게 좋지는 않고, 때로는 회사가 절 착취하는 것 같다고 느껴져요."
+          },
+          {
+            "speaker": "클라우디아",
+            "text": "제가 유급 일자리를 제안받지 못하면, 곧바로 다른 곳을 알아볼 거예요!"
+          }
+        ]
+      },
+      {
+        "title": "1-4. 화자 2",
+        "label": "제롬: 자원봉사 활동",
+        "script": [
+          {
+            "speaker": "제롬",
+            "text": "저는 스위스의 작은 마을에서 거의 30년 동안 의사로 일하다가 5년 전에 은퇴했어요."
+          },
+          {
+            "speaker": "제롬",
+            "text": "처음에는 좋았는데, 곧 지루해지기 시작했어요."
+          },
+          {
+            "speaker": "제롬",
+            "text": "해외 자원봉사 광고를 보고 지원했죠."
+          },
+          {
+            "speaker": "제롬",
+            "text": "시에라리온에서 일자리를 얻었고, 여기 온 지 9개월 됐어요."
+          },
+          {
+            "speaker": "제롬",
+            "text": "집세는 내 주지만, 기본적으로 저는 무료로 일하고 있어요."
+          },
+          {
+            "speaker": "제롬",
+            "text": "제가 해본 일 중 최고예요!"
+          },
+          {
+            "speaker": "제롬",
+            "text": "여기 사람들은 아주 어려운 환경에서 살지만, 정말 긍정적인 태도를 가지고 있어요."
+          },
+          {
+            "speaker": "제롬",
+            "text": "지금은 지역 의사들을 교육하고, 서비스를 개선하는 방법에 대해 조언하고 있어요."
+          },
+          {
+            "speaker": "제롬",
+            "text": "계약은 3개월 후에 끝나지만, 가능하면 1년 더 여기 머물 계획이에요."
+          }
+        ]
+      },
+      {
+        "title": "1-5. 화자 3",
+        "label": "술로차나: 주부의 권리",
+        "script": [
+          {
+            "speaker": "술로차나",
+            "text": "저는 인도 남서부 케랄라 지역에서 주부의 권리를 위해 싸우는 단체에 소속되어 있어요."
+          },
+          {
+            "speaker": "술로차나",
+            "text": "우리가 집에서 하는 일에 대해 정부가 월급과 연금을 지급하도록 하는 게 목표예요."
+          },
+          {
+            "speaker": "술로차나",
+            "text": "비슷한 일이 이미 베네수엘라에서는 일어나고 있어요."
+          },
+          {
+            "speaker": "술로차나",
+            "text": "여성은 국가 발전에 중요한 역할을 합니다. 집에 엄마나 아내가 없으면, 남편들은 어떻게 일하겠어요?"
+          },
+          {
+            "speaker": "술로차나",
+            "text": "하지만 남성들은 이를 인정하지 않으니까, 우리가 스스로 조직하고 있는 거예요."
+          },
+          {
+            "speaker": "술로차나",
+            "text": "저희는 웹사이트를 만들어 더 많은 사람들에게 우리 상황을 알릴 계획이에요."
+          },
+          {
+            "speaker": "술로차나",
+            "text": "그리고 우리가 원하는 걸 얻지 못하면, 일을 멈추고 파업에 들어가는 것도 생각하고 있어요."
+          },
+          {
+            "speaker": "술로차나",
+            "text": "그럼 남성들이 우리 도움 없이 어떻게 살아남는지 한번 보죠!"
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "THE SHREDDER DISASTER",
+    "ja": "シュレッダーの大惨事",
+    "fr": "LA CATASTROPHE DU DÉCHIQUETEUR",
+    "ko": "분쇄기 대참사"
+  },
+  "extra_reading_html": {
+    "en": "<p>Hey Sandra,</p><p>The latest news from the office:</p><p>You're still not here, of course – very empty desk next to mine. 🙂 Really hope you get better soon. I'm missing having someone to chat to.</p><p>Marian is still enemy number one. Awful – more later. 😠 Today's fashion from Jilly: a huge, loose pink jersey which is big enough to camp in! Then, tight brown jeans with grey boots. Strange flower thing in her hair. 🙄 Rick spoke today: 😮 his first words so far this year, I think, apart from the usual sighs and nervous laughter while he does things to his computer. The words were 'coffee's rubbish'. I'm not sure whether this was a comment on the coffee I was making or general health advice. Anyway, I think you'll agree, it shows his communication skills are improving!!!</p><p>Ugly Boss: He's still useless and ugly – obviously. The hair from his nose is now about 3cm long. 😲 He's also angry with me – more later. Harry really is very attractive, but my hopes of finding love with him are disappearing fast. We were in a meeting together – Marian was presenting some figures for her marketing proposal. It was all very efficient and very boring as always and I was just thinking how Harry looked very smart – he was wearing a really nice new suit – when suddenly Ugly Boss asked me something. In fact, it's possible he asked me something two or three times. He certainly was quite angry and BOTH Marian and Harry looked happy about it. I stayed late to try and look a bit more serious – and found this great website. Check out this link – so cute! lol.<br><u>https://www.funnies.com/work# officedogs1110/gh6 85rt</u></p><p>I was leaving when I saw Ugly Boss standing next to the shredder. He looked very stressed and I saw a chance to impress him. I asked if there was anything I could do. 'I can't see how this works', he said. 'No problem,' I replied as I took his papers. 'You just put them in here and press this button and there you go.' 'Excellent,' he said. 'Could you do two copies for me? I need one for my boss and one for the client.' 😲 I said I'd leave them on his desk! What am I going to do?!<br><br>Annie</p>",
+    "ja": "<p>やあサンドラ、</p><p>オフィスの最新ニュース：</p><p>もちろん、あなたはまだここにいないよね – 私の隣のデスクはとても空いている。🙄 早く良くなるといいね。話し相手がいなくて寂しいよ。</p><p>マリアンはまだ敵ナンバーワンだ。ひどい – 詳細は後で。😠 今日のジリーのファッション：キャンプできるくらい大きなゆるいピンクのセーター！それに、グレーのブーツにタイトなブラウンのジーンズ。髪には奇妙な花の飾り。🙄 リックが今日話した：😮 いつものため息やパソコンをいじりながらの神経質な笑い声を除けば、今年に入って初めての言葉だと思う。その言葉は「コーヒーはゴミだ」。これが私が入れていたコーヒーへのコメントなのか、一般的な健康アドバイスなのかはわからない。とにかく、これで彼のコミュニケーション能力が向上していることがわかると思う！</p><p>醜い上司：彼はまだ役立たずで醜い – もちろん。鼻の毛はもう3cmくらいになっている。😲 彼は私にも怒っている – 詳細は後で。ハリーは本当に魅力的だけど、彼との恋愛の望みは急速に消えつつある。一緒に会議に出席していた – マリアンがマーケティング提案の数字を発表していた。いつものようにとても効率的でとても退屈で、私はハリーがとてもスマートに見えること – 彼は本当に素敵な新しいスーツを着ていた – を考えていたら、突然醜い上司が私に何か質問した。実際、彼は2、3回質問したかもしれない。彼は確かにかなり怒っていて、マリアンとハリーの両方がそれを喜んでいるように見えた。私はもっと真面目に見えるように遅くまで残った – そしてこの素晴らしいウェブサイトを見つけた。このリンクを見て – とても可愛い！笑。<br><u>https://www.funnies.com/work# officedogs1110/gh6 85rt</u></p><p>帰ろうとしたら、醜い上司がシュレッダーのそばに立っていた。彼はとてもストレスが溜まっているように見え、私は彼に良い印象を与えるチャンスだと思った。何かできることはありますかと尋ねた。「これがどう動くかわからないんだ」と彼は言った。「問題ありません」と私は彼の書類を受け取りながら答えた。「ここに入れてこのボタンを押すだけです。はい、できました。」「素晴らしい」と彼は言った。「コピーを2部取ってくれないか？上司用とクライアント用に1部ずつ必要なんだ。」😲 私は彼の机に置いておきますと言った！どうしよう？！<br><br>アニーより</p>",
+    "fr": "<p>Hé Sandra,</p><p>Les dernières nouvelles du bureau :</p><p>Tu n'es toujours pas là, bien sûr – un bureau très vide à côté du mien. 🙂 J'espère vraiment que tu iras mieux bientôt. Tu me manques pour discuter.</p><p>Marian est toujours l'ennemi numéro un. Affreuse – plus de détails plus tard. 😠 La mode d'aujourd'hui selon Jilly : un énorme pull rose lâche assez grand pour camper dessus ! Ensuite, un jean marron serré avec des bottes grises. Un truc de fleur bizarre dans ses cheveux. 🙄 Rick a parlé aujourd'hui : 😮 ses premiers mots de l'année jusqu'à présent, je pense, à part les soupirs habituels et les rires nerveux pendant qu'il fait des trucs sur son ordinateur. Les mots étaient « le café est nul ». Je ne sais pas si c'était un commentaire sur le café que je préparais ou un conseil général sur la santé. Quoi qu'il en soit, je pense que vous serez d'accord, cela montre que ses compétences en communication s'améliorent !!!</p><p>Moche Patron : Il est toujours inutile et moche – évidemment. Les poils de son nez mesurent maintenant environ 3 cm. 😲 Il est aussi en colère contre moi – plus de détails plus tard. Harry est vraiment très attirant, mais mes espoirs de trouver l'amour avec lui disparaissent rapidement. Nous étions dans une réunion ensemble – Marian présentait des chiffres pour sa proposition marketing. C'était très efficace et très ennuyeux comme toujours et je pensais justement à quel point Harry avait l'air très intelligent – il portait un très beau nouveau costume – quand soudain Moche Patron m'a posé une question. En fait, il est possible qu'il m'ait posé une question deux ou trois fois. Il était certainement assez en colère et Marian ET Harry avaient tous les deux l'air contents de cela. Je suis restée tard pour essayer d'avoir l'air un peu plus sérieuse – et j'ai trouvé ce super site web. Regardez ce lien – trop mignon ! lol.<br><u>https://www.funnies.com/work# officedogs1110/gh6 85rt</u></p><p>J'étais sur le point de partir quand j'ai vu Moche Patron debout à côté du déchiqueteur. Il avait l'air très stressé et j'ai vu une chance de l'impressionner. J'ai demandé s'il y avait quelque chose que je pouvais faire. « Je ne vois pas comment cela fonctionne », a-t-il dit. « Pas de problème », ai-je répondu en prenant ses papiers. « Il suffit de les mettre ici et d'appuyer sur ce bouton et voilà. » « Excellent », a-t-il dit. « Pourriez-vous m'en faire deux copies ? J'en ai besoin d'une pour mon patron et d'une pour le client. » 😲 J'ai dit que je les laisserais sur son bureau ! Qu'est-ce que je vais faire ?!<br><br>Annie</p>",
+    "ko": "<p>샌드라에게,</p><p>사무실 소식 전해요:</p><p>당연히 당신은 아직 여기 없네요 – 제 옆자리가 너무 비어 있어요. 🙂 빨리 나았으면 좋겠어요. 얘기할 사람이 없어서 보고 싶네요.</p><p>마리안은 여전히 1순위 적이에요. 끔찍해 – 자세한 건 나중에. 😠 오늘 질리의 패션: 캠핑을 할 수 있을 정도로 큰 루즈한 핑크색 니트! 그리고 회색 부츠에 꽉 끼는 갈색 청바지. 머리에는 이상한 꽃 장식. 🙄 릭이 오늘 말했어요: 😮 평소의 한숨과 컴퓨터 만지작거리면서 내는 신경질적인 웃음을 제외하면 올해 들어 처음 한 말인 것 같아요. 그 말은 '커피가 쓰레기야'였어요. 제가 타고 있던 커피에 대한 코멘트인지 일반적인 건강 조언인지 잘 모르겠어요. 어쨌든, 당신도 동의할 것 같은데, 그의 의사소통 능력이 향상되고 있다는 증거예요!!!</p><p>못생긴 상사: 그는 여전히 무능력하고 못생겼어요 – 당연히. 코털은 이제 약 3cm나 됐어요. 😲 저에게도 화가 나 있고 – 자세한 건 나중에. 해리는 정말 매력적이지만, 그와 사랑을 찾을 수 있다는 제 희망은 빠르게 사라지고 있어요. 우리 같이 회의 중이었는데 – 마리안이 마케팅 제안서를 위해 숫자들을 발표하고 있었어요. 언제나처럼 매우 효율적이고 매우 지루했고, 저는 해리가 정말 멋져 보인다는 생각을 하고 있었는데 – 정말 멋진 새 양복을 입고 있었거든요 – 갑자기 못생긴 상사가 저에게 질문을 했어요. 사실, 그는 두세 번 질문했을 수도 있어요. 그는 확실히 꽤 화가 났고 마리안과 해리 모두 그걸 기뻐하는 것처럼 보였어요. 좀 더 진지해 보이려고 늦게까지 남아 있었어요 – 그리고 이 멋진 웹사이트를 찾았어요. 이 링크 좀 봐 – 너무 귀여워! ㅋㅋㅋ.<br><u>https://www.funnies.com/work# officedogs1110/gh6 85rt</u></p><p>퇴근하려는데 못생긴 상사가 분쇄기 옆에 서 있는 걸 봤어요. 그가 매우 스트레스를 받은 것처럼 보여서 제가 좋은 인상을 줄 기회라고 생각했어요. 제가 할 수 있는 일이 있냐고 물었죠. '이게 어떻게 작동하는지 모르겠어'라고 그가 말했어요. '문제없어요'라고 제가 그의 서류를 받아들며 대답했어요. '여기에 넣고 이 버튼만 누르면 돼요. 그럼 끝이에요.' '훌륭해'라고 그가 말했어요. '나를 위해 두 부를 복사해 줄 수 있나? 상사님 한 부와 클라이언트 한 부가 필요해.' 😲 책상 위에 올려드리겠다고 말했어요! 어떻게 하죠?!<br><br>애니가</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Annie misses having Sandra at the office to talk to.",
+        "correct": "T",
+        "explanation": "True (She says she is missing having someone to chat to.)"
+      },
+      {
+        "question": "Rick spoke a lot during the office meeting.",
+        "correct": "F",
+        "explanation": "False (The only words he said were coffee's rubbish.)"
+      },
+      {
+        "question": "Annie was distracted in the meeting because she was looking at Harry.",
+        "correct": "T",
+        "explanation": "True (She was thinking how smart Harry looked in his suit.)"
+      },
+      {
+        "question": "The boss knew exactly how to use the machine.",
+        "correct": "F",
+        "explanation": "False (He said, I can't see how this works.)"
+      },
+      {
+        "question": "Annie accidentally put the boss's papers into the shredder.",
+        "correct": "T",
+        "explanation": "True (The machine was a shredder, but the boss wanted copies.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "アニーはサンドラがオフィスにいて話し相手がいなくて寂しい。",
+        "correct": "T",
+        "explanation": "真 (彼女は話し相手がいなくて寂しいと言っています。)"
+      },
+      {
+        "question": "リックは会議中によく話した。",
+        "correct": "F",
+        "explanation": "偽 (彼が言った唯一の言葉は「コーヒーはゴミだ」だけでした。)"
+      },
+      {
+        "question": "アニーはハリーを見ていたため会議中に気が散った。",
+        "correct": "T",
+        "explanation": "真 (彼女はハリーがスーツを着ていかにスマートに見えるかを考えていました。)"
+      },
+      {
+        "question": "上司はその機械の使い方を正確に知っていた。",
+        "correct": "F",
+        "explanation": "偽 (彼は「これがどう動くかわからない」と言いました。)"
+      },
+      {
+        "question": "アニーは誤って上司の書類をシュレッダーに入れてしまった。",
+        "correct": "T",
+        "explanation": "真 (その機械はシュレッダーでしたが、上司はコピーを希望していました。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Annie regrette que Sandra ne soit pas au bureau pour discuter.",
+        "correct": "T",
+        "explanation": "Vrai (Elle dit qu'elle regrette de ne pas avoir quelqu'un à qui parler.)"
+      },
+      {
+        "question": "Rick a beaucoup parlé pendant la réunion de bureau.",
+        "correct": "F",
+        "explanation": "Faux (Les seuls mots qu'il a dit étaient « le café est nul ».)"
+      },
+      {
+        "question": "Annie était distraite pendant la réunion parce qu'elle regardait Harry.",
+        "correct": "T",
+        "explanation": "Vrai (Elle pensait à quel point Harry avait l'air intelligent dans son costume.)"
+      },
+      {
+        "question": "Le patron savait exactement comment utiliser la machine.",
+        "correct": "F",
+        "explanation": "Faux (Il a dit : « Je ne vois pas comment cela fonctionne. »)"
+      },
+      {
+        "question": "Annie a accidentellement mis les papiers du patron dans le déchiqueteur.",
+        "correct": "T",
+        "explanation": "Vrai (La machine était un déchiqueteur, mais le patron voulait des copies.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "애니는 함께 얘기할 샌드라가 사무실에 없는 것이 보고 싶다.",
+        "correct": "T",
+        "explanation": "참 (그녀는 얘기할 사람이 없어서 보고 싶다고 말합니다.)"
+      },
+      {
+        "question": "릭은 회의 중에 많이 말했다.",
+        "correct": "F",
+        "explanation": "거짓 (그가 말한 유일한 말은 '커피가 쓰레기야'였습니다.)"
+      },
+      {
+        "question": "애니는 해리를 보고 있어서 회의 중에 주의가 산만해졌다.",
+        "correct": "T",
+        "explanation": "참 (그녀는 해리가 양복을 입고 얼마나 멋져 보이는지 생각하고 있었습니다.)"
+      },
+      {
+        "question": "상사는 기계 사용법을 정확히 알고 있었다.",
+        "correct": "F",
+        "explanation": "거짓 (그는 '이게 어떻게 작동하는지 모르겠어'라고 말했습니다.)"
+      },
+      {
+        "question": "애니는 실수로 상사의 서류를 분쇄기에 넣었다.",
+        "correct": "T",
+        "explanation": "참 (그 기계는 분쇄기였지만, 상사는 복사를 원했습니다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "positive social environment",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "financial rewards",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "A positive social environment and financial rewards can make a demanding schedule manageable.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "presenting some boring figures",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "maintaining focus",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "While a colleague was presenting some boring figures, Annie realized that maintaining focus is a constant demand.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Engineers often value a positive social environment and financial rewards. However, in office meetings, maintaining focus can be a struggle, especially when someone is presenting some boring figures.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "prior work experience",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "working for nothing",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Graduates need prior work experience, which sometimes leads to working for nothing as a volunteer.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "improving health services",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "building the nation",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Volunteers help by improving health services, while housewives argue their work is building the nation.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Finding a job requires prior work experience, often forcing young people into working for nothing. Meanwhile, retirees find purpose in improving health services, and others claim their domestic labor is essential for building the nation.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Work is more than just financial rewards; it is about a positive social environment. Whether it's maintaining focus while a boss is presenting some boring figures or gaining prior work experience by working for nothing, everyone struggles. From improving health services abroad to building the nation at home, the search for fulfillment is universal.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "ポジティブな社会環境",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "金銭的報酬",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "ポジティブな社会環境と金銭的報酬は、過酷なスケジュールを管理可能にすることができます。",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "退屈な数字を発表する",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "集中力を維持する",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "同僚が退屈な数字を発表している間、アニーは集中力を維持することが絶え間ない要求であることに気づきました。",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "エンジニアはポジティブな社会環境と金銭的報酬を重視することがよくあります。しかし、オフィス会議では、特に誰かが退屈な数字を発表しているときに、集中力を維持することは困難な場合があります。",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "実務経験",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "無償で働く",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "卒業生には実務経験が必要であり、それが時にはボランティアとして無償で働くことにつながります。",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "医療サービスの改善",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "国家建設",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "ボランティアは医療サービスの改善を支援し、主婦は自分たちの仕事が国家建設であると主張します。",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "仕事を見つけるには実務経験が必要であり、若者はしばしば無償で働くことを余儀なくされます。一方、退職者は医療サービスの改善に目的を見出し、他の人々は家庭内労働が国家建設に不可欠であると主張します。",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "仕事は金銭的報酬以上のものです。それはポジティブな社会環境についてです。上司が退屈な数字を発表しているときに集中力を維持することであれ、無償で働くことで実務経験を得ることであれ、誰もが苦労しています。海外での医療サービス改善から家庭での国家建設まで、充実感を求める探求は普遍的です。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "environnement social positif",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "récompenses financières",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Un environnement social positif et des récompenses financières peuvent rendre un horaire exigeant gérable.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "présenter des chiffres ennuyeux",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "maintenir sa concentration",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Pendant qu'un collègue présentait des chiffres ennuyeux, Annie a réalisé que maintenir sa concentration est une exigence constante.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Les ingénieurs valorisent souvent un environnement social positif et les récompenses financières. Cependant, lors des réunions de bureau, maintenir sa concentration peut être un combat, surtout quand quelqu'un présente des chiffres ennuyeux.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "expérience professionnelle préalable",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "travailler pour rien",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Les diplômés ont besoin d'une expérience professionnelle préalable, ce qui les conduit parfois à travailler pour rien comme bénévoles.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "améliorer les services de santé",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "bâtir la nation",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Les bénévoles aident en améliorant les services de santé, tandis que les femmes au foyer soutiennent que leur travail consiste à bâtir la nation.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trouver un emploi nécessite une expérience professionnelle préalable, ce qui oblige souvent les jeunes à travailler pour rien. Pendant ce temps, les retraités trouvent un but en améliorant les services de santé, et d'autres affirment que leur travail domestique est essentiel pour bâtir la nation.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Le travail est plus que de simples récompenses financières ; il s'agit d'un environnement social positif. Qu'il s'agisse de maintenir sa concentration pendant qu'un patron présente des chiffres ennuyeux ou d'acquérir une expérience professionnelle préalable en travaillant pour rien, tout le monde lutte. De l'amélioration des services de santé à l'étranger à la construction de la nation à la maison, la recherche d'épanouissement est universelle.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "긍정적인 사회적 환경",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "금전적 보상",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "긍정적인 사회적 환경과 금전적 보상은 힘든 일정을 감당할 수 있게 만들어 줍니다.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "지루한 숫자들을 발표하는",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "집중력 유지",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "동료가 지루한 숫자들을 발표하는 동안, 애니는 집중력 유지가 끊임없는 요구 사항임을 깨달았습니다.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "엔지니어들은 종종 긍정적인 사회적 환경과 금전적 보상을 중요하게 생각합니다. 그러나 사무실 회의에서는 특히 누군가가 지루한 숫자들을 발표할 때 집중력 유지가 어려울 수 있습니다.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "사전 경력",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "무료로 일하는",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "졸업생들에게는 사전 경력이 필요하며, 이는 때로 자원봉사자로서 무료로 일하는 결과를 낳습니다.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "의료 서비스 개선",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "국가 건설",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "자원봉사자들은 의료 서비스 개선을 돕는 반면, 주부들은 자신들의 일이 국가 건설이라고 주장합니다.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "일자리를 찾으려면 사전 경력이 필요하며, 이는 종종 젊은이들을 무료로 일하는 상황으로 내몹니다. 한편, 은퇴자들은 의료 서비스 개선에서 목적을 찾고, 다른 이들은 가정 노동이 국가 건설에 필수적이라고 주장합니다.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "일은 단순한 금전적 보상 이상입니다. 그것은 긍정적인 사회적 환경에 관한 것입니다. 상사가 지루한 숫자들을 발표할 때 집중력을 유지하는 것부터 무료로 일함으로써 사전 경력을 쌓는 것까지, 모두가 어려움을 겪습니다. 해외에서 의료 서비스를 개선하는 것부터 가정에서 국가를 건설하는 것까지, 충족감을 찾는 탐구는 보편적입니다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Present Continuous vs. Present Simple (Temporary vs. Permanent)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Present Continuous</strong>: For <strong>temporary</strong> actions happening now or around now.</p><p style='margin:5px 0;'><strong>• Present Simple</strong>: For <strong>permanent</strong> states, habits, and general truths.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> 'I <span style='color:#e67e22; font-weight:bold;'>am working on</span> a project this week.'<br><i style='color:#7f8c8d;'>(Temporary action - Present Continuous)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'I <span style='color:#16a085; font-weight:bold;'>work for</span> an airline.'<br><i style='color:#7f8c8d;'>(Permanent state - Present Simple)</i></li></ul><h3>2. Expressing Future Intentions</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Be going to</strong>: Personal plans decided before speaking.</p><p style='margin:5px 0;'><strong>• Would like to / Hoping to</strong>: Desires and wishes.</p><p style='margin:5px 0;'><strong>• Planning to / Thinking of</strong>: Carefully considered future steps.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'I <span style='color:#2980b9; font-weight:bold;'>am going to</span> start a new job next month.'<br><i style='color:#7f8c8d;'>(Personal plan)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'I <span style='color:#2980b9; font-weight:bold;'>would like to</span> become a doctor.'<br><i style='color:#7f8c8d;'>(Desire/wish)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'I <span style='color:#2980b9; font-weight:bold;'>am planning to</span> study abroad next year.'<br><i style='color:#7f8c8d;'>(Considered future step)</i></li></ul><h3>3. Distinguishing Temporary vs. Permanent States</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Temporary</strong>: Use present continuous. The action has a clear end point.</p><p style='margin:5px 0;'><strong>• Permanent</strong>: Use present simple. The action is a long-term fact.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'She <span style='color:#d35400; font-weight:bold;'>is living</span> with her parents until she finds an apartment.'<br><i style='color:#7f8c8d;'>(Temporary situation)</i></li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'She <span style='color:#d35400; font-weight:bold;'>lives</span> in London.'<br><i style='color:#7f8c8d;'>(Permanent fact)</i></li></ul>",
+    "ko": "<p><em>문법 노트는 현재 영어로만 제공됩니다. 한국어 버전은 추후 추가될 예정입니다.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Work Conditions & Feelings</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: demanding, fulfillment, internal, distracted, maintaining</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Instead of focusing on the data, Annie was thinking about her colleague's new suit and became <select class='vocab-select'><option value=''>── select ──</option><option value='demanding'>demanding</option><option value='maintaining'>maintaining</option><option value='fulfillment'>fulfillment</option><option value='distracted'>distracted</option><option value='internal'>internal</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='distracted' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. The engineer finds <select class='vocab-select'><option value=''>── select ──</option><option value='distracted'>distracted</option><option value='demanding'>demanding</option><option value='fulfillment'>fulfillment</option><option value='maintaining'>maintaining</option><option value='internal'>internal</option></select> because the money is good and he enjoys his work.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='fulfillment' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. <select class='vocab-select'><option value=''>── select ──</option><option value='fulfillment'>fulfillment</option><option value='internal'>internal</option><option value='distracted'>distracted</option><option value='maintaining'>maintaining</option><option value='demanding'>demanding</option></select> focus in a busy office is a constant challenge for many workers.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='maintaining' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. A 60-hour work week is very <select class='vocab-select'><option value=''>── select ──</option><option value='maintaining'>maintaining</option><option value='distracted'>distracted</option><option value='demanding'>demanding</option><option value='internal'>internal</option><option value='fulfillment'>fulfillment</option></select> and requires a lot of energy.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='demanding' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. Annie often faces <select class='vocab-select'><option value=''>── select ──</option><option value='demanding'>demanding</option><option value='fulfillment'>fulfillment</option><option value='maintaining'>maintaining</option><option value='internal'>internal</option><option value='distracted'>distracted</option></select> challenges, such as staying focused during boring meetings.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='internal' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Work Challenges & Problems</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: constant, paradox, exploiting, voluntary, purpose</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Staying focused is a <select class='vocab-select'><option value=''>── select ──</option><option value='purpose'>purpose</option><option value='paradox'>paradox</option><option value='voluntary'>voluntary</option><option value='constant'>constant</option><option value='exploiting'>exploiting</option></select> demand in a busy office environment.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='constant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Claudia feels her company might be <select class='vocab-select'><option value=''>── select ──</option><option value='voluntary'>voluntary</option><option value='exploiting'>exploiting</option><option value='constant'>constant</option><option value='purpose'>purpose</option><option value='paradox'>paradox</option></select> her by asking her to do boring tasks without pay.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='exploiting' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. The <select class='vocab-select'><option value=''>── select ──</option><option value='exploiting'>exploiting</option><option value='constant'>constant</option><option value='paradox'>paradox</option><option value='purpose'>purpose</option><option value='voluntary'>voluntary</option></select> of needing experience to get a job but needing a job to get experience is frustrating.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='paradox' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Voluntary work can provide a sense of <select class='vocab-select'><option value=''>── select ──</option><option value='paradox'>paradox</option><option value='purpose'>purpose</option><option value='exploiting'>exploiting</option><option value='constant'>constant</option><option value='voluntary'>voluntary</option></select> that a salary cannot give.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='purpose' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. Jerome works as a <select class='vocab-select'><option value=''>── select ──</option><option value='purpose'>purpose</option><option value='constant'>constant</option><option value='exploiting'>exploiting</option><option value='voluntary'>voluntary</option><option value='paradox'>paradox</option></select> doctor in Sierra Leone, helping others without being paid.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='voluntary' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Social & Collective Action</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: collective, essential, universal, reflects, willingness</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Our <select class='vocab-select'><option value=''>── select ──</option><option value='essential'>essential</option><option value='collective'>collective</option><option value='universal'>universal</option><option value='reflects'>reflects</option><option value='willingness'>willingness</option></select> to try new foods shows how open-minded we are.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='willingness' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. What we eat <select class='vocab-select'><option value=''>── select ──</option><option value='willingness'>willingness</option><option value='universal'>universal</option><option value='collective'>collective</option><option value='essential'>essential</option><option value='reflects'>reflects</option></select> our lifestyle and personality.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='reflects' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. The work done at home by mothers and wives is <select class='vocab-select'><option value=''>── select ──</option><option value='reflects'>reflects</option><option value='willingness'>willingness</option><option value='essential'>essential</option><option value='collective'>collective</option><option value='universal'>universal</option></select> for building the nation.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='essential' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. The struggle for respect and fair treatment is a <select class='vocab-select'><option value=''>── select ──</option><option value='collective'>collective</option><option value='essential'>essential</option><option value='universal'>universal</option><option value='willingness'>willingness</option><option value='reflects'>reflects</option></select> human story that affects everyone.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='universal' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. In India, women are organising to fight for their <select class='vocab-select'><option value=''>── select ──</option><option value='universal'>universal</option><option value='willingness'>willingness</option><option value='essential'>essential</option><option value='reflects'>reflects</option><option value='collective'>collective</option></select> rights as housewives.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='collective' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Work & Life Meaning</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: demanding, fulfillment, internal, distracted, maintaining</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. When you find <select class='vocab-select'><option value=''>── select ──</option><option value='distracted'>distracted</option><option value='maintaining'>maintaining</option><option value='demanding'>demanding</option><option value='internal'>internal</option><option value='fulfillment'>fulfillment</option></select> in your work, you feel happy and useful.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='fulfillment' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. She became <select class='vocab-select'><option value=''>── select ──</option><option value='fulfillment'>fulfillment</option><option value='demanding'>demanding</option><option value='internal'>internal</option><option value='distracted'>distracted</option><option value='maintaining'>maintaining</option></select> because she was thinking about her colleague's suit instead of the meeting.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='distracted' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. A job that requires 60 hours a week is very <select class='vocab-select'><option value=''>── select ──</option><option value='internal'>internal</option><option value='maintaining'>maintaining</option><option value='fulfillment'>fulfillment</option><option value='distracted'>distracted</option><option value='demanding'>demanding</option></select> for most people.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='demanding' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. <select class='vocab-select'><option value=''>── select ──</option><option value='demanding'>demanding</option><option value='fulfillment'>fulfillment</option><option value='distracted'>distracted</option><option value='maintaining'>maintaining</option><option value='internal'>internal</option></select> focus in a busy office is not easy for many workers.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='maintaining' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. Annie struggles with <select class='vocab-select'><option value=''>── select ──</option><option value='maintaining'>maintaining</option><option value='distracted'>distracted</option><option value='fulfillment'>fulfillment</option><option value='demanding'>demanding</option><option value='internal'>internal</option></select> challenges like staying focused during boring meetings.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='internal' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ1: 仕事の条件と感情</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 過酷な, やりがい, 内部的な, 気を散らして, 維持すること</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. データに集中する代わりに、アニーは同僚の新しいスーツのことを考えていて、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='過酷な'>過酷な</option><option value='維持すること'>維持すること</option><option value='やりがい'>やりがい</option><option value='気を散らして'>気を散らして</option><option value='内部的な'>内部的な</option></select>いた。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='気を散らして' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. エンジニアは、給料が良く仕事を楽しんでいるので、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='気を散らして'>気を散らして</option><option value='過酷な'>過酷な</option><option value='やりがい'>やりがい</option><option value='維持すること'>維持すること</option><option value='内部的な'>内部的な</option></select>を感じている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='やりがい' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 忙しいオフィスで<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='やりがい'>やりがい</option><option value='内部的な'>内部的な</option><option value='気を散らして'>気を散らして</option><option value='維持すること'>維持すること</option><option value='過酷な'>過酷な</option></select>集中力は、多くの労働者にとって常に課題である。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='維持すること' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 週60時間の労働は非常に<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='維持すること'>維持すること</option><option value='気を散らして'>気を散らして</option><option value='過酷な'>過酷な</option><option value='内部的な'>内部的な</option><option value='やりがい'>やりがい</option></select>で、多くのエネルギーを必要とする。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='過酷な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. アニーは、退屈な会議中に集中力を保つなど、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='過酷な'>過酷な</option><option value='やりがい'>やりがい</option><option value='維持すること'>維持すること</option><option value='内部的な'>内部的な</option><option value='気を散らして'>気を散らして</option></select>な課題にしばしば直面する。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='内部的な' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ2: 仕事の課題と問題</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 絶え間ない, 逆説, 搾取している, ボランティア, 目的意識</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 集中力を保つことは、忙しいオフィス環境における<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='目的意識'>目的意識</option><option value='逆説'>逆説</option><option value='ボランティア'>ボランティア</option><option value='絶え間ない'>絶え間ない</option><option value='搾取している'>搾取している</option></select>要求である。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='絶え間ない' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. クラウディアは、会社が無給で退屈な仕事をさせることで自分を<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='ボランティア'>ボランティア</option><option value='搾取している'>搾取している</option><option value='絶え間ない'>絶え間ない</option><option value='目的意識'>目的意識</option><option value='逆説'>逆説</option></select>と感じている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='搾取している' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 仕事を得るために経験が必要だが、経験を得るために仕事が必要という<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='搾取している'>搾取している</option><option value='絶え間ない'>絶え間ない</option><option value='逆説'>逆説</option><option value='目的意識'>目的意識</option><option value='ボランティア'>ボランティア</option></select>は frustrating だ。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='逆説' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. ボランティア活動は、給料では得られない<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='逆説'>逆説</option><option value='目的意識'>目的意識</option><option value='搾取している'>搾取している</option><option value='絶え間ない'>絶え間ない</option><option value='ボランティア'>ボランティア</option></select>を与えてくれる。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='目的意識' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. ジェロームはシエラレオネで<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='目的意識'>目的意識</option><option value='絶え間ない'>絶え間ない</option><option value='搾取している'>搾取している</option><option value='ボランティア'>ボランティア</option><option value='逆説'>逆説</option></select>医師として働き、無償で他人を助けている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='ボランティア' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ3: 社会的・集団的活動</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 集団的, 不可欠な, 普遍的な, 反映する, 意欲</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 新しい食べ物を試そうとする私たちの<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='不可欠な'>不可欠な</option><option value='集団的'>集団的</option><option value='普遍的な'>普遍的な</option><option value='反映する'>反映する</option><option value='意欲'>意欲</option></select>は、私たちがどれだけ心が開かれているかを示す。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='意欲' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 私たちが何を食べるかは、私たちのライフスタイルや性格を<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='意欲'>意欲</option><option value='普遍的な'>普遍的な</option><option value='集団的'>集団的</option><option value='不可欠な'>不可欠な</option><option value='反映する'>反映する</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='反映する' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 母親や妻が家庭で行う仕事は、国づくりにとって<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='反映する'>反映する</option><option value='意欲'>意欲</option><option value='不可欠な'>不可欠な</option><option value='集団的'>集団的</option><option value='普遍的な'>普遍的な</option></select>である。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='不可欠な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 尊敬と公正な扱いを求める闘いは、すべての人に影響を与える<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='集団的'>集団的</option><option value='不可欠な'>不可欠な</option><option value='普遍的な'>普遍的な</option><option value='意欲'>意欲</option><option value='反映する'>反映する</option></select>人間の物語である。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='普遍的な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. インドでは、女性たちが主婦としての<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='普遍的な'>普遍的な</option><option value='意欲'>意欲</option><option value='不可欠な'>不可欠な</option><option value='反映する'>反映する</option><option value='集団的'>集団的</option></select>権利を求めて組織化している。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='集団的' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ4: 仕事と人生の意味</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 過酷な, やりがい, 内部的な, 気を散らして, 維持すること</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 仕事に<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='気を散らして'>気を散らして</option><option value='維持すること'>維持すること</option><option value='過酷な'>過酷な</option><option value='内部的な'>内部的な</option><option value='やりがい'>やりがい</option></select>を感じると、幸せで役に立っていると感じる。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='やりがい' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 彼女は、会議の代わりに同僚のスーツのことを考えていたので、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='やりがい'>やりがい</option><option value='過酷な'>過酷な</option><option value='内部的な'>内部的な</option><option value='気を散らして'>気を散らして</option><option value='維持すること'>維持すること</option></select>いた。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='気を散らして' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 週60時間の仕事は、ほとんどの人にとって非常に<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='内部的な'>内部的な</option><option value='維持すること'>維持すること</option><option value='やりがい'>やりがい</option><option value='気を散らして'>気を散らして</option><option value='過酷な'>過酷な</option></select>である。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='過酷な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 忙しいオフィスで<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='過酷な'>過酷な</option><option value='やりがい'>やりがい</option><option value='気を散らして'>気を散らして</option><option value='維持すること'>維持すること</option><option value='内部的な'>内部的な</option></select>集中力は、多くの労働者にとって簡単ではない。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='維持すること' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. アニーは、退屈な会議中に集中力を保つなど、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='維持すること'>維持すること</option><option value='気を散らして'>気を散らして</option><option value='やりがい'>やりがい</option><option value='過酷な'>過酷な</option><option value='内部的な'>内部的な</option></select>な課題に悩まされている。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='内部的な' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1: Conditions et sentiments au travail</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: exigeant, accomplissement, interne, distrait, maintenir</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Au lieu de se concentrer sur les données, Annie pensait au nouveau costume de son collègue et était <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='exigeant'>exigeant</option><option value='maintenir'>maintenir</option><option value='accomplissement'>accomplissement</option><option value='distrait'>distrait</option><option value='interne'>interne</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='distrait' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. L'ingénieur trouve un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='distrait'>distrait</option><option value='exigeant'>exigeant</option><option value='accomplissement'>accomplissement</option><option value='maintenir'>maintenir</option><option value='interne'>interne</option></select> parce que l'argent est bon et qu'il aime son travail.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='accomplissement' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='accomplissement'>accomplissement</option><option value='interne'>interne</option><option value='distrait'>distrait</option><option value='maintenir'>maintenir</option><option value='exigeant'>exigeant</option></select> sa concentration dans un bureau occupé est un défi constant pour de nombreux travailleurs.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='maintenir' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Une semaine de travail de 60 heures est très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='maintenir'>maintenir</option><option value='distrait'>distrait</option><option value='exigeant'>exigeant</option><option value='interne'>interne</option><option value='accomplissement'>accomplissement</option></select> et demande beaucoup d'énergie.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='exigeant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. Annie fait souvent face à des défis <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='exigeant'>exigeant</option><option value='accomplissement'>accomplissement</option><option value='maintenir'>maintenir</option><option value='interne'>interne</option><option value='distrait'>distrait</option></select>, comme rester concentrée pendant les réunions ennuyeuses.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='interne' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2: Défis et problèmes au travail</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: constant, paradoxe, exploiter, volontaire, but</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Rester concentré est une exigence <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='but'>but</option><option value='paradoxe'>paradoxe</option><option value='volontaire'>volontaire</option><option value='constant'>constant</option><option value='exploiter'>exploiter</option></select> dans un environnement de bureau occupé.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='constant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Claudia pense que son entreprise pourrait l'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='volontaire'>volontaire</option><option value='exploiter'>exploiter</option><option value='constant'>constant</option><option value='but'>but</option><option value='paradoxe'>paradoxe</option></select> en lui demandant d'effectuer des tâches ennuyeuses sans la payer.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='exploiter' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Le <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='exploiter'>exploiter</option><option value='constant'>constant</option><option value='paradoxe'>paradoxe</option><option value='but'>but</option><option value='volontaire'>volontaire</option></select> d'avoir besoin d'expérience pour obtenir un emploi mais d'avoir besoin d'un emploi pour obtenir de l'expérience est frustrant.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='paradoxe' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Le travail volontaire peut donner un sens du <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='paradoxe'>paradoxe</option><option value='but'>but</option><option value='exploiter'>exploiter</option><option value='constant'>constant</option><option value='volontaire'>volontaire</option></select> qu'un salaire traditionnel ne peut pas donner.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='but' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. Jérôme travaille comme médecin <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='but'>but</option><option value='constant'>constant</option><option value='exploiter'>exploiter</option><option value='volontaire'>volontaire</option><option value='paradoxe'>paradoxe</option></select> en Sierra Leone, aidant les autres sans être payé.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='volontaire' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3: Action sociale et collective</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: collectif, essentiel, universel, reflète, volonté</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Notre <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='essentiel'>essentiel</option><option value='collectif'>collectif</option><option value='universel'>universel</option><option value='reflète'>reflète</option><option value='volonté'>volonté</option></select> d'essayer de nouveaux aliments montre à quel point nous sommes ouverts d'esprit.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='volonté' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Ce que nous mangeons <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='volonté'>volonté</option><option value='universel'>universel</option><option value='collectif'>collectif</option><option value='essentiel'>essentiel</option><option value='reflète'>reflète</option></select> notre mode de vie et notre personnalité.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='reflète' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Le travail effectué à la maison par les mères et les épouses est <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='reflète'>reflète</option><option value='volonté'>volonté</option><option value='essentiel'>essentiel</option><option value='collectif'>collectif</option><option value='universel'>universel</option></select> pour la construction de la nation.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='essentiel' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. La lutte pour le respect et un traitement équitable est une histoire humaine <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='collectif'>collectif</option><option value='essentiel'>essentiel</option><option value='universel'>universel</option><option value='volonté'>volonté</option><option value='reflète'>reflète</option></select> qui affecte tout le monde.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='universel' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. En Inde, les femmes s'organisent pour défendre leurs droits <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='universel'>universel</option><option value='volonté'>volonté</option><option value='essentiel'>essentiel</option><option value='reflète'>reflète</option><option value='collectif'>collectif</option></select> en tant que femmes au foyer.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='collectif' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4: Travail et sens de la vie</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: exigeant, accomplissement, interne, distrait, maintenir</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Lorsque vous trouvez un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='distrait'>distrait</option><option value='maintenir'>maintenir</option><option value='exigeant'>exigeant</option><option value='interne'>interne</option><option value='accomplissement'>accomplissement</option></select> dans votre travail, vous vous sentez heureux et utile.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='accomplissement' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Elle était <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='accomplissement'>accomplissement</option><option value='exigeant'>exigeant</option><option value='interne'>interne</option><option value='distrait'>distrait</option><option value='maintenir'>maintenir</option></select> parce qu'elle pensait au costume de son collègue au lieu de la réunion.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='distrait' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Un emploi de 60 heures par semaine est très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interne'>interne</option><option value='maintenir'>maintenir</option><option value='accomplissement'>accomplissement</option><option value='distrait'>distrait</option><option value='exigeant'>exigeant</option></select> pour la plupart des gens.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='exigeant' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='exigeant'>exigeant</option><option value='accomplissement'>accomplissement</option><option value='distrait'>distrait</option><option value='maintenir'>maintenir</option><option value='interne'>interne</option></select> sa concentration dans un bureau occupé n'est pas facile pour de nombreux travailleurs.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='maintenir' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. Annie lutte avec des défis <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='maintenir'>maintenir</option><option value='distrait'>distrait</option><option value='accomplissement'>accomplissement</option><option value='exigeant'>exigeant</option><option value='interne'>interne</option></select> comme rester concentrée pendant les réunions ennuyeuses.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='interne' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 직장 조건과 감정</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 힘든, 보람, 내부적인, 주의가 산만한, 유지하기</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 데이터에 집중하는 대신, 애니는 동료의 새 양복에 대해 생각하고 있었고 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='힘든'>힘든</option><option value='유지하기'>유지하기</option><option value='보람'>보람</option><option value='주의가 산만한'>주의가 산만한</option><option value='내부적인'>내부적인</option></select> 되었다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='주의가 산만한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 엔지니어는 급여도 좋고 일을 즐기기 때문에 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='주의가 산만한'>주의가 산만한</option><option value='힘든'>힘든</option><option value='보람'>보람</option><option value='유지하기'>유지하기</option><option value='내부적인'>내부적인</option></select>을 느낀다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='보람' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 바쁜 사무실에서 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='보람'>보람</option><option value='내부적인'>내부적인</option><option value='주의가 산만한'>주의가 산만한</option><option value='유지하기'>유지하기</option><option value='힘든'>힘든</option></select> 집중력은 많은 직장인에게 끊임없는 도전이다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='유지하기' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 주 60시간 근무는 매우 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='유지하기'>유지하기</option><option value='주의가 산만한'>주의가 산만한</option><option value='힘든'>힘든</option><option value='내부적인'>내부적인</option><option value='보람'>보람</option></select>并且 많은 에너지가 필요하다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='힘든' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. 애니는 지루한 회의 중 집중력 유지와 같은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='힘든'>힘든</option><option value='보람'>보람</option><option value='유지하기'>유지하기</option><option value='내부적인'>내부적인</option><option value='주의가 산만한'>주의가 산만한</option></select> 어려움에 자주 직면한다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='내부적인' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 직장 도전과 문제</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 끊임없는, 역설, 착취하는, 자발적인, 목적 의식</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 집중력을 유지하는 것은 바쁜 사무실 환경에서 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='목적 의식'>목적 의식</option><option value='역설'>역설</option><option value='자발적인'>자발적인</option><option value='끊임없는'>끊임없는</option><option value='착취하는'>착취하는</option></select> 요구 사항이다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='끊임없는' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 클라우디아는 회사가 무급으로 지루한 일을 시키며 자신을 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='자발적인'>자발적인</option><option value='착취하는'>착취하는</option><option value='끊임없는'>끊임없는</option><option value='목적 의식'>목적 의식</option><option value='역설'>역설</option></select> 있다고 느낀다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='착취하는' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 일자리를 얻기 위해 경력이 필요하지만, 경력을 쌓기 위해 일자리가 필요하다는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='착취하는'>착취하는</option><option value='끊임없는'>끊임없는</option><option value='역설'>역설</option><option value='목적 의식'>목적 의식</option><option value='자발적인'>자발적인</option></select>은 frustrating하다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='역설' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 자원봉사는 전통적인 급여로는 채울 수 없는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='역설'>역설</option><option value='목적 의식'>목적 의식</option><option value='착취하는'>착취하는</option><option value='끊임없는'>끊임없는</option><option value='자발적인'>자발적인</option></select>을 제공할 수 있다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='목적 의식' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 제롬은 시에라리온에서 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='목적 의식'>목적 의식</option><option value='끊임없는'>끊임없는</option><option value='착취하는'>착취하는</option><option value='자발적인'>자발적인</option><option value='역설'>역설</option></select> 의사로 일하며, 돈을 받지 않고 다른 사람들을 돕고 있다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='자발적인' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3: 사회적 및 집단적 행동</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 집단적인, 필수적인, 보편적인, 반영하다, 의지</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 새로운 음식을 시도하려는 우리의 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='필수적인'>필수적인</option><option value='집단적인'>집단적인</option><option value='보편적인'>보편적인</option><option value='반영하다'>반영하다</option><option value='의지'>의지</option></select>는 우리가 얼마나 개방적인지 보여준다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='의지' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 우리가 무엇을 먹는지는 우리의 라이프스타일과 성격을 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='의지'>의지</option><option value='보편적인'>보편적인</option><option value='집단적인'>집단적인</option><option value='필수적인'>필수적인</option><option value='반영하다'>반영하다</option></select>.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='반영하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 어머니와 아내가 집에서 하는 일은 국가 건설에 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='반영하다'>반영하다</option><option value='의지'>의지</option><option value='필수적인'>필수적인</option><option value='집단적인'>집단적인</option><option value='보편적인'>보편적인</option></select>이다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='필수적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 존중과 공정한 대우를 위한 투쟁은 모든 사람에게 영향을 미치는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='집단적인'>집단적인</option><option value='필수적인'>필수적인</option><option value='보편적인'>보편적인</option><option value='의지'>의지</option><option value='반영하다'>반영하다</option></select> 인간의 이야기이다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='보편적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. 인도에서는 여성들이 가정주부로서의 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='보편적인'>보편적인</option><option value='의지'>의지</option><option value='필수적인'>필수적인</option><option value='반영하다'>반영하다</option><option value='집단적인'>집단적인</option></select> 권리를 위해 조직화하고 있다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='집단적인' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4: 일과 삶의 의미</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 힘든, 보람, 내부적인, 주의가 산만한, 유지하기</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 직장에서 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='주의가 산만한'>주의가 산만한</option><option value='유지하기'>유지하기</option><option value='힘든'>힘든</option><option value='내부적인'>내부적인</option><option value='보람'>보람</option></select>을 느끼면 행복하고 유용하다고 느껴진다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='보람' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 그녀는 회의 대신 동료의 양복에 대해 생각하고 있었기 때문에 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='보람'>보람</option><option value='힘든'>힘든</option><option value='내부적인'>내부적인</option><option value='주의가 산만한'>주의가 산만한</option><option value='유지하기'>유지하기</option></select> 되었다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='주의가 산만한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 주 60시간 근무는 대부분의 사람들에게 매우 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='내부적인'>내부적인</option><option value='유지하기'>유지하기</option><option value='보람'>보람</option><option value='주의가 산만한'>주의가 산만한</option><option value='힘든'>힘든</option></select> 일정이다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='힘든' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 바쁜 사무실에서 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='힘든'>힘든</option><option value='보람'>보람</option><option value='주의가 산만한'>주의가 산만한</option><option value='유지하기'>유지하기</option><option value='내부적인'>내부적인</option></select> 집중력은 많은 직장인에게 쉽지 않다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='유지하기' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 애니는 지루한 회의 중 집중력 유지와 같은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='유지하기'>유지하기</option><option value='주의가 산만한'>주의가 산만한</option><option value='보람'>보람</option><option value='힘든'>힘든</option><option value='내부적인'>내부적인</option></select> 어려움을 겪고 있다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='내부적인' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "Claudia feels her company is exploiting her, but <b>why does she decide to stay and do boring tasks like photocopying</b>?",
+    "ja": "クラウディアは自分の会社が自分を搾取していると感じていますが、<b>なぜ彼女はコピー取りのような退屈な仕事を続けることにしたのですか</b>？",
+    "fr": "Claudia pense que son entreprise l'exploite, mais <b>pourquoi décide-t-elle de rester et d'effectuer des tâches ennuyeuses comme la photocopie</b> ?",
+    "ko": "클라우디아는 자신의 회사가 자신을 착취하고 있다고 느끼지만, <b>그녀는 왜 복사와 같은 지루한 일을 하면서 남아 있기로 결정했나요</b>?"
+  },
+  "content_check_keywords": {
+    "en": "learn, advertise films, prior work experience, chosen field",
+    "ja": "学ぶ, 映画を宣伝する, 実務経験, 選んだ分野",
+    "fr": "apprendre, faire la publicité de films, expérience professionnelle préalable, domaine choisi",
+    "ko": "배우다, 영화 광고, 사전 경력, 선택한 분야"
+  },
+  "content_check_placeholder": {
+    "en": "Write a short answer (1-2 sentences) based on the text...",
+    "ja": "テキストに基づいて短い答えを書いてください（1-2文）...",
+    "fr": "Écrivez une courte réponse (1-2 phrases) basée sur le texte...",
+    "ko": "텍스트를 바탕으로 짧은 답변을 작성하세요 (1-2문장)..."
+  },
+  "deepening_question": {
+    "en": "The text shows different reasons for working, such as <b>financial rewards</b> (the engineer), <b>gaining experience</b> (Claudia), or <b>finding fulfillment</b> (Jerome).<br><br><b>If you had to choose a new job today, which is more important to you: a high salary or a sense of fulfillment? Give one reason why.</b>",
+    "ja": "テキストは、<b>金銭的報酬</b>（エンジニア）、<b>経験を積むこと</b>（クラウディア）、<b>充実感を見つけること</b>（ジェローム）など、仕事をするさまざまな理由を示しています。<br><br><b>今日新しい仕事を選ばなければならないとしたら、あなたにとってより重要なのは、高い給料ですか、それとも充実感ですか？理由を一つ挙げてください。</b>",
+    "fr": "Le texte montre différentes raisons de travailler, telles que les <b>récompenses financières</b> (l'ingénieur), <b>l'acquisition d'expérience</b> (Claudia), ou <b>la recherche d'épanouissement</b> (Jérôme).<br><br><b>Si vous deviez choisir un nouvel emploi aujourd'hui, qu'est-ce qui est le plus important pour vous : un salaire élevé ou un sentiment d'épanouissement ? Donnez une raison.</b>",
+    "ko": "텍스트는 <b>금전적 보상</b>(엔지니어), <b>경험 쌓기</b>(클라우디아), 또는 <b>충족감 찾기</b>(제롬)와 같이 일하는 다양한 이유를 보여줍니다.<br><br><b>오늘 새 일자리를 선택해야 한다면, 당신에게 더 중요한 것은 높은 급여인가요, 아니면 충족감인가요? 이유를 하나 들어 보세요.</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I think a high salary/fulfillment is more important because...",
+    "ja": "高い給料/充実感の方が重要だと思います。なぜなら...",
+    "fr": "Je pense qu'un salaire élevé/l'épanouissement est plus important parce que...",
+    "ko": "높은 급여/충족감이 더 중요하다고 생각합니다. 왜냐하면..."
+  },
+  "critical_question": {
+    "en": "The text presents various ways of working: <b>high salaries</b> (the engineer), <b>gaining experience</b> (Claudia), <b>voluntary service</b> (Jerome), and <b>domestic rights</b> (Sulochana).<br><br><b>In your opinion, what is the most important factor that makes a job \"successful\" or \"meaningful\"? Is it the financial reward, the social impact, or personal growth? Explain your view by comparing at least two people from the reading text.</b>",
+    "ja": "テキストは様々な働き方を提示しています：<b>高給</b>（エンジニア）、<b>経験を積む</b>（クラウディア）、<b>ボランティア活動</b>（ジェローム）、そして<b>家庭内の権利</b>（スロチャナ）。<br><br><b>あなたの意見では、仕事を「成功」または「意味のある」ものにする最も重要な要素は何ですか？それは金銭的報酬、社会的影響、それとも個人の成長ですか？リーディングテキストから少なくとも2人の人物を比較して、あなたの見解を説明してください。</b>",
+    "fr": "Le texte présente différentes façons de travailler : <b>salaires élevés</b> (l'ingénieur), <b>acquisition d'expérience</b> (Claudia), <b>service bénévole</b> (Jérôme) et <b>droits domestiques</b> (Sulochana).<br><br><b>À votre avis, quel est le facteur le plus important qui rend un travail « réussi » ou « significatif » ? S'agit-il de la récompense financière, de l'impact social ou de la croissance personnelle ? Expliquez votre point de vue en comparant au moins deux personnes du texte de lecture.</b>",
+    "ko": "텍스트는 다양한 일하는 방식을 제시합니다: <b>높은 급여</b>(엔지니어), <b>경험 쌓기</b>(클라우디아), <b>자원봉사</b>(제롬), 그리고 <b>가사 노동 권리</b>(술로차나).<br><br><b>당신의 의견으로, 직업을 '성공적'이거나 '의미 있는' 것으로 만드는 가장 중요한 요소는 무엇인가요? 금전적 보상, 사회적 영향력, 아니면 개인의 성장인가요? 읽기 텍스트에서 최소 두 사람을 비교하여 당신의 견해를 설명하세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "Write your thoughts here based on the different perspectives in the text...",
+    "ja": "テキストのさまざまな視点に基づいてあなたの考えをここに書いてください...",
+    "fr": "Écrivez vos réflexions ici en vous basant sur les différentes perspectives du texte...",
+    "ko": "텍스트의 다양한 관점을 바탕으로 당신의 생각을 여기에 작성하세요..."
+  }
+}

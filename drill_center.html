@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>🎯 스피킹 드릴센터 | 통합 언어 학습 플랫폼</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="css/common.css">
+    <style>
+        :root {
+            --drill-primary: #2c3e50;
+            --drill-secondary: #3498db;
+            --drill-success: #27ae60;
+            --drill-warning: #e67e22;
+            --drill-danger: #e74c3c;
+            --drill-purple: #9b59b6;
+            --drill-bg: #f4f7f6;
+            --drill-white: #ffffff;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Segoe UI', 'Noto Sans JP', 'Noto Sans KR', sans-serif;
+            background-color: var(--drill-bg);
+            color: var(--drill-primary);
+            line-height: 1.6;
+        }
+
+        .drill-header {
+            background: linear-gradient(135deg, var(--drill-primary) 0%, #1a252f 100%);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+            margin-top: 60px;
+        }
+
+        .drill-header h1 { font-size: 2rem; margin-bottom: 0.5rem; }
+        .drill-header p { font-size: 0.9rem; opacity: 0.9; }
+
+        .drill-container { max-width: 1200px; margin: 2rem auto; padding: 0 20px; }
+
+        .stats-bar {
+            background: var(--drill-white);
+            padding: 1.5rem 2rem;
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+
+        .stat-card {
+            text-align: center;
+            padding: 10px 20px;
+            background: #f8f9fa;
+            border-radius: 12px;
+            min-width: 100px;
+        }
+
+        .stat-number { font-size: 2rem; font-weight: bold; color: var(--drill-secondary); }
+        .stat-label { font-size: 0.85rem; color: #666; }
+
+        .unit-section {
+            background: var(--drill-white);
+            border-radius: 15px;
+            margin-bottom: 2rem;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .unit-header {
+            background: linear-gradient(135deg, var(--drill-secondary) 0%, #2980b9 100%);
+            color: white;
+            padding: 1rem 1.5rem;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .unit-header:hover { background: linear-gradient(135deg, #2980b9 0%, #1a6fa0 100%); }
+        .unit-header h2 { margin: 0; font-size: 1.2rem; }
+        .unit-badge { background: rgba(255,255,255,0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.8rem; }
+
+        .unit-content { padding: 1.5rem; display: none; }
+        .unit-content.open { display: block; }
+
+        .chunk-card {
+            background: #fafafa;
+            border-left: 6px solid var(--drill-secondary);
+            border-radius: 12px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            transition: all 0.3s;
+        }
+
+        .chunk-card:hover { transform: translateX(5px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+
+        .chunk-text {
+            font-size: 1rem;
+            font-weight: 600;
+            padding: 8px 12px;
+            border-radius: 10px;
+            margin-bottom: 12px;
+            background: #fff;
+            border: 1px solid #eee;
+        }
+
+        .difficulty-stars { display: inline-flex; margin-left: 12px; font-size: 0.8rem; }
+        .star-filled { color: #f1c40f; }
+        .star-empty { color: #bdc3c7; }
+
+        .stats-panel {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 10px 12px;
+            margin-bottom: 12px;
+            font-size: 0.8rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .stat-item { display: flex; align-items: center; gap: 5px; }
+        .stat-value { font-weight: bold; color: var(--drill-secondary); }
+        .progress-bar-container { background: #e0e0e0; border-radius: 10px; height: 8px; width: 120px; overflow: hidden; }
+        .progress-fill { background: var(--drill-success); height: 100%; border-radius: 10px; transition: width 0.3s; }
+
+        .button-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 12px;
+        }
+
+        .drill-btn {
+            padding: 6px 12px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            font-size: 0.8rem;
+        }
+
+        .drill-btn:hover { transform: translateY(-2px); }
+        .btn-speak { background: var(--drill-secondary); color: white; }
+        .btn-record { background: var(--drill-danger); color: white; }
+        .btn-record.recording { background: #000; animation: pulse 1s infinite; }
+        .btn-play { background: var(--drill-success); color: white; }
+        .btn-transcribe { background: var(--drill-purple); color: white; }
+        .btn-delete { background: #95a5a6; color: white; }
+        .btn-goto-unit { background: var(--drill-warning); color: white; }
+
+        @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.7; } }
+
+        .transcript-result {
+            margin-top: 10px;
+            padding: 10px;
+            background: #f3e5f5;
+            border-left: 4px solid var(--drill-purple);
+            border-radius: 8px;
+            font-size: 0.85rem;
+        }
+
+        .copy-btn { background: #e1bee7; border: none; border-radius: 6px; padding: 4px 10px; color: #4a148c; cursor: pointer; font-size: 11px; }
+        .empty-message { text-align: center; padding: 3rem; color: #999; }
+        .empty-message i { font-size: 3rem; margin-bottom: 1rem; }
+
+        .voice-settings {
+            background: var(--drill-white);
+            border-radius: 15px;
+            padding: 1rem 1.5rem;
+            margin-bottom: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .voice-group { display: flex; align-items: center; gap: 10px; }
+        .voice-group label { font-size: 0.8rem; font-weight: 500; }
+        .voice-group select, .voice-group input { padding: 5px 10px; border-radius: 20px; border: 1px solid #ddd; }
+
+        footer { text-align: center; padding: 2rem; color: #7f8c8d; font-size: 0.75rem; }
+
+        /* 언어 선택기 버튼 스타일 */
+        .drill-lang-selector {
+            display: flex;
+            gap: 8px;
+            justify-content: center;
+            margin: 15px 0;
+        }
+        .drill-lang-btn {
+            background: var(--drill-white);
+            border: 1px solid var(--drill-secondary);
+            border-radius: 30px;
+            padding: 6px 14px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+        }
+        .drill-lang-btn:hover {
+            background: var(--drill-secondary);
+            color: white;
+        }
+        .drill-lang-btn.active {
+            background: var(--drill-secondary);
+            color: white;
+        }
+
+        @media (max-width: 768px) {
+            .drill-header { margin-top: 80px; padding: 1.5rem; }
+            .drill-header h1 { font-size: 1.5rem; }
+            .button-group { justify-content: center; }
+            .chunk-text { font-size: 0.9rem; }
+            .stats-bar { flex-direction: column; align-items: stretch; }
+            .stats-panel { flex-direction: column; align-items: flex-start; }
+            .voice-settings { flex-direction: column; align-items: stretch; }
+            .voice-group { justify-content: space-between; }
+            .drill-lang-selector { flex-wrap: wrap; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="fixed-header">
+    <div class="header-content">
+        <div class="logo-area">
+            <span class="level-badge">🎯 Drill Center</span>
+            <span class="page-title" id="pageTitle">스피킹 드릴센터</span>
+        </div>
+        <!-- 언어 선택 버튼 추가 -->
+        <div class="drill-lang-selector">
+            <button class="drill-lang-btn" data-lang="en">🇬🇧 English</button>
+            <button class="drill-lang-btn" data-lang="ja">🇯🇵 日本語</button>
+            <button class="drill-lang-btn" data-lang="fr">🇫🇷 Français</button>
+            <button class="drill-lang-btn" data-lang="ko">🇰🇷 한국어</button>
+        </div>
+    </div>
+</div>
+
+<div class="drill-header">
+    <h1 id="drillTitle"><i class="fas fa-fire"></i> 스피킹 드릴센터</h1>
+    <p id="drillSubtitle">저장한 문장으로 발음 집중 연습 | 언어별 · 레벨별 학습 관리</p>
+</div>
+
+<div class="drill-container">
+    <div class="voice-settings">
+        <div class="voice-group">
+            <label id="labelLanguage"><i class="fas fa-language"></i> 언어</label>
+            <select id="voice-language">
+                <option value="en">🇬🇧 English</option>
+                <option value="ja">🇯🇵 日本語</option>
+                <option value="fr">🇫🇷 Français</option>
+                <option value="ko">🇰🇷 한국어</option>
+            </select>
+        </div>
+        <div class="voice-group" id="voiceTypeGroup">
+            <label id="labelEnglishPron"><i class="fas fa-globe"></i> 영어 발음</label>
+            <select id="voice-type">
+                <option value="us">🇺🇸 American English</option>
+                <option value="uk">🇬🇧 British English</option>
+            </select>
+        </div>
+        <div class="voice-group">
+            <label id="labelGender"><i class="fas fa-user"></i> 성별</label>
+            <select id="voice-gender">
+                <option value="female">👩 여성</option>
+                <option value="male">👨 남성</option>
+            </select>
+        </div>
+        <div class="voice-group">
+            <label id="labelSpeed"><i class="fas fa-tachometer-alt"></i> 속도</label>
+            <input type="range" id="voice-rate" min="0.5" max="1.5" step="0.05" value="1.0">
+            <span id="rate-value">1.0</span>
+        </div>
+    </div>
+
+    <div class="stats-bar" id="statsBar">
+        <div class="stat-card">
+            <div class="stat-number" id="totalChunks">0</div>
+            <div class="stat-label" id="statSavedSentences">저장된 문장</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" id="totalUnits">0</div>
+            <div class="stat-label" id="statLearningUnits">학습 유닛</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number" id="overallAccuracy">0%</div>
+            <div class="stat-label" id="statAvgAccuracy">평균 정확도</div>
+        </div>
+        <div>
+            <button class="drill-btn" id="exportBtn" style="background: #27ae60; color: white;"><i class="fas fa-download"></i> <span id="btnExportText">내보내기</span></button>
+            <button class="drill-btn" id="clearAllBtn" style="background: #e74c3c; color: white;"><i class="fas fa-trash-alt"></i> <span id="btnClearText">전체 삭제</span></button>
+        </div>
+    </div>
+
+    <div id="chunksContainer">
+        <div class="empty-message">
+            <i class="fas fa-inbox"></i>
+            <h3 id="emptyTitle">저장된 문장이 없습니다</h3>
+            <p id="emptyDesc">학습 페이지에서 📦 버튼을 눌러 어려운 문장을 저장하세요.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p id="footerText">© 2025 통합 언어 학습 플랫폼 | 발음 평가 · 통계 추적 · 집중 연습</p>
+    </footer>
+</div>
+
+<a href="index.html" class="back-to-dashboard" id="backToDashboardLink">
+    <i class="fas fa-home"></i> <span id="backToDashboard">대시보드</span>
+</a>
+
+<script src="js/utils.js"></script>
+<script src="js/database.js"></script>
+<script src="js/tts.js"></script>
+<script src="js/drill.js"></script>
+
+<script>
+    // 드릴센터 언어 버튼 이벤트
+    document.addEventListener('DOMContentLoaded', function() {
+        const langBtns = document.querySelectorAll('.drill-lang-btn');
+        langBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                const lang = this.dataset.lang;
+                if (window.DrillCenter) {
+                    window.DrillCenter.currentLanguage = lang;
+                    localStorage.setItem('drill_language', lang);
+                    if (window.TTS) TTS.setLanguage(lang);
+                    window.DrillCenter.updateFullUILanguage();
+                    window.DrillCenter.loadChunks();
+                }
+                // 버튼 활성화 표시
+                langBtns.forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+            });
+        });
+        
+        // 현재 언어에 맞는 버튼 활성화
+        const currentLang = localStorage.getItem('drill_language') || 'ko';
+        const activeBtn = document.querySelector(`.drill-lang-btn[data-lang="${currentLang}"]`);
+        if (activeBtn) activeBtn.classList.add('active');
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,1708 @@
+{
+  "title": {
+    "en": "SCIENCE AND NATURE",
+    "ja": "科学と自然",
+    "fr": "SCIENCE ET NATURE",
+    "ko": "과학과 자연"
+  },
+  "topic": {
+    "en": "Nature, animals, human behavior",
+    "ja": "自然、動物、人間の行動",
+    "fr": "Nature, animaux, comportement humain",
+    "ko": "자연, 동물, 인간 행동"
+  },
+  "core_title": {
+    "en": "Not Just All in the Mind",
+    "ja": "心の中だけではない",
+    "fr": "Pas seulement dans la tête",
+    "ko": "단지 마음의 문제가 아니다"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>Part 1: The Delicate Balance of Nature</p><p>In our modern world, we often receive news that reminds us how deeply we <b>depend on</b> the environment. Recently, an <b>alarming</b> article revealed that honeybees have been dying for <b>unknown</b> reasons. This is <b>critical</b> because if bees become <strong><span class='vocab-link' id='text-extinct' onclick='speakAndScroll(\"extinct\", \"vocab-extinct\")'>extinct</span></strong>, the lack of <strong><span class='vocab-link' id='text-pollination' onclick='speakAndScroll(\"pollination\", \"vocab-pollination\")'>pollination</span></strong> would mean we won't have any fruit or vegetables to eat. While some people simply enjoy a <b>forecast</b> of hot and sunny weather to plan a trip to the beach, others are looking at the <b>bigger picture</b> of <b>conservation</b>.</p><p>In Morovia, for instance, the government decided to pull down several <b>horrible</b> houses that <b>had been built</b> along the coast to create a new <b>national park</b> instead. These stories <b>highlight</b> a growing need for <b>green spaces</b> and research <b>funding</b> to protect the countryside. Nature is not just a <b>backdrop</b> for our lives; it is a complex system that requires active protection and scientific <b>understanding</b>.</p><p style='margin-top:2rem;'>Part 2: Man's Best Friends and Unexpected Allies</p><p>Our relationship with the animal kingdom often produces <b>extraordinary</b> stories that <strong><span class='vocab-link' id='text-defy' onclick='speakAndScroll(\"defy\", \"vocab-defy\")'>defy</span></strong> common expectations. Animals are not just pets; they are <b>participants</b> in our social and <b>functional</b> lives. For example, a couple in Dorset got married with their dogs as part of the ceremony because the pets <b>had brought</b> the couple together when they first met on a beach.</p><p>Science also shows that how we treat animals affects their <b>productivity</b>. Researchers found that cows <b>that had been given names</b> produced 300 litres more milk than <b>those which hadn't been named</b>. Even animals with 'bad <strong><span class='vocab-link' id='text-reputations' onclick='speakAndScroll(\"reputations\", \"vocab-reputations\")'>reputations</span></strong>,' like rats, are saving lives in Africa. Because they are small and have an <strong><span class='vocab-link' id='text-incredible' onclick='speakAndScroll(\"incredible\", \"vocab-incredible\")'>incredible</span></strong> sense of smell, they can <strong><span class='vocab-link' id='text-detect' onclick='speakAndScroll(\"detect\", \"vocab-detect\")'>detect</span></strong> landmines without making them <strong><span class='vocab-link' id='text-explode' onclick='speakAndScroll(\"explode\", \"vocab-explode\")'>explode</span></strong>.</p><p>However, our <strong><span class='vocab-link' id='text-interaction' onclick='speakAndScroll(\"interaction\", \"vocab-interaction\")'>interaction</span></strong> with nature is not always positive. A very rare megamouth shark recently died in a net after <b>it had been caught by mistake</b>. Despite efforts to <strong><span class='vocab-link' id='text-persuade' onclick='speakAndScroll(\"persuade\", \"vocab-persuade\")'>persuade</span></strong> the fisherman to save the body for science, it was used for a traditional dish. From parrots taking orders in Japanese restaurants to a dog named Scooby appearing in court because <b>he had been present</b> at a crime scene, animals continue to play <strong><span class='vocab-link' id='text-pivotal' onclick='speakAndScroll(\"pivotal\", \"vocab-pivotal\")'>pivotal</span></strong> roles in the human world.</p><p style='margin-top:2rem;'>Part 3: The Science of Human Nature</p><p>While we study the nature of animals, science also <b>investigates</b> the darker side of human nature through psychology. One of the most famous studies was <strong><span class='vocab-link' id='text-conducted' onclick='speakAndScroll(\"conducted\", \"vocab-conducted\")'>conducted</span></strong> by Stanley Milgram to understand why people <b>participated</b> in <b>terrible</b> crimes during the Second World War.</p><p>In the experiment, 'teachers' were told to give electric shocks to 'learners'. Although the shocks were fake, the teachers believed they were real because the learners, who were actually actors, <b>had complained</b> of heart problems or <b>had shouted</b> in pain. When the teachers wanted to stop, a 'scientist' in a white coat told them they <b>must go on</b>.</p><p>The <b>results</b> were <b>shocking</b>: 65% of participants gave the final 450-volt shock just because a person in <b>authority</b> told them to. This study showed that <b>ordinary</b> people find it <b>extremely</b> difficult to say 'no' to authority figures, especially those in uniform. It revealed that the <strong><span class='vocab-link' id='text-impulse' onclick='speakAndScroll(\"impulse\", \"vocab-impulse\")'>impulse</span></strong> to obey can sometimes <strong><span class='vocab-link' id='text-override' onclick='speakAndScroll(\"override\", \"vocab-override\")'>override</span></strong> a person's own <b>conscience</b>.</p>",
+    "ja": "<p style='margin-top:0;'>パート1: 自然の微妙なバランス</p><p>現代社会では、私たちが環境にどれほど深く<b>依存している</b>かを思い知らせるニュースをよく受け取ります。最近、<b>未知の</b>理由でミツバチが死んでいるという<b>憂慮すべき</b>記事が明らかになりました。ミツバチが<strong><span class='vocab-link' id='text-extinct' onclick='speakAndScroll(\"extinct\", \"vocab-extinct\")'>絶滅</span></strong>すれば、<strong><span class='vocab-link' id='text-pollination' onclick='speakAndScroll(\"pollination\", \"vocab-pollination\")'>受粉</span></strong>の不足により果物や野菜が食べられなくなるため、これは<b>重大な</b>問題です。ある人々は単にビーチ旅行を計画するために暑く晴れた天気の<b>予報</b>を楽しむ一方、他の人々は<b>保全</b>の<b>より大きな全体像</b>を見ています。</p><p>例えばモロビアでは、政府が海岸沿いに<b>建てられた</b>いくつかの<b>恐ろしい</b>家を取り壊し、代わりに新しい<b>国立公園</b>を作ることを決定しました。これらの物語は、田舎を保護するための<b>緑地</b>と研究<b>資金</b>の必要性が高まっていることを<b>強調</b>しています。自然は私たちの生活の単なる<b>背景</b>ではありません。それは積極的な保護と科学的<b>理解</b>を必要とする複雑なシステムです。</p><p style='margin-top:2rem;'>パート2: 人間の最良の友と予期せぬ味方</p><p>動物界との私たちの関係は、しばしば一般的な期待を<strong><span class='vocab-link' id='text-defy' onclick='speakAndScroll(\"defy\", \"vocab-defy\")'>覆す</span></strong><b>特別な</b>物語を生み出します。動物は単なるペットではありません。それらは私たちの社会的で<b>機能的な</b>生活の<b>参加者</b>です。例えば、ドーセットのカップルは、ペットがビーチで初めて出会ったときに二人を<b>引き合わせた</b>ため、結婚式に犬を参加させました。</p><p>科学はまた、動物への接し方がその<b>生産性</b>に影響することを示しています。研究者たちは、<b>名前を付けられた</b>牛は<b>名前を付けられなかった</b>牛よりも300リットル多くの牛乳を生産することを発見しました。ラットのように『悪い<strong><span class='vocab-link' id='text-reputations' onclick='speakAndScroll(\"reputations\", \"vocab-reputations\")'>評判</span></strong>』を持つ動物でさえ、アフリカで命を救っています。それらは小さく、<strong><span class='vocab-link' id='text-incredible' onclick='speakAndScroll(\"incredible\", \"vocab-incredible\")'>驚くべき</span></strong>優れた嗅覚を持っているため、地雷を<strong><span class='vocab-link' id='text-detect' onclick='speakAndScroll(\"detect\", \"vocab-detect\")'>探知</span></strong>し、それらを<strong><span class='vocab-link' id='text-explode' onclick='speakAndScroll(\"explode\", \"vocab-explode\")'>爆発</span></strong>させずに済みます。</p><p>しかし、自然との私たちの<strong><span class='vocab-link' id='text-interaction' onclick='speakAndScroll(\"interaction\", \"vocab-interaction\")'>相互作用</span></strong>は常に肯定的とは限りません。非常に稀なメガマウスザメが<b>誤って捕獲された</b>後、網の中で死にました。科学のために体を保存するように漁師を<strong><span class='vocab-link' id='text-persuade' onclick='speakAndScroll(\"persuade\", \"vocab-persuade\")'>説得</span></strong>しようとする努力にもかかわらず、それは伝統料理に使用されました。日本のレストランで注文を取るオウムから、犯罪現場に<b>居合わせた</b>ために法廷に出廷したスクービーという犬まで、動物たちは人間の世界で<strong><span class='vocab-link' id='text-pivotal' onclick='speakAndScroll(\"pivotal\", \"vocab-pivotal\")'>極めて重要な</span></strong>役割を果たし続けています。</p><p style='margin-top:2rem;'>パート3: 人間本性の科学</p><p>動物の性質を研究する一方で、科学は心理学を通じて人間本性の暗い側面も<b>調査</b>します。最も有名な研究の一つは、第二次世界大戦中に人々がなぜ<b>恐ろしい</b>犯罪に<b>参加</b>したのかを理解するためにスタンレー・ミルグラムによって<strong><span class='vocab-link' id='text-conducted' onclick='speakAndScroll(\"conducted\", \"vocab-conducted\")'>実施</span></strong>されました。</p><p>実験では、「教師」が「学習者」に電気ショックを与えるように指示されました。ショックは偽物でしたが、実際には俳優であった学習者が心臓の問題を<b>訴え</b>たり、痛みで<b>叫んだり</b>したため、教師たちはそれが本物だと信じました。教師たちが止めたいと思ったとき、白衣を着た「科学者」が<b>続けなければならない</b>と言いました。</p><p><b>結果</b>は<b>衝撃的</b>でした。参加者の65％が、<b>権威</b>ある人がそうするように言ったという理由だけで、最終的な450ボルトのショックを与えました。この研究は、<b>普通の</b>人々が特に制服を着た権威者に「ノー」と言うことを<b>非常に</b>困難と感じることを示しました。それは、従おうとする<strong><span class='vocab-link' id='text-impulse' onclick='speakAndScroll(\"impulse\", \"vocab-impulse\")'>衝動</span></strong>が時に自分の<b>良心</b>を<strong><span class='vocab-link' id='text-override' onclick='speakAndScroll(\"override\", \"vocab-override\")'>無視</span></strong>できることを明らかにしました。</p>",
+    "fr": "<p style='margin-top:0;'>Partie 1: L'équilibre délicat de la nature</p><p>Dans notre monde moderne, nous recevons souvent des nouvelles qui nous rappellent à quel point nous <b>dépendons</b> de l'environnement. Récemment, un article <b>alarmant</b> a révélé que les abeilles domestiques meurent pour des raisons <b>inconnues</b>. C'est <b>critique</b> parce que si les abeilles deviennent <strong><span class='vocab-link' id='text-extinct' onclick='speakAndScroll(\"extinct\", \"vocab-extinct\")'>éteintes</span></strong>, le manque de <strong><span class='vocab-link' id='text-pollination' onclick='speakAndScroll(\"pollination\", \"vocab-pollination\")'>pollinisation</span></strong> signifierait que nous n'aurons plus de fruits ou de légumes à manger. Alors que certaines personnes apprécient simplement les <b>prévisions</b> d'un temps chaud et ensoleillé pour planifier un voyage à la plage, d'autres considèrent la <b>vue d'ensemble</b> de la <b>conservation</b>.</p><p>En Morovie, par exemple, le gouvernement a décidé de démolir plusieurs maisons <b>horribles</b> qui <b>avaient été construites</b> le long de la côte pour créer plutôt un nouveau <b>parc national</b>. Ces histoires <b>soulignent</b> un besoin croissant d'<b>espaces verts</b> et de <b>financement</b> de la recherche pour protéger la campagne. La nature n'est pas qu'un simple <b>décor</b> pour nos vies; c'est un système complexe qui nécessite une protection active et une <b>compréhension</b> scientifique.</p><p style='margin-top:2rem;'>Partie 2: Les meilleurs amis de l'homme et alliés inattendus</p><p>Notre relation avec le règne animal produit souvent des histoires <b>extraordinaires</b> qui <strong><span class='vocab-link' id='text-defy' onclick='speakAndScroll(\"defy\", \"vocab-defy\")'>défient</span></strong> les attentes communes. Les animaux ne sont pas seulement des animaux de compagnie; ils sont des <b>participants</b> à nos vies sociales et <b>fonctionnelles</b>. Par exemple, un couple dans le Dorset s'est marié avec leurs chiens dans le cadre de la cérémonie parce que les animaux <b>avaient réuni</b> le couple lorsqu'ils se sont rencontrés pour la première fois sur une plage.</p><p>La science montre également que notre façon de traiter les animaux affecte leur <b>productivité</b>. Des chercheurs ont découvert que les vaches <b>qui avaient reçu un nom</b> produisaient 300 litres de lait de plus que <b>celles qui n'avaient pas été nommées</b>. Même les animaux avec de '<strong><span class='vocab-link' id='text-reputations' onclick='speakAndScroll(\"reputations\", \"vocab-reputations\")'>mauvaises réputations</span></strong>,' comme les rats, sauvent des vies en Afrique. Parce qu'ils sont petits et ont un odorat <strong><span class='vocab-link' id='text-incredible' onclick='speakAndScroll(\"incredible\", \"vocab-incredible\")'>incroyable</span></strong>, ils peuvent <strong><span class='vocab-link' id='text-detect' onclick='speakAndScroll(\"detect\", \"vocab-detect\")'>détecter</span></strong> des mines terrestres sans les faire <strong><span class='vocab-link' id='text-explode' onclick='speakAndScroll(\"explode\", \"vocab-explode\")'>exploser</span></strong>.</p><p>Cependant, notre <strong><span class='vocab-link' id='text-interaction' onclick='speakAndScroll(\"interaction\", \"vocab-interaction\")'>interaction</span></strong> avec la nature n'est pas toujours positive. Un requin mégamouche très rare est récemment mort dans un filet après <b>avoir été capturé par erreur</b>. Malgré les efforts pour <strong><span class='vocab-link' id='text-persuade' onclick='speakAndScroll(\"persuade\", \"vocab-persuade\")'>persuader</span></strong> le pêcheur de sauver le corps pour la science, il a été utilisé pour un plat traditionnel. Des perroquets prenant des commandes dans des restaurants japonais à un chien nommé Scooby comparaissant devant un tribunal parce qu'<b>il avait été présent</b> sur les lieux d'un crime, les animaux continuent de jouer des rôles <strong><span class='vocab-link' id='text-pivotal' onclick='speakAndScroll(\"pivotal\", \"vocab-pivotal\")'>pivots</span></strong> dans le monde humain.</p><p style='margin-top:2rem;'>Partie 3: La science de la nature humaine</p><p>Alors que nous étudions la nature des animaux, la science <b>examine</b> également le côté obscur de la nature humaine à travers la psychologie. L'une des études les plus célèbres a été <strong><span class='vocab-link' id='text-conducted' onclick='speakAndScroll(\"conducted\", \"vocab-conducted\")'>conduite</span></strong> par Stanley Milgram pour comprendre pourquoi les gens ont <b>participé</b> à des crimes <b>terribles</b> pendant la Seconde Guerre mondiale.</p><p>Dans l'expérience, des 'enseignants' devaient administrer des chocs électriques à des 'apprenants'. Bien que les chocs soient faux, les enseignants croyaient qu'ils étaient réels parce que les apprenants, qui étaient en réalité des acteurs, <b>s'étaient plaints</b> de problèmes cardiaques ou <b>avaient crié</b> de douleur. Lorsque les enseignants voulaient s'arrêter, un 'scientifique' en blouse blanche leur disait qu'ils <b>devaient continuer</b>.</p><p>Les <b>résultats</b> étaient <b>choquants</b> : 65 % des participants ont administré le dernier choc de 450 volts simplement parce qu'une personne en <b>autorité</b> le leur avait dit. Cette étude a montré que les gens <b>ordinaires</b> trouvent <b>extrêmement</b> difficile de dire 'non' aux figures d'autorité, en particulier à celles en uniforme. Elle a révélé que l'<strong><span class='vocab-link' id='text-impulse' onclick='speakAndScroll(\"impulse\", \"vocab-impulse\")'>impulsion</span></strong> à obéir peut parfois <strong><span class='vocab-link' id='text-override' onclick='speakAndScroll(\"override\", \"vocab-override\")'>outrepasser</span></strong> la propre <b>conscience</b> d'une personne.</p>",
+    "ko": "<p style='margin-top:0;'>파트 1: 자연의 미묘한 균형</p><p>현대 사회에서 우리는 환경에 얼마나 깊이 <b>의존하고</b> 있는지를 일깨워주는 뉴스를 자주 접합니다. 최근, <b>알려지지 않은</b> 이유로 꿀벌들이 죽어가고 있다는 <b>놀라운</b> 기사가 보도되었습니다. 꿀벌이 <strong><span class='vocab-link' id='text-extinct' onclick='speakAndScroll(\"extinct\", \"vocab-extinct\")'>멸종</span></strong>하면 <strong><span class='vocab-link' id='text-pollination' onclick='speakAndScroll(\"pollination\", \"vocab-pollination\")'>수분</span></strong> 부족으로 과일이나 채소를 먹을 수 없게 되기 때문에 이는 <b>중대한</b> 문제입니다. 어떤 사람들은 해변 여행을 계획하기 위해 덥고 화창한 날씨의 <b>일기예보</b>를 단순히 즐기는 반면, 다른 사람들은 <b>보존</b>의 <b>더 큰 그림</b>을 바라보고 있습니다.</p><p>예를 들어 모로비아에서는 정부가 해안가를 따라 <b>지어진</b> 몇 채의 <b>끔찍한</b> 주택을 철거하고 대신 새로운 <b>국립공원</b>을 조성하기로 결정했습니다. 이러한 이야기들은 시골을 보호하기 위한 <b>녹지 공간</b>과 연구 <b>자금</b>의 필요성이 증가하고 있음을 <b>강조</b>합니다. 자연은 우리 삶의 단순한 <b>배경</b>이 아닙니다. 그것은 적극적인 보호와 과학적 <b>이해</b>가 필요한 복잡한 시스템입니다.</p><p style='margin-top:2rem;'>파트 2: 인간의 가장 친한 친구와 예상치 못한 동맹자들</p><p>동물 왕국과의 우리의 관계는 종종 일반적인 기대를 <strong><span class='vocab-link' id='text-defy' onclick='speakAndScroll(\"defy\", \"vocab-defy\")'>거스르는</span></strong> <b>특별한</b> 이야기를 만들어냅니다. 동물은 단지 애완동물이 아닙니다. 그들은 우리의 사회적이고 <b>기능적인</b> 삶의 <b>참여자</b>입니다. 예를 들어, 도싯의 한 커플은 반려견들이 해변에서 처음 만났을 때 그들을 <b>함께하게 했기</b> 때문에 결혼식에 개들을 참여시켰습니다.</p><p>과학은 또한 우리가 동물을 대하는 방식이 그들의 <b>생산성</b>에 영향을 미친다는 것을 보여줍니다. 연구자들은 <b>이름이 주어진</b> 소가 <b>이름이 주어지지 않은</b> 소보다 우유를 300리터 더 생산한다는 사실을 발견했습니다. 쥐처럼 '나쁜 <strong><span class='vocab-link' id='text-reputations' onclick='speakAndScroll(\"reputations\", \"vocab-reputations\")'>평판</span></strong>'을 가진 동물들조차 아프리카에서 생명을 구하고 있습니다. 그들은 작고 <strong><span class='vocab-link' id='text-incredible' onclick='speakAndScroll(\"incredible\", \"vocab-incredible\")'>놀라운</span></strong> 후각을 가지고 있기 때문에 지뢰를 <strong><span class='vocab-link' id='text-detect' onclick='speakAndScroll(\"detect\", \"vocab-detect\")'>탐지</span></strong>할 수 있으며, 지뢰를 <strong><span class='vocab-link' id='text-explode' onclick='speakAndScroll(\"explode\", \"vocab-explode\")'>폭발</span></strong>시키지 않습니다.</p><p>그러나 자연과의 <strong><span class='vocab-link' id='text-interaction' onclick='speakAndScroll(\"interaction\", \"vocab-interaction\")'>상호작용</span></strong>이 항상 긍정적인 것은 아닙니다. 매우 희귀한 큰입상어가 <b>실수로 잡힌</b> 후 그물에서 죽었습니다. 과학을 위해 시신을 보존하도록 어부를 <strong><span class='vocab-link' id='text-persuade' onclick='speakAndScroll(\"persuade\", \"vocab-persuade\")'>설득</span></strong>하려는 노력에도 불구하고, 그것은 전통 요리에 사용되었습니다. 일본 레스토랑에서 주문을 받는 앵무새부터 범죄 현장에 <b>있었기</b> 때문에 법정에 출석한 스쿠비라는 개까지, 동물들은 인간 세계에서 계속해서 <strong><span class='vocab-link' id='text-pivotal' onclick='speakAndScroll(\"pivotal\", \"vocab-pivotal\")'>중추적인</span></strong> 역할을 하고 있습니다.</p><p style='margin-top:2rem;'>파트 3: 인간 본성의 과학</p><p>동물의 본성을 연구하는 동안, 과학은 또한 심리학을 통해 인간 본성의 어두운 면을 <b>조사</b>합니다. 가장 유명한 연구 중 하나는 2차 세계대전 중 사람들이 왜 <b>끔찍한</b> 범죄에 <b>참여</b>했는지 이해하기 위해 스탠리 밀그램에 의해 <strong><span class='vocab-link' id='text-conducted' onclick='speakAndScroll(\"conducted\", \"vocab-conducted\")'>수행</span></strong>되었습니다.</p><p>실험에서 '교사'들은 '학습자'들에게 전기 충격을 가하라는 지시를 받았습니다. 충격은 가짜였지만, 실제로는 배우였던 학습자들이 심장 문제를 <b>호소</b>하거나 고통스럽게 <b>비명을 질렀기</b> 때문에 교사들은 그것이 진짜라고 믿었습니다. 교사들이 멈추고 싶어했을 때, 흰 가운을 입은 '과학자'가 <b>계속해야 한다</b>고 말했습니다.</p><p><b>결과</b>는 <b>충격적</b>이었습니다: 참가자의 65%가 <b>권위</b> 있는 사람이 하라고 말했기 때문에 마지막 450볼트 충격을 가했습니다. 이 연구는 <b>평범한</b> 사람들이 특히 제복을 입은 권위자에게 '아니오'라고 말하는 것이 <b>매우</b> 어렵다는 것을 보여주었습니다. 이는 복종하려는 <strong><span class='vocab-link' id='text-impulse' onclick='speakAndScroll(\"impulse\", \"vocab-impulse\")'>충동</span></strong>이 때때로 사람 자신의 <b>양심</b>을 <strong><span class='vocab-link' id='text-override' onclick='speakAndScroll(\"override\", \"vocab-override\")'>무시</span></strong>할 수 있음을 보여주었습니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "extinct",
+        "word": "Extinct",
+        "definition": "When a type of animal or plant has died out and no longer exists in the world."
+      },
+      {
+        "id": "pollination",
+        "word": "Pollination",
+        "definition": "The process where pollen is moved to a flower so that it can make new seeds."
+      },
+      {
+        "id": "defy",
+        "word": "Defy",
+        "definition": "To be very different from what people usually expect or believe is possible."
+      },
+      {
+        "id": "reputations",
+        "word": "Reputations",
+        "definition": "The general opinions or ideas that people have about someone or something."
+      },
+      {
+        "id": "incredible",
+        "word": "Incredible",
+        "definition": "Something that is so amazing, large, or good that it is difficult to believe."
+      },
+      {
+        "id": "detect",
+        "word": "Detect",
+        "definition": "To find or notice something that is hidden or very difficult to see."
+      },
+      {
+        "id": "explode",
+        "word": "Explode",
+        "definition": "To burst suddenly with a very loud noise and cause a lot of damage."
+      },
+      {
+        "id": "interaction",
+        "word": "Interaction",
+        "definition": "The way that two things communicate with each other or work together."
+      },
+      {
+        "id": "persuade",
+        "word": "Persuade",
+        "definition": "To make someone agree to do something by giving them good reasons."
+      },
+      {
+        "id": "pivotal",
+        "word": "Pivotal",
+        "definition": "Extremely important because other things depend on it to be successful."
+      },
+      {
+        "id": "conducted",
+        "word": "Conducted",
+        "definition": "To have organized and performed a specific task, such as an experiment or a test."
+      },
+      {
+        "id": "impulse",
+        "word": "Impulse",
+        "definition": "A sudden and strong feeling that you must do something immediately."
+      },
+      {
+        "id": "override",
+        "word": "Override",
+        "definition": "To be more important than someone else's opinion and change their decision."
+      }
+    ],
+    "ja": [
+      {
+        "id": "extinct",
+        "word": "絶滅",
+        "definition": "ある種の動物や植物が死に絶え、もはや世界に存在しなくなったとき。"
+      },
+      {
+        "id": "pollination",
+        "word": "受粉",
+        "definition": "花粉が花に運ばれ、新しい種子を作ることができるようにする過程。"
+      },
+      {
+        "id": "defy",
+        "word": "覆す",
+        "definition": "人々が通常期待したり可能だと信じたりすることとは非常に異なること。"
+      },
+      {
+        "id": "reputations",
+        "word": "評判",
+        "definition": "人々が誰かや何かについて持っている一般的な意見や考え。"
+      },
+      {
+        "id": "incredible",
+        "word": "驚くべき",
+        "definition": "とても素晴らしく、大きく、または良いので信じることが難しいもの。"
+      },
+      {
+        "id": "detect",
+        "word": "探知",
+        "definition": "隠れているか非常に見つけにくいものを見つけたり気づいたりすること。"
+      },
+      {
+        "id": "explode",
+        "word": "爆発",
+        "definition": "突然非常に大きな音を立てて破裂し、多くの損害を引き起こすこと。"
+      },
+      {
+        "id": "interaction",
+        "word": "相互作用",
+        "definition": "二つのものが互いにコミュニケーションしたり協力したりする方法。"
+      },
+      {
+        "id": "persuade",
+        "word": "説得",
+        "definition": "良い理由を与えて誰かに何かに同意させること。"
+      },
+      {
+        "id": "pivotal",
+        "word": "極めて重要な",
+        "definition": "他のものが成功するためにそれに依存しているため、非常に重要なこと。"
+      },
+      {
+        "id": "conducted",
+        "word": "実施",
+        "definition": "実験やテストなどの特定のタスクを組織し実行したこと。"
+      },
+      {
+        "id": "impulse",
+        "word": "衝動",
+        "definition": "すぐに何かをしなければならないという突然の強い感情。"
+      },
+      {
+        "id": "override",
+        "word": "無視",
+        "definition": "他の誰かの意見よりも重要であり、その決定を変えること。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "extinct",
+        "word": "Éteint",
+        "definition": "Lorsqu'une espèce animale ou végétale a disparu et n'existe plus dans le monde."
+      },
+      {
+        "id": "pollination",
+        "word": "Pollinisation",
+        "definition": "Le processus par lequel le pollen est transporté vers une fleur afin qu'elle puisse produire de nouvelles graines."
+      },
+      {
+        "id": "defy",
+        "word": "Défier",
+        "definition": "Être très différent de ce que les gens attendent généralement ou croient possible."
+      },
+      {
+        "id": "reputations",
+        "word": "Réputations",
+        "definition": "Les opinions ou idées générales que les gens ont à propos de quelqu'un ou de quelque chose."
+      },
+      {
+        "id": "incredible",
+        "word": "Incroyable",
+        "definition": "Quelque chose de si étonnant, grand ou bon qu'il est difficile à croire."
+      },
+      {
+        "id": "detect",
+        "word": "Détecter",
+        "definition": "Trouver ou remarquer quelque chose qui est caché ou très difficile à voir."
+      },
+      {
+        "id": "explode",
+        "word": "Exploser",
+        "definition": "Éclater soudainement avec un bruit très fort et causer beaucoup de dégâts."
+      },
+      {
+        "id": "interaction",
+        "word": "Interaction",
+        "definition": "La façon dont deux choses communiquent entre elles ou fonctionnent ensemble."
+      },
+      {
+        "id": "persuade",
+        "word": "Persuader",
+        "definition": "Faire accepter à quelqu'un de faire quelque chose en lui donnant de bonnes raisons."
+      },
+      {
+        "id": "pivotal",
+        "word": "Pivot",
+        "definition": "Extrêmement important car d'autres choses en dépendent pour réussir."
+      },
+      {
+        "id": "conducted",
+        "word": "Conduit",
+        "definition": "Avoir organisé et exécuté une tâche spécifique, comme une expérience ou un test."
+      },
+      {
+        "id": "impulse",
+        "word": "Impulsion",
+        "definition": "Un sentiment soudain et fort que vous devez faire quelque chose immédiatement."
+      },
+      {
+        "id": "override",
+        "word": "Outrepasser",
+        "definition": "Être plus important que l'opinion de quelqu'un d'autre et modifier sa décision."
+      }
+    ],
+    "ko": [
+      {
+        "id": "extinct",
+        "word": "멸종한",
+        "definition": "특정 동물이나 식물 종이 사라져서 더 이상 세계에 존재하지 않을 때."
+      },
+      {
+        "id": "pollination",
+        "word": "수분",
+        "definition": "꽃가루가 꽃으로 옮겨져 새로운 씨앗을 만들 수 있는 과정."
+      },
+      {
+        "id": "defy",
+        "word": "거스르다",
+        "definition": "사람들이 일반적으로 기대하거나 가능하다고 믿는 것과 매우 다르게 행동하다."
+      },
+      {
+        "id": "reputations",
+        "word": "평판",
+        "definition": "사람들이 누군가 또는 무언가에 대해 가지고 있는 일반적인 의견이나 생각."
+      },
+      {
+        "id": "incredible",
+        "word": "놀라운",
+        "definition": "너무 놀랍고, 크거나, 좋아서 믿기 어려운 것."
+      },
+      {
+        "id": "detect",
+        "word": "탐지하다",
+        "definition": "숨겨져 있거나 보기 매우 어려운 것을 찾거나 알아차리다."
+      },
+      {
+        "id": "explode",
+        "word": "폭발하다",
+        "definition": "갑자기 매우 큰 소리와 함께 터져 많은 피해를 입히다."
+      },
+      {
+        "id": "interaction",
+        "word": "상호작용",
+        "definition": "두 가지가 서로 소통하거나 함께 작동하는 방식."
+      },
+      {
+        "id": "persuade",
+        "word": "설득하다",
+        "definition": "좋은 이유를 들어 누군가가 무언가에 동의하도록 만들다."
+      },
+      {
+        "id": "pivotal",
+        "word": "중추적인",
+        "definition": "다른 것들이 성공하기 위해 그것에 의존하기 때문에 매우 중요한."
+      },
+      {
+        "id": "conducted",
+        "word": "수행한",
+        "definition": "실험이나 테스트와 같은 특정 작업을 조직하고 실행한."
+      },
+      {
+        "id": "impulse",
+        "word": "충동",
+        "definition": "즉시 무언가를 해야 한다는 갑작스럽고 강한 느낌."
+      },
+      {
+        "id": "override",
+        "word": "무시하다",
+        "definition": "다른 사람의 의견보다 더 중요하여 그 결정을 바꾸다."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Vanishing Bees",
+        "label": "Conversation 1: A Threat to Our Food",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Did you read this article about bees?"
+          },
+          {
+            "speaker": "B",
+            "text": "No."
+          },
+          {
+            "speaker": "A",
+            "text": "They're all dying for some unknown reason."
+          },
+          {
+            "speaker": "B",
+            "text": "Really? That's terrible!"
+          },
+          {
+            "speaker": "A",
+            "text": "I know. It's really bad news because we really depend on bees. If bees become extinct, we won't have any fruit or vegetables."
+          },
+          {
+            "speaker": "B",
+            "text": "I hadn't thought about that. They should do something - fund research or something."
+          },
+          {
+            "speaker": "A",
+            "text": "Absolutely."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Sunny Day Out",
+        "label": "Conversation 2: A Break in the Clouds",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "Did you see the forecast for tomorrow?"
+          },
+          {
+            "speaker": "D",
+            "text": "No."
+          },
+          {
+            "speaker": "C",
+            "text": "It's going to be nice - really hot and sunny."
+          },
+          {
+            "speaker": "D",
+            "text": "Really? That's great!"
+          },
+          {
+            "speaker": "C",
+            "text": "I know. It's good. It's been so wet and windy recently."
+          },
+          {
+            "speaker": "D",
+            "text": "We should go out, then - go to the beach or somewhere."
+          },
+          {
+            "speaker": "C",
+            "text": "Yeah, that's a good idea."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Restoring Nature",
+        "label": "Conversation 3: From Buildings to National Parks",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "Did you hear what they want to do in Morovia?"
+          },
+          {
+            "speaker": "F",
+            "text": "No. What?"
+          },
+          {
+            "speaker": "E",
+            "text": "It said on the news that they're going to pull down a lot of the horrible houses they've built along the coast and create a national park instead."
+          },
+          {
+            "speaker": "F",
+            "text": "Really? That's great."
+          },
+          {
+            "speaker": "E",
+            "text": "I know. It's good news."
+          },
+          {
+            "speaker": "F",
+            "text": "They should do more to protect the countryside here too."
+          },
+          {
+            "speaker": "E",
+            "text": "Definitely. We need more green spaces."
+          }
+        ]
+      },
+      {
+        "title": "2-1. The Science of Obedience",
+        "label": "Listening 4: The Shocking Truth",
+        "script": [
+          {
+            "speaker": "Speaker",
+            "text": "The people who were the teachers believed that the learners were receiving real electric shocks,"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "but, in fact, there were none."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "When the 'teacher' pressed the electric shock button, it simply turned on a light in front of the 'learner'."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "After a while, the actor who was playing the 'learner' started to bang on the wall between him and the 'teacher' and to shout in pain."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "At one point, the 'learner' then complained about having a heart problem."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Then, as the false shocks got stronger and stronger, the 'learner' went silent."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Some of the 'teachers' began to laugh nervously or show other signs of stress when they heard the screams coming from the 'learner'."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Many people asked to stop the experiment and wanted to check that the learner was OK."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "However, the 'scientist' told them to 'please continue'."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "When the 'teachers' asked the 'scientist' if he was sure, the 'scientist' said that the experiment required them to continue."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "He then said it was absolutely essential that they continued."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Finally, the scientist told any people who still complained, 'You have no other choice. You must go on.'"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "At the end of the experiment, 65% of participants had given the final 450-volt shock,"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "although many were very uncomfortable doing so;"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "at some point, every teacher stopped and questioned what the purpose of the experiment was,"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "but only one person out of the forty absolutely refused to give shocks before reaching the 300-volt level - a level which could still kill you."
+          }
+        ]
+      },
+      {
+        "title": "2-2. The Power of Authority",
+        "label": "Listening 5: Why We Obey",
+        "script": [
+          {
+            "speaker": "Speaker",
+            "text": "So what was the real purpose of the experiment?"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "During the Second World War, soldiers had participated in some terrible crimes that caused the deaths of millions of innocents."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "People couldn't understand it."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "How could they all be so cruel?"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Why didn't anyone stop the killing?"
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Milgram wanted to investigate these issues."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "The experiment showed that people found it very difficult to say no to people in authority - people more important than them and who wore a uniform."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "All the ordinary people who took part in Milgram's experiment agreed to cause pain to another person just because a 'scientist' in a white coat told them to."
+          },
+          {
+            "speaker": "Speaker",
+            "text": "Most continued long enough to kill someone."
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. 消えゆくミツバチ",
+        "label": "会話 1: 食料への脅威",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "ミツバチに関するこの記事を読んだ？"
+          },
+          {
+            "speaker": "B",
+            "text": "いいえ。"
+          },
+          {
+            "speaker": "A",
+            "text": "未知の理由で全部死んでいるんだ。"
+          },
+          {
+            "speaker": "B",
+            "text": "本当？ひどいね！"
+          },
+          {
+            "speaker": "A",
+            "text": "そうなんだ。ミツバチに本当に依存しているから、本当に悪いニュースなんだ。ミツバチが絶滅したら、果物や野菜が食べられなくなってしまう。"
+          },
+          {
+            "speaker": "B",
+            "text": "それは考えたことなかった。何か対策を取るべきだよね - 研究資金を出すとか。"
+          },
+          {
+            "speaker": "A",
+            "text": "全く同意見。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. 晴れた日の外出",
+        "label": "会話 2: 雲間の休息",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "明日の天気予報見た？"
+          },
+          {
+            "speaker": "D",
+            "text": "いいえ。"
+          },
+          {
+            "speaker": "C",
+            "text": "良さそうだよ - とても暑くて晴れるって。"
+          },
+          {
+            "speaker": "D",
+            "text": "本当？それは嬉しい！"
+          },
+          {
+            "speaker": "C",
+            "text": "そうなんだ。良かった。最近ずっと雨が多くて風が強かったからね。"
+          },
+          {
+            "speaker": "D",
+            "text": "じゃあ出かけよう - 海辺かどこかに。"
+          },
+          {
+            "speaker": "C",
+            "text": "いい考えだね。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. 自然の回復",
+        "label": "会話 3: 建物から国立公園へ",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "モロビアで何をしようとしているか聞いた？"
+          },
+          {
+            "speaker": "F",
+            "text": "いいえ、何？"
+          },
+          {
+            "speaker": "E",
+            "text": "ニュースで、海岸沿いに建てられたひどい家をたくさん取り壊して、代わりに国立公園を作るって言ってた。"
+          },
+          {
+            "speaker": "F",
+            "text": "本当？それは素晴らしい。"
+          },
+          {
+            "speaker": "E",
+            "text": "そうなんだ。良いニュースだよ。"
+          },
+          {
+            "speaker": "F",
+            "text": "こちらの田舎ももっと保護すべきだよね。"
+          },
+          {
+            "speaker": "E",
+            "text": "確かに。もっと緑地が必要だ。"
+          }
+        ]
+      },
+      {
+        "title": "2-1. 服従の科学",
+        "label": "リスニング 4: 衝撃の真実",
+        "script": [
+          {
+            "speaker": "話者",
+            "text": "教師役をした人々は、学習者が実際に電気ショックを受けていると信じていましたが、"
+          },
+          {
+            "speaker": "話者",
+            "text": "実際には、まったくありませんでした。"
+          },
+          {
+            "speaker": "話者",
+            "text": "「教師」が電気ショックボタンを押すと、それは単に「学習者」の前のランプを点灯させただけでした。"
+          },
+          {
+            "speaker": "話者",
+            "text": "しばらくして、「学習者」を演じていた俳優は、自分と「教師」の間の壁を叩き始め、痛みで叫び始めました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "ある時点で、「学習者」は心臓に問題があると訴えました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "その後、偽のショックがますます強くなると、「学習者」は沈黙しました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "「教師」の中には、「学習者」から聞こえる悲鳴を聞いて、神経質に笑ったり、他のストレスの兆候を示し始める者もいました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "多くの人が実験を中止し、学習者が大丈夫か確認したいと望みました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "しかし、「科学者」は「続けてください」と言いました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "「教師」が「科学者」に確かなのか尋ねると、「科学者」は実験を続ける必要があると言いました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "そして彼は、続けることが絶対に不可欠だと言いました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "最後に、科学者はまだ不満を言う人々に「他の選択肢はありません。続けなければなりません」と言いました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "実験の終わりには、参加者の65％が最終的な450ボルトのショックを与えていましたが、"
+          },
+          {
+            "speaker": "話者",
+            "text": "多くの人はそうすることを非常に不快に感じていました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "ある時点で、すべての教師は止まって実験の目的は何かと疑問を抱きましたが、"
+          },
+          {
+            "speaker": "話者",
+            "text": "40人中たった一人だけが、まだ人を殺す可能性のある300ボルトのレベルに達する前にショックを与えることを絶対に拒否しました。"
+          }
+        ]
+      },
+      {
+        "title": "2-2. 権威の力",
+        "label": "リスニング 5: 私たちが従う理由",
+        "script": [
+          {
+            "speaker": "話者",
+            "text": "では、実験の本当の目的は何だったのでしょうか？"
+          },
+          {
+            "speaker": "話者",
+            "text": "第二次世界大戦中、兵士たちは何百万人もの無実の人々の死を引き起こした恐ろしい犯罪に参加していました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "人々はそれを理解できませんでした。"
+          },
+          {
+            "speaker": "話者",
+            "text": "どうしてみんなそんなに残酷になれたのでしょうか？"
+          },
+          {
+            "speaker": "話者",
+            "text": "なぜ誰も殺害を止めなかったのでしょうか？"
+          },
+          {
+            "speaker": "話者",
+            "text": "ミルグラムはこれらの問題を調査したいと考えました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "実験は、人々が権威のある人々、つまり自分より重要で制服を着た人々に「ノー」と言うことが非常に難しいことを示しました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "ミルグラムの実験に参加したすべての普通の人々は、白衣を着た「科学者」がそうするように言ったという理由だけで、他の人に苦痛を与えることに同意しました。"
+          },
+          {
+            "speaker": "話者",
+            "text": "ほとんどは誰かを殺せるほど長く続けました。"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Les abeilles qui disparaissent",
+        "label": "Conversation 1: Une menace pour notre alimentation",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "As-tu lu cet article sur les abeilles ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Non."
+          },
+          {
+            "speaker": "A",
+            "text": "Elles meurent toutes pour une raison inconnue."
+          },
+          {
+            "speaker": "B",
+            "text": "Vraiment ? C'est terrible !"
+          },
+          {
+            "speaker": "A",
+            "text": "Je sais. C'est vraiment une mauvaise nouvelle parce que nous dépendons vraiment des abeilles. Si les abeilles deviennent éteintes, nous n'aurons plus de fruits ou de légumes à manger."
+          },
+          {
+            "speaker": "B",
+            "text": "Je n'avais pas pensé à ça. Ils devraient faire quelque chose - financer la recherche ou quelque chose."
+          },
+          {
+            "speaker": "A",
+            "text": "Absolument."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Journée ensoleillée",
+        "label": "Conversation 2: Une pause dans les nuages",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "As-tu vu les prévisions pour demain ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Non."
+          },
+          {
+            "speaker": "C",
+            "text": "Ça va être agréable - vraiment chaud et ensoleillé."
+          },
+          {
+            "speaker": "D",
+            "text": "Vraiment ? C'est super !"
+          },
+          {
+            "speaker": "C",
+            "text": "Je sais. C'est bien. Il a fait si humide et venteux récemment."
+          },
+          {
+            "speaker": "D",
+            "text": "Nous devrions sortir, alors - aller à la plage ou quelque part."
+          },
+          {
+            "speaker": "C",
+            "text": "Oui, c'est une bonne idée."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Restaurer la nature",
+        "label": "Conversation 3: Des bâtiments aux parcs nationaux",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "As-tu entendu ce qu'ils veulent faire en Morovie ?"
+          },
+          {
+            "speaker": "F",
+            "text": "Non. Quoi ?"
+          },
+          {
+            "speaker": "E",
+            "text": "Il a dit aux nouvelles qu'ils vont démolir beaucoup de maisons horribles qu'ils ont construites le long de la côte et créer un parc national à la place."
+          },
+          {
+            "speaker": "F",
+            "text": "Vraiment ? C'est génial."
+          },
+          {
+            "speaker": "E",
+            "text": "Je sais. C'est une bonne nouvelle."
+          },
+          {
+            "speaker": "F",
+            "text": "Ils devraient faire plus pour protéger la campagne ici aussi."
+          },
+          {
+            "speaker": "E",
+            "text": "Certainement. Nous avons besoin de plus d'espaces verts."
+          }
+        ]
+      },
+      {
+        "title": "2-1. La science de l'obéissance",
+        "label": "Écoute 4: La vérité choquante",
+        "script": [
+          {
+            "speaker": "Intervenant",
+            "text": "Les gens qui étaient les enseignants croyaient que les apprenants recevaient de vrais chocs électriques,"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "mais, en fait, il n'y en avait pas."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Lorsque « l'enseignant » appuyait sur le bouton de choc électrique, il allumait simplement une lumière devant « l'apprenant »."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Au bout d'un moment, l'acteur qui jouait « l'apprenant » a commencé à frapper sur le mur entre lui et « l'enseignant » et à crier de douleur."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "À un moment donné, « l'apprenant » s'est alors plaint d'avoir un problème cardiaque."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Ensuite, alors que les faux chocs devenaient de plus en plus forts, « l'apprenant » est devenu silencieux."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Certains « enseignants » ont commencé à rire nerveusement ou à montrer d'autres signes de stress en entendant les cris de « l'apprenant »."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Beaucoup de gens ont demandé à arrêter l'expérience et ont voulu vérifier que l'apprenant allait bien."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Cependant, « le scientifique » leur a dit de « continuer s'il vous plaît »."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Lorsque les « enseignants » ont demandé au « scientifique » s'il était sûr, le « scientifique » a dit que l'expérience exigeait qu'ils continuent."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Il a ensuite dit qu'il était absolument essentiel qu'ils continuent."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Enfin, le scientifique a dit à toutes les personnes qui se plaignaient encore : « Vous n'avez pas d'autre choix. Vous devez continuer. »"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "À la fin de l'expérience, 65 % des participants avaient administré le dernier choc de 450 volts,"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "bien que beaucoup soient très mal à l'aise de le faire;"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "à un moment donné, chaque enseignant s'est arrêté et s'est interrogé sur le but de l'expérience,"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "mais une seule personne sur les quarante a absolument refusé d'administrer des chocs avant d'atteindre le niveau de 300 volts - un niveau qui pourrait encore vous tuer."
+          }
+        ]
+      },
+      {
+        "title": "2-2. Le pouvoir de l'autorité",
+        "label": "Écoute 5: Pourquoi nous obéissons",
+        "script": [
+          {
+            "speaker": "Intervenant",
+            "text": "Alors, quel était le véritable but de l'expérience ?"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Pendant la Seconde Guerre mondiale, les soldats avaient participé à des crimes terribles qui ont causé la mort de millions d'innocents."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Les gens ne pouvaient pas comprendre."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Comment pouvaient-ils tous être si cruels ?"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Pourquoi personne n'a-t-il arrêté les meurtres ?"
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Milgram voulait enquêter sur ces questions."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "L'expérience a montré que les gens trouvaient très difficile de dire non aux personnes en autorité - des personnes plus importantes qu'eux et qui portaient un uniforme."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "Tous les gens ordinaires qui ont participé à l'expérience de Milgram ont accepté de faire souffrir une autre personne simplement parce qu'un « scientifique » en blouse blanche le leur avait dit."
+          },
+          {
+            "speaker": "Intervenant",
+            "text": "La plupart ont continué assez longtemps pour tuer quelqu'un."
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 사라지는 꿀벌",
+        "label": "대화 1: 식량에 대한 위협",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "꿀벌에 관한 이 기사 읽었어?"
+          },
+          {
+            "speaker": "B",
+            "text": "아니."
+          },
+          {
+            "speaker": "A",
+            "text": "알 수 없는 이유로 모두 죽어가고 있어."
+          },
+          {
+            "speaker": "B",
+            "text": "정말? 끔찍하네!"
+          },
+          {
+            "speaker": "A",
+            "text": "맞아. 우리가 꿀벌에 정말 의존하고 있기 때문에 정말 나쁜 소식이야. 꿀벌이 멸종하면 과일이나 채소를 먹을 수 없게 될 거야."
+          },
+          {
+            "speaker": "B",
+            "text": "그 생각은 못 해봤어. 뭔가 조치를 취해야 해 - 연구 자금을 지원하든가."
+          },
+          {
+            "speaker": "A",
+            "text": "완전히 동의해."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 화창한 나들이",
+        "label": "대화 2: 구름 속의 휴식",
+        "script": [
+          {
+            "speaker": "C",
+            "text": "내일 일기예보 봤어?"
+          },
+          {
+            "speaker": "D",
+            "text": "아니."
+          },
+          {
+            "speaker": "C",
+            "text": "좋을 거래 - 정말 덥고 화창하다고."
+          },
+          {
+            "speaker": "D",
+            "text": "정말? 잘됐다!"
+          },
+          {
+            "speaker": "C",
+            "text": "그러게. 좋아. 요즘 너무 습하고 바람이 많이 불었잖아."
+          },
+          {
+            "speaker": "D",
+            "text": "그럼 나가자 - 해변이나 어디로."
+          },
+          {
+            "speaker": "C",
+            "text": "좋은 생각이야."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 자연 복원",
+        "label": "대화 3: 건물에서 국립공원으로",
+        "script": [
+          {
+            "speaker": "E",
+            "text": "모로비아에서 뭘 하려는지 들었어?"
+          },
+          {
+            "speaker": "F",
+            "text": "아니. 뭔데?"
+          },
+          {
+            "speaker": "E",
+            "text": "뉴스에서 해안가를 따라 지은 끔찍한 집들을 많이 철거하고 대신 국립공원을 만들 거래."
+          },
+          {
+            "speaker": "F",
+            "text": "정말? 잘됐네."
+          },
+          {
+            "speaker": "E",
+            "text": "그러게. 좋은 소식이야."
+          },
+          {
+            "speaker": "F",
+            "text": "여기도 시골을 더 보호해야 해."
+          },
+          {
+            "speaker": "E",
+            "text": "맞아. 더 많은 녹지 공간이 필요해."
+          }
+        ]
+      },
+      {
+        "title": "2-1. 복종의 과학",
+        "label": "리스닝 4: 충격적인 진실",
+        "script": [
+          {
+            "speaker": "화자",
+            "text": "선생님 역할을 한 사람들은 학습자들이 실제 전기 충격을 받고 있다고 믿었지만,"
+          },
+          {
+            "speaker": "화자",
+            "text": "사실은 전혀 없었습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "'교사'가 전기 충격 버튼을 눌렀을 때, 그것은 단순히 '학습자' 앞의 불을 켰을 뿐입니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "얼마 후, '학습자' 역할을 한 배우는 자신과 '교사' 사이의 벽을 두드리기 시작했고 고통스럽게 비명을 질렀습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "어느 순간 '학습자'는 심장 문제가 있다고 호소했습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "그런 다음 가짜 충격이 점점 더 강해지자 '학습자'는 조용해졌습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "일부 '교사'들은 '학습자'의 비명 소리를 들었을 때 긴장된 웃음을 짓거나 다른 스트레스 징후를 보이기 시작했습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "많은 사람들이 실험을 중단하고 학습자가 괜찮은지 확인하고 싶어 했습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "그러나 '과학자'는 '계속해 주십시오'라고 말했습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "'교사'들이 '과학자'에게 확실하냐고 묻자, '과학자'는 실험이 계속되어야 한다고 말했습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "그런 다음 그는 계속하는 것이 절대적으로 필수적이라고 말했습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "마지막으로, 과학자는 여전히 불평하는 사람들에게 '다른 선택지가 없습니다. 계속해야 합니다'라고 말했습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "실험이 끝날 때, 참가자의 65%가 마지막 450볼트 충격을 가했지만,"
+          },
+          {
+            "speaker": "화자",
+            "text": "많은 사람들은 그렇게 하는 것을 매우 불편해했습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "어느 시점에서 모든 교사는 멈추고 실험의 목적이 무엇인지 의문을 제기했지만,"
+          },
+          {
+            "speaker": "화자",
+            "text": "40명 중 단 한 명만이 여전히 사람을 죽일 수 있는 300볼트 수준에 도달하기 전에 충격을 가하는 것을 단호히 거부했습니다."
+          }
+        ]
+      },
+      {
+        "title": "2-2. 권위의 힘",
+        "label": "리스닝 5: 우리가 복종하는 이유",
+        "script": [
+          {
+            "speaker": "화자",
+            "text": "그렇다면 실험의 진짜 목적은 무엇이었을까요?"
+          },
+          {
+            "speaker": "화자",
+            "text": "2차 세계대전 중, 군인들은 수백만 명의 무고한 사람들의 죽음을 초래한 끔찍한 범죄에 참여했습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "사람들은 그것을 이해할 수 없었습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "어떻게 그렇게 모두가 잔인할 수 있었을까요?"
+          },
+          {
+            "speaker": "화자",
+            "text": "왜 아무도 살인을 막지 않았을까요?"
+          },
+          {
+            "speaker": "화자",
+            "text": "밀그램은 이러한 문제를 조사하고 싶었습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "실험은 사람들이 권위 있는 사람들, 즉 자신보다 더 중요하고 제복을 입은 사람들에게 '아니오'라고 말하는 것이 매우 어렵다는 것을 보여주었습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "밀그램의 실험에 참여한 모든 평범한 사람들은 흰 가운을 입은 '과학자'가 하라고 했기 때문에 다른 사람에게 고통을 주는 데 동의했습니다."
+          },
+          {
+            "speaker": "화자",
+            "text": "대부분은 누군가를 죽일 수 있을 만큼 오랫동안 계속했습니다."
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "MAN'S BEST FRIENDS",
+    "ja": "人間の最良の友",
+    "fr": "LES MEILLEURS AMIS DE L'HOMME",
+    "ko": "인간의 가장 친한 친구들"
+  },
+  "extra_reading_html": {
+    "en": "<p>1. A Dorset couple, Andrew and Harriet Athay, got married with their dogs acting as best man and maids of honour on the big day because <b>they had brought the couple together</b>. Andrew and Harriet met when they were walking their respective pets along a beach. They started chatting when the dogs were playing with each other.</p><p>2. A very rare shark, <b>which has only been seen on 40 occasions</b>, has been eaten by a Filipino fisherman. The megamouth shark died in a net after <b>it had been caught by mistake</b>. The World Wildlife Fund, which wants to protect the sharks from extinction, tried to persuade the fisherman to let scientists have the body, but the fisherman insisted on using it to prepare a traditional Filipino dish called kinunot.</p><p>3. A Japanese restaurant is employing two parrots as waiters. The parrots take drinks orders from customers and repeat them to a waiter at the bar, who then brings the drinks to the table. <b>The parrots had previously lived in a cage</b> in a corner of the restaurant. One day the owner, Mr Otusaka, heard the parrots copying his customers' requests and after that, he trained them to actually take orders.</p><p>4. Rats may have a bad reputation, but, says a spokesman for the charity HeroRats, they are saving hundreds of lives in Africa because of their incredible sense of smell and intelligence. <b>The rats are trained to detect mines and bombs</b> lying in the ground. Being so small, they don't cause the mines to explode when they stand on them. They can also detect some diseases in humans.</p><p>5. Researchers from Newcastle University have discovered that farmers who are friendly and talk to their cows can boost milk production. They found that <b>cows that had been given names</b> by their farmers produced over 300 litres more milk a year than <b>those which hadn't been named</b>.</p><p>6. A dog called Scooby has appeared in court in a murder case. The animal's owner <b>had been found dead</b> in her flat and the family <b>had asked for an investigation</b>. Scooby, <b>who had been in the flat</b>, was brought into court to see how he would react to the man suspected of the crime. It barked very loudly. The police now need to decide if there is enough evidence to take the case further.</p>",
+    "ja": "<p>1. ドーセットのカップル、アンドリューとハリエット・アセイは、犬たちが結婚式で介添え人を務める中で結婚式を挙げました。なぜなら、その犬たちが<b>二人を引き合わせた</b>からです。アンドリューとハリエットは、それぞれのペットを連れてビーチを散歩しているときに出会いました。犬たちが一緒に遊んでいる時に、彼らは話し始めました。</p><p>2. <b>これまでに40回しか目撃されていない</b>非常に珍しいサメが、フィリピンの漁師に食べられました。メガマウスザメは<b>誤って捕獲された</b>後、網の中で死にました。サメを絶滅から守りたい世界自然保護基金は、科学者に遺体を譲るよう漁師を説得しようとしましたが、漁師はキヌノットと呼ばれる伝統的なフィリピン料理を作るために使用することにこだわりました。</p><p>3. 日本のレストランが2羽のオウムをウェイターとして雇っています。オウムは客から飲み物の注文を受け、バーのウェイターに繰り返し伝え、ウェイターはテーブルに飲み物を運びます。<b>オウムは以前、レストランの隅にある檻の中で暮らしていました。</b>ある日、オーナーのオオサカさんは、オウムが客のリクエストを真似しているのを聞き、その後、実際に注文を取るように訓練しました。</p><p>4. ラットは悪い評判を持つかもしれませんが、慈善団体ヒーローラッツのスポークスマンによると、彼らは信じられないほどの嗅覚と知性のおかげでアフリカで何百もの命を救っています。<b>ラットは地面に埋まっている地雷や爆弾を探知するように訓練されています。</b>非常に小さいため、地雷の上に立っても爆発させません。また、人間のいくつかの病気も探知できます。</p><p>5. ニューカッスル大学の研究者たちは、親しみやすく牛に話しかける農家が牛乳生産量を増やせることを発見しました。彼らは、農家によって<b>名前を付けられた牛</b>は、<b>名前を付けられなかった牛</b>よりも年間300リットル以上の牛乳を生産することを発見しました。</p><p>6. スクービーという名前の犬が殺人事件で法廷に出廷しました。その動物の飼い主はアパートで<b>死んでいるのが発見され</b>、家族は<b>調査を依頼しました</b>。アパートに<b>いた</b>スクービーは、容疑者にどのように反応するかを見るために法廷に連れてこられました。それは非常に大声で吠えました。警察は現在、事件をさらに進めるのに十分な証拠があるかどうかを判断する必要があります。</p>",
+    "fr": "<p>1. Un couple du Dorset, Andrew et Harriet Athay, s'est marié avec leurs chiens agissant comme témoins lors du grand jour parce qu'ils <b>avaient réuni le couple</b>. Andrew et Harriet se sont rencontrés alors qu'ils promenaient leurs animaux respectifs sur une plage. Ils ont commencé à discuter lorsque les chiens jouaient ensemble.</p><p>2. Un requin très rare, <b>qui n'a été vu qu'à 40 reprises</b>, a été mangé par un pêcheur philippin. Le requin grande-gueule est mort dans un filet après avoir <b>été capturé par erreur</b>. Le Fonds mondial pour la nature, qui veut protéger les requins de l'extinction, a essayé de persuader le pêcheur de laisser les scientifiques avoir le corps, mais le pêcheur a insisté pour l'utiliser afin de préparer un plat traditionnel philippin appelé kinunot.</p><p>3. Un restaurant japonais emploie deux perroquets comme serveurs. Les perroquets prennent les commandes de boissons des clients et les répètent à un serveur au bar, qui apporte ensuite les boissons à la table. <b>Les perroquets avaient vécu auparavant dans une cage</b> dans un coin du restaurant. Un jour, le propriétaire, M. Otusaka, a entendu les perroquets copier les demandes de ses clients et après cela, il les a entraînés à prendre réellement les commandes.</p><p>4. Les rats peuvent avoir une mauvaise réputation, mais, selon un porte-parole de l'association HeroRats, ils sauvent des centaines de vies en Afrique grâce à leur odorat et leur intelligence incroyables. <b>Les rats sont entraînés à détecter les mines et les bombes</b> enfouies dans le sol. Étant si petits, ils ne font pas exploser les mines lorsqu'ils marchent dessus. Ils peuvent également détecter certaines maladies chez l'homme.</p><p>5. Des chercheurs de l'Université de Newcastle ont découvert que les agriculteurs qui sont amicaux et parlent à leurs vaches peuvent augmenter la production de lait. Ils ont constaté que les <b>vaches qui avaient reçu un nom</b> de la part de leurs agriculteurs produisaient plus de 300 litres de lait supplémentaires par an que <b>celles qui n'avaient pas été nommées</b>.</p><p>6. Un chien nommé Scooby est apparu devant un tribunal dans une affaire de meurtre. Le propriétaire de l'animal <b>avait été retrouvé mort</b> dans son appartement et la famille <b>avait demandé une enquête</b>. Scooby, <b>qui se trouvait dans l'appartement</b>, a été amené au tribunal pour voir comment il réagirait à l'homme soupçonné du crime. Il a aboyé très fort. La police doit maintenant décider s'il existe suffisamment de preuves pour aller plus loin dans l'affaire.</p>",
+    "ko": "<p>1. 도싯의 한 커플, 앤드류와 해리엇 애세이는 반려견들이 결혼식에서 신랑 들러리와 신부 들러리 역할을 하며 결혼식을 올렸습니다. 왜냐하면 그 개들이 <b>두 사람을 함께하게 했기</b> 때문입니다. 앤드류와 해리엇은 해변에서 각자의 반려동물을 산책시키다가 만났습니다. 개들이 서로 놀 때 그들은 대화를 나누기 시작했습니다.</p><p>2. <b>단 40번만 목격된</b> 매우 희귀한 상어가 필리핀 어부에 의해 먹혔습니다. 큰입상어는 <b>실수로 잡힌</b> 후 그물에서 죽었습니다. 상어를 멸종으로부터 보호하려는 세계야생생물기금은 과학자들에게 시신을 넘기도록 어부를 설득하려 했지만, 어부는 전통 필리핀 요리인 키누놋을 만드는 데 사용하겠다고 고집했습니다.</p><p>3. 일본의 한 레스토랑이 두 마리의 앵무새를 웨이터로 고용하고 있습니다. 앵무새는 손님으로부터 음료 주문을 받아 바의 웨이터에게 반복하고, 웨이터는 테이블로 음료를 가져다줍니다. <b>앵무새는 이전에 레스토랑 구석에 있는 새장에서 살았습니다.</b> 어느 날 주인인 오오사카 씨는 앵무새가 손님들의 요청을 따라 하는 것을 듣고, 그 후에 그가 실제로 주문을 받도록 훈련시켰습니다.</p><p>4. 쥐는 나쁜 평판을 가지고 있을 수 있지만, 자선 단체 히어로래츠의 대변인에 따르면 그들은 놀라운 후각과 지능 덕분에 아프리카에서 수백 명의 생명을 구하고 있습니다. <b>쥐는 땅에 있는 지뢰와 폭탄을 탐지하도록 훈련받습니다.</b> 매우 작기 때문에 지뢰 위에 서 있어도 지뢰가 폭발하지 않습니다. 그들은 또한 인간의 일부 질병을 탐지할 수 있습니다.</p><p>5. 뉴캐슬 대학교의 연구원들은 친절하고 소에게 말을 거는 농부가 우유 생산량을 증가시킬 수 있다는 사실을 발견했습니다. 그들은 농부에 의해 <b>이름이 주어진 소</b>가 <b>이름이 주어지지 않은 소</b>보다 연간 300리터 이상의 우유를 더 생산한다는 것을 발견했습니다.</p><p>6. 스쿠비라는 개가 살인 사건으로 법정에 출두했습니다. 그 동물의 주인은 아파트에서 <b>죽은 채 발견되었고</b> 가족은 <b>수사를 요청했습니다</b>. 아파트에 <b>있었던</b> 스쿠비는 범죄 용의자에게 어떻게 반응하는지 보기 위해 법정에 데려왔습니다. 그것은 매우 크게 짖었습니다. 경찰은 이제 사건을 더 진행할 충분한 증거가 있는지 결정해야 합니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Andrew and Harriet Athay met each other while they were working at a pet shop.",
+        "correct": "F",
+        "explanation": "False (They actually met on a beach while walking their pets.)"
+      },
+      {
+        "question": "The Filipino fisherman decided to give the rare shark's body to scientists for research.",
+        "correct": "F",
+        "explanation": "False (The fisherman insisted on using the shark to prepare a traditional dish called kinunot.)"
+      },
+      {
+        "question": "The owner trained the parrots after hearing them copy the requests of his customers.",
+        "correct": "T",
+        "explanation": "True (Mr. Otusaka trained them after he noticed them copying customer orders.)"
+      },
+      {
+        "question": "Trained rats are useful for finding mines because they are light enough not to make them explode.",
+        "correct": "T",
+        "explanation": "True (Being small, they don't cause the mines to explode when they stand on them.)"
+      },
+      {
+        "question": "Cows that were given names by their farmers produced less milk than those without names.",
+        "correct": "F",
+        "explanation": "False (Named cows actually produced over 300 litres more milk a year than those which hadn't been named.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "アンドリューとハリエット・アセイは、ペットショップで働いているときに出会った。",
+        "correct": "F",
+        "explanation": "偽 (彼らは実際にはペットの散歩中にビーチで出会いました。)"
+      },
+      {
+        "question": "フィリピンの漁師は、研究のために珍しいサメの体を科学者に提供することに決めた。",
+        "correct": "F",
+        "explanation": "偽 (漁師はキヌノットという伝統的なフィリピン料理を作るためにサメを使うことにこだわりました。)"
+      },
+      {
+        "question": "オーナーは、オウムが客のリクエストを真似しているのを聞いて、オウムを訓練した。",
+        "correct": "T",
+        "explanation": "真 (オオサカさんは、オウムが客の注文を真似しているのを発見した後、訓練しました。)"
+      },
+      {
+        "question": "訓練されたラットは、軽すぎて地雷を爆発させないため、地雷発見に役立つ。",
+        "correct": "T",
+        "explanation": "真 (小さいため、地雷の上に立っても地雷を爆発させません。)"
+      },
+      {
+        "question": "農家によって名前を付けられた牛は、名前のない牛よりも牛乳の生産量が少なかった。",
+        "correct": "F",
+        "explanation": "偽 (名前を付けられた牛は、名前を付けられなかった牛よりも年間300リットル以上の牛乳を生産しました。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Andrew et Harriet Athay se sont rencontrés alors qu'ils travaillaient dans une animalerie.",
+        "correct": "F",
+        "explanation": "Faux (Ils se sont en fait rencontrés sur une plage en promenant leurs animaux de compagnie.)"
+      },
+      {
+        "question": "Le pêcheur philippin a décidé de donner le corps du requin rare aux scientifiques pour la recherche.",
+        "correct": "F",
+        "explanation": "Faux (Le pêcheur a insisté pour utiliser le requin afin de préparer un plat traditionnel philippin appelé kinunot.)"
+      },
+      {
+        "question": "Le propriétaire a dressé les perroquets après les avoir entendus copier les demandes de ses clients.",
+        "correct": "T",
+        "explanation": "Vrai (M. Otusaka les a dressés après avoir remarqué qu'ils copiaient les commandes des clients.)"
+      },
+      {
+        "question": "Les rats dressés sont utiles pour trouver des mines parce qu'ils sont assez légers pour ne pas les faire exploser.",
+        "correct": "T",
+        "explanation": "Vrai (Étant petits, ils ne font pas exploser les mines lorsqu'ils marchent dessus.)"
+      },
+      {
+        "question": "Les vaches qui avaient reçu un nom de la part de leurs agriculteurs produisaient moins de lait que celles sans nom.",
+        "correct": "F",
+        "explanation": "Faux (Les vaches nommées produisaient en réalité plus de 300 litres de lait supplémentaires par an que celles qui n'avaient pas été nommées.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "앤드류와 해리엇 애세이는 애완동물 가게에서 일할 때 만났다.",
+        "correct": "F",
+        "explanation": "거짓 (그들은 반려동물을 산책시키다가 해변에서 만났습니다.)"
+      },
+      {
+        "question": "필리핀 어부는 희귀 상어의 몸을 과학 연구를 위해 기증하기로 결정했다.",
+        "correct": "F",
+        "explanation": "거짓 (어부는 키누놋이라는 전통 필리핀 요리를 만들기 위해 상어를 사용했습니다.)"
+      },
+      {
+        "question": "주인은 앵무새가 손님들의 주문을 따라하는 것을 듣고 훈련시켰다.",
+        "correct": "T",
+        "explanation": "참 (오오사카 씨는 앵무새가 손님들의 주문을 따라하는 것을 발견한 후 훈련시켰습니다.)"
+      },
+      {
+        "question": "훈련된 쥐는 무게가 가벼워 지뢰를 폭발시키지 않고 탐지할 수 있어 유용하다.",
+        "correct": "T",
+        "explanation": "참 (작아서 지뢰 위에 서 있어도 폭발하지 않습니다.)"
+      },
+      {
+        "question": "이름이 있는 소는 이름이 없는 소보다 우유 생산량이 적다.",
+        "correct": "F",
+        "explanation": "거짓 (이름이 있는 소는 이름이 없는 소보다 연간 300리터 더 많은 우유를 생산합니다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "depend on the environment",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "look at the bigger picture",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "We often receive news that reminds us how deeply we depend on the environment, while some look at the bigger picture of conservation.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "scientific understanding",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "active protection",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Nature is a complex system that requires active protection and scientific understanding.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Because we depend on the environment, we must look at the bigger picture. Protecting the countryside requires active protection based on scientific understanding.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "conducted by Stanley Milgram",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "person in authority",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "One of the most famous studies was conducted by Stanley Milgram to see why people obey a person in authority.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "find it extremely difficult",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "override a person's own conscience",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Ordinary people find it extremely difficult to let their values override a person's own conscience.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "The study conducted by Stanley Milgram showed that people find it extremely difficult to say no to a person in authority, even if the order overrides a person's own conscience.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "We depend on the environment, so we must look at the bigger picture and provide active protection through scientific understanding. However, studies conducted by Stanley Milgram reveal that humans find it extremely difficult to resist a person in authority, which can override a person's own conscience.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "환경에 의존하다",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "큰 그림을 보다",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "우리는 환경에 얼마나 깊이 의존하고 있는지 일깨워주는 뉴스를 자주 접하며, 어떤 이들은 보존의 더 큰 그림을 바라봅니다.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "과학적 이해",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "적극적인 보호",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "자연은 적극적인 보호와 과학적 이해가 필요한 복잡한 시스템입니다.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "우리는 환경에 의존하기 때문에 더 큰 그림을 바라봐야 합니다. 시골 보호는 과학적 이해에 기반한 적극적인 보호가 필요합니다.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "스탠리 밀그램이 수행한",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "권위 있는 사람",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "가장 유명한 연구 중 하나는 사람들이 왜 권위 있는 사람에게 복종하는지 알아보기 위해 스탠리 밀그램이 수행한 것입니다.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "매우 어렵게 여기다",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "자신의 양심을 무시하다",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "평범한 사람들은 자신의 가치관이 자신의 양심을 무시하도록 하는 것을 매우 어렵게 여깁니다.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "스탠리 밀그램이 수행한 연구는 명령이 자신의 양심을 무시하더라도 사람들이 권위 있는 사람에게 '아니오'라고 말하는 것을 매우 어렵게 여긴다는 것을 보여주었습니다.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "우리는 환경에 의존하므로 더 큰 그림을 바라보고 과학적 이해를 통한 적극적인 보호를 제공해야 합니다. 그러나 스탠리 밀그램이 수행한 연구에 따르면 인간은 권위 있는 사람에게 저항하는 것을 매우 어렵게 여기며, 이는 자신의 양심을 무시하게 만들 수 있습니다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "環境に依存する",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "全体像を見る",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "私たちは環境にどれほど深く依存しているかを思い知らせるニュースをよく受け取り、一方で保全の全体像を見る人もいます。",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "科学的理解",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "積極的な保護",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "自然は積極的な保護と科学的理解を必要とする複雑なシステムです。",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "私たちは環境に依存しているため、全体像を見なければなりません。田園保護には科学的理解に基づく積極的な保護が必要です。",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "スタンレー・ミルグラムによって実施された",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "権威ある人物",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "最も有名な研究の一つは、なぜ人々が権威ある人物に従うのかを見るためにスタンレー・ミルグラムによって実施されたものです。",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "非常に困難だと感じる",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "自分の良心を無視する",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "普通の人々は、自分の価値観が自分の良心を無視することを非常に困難だと感じます。",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "スタンレー・ミルグラムによって実施された研究は、命令が自分の良心を無視する場合でも、人々が権威ある人物に「ノー」と言うことを非常に困難だと感じることを示しました。",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "私たちは環境に依存しているため、全体像を見て、科学的理解を通じて積極的な保護を提供しなければなりません。しかし、スタンレー・ミルグラムによって実施された研究によると、人間は権威ある人物に抵抗することを非常に困難だと感じ、それが自分の良心を無視させる可能性があります。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "dépendre de l'environnement",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "voir la situation dans son ensemble",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Nous recevons souvent des nouvelles qui nous rappellent à quel point nous dépendons de l'environnement, tandis que certains voient la situation dans son ensemble de la conservation.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "compréhension scientifique",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "protection active",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "La nature est un système complexe qui nécessite une protection active et une compréhension scientifique.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Parce que nous dépendons de l'environnement, nous devons voir la situation dans son ensemble. La protection de la campagne nécessite une protection active basée sur une compréhension scientifique.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "conduite par Stanley Milgram",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "personne en autorité",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "L'une des études les plus célèbres a été conduite par Stanley Milgram pour voir pourquoi les gens obéissent à une personne en autorité.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "trouver extrêmement difficile",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "outrepasser sa propre conscience",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Les gens ordinaires trouvent extrêmement difficile de laisser leurs valeurs outrepasser leur propre conscience.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "L'étude conduite par Stanley Milgram a montré que les gens trouvent extrêmement difficile de dire non à une personne en autorité, même si l'ordre outrepasse leur propre conscience.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nous dépendons de l'environnement, nous devons donc voir la situation dans son ensemble et fournir une protection active grâce à une compréhension scientifique. Cependant, les études conduites par Stanley Milgram révèlent que les humains trouvent extrêmement difficile de résister à une personne en autorité, ce qui peut outrepasser leur propre conscience.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Form and Structure (had + past participle)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Affirmative</strong>: Subject + <strong>had</strong> + past participle (e.g., worked, seen).</p><p style='margin:5px 0;'><strong>• Negative</strong>: Subject + <strong>hadn't (had not)</strong> + past participle.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> 'The pets <span style='color:#e67e22; font-weight:bold;'>had brought</span> the couple together.'<br><i style='color:#7f8c8d;'>(How Andrew and Harriet met)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'The cows <span style='color:#16a085; font-weight:bold;'>hadn't been named</span> by the farmers.'<br><i style='color:#7f8c8d;'>(Comparison of milk production)</i></li></ul><h3>2. Expressing 'The Past of the Past'</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Usage</strong>: We use the past perfect to talk about an action that happened <strong>before</strong> another action in the past.</p><p style='margin:5px 0;'><strong>• Sequence</strong>: Past Perfect (1st Action) → Past Simple (2nd Action).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'The shark died after it <span style='color:#2980b9; font-weight:bold;'>had been caught</span>.'<br><i style='color:#7f8c8d;'>(Caught in the net came before dying)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'The owner <span style='color:#2980b9; font-weight:bold;'>had been found</span> dead in her flat.'<br><i style='color:#7f8c8d;'>(The death happened before the investigation started)</i></li></ul><h3>3. Questions and Short Answers</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Question</strong>: <strong>Had</strong> + Subject + past participle...?</p><p style='margin:5px 0;'><strong>• Short Answer</strong>: Yes, I <strong>had</strong>. / No, I <strong>hadn't</strong>.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> '<span style='color:#d35400; font-weight:bold;'>Had</span> the parrots <span style='color:#d35400; font-weight:bold;'>lived</span> in a cage before?'<br><i style='color:#7f8c8d;'>(Yes, they had lived there previously)</i></li></ul>",
+    "ko": "<p><em>문법 노트는 현재 영어로만 제공됩니다. 한국어 버전은 추후 추가될 예정입니다.</em></p>",
+    "ja": "<p><em>文法ノートは現在英語のみ利用可能です。日本語版は後日追加されます。</em></p>",
+    "fr": "<p><em>Les notes de grammaire sont actuellement disponibles uniquement en anglais. La version française sera ajoutée ultérieurement.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Nature & Environment</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: extinct, pollination, conservation, national park, funding</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Scientific research requires a lot of <select class='vocab-select'><option value=''>── select ──</option><option value='extinct'>extinct</option><option value='pollination'>pollination</option><option value='conservation'>conservation</option><option value='national park'>national park</option><option value='funding'>funding</option></select> from the state.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='funding' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. The government is focusing on nature <select class='vocab-select'><option value=''>── select ──</option><option value='extinct'>extinct</option><option value='pollination'>pollination</option><option value='conservation'>conservation</option><option value='national park'>national park</option><option value='funding'>funding</option></select> to protect wildlife.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='conservation' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. If honeybees die out completely, they will become <select class='vocab-select'><option value=''>── select ──</option><option value='extinct'>extinct</option><option value='pollination'>pollination</option><option value='conservation'>conservation</option><option value='national park'>national park</option><option value='funding'>funding</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='extinct' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. They turned the coastal area into a new <select class='vocab-select'><option value=''>── select ──</option><option value='extinct'>extinct</option><option value='pollination'>pollination</option><option value='conservation'>conservation</option><option value='national park'>national park</option><option value='funding'>funding</option></select> for the public.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='national park' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. Bees are essential for <select class='vocab-select'><option value=''>── select ──</option><option value='extinct'>extinct</option><option value='pollination'>pollination</option><option value='conservation'>conservation</option><option value='national park'>national park</option><option value='funding'>funding</option></select>, helping plants grow fruits.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='pollination' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Animals & Abilities</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: defy, reputations, incredible, detect, explode</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. The rats are small enough that they don't make the mines <select class='vocab-select'><option value=''>── select ──</option><option value='defy'>defy</option><option value='reputations'>reputations</option><option value='incredible'>incredible</option><option value='detect'>detect</option><option value='explode'>explode</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='explode' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Even animals with bad <select class='vocab-select'><option value=''>── select ──</option><option value='defy'>defy</option><option value='reputations'>reputations</option><option value='incredible'>incredible</option><option value='detect'>detect</option><option value='explode'>explode</option></select>, like rats, can be helpful.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='reputations' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. These trained animals can <select class='vocab-select'><option value=''>── select ──</option><option value='defy'>defy</option><option value='reputations'>reputations</option><option value='incredible'>incredible</option><option value='detect'>detect</option><option value='explode'>explode</option></select> hidden bombs in the ground.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='detect' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Rats have an <select class='vocab-select'><option value=''>── select ──</option><option value='defy'>defy</option><option value='reputations'>reputations</option><option value='incredible'>incredible</option><option value='detect'>detect</option><option value='explode'>explode</option></select> sense of smell to find landmines.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='incredible' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. The parrot's intelligence <select class='vocab-select'><option value=''>── select ──</option><option value='defy'>defy</option><option value='reputations'>reputations</option><option value='incredible'>incredible</option><option value='detect'>detect</option><option value='explode'>explode</option></select> all common expectations.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='defy' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Human-Animal Connection</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: interaction, persuade, pivotal, conducted, extraordinary</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Animals play <select class='vocab-select'><option value=''>── select ──</option><option value='interaction'>interaction</option><option value='persuade'>persuade</option><option value='pivotal'>pivotal</option><option value='conducted'>conducted</option><option value='extraordinary'>extraordinary</option></select> roles in our social and functional lives.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='pivotal' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Our relationship with animals often produces <select class='vocab-select'><option value=''>── select ──</option><option value='interaction'>interaction</option><option value='persuade'>persuade</option><option value='pivotal'>pivotal</option><option value='conducted'>conducted</option><option value='extraordinary'>extraordinary</option></select> stories.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='extraordinary' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Stanley Milgram <select class='vocab-select'><option value=''>── select ──</option><option value='interaction'>interaction</option><option value='persuade'>persuade</option><option value='pivotal'>pivotal</option><option value='conducted'>conducted</option><option value='extraordinary'>extraordinary</option></select> a famous experiment on obedience.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='conducted' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. It was hard to <select class='vocab-select'><option value=''>── select ──</option><option value='interaction'>interaction</option><option value='persuade'>persuade</option><option value='pivotal'>pivotal</option><option value='conducted'>conducted</option><option value='extraordinary'>extraordinary</option></select> the fisherman to give up the rare shark.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='persuade' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. Our <select class='vocab-select'><option value=''>── select ──</option><option value='interaction'>interaction</option><option value='persuade'>persuade</option><option value='pivotal'>pivotal</option><option value='conducted'>conducted</option><option value='extraordinary'>extraordinary</option></select> with nature is not always a positive one.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='interaction' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Human Nature & Psychology</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: impulse, override, conscience, authority, productivity</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. People often feel guilty when they go against their <select class='vocab-select'><option value=''>── select ──</option><option value='impulse'>impulse</option><option value='override'>override</option><option value='conscience'>conscience</option><option value='authority'>authority</option><option value='productivity'>productivity</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='conscience' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Talking to cows can significantly increase their milk <select class='vocab-select'><option value=''>── select ──</option><option value='impulse'>impulse</option><option value='override'>override</option><option value='conscience'>conscience</option><option value='authority'>authority</option><option value='productivity'>productivity</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='productivity' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Can the need to follow orders <select class='vocab-select'><option value=''>── select ──</option><option value='impulse'>impulse</option><option value='override'>override</option><option value='conscience'>conscience</option><option value='authority'>authority</option><option value='productivity'>productivity</option></select> your own morals?<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='override' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 65% of people obeyed the person in <select class='vocab-select'><option value=''>── select ──</option><option value='impulse'>impulse</option><option value='override'>override</option><option value='conscience'>conscience</option><option value='authority'>authority</option><option value='productivity'>productivity</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='authority' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. The sudden <select class='vocab-select'><option value=''>── select ──</option><option value='impulse'>impulse</option><option value='override'>override</option><option value='conscience'>conscience</option><option value='authority'>authority</option><option value='productivity'>productivity</option></select> to obey can be very strong.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='impulse' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 絶滅した, 受粉, 保全, 国立公園, 資金</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 科学研究には国からの多くの<select class='vocab-select'><option value=''>── 選択 ──</option><option value='絶滅した'>絶滅した</option><option value='受粉'>受粉</option><option value='保全'>保全</option><option value='国立公園'>国立公園</option><option value='資金'>資金</option></select>が必要です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='資金' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 政府は野生生物を保護するために自然<select class='vocab-select'><option value=''>── 選択 ──</option><option value='絶滅した'>絶滅した</option><option value='受粉'>受粉</option><option value='保全'>保全</option><option value='国立公園'>国立公園</option><option value='資金'>資金</option></select>に焦点を当てています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='保全' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. ミツバチが完全に死に絶えると、それらは<select class='vocab-select'><option value=''>── 選択 ──</option><option value='絶滅した'>絶滅した</option><option value='受粉'>受粉</option><option value='保全'>保全</option><option value='国立公園'>国立公園</option><option value='資金'>資金</option></select>することになります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='絶滅した' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 彼らは海岸地域を一般のための新しい<select class='vocab-select'><option value=''>── 選択 ──</option><option value='絶滅した'>絶滅した</option><option value='受粉'>受粉</option><option value='保全'>保全</option><option value='国立公園'>国立公園</option><option value='資金'>資金</option></select>に変えました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='国立公園' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. ミツバチは植物が実をつけるのを助ける<select class='vocab-select'><option value=''>── 選択 ──</option><option value='絶滅した'>絶滅した</option><option value='受粉'>受粉</option><option value='保全'>保全</option><option value='国立公園'>国立公園</option><option value='資金'>資金</option></select>に不可欠です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='受粉' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 逆らう, 評判, 信じられない, 探知する, 爆発する</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. ラットは地雷を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='逆らう'>逆らう</option><option value='評判'>評判</option><option value='信じられない'>信じられない</option><option value='探知する'>探知する</option><option value='爆発する'>爆発する</option></select>させないほど小さいです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='爆発する' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. ラットのように悪い<select class='vocab-select'><option value=''>── 選択 ──</option><option value='逆らう'>逆らう</option><option value='評判'>評判</option><option value='信じられない'>信じられない</option><option value='探知する'>探知する</option><option value='爆発する'>爆発する</option></select>を持つ動物でさえ役に立つことがあります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='評判' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. これらの訓練された動物は地面に隠れた爆弾を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='逆らう'>逆らう</option><option value='評判'>評判</option><option value='信じられない'>信じられない</option><option value='探知する'>探知する</option><option value='爆発する'>爆発する</option></select>できます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='探知する' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. ラットは地雷を見つけるための<select class='vocab-select'><option value=''>── 選択 ──</option><option value='逆らう'>逆らう</option><option value='評判'>評判</option><option value='信じられない'>信じられない</option><option value='探知する'>探知する</option><option value='爆発する'>爆発する</option></select>嗅覚を持っています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='信じられない' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. オウムの知能はすべての一般的な期待を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='逆らう'>逆らう</option><option value='評判'>評判</option><option value='信じられない'>信じられない</option><option value='探知する'>探知する</option><option value='爆発する'>爆発する</option></select>します。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='逆らう' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 相互作用, 説得する, 極めて重要な, 実施した, 特別な</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 動物は私たちの社会的で機能的な生活において<select class='vocab-select'><option value=''>── 選択 ──</option><option value='相互作用'>相互作用</option><option value='説得する'>説得する</option><option value='極めて重要な'>極めて重要な</option><option value='実施した'>実施した</option><option value='特別な'>特別な</option></select>役割を果たしています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='極めて重要な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 動物との私たちの関係はしばしば<select class='vocab-select'><option value=''>── 選択 ──</option><option value='相互作用'>相互作用</option><option value='説得する'>説得する</option><option value='極めて重要な'>極めて重要な</option><option value='実施した'>実施した</option><option value='特別な'>特別な</option></select>物語を生み出します。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='特別な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. スタンレー・ミルグラムは服従に関する有名な実験を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='相互作用'>相互作用</option><option value='説得する'>説得する</option><option value='極めて重要な'>極めて重要な</option><option value='実施した'>実施した</option><option value='特別な'>特別な</option></select>ました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='実施した' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 漁師に珍しいサメを諦めさせるように<select class='vocab-select'><option value=''>── 選択 ──</option><option value='相互作用'>相互作用</option><option value='説得する'>説得する</option><option value='極めて重要な'>極めて重要な</option><option value='実施した'>実施した</option><option value='特別な'>特別な</option></select>のは難しかったです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='説得する' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. 自然との私たちの<select class='vocab-select'><option value=''>── 選択 ──</option><option value='相互作用'>相互作用</option><option value='説得する'>説得する</option><option value='極めて重要な'>極めて重要な</option><option value='実施した'>実施した</option><option value='特別な'>特別な</option></select>は常に肯定的とは限りません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='相互作用' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 衝動, 無視する, 良心, 権威, 生産性</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 人々は自分の<select class='vocab-select'><option value=''>── 選択 ──</option><option value='衝動'>衝動</option><option value='無視する'>無視する</option><option value='良心'>良心</option><option value='権威'>権威</option><option value='生産性'>生産性</option></select>に反するとき、しばしば罪悪感を感じます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='良心' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 牛に話しかけることは牛乳の<select class='vocab-select'><option value=''>── 選択 ──</option><option value='衝動'>衝動</option><option value='無視する'>無視する</option><option value='良心'>良心</option><option value='権威'>権威</option><option value='生産性'>生産性</option></select>を大幅に向上させることができます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='生産性' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 命令に従う必要性はあなた自身の道徳を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='衝動'>衝動</option><option value='無視する'>無視する</option><option value='良心'>良心</option><option value='権威'>権威</option><option value='生産性'>生産性</option></select>できますか？<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='無視する' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 65％の人々が<select class='vocab-select'><option value=''>── 選択 ──</option><option value='衝動'>衝動</option><option value='無視する'>無視する</option><option value='良心'>良心</option><option value='権威'>権威</option><option value='生産性'>生産性</option></select>のある人に従いました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='権威' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 突然の服従<select class='vocab-select'><option value=''>── 選択 ──</option><option value='衝動'>衝動</option><option value='無視する'>無視する</option><option value='良心'>良心</option><option value='権威'>権威</option><option value='生産性'>生産性</option></select>は非常に強いことがあります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='衝動' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: éteint, pollinisation, conservation, parc national, financement</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. La recherche scientifique nécessite beaucoup de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='éteint'>éteint</option><option value='pollinisation'>pollinisation</option><option value='conservation'>conservation</option><option value='parc national'>parc national</option><option value='financement'>financement</option></select> de la part de l'État.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='financement' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Le gouvernement se concentre sur la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='éteint'>éteint</option><option value='pollinisation'>pollinisation</option><option value='conservation'>conservation</option><option value='parc national'>parc national</option><option value='financement'>financement</option></select> de la nature pour protéger la faune.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='conservation' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Si les abeilles meurent complètement, elles deviendront <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='éteint'>éteint</option><option value='pollinisation'>pollinisation</option><option value='conservation'>conservation</option><option value='parc national'>parc national</option><option value='financement'>financement</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='éteint' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Ils ont transformé la zone côtière en un nouveau <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='éteint'>éteint</option><option value='pollinisation'>pollinisation</option><option value='conservation'>conservation</option><option value='parc national'>parc national</option><option value='financement'>financement</option></select> pour le public.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='parc national' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. Les abeilles sont essentielles pour la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='éteint'>éteint</option><option value='pollinisation'>pollinisation</option><option value='conservation'>conservation</option><option value='parc national'>parc national</option><option value='financement'>financement</option></select>, aidant les plantes à produire des fruits.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='pollinisation' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: défier, réputations, incroyable, détecter, exploser</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Les rats sont assez petits pour ne pas faire <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='défier'>défier</option><option value='réputations'>réputations</option><option value='incroyable'>incroyable</option><option value='détecter'>détecter</option><option value='exploser'>exploser</option></select> les mines.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='exploser' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Même les animaux avec de mauvaises <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='défier'>défier</option><option value='réputations'>réputations</option><option value='incroyable'>incroyable</option><option value='détecter'>détecter</option><option value='exploser'>exploser</option></select>, comme les rats, peuvent être utiles.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='réputations' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Ces animaux dressés peuvent <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='défier'>défier</option><option value='réputations'>réputations</option><option value='incroyable'>incroyable</option><option value='détecter'>détecter</option><option value='exploser'>exploser</option></select> les bombes cachées dans le sol.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='détecter' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Les rats ont un odorat <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='défier'>défier</option><option value='réputations'>réputations</option><option value='incroyable'>incroyable</option><option value='détecter'>détecter</option><option value='exploser'>exploser</option></select> pour trouver des mines terrestres.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='incroyable' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. L'intelligence du perroquet <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='défier'>défier</option><option value='réputations'>réputations</option><option value='incroyable'>incroyable</option><option value='détecter'>détecter</option><option value='exploser'>exploser</option></select> toutes les attentes communes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='défier' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: interaction, persuader, pivot, conduit, extraordinaire</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Les animaux jouent des rôles <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interaction'>interaction</option><option value='persuader'>persuader</option><option value='pivot'>pivot</option><option value='conduit'>conduit</option><option value='extraordinaire'>extraordinaire</option></select> dans nos vies sociales et fonctionnelles.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='pivot' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Notre relation avec les animaux produit souvent des histoires <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interaction'>interaction</option><option value='persuader'>persuader</option><option value='pivot'>pivot</option><option value='conduit'>conduit</option><option value='extraordinaire'>extraordinaire</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='extraordinaire' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Stanley Milgram a <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interaction'>interaction</option><option value='persuader'>persuader</option><option value='pivot'>pivot</option><option value='conduit'>conduit</option><option value='extraordinaire'>extraordinaire</option></select> une célèbre expérience sur l'obéissance.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='conduit' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Il était difficile de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interaction'>interaction</option><option value='persuader'>persuader</option><option value='pivot'>pivot</option><option value='conduit'>conduit</option><option value='extraordinaire'>extraordinaire</option></select> le pêcheur à abandonner le requin rare.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='persuader' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. Notre <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interaction'>interaction</option><option value='persuader'>persuader</option><option value='pivot'>pivot</option><option value='conduit'>conduit</option><option value='extraordinaire'>extraordinaire</option></select> avec la nature n'est pas toujours positive.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='interaction' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: impulsion, outrepasser, conscience, autorité, productivité</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Les gens se sentent souvent coupables lorsqu'ils vont à l'encontre de leur <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='impulsion'>impulsion</option><option value='outrepasser'>outrepasser</option><option value='conscience'>conscience</option><option value='autorité'>autorité</option><option value='productivité'>productivité</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='conscience' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Parler aux vaches peut augmenter considérablement leur <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='impulsion'>impulsion</option><option value='outrepasser'>outrepasser</option><option value='conscience'>conscience</option><option value='autorité'>autorité</option><option value='productivité'>productivité</option></select> laitière.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='productivité' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Le besoin de suivre les ordres peut-il <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='impulsion'>impulsion</option><option value='outrepasser'>outrepasser</option><option value='conscience'>conscience</option><option value='autorité'>autorité</option><option value='productivité'>productivité</option></select> votre propre morale ?<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='outrepasser' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 65 % des gens ont obéi à la personne en <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='impulsion'>impulsion</option><option value='outrepasser'>outrepasser</option><option value='conscience'>conscience</option><option value='autorité'>autorité</option><option value='productivité'>productivité</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='autorité' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. La soudaine <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='impulsion'>impulsion</option><option value='outrepasser'>outrepasser</option><option value='conscience'>conscience</option><option value='autorité'>autorité</option><option value='productivité'>productivité</option></select> d'obéir peut être très forte.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='impulsion' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 멸종한, 수분, 보존, 국립공원, 자금</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 과학 연구에는 국가로부터 많은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='멸종한'>멸종한</option><option value='수분'>수분</option><option value='보존'>보존</option><option value='국립공원'>국립공원</option><option value='자금'>자금</option></select>이 필요합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='자금' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 정부는 야생동물 보호를 위해 자연 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='멸종한'>멸종한</option><option value='수분'>수분</option><option value='보존'>보존</option><option value='국립공원'>국립공원</option><option value='자금'>자금</option></select>에 집중하고 있습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='보존' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 꿀벌이 완전히 사라지면 그들은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='멸종한'>멸종한</option><option value='수분'>수분</option><option value='보존'>보존</option><option value='국립공원'>국립공원</option><option value='자금'>자금</option></select>하게 될 것입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='멸종한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 그들은 해안 지역을 대중을 위한 새로운 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='멸종한'>멸종한</option><option value='수분'>수분</option><option value='보존'>보존</option><option value='국립공원'>국립공원</option><option value='자금'>자금</option></select>으로 바꾸었습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='국립공원' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. 꿀벌은 식물이 열매를 맺도록 돕는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='멸종한'>멸종한</option><option value='수분'>수분</option><option value='보존'>보존</option><option value='국립공원'>국립공원</option><option value='자금'>자금</option></select>에 필수적입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='수분' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 거스르다, 평판, 놀라운, 탐지하다, 폭발하다</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 쥐는 너무 작아서 지뢰를 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='거스르다'>거스르다</option><option value='평판'>평판</option><option value='놀라운'>놀라운</option><option value='탐지하다'>탐지하다</option><option value='폭발하다'>폭발하다</option></select>시키지 않습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='폭발하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 쥐처럼 나쁜 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='거스르다'>거스르다</option><option value='평판'>평판</option><option value='놀라운'>놀라운</option><option value='탐지하다'>탐지하다</option><option value='폭발하다'>폭발하다</option></select>을 가진 동물들조차 도움이 될 수 있습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='평판' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 이 훈련된 동물들은 땅에 숨겨진 폭탄을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='거스르다'>거스르다</option><option value='평판'>평판</option><option value='놀라운'>놀라운</option><option value='탐지하다'>탐지하다</option><option value='폭발하다'>폭발하다</option></select>할 수 있습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='탐지하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 쥐는 지뢰를 찾을 수 있는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='거스르다'>거스르다</option><option value='평판'>평판</option><option value='놀라운'>놀라운</option><option value='탐지하다'>탐지하다</option><option value='폭발하다'>폭발하다</option></select> 후각을 가지고 있습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='놀라운' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 앵무새의 지능은 모든 일반적인 기대를 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='거스르다'>거스르다</option><option value='평판'>평판</option><option value='놀라운'>놀라운</option><option value='탐지하다'>탐지하다</option><option value='폭발하다'>폭발하다</option></select>합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='거스르다' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 상호작용, 설득하다, 중추적인, 수행한, 특별한</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 동물들은 우리의 사회적이고 기능적인 삶에서 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='상호작용'>상호작용</option><option value='설득하다'>설득하다</option><option value='중추적인'>중추적인</option><option value='수행한'>수행한</option><option value='특별한'>특별한</option></select> 역할을 합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='중추적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 동물과의 우리의 관계는 종종 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='상호작용'>상호작용</option><option value='설득하다'>설득하다</option><option value='중추적인'>중추적인</option><option value='수행한'>수행한</option><option value='특별한'>특별한</option></select> 이야기를 만들어냅니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='특별한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 스탠리 밀그램은 복종에 관한 유명한 실험을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='상호작용'>상호작용</option><option value='설득하다'>설득하다</option><option value='중추적인'>중추적인</option><option value='수행한'>수행한</option><option value='특별한'>특별한</option></select>습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='수행한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 희귀 상어를 포기하도록 어부를 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='상호작용'>상호작용</option><option value='설득하다'>설득하다</option><option value='중추적인'>중추적인</option><option value='수행한'>수행한</option><option value='특별한'>특별한</option></select>는 것은 어려웠습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='설득하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. 자연과의 우리의 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='상호작용'>상호작용</option><option value='설득하다'>설득하다</option><option value='중추적인'>중추적인</option><option value='수행한'>수행한</option><option value='특별한'>특별한</option></select>은 항상 긍정적이지 않습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='상호작용' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 충동, 무시하다, 양심, 권위, 생산성</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 사람들은 자신의 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='충동'>충동</option><option value='무시하다'>무시하다</option><option value='양심'>양심</option><option value='권위'>권위</option><option value='생산성'>생산성</option></select>을 거스를 때 종종 죄책감을 느낍니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='양심' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 소에게 말을 걸면 우유 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='충동'>충동</option><option value='무시하다'>무시하다</option><option value='양심'>양심</option><option value='권위'>권위</option><option value='생산성'>생산성</option></select>을 크게 높일 수 있습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='생산성' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 명령을 따라야 하는 필요성이 당신의 도덕관을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='충동'>충동</option><option value='무시하다'>무시하다</option><option value='양심'>양심</option><option value='권위'>권위</option><option value='생산성'>생산성</option></select>할 수 있나요?<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='무시하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 65%의 사람들이 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='충동'>충동</option><option value='무시하다'>무시하다</option><option value='양심'>양심</option><option value='권위'>권위</option><option value='생산성'>생산성</option></select> 있는 사람에게 복종했습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='권위' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 갑작스러운 복종 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='충동'>충동</option><option value='무시하다'>무시하다</option><option value='양심'>양심</option><option value='권위'>권위</option><option value='생산성'>생산성</option></select>은 매우 강할 수 있습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='충동' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "The text introduces various stories about animals. <b>How did the rats help people in Africa</b>, and <b>what was the surprising discovery</b> about naming cows?",
+    "ja": "このテキストは動物に関する様々な物語を紹介しています。<b>ラットはアフリカでどのように人々を助けましたか</b>、そして牛に名前を付けることについての<b>驚くべき発見は何でしたか</b>？",
+    "fr": "Le texte présente diverses histoires sur les animaux. <b>Comment les rats ont-ils aidé les gens en Afrique</b>, et <b>quelle a été la découverte surprenante</b> concernant le nommage des vaches ?",
+    "ko": "이 텍스트는 동물에 대한 다양한 이야기를 소개합니다. <b>쥐는 아프리카에서 어떻게 사람들을 도왔으며</b>, 소에게 이름을 붙이는 것에 대한 <b>놀라운 발견은 무엇이었나요</b>?"
+  },
+  "content_check_keywords": {
+    "en": "detect landmines, incredible sense of smell, hadn't been named, productivity",
+    "ja": "地雷を探知する, 信じられないほどの嗅覚, 名前を付けられなかった, 生産性",
+    "fr": "détecter les mines terrestres, odorat incroyable, n'avaient pas été nommées, productivité",
+    "ko": "지뢰 탐지, 놀라운 후각, 이름이 지어지지 않은, 생산성"
+  },
+  "content_check_placeholder": {
+    "en": "Explain how rats save lives and how naming cows affects their milk production...",
+    "ja": "ラットがどのように命を救い、牛に名前を付けることが牛乳生産にどのように影響するかを説明してください...",
+    "fr": "Expliquez comment les rats sauvent des vies et comment le fait de nommer les vaches affecte leur production de lait...",
+    "ko": "쥐가 어떻게 생명을 구하고, 소에게 이름을 붙이는 것이 우유 생산에 어떤 영향을 미치는지 설명하세요..."
+  },
+  "deepening_question": {
+    "en": "In the <b>Milgram Experiment</b>, many participants continued to give shocks because an <b>authority figure</b> told them to. This shows that the <b>impulse</b> to obey can sometimes <b>override</b> our conscience.<br><br><b>Do you think it is always right to obey authority? In what situation should we follow our own conscience instead?</b>",
+    "ja": "<b>ミルグラム実験</b>では、<b>権威者</b>がそうするように言ったため、多くの参加者がショックを与え続けました。これは、従おうとする<b>衝動</b>が時として私たちの良心を<b>無視</b>できることを示しています。<br><br><b>権威に従うことは常に正しいと思いますか？どのような状況で自分の良心に従うべきですか？</b>",
+    "fr": "Dans <b>l'expérience de Milgram</b>, de nombreux participants ont continué à administrer des chocs parce qu'une <b>figure d'autorité</b> le leur avait dit. Cela montre que l'<b>impulsion</b> à obéir peut parfois <b>outrepasser</b> notre conscience.<br><br><b>Pensez-vous qu'il est toujours juste d'obéir à l'autorité ? Dans quelle situation devrions-nous plutôt suivre notre propre conscience ?</b>",
+    "ko": "<b>밀그램 실험</b>에서 많은 참가자들이 <b>권위자</b>가 하라고 했기 때문에 충격을 가하는 것을 계속했습니다. 이는 복종하려는 <b>충동</b>이 때때로 우리의 양심을 <b>무시</b>할 수 있음을 보여줍니다.<br><br><b>권위에 복종하는 것이 항상 옳다고 생각하나요? 어떤 상황에서 자신의 양심을 따라야 할까요?</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I think we should obey when... However, we must follow our conscience if...",
+    "ja": "従うべきなのは...しかし、自分の良心に従わなければならないのは...",
+    "fr": "Je pense que nous devrions obéir quand... Cependant, nous devons suivre notre conscience si...",
+    "ko": "우리가 복종해야 하는 경우는... 하지만 우리가 양심을 따라야 하는 경우는..."
+  },
+  "critical_question": {
+    "en": "We have explored how <b>SCIENCE AND NATURE</b> are interconnected. We learned about <b>conservation</b> and the <b>extraordinary roles</b> animals play in our lives.<br><br><b>Between 'Protecting the Environment' and 'Human Development,' which do you think is more pivotal for our future? <br>Support your answer by using the Past Perfect Simple (had + p.p.) to describe a situation from the past.</b>",
+    "ja": "私たちは<b>科学と自然</b>がどのように相互に関連しているかを探求してきました。<b>保全</b>と動物たちが私たちの生活の中で果たす<b>特別な役割</b>について学びました。<br><br><b>「環境保護」と「人間開発」のどちらが私たちの未来にとってより重要だと思いますか？<br>過去完了形(had + 過去分詞)を使って過去の状況を説明し、あなたの答えを裏付けてください。</b>",
+    "fr": "Nous avons exploré comment <b>LA SCIENCE ET LA NATURE</b> sont interconnectées. Nous avons appris la <b>conservation</b> et les <b>rôles extraordinaires</b> que les animaux jouent dans nos vies.<br><br><b>Entre « Protéger l'environnement » et « Développement humain », lequel pensez-vous être plus crucial pour notre avenir ? <br>Étayez votre réponse en utilisant le passé antérieur (had + p.p.) pour décrire une situation du passé.</b>",
+    "ko": "우리는 <b>과학과 자연</b>이 어떻게 상호 연결되어 있는지 탐구했습니다. <b>보존</b>과 동물들이 우리 삶에서 수행하는 <b>특별한 역할</b>에 대해 배웠습니다.<br><br><b>'환경 보호'와 '인간 발전' 중 우리의 미래를 위해 더 중요한 것은 무엇이라고 생각하나요?<br>과거완료형(had + 과거분사)을 사용하여 과거의 상황을 설명함으로써 당신의 의견을 뒷받침하세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "Compare conservation vs. development. Use the Past Perfect (e.g., 'Before we knew the danger, we had destroyed...') to support your ideas...",
+    "ja": "保全と開発を比較してください。過去完了形を使ってあなたの考えを裏付けてください（例：「危険を知る前に、私たちは...を破壊していた」）...",
+    "fr": "Comparez la conservation et le développement. Utilisez le passé antérieur (par exemple, « Avant de connaître le danger, nous avions détruit... ») pour étayer vos idées...",
+    "ko": "보존과 발전을 비교하세요. 과거완료형(예: '위험을 알기 전에, 우리는...을 파괴했었다')을 사용하여 자신의 생각을 뒷받침하세요..."
+  }
+}

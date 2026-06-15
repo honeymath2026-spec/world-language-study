@@ -1,0 +1,829 @@
+{
+  "title": {
+    "en": "Meeting and Greeting",
+    "ja": "出会いと挨拶",
+    "fr": "Rencontrer et saluer",
+    "ko": "만남과 인사"
+  },
+  "topic": {
+    "en": "Introductions · Phone numbers · Feelings · Arranging to meet · Café food",
+    "ja": "自己紹介 · 電話番号 · 感情 · 待ち合わせ · カフェの食べ物",
+    "fr": "Présentations · Numéros de téléphone · Sentiments · Organiser une rencontre · Nourriture de café",
+    "ko": "자기소개 · 전화번호 · 감정 · 만남 약속 · 카페 음식"
+  },
+  "core_title": {
+    "en": "A New Friend",
+    "ja": "新しい友達",
+    "fr": "Un Nouvel Ami",
+    "ko": "새로운 친구"
+  },
+  "core_reading_html": {
+        "en": "<p><strong><span class='vocab-link' id='text-hello' onclick='speakAndScroll(\"hello\", \"vocab-hello\")'>Hello</span></strong>! My name is Yasmina. I am a <strong><span class='vocab-link' id='text-student' onclick='speakAndScroll(\"student\", \"vocab-student\")'>student</span></strong> from Egypt. I want to learn <strong><span class='vocab-link' id='text-english' onclick='speakAndScroll(\"english\", \"vocab-english\")'>English</span></strong>. This is my new friend Richard. '<strong><span class='vocab-link' id='text-whats-your-name' onclick='speakAndScroll(\"whats-your-name\", \"vocab-whats-your-name\")'>What's your name</span></strong>?' he asks. 'Kurt,' I say. Richard is from London. I am <strong><span class='vocab-link' id='text-from' onclick='speakAndScroll(\"from\", \"vocab-from\")'>from</span></strong> Cairo. Later, I call my friend. '<strong><span class='vocab-link' id='text-how-are-you' onclick='speakAndScroll(\"how-are-you\", \"vocab-how-are-you\")'>How are you</span></strong>?' I ask. '<strong><span class='vocab-link' id='text-im-fine' onclick='speakAndScroll(\"im-fine\", \"vocab-im-fine\")'>I'm fine</span></strong>, thank you,' she says. We arrange to meet at a café. The café has hamburgers, pizza, and ice-cream. A hamburger costs £3.50. '<strong><span class='vocab-link' id='text-goodbye' onclick='speakAndScroll(\"goodbye\", \"vocab-goodbye\")'>Goodbye</span></strong>!' I say. 'See you at seven!'</p>",
+    "ja": "<p><strong><span class='vocab-link' id='text-hello' onclick='speakAndScroll(\"hello\", \"vocab-hello\")'>こんにちは</span></strong>！私の名前はヤスミナです。私はエジプトからの<strong><span class='vocab-link' id='text-student' onclick='speakAndScroll(\"student\", \"vocab-student\")'>留学生</span></strong>です。<strong><span class='vocab-link' id='text-english' onclick='speakAndScroll(\"english\", \"vocab-english\")'>英語</span></strong>を学びたいです。こちらは新しい友達のリチャードです。「<strong><span class='vocab-link' id='text-whats-your-name' onclick='speakAndScroll(\"whats-your-name\", \"vocab-whats-your-name\")'>お名前は？</span></strong>」と彼が尋ねます。「クルトです」と私が言います。リチャードはロンドンの<strong><span class='vocab-link' id='text-from' onclick='speakAndScroll(\"from\", \"vocab-from\")'>出身</span></strong>です。私はカイロの出身です。その後、友達に電話します。「<strong><span class='vocab-link' id='text-how-are-you' onclick='speakAndScroll(\"how-are-you\", \"vocab-how-are-you\")'>元気？</span></strong>」と尋ねます。「<strong><span class='vocab-link' id='text-im-fine' onclick='speakAndScroll(\"im-fine\", \"vocab-im-fine\")'>元気だよ</span></strong>、ありがとう」と彼女は言います。カフェで会う約束をします。カフェにはハンバーガー、ピザ、アイスクリームがあります。ハンバーガーは550円です。「<strong><span class='vocab-link' id='text-goodbye' onclick='speakAndScroll(\"goodbye\", \"vocab-goodbye\")'>さようなら</span></strong>！」と言います。「7時にね！」</p>",
+    "fr": "<p><strong><span class='vocab-link' id='text-hello' onclick='speakAndScroll(\"hello\", \"vocab-hello\")'>Bonjour</span></strong> ! Je m'appelle Yasmina. Je suis une <strong><span class='vocab-link' id='text-student' onclick='speakAndScroll(\"student\", \"vocab-student\")'>étudiante</span></strong> d'Égypte. Je veux apprendre l'<strong><span class='vocab-link' id='text-english' onclick='speakAndScroll(\"english\", \"vocab-english\")'>anglais</span></strong>. Voici mon nouvel ami Richard. « <strong><span class='vocab-link' id='text-whats-your-name' onclick='speakAndScroll(\"whats-your-name\", \"vocab-whats-your-name\")'>Comment tu t'appelles ?</span></strong> » demande-t-il. « Kurt », dis-je. Richard est <strong><span class='vocab-link' id='text-from' onclick='speakAndScroll(\"from\", \"vocab-from\")'>de</span></strong> Londres. Je suis du Caire. Plus tard, j'appelle mon amie. « <strong><span class='vocab-link' id='text-how-are-you' onclick='speakAndScroll(\"how-are-you\", \"vocab-how-are-you\")'>Comment ça va ?</span></strong> » demandé-je. « <strong><span class='vocab-link' id='text-im-fine' onclick='speakAndScroll(\"im-fine\", \"vocab-im-fine\")'>Ça va bien</span></strong>, merci », dit-elle. Nous organisons une rencontre dans un café. Le café a des hamburgers, des pizzas et des glaces. Un hamburger coûte 6,50 €. « <strong><span class='vocab-link' id='text-goodbye' onclick='speakAndScroll(\"goodbye\", \"vocab-goodbye\")'>Au revoir</span></strong> ! » dis-je. « À sept heures ! »</p>",
+    "ko": "<p><strong><span class='vocab-link' id='text-hello' onclick='speakAndScroll(\"hello\", \"vocab-hello\")'>안녕하세요</span></strong>! 제 이름은 야스미나입니다. 저는 이집트에서 온 <strong><span class='vocab-link' id='text-student' onclick='speakAndScroll(\"student\", \"vocab-student\")'>학생</span></strong>입니다. <strong><span class='vocab-link' id='text-english' onclick='speakAndScroll(\"english\", \"vocab-english\")'>영어</span></strong>를 배우고 싶습니다. 제 새 친구 리처드입니다. '<strong><span class='vocab-link' id='text-whats-your-name' onclick='speakAndScroll(\"whats-your-name\", \"vocab-whats-your-name\")'>이름이 뭐예요?</span></strong>'라고 그가 묻습니다. '쿠르트입니다'라고 제가 말합니다. 리처드는 런던<strong><span class='vocab-link' id='text-from' onclick='speakAndScroll(\"from\", \"vocab-from\")'>에서 왔어요</span></strong>. 저는 카이로에서 왔어요. 나중에 친구에게 전화합니다. '<strong><span class='vocab-link' id='text-how-are-you' onclick='speakAndScroll(\"how-are-you\", \"vocab-how-are-you\")'>어떻게 지내?</span></strong>'라고 묻습니다. '<strong><span class='vocab-link' id='text-im-fine' onclick='speakAndScroll(\"im-fine\", \"vocab-im-fine\")'>잘 지내</span></strong>, 고마워'라고 그녀가 말합니다. 카페에서 만나기로 약속합니다. 카페에는 햄버거, 피자, 아이스크림이 있습니다. 햄버거는 5,000원입니다. '<strong><span class='vocab-link' id='text-goodbye' onclick='speakAndScroll(\"goodbye\", \"vocab-goodbye\")'>안녕</span></strong>!'이라고 말합니다. '7시에 보자!'</p>"
+  },
+  "vocabulary": {
+    "en": [
+      { "id": "hello", "word": "Hello", "definition": "A greeting said when meeting someone.", "pronunciation": "həˈloʊ" },
+      { "id": "student", "word": "student", "definition": "A person who learns at a school or university.", "pronunciation": "ˈstuːdənt" },
+      { "id": "english", "word": "English", "definition": "The language of the UK, USA, and many other countries.", "pronunciation": "ˈɪŋɡlɪʃ" },
+      { "id": "whats-your-name", "word": "What's your name?", "definition": "A question used to ask someone's name.", "pronunciation": "wʌts jɔːr neɪm" },
+      { "id": "from", "word": "from", "definition": "Shows the place where someone was born or lives.", "pronunciation": "frʌm" },
+      { "id": "how-are-you", "word": "How are you?", "definition": "A common greeting asking about someone's health or feelings.", "pronunciation": "haʊ ɑːr juː" },
+      { "id": "im-fine", "word": "I'm fine", "definition": "A response meaning you feel good or okay.", "pronunciation": "aɪm faɪn" },
+      { "id": "goodbye", "word": "Goodbye", "definition": "A word said when you leave someone or end a conversation.", "pronunciation": "ɡʊdˈbaɪ" }
+    ],
+    "ja": [
+      { "id": "hello", "word": "こんにちは", "definition": "人に会ったときにする挨拶。", "pronunciation": "こんにちは" },
+      { "id": "student", "word": "留学生", "definition": "外国で勉強する学生。", "pronunciation": "りゅうがくせい" },
+      { "id": "english", "word": "英語", "definition": "イギリス、アメリカなどの言語。", "pronunciation": "えいご" },
+      { "id": "whats-your-name", "word": "お名前は？", "definition": "相手の名前を尋ねる質問。", "pronunciation": "おなまえは" },
+      { "id": "from", "word": "出身", "definition": "生まれた場所や住んでいる場所。", "pronunciation": "しゅっしん" },
+      { "id": "how-are-you", "word": "元気？", "definition": "相手の健康や気分を尋ねる挨拶。", "pronunciation": "げんき" },
+      { "id": "im-fine", "word": "元気だよ", "definition": "気分が良いという返事。", "pronunciation": "げんきだよ" },
+      { "id": "goodbye", "word": "さようなら", "definition": "別れるときや会話を終えるときに言う言葉。", "pronunciation": "さようなら" }
+    ],
+    "fr": [
+      { "id": "hello", "word": "Bonjour", "definition": "Une salutation quand on rencontre quelqu'un.", "pronunciation": "bɔ̃ʒuʁ" },
+      { "id": "student", "word": "étudiante", "definition": "Une personne qui apprend à l'école ou à l'université.", "pronunciation": "etydjɑ̃t" },
+      { "id": "english", "word": "anglais", "definition": "La langue du Royaume-Uni, des États-Unis, etc.", "pronunciation": "ɑ̃glɛ" },
+      { "id": "whats-your-name", "word": "Comment tu t'appelles ?", "definition": "Une question pour demander le nom de quelqu'un.", "pronunciation": "kɔmɑ̃ ty tapɛl" },
+      { "id": "from", "word": "de", "definition": "Indique l'endroit d'où l'on vient.", "pronunciation": "də" },
+      { "id": "how-are-you", "word": "Comment ça va ?", "definition": "Une salutation pour demander des nouvelles.", "pronunciation": "kɔmɑ̃ sa va" },
+      { "id": "im-fine", "word": "Ça va bien", "definition": "Une réponse qui dit que l'on se sent bien.", "pronunciation": "sa va bjɛ̃" },
+      { "id": "goodbye", "word": "Au revoir", "definition": "Un mot dit quand on quitte quelqu'un.", "pronunciation": "o ʁəvwaʁ" }
+    ],
+    "ko": [
+      { "id": "hello", "word": "안녕하세요", "definition": "사람을 만났을 때 하는 인사.", "pronunciation": "안녕하세요" },
+      { "id": "student", "word": "학생", "definition": "학교나 대학에서 배우는 사람.", "pronunciation": "학생" },
+      { "id": "english", "word": "영어", "definition": "영국, 미국 등의 언어.", "pronunciation": "영어" },
+      { "id": "whats-your-name", "word": "이름이 뭐예요?", "definition": "상대방의 이름을 묻는 질문.", "pronunciation": "이름이 뭐예요" },
+      { "id": "from", "word": "에서 왔어요", "definition": "태어나거나 살고 있는 장소를 나타냄.", "pronunciation": "에서 왔어요" },
+      { "id": "how-are-you", "word": "어떻게 지내?", "definition": "상대방의 건강이나 기분을 묻는 인사.", "pronunciation": "어떻게 지내" },
+      { "id": "im-fine", "word": "잘 지내", "definition": "기분이 좋다고 말하는 응답.", "pronunciation": "잘 지내" },
+      { "id": "goodbye", "word": "안녕", "definition": "헤어질 때나 대화를 끝낼 때 하는 말.", "pronunciation": "안녕" }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "Meeting someone new",
+        "label": "Conversation 1: What is your name?",
+        "script": [
+          { "speaker": "A", "text": "Hello. My name's Richard. What's your name?" },
+          { "speaker": "B", "text": "Kurt." },
+          { "speaker": "A", "text": "Where are you from, Kurt?" },
+          { "speaker": "B", "text": "I'm from Hamburg. Where are you from?" },
+          { "speaker": "A", "text": "I'm from London." }
+        ]
+      },
+      {
+        "title": "Yasmina",
+        "label": "Listening 1: A student from Egypt",
+        "script": [
+          { "speaker": "Yasmina", "text": "My name's Yasmina Kamal and I'm a student." },
+          { "speaker": "Yasmina", "text": "I'm 19. I'm not married." },
+          { "speaker": "Yasmina", "text": "I have one sister and two brothers." },
+          { "speaker": "Yasmina", "text": "I live in a flat in Cairo, Egypt." },
+          { "speaker": "Yasmina", "text": "I want to learn English because it's an international language." }
+        ]
+      },
+      {
+        "title": "Telephone numbers",
+        "label": "Listening 2: Saying phone numbers",
+        "script": [
+          { "speaker": "Speaker", "text": "682 947" },
+          { "speaker": "Speaker", "text": "8944 5033" },
+          { "speaker": "Speaker", "text": "020 7399 7050" }
+        ]
+      },
+      {
+        "title": "What are the numbers?",
+        "label": "Listening 3: Numbers in context",
+        "script": [
+          { "speaker": "Speaker", "text": "Hello. 01913 786 499." },
+          { "speaker": "Speaker", "text": "My brother has four children." },
+          { "speaker": "Speaker", "text": "I have 10 stamps in my bag." },
+          { "speaker": "Speaker", "text": "Hello, extension 4177." },
+          { "speaker": "Speaker", "text": "I live at number 19." },
+          { "speaker": "Speaker", "text": "Goodbye. See you at five." }
+        ]
+      },
+      {
+        "title": "Everyday conversations",
+        "label": "Conversation 2: Phone call - How are you?",
+        "script": [
+          { "speaker": "A", "text": "Hello, extension 3442." },
+          { "speaker": "B", "text": "Hello, Mary. This is Edward. How are you?" },
+          { "speaker": "A", "text": "I'm fine, thank you. And you?" },
+          { "speaker": "B", "text": "I'm OK, thanks." }
+        ]
+      },
+      {
+        "title": "Arranging to meet",
+        "label": "Conversation 3: Goodbye, see you later",
+        "script": [
+          { "speaker": "A", "text": "Goodbye, Marcus." },
+          { "speaker": "B", "text": "Goodbye, Bianca. Have a nice day." },
+          { "speaker": "A", "text": "Thanks, Marcus. See you this evening!" },
+          { "speaker": "B", "text": "Yes, at seven in the cinema." }
+        ]
+      },
+      {
+        "title": "How are you?",
+        "label": "Conversation 4: Phone call between friends",
+        "script": [
+          { "speaker": "A", "text": "Hello, 270899." },
+          { "speaker": "B", "text": "Hi, Flora! It's me, Leo. How are you?" },
+          { "speaker": "A", "text": "Not bad, thanks. And you?" },
+          { "speaker": "B", "text": "Very well. How are the children?" },
+          { "speaker": "A", "text": "They're fine." }
+        ]
+      }
+    ],
+    "ja": [
+  {
+    "title": "みなさん、こんにちは！",
+    "label": "会話1: 自己紹介",
+    "script": [
+      { "speaker": "A", "text": "こんにちは。私は田中です。お名前は？" },
+      { "speaker": "B", "text": "鈴木です。" },
+      { "speaker": "A", "text": "鈴木さんはどちらの出身ですか？" },
+      { "speaker": "B", "text": "大阪出身です。田中さんは？" },
+      { "speaker": "A", "text": "私は東京出身です。" }
+    ]
+  },
+  {
+    "title": "さようなら",
+    "label": "会話2: 別れのあいさつ",
+    "script": [
+      { "speaker": "A", "text": "じゃあね、由美。" },
+      { "speaker": "B", "text": "さようなら、拓也。良い一日を。" },
+      { "speaker": "A", "text": "ありがとう。また今晩！" },
+      { "speaker": "B", "text": "うん、7時に映画館で。" }
+    ]
+  },
+  {
+    "title": "電話",
+    "label": "会話3: 家族の様子を聞く",
+    "script": [
+      { "speaker": "A", "text": "もしもし、佐藤です。" },
+      { "speaker": "B", "text": "もしもし、花子さん？太郎です。元気？" },
+      { "speaker": "A", "text": "まあまあだよ。太郎は？" },
+      { "speaker": "B", "text": "とても元気だよ。子供たちはどう？" },
+      { "speaker": "A", "text": "みんな元気だよ。" }
+    ]
+  },
+  {
+    "title": "ヤスミナ",
+    "label": "リスニング1: エジプトからの留学生",
+    "script": [
+      { "speaker": "ヤスミナ", "text": "私の名前はヤスミナ・カマルです。留学生です。" },
+      { "speaker": "ヤスミナ", "text": "19歳で、結婚はしていません。" },
+      { "speaker": "ヤスミナ", "text": "姉が一人、弟が二人います。" },
+      { "speaker": "ヤスミナ", "text": "エジプトのカイロにあるアパートに住んでいます。" },
+      { "speaker": "ヤスミナ", "text": "英語を学びたい理由は、国際語だからです。" }
+    ]
+  }
+],
+
+"fr": [
+  {
+    "title": "Bonjour tout le monde !",
+    "label": "Conversation 1: Se présenter",
+    "script": [
+      { "speaker": "A", "text": "Bonjour. Je m'appelle Thomas. Comment tu t'appelles ?" },
+      { "speaker": "B", "text": "Luc." },
+      { "speaker": "A", "text": "Tu es d'où, Luc ?" },
+      { "speaker": "B", "text": "Je suis de Lyon. Et toi ?" },
+      { "speaker": "A", "text": "Je suis de Paris." }
+    ]
+  },
+  {
+    "title": "Au revoir",
+    "label": "Conversation 2: Dire au revoir",
+    "script": [
+      { "speaker": "A", "text": "Au revoir, Claire." },
+      { "speaker": "B", "text": "Au revoir, Julien. Bonne journée." },
+      { "speaker": "A", "text": "Merci. À ce soir !" },
+      { "speaker": "B", "text": "Oui, à sept heures au cinéma." }
+    ]
+  },
+  {
+    "title": "Un appel téléphonique",
+    "label": "Conversation 3: Prendre des nouvelles de la famille",
+    "script": [
+      { "speaker": "A", "text": "Allô, 270899." },
+      { "speaker": "B", "text": "Salut, Marie ! C'est moi, Lucas. Comment ça va ?" },
+      { "speaker": "A", "text": "Pas mal, merci. Et toi ?" },
+      { "speaker": "B", "text": "Très bien. Comment vont les enfants ?" },
+      { "speaker": "A", "text": "Ils vont bien." }
+    ]
+  },
+  {
+    "title": "Yasmina",
+    "label": "Écoute 1: Une étudiante d'Égypte",
+    "script": [
+      { "speaker": "Yasmina", "text": "Je m'appelle Yasmina Kamal et je suis étudiante." },
+      { "speaker": "Yasmina", "text": "J'ai 19 ans. Je ne suis pas mariée." },
+      { "speaker": "Yasmina", "text": "J'ai une sœur et deux frères." },
+      { "speaker": "Yasmina", "text": "J'habite dans un appartement au Caire, en Égypte." },
+      { "speaker": "Yasmina", "text": "Je veux apprendre l'anglais parce que c'est une langue internationale." }
+    ]
+  }
+],
+
+"ko": [
+  {
+    "title": "안녕하세요 여러분!",
+    "label": "대화1: 자기소개",
+    "script": [
+      { "speaker": "A", "text": "안녕하세요. 저는 민수라고 합니다. 이름이 뭐예요?" },
+      { "speaker": "B", "text": "영희입니다." },
+      { "speaker": "A", "text": "영희 씨는 어디에서 왔어요?" },
+      { "speaker": "B", "text": "부산에서 왔어요. 민수 씨는요?" },
+      { "speaker": "A", "text": "저는 서울에서 왔어요." }
+    ]
+  },
+  {
+    "title": "안녕히 가세요",
+    "label": "대화2: 헤어질 때 인사",
+    "script": [
+      { "speaker": "A", "text": "안녕, 지은아." },
+      { "speaker": "B", "text": "안녕, 현우야. 좋은 하루 보내." },
+      { "speaker": "A", "text": "고마워. 오늘 저녁에 보자!" },
+      { "speaker": "B", "text": "응, 7시에 영화관에서." }
+    ]
+  },
+  {
+    "title": "전화 통화",
+    "label": "대화3: 가족 안부 묻기",
+    "script": [
+      { "speaker": "A", "text": "여보세요, 270899입니다." },
+      { "speaker": "B", "text": "안녕, 수진아! 나야, 지훈. 어떻게 지내?" },
+      { "speaker": "A", "text": "나쁘지 않아. 고마워. 너는?" },
+      { "speaker": "B", "text": "아주 잘 지내. 아이들은 어때?" },
+      { "speaker": "A", "text": "다들 잘 지내." }
+    ]
+  },
+  {
+    "title": "야스미나",
+    "label": "리스닝1: 이집트에서 온 유학생",
+    "script": [
+      { "speaker": "야스미나", "text": "제 이름은 야스미나 카말이고 학생입니다." },
+      { "speaker": "야스미나", "text": "19살이고 결혼하지 않았습니다." },
+      { "speaker": "야스미나", "text": "여동생 한 명과 남동생 두 명이 있습니다." },
+      { "speaker": "야스미나", "text": "이집트 카이로에 있는 아파트에서 삽니다." },
+      { "speaker": "야스미나", "text": "영어를 배우고 싶은 이유는 국제어이기 때문입니다." }
+    ]
+  }
+]
+  },
+  "extra_reading_title": {
+    "en": "In a café",
+    "ja": "カフェで",
+    "fr": "Au café",
+    "ko": "카페에서"
+  },
+  "extra_reading_html": {
+    "en": "<p>At Baker Street Snack Bar, you can order food and drinks. A hamburger and chips costs £3.50. Chicken and chips costs £3.90. Tuna and egg salad costs £4.25. Pizza costs £3.75. For dessert, ice-cream is £1.50 and chocolate cake is £1.75. Hot drinks: coffee £1.00, tea 60p. Cold drinks: orange juice 90p, mineral water 70p. To order, you can say 'Can I have a tuna salad, please?' or 'How much is a hamburger and chips?' The server might ask 'Anything to drink?' You can say 'Yes, an orange juice please.' Then the server says 'OK. Here you are.' You ask 'How much is that?' The server tells you the price. You say 'Thank you' and 'Goodbye'.</p>",
+    "ja": "<p>ベイカーストリートカフェでは、軽食やドリンクを注文できます。ハンバーガー＆ポテトは550円、チキン＆ポテトは650円、ツナエッグサラダは700円、ピザは600円です。デザートはアイスクリーム300円、チョコレートケーキ350円。ホットドリンク：コーヒー400円、紅茶300円。コールドドリンク：オレンジジュース350円、ミネラルウォーター250円。注文時は「ツナサラダをください」や「ハンバーガーセットはいくらですか？」と言います。店員が「お飲み物は？」と聞いたら「オレンジジュースをお願いします」と答えましょう。会計は「いくらですか？」と聞き、店員が値段を告げます。「ありがとうございました」と言って店を出ます。</p>",
+    "fr": "<p>Au Café des Amis à Paris, vous pouvez commander des plats simples. Un sandwich au jambon et frites coûte 6,50 €. Un sandwich au poulet et frites coûte 7,90 €. Une salade thon-œuf coûte 8,25 €. Une part de pizza coûte 7,50 €. En dessert, une glace est à 3,50 € et un fondant au chocolat à 4,00 €. Boissons chaudes : café 2,00 €, thé 1,80 €. Boissons froides : jus d'orange 2,50 €, eau minérale 1,50 €. Pour commander, dites « Je voudrais une salade de thon, s'il vous plaît » ou « C'est combien un sandwich jambon-frites ? » Le serveur peut demander « Et comme boisson ? » Répondez « Un jus d'orange, s'il vous plaît ». Ensuite, le serveur apporte la commande. Vous demandez « Ça fait combien ? » Le serveur dit le prix. Vous dites « Merci » et « Au revoir ».</p>",
+    "ko": "<p>베이커 스트리트 카페에서는 음식과 음료를 주문할 수 있습니다. 햄버거와 감자튀김은 5,000원, 치킨과 감자튀김은 6,500원, 참치 샐러드는 7,000원, 피자는 6,500원입니다. 디저트: 아이스크림 3,000원, 초콜릿 케이크 3,500원. 따뜻한 음료: 커피 3,500원, 차 3,000원. 찬 음료: 오렌지 주스 3,500원, 생수 1,000원. 주문할 때는 '참치 샐러드 주세요' 또는 '햄버거 세트 얼마예요?'라고 말합니다. 직원이 '음료 드시겠어요?'라고 물으면 '네, 오렌지 주스 주세요'라고 답합니다. 직원이 음식을 주면 '얼마예요?'라고 묻고, 가격을 들은 뒤 '감사합니다, 안녕히 계세요'라고 말합니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Keesha Anderson is married.",
+        "correct": "F",
+        "explanation": "False. Her identity card says 'MARRIED?: NO'."
+      },
+      {
+        "question": "Patrick's daughter Lara is a nurse.",
+        "correct": "T",
+        "explanation": "True. The text says 'His daughter's name is Lara. She's twenty-one and she's a nurse.'"
+      },
+      {
+        "question": "Dorita is from New York.",
+        "correct": "F",
+        "explanation": "False. Dorita is from Argentina. She is an English student in New York."
+      },
+      {
+        "question": "A hamburger and chips costs £3.50 at Baker Street Snack Bar.",
+        "correct": "T",
+        "explanation": "True. The menu shows 'Hamburger & chips £3.50'."
+      },
+      {
+        "question": "The subway in New York is expensive and difficult to use.",
+        "correct": "F",
+        "explanation": "False. Dorita says 'The subway isn't difficult to use and it's cheap.'"
+      }
+    ],
+    "ja": [
+  {
+    "question": "ハンバーガー＆ポテトは550円です。",
+    "correct": "T",
+    "explanation": "正しい。本文に「ハンバーガー＆ポテトは550円」とあります。"
+  },
+  {
+    "question": "チョコレートケーキは300円です。",
+    "correct": "F",
+    "explanation": "間違い。チョコレートケーキは350円で、アイスクリームが300円です。"
+  },
+  {
+    "question": "このカフェではミネラルウォーターが250円で飲めます。",
+    "correct": "T",
+    "explanation": "正しい。ミネラルウォーターは250円と記載されています。"
+  },
+  {
+    "question": "店員に「いくらですか？」と聞いてはいけません。",
+    "correct": "F",
+    "explanation": "間違い。本文では「いくらですか？」と聞くと説明しています。"
+  },
+  {
+    "question": "ピザの値段は600円です。",
+    "correct": "T",
+    "explanation": "正しい。ピザは600円です。"
+  }
+],
+    "fr": [
+  {
+    "question": "Un sandwich au poulet et frites coûte 7,90 €.",
+    "correct": "T",
+    "explanation": "Vrai. Le texte indique 7,90 € pour le poulet-frites."
+  },
+  {
+    "question": "Le café coûte 1,50 € dans ce café.",
+    "correct": "F",
+    "explanation": "Faux. Le café est à 2,00 €. L'eau minérale est à 1,50 €."
+  },
+  {
+    "question": "On peut commander un fondant au chocolat pour 4,00 €.",
+    "correct": "T",
+    "explanation": "Vrai. Le fondant au chocolat est à 4,00 €."
+  },
+  {
+    "question": "Le serveur ne demande jamais « Et comme boisson ? »",
+    "correct": "F",
+    "explanation": "Faux. Le serveur peut demander « Et comme boisson ? »"
+  },
+  {
+    "question": "Une part de pizza coûte 7,50 €.",
+    "correct": "T",
+    "explanation": "Vrai. La pizza est à 7,50 €."
+  }
+],
+    "ko": [
+  {
+    "question": "치킨과 감자튀김은 6,500원입니다.",
+    "correct": "T",
+    "explanation": "참. 본문에 '치킨과 감자튀김은 6,500원'이라고 나와 있습니다."
+  },
+  {
+    "question": "초콜릿 케이크는 아이스크림보다 쌉니다.",
+    "correct": "F",
+    "explanation": "거짓. 아이스크림은 3,000원, 초콜릿 케이크는 3,500원으로 케이크가 더 비쌉니다."
+  },
+  {
+    "question": "생수 가격은 1,000원입니다.",
+    "correct": "T",
+    "explanation": "참. 생수는 1,000원입니다."
+  },
+  {
+    "question": "카페 직원에게 '얼마예요?'라고 물으면 안 됩니다.",
+    "correct": "F",
+    "explanation": "거짓. 본문에서는 당연히 '얼마예요?'라고 물어본다고 설명합니다."
+  },
+  {
+    "question": "햄버거 세트는 5,000원입니다.",
+    "correct": "T",
+    "explanation": "참. 햄버거와 감자튀김이 5,000원입니다."
+  }
+]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "What's her surname?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Her surname is...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>What's her surname?</b> <b>Her surname is</b> Anderson.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "How old is she?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "She is... years old.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>How old is she?</b> <b>She is</b> twenty-eight <b>years old.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Is she married?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "No, she isn't.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Is she married?</b> <b>No, she isn't.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "Who's she?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "She's Patrick's wife.",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Who's she?</b> <b>She's Patrick's wife.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "How much is a hamburger and chips?",
+        "color": "#27ae60",
+        "bg": "#eafaf1"
+      },
+      {
+        "type": "chunk",
+        "text": "Three pounds fifty.",
+        "color": "#27ae60",
+        "bg": "#eafaf1"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>How much is a hamburger and chips?</b> <b>Three pounds fifty.</b>",
+        "color": "#1e8449",
+        "bg": "#d5f5e3"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "彼女の姓は何ですか？",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "彼女の姓は...です。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>彼女の姓は何ですか？</b> <b>彼女の姓は</b>アンダーソン<b>です。</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "彼女は何歳ですか？",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "彼女は...歳です。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>彼女は何歳ですか？</b> <b>彼女は</b>28<b>歳です。</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "彼女は結婚していますか？",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "いいえ、結婚していません。",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>彼女は結婚していますか？</b> <b>いいえ、結婚していません。</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "彼女は誰ですか？",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "彼女はパトリックの妻です。",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>彼女は誰ですか？</b> <b>彼女はパトリックの妻です。</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "ハンバーガーとチップスはいくらですか？",
+        "color": "#27ae60",
+        "bg": "#eafaf1"
+      },
+      {
+        "type": "chunk",
+        "text": "3ポンド50ペンスです。",
+        "color": "#27ae60",
+        "bg": "#eafaf1"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>ハンバーガーとチップスはいくらですか？</b> <b>3ポンド50ペンスです。</b>",
+        "color": "#1e8449",
+        "bg": "#d5f5e3"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "Quel est son nom de famille ?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Son nom de famille est...",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Quel est son nom de famille ?</b> <b>Son nom de famille est</b> Anderson.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Quel âge a-t-elle ?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Elle a... ans.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Quel âge a-t-elle ?</b> <b>Elle a</b> vingt-huit <b>ans.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "Est-elle mariée ?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "Non, elle n'est pas mariée.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Est-elle mariée ?</b> <b>Non, elle n'est pas mariée.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "Qui est-elle ?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "C'est la femme de Patrick.",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Qui est-elle ?</b> <b>C'est la femme de Patrick.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "Combien coûte un hamburger et des frites ?",
+        "color": "#27ae60",
+        "bg": "#eafaf1"
+      },
+      {
+        "type": "chunk",
+        "text": "Trois livres cinquante.",
+        "color": "#27ae60",
+        "bg": "#eafaf1"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>Combien coûte un hamburger et des frites ?</b> <b>Trois livres cinquante.</b>",
+        "color": "#1e8449",
+        "bg": "#d5f5e3"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "그녀의 성은 무엇인가요?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "그녀의 성은...입니다.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>그녀의 성은 무엇인가요?</b> <b>그녀의 성은</b> Anderson<b>입니다.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "그녀는 몇 살인가요?",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "그녀는...살입니다.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>그녀는 몇 살인가요?</b> <b>그녀는</b> 28<b>살입니다.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "그녀는 결혼했나요?",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "아니요, 그녀는 결혼하지 않았습니다.",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>그녀는 결혼했나요?</b> <b>아니요, 그녀는 결혼하지 않았습니다.</b>",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "그녀는 누구인가요?",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "그녀는 Patrick의 아내입니다.",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>그녀는 누구인가요?</b> <b>그녀는 Patrick의 아내입니다.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "햄버거와 칩은 얼마인가요?",
+        "color": "#27ae60",
+        "bg": "#eafaf1"
+      },
+      {
+        "type": "chunk",
+        "text": "3파운드 50펜스입니다.",
+        "color": "#27ae60",
+        "bg": "#eafaf1"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>햄버거와 칩은 얼마인가요?</b> <b>3파운드 50펜스입니다.</b>",
+        "color": "#1e8449",
+        "bg": "#d5f5e3"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Verb 'to be' – questions and negatives</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>For yes/no questions, put the verb 'to be' before the subject: <strong>Is she English?</strong> For negatives, add 'not': <strong>She isn't married.</strong> 'I'm not' is the negative for 'I am'.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Is</strong> she a doctor? – No, <strong style='color:#e67e22;'>she isn't</strong>.</li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Are</strong> you married? – No, <strong style='color:#2980b9;'>I'm not</strong>.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• What's</strong> her job? – <strong style='color:#16a085;'>She's</strong> a journalist.</li></ul><h3>2. Possessive 's</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use <strong>'s</strong> to show possession or relationship. It is different from <strong>'s = is</strong>.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Patrick's wife</strong> = the wife of Patrick (possession)</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• She's a teacher</strong> = She is a teacher ('s = is)</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• His daughter's name</strong> = the name of his daughter</li></ul><h3>3. Opposites (adjectives)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>Adjectives describe nouns. Here are some common opposites:</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• big</strong> – <strong style='color:#e74c3c;'>small</strong> / <strong style='color:#16a085;'>new</strong> – <strong style='color:#e74c3c;'>old</strong></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• cheap</strong> – <strong style='color:#e74c3c;'>expensive</strong> / <strong style='color:#16a085;'>easy</strong> – <strong style='color:#e74c3c;'>difficult</strong></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• hot</strong> – <strong style='color:#e74c3c;'>cold</strong> / <strong style='color:#16a085;'>fast</strong> – <strong style='color:#e74c3c;'>slow</strong></li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Verb 'to be' (negatives)</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: isn't, aren't, 'm not</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. She <select class='vocab-select'><option value=''>── select ──</option><option value='isn't'>isn't</option><option value='aren't'>aren't</option><option value=''m not'>'m not</option></select> married.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='isn't' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. I <select class='vocab-select'><option value=''>── select ──</option><option value='isn't'>isn't</option><option value='aren't'>aren't</option><option value=''m not'>'m not</option></select> a teacher.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct=''m not' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. You <select class='vocab-select'><option value=''>── select ──</option><option value='isn't'>isn't</option><option value='aren't'>aren't</option><option value=''m not'>'m not</option></select> from Spain.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='aren't' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Family words</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: wife, son, daughter, brother</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Patrick's <select class='vocab-select'><option value=''>── select ──</option><option value='wife'>wife</option><option value='son'>son</option><option value='daughter'>daughter</option><option value='brother'>brother</option></select> is Brenda.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='wife' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. Lara is Patrick's <select class='vocab-select'><option value=''>── select ──</option><option value='wife'>wife</option><option value='son'>son</option><option value='daughter'>daughter</option><option value='brother'>brother</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='daughter' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>6. Benny is Patrick's <select class='vocab-select'><option value=''>── select ──</option><option value='wife'>wife</option><option value='son'>son</option><option value='daughter'>daughter</option><option value='brother'>brother</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='son' style='display:none;'></span></div></div>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "This unit teaches how to ask questions and make negatives with 'am/is/are', use possessive 's', talk about family, use opposites, and order food in a café. <b>How do you ask yes/no questions with 'to be'? How do you make a negative sentence? How do you show possession with 's? How do you ask for the price of something in a café?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "questions, negatives, am/is/are, possessive's, family, opposites, café, how much",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "Explain how to make questions and negatives with 'to be', how to use possessive 's', and how to ask for prices in a café...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "The unit includes a letter from Dorita in New York. She talks about her classmates from different countries. <b>Do you have classmates from different countries? What countries are they from? What is interesting about learning English with people from different cultures?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "In my class, I have classmates from... Learning English with people from different cultures is interesting because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "In this unit, you learned how to introduce people, talk about family, and order food in a café. <b>Why is it useful to know how to talk about your family when you meet someone new? How can ordering food in English help you when you travel?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Talking about your family is useful when meeting someone new because... Ordering food in English helps when travelling because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

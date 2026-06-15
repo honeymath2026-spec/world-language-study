@@ -1,0 +1,609 @@
+{
+  "title": {
+    "en": "Bigger and better!",
+    "ja": "より大きく、より良く！",
+    "fr": "Plus grand et meilleur !",
+    "ko": "더 크고 더 좋게!"
+  },
+  "topic": {
+    "en": "Comparatives and superlatives · have got · Town and country · Directions",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "core_title": {
+    "en": "City Life vs Country Life",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'><strong>City Life: Comparative adjectives</strong></p><p>Which adjectives describe life in the city? Which describe life in the country? The city is noisier, dirtier, and more expensive than the country. The city is also more exciting. The country is cheaper, safer, and quieter than the city. I think it’s safer in the country, but the city’s more exciting.</p><p><strong>Country Life: have got</strong></p><p>Mel moved to Seacombe, a small country town near the sea. She says: 'I've got a good job here. I've got a big flat. It's got a garden. It's bigger than my flat in London and it's nicer. People are much friendlier than in London. The air is cleaner and the streets are safer. Everything is better!'</p><p><strong>The world's best hotels</strong></p><p>Claridge's (London) is 100 years old, has 292 rooms, and costs £315-2,500 a night. The Mandarin Oriental (Hong Kong) is 36 years old, has 542 rooms, and costs £300-2,000 a night. The Plaza (New York) is 94 years old, has 812 rooms, and costs £200-500 a night. Claridge's is the oldest and most expensive. The Plaza is the biggest but the cheapest. The Mandarin is the nearest to the airport.</p>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "cheaper",
+        "word": "cheaper",
+        "definition": "Costing less money than something else.",
+        "pronunciation": "/ˈtʃiːpər/"
+      },
+      {
+        "id": "safer",
+        "word": "safer",
+        "definition": "More protected from danger or harm.",
+        "pronunciation": "/ˈseɪfər/"
+      },
+      {
+        "id": "noisier",
+        "word": "noisier",
+        "definition": "Making more sound or noise.",
+        "pronunciation": "/ˈnɔɪziər/"
+      },
+      {
+        "id": "dirtier",
+        "word": "dirtier",
+        "definition": "Covered or marked with more dirt.",
+        "pronunciation": "/ˈdɜːrtiər/"
+      },
+      {
+        "id": "more expensive",
+        "word": "more expensive",
+        "definition": "Costing a greater amount of money.",
+        "pronunciation": "/mɔːr ɪkˈspensɪv/"
+      },
+      {
+        "id": "more exciting",
+        "word": "more exciting",
+        "definition": "Causing more great interest and enthusiasm.",
+        "pronunciation": "/mɔːr ɪkˈsaɪtɪŋ/"
+      },
+      {
+        "id": "have got",
+        "word": "have got",
+        "definition": "Used to express possession (e.g., I've got a car).",
+        "pronunciation": "/hæv ɡɒt/"
+      },
+      {
+        "id": "village",
+        "word": "village",
+        "definition": "A small town or group of houses in the countryside.",
+        "pronunciation": "/ˈvɪlɪdʒ/"
+      },
+      {
+        "id": "river",
+        "word": "river",
+        "definition": "A large natural flow of water.",
+        "pronunciation": "/ˈrɪvər/"
+      },
+      {
+        "id": "bridge",
+        "word": "bridge",
+        "definition": "A structure built over a river or road.",
+        "pronunciation": "/brɪdʒ/"
+      }
+    ],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "listening_tracks": {
+    "en": [
+  {
+    "title": "Bigger and better!",
+    "label": "Conversation 1: Comparing cities",
+    "script": [
+      { "speaker": "A", "text": "Madrid is more expensive than Rome." },
+      { "speaker": "B", "text": "No, it isn't. Madrid is much cheaper." },
+      { "speaker": "A", "text": "The buildings in Rome are more modern than the buildings in New York." },
+      { "speaker": "B", "text": "No, they aren't. They're much older." },
+      { "speaker": "A", "text": "The Underground in London is better than the Metro in Paris." },
+      { "speaker": "B", "text": "No! The Underground is much worse." }
+    ]
+  },
+  {
+    "title": "Bigger and better!",
+    "label": "Conversation 2: Mel's got a better job",
+    "script": [
+      { "speaker": "Tara", "text": "Why did you leave London? You had a good job." },
+      { "speaker": "Mel", "text": "Yes, but I've got a better job here." },
+      { "speaker": "Tara", "text": "And you had a big flat in London." },
+      { "speaker": "Mel", "text": "Well, I've got a bigger flat here. Three bedrooms and a garden." },
+      { "speaker": "Tara", "text": "But you haven't got any friends!" },
+      { "speaker": "Mel", "text": "People are much friendlier here. And the country isn't boring - it's much more exciting than London." }
+    ]
+  },
+  {
+    "title": "Bigger and better!",
+    "label": "Conversation 3: The biggest and best",
+    "script": [
+      { "speaker": "A", "text": "That house is very big." },
+      { "speaker": "B", "text": "Yes, it's the biggest house in the village." },
+      { "speaker": "A", "text": "Castle Combe is a very pretty village." },
+      { "speaker": "B", "text": "Yes, it's the prettiest village in England." },
+      { "speaker": "A", "text": "Anna is a very intelligent student." },
+      { "speaker": "B", "text": "Yes, she's the most intelligent student in the class." }
+    ]
+  },
+  {
+    "title": "Bigger and better!",
+    "label": "Listening 1: A drive in the country",
+    "script": [
+      { "speaker": "Driver", "text": "I drove out of the garage, along the road, and under the bridge." },
+      { "speaker": "Driver", "text": "Then I drove past the pub, up the hill, and down the hill." },
+      { "speaker": "Driver", "text": "But then I drove over the river." },
+      { "speaker": "Driver", "text": "And then - it was terrible - I went through the hedge, and into the lake!" }
+    ]
+  }
+],
+    "ja": [
+    {
+      "title": "より大きく、より良く！",
+      "label": "会話 1: 都市の比較",
+      "script": [
+        { "speaker": "A", "text": "マドリードはローマより物価が高いよね。" },
+        { "speaker": "B", "text": "ううん、違うよ。マドリードのほうがずっと安い。" },
+        { "speaker": "A", "text": "ローマの建物はニューヨークより近代的だね。" },
+        { "speaker": "B", "text": "いや、そうじゃない。ずっと古いよ。" },
+        { "speaker": "A", "text": "ロンドンの地下鉄はパリのメトロより良いよね。" },
+        { "speaker": "B", "text": "違う！ロンドンの地下鉄のほうがずっと悪いよ。" }
+      ]
+    },
+    {
+      "title": "より大きく、より良く！",
+      "label": "会話 2: メルのより良い仕事",
+      "script": [
+        { "speaker": "タラ", "text": "なんでロンドンやめたの？良い仕事だったじゃん。" },
+        { "speaker": "メル", "text": "うん、でもこっちのほうがもっと良い仕事なんだ。" },
+        { "speaker": "タラ", "text": "ロンドンには広いマンションあったでしょ。" },
+        { "speaker": "メル", "text": "それが、こっちのほうがもっと広いんだ。寝室3つに庭つき。" },
+        { "speaker": "タラ", "text": "でも友達いないんでしょ！" },
+        { "speaker": "メル", "text": "こっちの人のほうがずっと親切だよ。それに田舎は退屈なんかじゃない。ロンドンよりずっと刺激的。" }
+      ]
+    },
+    {
+      "title": "より大きく、より良く！",
+      "label": "会話 3: 一番大きくて最高",
+      "script": [
+        { "speaker": "A", "text": "あの家、とても大きいね。" },
+        { "speaker": "B", "text": "うん、この村で一番大きい家だよ。" },
+        { "speaker": "A", "text": "キャッスル・コンブはとてもきれいな村ですね。" },
+        { "speaker": "B", "text": "ええ、イギリスで一番きれいな村です。" },
+        { "speaker": "A", "text": "アンナはとても頭が良い学生だね。" },
+        { "speaker": "B", "text": "うん、クラスで一番頭が良い学生だよ。" }
+      ]
+    },
+    {
+      "title": "より大きく、より良く！",
+      "label": "リスニング 1: 田舎のドライブ",
+      "script": [
+        { "speaker": "運転手", "text": "ガレージを出て、道に沿って走り、橋の下をくぐりました。" },
+        { "speaker": "運転手", "text": "それからパブを通り過ぎて、坂を上がり、坂を下りました。" },
+        { "speaker": "運転手", "text": "でもそのあと、川を渡ってしまって。" },
+        { "speaker": "運転手", "text": "それから――最悪でした――生垣を突き破って、湖に落ちちゃいました！" }
+      ]
+    }
+  ],
+  "fr": [
+    {
+      "title": "Plus grand et meilleur !",
+      "label": "Conversation 1 : Comparer les villes",
+      "script": [
+        { "speaker": "A", "text": "Madrid est plus chère que Rome." },
+        { "speaker": "B", "text": "Non, pas du tout. Madrid est beaucoup moins chère." },
+        { "speaker": "A", "text": "Les immeubles à Rome sont plus modernes qu'à New York." },
+        { "speaker": "B", "text": "Non, ils ne le sont pas. Ils sont beaucoup plus vieux." },
+        { "speaker": "A", "text": "Le métro de Londres est meilleur que celui de Paris." },
+        { "speaker": "B", "text": "Non ! Le métro de Londres est bien pire." }
+      ]
+    },
+    {
+      "title": "Plus grand et meilleur !",
+      "label": "Conversation 2 : Mel a un meilleur travail",
+      "script": [
+        { "speaker": "Tara", "text": "Pourquoi as-tu quitté Londres ? Tu avais un bon travail." },
+        { "speaker": "Mel", "text": "Oui, mais j'ai un meilleur travail ici." },
+        { "speaker": "Tara", "text": "Et tu avais un grand appartement à Londres." },
+        { "speaker": "Mel", "text": "Eh bien, j'ai un appartement plus grand ici. Trois chambres et un jardin." },
+        { "speaker": "Tara", "text": "Mais tu n'as pas d'amis !" },
+        { "speaker": "Mel", "text": "Les gens sont bien plus sympathiques ici. Et la campagne n'est pas ennuyeuse - c'est bien plus excitant que Londres." }
+      ]
+    },
+    {
+      "title": "Plus grand et meilleur !",
+      "label": "Conversation 3 : Le plus grand et le meilleur",
+      "script": [
+        { "speaker": "A", "text": "Cette maison est très grande." },
+        { "speaker": "B", "text": "Oui, c'est la plus grande maison du village." },
+        { "speaker": "A", "text": "Castle Combe est un très joli village." },
+        { "speaker": "B", "text": "Oui, c'est le plus joli village d'Angleterre." },
+        { "speaker": "A", "text": "Anna est une étudiante très intelligente." },
+        { "speaker": "B", "text": "Oui, c'est l'étudiante la plus intelligente de la classe." }
+      ]
+    },
+    {
+      "title": "Plus grand et meilleur !",
+      "label": "Compréhension orale 1 : Une promenade en campagne",
+      "script": [
+        { "speaker": "Conducteur", "text": "Je suis sorti du garage, j'ai longé la route, et je suis passé sous le pont." },
+        { "speaker": "Conducteur", "text": "Ensuite, j'ai dépassé le pub, j'ai monté la côte, et j'ai descendu la côte." },
+        { "speaker": "Conducteur", "text": "Mais après, j'ai traversé la rivière." },
+        { "speaker": "Conducteur", "text": "Et puis - c'était terrible - j'ai traversé la haie, et je suis tombé dans le lac !" }
+      ]
+    }
+  ],
+  "ko": [
+    {
+      "title": "더 크고 더 좋게!",
+      "label": "대화 1: 도시 비교하기",
+      "script": [
+        { "speaker": "A", "text": "마드리드는 로마보다 물가가 더 비싸." },
+        { "speaker": "B", "text": "아니, 그렇지 않아. 마드리드가 훨씬 더 싸." },
+        { "speaker": "A", "text": "로마의 건물들은 뉴욕의 건물들보다 더 현대적이야." },
+        { "speaker": "B", "text": "아니, 그렇지 않아. 훨씬 더 오래됐어." },
+        { "speaker": "A", "text": "런던 지하철이 파리 메트로보다 더 좋아." },
+        { "speaker": "B", "text": "아니! 런던 지하철이 훨씬 더 나빠." }
+      ]
+    },
+    {
+      "title": "더 크고 더 좋게!",
+      "label": "대화 2: 멜의 더 나은 직장",
+      "script": [
+        { "speaker": "타라", "text": "런던은 왜 그만뒀어? 좋은 직장 있었잖아." },
+        { "speaker": "멜", "text": "응, 그런데 여기가 더 나은 직장이야." },
+        { "speaker": "타라", "text": "런던에 넓은 아파트도 있었고." },
+        { "speaker": "멜", "text": "음, 여기가 더 넓은 아파트야. 침실 세 개에 정원도 있어." },
+        { "speaker": "타라", "text": "그런데 친구는 한 명도 없잖아!" },
+        { "speaker": "멜", "text": "여기 사람들이 훨씬 더 친절해. 그리고 시골은 지루하지 않아 - 런던보다 훨씬 더 신나." }
+      ]
+    },
+    {
+      "title": "더 크고 더 좋게!",
+      "label": "대화 3: 가장 크고 최고",
+      "script": [
+        { "speaker": "A", "text": "저 집은 매우 크다." },
+        { "speaker": "B", "text": "맞아, 마을에서 가장 큰 집이야." },
+        { "speaker": "A", "text": "캐슬 콤은 매우 아름다운 마을이야." },
+        { "speaker": "B", "text": "맞아, 잉글랜드에서 가장 아름다운 마을이지." },
+        { "speaker": "A", "text": "안나는 매우 똑똑한 학생이야." },
+        { "speaker": "B", "text": "응, 반에서 가장 똑똑한 학생이야." }
+      ]
+    },
+    {
+      "title": "더 크고 더 좋게!",
+      "label": "듣기 1: 시골 드라이브",
+      "script": [
+        { "speaker": "운전자", "text": "나는 차고를 나와서 길을 따라 쭉 가다가 다리 밑을 지나갔습니다." },
+        { "speaker": "운전자", "text": "그리고 나서 술집을 지나쳐 언덕을 올라갔다가 언덕을 내려왔습니다." },
+        { "speaker": "운전자", "text": "그런데 그 다음에 강을 건너고 말았어요." },
+        { "speaker": "운전자", "text": "그리고 나서 - 정말 끔찍했어요 - 울타리를 뚫고 호수에 빠져버렸습니다!" }
+      ]
+    }
+  ]
+  },
+  "extra_reading_title": {
+    "en": "Three Famous Cities",
+    "ja": "3つの有名な都市",
+    "fr": "Trois villes célèbres",
+    "ko": "세 개의 유명한 도시"
+  },
+  "extra_reading_html": {
+    "en": "<p><strong>Vienna</strong> is the capital of Austria. It stands on the River Danube. Its music, theatre, museums, and parks make it a popular tourist centre. Its university opened in 1365. Haydn, Mozart, Beethoven, and Schubert all came to work here. It is the home of the Vienna Philharmonic orchestra.</p><p><strong>Liverpool</strong> is Britain's second biggest port, after London. It stands on the River Mersey. It is an important passenger port for travel to Ireland. King John named Liverpool in 1207. Liverpool's most famous musicians are the Beatles. They started the group there in 1959.</p><p><strong>New Orleans</strong> stands on the banks of the Mississippi River. It became an important trade centre for sugar, spices, and slaves. Many Irish immigrants live there. It is famous for jazz music and the annual Mardi Gras carnival.</p>",
+    "ja": "<p><strong>ウィーン</strong>はオーストリアの首都で、ドナウ川沿いにあります。音楽、劇場、美術館、公園が多く、人気の観光地です。1365年に大学が開校し、ハイドン、モーツァルト、ベートーヴェン、シューベルトなどが活躍しました。ウィーン・フィルハーモニー管弦楽団の本拠地でもあります。</p><p><strong>リヴァプール</strong>はロンドンに次ぐイギリスで2番目に大きな港町で、マージー川沿いにあります。アイルランドへの重要な旅客港です。1207年にジョン王がリヴァプールと命名しました。リヴァプールで最も有名な音楽家はビートルズで、1959年にこの地でグループを結成しました。</p><p><strong>ニューオーリンズ</strong>はミシシッピ川のほとりに位置しています。かつては砂糖、香辛料、奴隷貿易の重要な中心地でした。多くのアイルランド移民が住んでいます。ジャズ音楽と毎年恒例のマルディグラ・カーニバルで有名です。</p>",
+    "fr": "<p><strong>Vienne</strong> est la capitale de l'Autriche. Elle est située sur le Danube. Sa musique, ses théâtres, ses musées et ses parcs en font un centre touristique populaire. Son université a été ouverte en 1365. Haydn, Mozart, Beethoven et Schubert y ont tous travaillé. C'est le foyer de l'Orchestre philharmonique de Vienne.</p><p><strong>Liverpool</strong> est le deuxième plus grand port de Grande-Bretagne, après Londres. Elle se trouve sur la rivière Mersey. C'est un port passager important pour voyager vers l'Irlande. Le roi Jean a nommé Liverpool en 1207. Les musiciens les plus célèbres de Liverpool sont les Beatles, qui ont formé le groupe là-bas en 1959.</p><p><strong>La Nouvelle-Orléans</strong> se trouve sur les rives du fleuve Mississippi. Elle est devenue un centre commercial important pour le sucre, les épices et les esclaves. Beaucoup d'immigrants irlandais y vivent. Elle est célèbre pour sa musique jazz et son carnaval annuel de Mardi Gras.</p>",
+    "ko": "<p><strong>빈</strong>은 오스트리아의 수도로, 다뉴브 강변에 위치해 있습니다. 음악, 극장, 박물관, 공원 덕분에 인기 있는 관광지입니다. 1365년에 대학이 설립되었으며, 하이든, 모차르트, 베토벤, 슈베르트가 모두 이곳에서 활동했습니다. 빈 필하모닉 오케스트라의 본거지이기도 합니다.</p><p><strong>리버풀</strong>은 런던 다음으로 영국에서 두 번째로 큰 항구 도시이며, 머지 강변에 있습니다. 아일랜드로 가는 중요한 여객항입니다. 1207년 존 왕이 리버풀이라는 이름을 붙였습니다. 리버풀에서 가장 유명한 음악가는 비틀즈이며, 그들은 1959년 이곳에서 그룹을 결성했습니다.</p><p><strong>뉴올리언스</strong>는 미시시피 강둑에 위치해 있습니다. 이곳은 설탕, 향신료, 노예 무역의 중요한 중심지가 되었습니다. 많은 아일랜드계 이민자들이 거주하고 있습니다. 재즈 음악과 매년 열리는 마디 그라 카니발로 유명합니다.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      { "question": "Vienna's university was established in the 14th century.", "correct": "T", "explanation": "True. It opened in 1365." },
+      { "question": "Liverpool is the biggest port in Britain.", "correct": "F", "explanation": "False. It is the second biggest port after London." },
+      { "question": "The Beatles started their music group in New Orleans.", "correct": "F", "explanation": "False. The Beatles started in Liverpool." },
+      { "question": "New Orleans is famous for classical music.", "correct": "F", "explanation": "False. New Orleans is famous for jazz music." },
+      { "question": "The Mississippi River flows through New Orleans.", "correct": "T", "explanation": "True. The city stands on the banks of the Mississippi River." }
+    ],
+    "ja": [
+      { "question": "ウィーン大学は14世紀に開校した。", "correct": "T", "explanation": "真実です。1365年に開校しました。" },
+      { "question": "リヴァプールはイギリス最大の港である。", "correct": "F", "explanation": "誤りです。ロンドンに次ぐ2番目に大きな港です。" },
+      { "question": "ビートルズはニューオーリンズで結成された。", "correct": "F", "explanation": "誤りです。ビートルズはリヴァプールで結成されました。" },
+      { "question": "ニューオーリンズはクラシック音楽で有名である。", "correct": "F", "explanation": "誤りです。ニューオーリンズはジャズで有名です。" },
+      { "question": "ニューオーリンズはミシシッピ川沿いにある。", "correct": "T", "explanation": "真実です。ミシシッピ川のほとりに位置しています。" }
+    ],
+    "fr": [
+      { "question": "L'université de Vienne a ouvert ses portes au 14ème siècle.", "correct": "T", "explanation": "Vrai. Elle a ouvert en 1365." },
+      { "question": "Liverpool est le plus grand port de Grande-Bretagne.", "correct": "F", "explanation": "Faux. C'est le deuxième après Londres." },
+      { "question": "Les Beatles ont formé leur groupe à la Nouvelle-Orléans.", "correct": "F", "explanation": "Faux. Les Beatles ont commencé à Liverpool." },
+      { "question": "La Nouvelle-Orléans est célèbre pour la musique classique.", "correct": "F", "explanation": "Faux. La ville est célèbre pour le jazz." },
+      { "question": "La Nouvelle-Orléans se trouve sur les rives du Mississippi.", "correct": "T", "explanation": "Vrai. C'est précisé dans le texte." }
+    ],
+    "ko": [
+      { "question": "빈 대학교는 14세기에 설립되었다.", "correct": "T", "explanation": "사실입니다. 1365년에 개교했습니다." },
+      { "question": "리버풀은 영국에서 가장 큰 항구이다.", "correct": "F", "explanation": "거짓입니다. 런던 다음으로 두 번째로 큰 항구입니다." },
+      { "question": "비틀즈는 뉴올리언스에서 결성되었다.", "correct": "F", "explanation": "거짓입니다. 비틀즈는 리버풀에서 결성되었습니다." },
+      { "question": "뉴올리언스는 클래식 음악으로 유명하다.", "correct": "F", "explanation": "거짓입니다. 뉴올리언스는 재즈로 유명합니다." },
+      { "question": "뉴올리언스는 미시시피 강변에 위치한다.", "correct": "T", "explanation": "사실입니다. 미시시피 강둑에 위치해 있습니다." }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "The city is ... than the country.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "I think it's safer in the country.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>The city is more exciting than the country.</b> <b>I think it's safer in the country.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "I've got a ...",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "It's got ...",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>I've got a big flat.</b> <b>It's got a garden.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "the biggest / the most expensive",
+        "color": "#16a085",
+        "bg": "#e8f8f5"
+      },
+      {
+        "type": "chunk",
+        "text": "the cheapest / the oldest",
+        "color": "#16a085",
+        "bg": "#e8f8f5"
+      },
+      {
+        "type": "sentence",
+        "text": "Claridge's is <b>the oldest hotel.</b> The Plaza is <b>the biggest.</b>",
+        "color": "#1abc9c",
+        "bg": "#e8f8f5"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "都会は田舎より...です。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "田舎の方が安全だと思います。",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>都会は田舎より刺激的です。</b> <b>田舎の方が安全だと思います。</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "私には...があります。",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "それには...があります。",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>私には広いアパートがあります。</b> <b>それには庭があります。</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "最も大きい／最も高価な",
+        "color": "#16a085",
+        "bg": "#e8f8f5"
+      },
+      {
+        "type": "chunk",
+        "text": "最も安い／最も古い",
+        "color": "#16a085",
+        "bg": "#e8f8f5"
+      },
+      {
+        "type": "sentence",
+        "text": "クラリッジズは<b>最も古いホテルです。</b> プラザは<b>最も大きいです。</b>",
+        "color": "#1abc9c",
+        "bg": "#e8f8f5"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "La ville est ... que la campagne.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "Je pense que c'est plus sûr à la campagne.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>La ville est plus excitante que la campagne.</b> <b>Je pense que c'est plus sûr à la campagne.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "J'ai un/une ...",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "Il/Elle a ...",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>J'ai un grand appartement.</b> <b>Il a un jardin.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "le plus grand / le plus cher",
+        "color": "#16a085",
+        "bg": "#e8f8f5"
+      },
+      {
+        "type": "chunk",
+        "text": "le moins cher / le plus ancien",
+        "color": "#16a085",
+        "bg": "#e8f8f5"
+      },
+      {
+        "type": "sentence",
+        "text": "Claridge's est <b>l'hôtel le plus ancien.</b> Le Plaza est <b>le plus grand.</b>",
+        "color": "#1abc9c",
+        "bg": "#e8f8f5"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "도시는 시골보다 ...입니다.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "시골이 더 안전하다고 생각해요.",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>도시는 시골보다 더 흥미진진합니다.</b> <b>시골이 더 안전하다고 생각해요.</b>",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "저는 ...을/를 가지고 있어요.",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "그것은 ...을/를 가지고 있어요.",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "<b>저는 넓은 아파트를 가지고 있어요.</b> <b>그것은 정원을 가지고 있어요.</b>",
+        "color": "#d35400",
+        "bg": "#fef9e7"
+      },
+      {
+        "type": "chunk",
+        "text": "가장 큰 / 가장 비싼",
+        "color": "#16a085",
+        "bg": "#e8f8f5"
+      },
+      {
+        "type": "chunk",
+        "text": "가장 싼 / 가장 오래된",
+        "color": "#16a085",
+        "bg": "#e8f8f5"
+      },
+      {
+        "type": "sentence",
+        "text": "Claridge's가 <b>가장 오래된 호텔입니다.</b> The Plaza가 <b>가장 큽니다.</b>",
+        "color": "#1abc9c",
+        "bg": "#e8f8f5"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Comparative adjectives</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use comparative adjectives to compare two people, places, or things.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• For short adjectives (1 syllable): add -er</strong> → old → older, big → bigger</li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• For adjectives ending in -y: change y to i and add -er</strong> → noisy → noisier, dirty → dirtier</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• For long adjectives (2+ syllables): use 'more' + adjective</strong> → expensive → more expensive, exciting → more exciting</li><li style='margin-bottom:15px;'><strong style='color:#8e44ad;'>• Irregular: good → better, bad → worse, far → further/farther</strong></li></ul><h3>2. Superlative adjectives</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use superlative adjectives to compare three or more things. Use 'the' before the superlative.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Short adjectives: add -est</strong> → the oldest, the biggest</li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Adjectives ending in -y: change y to i and add -est</strong> → the noisiest, the dirtiest</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Long adjectives: use 'the most' + adjective</strong> → the most expensive, the most exciting</li></ul><h3>3. have got</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use 'have got' to express possession in spoken British English.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Positive:</strong> I/You/We/They have got (I've got) / He/She/It has got (He's got)</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Negative:</strong> I haven't got / He hasn't got</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Question:</strong> Have you got? / Has she got?</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Past tense:</strong> had (no 'got')</li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "vocabulary_check": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_question": {
+    "en": "This unit teaches how to compare city and country life, use 'have got' to talk about possessions, and use superlatives to describe the best/worst hotels. <b>How do you form comparative and superlative adjectives? What is the difference between 'have' and 'have got'? How do you say 'good' and 'bad' in comparative and superlative forms?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "comparatives, superlatives, have got, city vs country, directions, hotels",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "Explain how to compare two things using -er/more, how to use have got to show possession, and how to use the + -est/most for superlatives...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_question": {
+    "en": "The unit compares city and country life and features three musical cities: Vienna, Liverpool, and New Orleans. <b>Do you prefer living in a city or in the countryside? Why? Which of the three musical cities would you most like to visit and why? What kind of music is your city or country famous for?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "I prefer living in the city because... / I prefer the countryside because... I would like to visit... because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_question": {
+    "en": "In this unit, you learned to compare places and use 'have got' to describe possessions. <b>Why are comparative and superlative forms important when describing hotels, cities, or travel experiences? How could you use these forms to recommend a hotel or a city to a friend?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Comparatives and superlatives help us compare and recommend because... I would tell my friend: Hotel X is cheaper than Hotel Y, but Hotel Z is the most comfortable...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+}

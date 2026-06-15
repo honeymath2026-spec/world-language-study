@@ -1,0 +1,2200 @@
+{
+  "title": {
+    "en": "PLACES TO STAY",
+    "ja": "滞在先の選択",
+    "fr": "LIEUX OÙ SÉJOURNER",
+    "ko": "머무를 곳"
+  },
+  "topic": {
+    "en": "Accommodation types, travel preferences, personal comfort",
+    "ja": "宿泊タイプ、旅行の好み、個人の快適さ",
+    "fr": "Types d'hébergement, préférences de voyage, confort personnel",
+    "ko": "숙박 유형, 여행 선호도, 개인적 편안함"
+  },
+  "core_title": {
+    "en": "Different Ways to Stay and Play",
+    "ja": "様々な滞在と楽しみ方",
+    "fr": "Différentes Façons de Séjourner et de S'amuser",
+    "ko": "다양한 숙박과 즐길 거리"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>When planning a vacation, the most <strong><span class='vocab-link' id='text-crucial' onclick='speakAndScroll(\"crucial\", \"vocab-crucial\")'>crucial</span></strong> decision is often where you will stay. This choice can lead to <strong><span class='vocab-link' id='text-entirely' onclick='speakAndScroll(\"entirely\", \"vocab-entirely\")'>entirely</span></strong> different experiences, as seen in the lives of Falah from Jordan and Andro from Croatia, or in the busy daily operations of the Hillbrow Hotel in Dublin.</p><p>Falah Rhiladi lives in the <strong><span class='vocab-link' id='text-bustling' onclick='speakAndScroll(\"bustling\", \"vocab-bustling\")'>bustling</span></strong> city of Amman, but his roots are in the desert. His grandfather <b>used to follow</b> the traditional <strong><span class='vocab-link' id='text-nomadic' onclick='speakAndScroll(\"nomadic\", \"vocab-nomadic\")'>nomadic</span></strong> life, moving his home across the sands. While Falah is a <strong><span class='vocab-link' id='text-proclaimed' onclick='speakAndScroll(\"proclaimed\", \"vocab-proclaimed\")'>self-proclaimed</span></strong> \"city boy\" who <b>would never give up</b> his urban comforts, he still feels the pull of the wilderness. Once a year, he goes camping with his father. He loves the peace of the desert, claiming that <b>you wouldn't believe</b> how many stars you can see once you leave the city's <strong><span class='vocab-link' id='text-pollution' onclick='speakAndScroll(\"pollution\", \"vocab-pollution\")'>pollution</span></strong> behind. If he didn't have these annual trips, <b>he would probably feel</b> much more stressed by city life.</p><p>Similarly, Andro Zelic grew up with a deep love for the outdoors. As a child, his family <b>used to go</b> to the same campsite every year on the Croatian coast. He <strong><span class='vocab-link' id='text-fondly' onclick='speakAndScroll(\"fondly\", \"vocab-fondly\")'>fondly</span></strong> remembers a \"gang\" of children who always <b>used to see</b> each other and run around until the early hours. \"We never <b>used to go</b> to bed before one in the morning,\" he recalls. Even though Andro can afford luxury hotels today, he still prefers camping. He believes that if he stayed in a hotel, his children <b>wouldn't have</b> the same freedom to explore. To him, hotels often have a cold <strong><span class='vocab-link' id='text-atmosphere' onclick='speakAndScroll(\"atmosphere\", \"vocab-atmosphere\")'>atmosphere</span></strong> compared to the friendly <strong><span class='vocab-link' id='text-vibe' onclick='speakAndScroll(\"vibe\", \"vocab-vibe\")'>vibe</span></strong> of a campsite.</p><p>However, hotels remain the primary choice for many travelers. David recently called the Hillbrow Hotel to inquire about a room. He learned that while the hotel is <strong><span class='vocab-link' id='text-convenient' onclick='speakAndScroll(\"convenient\", \"vocab-convenient\")'>convenient</span></strong>, it comes with extra costs. For instance, if guests wanted Wi-Fi, <b>they would have to pay</b> a fee. Furthermore, if they decided to cancel late, <b>they would lose</b> their 10% <strong><span class='vocab-link' id='text-deposit' onclick='speakAndScroll(\"deposit\", \"vocab-deposit\")'>deposit</span></strong>.</p><p>The life of a hotel receptionist is never dull, especially when dealing with guests in the <strong><span class='vocab-link' id='text-presidential' onclick='speakAndScroll(\"presidential\", \"vocab-presidential\")'>presidential</span></strong> suite. Lady Zaza has a <strong><span class='vocab-link' id='text-severe' onclick='speakAndScroll(\"severe\", \"vocab-severe\")'>severe</span></strong> nut allergy; if she accidentally ate a peanut, <b>it would be</b> a medical emergency. If the hotel <b>didn't remove</b> all green items from her room, she <b>would likely refuse</b> to stay there. She also requested hundreds of flowers because <strong><span class='vocab-link' id='text-arranging' onclick='speakAndScroll(\"arranging\", \"vocab-arranging\")'>arranging</span></strong> them is the only thing that relaxes her.</p><p>Whether it is the <strong><span class='vocab-link' id='text-simplicity' onclick='speakAndScroll(\"simplicity\", \"vocab-simplicity\")'>simplicity</span></strong> of a desert tent, the <strong><span class='vocab-link' id='text-nostalgia' onclick='speakAndScroll(\"nostalgia\", \"vocab-nostalgia\")'>nostalgia</span></strong> of a coastal campsite, or the high-<strong><span class='vocab-link' id='text-maintenance' onclick='speakAndScroll(\"maintenance\", \"vocab-maintenance\")'>maintenance</span></strong> luxury of a suite, how we travel <strong><span class='vocab-link' id='text-reflects' onclick='speakAndScroll(\"reflects\", \"vocab-reflects\")'>reflects</span></strong> who we are. As Andro suggests, if more people chose camping, <b>they would perhaps find</b> a warmer way of life. But for those like Lady Zaza, the comfort of a hotel is a necessity she <b>would never trade</b> for a night under the stars.</p>",
+    "ja": "<p style='margin-top:0;'>休暇を計画する際、最も<strong><span class='vocab-link' id='text-crucial' onclick='speakAndScroll(\"crucial\", \"vocab-crucial\")'>重要な</span></strong>決断は、多くの場合どこに滞在するかです。この選択は、ヨルダンのファラーやクロアチアのアンドロの生活、あるいはダブリンのヒルブロウホテルの忙しい日常業務に見られるように、<strong><span class='vocab-link' id='text-entirely' onclick='speakAndScroll(\"entirely\", \"vocab-entirely\")'>まったく</span></strong>異なる経験をもたらす可能性があります。</p><p>ファラー・リラディはアンマンの<strong><span class='vocab-link' id='text-bustling' onclick='speakAndScroll(\"bustling\", \"vocab-bustling\")'>賑やかな</span></strong>街に住んでいますが、彼のルーツは砂漠にあります。彼の祖父は伝統的な<strong><span class='vocab-link' id='text-nomadic' onclick='speakAndScroll(\"nomadic\", \"vocab-nomadic\")'>遊牧</span></strong>生活を<b>送っていました</b>。ファラーは都市の快適さを<b>決して手放さない</b>という<strong><span class='vocab-link' id='text-proclaimed' onclick='speakAndScroll(\"proclaimed\", \"vocab-proclaimed\")'>自称</span></strong>「都会の男」ですが、それでも彼は荒野の魅力を感じています。年に一度、父親とキャンプに行きます。彼は砂漠の平和を愛し、街の<strong><span class='vocab-link' id='text-pollution' onclick='speakAndScroll(\"pollution\", \"vocab-pollution\")'>公害</span></strong>を離れるとどれだけ多くの星が見えるか<b>信じられないだろう</b>と主張しています。もしこの年一回の旅がなかったら、<b>おそらく都会の生活にもっとストレスを感じるでしょう</b>。</p><p>同様に、アンドロ・ゼリッチはアウトドアに対する深い愛情を持って育ちました。子供の頃、彼の家族は毎年クロアチアの海岸の同じキャンプ場に<b>行ったものです</b>。彼はいつもお互いに<b>会って</b>、夜遅くまで走り回っていた子供たちの「ギャング」を<strong><span class='vocab-link' id='text-fondly' onclick='speakAndScroll(\"fondly\", \"vocab-fondly\")'>懐かしく</span></strong>覚えています。「私たちは朝の1時前に<b>寝たことは一度もありません</b>」と彼は回想します。アンドロは今日、高級ホテルに泊まる余裕がありますが、それでもキャンプを好みます。もしホテルに泊まったら、子供たちは同じ自由を持て<b>ないだろう</b>と彼は考えています。彼にとって、ホテルはキャンプ場の友好的な<strong><span class='vocab-link' id='text-vibe' onclick='speakAndScroll(\"vibe\", \"vocab-vibe\")'>雰囲気</span></strong>に比べて、冷たい<strong><span class='vocab-link' id='text-atmosphere' onclick='speakAndScroll(\"atmosphere\", \"vocab-atmosphere\")'>雰囲気</span></strong>を持っていることがよくあります。</p><p>しかし、ホテルは多くの旅行者にとって依然として主要な選択肢です。デビッドは最近、ヒルブロウホテルに部屋の問い合わせをしました。彼は、ホテルは<strong><span class='vocab-link' id='text-convenient' onclick='speakAndScroll(\"convenient\", \"vocab-convenient\")'>便利</span></strong>だが、追加費用がかかることを知りました。例えば、ゲストがWi-Fiを望めば、<b>料金を支払わなければならないでしょう</b>。さらに、遅れてキャンセルすることに決めれば、10％の<strong><span class='vocab-link' id='text-deposit' onclick='speakAndScroll(\"deposit\", \"vocab-deposit\")'>保証金</span></strong>を<b>失うでしょう</b>。</p><p>ホテルのフロント係の生活は決して退屈ではありません。特に<strong><span class='vocab-link' id='text-presidential' onclick='speakAndScroll(\"presidential\", \"vocab-presidential\")'>大統領</span></strong>スイートのゲストに対応するときはなおさらです。レディ・ザザは<strong><span class='vocab-link' id='text-severe' onclick='speakAndScroll(\"severe\", \"vocab-severe\")'>重度の</span></strong>ナッツアレルギーを持っています。もし誤ってピーナッツを食べたら、<b>それは医療上の緊急事態になるでしょう</b>。ホテルが彼女の部屋からすべての緑色のアイテムを<b>取り除かなければ</b>、彼女はおそらくそこに泊まることを<b>拒否するでしょう</b>。彼女はまた、何百もの花を要求しました。なぜなら、それらを<strong><span class='vocab-link' id='text-arranging' onclick='speakAndScroll(\"arranging\", \"vocab-arranging\")'>アレンジする</span></strong>ことが彼女をリラックスさせる唯一のことだからです。</p><p>砂漠のテントの<strong><span class='vocab-link' id='text-simplicity' onclick='speakAndScroll(\"simplicity\", \"vocab-simplicity\")'>簡素さ</span></strong>であれ、海岸のキャンプ場の<strong><span class='vocab-link' id='text-nostalgia' onclick='speakAndScroll(\"nostalgia\", \"vocab-nostalgia\")'>懐かしさ</span></strong>であれ、あるいはスイートの維持が<strong><span class='vocab-link' id='text-maintenance' onclick='speakAndScroll(\"maintenance\", \"vocab-maintenance\")'>維持</span></strong>高級ホテルであれ、私たちの旅行の仕方は私たちが誰であるかを<strong><span class='vocab-link' id='text-reflects' onclick='speakAndScroll(\"reflects\", \"vocab-reflects\")'>反映</span></strong>しています。アンドロが示唆するように、もしより多くの人々がキャンプを選んだなら、<b>おそらくより温かい生活様式を見つけるでしょう</b>。しかし、レディ・ザザのような人々にとって、ホテルの快適さは、星の下での夜と<b>決して交換しない</b>必需品です。</p>",
+    "fr": "<p style='margin-top:0;'>Lors de la planification de vacances, la décision la plus <strong><span class='vocab-link' id='text-crucial' onclick='speakAndScroll(\"crucial\", \"vocab-crucial\")'>cruciale</span></strong> est souvent l'endroit où vous séjournerez. Ce choix peut conduire à des expériences <strong><span class='vocab-link' id='text-entirely' onclick='speakAndScroll(\"entirely\", \"vocab-entirely\")'>entièrement</span></strong> différentes, comme on le voit dans la vie de Falah de Jordanie et d'Andro de Croatie, ou dans les opérations quotidiennes animées de l'hôtel Hillbrow à Dublin.</p><p>Falah Rhiladi vit dans la ville <strong><span class='vocab-link' id='text-bustling' onclick='speakAndScroll(\"bustling\", \"vocab-bustling\")'>animée</span></strong> d'Amman, mais ses racines sont dans le désert. Son grand-père <b>avait l'habitude de suivre</b> la vie <strong><span class='vocab-link' id='text-nomadic' onclick='speakAndScroll(\"nomadic\", \"vocab-nomadic\")'>nomade</span></strong> traditionnelle, déplaçant sa maison à travers les sables. Bien que Falah soit un <strong><span class='vocab-link' id='text-proclaimed' onclick='speakAndScroll(\"proclaimed\", \"vocab-proclaimed\")'>autoproclamé</span></strong> \"garçon de la ville\" qui <b>ne renoncerait jamais</b> à son confort urbain, il ressent toujours l'attrait de la nature sauvage. Une fois par an, il fait du camping avec son père. Il aime la paix du désert, affirmant que <b>vous ne croiriez pas</b> combien d'étoiles vous pouvez voir une fois que vous avez laissé derrière vous la <strong><span class='vocab-link' id='text-pollution' onclick='speakAndScroll(\"pollution\", \"vocab-pollution\")'>pollution</span></strong> de la ville. S'il n'avait pas ces voyages annuels, <b>il se sentirait probablement</b> beaucoup plus stressé par la vie urbaine.</p><p>De même, Andro Zelic a grandi avec un profond amour pour les grands espaces. Enfant, sa famille <b>avait l'habitude d'aller</b> chaque année au même camping sur la côte croate. Il se souvient <strong><span class='vocab-link' id='text-fondly' onclick='speakAndScroll(\"fondly\", \"vocab-fondly\")'>tendrement</span></strong> d'une \"bande\" d'enfants qui <b>avaient toujours l'habitude de se voir</b> et de courir jusqu'aux petites heures du matin. \"Nous n'<b>avions jamais l'habitude d'aller</b> nous coucher avant une heure du matin\", se souvient-il. Même si Andro peut aujourd'hui se permettre des hôtels de luxe, il préfère toujours le camping. Il pense que s'il restait dans un hôtel, ses enfants <b>n'auraient pas</b> la même liberté d'exploration. Pour lui, les hôtels ont souvent une <strong><span class='vocab-link' id='text-atmosphere' onclick='speakAndScroll(\"atmosphere\", \"vocab-atmosphere\")'>atmosphère</span></strong> froide comparée à l'<strong><span class='vocab-link' id='text-vibe' onclick='speakAndScroll(\"vibe\", \"vocab-vibe\")'>ambiance</span></strong> amicale d'un camping.</p><p>Cependant, les hôtels restent le premier choix pour de nombreux voyageurs. David a récemment appelé l'hôtel Hillbrow pour se renseigner sur une chambre. Il a appris que bien que l'hôtel soit <strong><span class='vocab-link' id='text-convenient' onclick='speakAndScroll(\"convenient\", \"vocab-convenient\")'>pratique</span></strong>, il comporte des coûts supplémentaires. Par exemple, si les clients voulaient le Wi-Fi, <b>ils devraient payer</b> des frais. De plus, s'ils décidaient d'annuler tardivement, <b>ils perdraient</b> leurs 10 % d'<strong><span class='vocab-link' id='text-deposit' onclick='speakAndScroll(\"deposit\", \"vocab-deposit\")'>acompte</span></strong>.</p><p>La vie d'un réceptionniste d'hôtel n'est jamais ennuyeuse, surtout lorsqu'il s'agit de clients dans la suite <strong><span class='vocab-link' id='text-presidential' onclick='speakAndScroll(\"presidential\", \"vocab-presidential\")'>présidentielle</span></strong>. Lady Zaza a une allergie aux noix <strong><span class='vocab-link' id='text-severe' onclick='speakAndScroll(\"severe\", \"vocab-severe\")'>grave</span></strong> ; si elle mangeait accidentellement une cacahuète, <b>ce serait</b> une urgence médicale. Si l'hôtel <b>n'enlevait pas</b> tous les objets verts de sa chambre, elle <b>refuserait probablement</b> d'y rester. Elle a également demandé des centaines de fleurs parce que le fait de les <strong><span class='vocab-link' id='text-arranging' onclick='speakAndScroll(\"arranging\", \"vocab-arranging\")'>disposer</span></strong> est la seule chose qui la détende.</p><p>Que ce soit la <strong><span class='vocab-link' id='text-simplicity' onclick='speakAndScroll(\"simplicity\", \"vocab-simplicity\")'>simplicité</span></strong> d'une tente dans le désert, la <strong><span class='vocab-link' id='text-nostalgia' onclick='speakAndScroll(\"nostalgia\", \"vocab-nostalgia\")'>nostalgie</span></strong> d'un camping côtier, ou le luxe <strong><span class='vocab-link' id='text-maintenance' onclick='speakAndScroll(\"maintenance\", \"vocab-maintenance\")'>exigeant</span></strong> d'une suite, la façon dont nous voyageons <strong><span class='vocab-link' id='text-reflects' onclick='speakAndScroll(\"reflects\", \"vocab-reflects\")'>reflète</span></strong> qui nous sommes. Comme le suggère Andro, si plus de gens choisissaient le camping, <b>ils trouveraient peut-être</b> un mode de vie plus chaleureux. Mais pour ceux comme Lady Zaza, le confort d'un hôtel est une nécessité qu'elle <b>n'échangerait jamais</b> contre une nuit à la belle étoile.</p>",
+    "ko": "<p style='margin-top:0;'>휴가를 계획할 때 가장 <strong><span class='vocab-link' id='text-crucial' onclick='speakAndScroll(\"crucial\", \"vocab-crucial\")'>중요한</span></strong> 결정은 종종 어디에 머물지입니다. 이 선택은 요르단의 팔라와 크로아티아의 안드로의 삶, 또는 더블린의 힐브로우 호텔의 분주한 일상 운영에서 볼 수 있듯이 <strong><span class='vocab-link' id='text-entirely' onclick='speakAndScroll(\"entirely\", \"vocab-entirely\")'>완전히</span></strong> 다른 경험으로 이어질 수 있습니다.</p><p>팔라 리라디는 암만의 <strong><span class='vocab-link' id='text-bustling' onclick='speakAndScroll(\"bustling\", \"vocab-bustling\")'>북적이는</span></strong> 도시에 살지만 그의 뿌리는 사막에 있습니다. 그의 할아버지는 전통적인 <strong><span class='vocab-link' id='text-nomadic' onclick='speakAndScroll(\"nomadic\", \"vocab-nomadic\")'>유목</span></strong> 생활을 <b>하곤 했습니다</b>. 팔라는 도시의 편안함을 <b>절대 포기하지 않을</b> <strong><span class='vocab-link' id='text-proclaimed' onclick='speakAndScroll(\"proclaimed\", \"vocab-proclaimed\")'>자칭</span></strong> \"도시 아이\"이지만, 그는 여전히 자연의 부름을 느낍니다. 일년에 한 번, 그는 아버지와 함께 캠핑을 갑니다. 그는 사막의 평화를 사랑하며, 도시의 <strong><span class='vocab-link' id='text-pollution' onclick='speakAndScroll(\"pollution\", \"vocab-pollution\")'>공해</span></strong>를 뒤로하고 떠나면 얼마나 많은 별을 볼 수 있는지 <b>믿기지 않을 것</b>이라고 말합니다. 만약 이 일년에 한 번의 여행이 없었다면, <b>아마 도시 생활에 훨씬 더 스트레스를 느꼈을 것입니다</b>.</p><p>마찬가지로, 안드로 젤리치는 야외 활동에 대한 깊은 사랑을 가지고 자랐습니다. 어린 시절, 그의 가족은 크로아티아 해안의 같은 캠핑장에 매년 <b>가곤 했습니다</b>. 그는 항상 서로 <b>보곤 했고</b> 새벽까지 뛰어놀던 아이들의 \"무리\"를 <strong><span class='vocab-link' id='text-fondly' onclick='speakAndScroll(\"fondly\", \"vocab-fondly\")'>애틋하게</span></strong> 회상합니다. \"우리는 새벽 1시 전에 <b>잠들곤 한 적이 없었습니다</b>\"라고 그는 회상합니다. 안드로는 오늘날 고급 호텔에 머물 여유가 있음에도 불구하고 여전히 캠핑을 선호합니다. 만약 호텔에 묵는다면, 그의 아이들은 탐험할 같은 자유를 <b>가지지 못할 것</b>이라고 그는 믿습니다. 그에게 호텔은 종종 캠핑장의 친근한 <strong><span class='vocab-link' id='text-vibe' onclick='speakAndScroll(\"vibe\", \"vocab-vibe\")'>분위기</span></strong>에 비해 차가운 <strong><span class='vocab-link' id='text-atmosphere' onclick='speakAndScroll(\"atmosphere\", \"vocab-atmosphere\")'>분위기</span></strong>를 가지고 있습니다.</p><p>그러나 호텔은 여전히 많은 여행객들의 주요 선택지입니다. 데이비드는 최근 힐브로우 호텔에 방에 대해 문의했습니다. 그는 호텔이 <strong><span class='vocab-link' id='text-convenient' onclick='speakAndScroll(\"convenient\", \"vocab-convenient\")'>편리하지만</span></strong> 추가 비용이 발생한다는 것을 알게 되었습니다. 예를 들어, 손님이 Wi-Fi를 원하면 <b>요금을 지불해야 할 것입니다</b>. 게다가 늦게 취소하기로 결정하면 10%의 <strong><span class='vocab-link' id='text-deposit' onclick='speakAndScroll(\"deposit\", \"vocab-deposit\")'>보증금</span></strong>을 <b>잃을 것입니다</b>.</p><p>호텔 프런트 데스크 직원의 삶은 결코 지루하지 않습니다, 특히 <strong><span class='vocab-link' id='text-presidential' onclick='speakAndScroll(\"presidential\", \"vocab-presidential\")'>대통령</span></strong> 스위트의 투숙객을 상대할 때는 더욱 그렇습니다. 레이디 자자는 <strong><span class='vocab-link' id='text-severe' onclick='speakAndScroll(\"severe\", \"vocab-severe\")'>심각한</span></strong> 견과류 알레르기가 있습니다. 만약 그녀가 실수로 땅콩을 먹으면, <b>그것은 응급 상황이 될 것입니다</b>. 호텔이 그녀의 방에서 모든 녹색 물건을 <b>제거하지 않으면</b>, 그녀는 아마 그곳에 머무르는 것을 <b>거부할 것입니다</b>. 그녀는 또한 수백 송이의 꽃을 요청했습니다. 왜냐하면 꽃을 <strong><span class='vocab-link' id='text-arranging' onclick='speakAndScroll(\"arranging\", \"vocab-arranging\")'>꽃꽂이</span></strong>하는 것이 그녀를 편안하게 하는 유일한 일이기 때문입니다.</p><p>사막 텐트의 <strong><span class='vocab-link' id='text-simplicity' onclick='speakAndScroll(\"simplicity\", \"vocab-simplicity\")'>단순함</span></strong>이든, 해변 캠핑장의 <strong><span class='vocab-link' id='text-nostalgia' onclick='speakAndScroll(\"nostalgia\", \"vocab-nostalgia\")'>향수</span></strong>이든, 혹은 관리가 <strong><span class='vocab-link' id='text-maintenance' onclick='speakAndScroll(\"maintenance\", \"vocab-maintenance\")'>까다로운</span></strong> 스위트의 호화로움이든, 우리가 여행하는 방식은 우리가 누구인지를 <strong><span class='vocab-link' id='text-reflects' onclick='speakAndScroll(\"reflects\", \"vocab-reflects\")'>반영</span></strong>합니다. 안드로가 제안하듯, 더 많은 사람들이 캠핑을 선택한다면, <b>아마 더 따뜻한 삶의 방식을 찾을 것입니다</b>. 그러나 레이디 자자와 같은 사람들에게 호텔의 편안함은 그녀가 별이 빛나는 밤과 <b>결코 바꾸지 않을</b> 필수품입니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "crucial",
+        "word": "Crucial",
+        "definition": "Extremely important or necessary for the success or failure of something."
+      },
+      {
+        "id": "entirely",
+        "word": "Entirely",
+        "definition": "Completely; with nothing missing or excepted."
+      },
+      {
+        "id": "bustling",
+        "word": "Bustling",
+        "definition": "Full of people moving about in a busy way; very active."
+      },
+      {
+        "id": "nomadic",
+        "word": "Nomadic",
+        "definition": "Belonging to a group of people who move from place to place rather than living in one place all the time."
+      },
+      {
+        "id": "proclaimed",
+        "word": "Self-proclaimed",
+        "definition": "Giving yourself a particular title or status without anyone else saying it is true."
+      },
+      {
+        "id": "pollution",
+        "word": "Pollution",
+        "definition": "Substances that make air, water, or soil dirty and dangerous for living things."
+      },
+      {
+        "id": "fondly",
+        "word": "Fondly",
+        "definition": "In a way that shows love or great liking for someone or something."
+      },
+      {
+        "id": "atmosphere",
+        "word": "Atmosphere",
+        "definition": "The feeling or mood that you get from a particular place or situation."
+      },
+      {
+        "id": "vibe",
+        "word": "Vibe",
+        "definition": "The general mood or emotional quality of a person, place, or situation (informal)."
+      },
+      {
+        "id": "convenient",
+        "word": "Convenient",
+        "definition": "Useful, easy, or quick to do; not causing any problems."
+      },
+      {
+        "id": "deposit",
+        "word": "Deposit",
+        "definition": "A sum of money that is given as the first part of a larger payment to secure a booking."
+      },
+      {
+        "id": "presidential",
+        "word": "Presidential",
+        "definition": "Relating to a president, or suitable for a president (often used for luxury hotel suites)."
+      },
+      {
+        "id": "severe",
+        "word": "Severe",
+        "definition": "Very serious, bad, or difficult to deal with."
+      },
+      {
+        "id": "arranging",
+        "word": "Arranging",
+        "definition": "Putting things in a particular order or position, especially to make them look attractive."
+      },
+      {
+        "id": "simplicity",
+        "word": "Simplicity",
+        "definition": "The quality of being easy to understand or use, or the state of being plain and uncomplicated."
+      },
+      {
+        "id": "nostalgia",
+        "word": "Nostalgia",
+        "definition": "A feeling of pleasure mixed with sadness when you think of happy times in the past."
+      },
+      {
+        "id": "maintenance",
+        "word": "Maintenance",
+        "definition": "The act of keeping something in good condition (High-maintenance: needing a lot of time, money, or effort)."
+      },
+      {
+        "id": "reflects",
+        "word": "Reflects",
+        "definition": "To show, express, or be a sign of something."
+      }
+    ],
+    "ja": [
+      {
+        "id": "crucial",
+        "word": "重要な",
+        "definition": "何かの成功や失敗にとって非常に重要または必要なこと。"
+      },
+      {
+        "id": "entirely",
+        "word": "まったく",
+        "definition": "完全に、何も欠けていない、または例外がない。"
+      },
+      {
+        "id": "bustling",
+        "word": "賑やかな",
+        "definition": "人々が忙しそうに行き交う様子、非常に活発な様子。"
+      },
+      {
+        "id": "nomadic",
+        "word": "遊牧",
+        "definition": "常に一つの場所に住むのではなく、場所から場所へ移動する人々のグループに属する。"
+      },
+      {
+        "id": "proclaimed",
+        "word": "自称",
+        "definition": "他の誰かがそれを真実と言わなくても、自分自身に特定の称号や地位を与えること。"
+      },
+      {
+        "id": "pollution",
+        "word": "公害",
+        "definition": "空気、水、土壌を汚し、生物にとって危険にする物質。"
+      },
+      {
+        "id": "fondly",
+        "word": "懐かしく",
+        "definition": "誰かや何かに対する愛情や大きな好意を示す方法で。"
+      },
+      {
+        "id": "atmosphere",
+        "word": "雰囲気",
+        "definition": "特定の場所や状況から得られる感情や気分。"
+      },
+      {
+        "id": "vibe",
+        "word": "雰囲気",
+        "definition": "人、場所、または状況の一般的な気分や感情的な質（インフォーマル）。"
+      },
+      {
+        "id": "convenient",
+        "word": "便利な",
+        "definition": "有用で、簡単で、または迅速に行える、問題を引き起こさない。"
+      },
+      {
+        "id": "deposit",
+        "word": "保証金",
+        "definition": "予約を確定するために、より大きな支払いの最初の一部として支払われる金額。"
+      },
+      {
+        "id": "presidential",
+        "word": "大統領",
+        "definition": "大統領に関連する、または大統領にふさわしい（高級ホテルのスイートによく使われる）。"
+      },
+      {
+        "id": "severe",
+        "word": "重度の",
+        "definition": "非常に深刻で、悪く、または対処が難しい。"
+      },
+      {
+        "id": "arranging",
+        "word": "アレンジする",
+        "definition": "特に魅力的に見えるように、物を特定の順序や位置に配置すること。"
+      },
+      {
+        "id": "simplicity",
+        "word": "簡素さ",
+        "definition": "理解や使用が簡単な性質、または簡潔で複雑でない状態。"
+      },
+      {
+        "id": "nostalgia",
+        "word": "懐かしさ",
+        "definition": "過去の楽しい時代を思い出すときに感じる、喜びと悲しみが混ざった感情。"
+      },
+      {
+        "id": "maintenance",
+        "word": "維持",
+        "definition": "何かを良い状態に保つ行為（維持が大変な：多くの時間、お金、または労力を必要とする）。"
+      },
+      {
+        "id": "reflects",
+        "word": "反映する",
+        "definition": "何かを示したり、表現したり、または何かの兆候であること。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "crucial",
+        "word": "Crucial",
+        "definition": "Extrêmement important ou nécessaire pour le succès ou l'échec de quelque chose."
+      },
+      {
+        "id": "entirely",
+        "word": "Entièrement",
+        "definition": "Complètement ; sans rien manquer ou sans exception."
+      },
+      {
+        "id": "bustling",
+        "word": "Animé",
+        "definition": "Plein de gens qui se déplacent d'une manière occupée ; très actif."
+      },
+      {
+        "id": "nomadic",
+        "word": "Nomade",
+        "definition": "Appartenant à un groupe de personnes qui se déplacent d'un endroit à l'autre plutôt que de vivre toujours au même endroit."
+      },
+      {
+        "id": "proclaimed",
+        "word": "Autoproclamé",
+        "definition": "Se donner un titre ou un statut particulier sans que personne d'autre ne dise que c'est vrai."
+      },
+      {
+        "id": "pollution",
+        "word": "Pollution",
+        "definition": "Substances qui rendent l'air, l'eau ou le sol sales et dangereux pour les êtres vivants."
+      },
+      {
+        "id": "fondly",
+        "word": "Tendrement",
+        "definition": "D'une manière qui montre de l'amour ou une grande affection pour quelqu'un ou quelque chose."
+      },
+      {
+        "id": "atmosphere",
+        "word": "Atmosphère",
+        "definition": "Le sentiment ou l'humeur que vous obtenez d'un lieu ou d'une situation particulière."
+      },
+      {
+        "id": "vibe",
+        "word": "Ambiance",
+        "definition": "L'humeur générale ou la qualité émotionnelle d'une personne, d'un lieu ou d'une situation (informel)."
+      },
+      {
+        "id": "convenient",
+        "word": "Pratique",
+        "definition": "Utile, facile ou rapide à faire ; ne causant aucun problème."
+      },
+      {
+        "id": "deposit",
+        "word": "Acompte",
+        "definition": "Une somme d'argent donnée comme première partie d'un paiement plus important pour garantir une réservation."
+      },
+      {
+        "id": "presidential",
+        "word": "Présidentiel",
+        "definition": "Relatif à un président, ou convenant à un président (souvent utilisé pour les suites d'hôtel de luxe)."
+      },
+      {
+        "id": "severe",
+        "word": "Grave",
+        "definition": "Très sérieux, mauvais ou difficile à gérer."
+      },
+      {
+        "id": "arranging",
+        "word": "Disposer",
+        "definition": "Mettre les choses dans un certain ordre ou position, surtout pour les rendre attrayantes."
+      },
+      {
+        "id": "simplicity",
+        "word": "Simplicité",
+        "definition": "La qualité d'être facile à comprendre ou à utiliser, ou l'état d'être simple et sans complication."
+      },
+      {
+        "id": "nostalgia",
+        "word": "Nostalgie",
+        "definition": "Un sentiment de plaisir mêlé de tristesse lorsque vous pensez aux moments heureux du passé."
+      },
+      {
+        "id": "maintenance",
+        "word": "Entretien",
+        "definition": "L'action de maintenir quelque chose en bon état (exigeant : nécessitant beaucoup de temps, d'argent ou d'efforts)."
+      },
+      {
+        "id": "reflects",
+        "word": "Reflète",
+        "definition": "Montrer, exprimer ou être un signe de quelque chose."
+      }
+    ],
+    "ko": [
+      {
+        "id": "crucial",
+        "word": "중요한",
+        "definition": "무언가의 성공이나 실패에 매우 중요하거나 필요한."
+      },
+      {
+        "id": "entirely",
+        "word": "완전히",
+        "definition": "완전하게, 누락되거나 예외 없이."
+      },
+      {
+        "id": "bustling",
+        "word": "북적이는",
+        "definition": "사람들로 붐비고 매우 활기찬."
+      },
+      {
+        "id": "nomadic",
+        "word": "유목",
+        "definition": "항상 한 곳에 살지 않고 이곳저곳으로 이동하는 사람들 집단에 속하는."
+      },
+      {
+        "id": "proclaimed",
+        "word": "자칭",
+        "definition": "다른 사람이 인정하지 않아도 스스로 특정 칭호나 지위를 부여하는."
+      },
+      {
+        "id": "pollution",
+        "word": "공해",
+        "definition": "공기, 물, 토양을 더럽혀 생명체에게 위험하게 만드는 물질."
+      },
+      {
+        "id": "fondly",
+        "word": "애틋하게",
+        "definition": "누군가 또는 무언가에 대한 사랑이나 큰 호감을 보이는 방식으로."
+      },
+      {
+        "id": "atmosphere",
+        "word": "분위기",
+        "definition": "특정 장소나 상황에서 느껴지는 감정이나 기분."
+      },
+      {
+        "id": "vibe",
+        "word": "분위기",
+        "definition": "사람, 장소 또는 상황의 전반적인 기분이나 감정적 특성 (비격식)."
+      },
+      {
+        "id": "convenient",
+        "word": "편리한",
+        "definition": "유용하고, 쉽고, 빠르게 할 수 있는, 문제를 일으키지 않는."
+      },
+      {
+        "id": "deposit",
+        "word": "보증금",
+        "definition": "예약을 확정하기 위해 더 큰 지불금의 첫 부분으로 지불되는 금액."
+      },
+      {
+        "id": "presidential",
+        "word": "대통령",
+        "definition": "대통령에 관한, 또는 대통령에게 어울리는 (종종 고급 호텔 스위트에 사용됨)."
+      },
+      {
+        "id": "severe",
+        "word": "심각한",
+        "definition": "매우 심각하고, 나쁘거나, 처리하기 어려운."
+      },
+      {
+        "id": "arranging",
+        "word": "꽃꽂이",
+        "definition": "특히 매력적으로 보이도록 물건을 특정 순서나 위치에 배열하는 것."
+      },
+      {
+        "id": "simplicity",
+        "word": "단순함",
+        "definition": "이해하거나 사용하기 쉬운 특성, 또는 간단하고 복잡하지 않은 상태."
+      },
+      {
+        "id": "nostalgia",
+        "word": "향수",
+        "definition": "과거의 행복했던 시절을 생각할 때 느끼는 기쁨과 슬픔이 혼합된 감정."
+      },
+      {
+        "id": "maintenance",
+        "word": "유지",
+        "definition": "무언가를 좋은 상태로 유지하는 행위 (관리가 까다로운: 많은 시간, 돈 또는 노력이 필요함)."
+      },
+      {
+        "id": "reflects",
+        "word": "반영하다",
+        "definition": "무언가를 보여주거나, 표현하거나, 또는 무언가의 표시가 되는 것."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Hotel Reservation Inquiry",
+        "label": "Conversation 1: Hillbrow Hotel",
+        "script": [
+          {
+            "speaker": "Jackie",
+            "text": "Hillbrow Hotel."
+          },
+          {
+            "speaker": "David",
+            "text": "Oh, hello. I'm ringing on behalf of a colleague. He wants some information."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Sure. What would you like to know?"
+          },
+          {
+            "speaker": "David",
+            "text": "Um, well, do you have any triple rooms available in August?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "I'm afraid not. We only have doubles."
+          },
+          {
+            "speaker": "David",
+            "text": "Oh, right. Is it possible to get a double with an extra bed? They have a small kid."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "That should be possible."
+          },
+          {
+            "speaker": "David",
+            "text": "And how much would that be per night?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "110 euros per night, with a supplement for the cot."
+          },
+          {
+            "speaker": "David",
+            "text": "Sorry. Does that include the cost of the extra bed or not?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "It does include it, yes."
+          },
+          {
+            "speaker": "David",
+            "text": "And breakfast?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "I'm afraid breakfast is extra. What dates are they thinking of coming?"
+          },
+          {
+            "speaker": "David",
+            "text": "Um, Tuesday the 12th to the 17th."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "OK. Let me just check our availability. Hmm, I'm afraid we're fully booked that weekend."
+          },
+          {
+            "speaker": "David",
+            "text": "So does that include Friday night?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "That's right, yes. Sorry."
+          },
+          {
+            "speaker": "David",
+            "text": "And what if they came earlier? Would that be better?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Again, the previous Saturday we're full, but we have rooms available from the Sunday night."
+          },
+          {
+            "speaker": "David",
+            "text": "So that's the 10th, right?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "That's correct."
+          },
+          {
+            "speaker": "David",
+            "text": "OK. I'll need to check with them about that. And just a couple of other things."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Sure."
+          },
+          {
+            "speaker": "David",
+            "text": "Do you have Wi-Fi or Internet access?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "There is Wi-Fi in rooms for a fee."
+          },
+          {
+            "speaker": "David",
+            "text": "So you have to pay, right?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "I'm afraid so. It's 12 euros a day, or four euros for half an hour."
+          },
+          {
+            "speaker": "David",
+            "text": "And do you have parking facilities?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Not at the hotel itself, but we have an arrangement with a local car park. They offer a reduced rate of 15 euros per day."
+          },
+          {
+            "speaker": "David",
+            "text": "OK - and what about getting from the airport?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "There's a shuttle bus, which serves a number of hotels including ours. It costs three euros - or they could take a cab."
+          },
+          {
+            "speaker": "David",
+            "text": "OK. Let me just talk to my friends. Could you tell me your name if I call back?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Yes, it's Jackie, but any of my colleagues can deal with the booking."
+          },
+          {
+            "speaker": "David",
+            "text": "Oh wait, sorry - one last thing. Will they need to make a payment when they make the booking?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Yes, we'll need to take a 10% deposit on a credit card."
+          },
+          {
+            "speaker": "David",
+            "text": "So if for whatever reason they didn't come, they'd lose that money?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "If the cancellation was made within two weeks of the arrival date, then yes, that's right."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Credit Card Details",
+        "label": "Conversation 2: Payment for Deposit",
+        "script": [
+          {
+            "speaker": "Jackie",
+            "text": "OK, so can I take your credit card details for the deposit?"
+          },
+          {
+            "speaker": "David",
+            "text": "Sure."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "What kind of card is it?"
+          },
+          {
+            "speaker": "David",
+            "text": "Visa."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "And the name on your card?"
+          },
+          {
+            "speaker": "David",
+            "text": "Mr D E Gwaizda. That's G - W - A - I - Z - D - A."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "OK. That's an unusual name."
+          },
+          {
+            "speaker": "David",
+            "text": "Yeah, it's Polish originally."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "OK. And the card number on the card?"
+          },
+          {
+            "speaker": "David",
+            "text": "1003 6566 9242 8307."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "And the security number on the back of the card - the last three digits there?"
+          },
+          {
+            "speaker": "David",
+            "text": "718."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "And the expiry date?"
+          },
+          {
+            "speaker": "David",
+            "text": "0-6 seventeen."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "And can I just take a contact number in case there are any problems?"
+          },
+          {
+            "speaker": "David",
+            "text": "Sure. 0044 796 883 412."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Lady Zaza's Requests",
+        "label": "Conversation 3: Special Demands",
+        "script": [
+          {
+            "speaker": "Jackie",
+            "text": "Hello. Reception."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Hi. I'm calling on behalf of Lady Zaza, in the presidential suite."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Oh yes. It's a real pleasure to have her in the hotel."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Yeah, well, there was no way we could stay in that last place. The service there was a joke!"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Well, I hope everything's OK with our rooms."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Yeah, everything's fine, basically, but there are just a couple of things she's asked for."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "OK."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Well, first, can you ask room service to send some fresh flowers to the room? Lady Zaza enjoys arranging them. It relaxes her, you know?"
+          },
+          {
+            "speaker": "Manager",
+            "text": "She'd like a hundred bunches of red flowers, eighty bunches of white and fifty bunches of yellow."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Certainly. I'll send someone up with them in a minute."
+          },
+          {
+            "speaker": "Manager",
+            "text": "And tell them to bring more of her favourite chocolates too, please. With the peanut ones removed. She has a really bad nut allergy!"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "I'm so sorry to hear that. I'll sort that out at once."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Oh, and no green ones either, please. She can't stand the colour green!"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Of course."
+          },
+          {
+            "speaker": "Manager",
+            "text": "She'd also like the light bulbs in her room changed. She said it's too dark. And can you bring her a kitten?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Er, a kitten?!"
+          },
+          {
+            "speaker": "Manager",
+            "text": "Yeah, a white one."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "I ... um ... well, I'll see what I can do."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Oh, and one last thing. Can she get a wake-up call at four a.m., please? She'd like to use the gym."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Well, the gym doesn't usually open until 6, but I'm sure we can organise something for her."
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. ホテルの予約問い合わせ",
+        "label": "会話 1: ヒルブロウホテル",
+        "script": [
+          {
+            "speaker": "ジャッキー",
+            "text": "ヒルブロウホテルでございます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "もしもし。同僚の代理で電話しています。いくつか情報を教えてほしいのですが。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "はい。何をお知りになりたいですか？"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "ええと、8月に3人部屋はありますか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "申し訳ございません。ダブルルームのみでございます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "ああ、そうですか。ダブルルームにベッドを追加することは可能ですか？小さな子供がいるんです。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "可能でございます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "それで一泊いくらになりますか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "一泊110ユーロで、ベビーベッドの追加料金がかかります。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "すみません。それには追加ベッドの費用も含まれていますか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "はい、含まれております。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "朝食は？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "申し訳ございません。朝食は別料金でございます。ご到着予定の日程はいつでしょうか？"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "ええと、12日の火曜日から17日までです。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "かしこまりました。空室状況を確認いたします。あいにく、その週末は満室でございます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "それには金曜日の夜も含まれますか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "はい、その通りでございます。申し訳ございません。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "では、もしもっと早く来たらどうですか？そちらの方が良いですか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "前の週の土曜日も満室ですが、日曜日の夜からお部屋をご用意できます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "それでは10日ですね？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "その通りでございます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "わかりました。それについて本人と確認する必要があります。あと何点か伺いたいのですが。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "はい。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "Wi-Fiやインターネット接続はありますか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "有料で客室にWi-Fiがございます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "つまり、支払わなければならないんですね？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "はい、その通りでございます。1日12ユーロ、または30分4ユーロでございます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "駐車場はありますか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "ホテル自体にはございませんが、提携している駐車場がございます。1日15ユーロの割引料金をご用意しております。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "空港からの移動はどうすればいいですか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "当ホテルを含む数軒のホテルを巡回するシャトルバスがございます。料金は3ユーロです。またはタクシーをご利用いただけます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "わかりました。友達と相談してみます。また電話するときのために、お名前を伺ってもよろしいですか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "はい、ジャッキーと申します。ですが、どのスタッフでも予約の対応は可能でございます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "ああ、待ってください、すみません - 最後にもう一つ。予約するときに支払いは必要ですか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "はい、クレジットカードで10%の保証金をいただく必要がございます。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "つまり、何らかの理由で来られなかった場合、そのお金は失うということですか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "ご到着日の2週間以内のキャンセルでしたら、その通りでございます。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. クレジットカード情報",
+        "label": "会話 2: 保証金の支払い",
+        "script": [
+          {
+            "speaker": "ジャッキー",
+            "text": "それでは、保証金のためにお客様のクレジットカード情報を伺ってもよろしいでしょうか？"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "はい。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "カードの種類は？"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "Visaです。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "カードに記載されているお名前は？"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "D E Gwaizdaです。スペルはG-W-A-I-Z-D-Aです。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "かしこまりました。変わったお名前ですね。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "ええ、ポーランド系なんです。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "カード番号をお願いします。"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "1003 6566 9242 8307です。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "カード裏面のセキュリティ番号（下3桁）は？"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "718です。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "有効期限は？"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "2017年6月です。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "何か問題があった場合の連絡先をお伺いしてもよろしいですか？"
+          },
+          {
+            "speaker": "デイビッド",
+            "text": "はい。0044 796 883 412です。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. レディ・ザザのリクエスト",
+        "label": "会話 3: 特別な要求",
+        "script": [
+          {
+            "speaker": "ジャッキー",
+            "text": "もしもし、フロントでございます。"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "もしもし。大統領スイートのレディ・ザザの代理で電話しています。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "ああ、はい。彼女をお迎えできて光栄です。"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "ええ、まあ、前のホテルには到底泊まれませんでした。サービスがお粗末でしたから！"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "当館のお部屋はお気に召していただけていると良いのですが。準備にあまり時間がなくて。"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "ええ、基本的には全て問題ないのですが、いくつか彼女がお願いしていることがあります。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "はい。"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "まず、ルームサービスに生花を部屋に届けるようにお願いできますか？レディ・ザザは花をアレンジするのが好きなんです。それでリラックスできるんですよ。"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "赤い花を100束、白を80束、黄色を50束欲しいそうです。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "かしこまりました。すぐにスタッフを送ります。"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "それから、彼女のお気に入りのチョコレートももっと持って来るようにお願いします。ピーナッツ入りのは除いて。"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "彼女は本当にひどいナッツアレルギーなんです！"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "それは大変でしたね。すぐに対処いたします。"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "ああ、それと緑色のものは一切なしでお願いします。彼女は緑色が我慢できないんです！"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "かしこまりました。"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "部屋の電球も交換してほしいそうです。暗すぎるんだとか。それと、子猫を連れて来てくれませんか？"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "えっ、子猫ですか？！"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "ええ、白いのを。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "それは...うーん...できる範囲で対応してみます。"
+          },
+          {
+            "speaker": "マネージャー",
+            "text": "ああ、最後にもう一つ。午前4時にモーニングコールをお願いできますか？ジムを利用したいそうです。"
+          },
+          {
+            "speaker": "ジャッキー",
+            "text": "ジムは通常6時からなのですが、彼女のために何とか手配できるかと存じます。"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Demande de réservation d'hôtel",
+        "label": "Conversation 1: Hôtel Hillbrow",
+        "script": [
+          {
+            "speaker": "Jackie",
+            "text": "Hôtel Hillbrow, bonjour."
+          },
+          {
+            "speaker": "David",
+            "text": "Bonjour. J'appelle pour le compte d'un collègue. Il veut quelques renseignements."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Bien sûr. Que voulez-vous savoir ?"
+          },
+          {
+            "speaker": "David",
+            "text": "Euh, avez-vous des chambres triples disponibles en août ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Malheureusement non. Nous n'avons que des doubles."
+          },
+          {
+            "speaker": "David",
+            "text": "Ah, d'accord. Est-il possible d'avoir une double avec un lit supplémentaire ? Ils ont un petit enfant."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "C'est possible."
+          },
+          {
+            "speaker": "David",
+            "text": "Et quel serait le prix par nuit ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "110 euros par nuit, avec un supplément pour le lit d'enfant."
+          },
+          {
+            "speaker": "David",
+            "text": "Désolé. Est-ce que cela inclut le coût du lit supplémentaire ou non ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Oui, c'est inclus."
+          },
+          {
+            "speaker": "David",
+            "text": "Et le petit-déjeuner ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Le petit-déjeuner est en supplément. Quelles sont les dates envisagées ?"
+          },
+          {
+            "speaker": "David",
+            "text": "Euh, du mardi 12 au 17."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "OK. Laissez-moi vérifier nos disponibilités. Hmm, je suis désolée, nous sommes complets ce week-end."
+          },
+          {
+            "speaker": "David",
+            "text": "Cela inclut donc le vendredi soir ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "C'est exact, oui. Désolée."
+          },
+          {
+            "speaker": "David",
+            "text": "Et s'ils venaient plus tôt ? Ce serait mieux ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Le samedi précédent, nous sommes également complets, mais nous avons des chambres disponibles à partir du dimanche soir."
+          },
+          {
+            "speaker": "David",
+            "text": "Donc c'est le 10, n'est-ce pas ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "C'est exact."
+          },
+          {
+            "speaker": "David",
+            "text": "OK. Je dois vérifier cela avec eux. Et encore deux ou trois choses."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Bien sûr."
+          },
+          {
+            "speaker": "David",
+            "text": "Avez-vous une connexion Wi-Fi ou Internet ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Il y a le Wi-Fi dans les chambres, payant."
+          },
+          {
+            "speaker": "David",
+            "text": "Donc il faut payer, c'est ça ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Malheureusement oui. C'est 12 euros par jour, ou 4 euros pour une demi-heure."
+          },
+          {
+            "speaker": "David",
+            "text": "Avez-vous un parking ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Pas à l'hôtel même, mais nous avons un arrangement avec un parking local. Ils offrent un tarif réduit de 15 euros par jour."
+          },
+          {
+            "speaker": "David",
+            "text": "Et pour venir de l'aéroport ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Il y a une navette qui dessert plusieurs hôtels, dont le nôtre. Elle coûte 3 euros - ou ils peuvent prendre un taxi."
+          },
+          {
+            "speaker": "David",
+            "text": "OK. Je vais en parler à mes amis. Puis-je avoir votre nom si je rappelle ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Oui, c'est Jackie, mais n'importe lequel de mes collègues peut s'occuper de la réservation."
+          },
+          {
+            "speaker": "David",
+            "text": "Ah, attendez, désolé - une dernière chose. Devront-ils effectuer un paiement au moment de la réservation ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Oui, nous devrons prendre un acompte de 10% sur une carte de crédit."
+          },
+          {
+            "speaker": "David",
+            "text": "Donc si pour une raison quelconque ils ne venaient pas, ils perdraient cet argent ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Si l'annulation était faite dans les deux semaines précédant la date d'arrivée, alors oui, c'est exact."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Coordonnées de la carte de crédit",
+        "label": "Conversation 2: Paiement de l'acompte",
+        "script": [
+          {
+            "speaker": "Jackie",
+            "text": "D'accord, puis-je prendre les coordonnées de votre carte de crédit pour l'acompte ?"
+          },
+          {
+            "speaker": "David",
+            "text": "Bien sûr."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Quel type de carte ?"
+          },
+          {
+            "speaker": "David",
+            "text": "Visa."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Et le nom sur la carte ?"
+          },
+          {
+            "speaker": "David",
+            "text": "M. D E Gwaizda. C'est G - W - A - I - Z - D - A."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "D'accord. C'est un nom inhabituel."
+          },
+          {
+            "speaker": "David",
+            "text": "Oui, c'est d'origine polonaise."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Et le numéro de la carte ?"
+          },
+          {
+            "speaker": "David",
+            "text": "1003 6566 9242 8307."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Et le numéro de sécurité au dos de la carte - les trois derniers chiffres ?"
+          },
+          {
+            "speaker": "David",
+            "text": "718."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Et la date d'expiration ?"
+          },
+          {
+            "speaker": "David",
+            "text": "06/17."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Et puis-je prendre un numéro de contact en cas de problème ?"
+          },
+          {
+            "speaker": "David",
+            "text": "Bien sûr. 0044 796 883 412."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Demandes de Lady Zaza",
+        "label": "Conversation 3: Exigences particulières",
+        "script": [
+          {
+            "speaker": "Jackie",
+            "text": "Bonjour. La réception."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Bonjour. J'appelle pour le compte de Lady Zaza, dans la suite présidentielle."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Oh oui. C'est un réel plaisir de l'avoir dans l'hôtel."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Oui, eh bien, il était hors de question de rester dans ce dernier endroit. Le service là-bas était une blague !"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Eh bien, j'espère que tout va bien dans nos chambres. Nous n'avons pas eu beaucoup de temps pour les préparer."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Oui, tout va bien, fondamentalement, mais elle a demandé quelques petites choses."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "D'accord."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Eh bien, d'abord, pouvez-vous demander au service d'étage d'envoyer des fleurs fraîches dans la chambre ? Lady Zaza aime les arranger. Cela la détend, vous voyez ?"
+          },
+          {
+            "speaker": "Manager",
+            "text": "Elle aimerait cent bouquets de fleurs rouges, quatre-vingts bouquets de blanches et cinquante bouquets de jaunes."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Certainement. Je vais envoyer quelqu'un avec cela dans une minute."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Et dites-leur d'apporter aussi plus de ses chocolats préférés, s'il vous plaît. Sans ceux aux cacahuètes. Elle a une très mauvaise allergie aux noix !"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Je suis vraiment désolée d'apprendre cela. Je vais m'en occuper immédiatement."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Oh, et pas de verts non plus, s'il vous plaît. Elle ne supporte pas la couleur verte !"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Bien sûr."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Elle aimerait aussi que les ampoules de sa chambre soient changées. Elle a dit qu'il faisait trop sombre. Et pouvez-vous lui apporter un chaton ?"
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Euh, un chaton ?!"
+          },
+          {
+            "speaker": "Manager",
+            "text": "Oui, un blanc."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Je... euh... eh bien, je vais voir ce que je peux faire."
+          },
+          {
+            "speaker": "Manager",
+            "text": "Oh, et une dernière chose. Peut-elle avoir un réveil à quatre heures du matin, s'il vous plaît ? Elle aimerait utiliser la salle de sport."
+          },
+          {
+            "speaker": "Jackie",
+            "text": "Eh bien, la salle de sport n'ouvre normalement qu'à 6 heures, mais je suis sûre que nous pouvons organiser quelque chose pour elle."
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 호텔 예약 문의",
+        "label": "대화 1: 힐브로우 호텔",
+        "script": [
+          {
+            "speaker": "재키",
+            "text": "힐브로우 호텔입니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "안녕하세요. 동료를 대신해서 전화했습니다. 정보를 좀 알고 싶어서요."
+          },
+          {
+            "speaker": "재키",
+            "text": "네. 무엇을 알고 싶으세요?"
+          },
+          {
+            "speaker": "데이비드",
+            "text": "음, 8월에 트리플 룸 있나요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "죄송합니다만 없습니다. 더블룸만 있습니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "아, 그렇군요. 더블룸에 추가 베드 넣을 수 있나요? 어린아이가 있어서요."
+          },
+          {
+            "speaker": "재키",
+            "text": "가능할 겁니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "그럼 1박에 얼마인가요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "1박에 110유로이고, 아기 침대 추가 요금이 있습니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "죄송한데, 그 가격에 추가 베드 비용이 포함된 건가요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "네, 포함되어 있습니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "아침 식사는요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "죄송합니다만 아침 식사는 별도입니다. 언제 오실 예정인가요?"
+          },
+          {
+            "speaker": "데이비드",
+            "text": "음, 12일 화요일부터 17일까지요."
+          },
+          {
+            "speaker": "재키",
+            "text": "네. 예약 가능 여부를 확인해보겠습니다. 음, 주말에는 만석입니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "그럼 금요일 밤도 포함인가요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "네, 맞습니다. 죄송합니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "더 일찍 오면 어떨까요? 그게 더 나을까요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "이전 주 토요일도 만석이지만, 일요일 밤부터는 방이 있습니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "그럼 10일이네요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "맞습니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "알겠습니다. 그에 대해 그분과 상의해봐야겠네요. 그리고 몇 가지 더 물어볼 게 있습니다."
+          },
+          {
+            "speaker": "재키",
+            "text": "네."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "Wi-Fi나 인터넷 되나요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "객실에 Wi-Fi가 있지만 유료입니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "그럼 돈 내야 하는 거죠?"
+          },
+          {
+            "speaker": "재키",
+            "text": "네, 그렇습니다. 하루에 12유로, 또는 30분에 4유로입니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "주차장은 있나요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "호텔 내에는 없지만, 지역 주차장과 제휴가 되어 있습니다. 하루에 15유로의 할인 요금을 제공합니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "공항에서 오는 방법은요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "저희 호텔을 포함한 여러 호텔을 운행하는 셔틀 버스가 있습니다. 3유로입니다. 아니면 택시를 타셔도 됩니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "알겠습니다. 친구들과 상의해보겠습니다. 다시 전화할 때 이름을 알려주시겠어요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "네, 재키입니다. 하지만 다른 직원들도 예약을 처리할 수 있습니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "아, 잠시만요 - 한 가지만 더요. 예약할 때 결제를 해야 하나요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "네, 신용카드로 10% 보증금을 받아야 합니다."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "그럼 어떤 이유로든 오지 않으면 그 돈을 잃는 건가요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "도착일 2주 이내에 취소하시면 그렇습니다."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 신용카드 정보",
+        "label": "대화 2: 보증금 결제",
+        "script": [
+          {
+            "speaker": "재키",
+            "text": "그럼 보증금을 위해 신용카드 정보를 알려주시겠어요?"
+          },
+          {
+            "speaker": "데이비드",
+            "text": "네."
+          },
+          {
+            "speaker": "재키",
+            "text": "어떤 종류의 카드인가요?"
+          },
+          {
+            "speaker": "데이비드",
+            "text": "비자입니다."
+          },
+          {
+            "speaker": "재키",
+            "text": "카드에 적힌 이름은요?"
+          },
+          {
+            "speaker": "데이비드",
+            "text": "D E Gwaizda입니다. 철자는 G-W-A-I-Z-D-A입니다."
+          },
+          {
+            "speaker": "재키",
+            "text": "네. 독특한 이름이네요."
+          },
+          {
+            "speaker": "데이비드",
+            "text": "네, 원래 폴란드 이름이에요."
+          },
+          {
+            "speaker": "재키",
+            "text": "카드 번호는요?"
+          },
+          {
+            "speaker": "데이비드",
+            "text": "1003 6566 9242 8307입니다."
+          },
+          {
+            "speaker": "재키",
+            "text": "카드 뒷면의 보안 번호, 마지막 세 자리 숫자는요?"
+          },
+          {
+            "speaker": "데이비드",
+            "text": "718입니다."
+          },
+          {
+            "speaker": "재키",
+            "text": "유효 기간은요?"
+          },
+          {
+            "speaker": "데이비드",
+            "text": "2017년 6월입니다."
+          },
+          {
+            "speaker": "재키",
+            "text": "문제 발생 시 연락 가능한 번호를 알려주시겠어요?"
+          },
+          {
+            "speaker": "데이비드",
+            "text": "네. 0044 796 883 412입니다."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 레이디 자자의 요청 사항",
+        "label": "대화 3: 특별한 요구 사항",
+        "script": [
+          {
+            "speaker": "재키",
+            "text": "여보세요, 프런트입니다."
+          },
+          {
+            "speaker": "매니저",
+            "text": "안녕하세요. 대통령 스위트에 계신 레이디 자자를 대신해서 전화했습니다."
+          },
+          {
+            "speaker": "재키",
+            "text": "아, 네. 그분을 호텔에서 모시게 되어 정말 기쁩니다."
+          },
+          {
+            "speaker": "매니저",
+            "text": "네, 저번 호텔은 도저히 있을 수가 없었어요. 서비스가 형편없었거든요!"
+          },
+          {
+            "speaker": "재키",
+            "text": "저희 객실은 괜찮으시길 바랍니다. 준비할 시간이 별로 없었거든요."
+          },
+          {
+            "speaker": "매니저",
+            "text": "네, 기본적으로는 다 괜찮은데, 그녀가 요청한 게 몇 가지 있어요."
+          },
+          {
+            "speaker": "재키",
+            "text": "네."
+          },
+          {
+            "speaker": "매니저",
+            "text": "먼저, 룸서비스에 신선한 꽃을 방으로 보내달라고 할 수 있을까요? 레이디 자자는 꽃꽂이를 좋아하거든요. 그게 그녀를 편안하게 한대요."
+          },
+          {
+            "speaker": "매니저",
+            "text": "빨간 꽃 100단, 흰색 80단, 노란색 50단을 원하신대요."
+          },
+          {
+            "speaker": "재키",
+            "text": "물론입니다. 바로 보내드리겠습니다."
+          },
+          {
+            "speaker": "매니저",
+            "text": "그리고 그녀가 좋아하는 초콜릿도 더 가져오라고 해주세요. 땅콩 들어간 건 빼고요."
+          },
+          {
+            "speaker": "매니저",
+            "text": "그녀는 견과류 알레르기가 정말 심해요!"
+          },
+          {
+            "speaker": "재키",
+            "text": "그런 일이 있었군요. 죄송합니다. 바로 처리하겠습니다."
+          },
+          {
+            "speaker": "매니저",
+            "text": "아, 그리고 녹색 계열은 전부 빼주세요. 그녀는 녹색을 못 견뎌해요!"
+          },
+          {
+            "speaker": "재키",
+            "text": "물론입니다."
+          },
+          {
+            "speaker": "매니저",
+            "text": "그리고 방의 전구도 교체해 달래요. 너무 어둡대요. 그리고 아기 고양이를 데려올 수 있나요?"
+          },
+          {
+            "speaker": "재키",
+            "text": "어, 아기 고양이요?!"
+          },
+          {
+            "speaker": "매니저",
+            "text": "네, 하얀색으로요."
+          },
+          {
+            "speaker": "재키",
+            "text": "그게... 음... 최선을 다해 보겠습니다."
+          },
+          {
+            "speaker": "매니저",
+            "text": "아, 마지막으로 하나 더요. 새벽 4시에 모닝콜을 해줄 수 있을까요? 체육관을 이용하고 싶대요."
+          },
+          {
+            "speaker": "재키",
+            "text": "체육관은 보통 6시에 여는데, 그녀를 위해 뭔가 준비할 수 있을 것 같습니다."
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "Camping Experiences",
+    "ja": "キャンプ体験",
+    "fr": "Expériences de Camping",
+    "ko": "캠핑 경험"
+  },
+  "extra_reading_html": {
+    "en": "<p style='margin-top:0; font-weight: bold; color: #2c3e50;'>Falah Rhiladi, Jordan</p><p>I live and was brought up in Amman, the capital of Jordan, but I'm actually from a family of Bedouin. My grandfather <b>used to follow the traditional nomadic life</b>, moving from place to place. I'm a real city boy now and <b>I would never give it up</b>. However, I usually go camping in the desert once a year with my father. I really love it. You feel a peace you can never get in the city with its noise and pollution. You feel closer to nature and God in the desert, and <b>you wouldn't believe how many stars you can see</b>!</p><p style='margin-top:20px; font-weight: bold; color: #2c3e50;'>Andro Zelic, Croatia</p><p>We <b>used to go to the same campsite every year</b> when I was a kid. It's a place on the coast not far from Split. It was a different world to Zagreb. We <b>always used to see the same people there</b>. There was a gang of us that just ran around all day. We went to the beach, played table tennis or football, explored the campsite and played hide and seek: we just did whatever we liked and <b>we never used to go to bed before one in the morning</b>. I can afford to stay in hotels now with my family, but to be honest, we prefer to camp. Hotels have a cold atmosphere. They're less friendly and there's not the same freedom and, actually, there are often more facilities at campsites - especially for kids.</p>",
+    "ja": "<p style='margin-top:0; font-weight: bold; color: #2c3e50;'>ファラー・リラディ, ヨルダン</p><p>私はヨルダンの首都アンマンで生まれ育ちましたが、実際にはベドウィンの家族の出身です。私の祖父は伝統的な<b>遊牧生活を送っていました</b>。私は今では完全な都会の人間であり、<b>それを決して手放すことはありません</b>。しかし、年に一度、父と一緒に砂漠でキャンプをします。私はそれが本当に大好きです。騒音と公害のある街では決して得られない平和を感じます。砂漠では自然と神により近く感じられ、<b>どれだけ多くの星が見えるか信じられないでしょう</b>！</p><p style='margin-top:20px; font-weight: bold; color: #2c3e50;'>アンドロ・ゼリッチ, クロアチア</p><p>子供の頃、毎年<b>同じキャンプ場に行ったものです</b>。スプリトからそう遠くない海岸の場所です。ザグレブとは違う世界でした。私たちはいつもそこで<b>同じ人々に会いました</b>。私たちは一日中走り回るグループでした。ビーチに行き、卓球やサッカーをし、キャンプ場を探検し、かくれんぼをしました。私たちは好きなことをして、<b>朝の1時前に寝たことは一度もありません</b>。今は家族と一緒にホテルに泊まる余裕がありますが、正直なところ、キャンプの方が好きです。ホテルは冷たい雰囲気があります。あまり親しみやすくなく、同じ自由もなく、実際、キャンプ場の方が設備が充実していることがよくあります - 特に子供向けに。</p>",
+    "fr": "<p style='margin-top:0; font-weight: bold; color: #2c3e50;'>Falah Rhiladi, Jordanie</p><p>Je vis et j'ai grandi à Amman, la capitale de la Jordanie, mais je viens en fait d'une famille bédouine. Mon grand-père <b>avait l'habitude de suivre la vie nomade traditionnelle</b>, se déplaçant d'un endroit à l'autre. Je suis maintenant un vrai garçon de la ville et <b>je ne le quitterais jamais</b>. Cependant, je vais généralement camper dans le désert une fois par an avec mon père. J'adore ça. On ressent une paix que l'on ne peut jamais trouver en ville avec son bruit et sa pollution. On se sent plus proche de la nature et de Dieu dans le désert, et <b>vous ne croiriez pas combien d'étoiles vous pouvez voir</b> !</p><p style='margin-top:20px; font-weight: bold; color: #2c3e50;'>Andro Zelic, Croatie</p><p>Quand j'étais enfant, nous <b>avions l'habitude d'aller au même camping chaque année</b>. C'est un endroit sur la côte, non loin de Split. C'était un monde différent de Zagreb. Nous <b>avions toujours l'habitude de voir les mêmes personnes</b> là-bas. Nous étions une bande qui courait toute la journée. Nous allions à la plage, jouions au ping-pong ou au football, explorions le camping et jouions à cache-cache : nous faisions ce que nous voulions et <b>nous n'avions jamais l'habitude d'aller nous coucher avant une heure du matin</b>. Je peux maintenant me permettre de séjourner dans des hôtels avec ma famille, mais pour être honnête, nous préférons camper. Les hôtels ont une atmosphère froide. Ils sont moins sympathiques et il n'y a pas la même liberté et, en fait, il y a souvent plus d'installations dans les campings - surtout pour les enfants.</p>",
+    "ko": "<p style='margin-top:0; font-weight: bold; color: #2c3e50;'>팔라 리라디, 요르단</p><p>나는 요르단의 수도 암만에서 살고 자랐지만, 실제로는 베두인 가족 출신입니다. 우리 할아버지는 전통적인 <b>유목 생활을 하곤 했습니다</b>. 나는 이제 진정한 도시 아이이고 <b>그것을 절대 포기하지 않을 것입니다</b>. 하지만 나는 보통 일년에 한 번 아버지와 함께 사막에서 캠핑을 갑니다. 나는 그것을 정말 좋아합니다. 소음과 공해가 있는 도시에서는 결코 얻을 수 없는 평화를 느낍니다. 사막에서는 자연과 신에게 더 가까이 다가가는 느낌이 들고, <b>얼마나 많은 별을 볼 수 있는지 믿기지 않을 것입니다</b>!</p><p style='margin-top:20px; font-weight: bold; color: #2c3e50;'>안드로 젤리치, 크로아티아</p><p>어렸을 때 우리는 매년 <b>같은 캠핑장에 가곤 했습니다</b>. 스플리트에서 멀지 않은 해안가에 있는 곳입니다. 자그레브와는 다른 세계였습니다. 우리는 항상 그곳에서 <b>같은 사람들을 보곤 했습니다</b>. 우리는 하루 종일 뛰어다니는 무리가 있었습니다. 우리는 해변에 가고, 탁구나 축구를 하고, 캠핑장을 탐험하고, 숨바꼭질을 했습니다. 우리는 하고 싶은 대로 했고 <b>새벽 1시 전에 잠들곤 한 적이 없었습니다</b>. 저는 지금 가족과 함께 호텔에 묵을 여유가 있지만, 솔직히 말하면 캠핑을 더 선호합니다. 호텔은 차가운 분위기가 있습니다. 덜 친절하고 같은 자유가 없으며, 실제로 캠핑장에는 종종 더 많은 시설이 있습니다 - 특히 아이들을 위해.</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Falah's grandfather used to live a nomadic life as a Bedouin.",
+        "correct": "T",
+        "explanation": "True (His grandfather used to follow the traditional nomadic life, moving from place to place.)"
+      },
+      {
+        "question": "Falah wants to leave the city and return to the traditional nomadic lifestyle.",
+        "correct": "F",
+        "explanation": "False (He describes himself as a real city boy and said he would never give it up.)"
+      },
+      {
+        "question": "Andro and his friends used to go to bed very early at the campsite.",
+        "correct": "F",
+        "explanation": "False (They never used to go to bed before one in the morning.)"
+      },
+      {
+        "question": "Andro prefers staying in hotels now because they are friendlier than campsites.",
+        "correct": "F",
+        "explanation": "False (He prefers camping because he thinks hotels have a cold atmosphere and are less friendly.)"
+      },
+      {
+        "question": "According to Andro, campsites often have more facilities for children than hotels.",
+        "correct": "T",
+        "explanation": "True (He mentions there are often more facilities at campsites, especially for kids.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "ファラーの祖父はベドウィンとして遊牧生活を送っていました。",
+        "correct": "T",
+        "explanation": "真 (彼の祖父は伝統的な遊牧生活を送っていました。)"
+      },
+      {
+        "question": "ファラーは都市を離れて伝統的な遊牧生活に戻りたいと思っています。",
+        "correct": "F",
+        "explanation": "偽 (彼は自分を真の都会の人間と称し、決してそれを手放さないと言っています。)"
+      },
+      {
+        "question": "アンドロと彼の友達はキャンプ場でとても早く寝ていました。",
+        "correct": "F",
+        "explanation": "偽 (彼らは朝の1時前に寝たことは一度もありませんでした。)"
+      },
+      {
+        "question": "アンドロはキャンプ場よりホテルの方が親しみやすいので、今はホテルに泊まることを好んでいます。",
+        "correct": "F",
+        "explanation": "偽 (彼はホテルは冷たい雰囲気で親しみにくいと考えているため、キャンプを好みます。)"
+      },
+      {
+        "question": "アンドロによると、キャンプ場はホテルよりも子供向けの施設が充実していることが多いです。",
+        "correct": "T",
+        "explanation": "真 (彼は特に子供向けに、キャンプ場の方が施設が充実していることが多いと述べています。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Le grand-père de Falah vivait une vie nomade en tant que Bédouin.",
+        "correct": "T",
+        "explanation": "Vrai (Son grand-père avait l'habitude de suivre la vie nomade traditionnelle.)"
+      },
+      {
+        "question": "Falah veut quitter la ville et retourner au mode de vie nomade traditionnel.",
+        "correct": "F",
+        "explanation": "Faux (Il se décrit comme un vrai garçon de la ville et dit qu'il ne le quitterait jamais.)"
+      },
+      {
+        "question": "Andro et ses amis se couchaient très tôt au camping.",
+        "correct": "F",
+        "explanation": "Faux (Ils ne se couchaient jamais avant une heure du matin.)"
+      },
+      {
+        "question": "Andro préfère maintenant séjourner dans des hôtels parce qu'ils sont plus sympathiques que les campings.",
+        "correct": "F",
+        "explanation": "Faux (Il préfère le camping parce qu'il pense que les hôtels ont une atmosphère froide et sont moins sympathiques.)"
+      },
+      {
+        "question": "Selon Andro, les campings ont souvent plus d'installations pour les enfants que les hôtels.",
+        "correct": "T",
+        "explanation": "Vrai (Il mentionne qu'il y a souvent plus d'installations dans les campings, surtout pour les enfants.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "팔라의 할아버지는 베두인으로서 유목 생활을 하곤 했다.",
+        "correct": "T",
+        "explanation": "참 (그의 할아버지는 전통적인 유목 생활을 하곤 했습니다.)"
+      },
+      {
+        "question": "팔라는 도시를 떠나 전통적인 유목 생활로 돌아가고 싶어 한다.",
+        "correct": "F",
+        "explanation": "거짓 (그는 자신을 진정한 도시 아이이며 결코 그것을 포기하지 않을 것이라고 말합니다.)"
+      },
+      {
+        "question": "안드로와 그의 친구들은 캠핑장에서 아주 일찍 잠들곤 했다.",
+        "correct": "F",
+        "explanation": "거짓 (그들은 새벽 1시 전에 잠들곤 한 적이 없습니다.)"
+      },
+      {
+        "question": "안드로는 캠핑장보다 호텔이 더 친근하기 때문에 지금은 호텔에 묵는 것을 선호한다.",
+        "correct": "F",
+        "explanation": "거짓 (그는 호텔은 차가운 분위기이고 덜 친근하다고 생각하여 캠핑을 선호합니다.)"
+      },
+      {
+        "question": "안드로에 따르면, 캠핑장은 호텔보다 아이들을 위한 시설이 더 많은 경우가 많다.",
+        "correct": "T",
+        "explanation": "참 (그는 특히 아이들을 위해 캠핑장에 더 많은 시설이 있는 경우가 많다고 언급합니다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "follow the traditional nomadic life",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "moving from place to place",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "My grandfather used to follow the traditional nomadic life, moving from place to place.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "feel closer to nature",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "never give it up",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "I am a city boy and would never give it up, but I love to feel closer to nature in the desert.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "My family used to follow the traditional nomadic life by moving from place to place. Although I would never give it up living in the city, camping helps me feel closer to nature.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "go to the same campsite",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "did whatever we liked",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "We used to go to the same campsite every year and did whatever we liked all day.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "afford to stay in hotels",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "cold atmosphere",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "I can afford to stay in hotels now, but they often have a cold atmosphere.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "We still go to the same campsite where we did whatever we liked as kids. Even if I can afford to stay in hotels, I prefer camping over their cold atmosphere.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "My grandfather used to follow the traditional nomadic life, moving from place to place. I would never give it up being a city boy, but I still go to the same campsite to feel closer to nature. Although I can afford to stay in hotels, I prefer the freedom of the desert where we did whatever we liked, away from any cold atmosphere.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "伝統的な遊牧生活を送る",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "場所から場所へ移動する",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "私の祖父は伝統的な遊牧生活を送り、場所から場所へ移動していました。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "自然により近くを感じる",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "決してそれを手放さない",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "私は都会の人間で決してそれを手放しませんが、砂漠で自然により近くを感じるのが大好きです。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "私の家族は場所から場所へ移動しながら伝統的な遊牧生活を送っていました。都会での生活は決して手放しませんが、キャンプは自然により近くを感じるのに役立ちます。",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "同じキャンプ場に行く",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "好きなことを何でもした",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "私たちは毎年同じキャンプ場に行き、一日中好きなことを何でもしていました。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "ホテルに泊まる余裕がある",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "冷たい雰囲気",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "今はホテルに泊まる余裕がありますが、ホテルは冷たい雰囲気を持っていることがよくあります。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "私たちは今でも子供の頃に好きなことを何でもしたあの同じキャンプ場に行きます。ホテルに泊まる余裕があっても、冷たい雰囲気のホテルよりキャンプの方が好きです。",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "私の祖父は伝統的な遊牧生活を送り、場所から場所へ移動していました。私は都会の人間であることを決して手放しませんが、自然により近くを感じるために今でも同じキャンプ場に行きます。ホテルに泊まる余裕があっても、冷たい雰囲気から離れて、好きなことを何でもできた砂漠の自由を好みます。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "suivre la vie nomade traditionnelle",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "se déplacer d'un endroit à l'autre",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Mon grand-père avait l'habitude de suivre la vie nomade traditionnelle, se déplaçant d'un endroit à l'autre.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "se sentir plus proche de la nature",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "ne jamais abandonner",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Je suis un garçon de la ville et je ne l'abandonnerais jamais, mais j'aime me sentir plus proche de la nature dans le désert.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma famille avait l'habitude de suivre la vie nomade traditionnelle en se déplaçant d'un endroit à l'autre. Bien que je n'abandonnerais jamais la vie en ville, le camping m'aide à me sentir plus proche de la nature.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "aller au même camping",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "faisions ce que nous voulions",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Nous avions l'habitude d'aller au même camping chaque année et nous faisions ce que nous voulions toute la journée.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "avoir les moyens de séjourner dans des hôtels",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "atmosphère froide",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "J'ai maintenant les moyens de séjourner dans des hôtels, mais ils ont souvent une atmosphère froide.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nous allons encore au même camping où nous faisions ce que nous voulions quand nous étions enfants. Même si j'ai les moyens de séjourner dans des hôtels, je préfère le camping à leur atmosphère froide.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mon grand-père avait l'habitude de suivre la vie nomade traditionnelle, se déplaçant d'un endroit à l'autre. Je n'abandonnerais jamais le fait d'être un garçon de la ville, mais je vais toujours au même camping pour me sentir plus proche de la nature. Même si j'ai les moyens de séjourner dans des hôtels, je préfère la liberté du désert où nous faisions ce que nous voulions, loin de toute atmosphère froide.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "전통적인 유목 생활을 하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "이곳저곳으로 이동하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "우리 할아버지는 전통적인 유목 생활을 하시며 이곳저곳으로 이동하셨습니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "자연에 더 가깝게 느끼다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "결코 포기하지 않다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "나는 도시 아이이고 결코 그것을 포기하지 않겠지만, 사막에서 자연에 더 가깝게 느끼는 것을 좋아합니다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "우리 가족은 이곳저곳으로 이동하며 전통적인 유목 생활을 했습니다. 도시에서 사는 것을 결코 포기하지 않겠지만, 캠핑은 자연에 더 가깝게 느끼는 데 도움이 됩니다.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "같은 캠핑장에 가다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "하고 싶은 대로 다 했다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "우리는 매년 같은 캠핑장에 가서 하루 종일 하고 싶은 대로 다 했습니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "호텔에 묵을 여유가 있다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "차가운 분위기",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "지금은 호텔에 묵을 여유가 있지만, 호텔은 종종 차가운 분위기를 가지고 있습니다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "우리는 어렸을 때 하고 싶은 대로 다 했던 그 같은 캠핑장에 아직도 갑니다. 호텔에 묵을 여유가 있더라도, 차가운 분위기의 호텔보다 캠핑을 더 좋아합니다.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "우리 할아버지는 전통적인 유목 생활을 하시며 이곳저곳으로 이동하셨습니다. 나는 도시 아이인 것을 결코 포기하지 않겠지만, 자연에 더 가깝게 느끼기 위해 아직도 같은 캠핑장에 갑니다. 호텔에 묵을 여유가 있더라도, 차가운 분위기에서 벗어나 하고 싶은 대로 다 할 수 있었던 사막의 자유를 더 좋아합니다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Past Habits & States (used to)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• used to + verb</strong>: Used to talk about <strong>past habits</strong> or states that are no longer true now.</p><p style='margin:5px 0;'><strong>• never used to + verb</strong>: Used for things that <strong>did not happen</strong> regularly in the past.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> 'My grandfather <span style='color:#e67e22; font-weight:bold;'>used to follow</span> the traditional nomadic life.'<br><i style='color:#7f8c8d;'>(Falah's family history)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'We <span style='color:#16a085; font-weight:bold;'>never used to go</span> to bed before one in the morning.'<br><i style='color:#7f8c8d;'>(Andro's childhood camping)</i></li></ul><h3>2. Imaginary Situations (Second Conditional)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• If + Past Simple, ...would + verb</strong>: Used to describe <strong>imaginary or unlikely</strong> scenarios in the present or future.</p><p style='margin:5px 0;'><strong>• wouldn't</strong>: Used for negative outcomes in imaginary cases, or to <strong>emphasize extreme surprise</strong>.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'If she accidentally ate a peanut, it <span style='color:#2980b9; font-weight:bold;'>would be</span> a medical emergency.'<br><i style='color:#7f8c8d;'>(Lady Zaza's allergy)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'You <span style='color:#2980b9; font-weight:bold;'>wouldn't believe</span> how many stars you can see!'<br><i style='color:#7f8c8d;'>(Expressing surprise)</i></li></ul><h3>3. Conditional Intentions & Will</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• would / wouldn't (Volition)</strong>: Used to show <strong>willingness</strong> or refusal to do something.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'I am a real city boy and I <span style='color:#d35400; font-weight:bold;'>would never give</span> it up.'<br><i style='color:#7f8c8d;'>(Falah's lifestyle choice)</i></li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'She <span style='color:#d35400; font-weight:bold;'>would likely refuse</span> to stay there.'<br><i style='color:#7f8c8d;'>(Lady Zaza's reaction)</i></li></ul>",
+    "ja": "<p><em>文法ノートは現在英語のみ利用可能です。日本語版は後日追加されます。</em></p>",
+    "fr": "<p><em>Les notes de grammaire sont actuellement disponibles uniquement en anglais. La version française sera ajoutée ultérieurement.</em></p>",
+    "ko": "<p><em>문법 노트는 현재 영어로만 제공됩니다. 한국어 버전은 추후 추가될 예정입니다.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: crucial, entirely, bustling, nomadic, proclaimed</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. The city center is always <select class='vocab-select'><option value=''>── select ──</option><option value='crucial'>crucial</option><option value='entirely'>entirely</option><option value='bustling'>bustling</option><option value='nomadic'>nomadic</option><option value='proclaimed'>proclaimed</option></select> with tourists and shoppers.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='bustling' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. He is a self-<select class='vocab-select'><option value=''>── select ──</option><option value='crucial'>crucial</option><option value='entirely'>entirely</option><option value='bustling'>bustling</option><option value='nomadic'>nomadic</option><option value='proclaimed'>proclaimed</option></select> expert on ancient history.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='proclaimed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Water is <select class='vocab-select'><option value=''>── select ──</option><option value='crucial'>crucial</option><option value='entirely'>entirely</option><option value='bustling'>bustling</option><option value='nomadic'>nomadic</option><option value='proclaimed'>proclaimed</option></select> for our survival.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='crucial' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. My experience was <select class='vocab-select'><option value=''>── select ──</option><option value='crucial'>crucial</option><option value='entirely'>entirely</option><option value='bustling'>bustling</option><option value='nomadic'>nomadic</option><option value='proclaimed'>proclaimed</option></select> different from the last one.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='entirely' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. Bedouin tribes used to live a <select class='vocab-select'><option value=''>── select ──</option><option value='crucial'>crucial</option><option value='entirely'>entirely</option><option value='bustling'>bustling</option><option value='nomadic'>nomadic</option><option value='proclaimed'>proclaimed</option></select> life in the desert.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='nomadic' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: pollution, fondly, atmosphere, vibe, convenient</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. The restaurant has a very romantic <select class='vocab-select'><option value=''>── select ──</option><option value='pollution'>pollution</option><option value='fondly'>fondly</option><option value='atmosphere'>atmosphere</option><option value='vibe'>vibe</option><option value='convenient'>convenient</option></select> with candlelight.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='atmosphere' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Heavy traffic is the main cause of air <select class='vocab-select'><option value=''>── select ──</option><option value='pollution'>pollution</option><option value='fondly'>fondly</option><option value='atmosphere'>atmosphere</option><option value='vibe'>vibe</option><option value='convenient'>convenient</option></select> in the city.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='pollution' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Online shopping is very <select class='vocab-select'><option value=''>── select ──</option><option value='pollution'>pollution</option><option value='fondly'>fondly</option><option value='atmosphere'>atmosphere</option><option value='vibe'>vibe</option><option value='convenient'>convenient</option></select> for busy people.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='convenient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. I love the friendly <select class='vocab-select'><option value=''>── select ──</option><option value='pollution'>pollution</option><option value='fondly'>fondly</option><option value='atmosphere'>atmosphere</option><option value='vibe'>vibe</option><option value='convenient'>convenient</option></select> of this small seaside town.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='vibe' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. She remembers her childhood trips very <select class='vocab-select'><option value=''>── select ──</option><option value='pollution'>pollution</option><option value='fondly'>fondly</option><option value='atmosphere'>atmosphere</option><option value='vibe'>vibe</option><option value='convenient'>convenient</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='fondly' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: deposit, presidential, severe, arranging, facilities</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. She spends her free time <select class='vocab-select'><option value=''>── select ──</option><option value='deposit'>deposit</option><option value='presidential'>presidential</option><option value='severe'>severe</option><option value='arranging'>arranging</option><option value='facilities'>facilities</option></select> flowers in beautiful vases.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='arranging' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. The famous singer stayed in the <select class='vocab-select'><option value=''>── select ──</option><option value='deposit'>deposit</option><option value='presidential'>presidential</option><option value='severe'>severe</option><option value='arranging'>arranging</option><option value='facilities'>facilities</option></select> suite of the hotel.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='presidential' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. The hotel offers great <select class='vocab-select'><option value=''>── select ──</option><option value='deposit'>deposit</option><option value='presidential'>presidential</option><option value='severe'>severe</option><option value='arranging'>arranging</option><option value='facilities'>facilities</option></select> like a pool and a gym.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='facilities' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. You need to pay a 10% <select class='vocab-select'><option value=''>── select ──</option><option value='deposit'>deposit</option><option value='presidential'>presidential</option><option value='severe'>severe</option><option value='arranging'>arranging</option><option value='facilities'>facilities</option></select> to book the room.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='deposit' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. He has a <select class='vocab-select'><option value=''>── select ──</option><option value='deposit'>deposit</option><option value='presidential'>presidential</option><option value='severe'>severe</option><option value='arranging'>arranging</option><option value='facilities'>facilities</option></select> allergy to peanuts.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='severe' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: simplicity, nostalgia, maintenance, reflects, choice</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Looking at old photos gives people a sense of <select class='vocab-select'><option value=''>── select ──</option><option value='simplicity'>simplicity</option><option value='nostalgia'>nostalgia</option><option value='maintenance'>maintenance</option><option value='reflects'>reflects</option><option value='choice'>choice</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='nostalgia' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. You have the <select class='vocab-select'><option value=''>── select ──</option><option value='simplicity'>simplicity</option><option value='nostalgia'>nostalgia</option><option value='maintenance'>maintenance</option><option value='reflects'>reflects</option><option value='choice'>choice</option></select> to stay in a hotel or camp.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='choice' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. A luxury car requires high <select class='vocab-select'><option value=''>── select ──</option><option value='simplicity'>simplicity</option><option value='nostalgia'>nostalgia</option><option value='maintenance'>maintenance</option><option value='reflects'>reflects</option><option value='choice'>choice</option></select> costs.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='maintenance' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Some people prefer the <select class='vocab-select'><option value=''>── select ──</option><option value='simplicity'>simplicity</option><option value='nostalgia'>nostalgia</option><option value='maintenance'>maintenance</option><option value='reflects'>reflects</option><option value='choice'>choice</option></select> of country life.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='simplicity' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. The way you dress often <select class='vocab-select'><option value=''>── select ──</option><option value='simplicity'>simplicity</option><option value='nostalgia'>nostalgia</option><option value='maintenance'>maintenance</option><option value='reflects'>reflects</option><option value='choice'>choice</option></select> your personality.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='reflects' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 重要な, まったく, 賑やかな, 遊牧の, 自称</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 街の中心部はいつも観光客や買い物客で<select class='vocab-select'><option value=''>── 選択 ──</option><option value='重要な'>重要な</option><option value='まったく'>まったく</option><option value='賑やかな'>賑やかな</option><option value='遊牧の'>遊牧の</option><option value='自称'>自称</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='bustling' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 彼は古代史の<select class='vocab-select'><option value=''>── 選択 ──</option><option value='重要な'>重要な</option><option value='まったく'>まったく</option><option value='賑やかな'>賑やかな</option><option value='遊牧の'>遊牧の</option><option value='自称'>自称</option></select>専門家です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='proclaimed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 水は私たちの生存にとって<select class='vocab-select'><option value=''>── 選択 ──</option><option value='重要な'>重要な</option><option value='まったく'>まったく</option><option value='賑やかな'>賑やかな</option><option value='遊牧の'>遊牧の</option><option value='自称'>自称</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='crucial' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 私の経験は前回とは<select class='vocab-select'><option value=''>── 選択 ──</option><option value='重要な'>重要な</option><option value='まったく'>まったく</option><option value='賑やかな'>賑やかな</option><option value='遊牧の'>遊牧の</option><option value='自称'>自称</option></select>異なっていました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='entirely' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. ベドウィン族は砂漠で<select class='vocab-select'><option value=''>── 選択 ──</option><option value='重要な'>重要な</option><option value='まったく'>まったく</option><option value='賑やかな'>賑やかな</option><option value='遊牧の'>遊牧の</option><option value='自称'>自称</option></select>生活を送っていました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='nomadic' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 公害, 懐かしく, 雰囲気, 雰囲気, 便利な</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. そのレストランはキャンドルの灯りでとてもロマンチックな<select class='vocab-select'><option value=''>── 選択 ──</option><option value='公害'>公害</option><option value='懐かしく'>懐かしく</option><option value='雰囲気'>雰囲気</option><option value='雰囲気'>雰囲気</option><option value='便利な'>便利な</option></select>がある。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='atmosphere' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 交通渋滞は都市の大気<select class='vocab-select'><option value=''>── 選択 ──</option><option value='公害'>公害</option><option value='懐かしく'>懐かしく</option><option value='雰囲気'>雰囲気</option><option value='雰囲気'>雰囲気</option><option value='便利な'>便利な</option></select>の主な原因です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='pollution' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. オンラインショッピングは忙しい人にとってとても<select class='vocab-select'><option value=''>── 選択 ──</option><option value='公害'>公害</option><option value='懐かしく'>懐かしく</option><option value='雰囲気'>雰囲気</option><option value='雰囲気'>雰囲気</option><option value='便利な'>便利な</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='convenient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. この小さな海辺の町の友好的な<select class='vocab-select'><option value=''>── 選択 ──</option><option value='公害'>公害</option><option value='懐かしく'>懐かしく</option><option value='雰囲気'>雰囲気</option><option value='雰囲気'>雰囲気</option><option value='便利な'>便利な</option></select>が大好きです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='vibe' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 彼女は子供時代の旅行をとても<select class='vocab-select'><option value=''>── 選択 ──</option><option value='公害'>公害</option><option value='懐かしく'>懐かしく</option><option value='雰囲気'>雰囲気</option><option value='雰囲気'>雰囲気</option><option value='便利な'>便利な</option></select>覚えています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='fondly' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 保証金, 大統領, 重度の, アレンジする, 施設</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 彼女は自由時間を美しい花瓶に花を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='保証金'>保証金</option><option value='大統領'>大統領</option><option value='重度の'>重度の</option><option value='アレンジする'>アレンジする</option><option value='施設'>施設</option></select>ことに費やしています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='arranging' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. その有名な歌手はホテルの<select class='vocab-select'><option value=''>── 選択 ──</option><option value='保証金'>保証金</option><option value='大統領'>大統領</option><option value='重度の'>重度の</option><option value='アレンジする'>アレンジする</option><option value='施設'>施設</option></select>スイートに泊まりました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='presidential' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. そのホテルはプールやジムなどの素晴らしい<select class='vocab-select'><option value=''>── 選択 ──</option><option value='保証金'>保証金</option><option value='大統領'>大統領</option><option value='重度の'>重度の</option><option value='アレンジする'>アレンジする</option><option value='施設'>施設</option></select>を提供しています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='facilities' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 部屋を予約するには10％の<select class='vocab-select'><option value=''>── 選択 ──</option><option value='保証金'>保証金</option><option value='大統領'>大統領</option><option value='重度の'>重度の</option><option value='アレンジする'>アレンジする</option><option value='施設'>施設</option></select>を支払う必要があります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='deposit' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 彼はピーナッツに対する<select class='vocab-select'><option value=''>── 選択 ──</option><option value='保証金'>保証金</option><option value='大統領'>大統領</option><option value='重度の'>重度の</option><option value='アレンジする'>アレンジする</option><option value='施設'>施設</option></select>アレルギーを持っています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='severe' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 簡素さ, 懐かしさ, 維持, 反映する, 選択肢</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 古い写真を見ると人々は<select class='vocab-select'><option value=''>── 選択 ──</option><option value='簡素さ'>簡素さ</option><option value='懐かしさ'>懐かしさ</option><option value='維持'>維持</option><option value='反映する'>反映する</option><option value='選択肢'>選択肢</option></select>を感じます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='nostalgia' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. あなたにはホテルに泊まるかキャンプするかの<select class='vocab-select'><option value=''>── 選択 ──</option><option value='簡素さ'>簡素さ</option><option value='懐かしさ'>懐かしさ</option><option value='維持'>維持</option><option value='反映する'>反映する</option><option value='選択肢'>選択肢</option></select>があります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='choice' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 高級車は高い<select class='vocab-select'><option value=''>── 選択 ──</option><option value='簡素さ'>簡素さ</option><option value='懐かしさ'>懐かしさ</option><option value='維持'>維持</option><option value='反映する'>反映する</option><option value='選択肢'>選択肢</option></select>費用が必要です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='maintenance' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 田舎暮らしの<select class='vocab-select'><option value=''>── 選択 ──</option><option value='簡素さ'>簡素さ</option><option value='懐かしさ'>懐かしさ</option><option value='維持'>維持</option><option value='反映する'>反映する</option><option value='選択肢'>選択肢</option></select>を好む人もいます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='simplicity' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 服装はしばしばその人の性格を<select class='vocab-select'><option value=''>── 選択 ──</option><option value='簡素さ'>簡素さ</option><option value='懐かしさ'>懐かしさ</option><option value='維持'>維持</option><option value='反映する'>反映する</option><option value='選択肢'>選択肢</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='reflects' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: crucial, entièrement, animé, nomade, autoproclamé</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Le centre-ville est toujours <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='crucial'>crucial</option><option value='entièrement'>entièrement</option><option value='animé'>animé</option><option value='nomade'>nomade</option><option value='autoproclamé'>autoproclamé</option></select> de touristes et de clients.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='bustling' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. C'est un expert <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='crucial'>crucial</option><option value='entièrement'>entièrement</option><option value='animé'>animé</option><option value='nomade'>nomade</option><option value='autoproclamé'>autoproclamé</option></select> en histoire ancienne.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='proclaimed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. L'eau est <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='crucial'>crucial</option><option value='entièrement'>entièrement</option><option value='animé'>animé</option><option value='nomade'>nomade</option><option value='autoproclamé'>autoproclamé</option></select> pour notre survie.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='crucial' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Mon expérience était <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='crucial'>crucial</option><option value='entièrement'>entièrement</option><option value='animé'>animé</option><option value='nomade'>nomade</option><option value='autoproclamé'>autoproclamé</option></select> différente de la précédente.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='entirely' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. Les tribus bédouines vivaient une vie <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='crucial'>crucial</option><option value='entièrement'>entièrement</option><option value='animé'>animé</option><option value='nomade'>nomade</option><option value='autoproclamé'>autoproclamé</option></select> dans le désert.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='nomadic' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: pollution, tendrement, atmosphère, ambiance, pratique</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Le restaurant a une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='pollution'>pollution</option><option value='tendrement'>tendrement</option><option value='atmosphère'>atmosphère</option><option value='ambiance'>ambiance</option><option value='pratique'>pratique</option></select> très romantique avec ses bougies.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='atmosphere' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. La circulation dense est la principale cause de la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='pollution'>pollution</option><option value='tendrement'>tendrement</option><option value='atmosphère'>atmosphère</option><option value='ambiance'>ambiance</option><option value='pratique'>pratique</option></select> de l'air en ville.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='pollution' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Les achats en ligne sont très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='pollution'>pollution</option><option value='tendrement'>tendrement</option><option value='atmosphère'>atmosphère</option><option value='ambiance'>ambiance</option><option value='pratique'>pratique</option></select> pour les gens occupés.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='convenient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. J'adore l'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='pollution'>pollution</option><option value='tendrement'>tendrement</option><option value='atmosphère'>atmosphère</option><option value='ambiance'>ambiance</option><option value='pratique'>pratique</option></select> amicale de cette petite station balnéaire.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='vibe' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. Elle se souvient très <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='pollution'>pollution</option><option value='tendrement'>tendrement</option><option value='atmosphère'>atmosphère</option><option value='ambiance'>ambiance</option><option value='pratique'>pratique</option></select> de ses voyages d'enfance.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='fondly' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: acompte, présidentielle, grave, disposer, installations</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Elle passe son temps libre à <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='acompte'>acompte</option><option value='présidentielle'>présidentielle</option><option value='grave'>grave</option><option value='disposer'>disposer</option><option value='installations'>installations</option></select> des fleurs dans de beaux vases.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='arranging' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Le célèbre chanteur a séjourné dans la suite <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='acompte'>acompte</option><option value='présidentielle'>présidentielle</option><option value='grave'>grave</option><option value='disposer'>disposer</option><option value='installations'>installations</option></select> de l'hôtel.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='presidential' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. L'hôtel offre d'excellentes <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='acompte'>acompte</option><option value='présidentielle'>présidentielle</option><option value='grave'>grave</option><option value='disposer'>disposer</option><option value='installations'>installations</option></select> comme une piscine et une salle de sport.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='facilities' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Vous devez payer un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='acompte'>acompte</option><option value='présidentielle'>présidentielle</option><option value='grave'>grave</option><option value='disposer'>disposer</option><option value='installations'>installations</option></select> de 10% pour réserver la chambre.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='deposit' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. Il a une allergie <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='acompte'>acompte</option><option value='présidentielle'>présidentielle</option><option value='grave'>grave</option><option value='disposer'>disposer</option><option value='installations'>installations</option></select> aux cacahuètes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='severe' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: simplicité, nostalgie, entretien, reflète, choix</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Regarder de vieilles photos donne aux gens un sentiment de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='simplicité'>simplicité</option><option value='nostalgie'>nostalgie</option><option value='entretien'>entretien</option><option value='reflète'>reflète</option><option value='choix'>choix</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='nostalgia' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Vous avez le <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='simplicité'>simplicité</option><option value='nostalgie'>nostalgie</option><option value='entretien'>entretien</option><option value='reflète'>reflète</option><option value='choix'>choix</option></select> de séjourner dans un hôtel ou de camper.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='choice' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Une voiture de luxe nécessite des coûts d'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='simplicité'>simplicité</option><option value='nostalgie'>nostalgie</option><option value='entretien'>entretien</option><option value='reflète'>reflète</option><option value='choix'>choix</option></select> élevés.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='maintenance' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Certaines personnes préfèrent la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='simplicité'>simplicité</option><option value='nostalgie'>nostalgie</option><option value='entretien'>entretien</option><option value='reflète'>reflète</option><option value='choix'>choix</option></select> de la vie à la campagne.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='simplicity' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. La façon dont vous vous habillez <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='simplicité'>simplicité</option><option value='nostalgie'>nostalgie</option><option value='entretien'>entretien</option><option value='reflète'>reflète</option><option value='choix'>choix</option></select> souvent votre personnalité.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='reflects' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 뱅크: 중요한, 완전히, 북적이는, 유목의, 자칭</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 도심은 항상 관광객과 쇼핑객으로 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='중요한'>중요한</option><option value='완전히'>완전히</option><option value='북적이는'>북적이는</option><option value='유목의'>유목의</option><option value='자칭'>자칭</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='bustling' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 그는 고대 역사의 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='중요한'>중요한</option><option value='완전히'>완전히</option><option value='북적이는'>북적이는</option><option value='유목의'>유목의</option><option value='자칭'>자칭</option></select> 전문가입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='proclaimed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 물은 우리의 생존에 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='중요한'>중요한</option><option value='완전히'>완전히</option><option value='북적이는'>북적이는</option><option value='유목의'>유목의</option><option value='자칭'>자칭</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='crucial' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 내 경험은 이전 경험과 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='중요한'>중요한</option><option value='완전히'>완전히</option><option value='북적이는'>북적이는</option><option value='유목의'>유목의</option><option value='자칭'>자칭</option></select> 달랐다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='entirely' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 베두인 부족은 사막에서 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='중요한'>중요한</option><option value='완전히'>완전히</option><option value='북적이는'>북적이는</option><option value='유목의'>유목의</option><option value='자칭'>자칭</option></select> 삶을 살았다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='nomadic' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 뱅크: 공해, 애틋하게, 분위기, 분위기, 편리한</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 그 레스토랑은 촛불과 함께 매우 로맨틱한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='공해'>공해</option><option value='애틋하게'>애틋하게</option><option value='분위기'>분위기</option><option value='분위기'>분위기</option><option value='편리한'>편리한</option></select>를 가지고 있다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='atmosphere' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 교통 체증은 도시 대기 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='공해'>공해</option><option value='애틋하게'>애틋하게</option><option value='분위기'>분위기</option><option value='분위기'>분위기</option><option value='편리한'>편리한</option></select>의 주요 원인이다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='pollution' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 온라인 쇼핑은 바쁜 사람들에게 매우 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='공해'>공해</option><option value='애틋하게'>애틋하게</option><option value='분위기'>분위기</option><option value='분위기'>분위기</option><option value='편리한'>편리한</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='convenient' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 나는 이 작은 해변 마을의 친근한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='공해'>공해</option><option value='애틋하게'>애틋하게</option><option value='분위기'>분위기</option><option value='분위기'>분위기</option><option value='편리한'>편리한</option></select>를 사랑한다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='vibe' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 그녀는 어린 시절의 여행을 매우 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='공해'>공해</option><option value='애틋하게'>애틋하게</option><option value='분위기'>분위기</option><option value='분위기'>분위기</option><option value='편리한'>편리한</option></select> 기억한다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='fondly' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 뱅크: 보증금, 대통령, 심각한, 꽃꽂이하다, 시설</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 그녀는 자유 시간에 아름다운 꽃병에 꽃을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='보증금'>보증금</option><option value='대통령'>대통령</option><option value='심각한'>심각한</option><option value='꽃꽂이하다'>꽃꽂이하다</option><option value='시설'>시설</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='arranging' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 그 유명한 가수는 호텔의 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='보증금'>보증금</option><option value='대통령'>대통령</option><option value='심각한'>심각한</option><option value='꽃꽂이하다'>꽃꽂이하다</option><option value='시설'>시설</option></select> 스위트에 묵었다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='presidential' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 그 호텔은 수영장과 체육관과 같은 훌륭한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='보증금'>보증금</option><option value='대통령'>대통령</option><option value='심각한'>심각한</option><option value='꽃꽂이하다'>꽃꽂이하다</option><option value='시설'>시설</option></select>을 제공한다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='facilities' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 객실을 예약하려면 10% <select class='vocab-select'><option value=''>── 선택 ──</option><option value='보증금'>보증금</option><option value='대통령'>대통령</option><option value='심각한'>심각한</option><option value='꽃꽂이하다'>꽃꽂이하다</option><option value='시설'>시설</option></select>을 지불해야 한다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='deposit' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 그는 땅콩에 대한 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='보증금'>보증금</option><option value='대통령'>대통령</option><option value='심각한'>심각한</option><option value='꽃꽂이하다'>꽃꽂이하다</option><option value='시설'>시설</option></select> 알레르기가 있다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='severe' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 뱅크: 단순함, 향수, 유지비, 반영하다, 선택권</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 옛날 사진을 보면 사람들은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='단순함'>단순함</option><option value='향수'>향수</option><option value='유지비'>유지비</option><option value='반영하다'>반영하다</option><option value='선택권'>선택권</option></select>을 느낀다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='nostalgia' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 당신에게는 호텔에 묵을지 캠핑을 할지 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='단순함'>단순함</option><option value='향수'>향수</option><option value='유지비'>유지비</option><option value='반영하다'>반영하다</option><option value='선택권'>선택권</option></select>이 있다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='choice' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 고급 자동차는 높은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='단순함'>단순함</option><option value='향수'>향수</option><option value='유지비'>유지비</option><option value='반영하다'>반영하다</option><option value='선택권'>선택권</option></select> 비용이 필요하다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='maintenance' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 어떤 사람들은 시골 생활의 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='단순함'>단순함</option><option value='향수'>향수</option><option value='유지비'>유지비</option><option value='반영하다'>반영하다</option><option value='선택권'>선택권</option></select>을 선호한다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='simplicity' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 옷차림은 종종 당신의 성격을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='단순함'>단순함</option><option value='향수'>향수</option><option value='유지비'>유지비</option><option value='반영하다'>반영하다</option><option value='선택권'>선택권</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='reflects' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "The Core Reading compares different types of accommodation. Briefly explain <b>why Falah and Andro prefer camping</b> despite their different backgrounds, and describe <b>two specific rules or costs</b> mentioned for the Hillbrow Hotel.",
+    "ja": "コアリーディングでは、さまざまなタイプの宿泊施設を比較しています。異なる背景を持つファラーとアンドロが<b>なぜキャンプを好むのか</b>を簡潔に説明し、ヒルブロウホテルについて言及されている<b>2つの特定の規則や費用</b>を説明してください。",
+    "fr": "La lecture principale compare différents types d'hébergement. Expliquez brièvement <b>pourquoi Falah et Andro préfèrent le camping</b> malgré leurs parcours différents, et décrivez <b>deux règles ou coûts spécifiques</b> mentionnés pour l'hôtel Hillbrow.",
+    "ko": "코어 리딩에서는 다양한 유형의 숙박 시설을 비교합니다. 배경이 다른 팔라와 안드로가 <b>왜 캠핑을 선호하는지</b> 간략히 설명하고, 힐브로우 호텔에 대해 언급된 <b>두 가지 특정 규칙이나 비용</b>을 설명하세요."
+  },
+  "content_check_keywords": {
+    "en": "peace of the desert, nomadic life, freedom to explore, nostalgia, Wi-Fi fee, 10% deposit, cancellation policy",
+    "ja": "砂漠の平和、遊牧生活、探検する自由、懐かしさ、Wi-Fi料金、10%の保証金、キャンセルポリシー",
+    "fr": "paix du désert, vie nomade, liberté d'explorer, nostalgie, frais Wi-Fi, acompte de 10%, politique d'annulation",
+    "ko": "사막의 평화, 유목 생활, 탐험의 자유, 향수, Wi-Fi 요금, 10% 보증금, 취소 정책"
+  },
+  "content_check_placeholder": {
+    "en": "Explain why they like camping and list the hotel's rules/costs...",
+    "ja": "彼らがなぜキャンプを好むのか説明し、ホテルの規則/費用をリストアップしてください...",
+    "fr": "Expliquez pourquoi ils aiment le camping et listez les règles/coûts de l'hôtel...",
+    "ko": "그들이 왜 캠핑을 좋아하는지 설명하고 호텔의 규칙/비용을 나열하세요..."
+  },
+  "deepening_question": {
+    "en": "In the text, Lady Zaza has <b>specific demands</b> (no green items, many flowers) to feel relaxed, while Andro finds comfort in <b>simplicity</b> and <b>nostalgia</b>.<br><br><b>In your opinion, what is the most 'crucial' thing a place must have for you to feel comfortable? If you could design your own 'presidential suite,' what specific items would it have?</b>",
+    "ja": "本文では、レディ・ザザはリラックスするために<b>特定の要求</b>（緑色のアイテムを入れない、たくさんの花）を持っているのに対し、アンドロは<b>簡素さ</b>と<b>懐かしさ</b>に安らぎを見出しています。<br><br><b>あなたにとって、快適に感じるために場所が持つべき最も「重要な」ことは何だと思いますか？もし自分だけの「大統領スイート」をデザインできるなら、どんな特定のアイテムを置きますか？</b>",
+    "fr": "Dans le texte, Lady Zaza a des <b>exigences spécifiques</b> (pas d'objets verts, beaucoup de fleurs) pour se sentir détendue, tandis qu'Andro trouve du réconfort dans la <b>simplicité</b> et la <b>nostalgie</b>.<br><br><b>À votre avis, quelle est la chose la plus « cruciale » qu'un lieu doit avoir pour que vous vous sentiez à l'aise ? Si vous pouviez concevoir votre propre « suite présidentielle », quels éléments spécifiques contiendrait-elle ?</b>",
+    "ko": "본문에서 레이디 자자는 편안함을 느끼기 위해 <b>특정 요구사항</b>(녹색 물건 금지, 많은 꽃)을 가지고 있는 반면, 안드로는 <b>단순함</b>과 <b>향수</b>에서 위안을 찾습니다.<br><br><b>여러분이 편안함을 느끼기 위해 장소가 가져야 할 가장 '중요한' 것은 무엇이라고 생각하나요? 자신만의 '대통령 스위트'를 디자인할 수 있다면, 어떤 특정 아이템을 넣겠습니까?</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I think the most crucial thing is... If I designed a suite, it would have...",
+    "ja": "最も重要なことは...だと思います。もし私がスイートをデザインするなら、それは...を持つでしょう。",
+    "fr": "Je pense que la chose la plus cruciale est... Si je concevais une suite, elle aurait...",
+    "ko": "가장 중요한 것은...이라고 생각합니다. 제가 스위트를 디자인한다면, 그것은...을 가질 것입니다."
+  },
+  "critical_question": {
+    "en": "We have explored various <b>PLACES TO STAY</b>, from <b>nomadic</b> desert tents to high-<b>maintenance</b> luxury hotels. We learned that where we stay often <b>reflects</b> who we are and our past habits.<br><br><b>If you had a huge budget for a one-month vacation, would you choose to stay in a 'bustling' 5-star hotel or a quiet, remote 'campsite'?<br>Support your answer by using the grammar we learned (used to, second conditional). Explain the possible benefits and what you 'would' do in that situation.</b>",
+    "ja": "私たちは、<b>遊牧</b>の砂漠のテントから維持が<b>大変な</b>高級ホテルまで、さまざまな<b>滞在先</b>を探求してきました。私たちがどこに滞在するかは、しばしば私たちが誰であるか、そして過去の習慣を<b>反映</b>していることを学びました。<br><br><b>もし1ヶ月の休暇に莫大な予算があったら、「賑やかな」5つ星ホテルと静かで辺鄙な「キャンプ場」のどちらに泊まりますか？<br>学んだ文法（used to, 第二条件法）を使って答えを裏付けてください。その状況で考えられる利点と自分が「するであろう」ことを説明してください。</b>",
+    "fr": "Nous avons exploré divers <b>LIEUX OÙ SÉJOURNER</b>, des tentes du désert <b>nomades</b> aux hôtels de luxe <b>exigeants</b>. Nous avons appris que l'endroit où nous séjournons <b>reflète</b> souvent qui nous sommes et nos habitudes passées.<br><br><b>Si vous aviez un budget énorme pour des vacances d'un mois, choisiriez-vous de séjourner dans un hôtel 5 étoiles « animé » ou dans un « camping » calme et isolé ?<br>Étayez votre réponse en utilisant la grammaire que nous avons apprise (used to, conditionnel présent). Expliquez les avantages possibles et ce que vous « feriez » dans cette situation.</b>",
+    "ko": "우리는 <b>유목</b>민의 사막 텐트부터 관리가 <b>까다로운</b> 고급 호텔까지 다양한 <b>머무를 곳</b>을 탐구했습니다. 우리가 어디에 머무르는지는 종종 우리가 누구인지, 그리고 우리의 과거 습관을 <b>반영</b>한다는 것을 배웠습니다.<br><br><b>한 달 휴가에 막대한 예산이 있다면, '북적이는' 5성급 호텔과 조용하고 외딴 '캠핑장' 중 어디에 머물겠습니까?<br>배운 문법(used to, 가정법)을 사용하여 답변을 뒷받침하세요. 그 상황에서 가능한 이점과 자신이 '할 것'을 설명하세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "Compare a luxury hotel vs. a remote campsite. Use 'used to' to talk about your past travels and 'second conditional' (If I stayed..., I would...) to describe your dream vacation...",
+    "ja": "高級ホテルと辺鄙なキャンプ場を比較してください。'used to'を使って過去の旅行について話し、'第二条件法'（もし私が泊まったら、私は...するでしょう）を使って夢の休暇を説明してください...",
+    "fr": "Comparez un hôtel de luxe et un camping isolé. Utilisez 'used to' pour parler de vos voyages passés et le 'conditionnel présent' (Si je restais..., je ferais...) pour décrire vos vacances de rêve...",
+    "ko": "고급 호텔과 외딴 캠핑장을 비교하세요. 'used to'를 사용하여 과거 여행에 대해 이야기하고 '가정법'(만약 내가 머문다면, 나는...할 것이다)을 사용하여 꿈의 휴가를 설명하세요..."
+  }
+}

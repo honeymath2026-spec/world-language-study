@@ -1,0 +1,1360 @@
+{
+  "title": {
+    "en": "Let's Eat Out!",
+    "ja": "外で食事をしよう！",
+    "fr": "Mangeons au restaurant !",
+    "ko": "외식하자!"
+  },
+  "topic": {
+    "en": "Ordering food at a restaurant · Making suggestions · Food preferences · Breakfast traditions",
+    "ja": "レストランでの注文 · 提案をする · 食べ物の好み · 朝食の伝統",
+    "fr": "Commander au restaurant · Faire des suggestions · Préférences alimentaires · Traditions du petit-déjeuner",
+    "ko": "레스토랑에서 주문하기 · 제안하기 · 음식 선호도 · 아침 식사 전통"
+  },
+  "core_title": {
+    "en": "Choosing a Restaurant and Ordering Food",
+    "ja": "レストラン選びと注文",
+    "fr": "Choisir un restaurant et commander",
+    "ko": "레스토랑 고르기와 주문하기"
+  },
+  "core_reading_html": {
+    "en": "<p>When you want to eat out, you need to choose a <strong><span class='vocab-link' id='text-restaurant' onclick='speakAndScroll(\"restaurant\", \"vocab-restaurant\")'>restaurant</span></strong>. First, ask your friend: \"Do you want to get something to eat?\" Then, talk about different <strong><span class='vocab-link' id='text-options' onclick='speakAndScroll(\"options\", \"vocab-options\")'>options</span></strong>. You can say: \"There's a nice Thai place\" or \"How about a steak restaurant?\" If someone doesn't like something, say: \"No problem. Let's go somewhere else.\"</p><p>At the restaurant, the <strong><span class='vocab-link' id='text-waiter' onclick='speakAndScroll(\"waiter\", \"vocab-waiter\")'>waiter</span></strong> will ask: \"How many people?\" and \"Have you <strong><span class='vocab-link' id='text-booked' onclick='speakAndScroll(\"booked\", \"vocab-booked\")'>booked</span></strong>?\" If you don't have a booking, you may need to wait. When you are ready to order, say: \"Could I have the chicken, please?\" Tell the waiter if you don't eat meat. You can also ask for tap water. Finally, enjoy your meal!</p>",
+    "ja": "<p>外で食事をしたいときは、<strong><span class='vocab-link' id='text-restaurant' onclick='speakAndScroll(\"restaurant\", \"vocab-restaurant\")'>レストラン</span></strong>を選ぶ必要があります。まず、友達に「何か食べに行かない？」と聞いてみましょう。それから、さまざまな<strong><span class='vocab-link' id='text-options' onclick='speakAndScroll(\"options\", \"vocab-options\")'>選択肢</span></strong>について話し合います。「素敵なタイ料理店があるよ」とか「ステーキレストランはどう？」と言えます。誰かが何かを好きではない場合は、「大丈夫。別のところに行こう。」と言いましょう。</p><p>レストランでは、<strong><span class='vocab-link' id='text-waiter' onclick='speakAndScroll(\"waiter\", \"vocab-waiter\")'>ウェイター</span></strong>が「何名様ですか？」と「ご<strong><span class='vocab-link' id='text-booked' onclick='speakAndScroll(\"booked\", \"vocab-booked\")'>予約</span></strong>はされていますか？」と聞きます。予約がない場合は、待つ必要があるかもしれません。注文する準備ができたら、「チキンをいただけますか？」と言いましょう。肉を食べないことはウェイターに伝えてください。水道水を頼むこともできます。最後に、食事を楽しんでください！</p>",
+    "fr": "<p>Lorsque vous voulez manger au restaurant, vous devez choisir un <strong><span class='vocab-link' id='text-restaurant' onclick='speakAndScroll(\"restaurant\", \"vocab-restaurant\")'>restaurant</span></strong>. Demandez d'abord à votre ami : « Tu veux manger quelque chose ? » Ensuite, parlez des différentes <strong><span class='vocab-link' id='text-options' onclick='speakAndScroll(\"options\", \"vocab-options\")'>options</span></strong>. Vous pouvez dire : « Il y a un bon restaurant thaï » ou « Que diriez-vous d'un steakhouse ? » Si quelqu'un n'aime pas quelque chose, dites : « Pas de problème. Allons ailleurs. »</p><p>Au restaurant, le <strong><span class='vocab-link' id='text-waiter' onclick='speakAndScroll(\"waiter\", \"vocab-waiter\")'>serveur</span></strong> demandera : « Vous êtes combien ? » et « Avez-vous <strong><span class='vocab-link' id='text-booked' onclick='speakAndScroll(\"booked\", \"vocab-booked\")'>réservé</span></strong> ? » Si vous n'avez pas de réservation, vous devrez peut-être attendre. Lorsque vous êtes prêt à commander, dites : « Je pourrais avoir le poulet, s'il vous plaît ? » Dites au serveur si vous ne mangez pas de viande. Vous pouvez également demander de l'eau du robinet. Enfin, profitez de votre repas !</p>",
+    "ko": "<p>외식하고 싶을 때는 <strong><span class='vocab-link' id='text-restaurant' onclick='speakAndScroll(\"restaurant\", \"vocab-restaurant\")'>레스토랑</span></strong>을 골라야 합니다. 먼저 친구에게 \"뭐 좀 먹으러 갈래?\"라고 물어보세요. 그런 다음 다양한 <strong><span class='vocab-link' id='text-options' onclick='speakAndScroll(\"options\", \"vocab-options\")'>선택지</span></strong>에 대해 이야기하세요. \"괜찮은 태국 음식점이 있어\" 또는 \"스테이크 레스토랑은 어때?\"라고 말할 수 있습니다. 누군가가 무언가를 좋아하지 않으면 \"괜찮아. 다른 데로 가자.\"라고 말하세요.</p><p>레스토랑에서 <strong><span class='vocab-link' id='text-waiter' onclick='speakAndScroll(\"waiter\", \"vocab-waiter\")'>웨이터</span></strong>가 \"몇 분이세요?\" 그리고 \"<strong><span class='vocab-link' id='text-booked' onclick='speakAndScroll(\"booked\", \"vocab-booked\")'>예약</span></strong>하셨나요?\"라고 물을 것입니다. 예약이 없으면 기다려야 할 수도 있습니다. 주문할 준비가 되면 \"치킨 주세요\"라고 말하세요. 고기를 먹지 않는다면 웨이터에게 말하세요. 수돗물을 요청할 수도 있습니다. 마지막으로 식사를 즐기세요!</p>"
+  },
+  "vocabulary": {
+    "en": [
+      { "id": "restaurant", "word": "Restaurant", "definition": "A place where you can buy and eat a meal.", "pronunciation": "Restaurant" },
+      { "id": "options", "word": "Options", "definition": "Choices or possibilities to choose from.", "pronunciation": "Options" },
+      { "id": "waiter", "word": "Waiter", "definition": "A person who takes your order and brings food.", "pronunciation": "Waiter" },
+      { "id": "booked", "word": "Booked", "definition": "Reserved a table in advance.", "pronunciation": "Booked" }
+    ],
+    "ja": [
+      { "id": "restaurant", "word": "レストラン", "definition": "食事を買って食べることができる場所。", "pronunciation": "れすとらん" },
+      { "id": "options", "word": "選択肢", "definition": "選ぶことができる選択や可能性。", "pronunciation": "せんたくし" },
+      { "id": "waiter", "word": "ウェイター", "definition": "注文を受け、食事を運んでくれる人。", "pronunciation": "うぇいたー" },
+      { "id": "booked", "word": "予約", "definition": "事前に席を確保しておくこと。", "pronunciation": "よやく" }
+    ],
+    "fr": [
+      { "id": "restaurant", "word": "Restaurant", "definition": "Un endroit où l'on peut acheter et manger un repas.", "pronunciation": "Restaurant" },
+      { "id": "options", "word": "Options", "definition": "Choix ou possibilités parmi lesquels choisir.", "pronunciation": "Options" },
+      { "id": "waiter", "word": "Serveur", "definition": "Une personne qui prend votre commande et apporte la nourriture.", "pronunciation": "Serveur" },
+      { "id": "booked", "word": "Réservé", "definition": "Avoir réservé une table à l'avance.", "pronunciation": "Réservé" }
+    ],
+    "ko": [
+      { "id": "restaurant", "word": "레스토랑", "definition": "음식을 사서 먹을 수 있는 장소.", "pronunciation": "레스토랑" },
+      { "id": "options", "word": "선택지", "definition": "고를 수 있는 선택이나 가능성.", "pronunciation": "선택지" },
+      { "id": "waiter", "word": "웨이터", "definition": "주문을 받고 음식을 가져다주는 사람.", "pronunciation": "웨이터" },
+      { "id": "booked", "word": "예약", "definition": "미리 자리를 확보해 두는 것.", "pronunciation": "예약" }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. Where Shall We Go?",
+        "label": "Conversation: Choosing a Restaurant",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Are you hungry?"
+          },
+          {
+            "speaker": "B",
+            "text": "Yeah, a bit."
+          },
+          {
+            "speaker": "A",
+            "text": "Do you want to get something to eat?"
+          },
+          {
+            "speaker": "B",
+            "text": "I'd love to, yeah. Where are you thinking of going?"
+          },
+          {
+            "speaker": "A",
+            "text": "Well, there's a really nice Thai place just down the road. Do you know it?"
+          },
+          {
+            "speaker": "B",
+            "text": "I've seen it, but I've never eaten there. I don't really feel like spicy food today, though, so..."
+          },
+          {
+            "speaker": "A",
+            "text": "OK. No problem. I'm happy to go somewhere else."
+          },
+          {
+            "speaker": "B",
+            "text": "There's a great steak restaurant near the big department store in the centre of town. How about that?"
+          },
+          {
+            "speaker": "A",
+            "text": "To be honest, I don't really like red meat."
+          },
+          {
+            "speaker": "B",
+            "text": "Well, we could go to Sofra instead. Have you been there?"
+          },
+          {
+            "speaker": "A",
+            "text": "No, I've never heard of it. Where is it?"
+          },
+          {
+            "speaker": "B",
+            "text": "It's about fifteen minutes' walk from here. It's just round the corner from the bus station."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, OK. And what kind of restaurant is it?"
+          },
+          {
+            "speaker": "B",
+            "text": "It's Turkish. It's really good. I go there almost every week."
+          },
+          {
+            "speaker": "A",
+            "text": "Really?"
+          },
+          {
+            "speaker": "B",
+            "text": "Yeah, the food's delicious — and they've got a really good selection of dishes, so there's plenty to choose from."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, it sounds great."
+          },
+          {
+            "speaker": "B",
+            "text": "Yeah. The only problem is that it gets really busy. Sometimes you have to wait to get a table, so maybe we should phone and book."
+          },
+          {
+            "speaker": "A",
+            "text": "Yeah. That's probably a good idea."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Conversation 1",
+        "label": "At the Restaurant: Waiting and Facilities",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "How many people is it?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "There are three of us."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "And have you booked?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "No. Is that a problem?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "No, but do you mind waiting?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "How long?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Maybe ten or fifteen minutes."
+          },
+          {
+            "speaker": "Client 2",
+            "text": "OK. That's fine."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Could I change the baby somewhere?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "I'm afraid we don't have any special facilities. You can use the toilet. It's not very big, though."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "That's OK."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "It's just at the end there, down the stairs."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Conversation 2",
+        "label": "At the Restaurant: Getting Seated",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "Is this table here OK?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Yeah, this is fine. Thank you."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Would you like a high chair for the little girl?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "That'd be great. Thanks. He's actually a boy, though!"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Oh, I'm so sorry! Anyway, here are your menus. I'll get the chair."
+          }
+        ]
+      },
+      {
+        "title": "1-4. Conversation 3",
+        "label": "At the Restaurant: Ordering Food",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "Are you ready to order?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Not quite. Could you just give us two more minutes?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Yes, of course."
+          },
+          {
+            "speaker": "Client 2",
+            "text": "Right. OK. Could I have the grilled squid for starters, please? And for my main course, I think I'll have the chicken."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "And what kind of potatoes would you like?"
+          },
+          {
+            "speaker": "Client 2",
+            "text": "Roast potatoes, please."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "OK."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "I'll go for the aubergines stuffed with rice for my main course, please. And the country stew? Does it contain any meat? I'm vegetarian."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Yes, sorry. It's got lamb in it. I could ask them to take it out."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "No, it's OK. I'll just have the tomato and avocado salad. And can we get some water as well?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Of course. Sparkling or still?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Just tap water, please, if possible."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Sure."
+          },
+          {
+            "speaker": "Client 2",
+            "text": "And could we have a small plate for our son? We're going to share our dishes with him."
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. どこに行こうか？",
+        "label": "会話: レストラン選び",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "お腹空いた？"
+          },
+          {
+            "speaker": "B",
+            "text": "うん、ちょっと。"
+          },
+          {
+            "speaker": "A",
+            "text": "何か食べに行かない？"
+          },
+          {
+            "speaker": "B",
+            "text": "そうしたいね。どこに行こうか考えてる？"
+          },
+          {
+            "speaker": "A",
+            "text": "この道を下ったところにすごくいいタイ料理店があるんだけど、知ってる？"
+          },
+          {
+            "speaker": "B",
+            "text": "見たことはあるけど、行ったことはないんだ。でも今日は辛い気分じゃなくて…"
+          },
+          {
+            "speaker": "A",
+            "text": "わかった。大丈夫。別のところに行くよ。"
+          },
+          {
+            "speaker": "B",
+            "text": "街の中心の大きなデパートの近くに、すごくいいステーキレストランがあるんだ。そこはどう？"
+          },
+          {
+            "speaker": "A",
+            "text": "正直言うと、僕は赤身肉があまり好きじゃないんだ。"
+          },
+          {
+            "speaker": "B",
+            "text": "じゃあ、代わりにソフラに行かない？行ったことある？"
+          },
+          {
+            "speaker": "A",
+            "text": "ううん、聞いたことないな。どこにあるの？"
+          },
+          {
+            "speaker": "B",
+            "text": "ここから歩いて15分くらい。バス停のすぐ近くにあるよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "そうなんだ。どんなレストランなの？"
+          },
+          {
+            "speaker": "B",
+            "text": "トルコ料理店だよ。すごく美味しいんだ。ほとんど毎週行ってる。"
+          },
+          {
+            "speaker": "A",
+            "text": "本当？"
+          },
+          {
+            "speaker": "B",
+            "text": "うん、料理は美味しいし、メニューの品揃えも本当に豊富だから、選ぶのがたくさんあるんだ。"
+          },
+          {
+            "speaker": "A",
+            "text": "いいね、素敵そう。"
+          },
+          {
+            "speaker": "B",
+            "text": "うん。ただ問題は、すごく混むことなんだ。席を取るのに待たなきゃいけないこともあるから、電話して予約したほうがいいかも。"
+          },
+          {
+            "speaker": "A",
+            "text": "そうだね。それがいいかもしれない。"
+          }
+        ]
+      },
+      {
+        "title": "1-2. 会話1",
+        "label": "レストランにて: 待ち時間と設備",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "何名様ですか？"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "3人です。"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "ご予約はされていますか？"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "いいえ。問題ありますか？"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "いいえ、でもお待ちいただけますか？"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "どのくらいですか？"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "10分か15分くらいです。"
+          },
+          {
+            "speaker": "Client 2",
+            "text": "はい、大丈夫です。"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "どこかで赤ちゃんのおむつを替えられますか？"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "申し訳ありませんが、特別な設備はございません。トイレはご利用いただけます。ただし、あまり広くはありませんが。"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "大丈夫です。"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "あちらの突き当たり、階段を下りたところにあります。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. 会話2",
+        "label": "レストランにて: 着席",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "こちらのお席でよろしいですか？"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "はい、ここで大丈夫です。ありがとうございます。"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "お嬢さん用のベビーチェアはいかがですか？"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "それは助かります。ありがとうございます。でも、実は男の子なんです！"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "ああ、本当に申し訳ございません！とにかく、こちらがメニューです。椅子をお持ちします。"
+          }
+        ]
+      },
+      {
+        "title": "1-4. 会話3",
+        "label": "レストランにて: 注文",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "ご注文はお決まりですか？"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "もう少しだけお時間をいただけますか？あと2分ほど。"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "はい、もちろんです。"
+          },
+          {
+            "speaker": "Client 2",
+            "text": "では、前菜にイカのグリルをお願いします。メインはチキンにします。"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "ポテトはどのようなものがよろしいですか？"
+          },
+          {
+            "speaker": "Client 2",
+            "text": "ローストポテトでお願いします。"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "かしこまりました。"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "私はメインに米を詰めたナスの料理をお願いします。それと、カントリーステューにはお肉が入っていますか？私はベジタリアンなんです。"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "はい、申し訳ありません。ラム肉が入っています。取り除くように伝えましょうか？"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "いいえ、大丈夫です。トマトとアボカドのサラダにします。それからお水もいただけますか？"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "もちろんです。炭酸水ですか？それとも炭酸なしですか？"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "できれば、ただの水道水でお願いします。"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "承知しました。"
+          },
+          {
+            "speaker": "Client 2",
+            "text": "それから、息子用に小さなお皿をいただけますか？私たちの料理を彼とシェアしようと思っています。"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Où allons-nous ?",
+        "label": "Conversation : Choisir un restaurant",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Tu as faim ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, un peu."
+          },
+          {
+            "speaker": "A",
+            "text": "Tu veux aller manger quelque chose ?"
+          },
+          {
+            "speaker": "B",
+            "text": "J'aimerais bien, oui. Où penses-tu aller ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Eh bien, il y a un très bon restaurant thaïlandais juste en bas de la rue. Tu le connais ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Je l'ai vu, mais je n'y ai jamais mangé. Cependant, je n'ai pas vraiment envie de manger épicé aujourd'hui, alors..."
+          },
+          {
+            "speaker": "A",
+            "text": "D'accord. Pas de problème. Je suis content d'aller ailleurs."
+          },
+          {
+            "speaker": "B",
+            "text": "Il y a un excellent steakhouse près du grand magasin au centre-ville. Qu'en penses-tu ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Pour être honnête, je n'aime pas vraiment la viande rouge."
+          },
+          {
+            "speaker": "B",
+            "text": "Eh bien, nous pourrions aller à Sofra à la place. Tu y es déjà allé ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Non, je n'ai jamais entendu parler. Où est-ce ?"
+          },
+          {
+            "speaker": "B",
+            "text": "C'est à environ quinze minutes à pied d'ici. C'est juste au coin de la gare routière."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, d'accord. Et quel genre de restaurant est-ce ?"
+          },
+          {
+            "speaker": "B",
+            "text": "C'est turc. C'est vraiment bon. J'y vais presque toutes les semaines."
+          },
+          {
+            "speaker": "A",
+            "text": "Vraiment ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Oui, la nourriture est délicieuse — et ils ont une très bonne sélection de plats, donc il y a beaucoup de choix."
+          },
+          {
+            "speaker": "A",
+            "text": "Oh, ça a l'air super."
+          },
+          {
+            "speaker": "B",
+            "text": "Oui. Le seul problème, c'est que ça devient vraiment bondé. Parfois, il faut attendre pour avoir une table, donc nous devrions peut-être téléphoner et réserver."
+          },
+          {
+            "speaker": "A",
+            "text": "Oui. C'est probablement une bonne idée."
+          }
+        ]
+      },
+      {
+        "title": "1-2. Conversation 1",
+        "label": "Au restaurant : Attente et installations",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "Vous êtes combien ?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Nous sommes trois."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Avez-vous réservé ?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Non. Est-ce un problème ?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Non, mais cela vous dérange-t-il d'attendre ?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Combien de temps ?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Peut-être dix ou quinze minutes."
+          },
+          {
+            "speaker": "Client 2",
+            "text": "D'accord. Ça va."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Puis-je changer le bébé quelque part ?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Je crains que nous n'ayons pas d'installations spéciales. Vous pouvez utiliser les toilettes. Elles ne sont pas très grandes, cependant."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Ça va."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "C'est juste au bout, en bas des escaliers."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Conversation 2",
+        "label": "Au restaurant : S'installer",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "Cette table ici vous convient-elle ?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Oui, ça va. Merci."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Souhaitez-vous une chaise haute pour la petite fille ?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Ce serait génial. Merci. C'est en fait un garçon, cependant !"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Oh, je suis vraiment désolé ! Voici vos menus. Je vais chercher la chaise."
+          }
+        ]
+      },
+      {
+        "title": "1-4. Conversation 3",
+        "label": "Au restaurant : Commander",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "Êtes-vous prêt à commander ?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Pas tout à fait. Pouvez-vous nous donner juste deux minutes de plus ?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Oui, bien sûr."
+          },
+          {
+            "speaker": "Client 2",
+            "text": "Bon. Je vais prendre le calmar grillé comme entrée, s'il vous plaît. Et comme plat principal, je pense que je vais prendre le poulet."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Et quel genre de pommes de terre souhaitez-vous ?"
+          },
+          {
+            "speaker": "Client 2",
+            "text": "Des pommes de terre rôties, s'il vous plaît."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "D'accord."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Je vais prendre les aubergines farcies au riz comme plat principal, s'il vous plaît. Et le ragoût de campagne ? Contient-il de la viande ? Je suis végétarien."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Oui, désolé. Il y a de l'agneau. Je peux demander qu'on l'enlève."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "Non, ça va. Je vais juste prendre la salade de tomates et d'avocat. Et pouvons-nous avoir de l'eau aussi ?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Bien sûr. Pétillante ou plate ?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "De l'eau du robinet, s'il vous plaît, si possible."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Bien sûr."
+          },
+          {
+            "speaker": "Client 2",
+            "text": "Et pourrions-nous avoir une petite assiette pour notre fils ? Nous allons partager nos plats avec lui."
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. 어디로 갈까?",
+        "label": "대화: 레스토랑 고르기",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "배고파?"
+          },
+          {
+            "speaker": "B",
+            "text": "응, 조금."
+          },
+          {
+            "speaker": "A",
+            "text": "뭐 좀 먹으러 갈래?"
+          },
+          {
+            "speaker": "B",
+            "text": "그래, 좋지. 어디로 갈 생각이야?"
+          },
+          {
+            "speaker": "A",
+            "text": "음, 이 길 아래에 정말 좋은 태국 음식점이 있어. 알아?"
+          },
+          {
+            "speaker": "B",
+            "text": "본 적은 있는데, 가본 적은 없어. 그런데 오늘은 매운 음식이 딱히 땡기지 않아서..."
+          },
+          {
+            "speaker": "A",
+            "text": "알겠어. 괜찮아. 다른 데로 가자."
+          },
+          {
+            "speaker": "B",
+            "text": "시내 중심가 큰 백화점 근처에 괜찮은 스테이크 레스토랑이 있어. 거기는 어때?"
+          },
+          {
+            "speaker": "A",
+            "text": "솔직히 말하면, 나는 붉은 고기를 별로 안 좋아해."
+          },
+          {
+            "speaker": "B",
+            "text": "그럼, 대신 소프라에 가는 건 어때? 거기 가본 적 있어?"
+          },
+          {
+            "speaker": "A",
+            "text": "아니, 들어본 적 없어. 어디 있는데?"
+          },
+          {
+            "speaker": "B",
+            "text": "여기서 걸어서 15분 정도 걸려. 버스 정류장 바로 모퉁이에 있어."
+          },
+          {
+            "speaker": "A",
+            "text": "아, 그래. 무슨 음식점인데?"
+          },
+          {
+            "speaker": "B",
+            "text": "터키 음식점이야. 정말 맛있어. 거의 매주 가."
+          },
+          {
+            "speaker": "A",
+            "text": "정말?"
+          },
+          {
+            "speaker": "B",
+            "text": "응, 음식도 맛있고 메뉴도 정말 다양하게 잘 갖춰져 있어서 고를 게 많아."
+          },
+          {
+            "speaker": "A",
+            "text": "오, 좋겠다."
+          },
+          {
+            "speaker": "B",
+            "text": "응. 문제는 거기가 정말 붐빈다는 거야. 가끔은 자리를 기다려야 할 때도 있어서, 전화해서 예약하는 게 좋을 것 같아."
+          },
+          {
+            "speaker": "A",
+            "text": "그래. 그게 좋겠다."
+          }
+        ]
+      },
+      {
+        "title": "1-2. 대화 1",
+        "label": "레스토랑에서: 대기와 시설",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "몇 분이세요?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "3명이에요."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "예약하셨나요?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "아니요. 문제 될까요?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "아니요, 하지만 기다리시는 게 괜찮으실까요?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "얼마나 걸려요?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "10분에서 15분 정도요."
+          },
+          {
+            "speaker": "Client 2",
+            "text": "네, 괜찮아요."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "아기 기저귀를 어디서 갈 수 있을까요?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "죄송합니다만, 특별한 시설은 없어요. 화장실은 이용하실 수 있어요. 그런데 별로 크지는 않아요."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "괜찮아요."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "저쪽 끝에 있어요, 계단 아래로 내려가시면 됩니다."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 대화 2",
+        "label": "레스토랑에서: 자리 착석",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "이 자리 괜찮으세요?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "네, 좋아요. 감사합니다."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "아가씨용 하이체어 필요하신가요?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "그럼 좋죠. 감사합니다. 그런데 사실은 남자아이예요!"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "아, 정말 죄송합니다! 어쨌든, 여기 메뉴입니다. 의자를 가져올게요."
+          }
+        ]
+      },
+      {
+        "title": "1-4. 대화 3",
+        "label": "레스토랑에서: 주문하기",
+        "script": [
+          {
+            "speaker": "Waiter",
+            "text": "주문하시겠어요?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "아직요. 2분만 더 주시겠어요?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "네, 물론이죠."
+          },
+          {
+            "speaker": "Client 2",
+            "text": "자, 저는 애피타이저로 오징어 구이 주세요. 메인은 치킨으로 할게요."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "감자는 어떤 걸로 드릴까요?"
+          },
+          {
+            "speaker": "Client 2",
+            "text": "로스트 감자로 주세요."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "네."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "저는 메인으로 밥을 넣은 가지 요리 주세요. 그리고 컨트리 스튜에는 고기가 들어가나요? 저는 채식주의자예요."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "네, 죄송합니다. 양고기가 들어가 있어요. 빼달라고 할 수는 있어요."
+          },
+          {
+            "speaker": "Client 1",
+            "text": "아니요, 괜찮아요. 그냥 토마토와 아보카도 샐러드로 할게요. 그리고 물도 좀 주시겠어요?"
+          },
+          {
+            "speaker": "Waiter",
+            "text": "물론이죠. 탄산인가요? 아니면 생수인가요?"
+          },
+          {
+            "speaker": "Client 1",
+            "text": "가능하면 그냥 수돗물로 주세요."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "네."
+          },
+          {
+            "speaker": "Client 2",
+            "text": "그리고 우리 아들용 작은 접시 좀 주시겠어요? 저희 음식을 그와 함께 나눠 먹을 거예요."
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "Breakfast around the world",
+    "ja": "世界の朝ごはん",
+    "fr": "Petit-déjeuner autour du monde",
+    "ko": "세계의 아침 식사"
+  },
+  "extra_reading_html": {
+    "en": "<p>They say breakfast is the most important meal of the day. Maybe that's why most people don't like to change their morning eating habits. While we may be open to foreign food at lunch or dinner, at breakfast we are people of habit and we aren't usually adventurous enough to experiment. Below, we look at typical breakfasts in five different countries. Would you try any of them?</p><p>South Korea</p><p>Obviously, city life and busy lifestyles mean plenty of Koreans just grab a quick coffee and some cereal or toast, but many others still find time for the traditional breakfast of rice and soup. People then choose extra dishes such as grilled fish, vegetables and kimchi, which is pickled cabbage with chillies. The dish is so popular that the first Korean astronaut took special kimchi with him to his space station!</p><p>Bulgaria</p><p>Breakfast in Bulgaria includes tea or strong coffee, sesame bread and butter, cheese made from sheep's milk, honey, olives, boiled eggs and - most importantly - kiselo mlyako, a local yoghurt. Bulgaria has a lot of people aged over 100 and many believe that the secret behind this is their yoghurt, which most Bulgarians eat every day.</p><p>Costa Rica</p><p>Many Costa Ricans start their day with the national dish, gallo pinto, which is a mixture of fried rice and black beans. It's lightly spiced and often served with fried plantain (a kind of banana used like a vegetable in a lot of Central American and Caribbean cooking), cream and fried eggs. There's usually some strong local coffee as well - or perhaps some agua dulce ('sweet water'), which is made from sugar cane juice.</p><p>Egypt</p><p>Visit any town in Egypt in the morning and you'll find street stalls selling ful medammes - broad beans cooked with tomatoes and onions - and eaten with a boiled egg on top and lots of flat bread. Pickled vegetables are usually served as a side dish. For many poorer Egyptians, this is the main meal until dinner. They say the dish is 'a rock in the stomach'.</p><p>Ireland</p><p>The traditional Irish breakfast is called a fry and is not good for vegetarians! It consists of bacon, black pudding (a kind of sausage made with blood), white pudding (another kind of sausage), fried eggs, fried mushrooms and toast - all accompanied by strong Irish tea!</p>",
+    "ja": "<p>朝食は一日で最も重要な食事だと言われています。それが、ほとんどの人が朝の食習慣を変えたがらない理由かもしれません。昼食や夕食では外国の食べ物にオープンでも、朝食では私たちは習慣の生き物であり、実験するほど冒険的ではありません。以下では、5つの異なる国の典型的な朝食を見ていきます。試してみたいものはありますか？</p><p>韓国</p><p>都市生活と忙しいライフスタイルのため、多くの韓国人はコーヒーとシリアルやトーストを手早く食べますが、他の多くの人は伝統的な朝食のご飯とスープの時間をまだ見つけています。そして、焼き魚、野菜、キムチ（唐辛子で漬けたキャベツ）などの追加料理を選びます。この料理は非常に人気があり、初の韓国人宇宙飛行士は特別なキムチを宇宙ステーションに持ち込みました！</p><p>ブルガリア</p><p>ブルガリアの朝食には、紅茶または濃いコーヒー、ゴマパンとバター、羊乳から作られたチーズ、蜂蜜、オリーブ、ゆで卵、そして最も重要なキセロ・ムリャコという地元のヨーグルトが含まれます。ブルガリアには100歳以上の人が多く、その秘密は彼らのヨーグルトにあると多くの人が信じており、ほとんどのブルガリア人が毎日食べています。</p><p>コスタリカ</p><p>多くのコスタリカ人は、国民料理であるガロピント（炒めたご飯と黒豆の混合物）で一日を始めます。軽くスパイスが効いており、揚げたプランテン（中央アメリカやカリブ海の料理で野菜のように使われるバナナの一種）、クリーム、目玉焼きと一緒に提供されることがよくあります。通常、濃い地元のコーヒーもしくはアグアドゥルセ（サトウキビジュースから作られる『甘い水』）もあります。</p><p>エジプト</p><p>エジプトのどの町でも朝に訪れると、フル・メダメス（トマトと玉ねぎで調理したソラマメ）を売る露店を見つけることができます。ゆで卵をのせて、たくさんの平たいパンと一緒に食べます。漬物が通常サイドディッシュとして提供されます。多くの貧しいエジプト人にとって、これは夕食までの主要な食事です。この料理は『胃の中の岩』と言われています。</p><p>アイルランド</p><p>伝統的なアイルランドの朝食はフライと呼ばれ、ベジタリアンには向いていません！ベーコン、ブラックプディング（血で作られたソーセージの一種）、ホワイトプディング（別の種類のソーセージ）、目玉焼き、揚げマッシュルーム、トーストで構成され、すべて濃いアイルランドティーと一緒に提供されます！</p>",
+    "fr": "<p>On dit que le petit-déjeuner est le repas le plus important de la journée. C'est peut-être pourquoi la plupart des gens n'aiment pas changer leurs habitudes alimentaires du matin. Bien que nous puissions être ouverts à la nourriture étrangère au déjeuner ou au dîner, au petit-déjeuner, nous sommes des gens d'habitudes et nous ne sommes généralement pas assez aventureux pour expérimenter. Ci-dessous, nous examinons les petits-déjeuners typiques de cinq pays différents. En essayeriez-vous un ?</p><p>Corée du Sud</p><p>De toute évidence, la vie urbaine et les modes de vie chargés signifient que beaucoup de Coréens prennent simplement un café rapide et des céréales ou des toasts, mais beaucoup d'autres trouvent encore le temps pour le petit-déjeuner traditionnel de riz et de soupe. Les gens choisissent ensuite des plats supplémentaires comme du poisson grillé, des légumes et du kimchi, qui est du chou mariné avec des piments. Ce plat est si populaire que le premier astronaute coréen a emporté du kimchi spécial avec lui dans sa station spatiale !</p><p>Bulgarie</p><p>Le petit-déjeuner en Bulgarie comprend du thé ou du café fort, du pain au sésame et du beurre, du fromage de lait de brebis, du miel, des olives, des œufs durs et - le plus important - du kiselo mlyako, un yaourt local. La Bulgarie compte beaucoup de personnes âgées de plus de 100 ans et beaucoup croient que le secret derrière cela est leur yaourt, que la plupart des Bulgares mangent tous les jours.</p><p>Costa Rica</p><p>Beaucoup de Costa Ricains commencent leur journée avec le plat national, le gallo pinto, qui est un mélange de riz frit et de haricots noirs. Il est légèrement épicé et souvent servi avec du plantain frit (une sorte de banane utilisée comme légume dans beaucoup de cuisines d'Amérique centrale et des Caraïbes), de la crème et des œufs frits. Il y a généralement aussi du café local fort - ou peut-être de l'agua dulce ('eau douce'), qui est fabriqué à partir de jus de canne à sucre.</p><p>Égypte</p><p>Visitez n'importe quelle ville d'Égypte le matin et vous trouverez des étals de rue vendant du ful medammes - des fèves cuites avec des tomates et des oignons - et mangées avec un œuf dur dessus et beaucoup de pain plat. Les légumes marinés sont généralement servis en accompagnement. Pour beaucoup d'Égyptiens plus pauvres, c'est le repas principal jusqu'au dîner. On dit que ce plat est 'un rocher dans l'estomac'.</p><p>Irlande</p><p>Le petit-déjeuner irlandais traditionnel s'appelle un fry et n'est pas bon pour les végétariens ! Il se compose de bacon, de boudin noir (une sorte de saucisse faite avec du sang), de boudin blanc (une autre sorte de saucisse), d'œufs frits, de champignons frits et de toasts - le tout accompagné de thé irlandais fort !</p>",
+    "ko": "<p>아침 식사가 하루 중 가장 중요한 식사라고 합니다. 그것이 아마도 대부분의 사람들이 아침 식사 습관을 바꾸고 싶어하지 않는 이유일 것입니다. 점심이나 저녁에는 외국 음식에 열려 있을 수 있지만, 아침에는 우리는 습관의 사람들이며 실험할 만큼 모험적이지 않습니다. 아래에서는 다섯 가지 다른 나라의 전형적인 아침 식사를 살펴봅니다. 시도해보고 싶은 것이 있나요?</p><p>한국</p><p>도시 생활과 바쁜 라이프스타일로 인해 많은 한국인들은 커피와 시리얼이나 토스트를 간단히 먹지만, 다른 많은 사람들은 여전히 전통적인 아침 식사인 밥과 국을 먹을 시간을 냅니다. 그런 다음 구운 생선, 채소, 그리고 고추로 절인 양배추인 김치와 같은 추가 요리를 선택합니다. 이 요리는 너무 인기가 많아서 한국 최초의 우주비행사가 특별한 김치를 우주 정거장에 가져갔습니다!</p><p>불가리아</p><p>불가리아의 아침 식사에는 차나 진한 커피, 참깨 빵과 버터, 양젖으로 만든 치즈, 꿀, 올리브, 삶은 계란, 그리고 가장 중요한 키셀로 믈리아코라는 현지 요구르트가 포함됩니다. 불가리아에는 100세 이상의 사람들이 많으며, 많은 사람들이 그 비결이 그들의 요구르트에 있다고 믿고 있으며, 대부분의 불가리아인들이 매일 먹습니다.</p><p>코스타리카</p><p>많은 코스타리카인들은 국가 요리인 가요 핀토(볶음밥과 검은콩의 혼합물)로 하루를 시작합니다. 가볍게 양념되어 있으며, 튀긴 플랜테인(중앙아메리카와 카리브해 요리에서 야채처럼 사용되는 바나나의 일종), 크림, 그리고 계란 프라이와 함께 제공됩니다. 보통 진한 현지 커피나 아과 둘세(사탕수수 주스로 만든 '달콤한 물')도 있습니다.</p><p>이집트</p><p>이집트의 어떤 마을이든 아침에 방문하면 풀 메담메스(토마토와 양파로 조리한 누에콩)를 파는 노점을 찾을 수 있습니다. 삶은 계란을 얹고 많은 납작빵과 함께 먹습니다. 피클 채소가 일반적으로 사이드 디시로 제공됩니다. 많은 가난한 이집트인들에게 이것은 저녁 식사 전까지의 주요 식사입니다. 이 요리는 '위 속의 돌'이라고 불립니다.</p><p>아일랜드</p><p>전통적인 아일랜드 아침 식사는 프라이라고 불리며 채식주의자에게 좋지 않습니다! 베이컨, 블랙 푸딩(피로 만든 소시지의 일종), 화이트 푸딩(다른 종류의 소시지), 계란 프라이, 튀긴 버섯, 토스트로 구성되며, 모두 진한 아일랜드 차와 함께 제공됩니다!</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "Most people are very willing to try adventurous and exotic foods for breakfast.",
+        "correct": "F",
+        "explanation": "False (People of habit / Not adventurous at breakfast.)"
+      },
+      {
+        "question": "The first Korean astronaut carried kimchi with him into space because of its popularity.",
+        "correct": "T",
+        "explanation": "True (Kimchi taken to the space station by the first Korean astronaut.)"
+      },
+      {
+        "question": "Bulgarians believe that their local yoghurt, kiselo mlyako, is a secret to a long life.",
+        "correct": "T",
+        "explanation": "True (Yoghurt believed to be the secret behind living over 100.)"
+      },
+      {
+        "question": "In Costa Rica, 'agua dulce' is a type of local coffee made from roasted beans.",
+        "correct": "F",
+        "explanation": "False (Agua dulce is made from sugar cane juice, not coffee.)"
+      },
+      {
+        "question": "The traditional Irish breakfast is a great meal choice for people who are vegetarians.",
+        "correct": "F",
+        "explanation": "False (Not good for vegetarians; contains bacon and sausages.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "ほとんどの人は朝食に冒険的でエキゾチックな食べ物を喜んで試します。",
+        "correct": "F",
+        "explanation": "偽 (習慣の生き物 / 朝食では冒険的ではない。)"
+      },
+      {
+        "question": "韓国人初の宇宙飛行士は、キムチの人気の高さから宇宙にキムチを持ち込みました。",
+        "correct": "T",
+        "explanation": "真 (韓国人初の宇宙飛行士によってキムチが宇宙ステーションに持ち込まれた。)"
+      },
+      {
+        "question": "ブルガリア人は、地元のヨーグルトであるキセロ・ムリャコが長寿の秘訣だと信じています。",
+        "correct": "T",
+        "explanation": "真 (ヨーグルトが100歳以上生きる秘訣だと信じられている。)"
+      },
+      {
+        "question": "コスタリカでは、「アグアドゥルセ」は焙煎した豆から作られる地元のコーヒーの一種です。",
+        "correct": "F",
+        "explanation": "偽 (アグアドゥルセはコーヒーではなくサトウキビジュースから作られる。)"
+      },
+      {
+        "question": "伝統的なアイルランドの朝食は、ベジタリアンにとって素晴らしい食事の選択肢です。",
+        "correct": "F",
+        "explanation": "偽 (ベジタリアンには良くない；ベーコンとソーセージが含まれている。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "La plupart des gens sont très disposés à essayer des aliments aventureux et exotiques pour le petit-déjeuner.",
+        "correct": "F",
+        "explanation": "Faux (Gens d'habitudes / Pas aventureux au petit-déjeuner.)"
+      },
+      {
+        "question": "Le premier astronaute coréen a emporté du kimchi avec lui dans l'espace en raison de sa popularité.",
+        "correct": "T",
+        "explanation": "Vrai (Kimchi emporté vers la station spatiale par le premier astronaute coréen.)"
+      },
+      {
+        "question": "Les Bulgares croient que leur yaourt local, le kiselo mlyako, est un secret pour une longue vie.",
+        "correct": "T",
+        "explanation": "Vrai (Le yaourt serait le secret pour vivre plus de 100 ans.)"
+      },
+      {
+        "question": "Au Costa Rica, l' 'agua dulce' est un type de café local fabriqué à partir de grains torréfiés.",
+        "correct": "F",
+        "explanation": "Faux (L'agua dulce est fabriqué à partir de jus de canne à sucre, pas de café.)"
+      },
+      {
+        "question": "Le petit-déjeuner irlandais traditionnel est un excellent choix de repas pour les personnes végétariennes.",
+        "correct": "F",
+        "explanation": "Faux (Pas bon pour les végétariens ; contient du bacon et des saucisses.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "대부분의 사람들은 아침 식사로 모험적이고 이국적인 음식을 기꺼이 시도한다.",
+        "correct": "F",
+        "explanation": "거짓 (습관의 사람들 / 아침에는 모험적이지 않음.)"
+      },
+      {
+        "question": "한국 최초의 우주비행사는 김치의 인기 때문에 김치를 우주에 가져갔다.",
+        "correct": "T",
+        "explanation": "참 (한국 최초의 우주비행사가 김치를 우주 정거장에 가져감.)"
+      },
+      {
+        "question": "불가리아인들은 그들의 현지 요구르트인 키셀로 믈리아코가 장수의 비결이라고 믿는다.",
+        "correct": "T",
+        "explanation": "참 (요구르트가 100세 이상 사는 비결로 여겨짐.)"
+      },
+      {
+        "question": "코스타리카에서 '아과 둘세'는 볶은 콩으로 만든 현지 커피의 일종이다.",
+        "correct": "F",
+        "explanation": "거짓 (아과 둘세는 커피가 아니라 사탕수수 주스로 만듦.)"
+      },
+      {
+        "question": "전통적인 아일랜드 아침 식사는 채식주의자에게 좋은 식사 선택이다.",
+        "correct": "F",
+        "explanation": "거짓 (채식주의자에게 좋지 않음; 베이컨과 소시지 포함.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "people of habit",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "traditional breakfast of rice and soup",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "At breakfast, we are people of habit who still enjoy a traditional breakfast of rice and soup.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "grab a quick coffee",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "pickled cabbage with chillies",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Many busy people just grab a quick coffee, while others eat kimchi, which is pickled cabbage with chillies.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most of us are people of habit in the morning. While some grab a quick coffee due to busy lives, many Koreans still prefer a traditional breakfast of rice and soup with kimchi, a famous pickled cabbage with chillies.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "secret behind this",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "mixture of fried rice and black beans",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "Bulgarians believe yoghurt is the secret behind this long life, while Costa Ricans eat a mixture of fried rice and black beans.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "a rock in the stomach",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "not good for vegetarians",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "The Egyptian ful medammes is like a rock in the stomach, and the Irish fry is not good for vegetarians.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "Local yoghurt is thought to be the secret behind this longevity in Bulgaria. In Costa Rica, they serve a mixture of fried rice and black beans, whereas the heavy Egyptian breakfast feels like a rock in the stomach. Finally, the traditional Irish fry is definitely not good for vegetarians.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "We are people of habit who often grab a quick coffee or eat a traditional breakfast of rice and soup. Whether it's pickled cabbage with chillies in Korea or a mixture of fried rice and black beans in Costa Rica, every culture has its specialty. Some believe their food is the secret behind this health, while others eat heavy meals that feel like a rock in the stomach, even if they are not good for vegetarians.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "習慣の生き物",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "伝統的なご飯とスープの朝食",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "朝食では、私たちは習慣の生き物であり、伝統的なご飯とスープの朝食を楽しんでいます。",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "gens d'habitudes",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "petit-déjeuner traditionnel de riz et de soupe",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "Au petit-déjeuner, nous sommes des gens d'habitudes qui apprécient encore un petit-déjeuner traditionnel de riz et de soupe.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "습관의 사람들",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "전통적인 밥과 국 아침",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "아침 식사에서 우리는 전통적인 밥과 국 아침을 여전히 즐기는 습관의 사람들입니다.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "chunk",
+        "text": "커피를 급하게 마시다",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "chunk",
+        "text": "고추로 절인 양배추",
+        "color": "#27ae60",
+        "bg": "#ebf7ee"
+      },
+      {
+        "type": "sentence",
+        "text": "많은 바쁜 사람들은 그냥 커피를 급하게 마시는 반면, 다른 사람들은 고추로 절인 양배추인 김치를 먹습니다.",
+        "color": "#1e8449",
+        "bg": "#e8f5e9"
+      },
+      {
+        "type": "paragraph",
+        "text": "대부분의 우리는 아침에 습관의 사람들입니다. 어떤 이들은 바쁜 생활 때문에 커피를 급하게 마시는 반면, 많은 한국인들은 여전히 김치와 함께하는 전통적인 밥과 국 아침을 선호합니다. 김치는 고추로 절인 양배추로 유명합니다.",
+        "color": "#2c3e50",
+        "bg": "#f1f8e9"
+      },
+      {
+        "type": "chunk",
+        "text": "이면의 비밀",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "볶음밥과 검은콩의 혼합물",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "불가리아인들은 요구르트가 장수의 이면의 비밀이라고 믿는 반면, 코스타리카인들은 볶음밥과 검은콩의 혼합물을 먹습니다.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "chunk",
+        "text": "위 속의 돌",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "chunk",
+        "text": "채식주의자에게 좋지 않음",
+        "color": "#e67e22",
+        "bg": "#fef5e7"
+      },
+      {
+        "type": "sentence",
+        "text": "이집트 풀 메담메스는 위 속의 돌과 같고, 아일랜드 프라이는 채식주의자에게 좋지 않습니다.",
+        "color": "#d35400",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "현지 요구르트는 불가리아의 장수의 이면의 비밀이라고 여겨집니다. 코스타리카에서는 볶음밥과 검은콩의 혼합물을 제공하는 반면, 무거운 이집트 아침 식사는 위 속의 돌처럼 느껴집니다. 마지막으로 전통적인 아일랜드 프라이는 확실히 채식주의자에게 좋지 않습니다.",
+        "color": "#2c3e50",
+        "bg": "#fff3e0"
+      },
+      {
+        "type": "paragraph",
+        "text": "우리는 종종 커피를 급하게 마시거나 전통적인 밥과 국 아침을 먹는 습관의 사람들입니다. 한국의 고추로 절인 양배추이든 코스타리카의 볶음밥과 검은콩의 혼합물이든, 모든 문화에는 그 특산물이 있습니다. 어떤 이들은 그들의 음식이 건강의 이면의 비밀이라고 믿는 반면, 다른 이들은 채식주의자에게 좋지 않더라도 위 속의 돌처럼 느껴지는 무거운 식사를 합니다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Form and Structure (Present Perfect)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Affirmative</strong>: Subject + <strong>have/has</strong> + past participle (e.g., worked, seen, been).</p><p style='margin:5px 0;'><strong>• Negative</strong>: Subject + <strong>haven't/hasn't</strong> + past participle.</p><p style='margin:5px 0;'><strong>• Question</strong>: <strong>Have/Has</strong> + subject + past participle?</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> 'I <span style='color:#e67e22; font-weight:bold;'>have visited</span> Paris twice.'<br><i style='color:#7f8c8d;'>(Unspecified past experience)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'She <span style='color:#16a085; font-weight:bold;'>hasn't finished</span> her homework yet.'<br><i style='color:#7f8c8d;'>(Negative form)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> '<span style='color:#2980b9; font-weight:bold;'>Have</span> you <span style='color:#2980b9; font-weight:bold;'>ever been</span> to Japan?'<br><i style='color:#7f8c8d;'>(Question about experiences)</i></li></ul><h3>2. Using 'Too' and 'Not Enough' for Complaints</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Too + adjective</strong>: Expresses excess (more than desired).</p><p style='margin:5px 0;'><strong>• Not + adjective + enough</strong>: Expresses deficiency (less than desired).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'This coffee is <span style='color:#2980b9; font-weight:bold;'>too hot</span> to drink.'<br><i style='color:#7f8c8d;'>(Complaint about excess)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'The room <span style='color:#2980b9; font-weight:bold;'>isn't big enough</span> for everyone.'<br><i style='color:#7f8c8d;'>(Complaint about deficiency)</i></li></ul><h3>3. Polite Suggestions Using Would/Could/Shall</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• Would like to</strong>: Polite desire or wish.</p><p style='margin:5px 0;'><strong>• Could + base verb</strong>: Polite request or suggestion.</p><p style='margin:5px 0;'><strong>• Shall I/we</strong>: Offer or suggestion (British English).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'I <span style='color:#d35400; font-weight:bold;'>would like to</span> order the steak.'<br><i style='color:#7f8c8d;'>(Polite desire)</i></li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> '<span style='color:#d35400; font-weight:bold;'>Could</span> you <span style='color:#d35400; font-weight:bold;'>help</span> me with this?'<br><i style='color:#7f8c8d;'>(Polite request)</i></li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> '<span style='color:#d35400; font-weight:bold;'>Shall</span> I <span style='color:#d35400; font-weight:bold;'>open</span> the window?'<br><i style='color:#7f8c8d;'>(Polite offer)</i></li></ul>",
+    "ko": "<p><em>문법 노트는 현재 영어로만 제공됩니다. 한국어 버전은 추후 추가될 예정입니다.</em></p>",
+    "ja": "<p><em>文法ノートは現在英語のみ利用可能です。日本語版は後日追加されます。</em></p>",
+    "fr": "<p><em>Les notes de grammaire sont actuellement disponibles uniquement en anglais. La version française sera ajoutée ultérieurement.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Personal Taste & Dining Choices</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: preferences, establishment, arrangements, book a table, in advance</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. To avoid a long wait at a popular restaurant, you should <select class='vocab-select'><option value=''>── select ──</option><option value='preferences'>preferences</option><option value='establishment'>establishment</option><option value='arrangements'>arrangements</option><option value='book a table'>book a table</option><option value='in advance'>in advance</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='book a table' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Making practical <select class='vocab-select'><option value=''>── select ──</option><option value='preferences'>preferences</option><option value='establishment'>establishment</option><option value='arrangements'>arrangements</option><option value='book a table'>book a table</option><option value='in advance'>in advance</option></select> like choosing a meeting time and place is part of dining out.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='arrangements' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. A Turkish restaurant is a good example of an <select class='vocab-select'><option value=''>── select ──</option><option value='preferences'>preferences</option><option value='establishment'>establishment</option><option value='arrangements'>arrangements</option><option value='book a table'>book a table</option><option value='in advance'>in advance</option></select> that offers a wide selection of dishes.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='establishment' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Everyone has their own food <select class='vocab-select'><option value=''>── select ──</option><option value='preferences'>preferences</option><option value='establishment'>establishment</option><option value='arrangements'>arrangements</option><option value='book a table'>book a table</option><option value='in advance'>in advance</option></select>, such as liking spicy food or avoiding red meat.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='preferences' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. You need to make a reservation <select class='vocab-select'><option value=''>── select ──</option><option value='preferences'>preferences</option><option value='establishment'>establishment</option><option value='arrangements'>arrangements</option><option value='book a table'>book a table</option><option value='in advance'>in advance</option></select> to guarantee a table.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='in advance' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Social Interaction & Communication</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: interaction, inquire, cultural background, illustrates, exotic</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. The reading about breakfast <select class='vocab-select'><option value=''>── select ──</option><option value='interaction'>interaction</option><option value='inquire'>inquire</option><option value='cultural background'>cultural background</option><option value='illustrates'>illustrates</option><option value='exotic'>exotic</option></select> that we tend to eat familiar foods in the morning.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='illustrates' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. If you have special dietary needs, you should <select class='vocab-select'><option value=''>── select ──</option><option value='interaction'>interaction</option><option value='inquire'>inquire</option><option value='cultural background'>cultural background</option><option value='illustrates'>illustrates</option><option value='exotic'>exotic</option></select> about the ingredients before ordering.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='inquire' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Many people enjoy trying <select class='vocab-select'><option value=''>── select ──</option><option value='interaction'>interaction</option><option value='inquire'>inquire</option><option value='cultural background'>cultural background</option><option value='illustrates'>illustrates</option><option value='exotic'>exotic</option></select> foreign foods when they travel.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='exotic' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. The <select class='vocab-select'><option value=''>── select ──</option><option value='interaction'>interaction</option><option value='inquire'>inquire</option><option value='cultural background'>cultural background</option><option value='illustrates'>illustrates</option><option value='exotic'>exotic</option></select> between customers and staff can make a meal more enjoyable.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='interaction' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. Our food choices are deeply connected to our <select class='vocab-select'><option value=''>── select ──</option><option value='interaction'>interaction</option><option value='inquire'>inquire</option><option value='cultural background'>cultural background</option><option value='illustrates'>illustrates</option><option value='exotic'>exotic</option></select>.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='cultural background' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Trying New Things & Habits</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: adventurous, experiment, extreme situations, astronaut, vital link</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. A Korean <select class='vocab-select'><option value=''>── select ──</option><option value='adventurous'>adventurous</option><option value='experiment'>experiment</option><option value='extreme situations'>extreme situations</option><option value='astronaut'>astronaut</option><option value='vital link'>vital link</option></select> took kimchi to the space station.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='astronaut' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Traditional food is a <select class='vocab-select'><option value=''>── select ──</option><option value='adventurous'>adventurous</option><option value='experiment'>experiment</option><option value='extreme situations'>extreme situations</option><option value='astronaut'>astronaut</option><option value='vital link'>vital link</option></select> to our home culture.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='vital link' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Our morning food habits stay with us even in <select class='vocab-select'><option value=''>── select ──</option><option value='adventurous'>adventurous</option><option value='experiment'>experiment</option><option value='extreme situations'>extreme situations</option><option value='astronaut'>astronaut</option><option value='vital link'>vital link</option></select> like traveling or living abroad.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='extreme situations' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Some people are not <select class='vocab-select'><option value=''>── select ──</option><option value='adventurous'>adventurous</option><option value='experiment'>experiment</option><option value='extreme situations'>extreme situations</option><option value='astronaut'>astronaut</option><option value='vital link'>vital link</option></select> enough to try new foods for breakfast.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='adventurous' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. It is fun to <select class='vocab-select'><option value=''>── select ──</option><option value='adventurous'>adventurous</option><option value='experiment'>experiment</option><option value='extreme situations'>extreme situations</option><option value='astronaut'>astronaut</option><option value='vital link'>vital link</option></select> with new recipes at home.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='experiment' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Understanding Food & Culture</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: reflects, willingness, diverse, customs, appreciate</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Our <select class='vocab-select'><option value=''>── select ──</option><option value='reflects'>reflects</option><option value='willingness'>willingness</option><option value='diverse'>diverse</option><option value='customs'>customs</option><option value='appreciate'>appreciate</option></select> to try new foods shows how open-minded we are.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='willingness' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Different cultures have different food <select class='vocab-select'><option value=''>── select ──</option><option value='reflects'>reflects</option><option value='willingness'>willingness</option><option value='diverse'>diverse</option><option value='customs'>customs</option><option value='appreciate'>appreciate</option></select> and traditions.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='customs' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. When we travel, we learn to <select class='vocab-select'><option value=''>── select ──</option><option value='reflects'>reflects</option><option value='willingness'>willingness</option><option value='diverse'>diverse</option><option value='customs'>customs</option><option value='appreciate'>appreciate</option></select> different flavors and ways of life.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='appreciate' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. There are <select class='vocab-select'><option value=''>── select ──</option><option value='reflects'>reflects</option><option value='willingness'>willingness</option><option value='diverse'>diverse</option><option value='customs'>customs</option><option value='appreciate'>appreciate</option></select> eating habits around the world.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='diverse' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. What we eat <select class='vocab-select'><option value=''>── select ──</option><option value='reflects'>reflects</option><option value='willingness'>willingness</option><option value='diverse'>diverse</option><option value='customs'>customs</option><option value='appreciate'>appreciate</option></select> our lifestyle and personality.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='reflects' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ1: 個人の好みと食事の選択</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 好み, 飲食店, 手配, テーブルを予約する, 事前に</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 人気レストランでの長い待ち時間を避けるには、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='好み'>好み</option><option value='飲食店'>飲食店</option><option value='手配'>手配</option><option value='テーブルを予約する'>テーブルを予約する</option><option value='事前に'>事前に</option></select>必要があります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='テーブルを予約する' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 待ち合わせ時間や場所を決めるなどの実用的な<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='好み'>好み</option><option value='飲食店'>飲食店</option><option value='手配'>手配</option><option value='テーブルを予約する'>テーブルを予約する</option><option value='事前に'>事前に</option></select>は外食の一部です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='手配' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. トルコ料理店は、幅広い料理を提供する<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='好み'>好み</option><option value='飲食店'>飲食店</option><option value='手配'>手配</option><option value='テーブルを予約する'>テーブルを予約する</option><option value='事前に'>事前に</option></select>の良い例です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='飲食店' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 辛い食べ物が好きとか赤身肉を避けるなど、誰にでも食べ物の<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='好み'>好み</option><option value='飲食店'>飲食店</option><option value='手配'>手配</option><option value='テーブルを予約する'>テーブルを予約する</option><option value='事前に'>事前に</option></select>があります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='好み' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. 席を確実に確保するには、<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='好み'>好み</option><option value='飲食店'>飲食店</option><option value='手配'>手配</option><option value='テーブルを予約する'>テーブルを予約する</option><option value='事前に'>事前に</option></select>予約をする必要があります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='事前に' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ2: 社会的交流とコミュニケーション</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: やり取り, 尋ねる, 文化的背景, 示す, エキゾチックな</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 朝食に関する読み物は、私たちが朝は慣れ親しんだ食べ物を食べる傾向があることを<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='やり取り'>やり取り</option><option value='尋ねる'>尋ねる</option><option value='文化的背景'>文化的背景</option><option value='示す'>示す</option><option value='エキゾチックな'>エキゾチックな</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='示す' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 特別な食事制限がある場合は、注文する前に材料について<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='やり取り'>やり取り</option><option value='尋ねる'>尋ねる</option><option value='文化的背景'>文化的背景</option><option value='示す'>示す</option><option value='エキゾチックな'>エキゾチックな</option></select>べきです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='尋ねる' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 旅行するとき、多くの人は<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='やり取り'>やり取り</option><option value='尋ねる'>尋ねる</option><option value='文化的背景'>文化的背景</option><option value='示す'>示す</option><option value='エキゾチックな'>エキゾチックな</option></select>外国料理を試すことを楽しみます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='エキゾチックな' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 客とスタッフの<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='やり取り'>やり取り</option><option value='尋ねる'>尋ねる</option><option value='文化的背景'>文化的背景</option><option value='示す'>示す</option><option value='エキゾチックな'>エキゾチックな</option></select>は食事をより楽しいものにします。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='やり取り' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 私たちの食べ物の選択は、私たちの<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='やり取り'>やり取り</option><option value='尋ねる'>尋ねる</option><option value='文化的背景'>文化的背景</option><option value='示す'>示す</option><option value='エキゾチックな'>エキゾチックな</option></select>と深く結びついています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='文化的背景' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ3: 新しいことへの挑戦と習慣</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 冒険心のある, 試してみる, 極端な状況, 宇宙飛行士, 重要なつながり</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 韓国人の<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='冒険心のある'>冒険心のある</option><option value='試してみる'>試してみる</option><option value='極端な状況'>極端な状況</option><option value='宇宙飛行士'>宇宙飛行士</option><option value='重要なつながり'>重要なつながり</option></select>がキムチを宇宙ステーションに持ち込みました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='宇宙飛行士' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 伝統的な食べ物は、故郷の文化との<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='冒険心のある'>冒険心のある</option><option value='試してみる'>試してみる</option><option value='極端な状況'>極端な状況</option><option value='宇宙飛行士'>宇宙飛行士</option><option value='重要なつながり'>重要なつながり</option></select>です。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='重要なつながり' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 私たちの朝の食習慣は、旅行や海外生活などの<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='冒険心のある'>冒険心のある</option><option value='試してみる'>試してみる</option><option value='極端な状況'>極端な状況</option><option value='宇宙飛行士'>宇宙飛行士</option><option value='重要なつながり'>重要なつながり</option></select>でも私たちと共にあります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='極端な状況' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 朝食に新しい食べ物を試すほど<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='冒険心のある'>冒険心のある</option><option value='試してみる'>試してみる</option><option value='極端な状況'>極端な状況</option><option value='宇宙飛行士'>宇宙飛行士</option><option value='重要なつながり'>重要なつながり</option></select>人は多くありません。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='冒険心のある' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. 家で新しいレシピを<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='冒険心のある'>冒険心のある</option><option value='試してみる'>試してみる</option><option value='極端な状況'>極端な状況</option><option value='宇宙飛行士'>宇宙飛行士</option><option value='重要なつながり'>重要なつながり</option></select>のは楽しいことです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='試してみる' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ4: 食べ物と文化の理解</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 反映する, 意欲, 多様な, 習慣, 味わう</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 新しい食べ物を試そうとする<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='反映する'>反映する</option><option value='意欲'>意欲</option><option value='多様な'>多様な</option><option value='習慣'>習慣</option><option value='味わう'>味わう</option></select>は、私たちがどれだけ心が開かれているかを示します。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='意欲' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 文化が異なれば、食べ物に関する<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='反映する'>反映する</option><option value='意欲'>意欲</option><option value='多様な'>多様な</option><option value='習慣'>習慣</option><option value='味わう'>味わう</option></select>や伝統も異なります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='習慣' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 旅行するとき、私たちはさまざまな味や生活様式を<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='反映する'>反映する</option><option value='意欲'>意欲</option><option value='多様な'>多様な</option><option value='習慣'>習慣</option><option value='味わう'>味わう</option></select>ことを学びます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='味わう' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 世界中には<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='反映する'>反映する</option><option value='意欲'>意欲</option><option value='多様な'>多様な</option><option value='習慣'>習慣</option><option value='味わう'>味わう</option></select>食習慣が存在します。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='多様な' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 私たちが何を食べるかは、私たちのライフスタイルや性格を<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='反映する'>反映する</option><option value='意欲'>意欲</option><option value='多様な'>多様な</option><option value='習慣'>習慣</option><option value='味わう'>味わう</option></select>。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='反映する' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1: Goûts personnels et choix alimentaires</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: préférences, établissement, arrangements, réserver une table, à l'avance</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. Pour éviter une longue attente dans un restaurant populaire, vous devriez <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='préférences'>préférences</option><option value='établissement'>établissement</option><option value='arrangements'>arrangements</option><option value='réserver une table'>réserver une table</option><option value='à l'avance'>à l'avance</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='réserver une table' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Prendre des <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='préférences'>préférences</option><option value='établissement'>établissement</option><option value='arrangements'>arrangements</option><option value='réserver une table'>réserver une table</option><option value='à l'avance'>à l'avance</option></select> pratiques comme choisir un lieu et une heure de rendez-vous fait partie des sorties au restaurant.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='arrangements' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Un restaurant turc est un bon exemple d'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='préférences'>préférences</option><option value='établissement'>établissement</option><option value='arrangements'>arrangements</option><option value='réserver une table'>réserver une table</option><option value='à l'avance'>à l'avance</option></select> qui offre une large sélection de plats.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='établissement' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Chacun a ses propres <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='préférences'>préférences</option><option value='établissement'>établissement</option><option value='arrangements'>arrangements</option><option value='réserver une table'>réserver une table</option><option value='à l'avance'>à l'avance</option></select> alimentaires, comme aimer la nourriture épicée ou éviter la viande rouge.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='préférences' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. Vous devez réserver <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='préférences'>préférences</option><option value='établissement'>établissement</option><option value='arrangements'>arrangements</option><option value='réserver une table'>réserver une table</option><option value='à l'avance'>à l'avance</option></select> pour garantir une table.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='à l'avance' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2: Interaction sociale et communication</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: interaction, s'informer, origine culturelle, illustre, exotiques</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. La lecture sur les petits-déjeuners <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interaction'>interaction</option><option value=\"s'informer\">s'informer</option><option value='origine culturelle'>origine culturelle</option><option value='illustre'>illustre</option><option value='exotiques'>exotiques</option></select> que nous avons tendance à manger des aliments familiers le matin.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='illustre' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Si vous avez des besoins alimentaires particuliers, vous devriez vous <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interaction'>interaction</option><option value=\"s'informer\">s'informer</option><option value='origine culturelle'>origine culturelle</option><option value='illustre'>illustre</option><option value='exotiques'>exotiques</option></select> des ingrédients avant de commander.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct=\"s'informer\" style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Beaucoup de gens aiment essayer des plats étrangers <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interaction'>interaction</option><option value=\"s'informer\">s'informer</option><option value='origine culturelle'>origine culturelle</option><option value='illustre'>illustre</option><option value='exotiques'>exotiques</option></select> lorsqu'ils voyagent.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='exotiques' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. L'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interaction'>interaction</option><option value=\"s'informer\">s'informer</option><option value='origine culturelle'>origine culturelle</option><option value='illustre'>illustre</option><option value='exotiques'>exotiques</option></select> entre les clients et le personnel peut rendre un repas plus agréable.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='interaction' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. Nos choix alimentaires sont profondément liés à notre <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='interaction'>interaction</option><option value=\"s'informer\">s'informer</option><option value='origine culturelle'>origine culturelle</option><option value='illustre'>illustre</option><option value='exotiques'>exotiques</option></select>.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='origine culturelle' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3: Essayer de nouvelles choses et habitudes</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: aventureux, expérimenter, situations extrêmes, astronaute, lien vital</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. Un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='aventureux'>aventureux</option><option value='expérimenter'>expérimenter</option><option value='situations extrêmes'>situations extrêmes</option><option value='astronaute'>astronaute</option><option value='lien vital'>lien vital</option></select> coréen a emporté du kimchi spécialement préparé vers la station spatiale.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='astronaute' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. La nourriture traditionnelle est un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='aventureux'>aventureux</option><option value='expérimenter'>expérimenter</option><option value='situations extrêmes'>situations extrêmes</option><option value='astronaute'>astronaute</option><option value='lien vital'>lien vital</option></select> avec notre culture d'origine.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='lien vital' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Nos habitudes matinales restent avec nous même dans des <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='aventureux'>aventureux</option><option value='expérimenter'>expérimenter</option><option value='situations extrêmes'>situations extrêmes</option><option value='astronaute'>astronaute</option><option value='lien vital'>lien vital</option></select> comme les voyages ou la vie à l'étranger.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='situations extrêmes' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Beaucoup de gens ne sont pas assez <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='aventureux'>aventureux</option><option value='expérimenter'>expérimenter</option><option value='situations extrêmes'>situations extrêmes</option><option value='astronaute'>astronaute</option><option value='lien vital'>lien vital</option></select> pour essayer de nouveaux aliments au petit-déjeuner.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='aventureux' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. C'est amusant d'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='aventureux'>aventureux</option><option value='expérimenter'>expérimenter</option><option value='situations extrêmes'>situations extrêmes</option><option value='astronaute'>astronaute</option><option value='lien vital'>lien vital</option></select> avec de nouvelles recettes à la maison.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='expérimenter' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4: Comprendre la nourriture et la culture</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: reflète, volonté, diverses, coutumes, apprécier</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Notre <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='reflète'>reflète</option><option value='volonté'>volonté</option><option value='diverses'>diverses</option><option value='coutumes'>coutumes</option><option value='apprécier'>apprécier</option></select> d'essayer de nouveaux aliments montre à quel point nous sommes ouverts d'esprit.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='volonté' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. Différentes cultures ont différentes <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='reflète'>reflète</option><option value='volonté'>volonté</option><option value='diverses'>diverses</option><option value='coutumes'>coutumes</option><option value='apprécier'>apprécier</option></select> et traditions alimentaires.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='coutumes' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Lorsque nous voyageons, nous apprenons à <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='reflète'>reflète</option><option value='volonté'>volonté</option><option value='diverses'>diverses</option><option value='coutumes'>coutumes</option><option value='apprécier'>apprécier</option></select> différentes saveurs et modes de vie.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='apprécier' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Il existe des habitudes alimentaires <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='reflète'>reflète</option><option value='volonté'>volonté</option><option value='diverses'>diverses</option><option value='coutumes'>coutumes</option><option value='apprécier'>apprécier</option></select> à travers le monde.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='diverses' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. Ce que nous mangeons <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='reflète'>reflète</option><option value='volonté'>volonté</option><option value='diverses'>diverses</option><option value='coutumes'>coutumes</option><option value='apprécier'>apprécier</option></select> notre mode de vie et notre personnalité.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='reflète' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 개인 취향과 식사 선택</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 선호, 음식점, 준비, 테이블 예약하기, 사전에</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 인기 레스토랑에서 오래 기다리지 않으려면 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='선호'>선호</option><option value='음식점'>음식점</option><option value='준비'>준비</option><option value='테이블 예약하기'>테이블 예약하기</option><option value='사전에'>사전에</option></select> 해야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='테이블 예약하기' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 만남 시간과 장소를 정하는 것과 같은 실용적인 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='선호'>선호</option><option value='음식점'>음식점</option><option value='준비'>준비</option><option value='테이블 예약하기'>테이블 예약하기</option><option value='사전에'>사전에</option></select>는 외식의 일부입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='준비' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 터키 레스토랑은 다양한 요리를 제공하는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='선호'>선호</option><option value='음식점'>음식점</option><option value='준비'>준비</option><option value='테이블 예약하기'>테이블 예약하기</option><option value='사전에'>사전에</option></select>의 좋은 예입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='음식점' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 매운 음식을 좋아하거나 붉은 고기를 피하는 것과 같이 누구에게나 자신만의 음식 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='선호'>선호</option><option value='음식점'>음식점</option><option value='준비'>준비</option><option value='테이블 예약하기'>테이블 예약하기</option><option value='사전에'>사전에</option></select>가 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='선호' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>5. 테이블을 확보하려면 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='선호'>선호</option><option value='음식점'>음식점</option><option value='준비'>준비</option><option value='테이블 예약하기'>테이블 예약하기</option><option value='사전에'>사전에</option></select> 예약해야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='사전에' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 사회적 상호작용과 의사소통</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 상호작용, 문의하다, 문화적 배경, 보여주다, 이국적인</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 아침 식사에 관한 읽을거리는 우리가 아침에는 익숙한 음식을 먹는 경향이 있음을 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='상호작용'>상호작용</option><option value='문의하다'>문의하다</option><option value='문화적 배경'>문화적 배경</option><option value='보여주다'>보여주다</option><option value='이국적인'>이국적인</option></select>.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='보여주다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 특별한 식이 제한이 있는 경우, 주문하기 전에 재료에 대해 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='상호작용'>상호작용</option><option value='문의하다'>문의하다</option><option value='문화적 배경'>문화적 배경</option><option value='보여주다'>보여주다</option><option value='이국적인'>이국적인</option></select> 해야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='문의하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 여행할 때 많은 사람들이 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='상호작용'>상호작용</option><option value='문의하다'>문의하다</option><option value='문화적 배경'>문화적 배경</option><option value='보여주다'>보여주다</option><option value='이국적인'>이국적인</option></select> 외국 음식을 시도하는 것을 즐깁니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='이국적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 고객과 직원 간의 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='상호작용'>상호작용</option><option value='문의하다'>문의하다</option><option value='문화적 배경'>문화적 배경</option><option value='보여주다'>보여주다</option><option value='이국적인'>이국적인</option></select>은 식사를 더 즐겁게 만듭니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='상호작용' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 우리의 음식 선택은 우리의 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='상호작용'>상호작용</option><option value='문의하다'>문의하다</option><option value='문화적 배경'>문화적 배경</option><option value='보여주다'>보여주다</option><option value='이국적인'>이국적인</option></select>과 깊이 연결되어 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='문화적 배경' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3: 새로운 것 시도하기와 습관</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 모험적인, 시도하다, 극한 상황, 우주비행사, 중요한 연결 고리</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 한국인 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='모험적인'>모험적인</option><option value='시도하다'>시도하다</option><option value='극한 상황'>극한 상황</option><option value='우주비행사'>우주비행사</option><option value='중요한 연결 고리'>중요한 연결 고리</option></select>가 특별히 준비된 김치를 우주 정거장에 가져갔습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='우주비행사' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. 전통 음식은 고향 문화와의 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='모험적인'>모험적인</option><option value='시도하다'>시도하다</option><option value='극한 상황'>극한 상황</option><option value='우주비행사'>우주비행사</option><option value='중요한 연결 고리'>중요한 연결 고리</option></select>입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='중요한 연결 고리' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. 우리의 아침 식사 습관은 여행이나 해외 생활 같은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='모험적인'>모험적인</option><option value='시도하다'>시도하다</option><option value='극한 상황'>극한 상황</option><option value='우주비행사'>우주비행사</option><option value='중요한 연결 고리'>중요한 연결 고리</option></select>에서도 우리와 함께합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='극한 상황' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. 아침 식사로 새로운 음식을 시도할 만큼 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='모험적인'>모험적인</option><option value='시도하다'>시도하다</option><option value='극한 상황'>극한 상황</option><option value='우주비행사'>우주비행사</option><option value='중요한 연결 고리'>중요한 연결 고리</option></select> 사람은 많지 않습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='모험적인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>15. 집에서 새로운 레시피를 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='모험적인'>모험적인</option><option value='시도하다'>시도하다</option><option value='극한 상황'>극한 상황</option><option value='우주비행사'>우주비행사</option><option value='중요한 연결 고리'>중요한 연결 고리</option></select>는 것은 재미있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='시도하다' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4: 음식과 문화 이해하기</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 반영하다, 의지, 다양한, 관습, 이해하고 즐기다</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. 새로운 음식을 시도하려는 우리의 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='반영하다'>반영하다</option><option value='의지'>의지</option><option value='다양한'>다양한</option><option value='관습'>관습</option><option value='이해하고 즐기다'>이해하고 즐기다</option></select>는 우리가 얼마나 개방적인지 보여줍니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='의지' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 다른 문화는 다른 음식 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='반영하다'>반영하다</option><option value='의지'>의지</option><option value='다양한'>다양한</option><option value='관습'>관습</option><option value='이해하고 즐기다'>이해하고 즐기다</option></select>과 전통을 가지고 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='관습' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 여행할 때 우리는 다양한 맛과 삶의 방식을 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='반영하다'>반영하다</option><option value='의지'>의지</option><option value='다양한'>다양한</option><option value='관습'>관습</option><option value='이해하고 즐기다'>이해하고 즐기다</option></select> 법을 배웁니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='이해하고 즐기다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. 전 세계에는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='반영하다'>반영하다</option><option value='의지'>의지</option><option value='다양한'>다양한</option><option value='관습'>관습</option><option value='이해하고 즐기다'>이해하고 즐기다</option></select> 식사 습관이 존재합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='다양한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>20. 우리가 무엇을 먹는지는 우리의 라이프스타일과 성격을 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='반영하다'>반영하다</option><option value='의지'>의지</option><option value='다양한'>다양한</option><option value='관습'>관습</option><option value='이해하고 즐기다'>이해하고 즐기다</option></select>.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='반영하다' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "According to the text, why is choosing what we eat considered more than just 'satisfying hunger,' and what does it reveal about us?",
+    "ja": "テキストによると、何を食べるかを選ぶことが単に「空腹を満たす」以上のものと考えられる理由は何ですか？また、それは私たちについて何を明らかにしますか？",
+    "fr": "Selon le texte, pourquoi choisir ce que nous mangeons est-il considéré comme plus que simplement 'satisfaire la faim', et qu'est-ce que cela révèle de nous ?",
+    "ko": "본문에 따르면, 무엇을 먹을지 선택하는 것이 단순히 '배고픔을 해결하는 것' 이상으로 여겨지는 이유는 무엇이며, 그것은 우리에 대해 무엇을 드러내나요?"
+  },
+  "content_check_keywords": {
+    "en": "identity, cultural background, habit, connection, respect for tradition, lifestyle",
+    "ja": "アイデンティティ、文化的背景、習慣、つながり、伝統への敬意、ライフスタイル",
+    "fr": "identité, origine culturelle, habitude, connexion, respect de la tradition, mode de vie",
+    "ko": "정체성, 문화적 배경, 습관, 연결, 전통에 대한 존중, 생활 방식"
+  },
+  "content_check_placeholder": {
+    "en": "Write your answer here based on the reading text...",
+    "ja": "読解テキストに基づいてここに回答を書いてください...",
+    "fr": "Écrivez votre réponse ici en vous basant sur le texte de lecture...",
+    "ko": "읽기 텍스트를 기반으로 여기에 답변을 작성하세요..."
+  },
+  "deepening_question": {
+    "en": "The text says that traditional food, like kimchi in space, is a 'vital link to our home.'<br><b>If you had to live in a foreign country for a year, which specific food from your home would you miss the most? Give one reason why.</b>",
+    "ja": "テキストでは、宇宙のキムチのような伝統的な食べ物は「故郷との重要な絆」であると述べています。<br><b>もし一年間外国で暮らさなければならなくなったら、あなたの故郷のどの具体的な食べ物が一番恋しくなりますか？その理由を一つ挙げてください。</b>",
+    "fr": "Le texte dit que la nourriture traditionnelle, comme le kimchi dans l'espace, est un 'lien vital avec notre maison.'<br><b>Si vous deviez vivre dans un pays étranger pendant un an, quel aliment spécifique de votre pays vous manquerait le plus ? Donnez une raison.</b>",
+    "ko": "본문은 우주의 김치와 같은 전통 음식이 '우리 집과의 중요한 연결 고리'라고 말합니다.<br><b>만약 1년 동안 외국에서 살아야 한다면, 고향의 어떤 특정 음식이 가장 그리울 것 같나요? 그 이유를 하나 들어보세요.</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I think local items are more special because...",
+    "ja": "地元のアイテムの方が特別だと思います。なぜなら...",
+    "fr": "Je pense que les articles locaux sont plus spéciaux parce que...",
+    "ko": "저는 지역 아이템이 더 특별하다고 생각합니다. 왜냐하면..."
+  },
+  "critical_question": {
+    "en": "The text describes us as 'people of habit' at breakfast, but the world is becoming more globalized with diverse food options.<br><b>In your opinion, is it better to stick to your traditional morning habits for health and comfort, or is it better to actively try global breakfast cultures to become more 'open-minded'? Explain your view with a reason.</b>",
+    "ja": "テキストでは朝食時に私たちを「習慣の生き物」と表現していますが、世界は多様な食の選択肢でよりグローバル化しています。<br><b>あなたの意見では、健康と快適さのために伝統的な朝の習慣を守る方が良いですか、それともより「オープンマインド」になるために積極的に世界の朝食文化を試す方が良いですか？理由を挙げてあなたの見解を説明してください。</b>",
+    "fr": "Le texte nous décrit comme des 'gens d'habitudes' au petit-déjeuner, mais le monde devient plus globalisé avec des options alimentaires diverses.<br><b>À votre avis, est-il préférable de s'en tenir à vos habitudes matinales traditionnelles pour la santé et le confort, ou est-il préférable d'essayer activement les cultures mondiales du petit-déjeuner pour devenir plus 'ouvert d'esprit' ? Expliquez votre point de vue avec une raison.</b>",
+    "ko": "본문은 아침 식사에서 우리를 '습관의 사람들'이라고 설명하지만, 세계는 다양한 음식 선택지로 더욱 세계화되고 있습니다.<br><b>여러분의 의견으로는, 건강과 편안함을 위해 전통적인 아침 습관을 고수하는 것이 더 낫습니까, 아니면 더 '개방적인 사고'를 갖기 위해 세계의 아침 식사 문화를 적극적으로 시도하는 것이 더 낫습니까? 이유를 들어 여러분의 견해를 설명하세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "Write your thoughts here...",
+    "ja": "ここにあなたの考えを書いてください...",
+    "fr": "Écrivez vos pensées ici...",
+    "ko": "여기에 생각을 작성하세요..."
+  }
+}

@@ -1,0 +1,2012 @@
+{
+  "title": {
+    "en": "GETTING THERE",
+    "ja": "そこへ行くこと",
+    "fr": "S'Y RENDRE",
+    "ko": "그곳에 가기"
+  },
+  "topic": {
+    "en": "Travel, transportation, directions, attitudes",
+    "ja": "旅行、交通、道順、態度",
+    "fr": "Voyage, transport, itinéraires, attitudes",
+    "ko": "여행, 교통, 길찾기, 태도"
+  },
+  "core_title": {
+    "en": "The Full Story of Getting There",
+    "ja": "そこへ行くまでの完全な物語",
+    "fr": "L'histoire complète pour s'y rendre",
+    "ko": "그곳에 가는 전체 이야기"
+  },
+  "core_reading_html": {
+    "en": "<p style='margin-top:0;'>Planning a trip is often the most exciting part of a holiday, but as the travellers in today's news found out, the actual journey can involve a lot of stress and complete <strong><span class='vocab-link' id='text-chaos' onclick='speakAndScroll(\"chaos\", \"vocab-chaos\")'>chaos</span></strong>. Whether you are taking a train, catching a bus, or driving a car, there is always some risk of facing the <strong><span class='vocab-link' id='text-unexpected' onclick='speakAndScroll(\"unexpected\", \"vocab-unexpected\")'>unexpected</span></strong>. Today's BBD travel report is a perfect example of how much trouble a single day can bring to the public.</p><p>First, let's look at the airports. In France, an <strong><span class='vocab-link' id='text-ongoing' onclick='speakAndScroll(\"ongoing\", \"vocab-ongoing\")'>ongoing</span></strong> <strong><span class='vocab-link' id='text-strike' onclick='speakAndScroll(\"strike\", \"vocab-strike\")'>strike</span></strong> by the <strong><span class='vocab-link' id='text-air_traffic_controller' onclick='speakAndScroll(\"air_traffic_controller\", \"vocab-air_traffic_controller\")'>air traffic controllers</span></strong> is causing chaos. There is little hope of a deal being reached soon, so much of the French airspace remains closed. Consequently, some flights are <strong><span class='vocab-link' id='text-delayed' onclick='speakAndScroll(\"delayed\", \"vocab-delayed\")'>delayed</span></strong> while a few others are <strong><span class='vocab-link' id='text-cancelled' onclick='speakAndScroll(\"cancelled\", \"vocab-cancelled\")'>cancelled</span></strong>. Passengers are <strong><span class='vocab-link' id='text-advised' onclick='speakAndScroll(\"advised\", \"vocab-advised\")'>advised</span></strong> to <strong><span class='vocab-link' id='text-consult' onclick='speakAndScroll(\"consult\", \"vocab-consult\")'>consult</span></strong> the airline's website for information before leaving the house. On the roads, a lorry carrying a huge load of watermelons crashed, leaving a big mess for the police to clear up. Furthermore, the M6 motorway is closed for repairs, and although there is a <strong><span class='vocab-link' id='text-diversion' onclick='speakAndScroll(\"diversion\", \"vocab-diversion\")'>diversion</span></strong> in operation, the traffic is moving very slowly. Even the London Underground is struggling; the Northern Line has repair work, and East Ham station is closed because of a <strong><span class='vocab-link' id='text-flood' onclick='speakAndScroll(\"flood\", \"vocab-flood\")'>flood</span></strong> caused by a <strong><span class='vocab-link' id='text-burst' onclick='speakAndScroll(\"burst\", \"vocab-burst\")'>burst</span></strong> water pipe.</p><p>For one particular couple trying to reach the museum, the journey was the biggest challenge of the day. First, they realized they were lost and asked a stranger for the way. The man gave them some advice: \"Take the second road on the right, cross the street, and find the stop opposite the town hall.\" However, because they didn't pay attention, they couldn't remember if it was the second right or the second left! They had no idea which bus to catch.</p><p>Later, they found a bus stop, but an old lady they spoke to couldn't hear the question. A kind person nearby explained that they were at the wrong stop because the bus went the wrong way. They had to go over the crossing, past the traffic lights, to find the number 67 bus. Even after finally getting on a bus, they got off at the wrong stop again! A final <strong><span class='vocab-link' id='text-guide' onclick='speakAndScroll(\"guide\", \"vocab-guide\")'>guide</span></strong> told them to walk past a church, a <strong><span class='vocab-link' id='text-monument' onclick='speakAndScroll(\"monument\", \"vocab-monument\")'>monument</span></strong>, and a football ground for about half a mile. \"You can't miss it,\" he said. By the time they arrived, they had a lot of <strong><span class='vocab-link' id='text-frustration' onclick='speakAndScroll(\"frustration\", \"vocab-frustration\")'>frustration</span></strong> between them.</p><p>Ultimately, the experience of getting there depends on the <strong><span class='vocab-link' id='text-perspective' onclick='speakAndScroll(\"perspective\", \"vocab-perspective\")'>perspective</span></strong> you choose. As the story of the farmer and the two travellers teaches us, the kind of people and the kind of luck you find in a new town usually matches the attitude you bring with you. If you have too much <strong><span class='vocab-link' id='text-negativity' onclick='speakAndScroll(\"negativity\", \"vocab-negativity\")'>negativity</span></strong>, you will only see the traffic and the strikes. But if you have <strong><span class='vocab-link' id='text-patience' onclick='speakAndScroll(\"patience\", \"vocab-patience\")'>patience</span></strong> and a sense of humour, you can <strong><span class='vocab-link' id='text-survive' onclick='speakAndScroll(\"survive\", \"vocab-survive\")'>survive</span></strong> any journey, even one filled with watermelons and floods.</p>",
+    "ja": "<p style='margin-top:0;'>旅行の計画は休暇で最もわくわくする部分ですが、今日のニュースの旅行者が知ったように、実際の旅は大きなストレスと完全な<strong><span class='vocab-link' id='text-chaos' onclick='speakAndScroll(\"chaos\", \"vocab-chaos\")'>混乱</span></strong>を伴うことがあります。電車に乗る場合でも、バスを捕まえる場合でも、車を運転する場合でも、<strong><span class='vocab-link' id='text-unexpected' onclick='speakAndScroll(\"unexpected\", \"vocab-unexpected\")'>予期せぬ事態</span></strong>に直面するリスクは常にあります。今日のBBD旅行レポートは、たった一日でどれだけのトラブルが公衆にもたらされるかの完璧な例です。</p><p>まず、空港を見てみましょう。フランスでは、<strong><span class='vocab-link' id='text-ongoing' onclick='speakAndScroll(\"ongoing\", \"vocab-ongoing\")'>進行中の</span></strong><strong><span class='vocab-link' id='text-strike' onclick='speakAndScroll(\"strike\", \"vocab-strike\")'>ストライキ</span></strong>が<strong><span class='vocab-link' id='text-air_traffic_controller' onclick='speakAndScroll(\"air_traffic_controller\", \"vocab-air_traffic_controller\")'>航空管制官</span></strong>によって行われており、混乱を引き起こしています。近く合意に達する見込みはほとんどなく、フランスの空域の多くは閉鎖されたままです。その結果、一部のフライトは<strong><span class='vocab-link' id='text-delayed' onclick='speakAndScroll(\"delayed\", \"vocab-delayed\")'>遅延</span></strong>し、他のいくつかは<strong><span class='vocab-link' id='text-cancelled' onclick='speakAndScroll(\"cancelled\", \"vocab-cancelled\")'>キャンセル</span></strong>されています。乗客は家を出る前に航空会社のウェブサイトを<strong><span class='vocab-link' id='text-advised' onclick='speakAndScroll(\"advised\", \"vocab-advised\")'>勧められ</span></strong>、<strong><span class='vocab-link' id='text-consult' onclick='speakAndScroll(\"consult\", \"vocab-consult\")'>確認する</span></strong>ように言われています。道路上では、スイカの大量の積荷を運ぶトラックが衝突し、警察が片付けるための大きな混乱を残しました。さらに、M6高速道路は修理のため閉鎖されており、<strong><span class='vocab-link' id='text-diversion' onclick='speakAndScroll(\"diversion\", \"vocab-diversion\")'>迂回路</span></strong>が運用されていますが、交通は非常に遅く動いています。ロンドン地下鉄も苦戦しています。ノーザンラインは修理作業中であり、イーストハム駅は<strong><span class='vocab-link' id='text-burst' onclick='speakAndScroll(\"burst\", \"vocab-burst\")'>破裂した</span></strong>水道管による<strong><span class='vocab-link' id='text-flood' onclick='speakAndScroll(\"flood\", \"vocab-flood\")'>洪水</span></strong>のために閉鎖されています。</p><p>博物館に着こうとしていたあるカップルにとって、その旅はその日最大の課題でした。まず、彼らは道に迷っていることに気づき、見知らぬ人に道を尋ねました。男性は彼らにいくつかのアドバイスをしました：「右側の2番目の道を行き、通りを渡り、市役所の向かいのバス停を見つけてください。」しかし、彼らは注意を払わなかったため、それが2番目の右だったのか2番目の左だったのか思い出せませんでした！彼らはどのバスに乗ればいいのか全く分かりませんでした。</p><p>その後、彼らはバス停を見つけましたが、話しかけた老婦人は質問が聞こえませんでした。近くにいた親切な人が、バスが反対方向に行ってしまうため、彼らが間違ったバス停にいることを説明しました。彼らは横断歩道を渡り、信号を過ぎて、67番バスを見つけなければなりませんでした。ようやくバスに乗った後も、また間違ったバス停で降りてしまいました！最後の<strong><span class='vocab-link' id='text-guide' onclick='speakAndScroll(\"guide\", \"vocab-guide\")'>案内人</span></strong>は、教会、<strong><span class='vocab-link' id='text-monument' onclick='speakAndScroll(\"monument\", \"vocab-monument\")'>記念碑</span></strong>、サッカー場を通り過ぎて約800メートル歩くように彼らに言いました。「間違いなく分かりますよ」と彼は言いました。彼らが到着したときには、二人の間には多くの<strong><span class='vocab-link' id='text-frustration' onclick='speakAndScroll(\"frustration\", \"vocab-frustration\")'>欲求不満</span></strong>が溜まっていました。</p><p>最終的に、そこに到達する経験は、あなたが選ぶ<strong><span class='vocab-link' id='text-perspective' onclick='speakAndScroll(\"perspective\", \"vocab-perspective\")'>視点</span></strong>に依存します。農夫と二人の旅行者の話が教えてくれるように、新しい町で見つける人々の種類や運の種類は、通常、あなたが持って行く態度と一致します。<strong><span class='vocab-link' id='text-negativity' onclick='speakAndScroll(\"negativity\", \"vocab-negativity\")'>否定的すぎる</span></strong>と、交通渋滞やストライキしか見えません。しかし、<strong><span class='vocab-link' id='text-patience' onclick='speakAndScroll(\"patience\", \"vocab-patience\")'>忍耐</span></strong>とユーモアのセンスがあれば、スイカや洪水でいっぱいの旅でさえ、どんな旅も<strong><span class='vocab-link' id='text-survive' onclick='speakAndScroll(\"survive\", \"vocab-survive\")'>乗り切る</span></strong>ことができます。</p>",
+    "fr": "<p style='margin-top:0;'>Planifier un voyage est souvent la partie la plus excitante des vacances, mais comme les voyageurs dans les nouvelles d'aujourd'hui l'ont découvert, le voyage réel peut impliquer beaucoup de stress et un <strong><span class='vocab-link' id='text-chaos' onclick='speakAndScroll(\"chaos\", \"vocab-chaos\")'>chaos</span></strong> complet. Que vous preniez un train, attrapiez un bus ou conduisiez une voiture, il y a toujours un risque de faire face à l'<strong><span class='vocab-link' id='text-unexpected' onclick='speakAndScroll(\"unexpected\", \"vocab-unexpected\")'>imprévu</span></strong>. Le rapport de voyage d'aujourd'hui de BBD est un exemple parfait de combien de problèmes une seule journée peut apporter au public.</p><p>Tout d'abord, regardons les aéroports. En France, une <strong><span class='vocab-link' id='text-ongoing' onclick='speakAndScroll(\"ongoing\", \"vocab-ongoing\")'>grève</span></strong> <strong><span class='vocab-link' id='text-strike' onclick='speakAndScroll(\"strike\", \"vocab-strike\")'>en cours</span></strong> des <strong><span class='vocab-link' id='text-air_traffic_controller' onclick='speakAndScroll(\"air_traffic_controller\", \"vocab-air_traffic_controller\")'>contrôleurs aériens</span></strong> cause le chaos. Il y a peu d'espoir qu'un accord soit trouvé bientôt, donc une grande partie de l'espace aérien français reste fermée. Par conséquent, certains vols sont <strong><span class='vocab-link' id='text-delayed' onclick='speakAndScroll(\"delayed\", \"vocab-delayed\")'>retardés</span></strong> tandis que quelques autres sont <strong><span class='vocab-link' id='text-cancelled' onclick='speakAndScroll(\"cancelled\", \"vocab-cancelled\")'>annulés</span></strong>. Il est <strong><span class='vocab-link' id='text-advised' onclick='speakAndScroll(\"advised\", \"vocab-advised\")'>conseillé</span></strong> aux passagers de <strong><span class='vocab-link' id='text-consult' onclick='speakAndScroll(\"consult\", \"vocab-consult\")'>consulter</span></strong> le site Web de la compagnie aérienne pour obtenir des informations avant de quitter la maison. Sur les routes, un camion transportant une énorme charge de pastèques s'est écrasé, laissant un gros désordre que la police doit nettoyer. De plus, l'autoroute M6 est fermée pour travaux, et bien qu'une <strong><span class='vocab-link' id='text-diversion' onclick='speakAndScroll(\"diversion\", \"vocab-diversion\")'>déviation</span></strong> soit en service, la circulation avance très lentement. Même le métro londonien a du mal ; la Northern Line a des travaux de réparation, et la station East Ham est fermée à cause d'une <strong><span class='vocab-link' id='text-flood' onclick='speakAndScroll(\"flood\", \"vocab-flood\")'>inondation</span></strong> causée par une conduite d'eau <strong><span class='vocab-link' id='text-burst' onclick='speakAndScroll(\"burst\", \"vocab-burst\")'>éclatée</span></strong>.</p><p>Pour un couple particulier essayant d'atteindre le musée, le voyage a été le plus grand défi de la journée. D'abord, ils ont réalisé qu'ils étaient perdus et ont demandé leur chemin à un étranger. L'homme leur a donné quelques conseils : « Prenez la deuxième rue à droite, traversez la rue et trouvez l'arrêt en face de la mairie. » Cependant, comme ils n'ont pas fait attention, ils n'ont pas pu se souvenir si c'était la deuxième à droite ou la deuxième à gauche ! Ils n'avaient aucune idée de quel bus prendre.</p><p>Plus tard, ils ont trouvé un arrêt de bus, mais une vieille dame à qui ils ont parlé n'a pas pu entendre la question. Une personne gentille à proximité a expliqué qu'ils étaient au mauvais arrêt parce que le bus allait dans la mauvaise direction. Ils ont dû traverser le passage piéton, dépasser les feux de signalisation, pour trouver le bus numéro 67. Même après être finalement montés dans un bus, ils sont descendus au mauvais arrêt encore une fois ! Un dernier <strong><span class='vocab-link' id='text-guide' onclick='speakAndScroll(\"guide\", \"vocab-guide\")'>guide</span></strong> leur a dit de marcher devant une église, un <strong><span class='vocab-link' id='text-monument' onclick='speakAndScroll(\"monument\", \"vocab-monument\")'>monument</span></strong>, et un terrain de football pendant environ 800 mètres. « Vous ne pouvez pas le manquer », a-t-il dit. Au moment où ils sont arrivés, ils avaient beaucoup de <strong><span class='vocab-link' id='text-frustration' onclick='speakAndScroll(\"frustration\", \"vocab-frustration\")'>frustration</span></strong> entre eux.</p><p>En fin de compte, l'expérience d'y arriver dépend de la <strong><span class='vocab-link' id='text-perspective' onclick='speakAndScroll(\"perspective\", \"vocab-perspective\")'>perspective</span></strong> que vous choisissez. Comme l'histoire du fermier et des deux voyageurs nous l'enseigne, le genre de personnes et le genre de chance que vous trouvez dans une nouvelle ville correspondent généralement à l'attitude que vous apportez avec vous. Si vous avez trop de <strong><span class='vocab-link' id='text-negativity' onclick='speakAndScroll(\"negativity\", \"vocab-negativity\")'>négativité</span></strong>, vous ne verrez que la circulation et les grèves. Mais si vous avez de la <strong><span class='vocab-link' id='text-patience' onclick='speakAndScroll(\"patience\", \"vocab-patience\")'>patience</span></strong> et le sens de l'humour, vous pouvez <strong><span class='vocab-link' id='text-survive' onclick='speakAndScroll(\"survive\", \"vocab-survive\")'>survivre</span></strong> à n'importe quel voyage, même à celui rempli de pastèques et d'inondations.</p>",
+    "ko": "<p style='margin-top:0;'>여행을 계획하는 것은 종종 휴가에서 가장 신나는 부분이지만, 오늘 뉴스의 여행자들이 알게 되었듯이 실제 여행은 많은 스트레스와 완전한 <strong><span class='vocab-link' id='text-chaos' onclick='speakAndScroll(\"chaos\", \"vocab-chaos\")'>혼란</span></strong>을 동반할 수 있습니다. 기차를 타든, 버스를 잡든, 자동차를 운전하든, <strong><span class='vocab-link' id='text-unexpected' onclick='speakAndScroll(\"unexpected\", \"vocab-unexpected\")'>예상치 못한 일</span></strong>에 직면할 위험은 항상 존재합니다. 오늘의 BBD 여행 보고서는 하루 만에 대중에게 얼마나 많은 문제가 발생할 수 있는지 완벽하게 보여주는 예입니다.</p><p>먼저 공항을 살펴보겠습니다. 프랑스에서는 <strong><span class='vocab-link' id='text-air_traffic_controller' onclick='speakAndScroll(\"air_traffic_controller\", \"vocab-air_traffic_controller\")'>항공 관제사</span></strong>들의 <strong><span class='vocab-link' id='text-ongoing' onclick='speakAndScroll(\"ongoing\", \"vocab-ongoing\")'>진행 중인</span></strong> <strong><span class='vocab-link' id='text-strike' onclick='speakAndScroll(\"strike\", \"vocab-strike\")'>파업</span></strong>이 혼란을 야기하고 있습니다. 곧 합의에 도달할 희망이 거의 없어 프랑스 영공의 많은 부분이 여전히 폐쇄되어 있습니다. 결과적으로 일부 항공편은 <strong><span class='vocab-link' id='text-delayed' onclick='speakAndScroll(\"delayed\", \"vocab-delayed\")'>지연</span></strong>되고 다른 일부는 <strong><span class='vocab-link' id='text-cancelled' onclick='speakAndScroll(\"cancelled\", \"vocab-cancelled\")'>취소</span></strong>됩니다. 승객들은 집을 떠나기 전에 항공사 웹사이트를 <strong><span class='vocab-link' id='text-consult' onclick='speakAndScroll(\"consult\", \"vocab-consult\")'>확인</span></strong>하라는 <strong><span class='vocab-link' id='text-advised' onclick='speakAndScroll(\"advised\", \"vocab-advised\")'>권고</span></strong>를 받습니다. 도로에서는 엄청난 양의 수박을 실은 트럭이 추락하여 경찰이 처리해야 할 큰 난장판을 남겼습니다. 게다가 M6 고속도로는 공사로 인해 폐쇄되었고, <strong><span class='vocab-link' id='text-diversion' onclick='speakAndScroll(\"diversion\", \"vocab-diversion\")'>우회로</span></strong>가 운영 중이지만 교통 체증이 매우 심합니다. 런던 지하철도 어려움을 겪고 있습니다. 노던 라인은 공사 중이고, 이스트햄 역은 <strong><span class='vocab-link' id='text-burst' onclick='speakAndScroll(\"burst\", \"vocab-burst\")'>터진</span></strong> 수도관으로 인한 <strong><span class='vocab-link' id='text-flood' onclick='speakAndScroll(\"flood\", \"vocab-flood\")'>홍수</span></strong> 때문에 폐쇄되었습니다.</p><p>박물관에 도착하려던 한 커플에게 그날의 여정은 가장 큰 도전이었습니다. 먼저, 그들은 길을 잃었음을 깨닫고 낯선 사람에게 길을 물었습니다. 그 남자는 그들에게 몇 가지 조언을 했습니다: \"오른쪽 두 번째 길로 가서 길을 건너고, 시청 맞은편에서 정류장을 찾으세요.\" 그러나 주의를 기울이지 않았기 때문에 두 번째 오른쪽인지 두 번째 왼쪽인지 기억할 수 없었습니다! 그들은 어떤 버스를 타야 할지 전혀 몰랐습니다.</p><p>나중에 그들은 버스 정류장을 찾았지만, 말을 건 할머니는 질문을 들을 수 없었습니다. 근처에 있던 친절한 사람이 버스가 반대 방향으로 가기 때문에 그들이 잘못된 정류장에 있다고 설명했습니다. 그들은 횡단보도를 건너고 신호등을 지나 67번 버스를 찾아야 했습니다. 마침내 버스에 탄 후에도, 그들은 또 다시 잘못된 정류장에서 내렸습니다! 마지막 <strong><span class='vocab-link' id='text-guide' onclick='speakAndScroll(\"guide\", \"vocab-guide\")'>안내자</span></strong>는 교회, <strong><span class='vocab-link' id='text-monument' onclick='speakAndScroll(\"monument\", \"vocab-monument\")'>기념비</span></strong>, 축구장을 지나 약 800미터 걸어가라고 말했습니다. \"절대 못 찾을 리가 없어요\"라고 그가 말했습니다. 그들이 도착했을 때, 그들 사이에는 많은 <strong><span class='vocab-link' id='text-frustration' onclick='speakAndScroll(\"frustration\", \"vocab-frustration\")'>좌절감</span></strong>이 쌓여 있었습니다.</p><p>궁극적으로, 그곳에 도착하는 경험은 당신이 선택하는 <strong><span class='vocab-link' id='text-perspective' onclick='speakAndScroll(\"perspective\", \"vocab-perspective\")'>관점</span></strong>에 달려 있습니다. 농부와 두 여행자의 이야기가 가르쳐주듯이, 새로운 마을에서 만나는 사람들의 유형과 운의 종류는 일반적으로 당신이 가져가는 태도와 일치합니다. 너무 많은 <strong><span class='vocab-link' id='text-negativity' onclick='speakAndScroll(\"negativity\", \"vocab-negativity\")'>부정성</span></strong>을 가지고 있으면 교통 체증과 파업만 보일 것입니다. 하지만 <strong><span class='vocab-link' id='text-patience' onclick='speakAndScroll(\"patience\", \"vocab-patience\")'>인내심</span></strong>과 유머 감각이 있다면, 수박과 홍수로 가득 찬 여행이라도 어떤 여행이든 <strong><span class='vocab-link' id='text-survive' onclick='speakAndScroll(\"survive\", \"vocab-survive\")'>견딜</span></strong> 수 있습니다.</p>"
+  },
+  "vocabulary": {
+    "en": [
+      {
+        "id": "chaos",
+        "word": "Chaos",
+        "definition": "A state of complete confusion and disorder."
+      },
+      {
+        "id": "unexpected",
+        "word": "Unexpected",
+        "definition": "Something that you did not think would happen."
+      },
+      {
+        "id": "ongoing",
+        "word": "Ongoing",
+        "definition": "Continuing to exist or develop; happening right now."
+      },
+      {
+        "id": "strike",
+        "word": "Strike",
+        "definition": "A time when workers stop working as a protest."
+      },
+      {
+        "id": "air_traffic_controller",
+        "word": "Air traffic controller",
+        "definition": "A person who directs aircraft movements in the sky and on the ground."
+      },
+      {
+        "id": "delayed",
+        "word": "Delayed",
+        "definition": "Happening later than planned or expected."
+      },
+      {
+        "id": "cancelled",
+        "word": "Cancelled",
+        "definition": "Decided that something that was planned will not happen."
+      },
+      {
+        "id": "advised",
+        "word": "Advised",
+        "definition": "Told someone what they should do."
+      },
+      {
+        "id": "consult",
+        "word": "Consult",
+        "definition": "To look for information in a book, map, or website."
+      },
+      {
+        "id": "diversion",
+        "word": "Diversion",
+        "definition": "A different route for traffic when a road is closed."
+      },
+      {
+        "id": "flood",
+        "word": "Flood",
+        "definition": "A large amount of water covering an area that is usually dry."
+      },
+      {
+        "id": "burst",
+        "word": "Burst",
+        "definition": "Broke open suddenly because of pressure."
+      },
+      {
+        "id": "guide",
+        "word": "Guide",
+        "definition": "A person who shows the way or gives directions."
+      },
+      {
+        "id": "monument",
+        "word": "Monument",
+        "definition": "A building or structure that is built to remind people of a famous person or event."
+      },
+      {
+        "id": "frustration",
+        "word": "Frustration",
+        "definition": "The feeling of being annoyed because you cannot do what you want."
+      },
+      {
+        "id": "perspective",
+        "word": "Perspective",
+        "definition": "A particular way of thinking about something."
+      },
+      {
+        "id": "negativity",
+        "word": "Negativity",
+        "definition": "An attitude that focuses on the bad side of things."
+      },
+      {
+        "id": "patience",
+        "word": "Patience",
+        "definition": "The ability to wait calmly without getting angry."
+      },
+      {
+        "id": "survive",
+        "word": "Survive",
+        "definition": "To continue to live or exist after a difficult situation."
+      }
+    ],
+    "ja": [
+      {
+        "id": "chaos",
+        "word": "混乱",
+        "definition": "完全な混乱と無秩序の状態。"
+      },
+      {
+        "id": "unexpected",
+        "word": "予期せぬ事態",
+        "definition": "起こると思っていなかったこと。"
+      },
+      {
+        "id": "ongoing",
+        "word": "進行中の",
+        "definition": "存在し続ける、または発展し続ける；今まさに起こっている。"
+      },
+      {
+        "id": "strike",
+        "word": "ストライキ",
+        "definition": "労働者が抗議として仕事を止める期間。"
+      },
+      {
+        "id": "air_traffic_controller",
+        "word": "航空管制官",
+        "definition": "空と地上の航空機の動きを指示する人。"
+      },
+      {
+        "id": "delayed",
+        "word": "遅延した",
+        "definition": "計画よりも遅く起こる。"
+      },
+      {
+        "id": "cancelled",
+        "word": "キャンセルされた",
+        "definition": "計画されていたことが行われないと決定される。"
+      },
+      {
+        "id": "advised",
+        "word": "勧められた",
+        "definition": "誰かに何をすべきかを伝えられた。"
+      },
+      {
+        "id": "consult",
+        "word": "確認する",
+        "definition": "本、地図、ウェブサイトで情報を探すこと。"
+      },
+      {
+        "id": "diversion",
+        "word": "迂回路",
+        "definition": "道路が閉鎖されたときの交通のための別のルート。"
+      },
+      {
+        "id": "flood",
+        "word": "洪水",
+        "definition": "普段は乾燥している地域を覆う大量の水。"
+      },
+      {
+        "id": "burst",
+        "word": "破裂した",
+        "definition": "圧力で突然壊れた。"
+      },
+      {
+        "id": "guide",
+        "word": "案内人",
+        "definition": "道を示したり、方向を教える人。"
+      },
+      {
+        "id": "monument",
+        "word": "記念碑",
+        "definition": "有名人や出来事を人々に思い出させるために建てられた建物や構造物。"
+      },
+      {
+        "id": "frustration",
+        "word": "欲求不満",
+        "definition": "自分がしたいことができないことによってイライラする気持ち。"
+      },
+      {
+        "id": "perspective",
+        "word": "視点",
+        "definition": "何かについての特定の考え方。"
+      },
+      {
+        "id": "negativity",
+        "word": "否定的な態度",
+        "definition": "物事の悪い面に焦点を当てる態度。"
+      },
+      {
+        "id": "patience",
+        "word": "忍耐",
+        "definition": "怒らずに穏やかに待つ能力。"
+      },
+      {
+        "id": "survive",
+        "word": "乗り切る",
+        "definition": "困難な状況の後も生き続ける、または存在し続ける。"
+      }
+    ],
+    "fr": [
+      {
+        "id": "chaos",
+        "word": "Chaos",
+        "definition": "Un état de confusion et de désordre complets."
+      },
+      {
+        "id": "unexpected",
+        "word": "Imprévu",
+        "definition": "Quelque chose que vous ne pensiez pas qu'il arriverait."
+      },
+      {
+        "id": "ongoing",
+        "word": "En cours",
+        "definition": "Qui continue d'exister ou de se développer ; qui se produit en ce moment."
+      },
+      {
+        "id": "strike",
+        "word": "Grève",
+        "definition": "Une période pendant laquelle les travailleurs arrêtent de travailler en signe de protestation."
+      },
+      {
+        "id": "air_traffic_controller",
+        "word": "Contrôleur aérien",
+        "definition": "Une personne qui dirige les mouvements des avions dans le ciel et sur le sol."
+      },
+      {
+        "id": "delayed",
+        "word": "Retardé",
+        "definition": "Qui se produit plus tard que prévu."
+      },
+      {
+        "id": "cancelled",
+        "word": "Annulé",
+        "definition": "Décidé que quelque chose de prévu n'aura pas lieu."
+      },
+      {
+        "id": "advised",
+        "word": "Conseillé",
+        "definition": "À qui l'on a dit ce qu'il devait faire."
+      },
+      {
+        "id": "consult",
+        "word": "Consulter",
+        "definition": "Chercher des informations dans un livre, une carte ou un site web."
+      },
+      {
+        "id": "diversion",
+        "word": "Déviation",
+        "definition": "Un itinéraire différent pour la circulation lorsqu'une route est fermée."
+      },
+      {
+        "id": "flood",
+        "word": "Inondation",
+        "definition": "Une grande quantité d'eau recouvrant une zone habituellement sèche."
+      },
+      {
+        "id": "burst",
+        "word": "Éclaté",
+        "definition": "Qui s'est brisé soudainement à cause de la pression."
+      },
+      {
+        "id": "guide",
+        "word": "Guide",
+        "definition": "Une personne qui montre le chemin ou donne des directions."
+      },
+      {
+        "id": "monument",
+        "word": "Monument",
+        "definition": "Un bâtiment ou une structure construit pour rappeler aux gens une personne célèbre ou un événement."
+      },
+      {
+        "id": "frustration",
+        "word": "Frustration",
+        "definition": "Le sentiment d'être agacé parce qu'on ne peut pas faire ce qu'on veut."
+      },
+      {
+        "id": "perspective",
+        "word": "Perspective",
+        "definition": "Une façon particulière de penser à quelque chose."
+      },
+      {
+        "id": "negativity",
+        "word": "Négativité",
+        "definition": "Une attitude qui se concentre sur le mauvais côté des choses."
+      },
+      {
+        "id": "patience",
+        "word": "Patience",
+        "definition": "La capacité d'attendre calmement sans se mettre en colère."
+      },
+      {
+        "id": "survive",
+        "word": "Survivre",
+        "definition": "Continuer à vivre ou à exister après une situation difficile."
+      }
+    ],
+    "ko": [
+      {
+        "id": "chaos",
+        "word": "혼란",
+        "definition": "완전한 혼란과 무질서의 상태."
+      },
+      {
+        "id": "unexpected",
+        "word": "예상치 못한 일",
+        "definition": "일어날 것이라고 생각하지 못했던 일."
+      },
+      {
+        "id": "ongoing",
+        "word": "진행 중인",
+        "definition": "계속 존재하거나 발전하는; 지금 막 일어나고 있는."
+      },
+      {
+        "id": "strike",
+        "word": "파업",
+        "definition": "노동자들이 항의로 일을 중단하는 기간."
+      },
+      {
+        "id": "air_traffic_controller",
+        "word": "항공 관제사",
+        "definition": "하늘과 지상에서 항공기 이동을 지시하는 사람."
+      },
+      {
+        "id": "delayed",
+        "word": "지연된",
+        "definition": "계획보다 늦게 일어나는."
+      },
+      {
+        "id": "cancelled",
+        "word": "취소된",
+        "definition": "계획된 일이 일어나지 않기로 결정된."
+      },
+      {
+        "id": "advised",
+        "word": "권고된",
+        "definition": "누군가에게 무엇을 해야 하는지 말해진."
+      },
+      {
+        "id": "consult",
+        "word": "확인하다",
+        "definition": "책, 지도, 또는 웹사이트에서 정보를 찾는 것."
+      },
+      {
+        "id": "diversion",
+        "word": "우회로",
+        "definition": "도로가 폐쇄되었을 때 교통을 위한 다른 경로."
+      },
+      {
+        "id": "flood",
+        "word": "홍수",
+        "definition": "보통 마른 지역을 덮는 많은 양의 물."
+      },
+      {
+        "id": "burst",
+        "word": "터진",
+        "definition": "압력으로 인해 갑자기 파열된."
+      },
+      {
+        "id": "guide",
+        "word": "안내자",
+        "definition": "길을 보여주거나 방향을 알려주는 사람."
+      },
+      {
+        "id": "monument",
+        "word": "기념비",
+        "definition": "사람들에게 유명한 인물이나 사건을 기억시키기 위해 세워진 건물이나 구조물."
+      },
+      {
+        "id": "frustration",
+        "word": "좌절감",
+        "definition": "자신이 원하는 것을 할 수 없어 짜증나는 감정."
+      },
+      {
+        "id": "perspective",
+        "word": "관점",
+        "definition": "무언가에 대한 특정한 생각하는 방식."
+      },
+      {
+        "id": "negativity",
+        "word": "부정성",
+        "definition": "사물의 나쁜 면에 초점을 맞추는 태도."
+      },
+      {
+        "id": "patience",
+        "word": "인내심",
+        "definition": "화내지 않고 침착하게 기다리는 능력."
+      },
+      {
+        "id": "survive",
+        "word": "견디다",
+        "definition": "어려운 상황 이후에도 계속 살아가거나 존재하는 것."
+      }
+    ]
+  },
+  "listening_tracks": {
+    "en": [
+      {
+        "title": "1-1. BBD Radio Travel News",
+        "label": "Track 58: Travel Disruptions Report",
+        "script": [
+          {
+            "speaker": "M",
+            "text": "In a moment we'll be with Ellen McArthur, interviewing her about her latest adventure - sailing round the globe on her own."
+          },
+          {
+            "speaker": "M",
+            "text": "So if you have any questions for her, ring 9873-7373 or email us at may@bbd.net."
+          },
+          {
+            "speaker": "M",
+            "text": "But first, the travel news from Lisa Verity."
+          },
+          {
+            "speaker": "L",
+            "text": "Thanks Mark. Not much good news, I'm afraid."
+          },
+          {
+            "speaker": "L",
+            "text": "Getting anywhere today is going to feel a bit like sailing round the world for many people. Terrible problems in a lot of places at the moment."
+          },
+          {
+            "speaker": "L",
+            "text": "Starting with the airports. The air traffic controllers' strike in France is continuing to cause complete chaos."
+          },
+          {
+            "speaker": "L",
+            "text": "Many flights are being delayed and quite a few cancelled because only a few planes can fly over France."
+          },
+          {
+            "speaker": "L",
+            "text": "and others have to be diverted to avoid French air space."
+          },
+          {
+            "speaker": "L",
+            "text": "Passengers who are flying at any time in the next few days are asked to ring their airline or consult their airline's website."
+          },
+          {
+            "speaker": "L",
+            "text": "A lorry has crashed on the A516 entering Milton Keynes and lost its load of watermelons."
+          },
+          {
+            "speaker": "L",
+            "text": "Lanes in both directions are shut at the moment while police try to clear up the mess - a big mess I would imagine too! Avoid the area, if you can."
+          },
+          {
+            "speaker": "L",
+            "text": "The M6 motorway between junctions 5 and 6 is completely closed for repairs."
+          },
+          {
+            "speaker": "L",
+            "text": "A diversion is in operation, but expect delays all day there. Traffic moving very slowly, so best to take other routes."
+          },
+          {
+            "speaker": "L",
+            "text": "Large sections of the Northern Line in London are closed today because of continuing repair work to renew the underground."
+          },
+          {
+            "speaker": "L",
+            "text": "A replacement bus service is in operation. And East Ham station is closed because of a flood. A burst water pipe there."
+          },
+          {
+            "speaker": "L",
+            "text": "Better news elsewhere. The rail service between London and Birmingham is now running normally after a fallen tree was removed from the line."
+          },
+          {
+            "speaker": "L",
+            "text": "And there aren't any more problems on the A6 now that the traffic lights are working again at the crossroads with the B761. The traffic's moving freely there."
+          },
+          {
+            "speaker": "L",
+            "text": "Finally, two events tonight to tell you about."
+          },
+          {
+            "speaker": "L",
+            "text": "Just to remind those travelling to Wembley for the big concert there - there's no parking in or around the stadium."
+          },
+          {
+            "speaker": "L",
+            "text": "Police will be operating in the area to remove cars, so go on foot or take public transport."
+          },
+          {
+            "speaker": "L",
+            "text": "And lastly in central London, a demonstration by cyclists is likely to cause some traffic problems from 5 o'clock, so avoid driving or leave work early."
+          },
+          {
+            "speaker": "L",
+            "text": "That's all from me - back to Mark."
+          },
+          {
+            "speaker": "M",
+            "text": "That's pretty awful for those going on holiday. Any idea when the air traffic controllers might end their strike?"
+          },
+          {
+            "speaker": "L",
+            "text": "Well, negotiations are continuing, but there's little hope of a deal yet. We'll give you more news when we have it."
+          },
+          {
+            "speaker": "M",
+            "text": "OK, thanks. Well, strikes were probably one thing she didn't have to deal with, but she had plenty of bad weather, storms, ten-metre high waves and more."
+          },
+          {
+            "speaker": "M",
+            "text": "Ellen McArthur, it doesn't sound like much fun! Why do you do it?"
+          }
+        ]
+      },
+      {
+        "title": "1-2. Confused Directions",
+        "label": "Conversation 1: Asking for the Way (Track 54)",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Listen, we're obviously lost. - ask this guy."
+          },
+          {
+            "speaker": "B",
+            "text": "OK, OK. ...Sorry. Do you speak English?"
+          },
+          {
+            "speaker": "C",
+            "text": "Sure."
+          },
+          {
+            "speaker": "B",
+            "text": "Oh, great. Do you know the way to the museum from here?"
+          },
+          {
+            "speaker": "C",
+            "text": "Yes, but it is far. It's better to get a bus."
+          },
+          {
+            "speaker": "B",
+            "text": "OK. So how do we get to the stop?"
+          },
+          {
+            "speaker": "C",
+            "text": "Down this road. Take the second road on the right then cross, turn left and then left and it's directly opposite the town hall."
+          },
+          {
+            "speaker": "B",
+            "text": "OK, great."
+          },
+          {
+            "speaker": "C",
+            "text": "No problem."
+          },
+          {
+            "speaker": "B",
+            "text": "So did he say second right or second left?"
+          },
+          {
+            "speaker": "A",
+            "text": "I don't know I wasn't really listening I thought you were! What bus did he say we should catch?"
+          },
+          {
+            "speaker": "B",
+            "text": "No idea! Listen, it's down here somewhere anyway."
+          }
+        ]
+      },
+      {
+        "title": "1-3. The Wrong Bus Stop",
+        "label": "Conversation 2: Finding the Right Bus (Track 55)",
+        "script": [
+          {
+            "speaker": "B",
+            "text": "It's your turn. Ask that old lady."
+          },
+          {
+            "speaker": "A",
+            "text": "Excuse me. Is this the right bus stop for the museum?"
+          },
+          {
+            "speaker": "D",
+            "text": "Eh?"
+          },
+          {
+            "speaker": "A",
+            "text": "The bus? Brmm ... To the museum?"
+          },
+          {
+            "speaker": "D",
+            "text": "Eh?"
+          },
+          {
+            "speaker": "A",
+            "text": "To the museum?"
+          },
+          {
+            "speaker": "D",
+            "text": "Eh?"
+          },
+          {
+            "speaker": "E",
+            "text": "You want the number 67 bus."
+          },
+          {
+            "speaker": "D",
+            "text": "Oh thanks."
+          },
+          {
+            "speaker": "E",
+            "text": "You have to go over the road. This stop, it goes the wrong way. Go over the crossing. It's after the traffic lights."
+          },
+          {
+            "speaker": "A",
+            "text": "I see it. Thanks."
+          },
+          {
+            "speaker": "E",
+            "text": "They come often."
+          },
+          {
+            "speaker": "A",
+            "text": "Thanks."
+          }
+        ]
+      },
+      {
+        "title": "1-4. You Can't Miss It!",
+        "label": "Conversation 3: Final Directions (Track 56)",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Excuse me, sorry. Do you speak English?"
+          },
+          {
+            "speaker": "F",
+            "text": "Sure I do. How can I help?"
+          },
+          {
+            "speaker": "A",
+            "text": "Do you know where the museum is? Is it near here?"
+          },
+          {
+            "speaker": "F",
+            "text": "Yes, quite near, but you got off at the wrong stop, really."
+          },
+          {
+            "speaker": "F",
+            "text": "Go down this road until you come to a church. Then turn left. It's quite a big road."
+          },
+          {
+            "speaker": "F",
+            "text": "You'll go past a monument and a football ground. Just keep going. It's maybe half a mile. It's on the right."
+          },
+          {
+            "speaker": "F",
+            "text": "You can't miss it."
+          },
+          {
+            "speaker": "B",
+            "text": "I told you that was it! Why do you never listen to me?"
+          }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "1-1. BBDラジオ旅行ニュース",
+        "label": "トラック58: 交通混乱レポート",
+        "script": [
+          {
+            "speaker": "M",
+            "text": "間もなくエレン・マッカーサーを迎えて、彼女の最新の冒険についてインタビューします - 単独での世界一周航海です。"
+          },
+          {
+            "speaker": "M",
+            "text": "彼女に質問がある方は、9873-7373にお電話いただくか、may@bbd.netまでメールをお送りください。"
+          },
+          {
+            "speaker": "M",
+            "text": "しかしその前に、リサ・ヴェリティからの旅行ニュースです。"
+          },
+          {
+            "speaker": "L",
+            "text": "マーク、ありがとう。良いニュースはあまりありません。"
+          },
+          {
+            "speaker": "L",
+            "text": "今日、どこかに行くことは、多くの人にとって世界一周航海のような感覚になるでしょう。現在、多くの場所でひどい問題が発生しています。"
+          },
+          {
+            "speaker": "L",
+            "text": "まず空港からです。フランスの航空管制官のストライキが引き続き完全な混乱を引き起こしています。"
+          },
+          {
+            "speaker": "L",
+            "text": "フランス上空を飛行できる飛行機が少ないため、多くのフライトが遅延し、かなりの数がキャンセルされています。"
+          },
+          {
+            "speaker": "L",
+            "text": "また、他のフライトはフランス領空を避けるために迂回せざるを得ません。"
+          },
+          {
+            "speaker": "L",
+            "text": "今後数日間にフライトをご利用の乗客は、航空会社に電話するか、航空会社のウェブサイトでご確認いただくようお願いいたします。"
+          },
+          {
+            "speaker": "L",
+            "text": "ミルトン・ケインズに入るA516で大型トラックが衝突し、積んでいたスイカを落としました。"
+          },
+          {
+            "speaker": "L",
+            "text": "警察がその混乱を片付けている間、現在両方向の車線が閉鎖されています。おそらく大きな混乱でしょう！可能であればその地域を避けてください。"
+          },
+          {
+            "speaker": "L",
+            "text": "ジャンクション5と6の間のM6高速道路は、修理のため完全に閉鎖されています。"
+          },
+          {
+            "speaker": "L",
+            "text": "迂回路が設定されていますが、一日中遅延が予想されます。交通は非常にゆっくりと進んでいるので、他のルートを取るのが最善です。"
+          },
+          {
+            "speaker": "L",
+            "text": "ロンドンのノーザンラインの広い区間は、地下鉄の更新のための継続的な補修作業のため、本日閉鎖されています。"
+          },
+          {
+            "speaker": "L",
+            "text": "代替バスサービスが運行されています。また、イーストハム駅は洪水のため閉鎖されています。そこの水道管が破裂しました。"
+          },
+          {
+            "speaker": "L",
+            "text": "他の場所では良いニュースがあります。ロンドンとバーミンガム間の鉄道サービスは、倒木が線路から取り除かれた後、現在通常通り運行しています。"
+          },
+          {
+            "speaker": "L",
+            "text": "また、B761との交差点の信号機が再び作動したため、A6ではこれ以上問題はありません。そこの交通は自由に流れています。"
+          },
+          {
+            "speaker": "L",
+            "text": "最後に、今夜の2つのイベントについてお知らせします。"
+          },
+          {
+            "speaker": "L",
+            "text": "ウェンブリーでの大規模コンサートに行かれる方への注意です - スタジアム内および周辺には駐車場がありません。"
+          },
+          {
+            "speaker": "L",
+            "text": "警察がその地域で車両を排除する活動を行いますので、徒歩で行くか公共交通機関をご利用ください。"
+          },
+          {
+            "speaker": "L",
+            "text": "最後にロンドン中心部では、サイクリストによるデモが5時から交通問題を引き起こす可能性があるため、運転を避けるか早めに仕事を終えてください。"
+          },
+          {
+            "speaker": "L",
+            "text": "私からは以上です - マークに戻します。"
+          },
+          {
+            "speaker": "M",
+            "text": "休暇に行く人たちにとってはかなりひどい状況ですね。航空管制官がいつストライキを終了するか何か情報はありますか？"
+          },
+          {
+            "speaker": "L",
+            "text": "交渉は続いていますが、まだ合意の見込みはほとんどありません。情報が入り次第、またお知らせします。"
+          },
+          {
+            "speaker": "M",
+            "text": "わかりました、ありがとう。ストライキはおそらく彼女が対処しなければならなかったことの一つではないでしょうが、彼女は悪天候、嵐、10メートルの高波など多くを経験しました。"
+          },
+          {
+            "speaker": "M",
+            "text": "エレン・マッカーサー、あまり楽しそうに聞こえませんね！なぜそんなことをするのですか？"
+          }
+        ]
+      },
+      {
+        "title": "1-2. 混乱した道順",
+        "label": "会話1: 道を尋ねる (トラック54)",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "聞いて、明らかに道に迷ってるわ。この人に聞いてみて。"
+          },
+          {
+            "speaker": "B",
+            "text": "わかった、わかった。...すみません。英語を話せますか？"
+          },
+          {
+            "speaker": "C",
+            "text": "もちろん。"
+          },
+          {
+            "speaker": "B",
+            "text": "ああ、よかった。ここから博物館への道をご存知ですか？"
+          },
+          {
+            "speaker": "C",
+            "text": "はい、でも遠いです。バスに乗った方がいいですよ。"
+          },
+          {
+            "speaker": "B",
+            "text": "わかりました。では、どうやってバス停に行けばいいですか？"
+          },
+          {
+            "speaker": "C",
+            "text": "この道をまっすぐ行ってください。右側の二つ目の道を行き、それから渡り、左折し、また左折すると、市役所の真向かいにあります。"
+          },
+          {
+            "speaker": "B",
+            "text": "はい、わかりました。"
+          },
+          {
+            "speaker": "C",
+            "text": "どういたしまして。"
+          },
+          {
+            "speaker": "B",
+            "text": "で、彼は二つ目の右って言った？それとも二つ目の左？"
+          },
+          {
+            "speaker": "A",
+            "text": "知らないわ、私ちゃんと聞いてなかったもの。あなたが聞いてると思ってた！どのバスに乗ればいいって言ってた？"
+          },
+          {
+            "speaker": "B",
+            "text": "全然わからない！とにかく、この辺のどこかにあるはずだ。"
+          }
+        ]
+      },
+      {
+        "title": "1-3. 間違ったバス停",
+        "label": "会話2: 正しいバスを見つける (トラック55)",
+        "script": [
+          {
+            "speaker": "B",
+            "text": "君の番だ。あのおばあさんに聞いてみて。"
+          },
+          {
+            "speaker": "A",
+            "text": "すみません。ここは博物館行きの正しいバス停ですか？"
+          },
+          {
+            "speaker": "D",
+            "text": "え？"
+          },
+          {
+            "speaker": "A",
+            "text": "バス？ブロロ...博物館に行く？"
+          },
+          {
+            "speaker": "D",
+            "text": "え？"
+          },
+          {
+            "speaker": "A",
+            "text": "博物館へ？"
+          },
+          {
+            "speaker": "D",
+            "text": "え？"
+          },
+          {
+            "speaker": "E",
+            "text": "67番バスですね。"
+          },
+          {
+            "speaker": "D",
+            "text": "ああ、ありがとう。"
+          },
+          {
+            "speaker": "E",
+            "text": "道路を渡らなければなりません。このバス停は逆方向に行ってしまいます。横断歩道を渡ってください。信号を過ぎたところにあります。"
+          },
+          {
+            "speaker": "A",
+            "text": "見えました。ありがとう。"
+          },
+          {
+            "speaker": "E",
+            "text": "よく来ますよ。"
+          },
+          {
+            "speaker": "A",
+            "text": "ありがとう。"
+          }
+        ]
+      },
+      {
+        "title": "1-4. 間違えようがない！",
+        "label": "会話3: 最後の道順 (トラック56)",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "すみません。英語を話せますか？"
+          },
+          {
+            "speaker": "F",
+            "text": "もちろん話せますよ。どうしましたか？"
+          },
+          {
+            "speaker": "A",
+            "text": "博物館がどこにあるかご存知ですか？この近くですか？"
+          },
+          {
+            "speaker": "F",
+            "text": "はい、かなり近いですが、実際には間違った停留所で降りてしまいましたね。"
+          },
+          {
+            "speaker": "F",
+            "text": "この道を教会に当たるまでまっすぐ行ってください。それから左折します。かなり大きな道です。"
+          },
+          {
+            "speaker": "F",
+            "text": "記念碑とサッカー場を通り過ぎます。そのまま進んでください。おそらく半マイルほどです。右側にあります。"
+          },
+          {
+            "speaker": "F",
+            "text": "間違えようがありません。"
+          },
+          {
+            "speaker": "B",
+            "text": "あそこだったって言っただろう！なぜ私の言うことを全然聞かないんだ？"
+          }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "1-1. Actualités Voyages de BBD Radio",
+        "label": "Piste 58: Rapport sur les perturbations de voyage",
+        "script": [
+          {
+            "speaker": "M",
+            "text": "Dans un instant, nous serons avec Ellen McArthur pour l'interviewer sur sa dernière aventure - naviguer autour du globe en solitaire."
+          },
+          {
+            "speaker": "M",
+            "text": "Si vous avez des questions pour elle, appelez le 9873-7373 ou envoyez-nous un email à may@bbd.net."
+          },
+          {
+            "speaker": "M",
+            "text": "Mais d'abord, les informations voyage de Lisa Verity."
+          },
+          {
+            "speaker": "L",
+            "text": "Merci Mark. Pas beaucoup de bonnes nouvelles, j'en ai peur."
+          },
+          {
+            "speaker": "L",
+            "text": "Aller quelque part aujourd'hui va ressembler à une navigation autour du monde pour beaucoup de gens. Des problèmes terribles dans beaucoup d'endroits en ce moment."
+          },
+          {
+            "speaker": "L",
+            "text": "Commençons par les aéroports. La grève des contrôleurs aériens en France continue de semer le chaos complet."
+          },
+          {
+            "speaker": "L",
+            "text": "De nombreux vols sont retardés et pas mal annulés parce que seulement quelques avions peuvent survoler la France."
+          },
+          {
+            "speaker": "L",
+            "text": "et d'autres doivent être déroutés pour éviter l'espace aérien français."
+          },
+          {
+            "speaker": "L",
+            "text": "Il est demandé aux passagers qui volent dans les prochains jours d'appeler leur compagnie aérienne ou de consulter le site web de leur compagnie."
+          },
+          {
+            "speaker": "L",
+            "text": "Un poids lourd s'est écrasé sur l'A516 entrant dans Milton Keynes et a perdu sa charge de pastèques."
+          },
+          {
+            "speaker": "L",
+            "text": "Les voies dans les deux sens sont fermées pendant que la police essaie de nettoyer le désordre - un grand désordre j'imagine aussi ! Évitez la zone, si vous pouvez."
+          },
+          {
+            "speaker": "L",
+            "text": "L'autoroute M6 entre les jonctions 5 et 6 est complètement fermée pour réparations."
+          },
+          {
+            "speaker": "L",
+            "text": "Une déviation est en place, mais attendez-vous à des retards toute la journée. La circulation avance très lentement, donc il est préférable de prendre d'autres itinéraires."
+          },
+          {
+            "speaker": "L",
+            "text": "De grandes sections de la Northern Line à Londres sont fermées aujourd'hui en raison de travaux de réparation continus pour renouveler le métro."
+          },
+          {
+            "speaker": "L",
+            "text": "Un service de bus de remplacement est en place. Et la station East Ham est fermée à cause d'une inondation. Une canalisation d'eau a éclaté là-bas."
+          },
+          {
+            "speaker": "L",
+            "text": "Meilleures nouvelles ailleurs. Le service ferroviaire entre Londres et Birmingham fonctionne maintenant normalement après qu'un arbre tombé a été retiré de la voie."
+          },
+          {
+            "speaker": "L",
+            "text": "Et il n'y a plus de problèmes sur l'A6 maintenant que les feux de signalisation fonctionnent à nouveau au carrefour avec la B761. La circulation y circule librement."
+          },
+          {
+            "speaker": "L",
+            "text": "Enfin, deux événements ce soir à vous annoncer."
+          },
+          {
+            "speaker": "L",
+            "text": "Juste pour rappeler à ceux qui se rendent à Wembley pour le grand concert - il n'y a pas de stationnement dans ou autour du stade."
+          },
+          {
+            "speaker": "L",
+            "text": "La police interviendra dans la zone pour enlever les voitures, alors allez à pied ou prenez les transports en commun."
+          },
+          {
+            "speaker": "L",
+            "text": "Et enfin dans le centre de Londres, une manifestation de cyclistes est susceptible de causer quelques problèmes de circulation à partir de 17 heures, donc évitez de conduire ou quittez le travail tôt."
+          },
+          {
+            "speaker": "L",
+            "text": "C'est tout pour moi - je rends l'antenne à Mark."
+          },
+          {
+            "speaker": "M",
+            "text": "C'est assez horrible pour ceux qui partent en vacances. Une idée de quand les contrôleurs aériens pourraient mettre fin à leur grève ?"
+          },
+          {
+            "speaker": "L",
+            "text": "Eh bien, les négociations se poursuivent, mais il y a peu d'espoir d'un accord pour l'instant. Nous vous donnerons plus d'informations quand nous les aurons."
+          },
+          {
+            "speaker": "M",
+            "text": "OK, merci. Eh bien, les grèves étaient probablement une chose à laquelle elle n'a pas eu à faire face, mais elle a eu beaucoup de mauvais temps, des tempêtes, des vagues de dix mètres de haut et plus encore."
+          },
+          {
+            "speaker": "M",
+            "text": "Ellen McArthur, ça ne semble pas très amusant ! Pourquoi faites-vous cela ?"
+          }
+        ]
+      },
+      {
+        "title": "1-2. Itinéraires Confus",
+        "label": "Conversation 1: Demander son chemin (Piste 54)",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Écoute, on est clairement perdus. Demande à ce gars."
+          },
+          {
+            "speaker": "B",
+            "text": "D'accord, d'accord. ...Désolé. Parlez-vous anglais ?"
+          },
+          {
+            "speaker": "C",
+            "text": "Bien sûr."
+          },
+          {
+            "speaker": "B",
+            "text": "Oh, super. Savez-vous le chemin pour aller au musée d'ici ?"
+          },
+          {
+            "speaker": "C",
+            "text": "Oui, mais c'est loin. Il vaut mieux prendre un bus."
+          },
+          {
+            "speaker": "B",
+            "text": "OK. Alors comment allons-nous à l'arrêt ?"
+          },
+          {
+            "speaker": "C",
+            "text": "Descendez cette rue. Prenez la deuxième rue à droite puis traversez, tournez à gauche puis à gauche et c'est directement en face de la mairie."
+          },
+          {
+            "speaker": "B",
+            "text": "OK, super."
+          },
+          {
+            "speaker": "C",
+            "text": "Pas de problème."
+          },
+          {
+            "speaker": "B",
+            "text": "Alors, a-t-il dit deuxième droite ou deuxième gauche ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Je ne sais pas, je n'écoutais pas vraiment, je pensais que toi tu écoutais ! Quel bus a-t-il dit que nous devions prendre ?"
+          },
+          {
+            "speaker": "B",
+            "text": "Aucune idée ! Écoute, c'est par ici quelque part de toute façon."
+          }
+        ]
+      },
+      {
+        "title": "1-3. Le Mauvais Arrêt de Bus",
+        "label": "Conversation 2: Trouver le bon bus (Piste 55)",
+        "script": [
+          {
+            "speaker": "B",
+            "text": "C'est ton tour. Demande à cette vieille dame."
+          },
+          {
+            "speaker": "A",
+            "text": "Excusez-moi. Est-ce le bon arrêt de bus pour le musée ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Hein ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Le bus ? Brmm ... Pour le musée ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Hein ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Au musée ?"
+          },
+          {
+            "speaker": "D",
+            "text": "Hein ?"
+          },
+          {
+            "speaker": "E",
+            "text": "Vous voulez le bus numéro 67."
+          },
+          {
+            "speaker": "D",
+            "text": "Oh merci."
+          },
+          {
+            "speaker": "E",
+            "text": "Vous devez traverser la route. Cet arrêt, il va dans le mauvais sens. Traversez le passage piéton. C'est après les feux de signalisation."
+          },
+          {
+            "speaker": "A",
+            "text": "Je le vois. Merci."
+          },
+          {
+            "speaker": "E",
+            "text": "Ils passent souvent."
+          },
+          {
+            "speaker": "A",
+            "text": "Merci."
+          }
+        ]
+      },
+      {
+        "title": "1-4. Vous Ne Pouvez Pas le Manquer !",
+        "label": "Conversation 3: Derniers itinéraires (Piste 56)",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "Excusez-moi, désolé. Parlez-vous anglais ?"
+          },
+          {
+            "speaker": "F",
+            "text": "Bien sûr que oui. Comment puis-je vous aider ?"
+          },
+          {
+            "speaker": "A",
+            "text": "Savez-vous où se trouve le musée ? Est-ce près d'ici ?"
+          },
+          {
+            "speaker": "F",
+            "text": "Oui, assez près, mais vous êtes descendu au mauvais arrêt, vraiment."
+          },
+          {
+            "speaker": "F",
+            "text": "Descendez cette rue jusqu'à ce que vous arriviez à une église. Puis tournez à gauche. C'est une assez grande rue."
+          },
+          {
+            "speaker": "F",
+            "text": "Vous passerez devant un monument et un terrain de football. Continuez. C'est peut-être à un demi-mile. C'est sur la droite."
+          },
+          {
+            "speaker": "F",
+            "text": "Vous ne pouvez pas le manquer."
+          },
+          {
+            "speaker": "B",
+            "text": "Je t'avais dit que c'était ça ! Pourquoi ne m'écoutes-tu jamais ?"
+          }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "1-1. BBD 라디오 여행 뉴스",
+        "label": "트랙 58: 교통 혼란 보고서",
+        "script": [
+          {
+            "speaker": "M",
+            "text": "잠시 후 엘렌 맥아더와 함께 그녀의 최신 모험에 대해 인터뷰하겠습니다 - 혼자서 세계 일주 항해를 한 이야기입니다."
+          },
+          {
+            "speaker": "M",
+            "text": "그녀에게 질문이 있으시면 9873-7373으로 전화하거나 may@bbd.net으로 이메일을 보내주세요."
+          },
+          {
+            "speaker": "M",
+            "text": "하지만 먼저 리사 베리티의 여행 뉴스입니다."
+          },
+          {
+            "speaker": "L",
+            "text": "고마워요 마크. 좋은 소식은 별로 없네요."
+          },
+          {
+            "speaker": "L",
+            "text": "오늘 어딘가에 가는 것은 많은 사람들에게 세계 일주 항해와 비슷하게 느껴질 겁니다. 지금 많은 곳에서 심각한 문제가 발생하고 있습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "공항부터 시작하겠습니다. 프랑스의 항공 관제사 파업이 계속해서 완전한 혼란을 일으키고 있습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "프랑스 상공을 비행할 수 있는 비행기가 거의 없기 때문에 많은 항공편이 지연되고 상당수가 취소되었습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "그리고 다른 항공편들은 프랑스 영공을 피하기 위해 우회해야 합니다."
+          },
+          {
+            "speaker": "L",
+            "text": "앞으로 며칠 내에 비행기를 타실 승객들은 항공사에 전화하거나 항공사 웹사이트를 확인하시기 바랍니다."
+          },
+          {
+            "speaker": "L",
+            "text": "밀턴 케인스로 들어가는 A516 도로에서 대형 트럭이 충돌하여 수박 화물을 떨어뜨렸습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "경찰이 난장판을 치우는 동안 양방향 차선이 현재 폐쇄되어 있습니다. 아마도 큰 난장판일 겁니다! 가능하면 그 지역을 피하세요."
+          },
+          {
+            "speaker": "L",
+            "text": "5번과 6번 교차로 사이의 M6 고속도로는 공사로 인해 완전히 폐쇄되었습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "우회로가 운영 중이지만 하루 종일 지연이 예상됩니다. 교통이 매우 느리게 움직이고 있으니 다른 경로를 이용하는 것이 좋습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "런던의 노던 라인 넓은 구간은 지하철 갱신을 위한 지속적인 보수 공사로 인해 오늘 폐쇄되었습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "대체 버스 서비스가 운영 중입니다. 그리고 이스트햄 역은 홍수로 인해 폐쇄되었습니다. 거기 수도관이 터졌습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "다른 곳은 더 나은 소식입니다. 런던과 버밍엄 간 철도 서비스는 쓰러진 나무가 선로에서 제거된 후 현재 정상적으로 운행되고 있습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "그리고 B761과의 교차로 신호등이 다시 작동하기 시작했으므로 A6에는 더 이상 문제가 없습니다. 그곳의 교통은 원활하게 흐르고 있습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "마지막으로 오늘 밤 두 가지 이벤트에 대해 알려드리겠습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "웸블리에서 열리는 대규모 콘서트에 가시는 분들을 위해 알려드립니다 - 경기장 내부와 주변에는 주차장이 없습니다."
+          },
+          {
+            "speaker": "L",
+            "text": "경찰이 그 지역에서 차량을 제거하는 작업을 할 예정이니 도보로 가시거나 대중교통을 이용하세요."
+          },
+          {
+            "speaker": "L",
+            "text": "마지막으로 런던 중심부에서는 자전거 타는 사람들의 시위로 인해 5시부터 교통 문제가 발생할 수 있으니 운전을 피하거나 일찍 퇴근하세요."
+          },
+          {
+            "speaker": "L",
+            "text": "제 소식은 여기까지입니다 - 마크에게 돌려드리겠습니다."
+          },
+          {
+            "speaker": "M",
+            "text": "휴가 가시는 분들에게는 꽤 끔찍한 소식이네요. 항공 관제사들이 언제 파업을 끝낼지 아시는 거 있나요?"
+          },
+          {
+            "speaker": "L",
+            "text": "협상은 계속되고 있지만 아직 합의 가능성은 거의 없습니다. 소식을 받는 대로 더 알려드리겠습니다."
+          },
+          {
+            "speaker": "M",
+            "text": "알겠습니다, 고마워요. 파업은 아마 그녀가 처리해야 했던 일은 아니었겠지만, 그녀는 나쁜 날씨, 폭풍, 10미터 높이의 파도 등을 많이 경험했습니다."
+          },
+          {
+            "speaker": "M",
+            "text": "엘렌 맥아더, 별로 재미있어 보이지 않는데요! 왜 그런 일을 하시나요?"
+          }
+        ]
+      },
+      {
+        "title": "1-2. 혼란스러운 길 안내",
+        "label": "대화 1: 길 묻기 (트랙 54)",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "있잖아, 우리 분명히 길을 잃었어. 이 사람한테 물어봐."
+          },
+          {
+            "speaker": "B",
+            "text": "알았어, 알았어. ...죄송합니다. 영어 하세요?"
+          },
+          {
+            "speaker": "C",
+            "text": "물론이죠."
+          },
+          {
+            "speaker": "B",
+            "text": "아, 다행이네요. 여기서 박물관 가는 길 아세요?"
+          },
+          {
+            "speaker": "C",
+            "text": "네, 하지만 멀어요. 버스를 타는 게 좋을 겁니다."
+          },
+          {
+            "speaker": "B",
+            "text": "알겠어요. 그럼 버스 정류장은 어떻게 가나요?"
+          },
+          {
+            "speaker": "C",
+            "text": "이 길로 쭉 가세요. 오른쪽 두 번째 길로 가서 건너고, 왼쪽으로 돌고, 다시 왼쪽으로 돌면 시청 바로 맞은편에 있습니다."
+          },
+          {
+            "speaker": "B",
+            "text": "네, 알겠어요."
+          },
+          {
+            "speaker": "C",
+            "text": "천만에요."
+          },
+          {
+            "speaker": "B",
+            "text": "그래서, 두 번째 오른쪽이라고 했나? 아니면 두 번째 왼쪽?"
+          },
+          {
+            "speaker": "A",
+            "text": "나도 몰라, 나는 제대로 안 듣고 있었어. 네가 듣고 있는 줄 알았지! 우리가 무슨 버스를 타야 한다고 했어?"
+          },
+          {
+            "speaker": "B",
+            "text": "전혀 몰라! 있잖아, 어쨌든 이 근처 어딘가에 있을 거야."
+          }
+        ]
+      },
+      {
+        "title": "1-3. 잘못된 버스 정류장",
+        "label": "대화 2: 올바른 버스 찾기 (트랙 55)",
+        "script": [
+          {
+            "speaker": "B",
+            "text": "네 차례야. 저 할머니한테 물어봐."
+          },
+          {
+            "speaker": "A",
+            "text": "실례합니다. 여기가 박물관 가는 버스 정류장인가요?"
+          },
+          {
+            "speaker": "D",
+            "text": "응?"
+          },
+          {
+            "speaker": "A",
+            "text": "버스요? 브르릉... 박물관으로 가는?"
+          },
+          {
+            "speaker": "D",
+            "text": "응?"
+          },
+          {
+            "speaker": "A",
+            "text": "박물관으로요?"
+          },
+          {
+            "speaker": "D",
+            "text": "응?"
+          },
+          {
+            "speaker": "E",
+            "text": "67번 버스를 찾으시는군요."
+          },
+          {
+            "speaker": "D",
+            "text": "아, 고마워요."
+          },
+          {
+            "speaker": "E",
+            "text": "길을 건너야 해요. 이 정류장은 반대 방향으로 가요. 횡단보도를 건너세요. 신호등을 지나면 있어요."
+          },
+          {
+            "speaker": "A",
+            "text": "보여요. 고마워요."
+          },
+          {
+            "speaker": "E",
+            "text": "자주 와요."
+          },
+          {
+            "speaker": "A",
+            "text": "고마워요."
+          }
+        ]
+      },
+      {
+        "title": "1-4. 절대 못 찾을 수가 없을 거예요!",
+        "label": "대화 3: 마지막 길 안내 (트랙 56)",
+        "script": [
+          {
+            "speaker": "A",
+            "text": "실례합니다, 죄송합니다. 영어 하세요?"
+          },
+          {
+            "speaker": "F",
+            "text": "물론이죠. 어떻게 도와드릴까요?"
+          },
+          {
+            "speaker": "A",
+            "text": "박물관이 어디 있는지 아세요? 여기 근처인가요?"
+          },
+          {
+            "speaker": "F",
+            "text": "네, 꽤 가까운데, 사실 잘못된 정류장에서 내리셨어요."
+          },
+          {
+            "speaker": "F",
+            "text": "이 길을 교회가 나올 때까지 쭉 가세요. 그런 다음 왼쪽으로 도세요. 꽤 큰 길이에요."
+          },
+          {
+            "speaker": "F",
+            "text": "기념비와 축구장을 지나갈 거예요. 계속 가세요. 아마 반 마일쯤 될 거예요. 오른쪽에 있어요."
+          },
+          {
+            "speaker": "F",
+            "text": "절대 못 찾을 수가 없을 거예요."
+          },
+          {
+            "speaker": "B",
+            "text": "거기라고 말했잖아! 왜 내 말은 전혀 안 듣는 거야?"
+          }
+        ]
+      }
+    ]
+  },
+  "extra_reading_title": {
+    "en": "The Two Travellers and the Farmer",
+    "ja": "二人の旅人と農夫",
+    "fr": "Les Deux Voyageurs et le Fermier",
+    "ko": "두 여행자와 농부"
+  },
+  "extra_reading_html": {
+    "en": "<p>One hot afternoon, a <b>traveller was walking along a dusty country road</b> when he suddenly noticed an old farmer working in the fields. Keen to rest his feet, the traveller stopped and called out to the farmer, who seemed happy enough to stop working and chat for a while. The farmer put down his tools, stretched his back and walked slowly over to the side of the road, where the two men sat down together and shared a glass of water.</p><p>After some brief introductions, the stranger asked, \"<b>What kind of people live in the next town?</b>\"</p><p>\"What were the people like where you've come from?\" replied the farmer, <b>answering one question with another</b>.</p><p>\"They were a bad bunch. They were all troublemakers – and very lazy too! They were the <b>most selfish people in the world</b>. I didn't trust any of them and I have to say, I'm glad I'm leaving them all behind.\"</p><p>\"Is that right?\" replied the old farmer. \"Well, I'm afraid I've got some bad news for you. In the town you come to, <b>you'll find more of the same sort of people</b>.\"</p><p>Disappointed, the traveller continued on his way, while the farmer returned to his work.</p><p>A couple of weeks later, another stranger appeared, coming from the same direction. He also slowed down as he walked through the fields and shouted out to the farmer. The two men stopped to talk and after a few minutes, the second traveller said, \"Do you mind if I ask what kind of people live in the next town?\"</p><p>\"What were the people like where you've come from?\" replied the farmer once again.</p><p>\"They were the <b>best people in the world</b>. Hard-working, honest and friendly. I'm sorry I'm leaving them all behind.\"</p><p>\"Is that right?\" replied the old farmer. \"Well, I'm happy to tell you that in the town you come to, <b>you'll find more of the same sort of people</b>.\"</p>",
+    "ja": "<p>ある暑い午後、ある<b>旅行者が埃っぽい田舎道を歩いていると</b>、突然畑で働いている年老いた農夫に気づきました。足を休めたかった旅行者は立ち止まり、農夫に声をかけました。農夫は喜んで仕事をやめてしばらくおしゃべりをしました。農夫は道具を置き、背中を伸ばし、ゆっくりと道端に歩いていき、二人は一緒に座って一杯の水を分け合いました。</p><p>簡単な自己紹介の後、見知らぬ人が尋ねました。「<b>隣の町にはどんな人が住んでいますか？</b>」</p><p>「あなたが来たところにはどんな人がいましたか？」と農夫は<b>問いに答えずに逆に質問して</b>答えました。</p><p>「彼らは悪い連中でした。みんなトラブルメーカーで、とても怠惰でした！彼らは<b>世界で一番利己的な人々</b>でした。誰一人として信頼できませんでした。彼らをすべて置き去りにできて嬉しいです。」</p><p>「そうなんですか？」と年老いた農夫は答えました。「残念ですが、悪い知らせがあります。あなたがこれから行く町でも、<b>同じような人々に出会うでしょう</b>。」</p><p>がっかりした旅行者は旅を続け、農夫は仕事に戻りました。</p><p>数週間後、同じ方向から別の見知らぬ人が現れました。彼もまた畑を通るときに速度を落とし、農夫に声をかけました。二人は立ち止まって話し、数分後、二人目の旅行者が言いました。「隣の町にはどんな人が住んでいるか聞いてもいいですか？」</p><p>「あなたが来たところにはどんな人がいましたか？」と農夫は再び答えました。</p><p>「彼らは<b>世界で一番素晴らしい人々</b>でした。勤勉で、正直で、親切でした。彼らを置き去りにしてしまうのが残念です。」</p><p>「そうなんですか？」と年老いた農夫は答えました。「では、嬉しい知らせがあります。あなたがこれから行く町では、<b>同じような人々に出会うでしょう</b>。」</p>",
+    "fr": "<p>Un après-midi chaud, un <b>voyageur marchait sur une route de campagne poussiéreuse</b> quand il aperçut soudain un vieux fermier travaillant dans les champs. Désireux de reposer ses pieds, le voyageur s'arrêta et appela le fermier, qui semblait assez heureux d'arrêter de travailler et de bavarder un moment. Le fermier posa ses outils, s'étira le dos et marcha lentement vers le bord de la route, où les deux hommes s'assirent ensemble et partagèrent un verre d'eau.</p><p>Après quelques brèves présentations, l'étranger demanda : \"<b>Quel genre de personnes vivent dans la prochaine ville ?</b>\"</p><p>\"À quoi ressemblaient les gens d'où vous venez ?\" répondit le fermier, <b>répondant à une question par une autre</b>.</p><p>\"C'était un mauvais lot. C'étaient tous des fauteurs de troubles – et très paresseux aussi ! Ils étaient les <b>gens les plus égoïstes du monde</b>. Je n'en ai jamais fait confiance à aucun et je dois dire que je suis heureux de tous les laisser derrière moi.\"</p><p>\"C'est vrai ?\" répondit le vieux fermier. \"Eh bien, j'ai peur d'avoir une mauvaise nouvelle pour vous. Dans la ville où vous allez, <b>vous trouverez plus de gens du même genre</b>.\"</p><p>Déçu, le voyageur continua son chemin, tandis que le fermier retournait à son travail.</p><p>Quelques semaines plus tard, un autre étranger apparut, venant de la même direction. Il ralentit également en traversant les champs et appela le fermier. Les deux hommes s'arrêtèrent pour parler et après quelques minutes, le deuxième voyageur dit : \"Cela vous dérange-t-il si je demande quel genre de personnes vivent dans la prochaine ville ?\"</p><p>\"À quoi ressemblaient les gens d'où vous venez ?\" répondit à nouveau le fermier.</p><p>\"C'étaient les <b>meilleures personnes du monde</b>. Travailleurs, honnêtes et amicaux. Je suis désolé de tous les laisser derrière moi.\"</p><p>\"C'est vrai ?\" répondit le vieux fermier. \"Eh bien, je suis heureux de vous dire que dans la ville où vous allez, <b>vous trouverez plus de gens du même genre</b>.\"</p>",
+    "ko": "<p>어느 더운 오후, 한 <b>여행자가 먼지 낀 시골길을 걷고</b> 있었는데, 갑자기 들판에서 일하고 있는 늙은 농부를 발견했습니다. 발을 쉬고 싶었던 여행자는 멈춰 서서 농부에게 소리쳤고, 농부는 기꺼이 일을 멈추고 잠시 이야기를 나누었습니다. 농부는 도구를 내려놓고 등을 쭉 펴고 천천히 길가로 걸어왔고, 두 사람은 함께 앉아 한 잔의 물을 나누었습니다.</p><p>간단한 소개 후, 낯선 사람이 물었습니다. \"<b>다음 마을에는 어떤 사람들이 살고 있나요?</b>\"</p><p>\"당신이 온 곳에는 어떤 사람들이 있었습니까?\"라고 농부가 <b>한 질문에 다른 질문으로 답하며</b> 말했습니다.</p><p>\"그들은 나쁜 무리였어요. 모두 문제를 일으키는 사람들이었고, 게으르기까지 했어요! 그들은 <b>세상에서 가장 이기적인 사람들</b>이었어요. 나는 그들 중 누구도 믿지 않았고, 그들을 모두 뒤로하고 떠날 수 있어서 다행이라고 생각해요.\"</p><p>\"그렇습니까?\"라고 늙은 농부가 대답했습니다. \"글쎄요, 나쁜 소식을 전해야 할 것 같군요. 당신이 가게 될 마을에서도 <b>같은 부류의 사람들을 더 많이 만나게 될 겁니다</b>.\"</p><p>실망한 여행자는 길을 계속 갔고, 농부는 일터로 돌아갔습니다.</p><p>몇 주 후, 같은 방향에서 또 다른 낯선 사람이 나타났습니다. 그도 또한 들판을 지나갈 때 속도를 늦추고 농부에게 소리쳤습니다. 두 사람은 멈춰 서서 이야기를 나누었고, 몇 분 후 두 번째 여행자가 말했습니다. \"다음 마을에는 어떤 사람들이 사는지 물어봐도 될까요?\"</p><p>\"당신이 온 곳에는 어떤 사람들이 있었습니까?\"라고 농부가 다시 물었습니다.</p><p>\"그들은 <b>세상에서 가장 훌륭한 사람들</b>이었어요. 근면하고, 정직하고, 친절했어요. 그들을 모두 뒤에 두고 떠나게 되어 정말 아쉽습니다.\"</p><p>\"그렇습니까?\"라고 늙은 농부가 대답했습니다. \"글쎄요, 기쁜 소식을 전해드리게 되어 기쁩니다. 당신이 가게 될 마을에서도 <b>같은 부류의 사람들을 더 많이 만나게 될 겁니다</b>.\"</p>"
+  },
+  "tf_quiz": {
+    "en": [
+      {
+        "question": "The first traveller stopped to talk to the farmer because he wanted to help him with his work.",
+        "correct": "F",
+        "explanation": "False (The traveller stopped because he was keen to rest his feet, not to help the farmer.)"
+      },
+      {
+        "question": "The first traveller thought the people in his previous town were the most selfish in the world.",
+        "correct": "T",
+        "explanation": "True (He described them as a bad bunch, troublemakers, and the most selfish people.)"
+      },
+      {
+        "question": "The farmer told the first traveller that the people in the next town would be very different.",
+        "correct": "F",
+        "explanation": "False (The farmer said he would find more of the same sort of people as the ones he left behind.)"
+      },
+      {
+        "question": "The second traveller had a very positive opinion of the people from his old town.",
+        "correct": "T",
+        "explanation": "True (He said they were the best people in the world: hard-working, honest, and friendly.)"
+      },
+      {
+        "question": "The farmer used the travellers' own experiences to predict what they would find in the next town.",
+        "correct": "T",
+        "explanation": "True (The story suggests that the people you find often depend on your own attitude and perspective.)"
+      }
+    ],
+    "ja": [
+      {
+        "question": "最初の旅行者は農夫の仕事を手伝いたくて農夫に話しかけた。",
+        "correct": "F",
+        "explanation": "偽 (旅行者は足を休めたかったのであって、農夫を助けるためではなかった。)"
+      },
+      {
+        "question": "最初の旅行者は以前の町の住民を世界で一番利己的な人々だと思っていた。",
+        "correct": "T",
+        "explanation": "真 (彼はそれらを悪い連中、トラブルメーカー、そして最も利己的な人々と表現した。)"
+      },
+      {
+        "question": "農夫は最初の旅行者に、次の町の人々は大きく異なると言った。",
+        "correct": "F",
+        "explanation": "偽 (農夫は彼が後に残してきた人々と同じ種類の人々を見つけるだろうと言った。)"
+      },
+      {
+        "question": "2番目の旅行者は故郷の人々に対して非常に肯定的な意見を持っていた。",
+        "correct": "T",
+        "explanation": "真 (彼は彼らが世界で最も素晴らしい人々、勤勉で正直で親切だと言った。)"
+      },
+      {
+        "question": "農夫は旅行者自身の経験を利用して、次の町で何を見つけるかを予測した。",
+        "correct": "T",
+        "explanation": "真 (この物語は、出会う人々はしばしば自分の態度と視点に依存することを示唆している。)"
+      }
+    ],
+    "fr": [
+      {
+        "question": "Le premier voyageur s'est arrêté pour parler au fermier parce qu'il voulait l'aider dans son travail.",
+        "correct": "F",
+        "explanation": "Faux (Le voyageur s'est arrêté parce qu'il voulait reposer ses pieds, pas pour aider le fermier.)"
+      },
+      {
+        "question": "Le premier voyageur pensait que les gens de sa ville précédente étaient les plus égoïstes du monde.",
+        "correct": "T",
+        "explanation": "Vrai (Il les a décrits comme un mauvais lot, des fauteurs de troubles, et les personnes les plus égoïstes.)"
+      },
+      {
+        "question": "Le fermier a dit au premier voyageur que les gens de la prochaine ville seraient très différents.",
+        "correct": "F",
+        "explanation": "Faux (Le fermier a dit qu'il trouverait plus de gens du même genre que ceux qu'il avait laissés derrière lui.)"
+      },
+      {
+        "question": "Le deuxième voyageur avait une opinion très positive des gens de son ancienne ville.",
+        "correct": "T",
+        "explanation": "Vrai (Il a dit qu'ils étaient les meilleures personnes du monde : travailleurs, honnêtes et amicaux.)"
+      },
+      {
+        "question": "Le fermier a utilisé les propres expériences des voyageurs pour prédire ce qu'ils trouveraient dans la prochaine ville.",
+        "correct": "T",
+        "explanation": "Vrai (L'histoire suggère que les personnes que vous trouvez dépendent souvent de votre propre attitude et perspective.)"
+      }
+    ],
+    "ko": [
+      {
+        "question": "첫 번째 여행자는 농부의 일을 도와주기 위해 농부와 대화를 멈췄다.",
+        "correct": "F",
+        "explanation": "거짓 (여행자는 발을 쉬고 싶어서 멈춘 것이지 농부를 돕기 위해서가 아니다.)"
+      },
+      {
+        "question": "첫 번째 여행자는 이전 마을의 사람들이 세상에서 가장 이기적이라고 생각했다.",
+        "correct": "T",
+        "explanation": "참 (그는 그들을 나쁜 무리, 문제를 일으키는 사람들, 가장 이기적인 사람들이라고 묘사했다.)"
+      },
+      {
+        "question": "농부는 첫 번째 여행자에게 다음 마을의 사람들이 매우 다를 것이라고 말했다.",
+        "correct": "F",
+        "explanation": "거짓 (농부는 그가 뒤에 남겨둔 사람들과 같은 부류의 사람들을 더 많이 찾을 것이라고 말했다.)"
+      },
+      {
+        "question": "두 번째 여행자는 이전 마을 사람들에 대해 매우 긍정적인 의견을 가지고 있었다.",
+        "correct": "T",
+        "explanation": "참 (그는 그들이 세상에서 가장 훌륭한 사람들, 근면하고 정직하며 친절하다고 말했다.)"
+      },
+      {
+        "question": "농부는 여행자들의 경험을 사용하여 다음 마을에서 무엇을 찾을지 예측했다.",
+        "correct": "T",
+        "explanation": "참 (이 이야기는 당신이 만나는 사람들이 종종 당신 자신의 태도와 관점에 달려 있음을 시사한다.)"
+      }
+    ]
+  },
+  "speaking_chunks": {
+    "en": [
+      {
+        "type": "chunk",
+        "text": "walking along a dusty country road",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "answering one question with another",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "A traveller was walking along a dusty country road when the farmer kept answering one question with another.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "most selfish people in the world",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "more of the same sort",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "The man complained they were the most selfish people in the world, so the farmer said he would find more of the same sort.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "While walking along a dusty country road, the traveller met a farmer. The farmer, answering one question with another, listened to the man describe his old neighbours as the most selfish people in the world. Predictably, the farmer warned he would find more of the same sort in the next town.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "best people in the world",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "sorry I'm leaving them all behind",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "The second traveller thought his old neighbours were the best people in the world and was sorry I'm leaving them all behind.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "happy to tell you",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "more of the same sort",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "The farmer was happy to tell you that the next town also had more of the same sort of good people.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "A second stranger described his previous town as having the best people in the world, saying 'I'm sorry I'm leaving them all behind.' The farmer was happy to tell you that he would find more of the same sort of kindness ahead.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether walking along a dusty country road or moving to a new city, your attitude matters. If you think people are the most selfish people in the world, you'll find more of the same sort. But if you believe they are the best people in the world and are sorry I'm leaving them all behind, the farmer will be happy to tell you that you'll find friends everywhere.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ja": [
+      {
+        "type": "chunk",
+        "text": "埃っぽい田舎道を歩いている",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "問いに答えずに逆に質問する",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "農夫が問いに答えずに逆に質問し続ける間、旅行者は埃っぽい田舎道を歩いていた。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "世界で一番利己的な人々",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "同じ種類のより多く",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "男性は彼らが世界で一番利己的な人々だと不満を言ったので、農夫は彼が同じ種類のより多くを見つけるだろうと言った。",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "埃っぽい田舎道を歩いていると、旅行者は農夫に出会った。問いに答えずに逆に質問する農夫は、男性が以前の隣人を世界で一番利己的な人々と表現するのを聞いた。予想通り、農夫は次の町でも同じ種類のより多くを見つけるだろうと警告した。",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "世界で一番素晴らしい人々",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "彼らを置き去りにしてしまうのが残念だ",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "2番目の旅行者は以前の隣人が世界で一番素晴らしい人々だと思い、彼らを置き去りにしてしまうのが残念だと言った。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "嬉しい知らせがある",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "同じ種類のより多く",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "農夫は次の町にも同じ種類のより多くの善良な人々がいると嬉しい知らせを伝えた。",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "2番目の見知らぬ人は、以前の町には世界で一番素晴らしい人々がいると述べ、「彼らを置き去りにしてしまうのが残念だ」と言った。農夫は、彼がこの先も同じ種類のより多くの親切を見つけるだろうと嬉しい知らせを伝えた。",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "埃っぽい田舎道を歩いているときも、新しい都市に引っ越すときも、あなたの態度が重要である。もし人々が世界で一番利己的な人々だと思うなら、同じ種類のより多くを見つけるだろう。しかしもし彼らが世界で一番素晴らしい人々であり、彼らを置き去りにしてしまうのが残念だと思うなら、農夫はどこでも友達が見つかると嬉しい知らせを伝えてくれるだろう。",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "fr": [
+      {
+        "type": "chunk",
+        "text": "marchant sur une route de campagne poussiéreuse",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "répondant à une question par une autre",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Un voyageur marchait sur une route de campagne poussiéreuse quand le fermier n'arrêtait pas de répondre à une question par une autre.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "gens les plus égoïstes du monde",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "plus de gens du même genre",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "L'homme s'est plaint qu'ils étaient les gens les plus égoïstes du monde, alors le fermier a dit qu'il trouverait plus de gens du même genre.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "En marchant sur une route de campagne poussiéreuse, le voyageur a rencontré un fermier. Le fermier, répondant à une question par une autre, a écouté l'homme décrire ses anciens voisins comme les gens les plus égoïstes du monde. Comme prévu, le fermier l'a averti qu'il trouverait plus de gens du même genre dans la ville suivante.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "meilleures personnes du monde",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "désolé de tous les laisser derrière moi",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Le deuxième voyageur pensait que ses anciens voisins étaient les meilleures personnes du monde et était désolé de tous les laisser derrière moi.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "heureux de vous dire",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "plus de gens du même genre",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "Le fermier était heureux de vous dire que la ville suivante avait aussi plus de gens du même genre de bonnes personnes.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un deuxième étranger a décrit sa ville précédente comme ayant les meilleures personnes du monde, disant 'Je suis désolé de tous les laisser derrière moi.' Le fermier était heureux de vous dire qu'il trouverait plus de gens du même genre de gentillesse devant lui.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "Que vous marchiez sur une route de campagne poussiéreuse ou que vous déménagiez dans une nouvelle ville, votre attitude compte. Si vous pensez que les gens sont les gens les plus égoïstes du monde, vous trouverez plus de gens du même genre. Mais si vous croyez qu'ils sont les meilleures personnes du monde et que vous êtes désolé de tous les laisser derrière moi, le fermier sera heureux de vous dire que vous trouverez des amis partout.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ],
+    "ko": [
+      {
+        "type": "chunk",
+        "text": "먼지 낀 시골길을 걷고 있었다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "한 질문에 다른 질문으로 답하다",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "농부가 한 질문에 다른 질문으로 계속 답하는 동안 한 여행자가 먼지 낀 시골길을 걷고 있었다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "세상에서 가장 이기적인 사람들",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "같은 부류의 사람들",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "그 남자는 그들이 세상에서 가장 이기적인 사람들이라고 불평했고, 농부는 그가 같은 부류의 사람들을 찾을 것이라고 말했다.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "먼지 낀 시골길을 걷고 있을 때, 여행자는 농부를 만났다. 한 질문에 다른 질문으로 답하는 농부는 그 남자가 이전 이웃들을 세상에서 가장 이기적인 사람들이라고 묘사하는 것을 들었다. 예상대로, 농부는 그가 다음 마을에서도 같은 부류의 사람들을 찾을 것이라고 경고했다.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      {
+        "type": "chunk",
+        "text": "세상에서 가장 훌륭한 사람들",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "그들을 뒤에 두고 떠나게 되어 정말 아쉽다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "두 번째 여행자는 이전 이웃들이 세상에서 가장 훌륭한 사람들이라고 생각했고, 그들을 뒤에 두고 떠나게 되어 정말 아쉽다고 말했다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "chunk",
+        "text": "기쁜 소식을 전해드리게 되어 기쁘다",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "chunk",
+        "text": "같은 부류의 사람들",
+        "color": "#9b59b6",
+        "bg": "#f5eef8"
+      },
+      {
+        "type": "sentence",
+        "text": "농부는 다음 마을에도 같은 부류의 좋은 사람들이 있다는 기쁜 소식을 전해주었다.",
+        "color": "#8e44ad",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "두 번째 낯선 사람은 이전 마을에 세상에서 가장 훌륭한 사람들이 있었다고 말하며 '그들을 뒤에 두고 떠나게 되어 정말 아쉽다'고 말했다. 농부는 그가 앞으로도 같은 부류의 친절함을 찾을 것이라는 기쁜 소식을 전해주었다.",
+        "color": "#2c3e50",
+        "bg": "#f4ecf7"
+      },
+      {
+        "type": "paragraph",
+        "text": "먼지 낀 시골길을 걷고 있을 때든 새로운 도시로 이사할 때든, 당신의 태도가 중요하다. 사람들이 세상에서 가장 이기적인 사람들이라고 생각한다면, 당신은 같은 부류의 사람들을 찾을 것이다. 하지만 그들이 세상에서 가장 훌륭한 사람들이라고 믿고 그들을 뒤에 두고 떠나게 되어 정말 아쉽다고 생각한다면, 농부는 당신이 어디서든 친구를 찾을 것이라는 기쁜 소식을 전해줄 것이다.",
+        "color": "#ffffff",
+        "bg": "#2c3e50"
+      }
+    ]
+  },
+  "grammar_html": {
+    "en": "<h3>1. Articles (a, an and the)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• a / an</strong>: Used for <strong>singular, countable nouns</strong> when mentioned for the first time or not specific.</p><p style='margin:5px 0;'><strong>• the</strong>: Used for <strong>specific things</strong>, something already mentioned, or unique things (like 'the sun').</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Example:</strong> '<span style='color:#e67e22; font-weight:bold;'>A lorry</span> crashed on the road, leaving <span style='color:#e67e22; font-weight:bold;'>a</span> big mess.'<br><i style='color:#7f8c8d;'>(First mention of the lorry)</i></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• Example:</strong> 'Take the second road and find the stop opposite <span style='color:#16a085; font-weight:bold;'>the town hall</span>.'<br><i style='color:#7f8c8d;'>(Specific location - there is only one town hall)</i></li></ul><h3>2. Much & Too Much (Uncountable Nouns)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• much</strong>: Used in <strong>negative sentences or questions</strong> to talk about a large amount of something you can't count.</p><p style='margin:5px 0;'><strong>• too much</strong>: Used to say there is <strong>more than enough</strong> (often a negative meaning).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'There isn't <span style='color:#2980b9; font-weight:bold;'>much space</span> for cars to pass.'<br><i style='color:#7f8c8d;'>(Negative sentence about a large amount)</i></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• Example:</strong> 'I feel <span style='color:#2980b9; font-weight:bold;'>too much frustration</span> with this journey!'<br><i style='color:#7f8c8d;'>(More than enough - complaining)</i></li></ul><h3>3. Some & A bit of (Uncountable Nouns)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>• some</strong>: Used in <strong>positive sentences</strong> to talk about an unspecified amount.</p><p style='margin:5px 0;'><strong>• a bit of / a little</strong>: Used for a <strong>small amount</strong> of something uncountable.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'Passengers can find <span style='color:#d35400; font-weight:bold;'>some information</span> on the website.'<br><i style='color:#7f8c8d;'>(Positive sentence - unspecified amount)</i></li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• Example:</strong> 'The man gave them <span style='color:#d35400; font-weight:bold;'>a bit of advice</span> about the way.'<br><i style='color:#7f8c8d;'>(Small amount)</i></li></ul>",
+    "ja": "<p><em>文法ノートは現在英語のみ利用可能です。日本語版は後日追加されます。</em></p>",
+    "fr": "<p><em>Les notes de grammaire sont actuellement disponibles uniquement en anglais. La version française sera ajoutée ultérieurement.</em></p>",
+    "ko": "<p><em>문법 노트는 현재 영어로만 제공됩니다. 한국어 버전은 추후 추가될 예정입니다.</em></p>"
+  },
+  "vocabulary_check": {
+    "en": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: Travel Disruptions</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: chaos, unexpected, strike, delayed, cancelled</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. In France, an ongoing <select class='vocab-select'><option value=''>── select ──</option><option value='chaos'>chaos</option><option value='unexpected'>unexpected</option><option value='strike'>strike</option><option value='delayed'>delayed</option><option value='cancelled'>cancelled</option></select> by air traffic controllers is causing problems.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='strike' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. A few flights are <select class='vocab-select'><option value=''>── select ──</option><option value='chaos'>chaos</option><option value='unexpected'>unexpected</option><option value='strike'>strike</option><option value='delayed'>delayed</option><option value='cancelled'>cancelled</option></select> because of the ongoing strike.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='cancelled' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. You should always be ready for the <select class='vocab-select'><option value=''>── select ──</option><option value='chaos'>chaos</option><option value='unexpected'>unexpected</option><option value='strike'>strike</option><option value='delayed'>delayed</option><option value='cancelled'>cancelled</option></select> when traveling.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='unexpected' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. The actual journey can involve complete <select class='vocab-select'><option value=''>── select ──</option><option value='chaos'>chaos</option><option value='unexpected'>unexpected</option><option value='strike'>strike</option><option value='delayed'>delayed</option><option value='cancelled'>cancelled</option></select> and stress.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='chaos' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. Some flights are <select class='vocab-select'><option value=''>── select ──</option><option value='chaos'>chaos</option><option value='unexpected'>unexpected</option><option value='strike'>strike</option><option value='delayed'>delayed</option><option value='cancelled'>cancelled</option></select> while others are cancelled.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='delayed' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: Travel Information &amp; Guidance</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: advised, consult, guide, monument, frustration</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. By the time they arrived, they had a lot of <select class='vocab-select'><option value=''>── select ──</option><option value='advised'>advised</option><option value='consult'>consult</option><option value='guide'>guide</option><option value='monument'>monument</option><option value='frustration'>frustration</option></select> between them.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='frustration' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. A final <select class='vocab-select'><option value=''>── select ──</option><option value='advised'>advised</option><option value='consult'>consult</option><option value='guide'>guide</option><option value='monument'>monument</option><option value='frustration'>frustration</option></select> told them to walk past a church.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='guide' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. They had to walk past a <select class='vocab-select'><option value=''>── select ──</option><option value='advised'>advised</option><option value='consult'>consult</option><option value='guide'>guide</option><option value='monument'>monument</option><option value='frustration'>frustration</option></select> and a football ground.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='monument' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Passengers are <select class='vocab-select'><option value=''>── select ──</option><option value='advised'>advised</option><option value='consult'>consult</option><option value='guide'>guide</option><option value='monument'>monument</option><option value='frustration'>frustration</option></select> to check the airline's website before leaving.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='advised' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. You should <select class='vocab-select'><option value=''>── select ──</option><option value='advised'>advised</option><option value='consult'>consult</option><option value='guide'>guide</option><option value='monument'>monument</option><option value='frustration'>frustration</option></select> the airline's website for information.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='consult' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: Road &amp; Transport Problems</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: diversion, flood, burst, ongoing, air traffic controller</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. The station was closed because of a <select class='vocab-select'><option value=''>── select ──</option><option value='diversion'>diversion</option><option value='flood'>flood</option><option value='burst'>burst</option><option value='ongoing'>ongoing</option><option value='air traffic controller'>air traffic controller</option></select> caused by a burst pipe.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='flood' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. An <select class='vocab-select'><option value=''>── select ──</option><option value='diversion'>diversion</option><option value='flood'>flood</option><option value='burst'>burst</option><option value='ongoing'>ongoing</option><option value='air traffic controller'>air traffic controller</option></select> strike is causing chaos at French airports.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='ongoing' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. There is a <select class='vocab-select'><option value=''>── select ──</option><option value='diversion'>diversion</option><option value='flood'>flood</option><option value='burst'>burst</option><option value='ongoing'>ongoing</option><option value='air traffic controller'>air traffic controller</option></select> in operation, but traffic is moving slowly.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='diversion' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. A <select class='vocab-select'><option value=''>── select ──</option><option value='diversion'>diversion</option><option value='flood'>flood</option><option value='burst'>burst</option><option value='ongoing'>ongoing</option><option value='air traffic controller'>air traffic controller</option></select> water pipe caused a flood at the station.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='burst' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. The <select class='vocab-select'><option value=''>── select ──</option><option value='diversion'>diversion</option><option value='flood'>flood</option><option value='burst'>burst</option><option value='ongoing'>ongoing</option><option value='air traffic controller'>air traffic controller</option></select> are on strike in France.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='air traffic controller' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Group 4: Mindset &amp; Attitude</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Word Bank: perspective, negativity, patience, survive, attitude</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. With <select class='vocab-select'><option value=''>── select ──</option><option value='perspective'>perspective</option><option value='negativity'>negativity</option><option value='patience'>patience</option><option value='survive'>survive</option><option value='attitude'>attitude</option></select> and a sense of humour, you can get through any journey.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='patience' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. The experience of getting there depends on the <select class='vocab-select'><option value=''>── select ──</option><option value='perspective'>perspective</option><option value='negativity'>negativity</option><option value='patience'>patience</option><option value='survive'>survive</option><option value='attitude'>attitude</option></select> you choose.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='perspective' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. The kind of luck you find usually matches the <select class='vocab-select'><option value=''>── select ──</option><option value='perspective'>perspective</option><option value='negativity'>negativity</option><option value='patience'>patience</option><option value='survive'>survive</option><option value='attitude'>attitude</option></select> you bring with you.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='attitude' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Too much <select class='vocab-select'><option value=''>── select ──</option><option value='perspective'>perspective</option><option value='negativity'>negativity</option><option value='patience'>patience</option><option value='survive'>survive</option><option value='attitude'>attitude</option></select> means you will only see the problems.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='negativity' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. You can <select class='vocab-select'><option value=''>── select ──</option><option value='perspective'>perspective</option><option value='negativity'>negativity</option><option value='patience'>patience</option><option value='survive'>survive</option><option value='attitude'>attitude</option></select> any journey with the right mindset.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='survive' style='display:none;'></span></div></div>",
+    "ja": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>グループ1: 旅行のトラブル</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 混乱, 予期せぬ事態, ストライキ, 遅延した, キャンセルされた</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. フランスでは、航空管制官による進行中の<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='混乱'>混乱</option><option value='予期せぬ事態'>予期せぬ事態</option><option value='ストライキ'>ストライキ</option><option value='遅延した'>遅延した</option><option value='キャンセルされた'>キャンセルされた</option></select>が問題を引き起こしています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='ストライキ' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 進行中のストライキのため、いくつかのフライトは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='混乱'>混乱</option><option value='予期せぬ事態'>予期せぬ事態</option><option value='ストライキ'>ストライキ</option><option value='遅延した'>遅延した</option><option value='キャンセルされた'>キャンセルされた</option></select>されます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='キャンセルされた' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 旅行中は常に<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='混乱'>混乱</option><option value='予期せぬ事態'>予期せぬ事態</option><option value='ストライキ'>ストライキ</option><option value='遅延した'>遅延した</option><option value='キャンセルされた'>キャンセルされた</option></select>に備えるべきです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='予期せぬ事態' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 実際の旅は完全な<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='混乱'>混乱</option><option value='予期せぬ事態'>予期せぬ事態</option><option value='ストライキ'>ストライキ</option><option value='遅延した'>遅延した</option><option value='キャンセルされた'>キャンセルされた</option></select>とストレスを伴うことがあります。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='混乱' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 一部のフライトは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='混乱'>混乱</option><option value='予期せぬ事態'>予期せぬ事態</option><option value='ストライキ'>ストライキ</option><option value='遅延した'>遅延した</option><option value='キャンセルされた'>キャンセルされた</option></select>し、他のものはキャンセルされます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='遅延した' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>グループ2: 旅行情報と案内</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 勧められた, 確認する, 案内人, 記念碑, 欲求不満</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 彼らが到着したときには、二人の間には多くの<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='勧められた'>勧められた</option><option value='確認する'>確認する</option><option value='案内人'>案内人</option><option value='記念碑'>記念碑</option><option value='欲求不満'>欲求不満</option></select>が溜まっていました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='欲求不満' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 最後の<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='勧められた'>勧められた</option><option value='確認する'>確認する</option><option value='案内人'>案内人</option><option value='記念碑'>記念碑</option><option value='欲求不満'>欲求不満</option></select>は教会を通り過ぎて歩くように彼らに言いました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='案内人' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 彼らは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='勧められた'>勧められた</option><option value='確認する'>確認する</option><option value='案内人'>案内人</option><option value='記念碑'>記念碑</option><option value='欲求不満'>欲求不満</option></select>とサッカー場を通り過ぎて歩かなければなりませんでした。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='記念碑' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 乗客は家を出る前に航空会社のウェブサイトを確認するように<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='勧められた'>勧められた</option><option value='確認する'>確認する</option><option value='案内人'>案内人</option><option value='記念碑'>記念碑</option><option value='欲求不満'>欲求不満</option></select>ています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='勧められた' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 情報を得るために航空会社のウェブサイトを<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='勧められた'>勧められた</option><option value='確認する'>確認する</option><option value='案内人'>案内人</option><option value='記念碑'>記念碑</option><option value='欲求不満'>欲求不満</option></select>べきです。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='確認する' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>グループ3: 道路と交通問題</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 迂回路, 洪水, 破裂した, 進行中の, 航空管制官</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 駅は破裂した水道管による<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='迂回路'>迂回路</option><option value='洪水'>洪水</option><option value='破裂した'>破裂した</option><option value='進行中の'>進行中の</option><option value='航空管制官'>航空管制官</option></select>のために閉鎖されました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='洪水' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='迂回路'>迂回路</option><option value='洪水'>洪水</option><option value='破裂した'>破裂した</option><option value='進行中の'>進行中の</option><option value='航空管制官'>航空管制官</option></select>ストライキがフランスの空港で混乱を引き起こしています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='進行中の' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='迂回路'>迂回路</option><option value='洪水'>洪水</option><option value='破裂した'>破裂した</option><option value='進行中の'>進行中の</option><option value='航空管制官'>航空管制官</option></select>が運用されていますが、交通は遅く動いています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='迂回路' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='迂回路'>迂回路</option><option value='洪水'>洪水</option><option value='破裂した'>破裂した</option><option value='進行中の'>進行中の</option><option value='航空管制官'>航空管制官</option></select>水道管が駅で洪水を引き起こしました。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='破裂した' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. フランスでは<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='迂回路'>迂回路</option><option value='洪水'>洪水</option><option value='破裂した'>破裂した</option><option value='進行中の'>進行中の</option><option value='航空管制官'>航空管制官</option></select>がストライキを行っています。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='航空管制官' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>グループ4: 考え方と態度</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 単語バンク: 視点, 否定的な態度, 忍耐, 乗り切る, 態度</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='視点'>視点</option><option value='否定的な態度'>否定的な態度</option><option value='忍耐'>忍耐</option><option value='乗り切る'>乗り切る</option><option value='態度'>態度</option></select>とユーモアのセンスがあれば、どんな旅も乗り切ることができます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='忍耐' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. そこに到達する経験は、あなたが選ぶ<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='視点'>視点</option><option value='否定的な態度'>否定的な態度</option><option value='忍耐'>忍耐</option><option value='乗り切る'>乗り切る</option><option value='態度'>態度</option></select>に依存します。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='視点' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. あなたが見つける運の種類は、通常、あなたが持って行く<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='視点'>視点</option><option value='否定的な態度'>否定的な態度</option><option value='忍耐'>忍耐</option><option value='乗り切る'>乗り切る</option><option value='態度'>態度</option></select>と一致します。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='態度' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. <select class='vocab-select'><option value=''>── 選択してください ──</option><option value='視点'>視点</option><option value='否定的な態度'>否定的な態度</option><option value='忍耐'>忍耐</option><option value='乗り切る'>乗り切る</option><option value='態度'>態度</option></select>が強すぎると、問題だけが見えてしまいます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='否定的な態度' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 正しい考え方を持っていれば、どんな旅でも<select class='vocab-select'><option value=''>── 選択してください ──</option><option value='視点'>視点</option><option value='否定的な態度'>否定的な態度</option><option value='忍耐'>忍耐</option><option value='乗り切る'>乗り切る</option><option value='態度'>態度</option></select>ことができます。<button onclick='checkVocab(this)'>チェック</button><span class='vocab-answer' data-correct='乗り切る' style='display:none;'></span></div></div>",
+    "fr": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Groupe 1: Perturbations de voyage</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: chaos, imprévu, grève, retardé, annulé</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. En France, une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='chaos'>chaos</option><option value='imprévu'>imprévu</option><option value='grève'>grève</option><option value='retardé'>retardé</option><option value='annulé'>annulé</option></select> en cours des contrôleurs aériens cause des problèmes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='grève' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. Quelques vols sont <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='chaos'>chaos</option><option value='imprévu'>imprévu</option><option value='grève'>grève</option><option value='retardé'>retardé</option><option value='annulé'>annulé</option></select> à cause de la grève en cours.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='annulé' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. Vous devez toujours être prêt pour l'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='chaos'>chaos</option><option value='imprévu'>imprévu</option><option value='grève'>grève</option><option value='retardé'>retardé</option><option value='annulé'>annulé</option></select> lorsque vous voyagez.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='imprévu' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. Le voyage réel peut impliquer un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='chaos'>chaos</option><option value='imprévu'>imprévu</option><option value='grève'>grève</option><option value='retardé'>retardé</option><option value='annulé'>annulé</option></select> complet et du stress.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='chaos' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. Certains vols sont <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='chaos'>chaos</option><option value='imprévu'>imprévu</option><option value='grève'>grève</option><option value='retardé'>retardé</option><option value='annulé'>annulé</option></select> tandis que d'autres sont annulés.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='retardé' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Groupe 2: Informations et conseils de voyage</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: conseillé, consulter, guide, monument, frustration</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. Quand ils sont arrivés, ils avaient beaucoup de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='conseillé'>conseillé</option><option value='consulter'>consulter</option><option value='guide'>guide</option><option value='monument'>monument</option><option value='frustration'>frustration</option></select> entre eux.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='frustration' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. Un dernier <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='conseillé'>conseillé</option><option value='consulter'>consulter</option><option value='guide'>guide</option><option value='monument'>monument</option><option value='frustration'>frustration</option></select> leur a dit de marcher devant une église.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='guide' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. Ils ont dû marcher devant un <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='conseillé'>conseillé</option><option value='consulter'>consulter</option><option value='guide'>guide</option><option value='monument'>monument</option><option value='frustration'>frustration</option></select> et un terrain de football.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='monument' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. Il est <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='conseillé'>conseillé</option><option value='consulter'>consulter</option><option value='guide'>guide</option><option value='monument'>monument</option><option value='frustration'>frustration</option></select> aux passagers de vérifier le site web de la compagnie aérienne.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='conseillé' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. Vous devriez <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='conseillé'>conseillé</option><option value='consulter'>consulter</option><option value='guide'>guide</option><option value='monument'>monument</option><option value='frustration'>frustration</option></select> le site web de la compagnie aérienne pour obtenir des informations.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='consulter' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Groupe 3: Problèmes routiers et de transport</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: déviation, inondation, éclaté, en cours, contrôleur aérien</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. La station a été fermée à cause d'une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='déviation'>déviation</option><option value='inondation'>inondation</option><option value='éclaté'>éclaté</option><option value='en cours'>en cours</option><option value='contrôleur aérien'>contrôleur aérien</option></select> causée par un tuyau éclaté.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='inondation' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. Une grève <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='déviation'>déviation</option><option value='inondation'>inondation</option><option value='éclaté'>éclaté</option><option value='en cours'>en cours</option><option value='contrôleur aérien'>contrôleur aérien</option></select> cause le chaos dans les aéroports français.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='en cours' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. Il y a une <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='déviation'>déviation</option><option value='inondation'>inondation</option><option value='éclaté'>éclaté</option><option value='en cours'>en cours</option><option value='contrôleur aérien'>contrôleur aérien</option></select> en place, mais la circulation avance lentement.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='déviation' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. Un tuyau d'eau <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='déviation'>déviation</option><option value='inondation'>inondation</option><option value='éclaté'>éclaté</option><option value='en cours'>en cours</option><option value='contrôleur aérien'>contrôleur aérien</option></select> a causé une inondation à la station.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='éclaté' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. Les <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='déviation'>déviation</option><option value='inondation'>inondation</option><option value='éclaté'>éclaté</option><option value='en cours'>en cours</option><option value='contrôleur aérien'>contrôleur aérien</option></select> sont en grève en France.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='contrôleur aérien' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>Groupe 4: État d'esprit et attitude</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> Banque de mots: perspective, négativité, patience, survivre, attitude</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. Avec de la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='perspective'>perspective</option><option value='négativité'>négativité</option><option value='patience'>patience</option><option value='survivre'>survivre</option><option value='attitude'>attitude</option></select> et du sens de l'humour, vous pouvez surmonter n'importe quel voyage.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='patience' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. L'expérience d'y arriver dépend de la <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='perspective'>perspective</option><option value='négativité'>négativité</option><option value='patience'>patience</option><option value='survivre'>survivre</option><option value='attitude'>attitude</option></select> que vous choisissez.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='perspective' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. Le genre de chance que vous trouvez correspond généralement à l'<select class='vocab-select'><option value=''>── sélectionner ──</option><option value='perspective'>perspective</option><option value='négativité'>négativité</option><option value='patience'>patience</option><option value='survivre'>survivre</option><option value='attitude'>attitude</option></select> que vous apportez.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='attitude' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. Trop de <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='perspective'>perspective</option><option value='négativité'>négativité</option><option value='patience'>patience</option><option value='survivre'>survivre</option><option value='attitude'>attitude</option></select> signifie que vous ne verrez que les problèmes.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='négativité' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. Vous pouvez <select class='vocab-select'><option value=''>── sélectionner ──</option><option value='perspective'>perspective</option><option value='négativité'>négativité</option><option value='patience'>patience</option><option value='survivre'>survivre</option><option value='attitude'>attitude</option></select> n'importe quel voyage avec le bon état d'esprit.<button onclick='checkVocab(this)'>Vérifier</button><span class='vocab-answer' data-correct='survivre' style='display:none;'></span></div></div>",
+    "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 여행 장애</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 혼란, 예상치 못한 일, 파업, 지연된, 취소된</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 프랑스에서는 항공 관제사들의 진행 중인 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='혼란'>혼란</option><option value='예상치 못한 일'>예상치 못한 일</option><option value='파업'>파업</option><option value='지연된'>지연된</option><option value='취소된'>취소된</option></select>이 문제를 일으키고 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='파업' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 진행 중인 파업 때문에 일부 항공편이 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='혼란'>혼란</option><option value='예상치 못한 일'>예상치 못한 일</option><option value='파업'>파업</option><option value='지연된'>지연된</option><option value='취소된'>취소된</option></select>됩니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='취소된' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 여행할 때는 항상 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='혼란'>혼란</option><option value='예상치 못한 일'>예상치 못한 일</option><option value='파업'>파업</option><option value='지연된'>지연된</option><option value='취소된'>취소된</option></select>에 대비해야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='예상치 못한 일' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>4. 실제 여행은 완전한 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='혼란'>혼란</option><option value='예상치 못한 일'>예상치 못한 일</option><option value='파업'>파업</option><option value='지연된'>지연된</option><option value='취소된'>취소된</option></select>과 스트레스를 동반할 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='혼란' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 일부 항공편은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='혼란'>혼란</option><option value='예상치 못한 일'>예상치 못한 일</option><option value='파업'>파업</option><option value='지연된'>지연된</option><option value='취소된'>취소된</option></select>되고 다른 항공편은 취소됩니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='지연된' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 여행 정보 및 안내</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 권고된, 확인하다, 안내자, 기념비, 좌절감</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 그들이 도착했을 때, 그들 사이에는 많은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='권고된'>권고된</option><option value='확인하다'>확인하다</option><option value='안내자'>안내자</option><option value='기념비'>기념비</option><option value='좌절감'>좌절감</option></select>이 쌓여 있었습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='좌절감' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>7. 마지막 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='권고된'>권고된</option><option value='확인하다'>확인하다</option><option value='안내자'>안내자</option><option value='기념비'>기념비</option><option value='좌절감'>좌절감</option></select>가 교회를 지나서 걸어가라고 말했습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='안내자' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 그들은 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='권고된'>권고된</option><option value='확인하다'>확인하다</option><option value='안내자'>안내자</option><option value='기념비'>기념비</option><option value='좌절감'>좌절감</option></select>와 축구장을 지나서 걸어가야 했습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='기념비' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 승객들은 집을 떠나기 전에 항공사 웹사이트를 확인하도록 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='권고된'>권고된</option><option value='확인하다'>확인하다</option><option value='안내자'>안내자</option><option value='기념비'>기념비</option><option value='좌절감'>좌절감</option></select>니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='권고된' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>10. 정보를 얻기 위해 항공사 웹사이트를 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='권고된'>권고된</option><option value='확인하다'>확인하다</option><option value='안내자'>안내자</option><option value='기념비'>기념비</option><option value='좌절감'>좌절감</option></select>해야 합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='확인하다' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>그룹 3: 도로 및 교통 문제</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 우회로, 홍수, 터진, 진행 중인, 항공 관제사</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>11. 터진 수도관으로 인한 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='우회로'>우회로</option><option value='홍수'>홍수</option><option value='터진'>터진</option><option value='진행 중인'>진행 중인</option><option value='항공 관제사'>항공 관제사</option></select> 때문에 역이 폐쇄되었습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='홍수' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>12. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='우회로'>우회로</option><option value='홍수'>홍수</option><option value='터진'>터진</option><option value='진행 중인'>진행 중인</option><option value='항공 관제사'>항공 관제사</option></select> 파업이 프랑스 공항에서 혼란을 일으키고 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='진행 중인' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>13. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='우회로'>우회로</option><option value='홍수'>홍수</option><option value='터진'>터진</option><option value='진행 중인'>진행 중인</option><option value='항공 관제사'>항공 관제사</option></select>가 운영 중이지만 교통이 매우 느리게 움직이고 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='우회로' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>14. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='우회로'>우회로</option><option value='홍수'>홍수</option><option value='터진'>터진</option><option value='진행 중인'>진행 중인</option><option value='항공 관제사'>항공 관제사</option></select> 수도관이 역에 홍수를 일으켰습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='터진' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>15. 프랑스에서는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='우회로'>우회로</option><option value='홍수'>홍수</option><option value='터진'>터진</option><option value='진행 중인'>진행 중인</option><option value='항공 관제사'>항공 관제사</option></select>들이 파업 중입니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='항공 관제사' style='display:none;'></span></div></div><div style='background:#ebf8ff; border:1px solid #bee3f8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2c5282; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 4: 마음가짐과 태도</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 은행: 관점, 부정성, 인내심, 견디다, 태도</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>16. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='관점'>관점</option><option value='부정성'>부정성</option><option value='인내심'>인내심</option><option value='견디다'>견디다</option><option value='태도'>태도</option></select>과 유머 감각만 있다면 어떤 여행이든 견딜 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='인내심' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>17. 그곳에 도착하는 경험은 당신이 선택하는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='관점'>관점</option><option value='부정성'>부정성</option><option value='인내심'>인내심</option><option value='견디다'>견디다</option><option value='태도'>태도</option></select>에 달려 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='관점' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>18. 당신이 만나는 운의 종류는 일반적으로 당신이 가져가는 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='관점'>관점</option><option value='부정성'>부정성</option><option value='인내심'>인내심</option><option value='견디다'>견디다</option><option value='태도'>태도</option></select>와 일치합니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='태도' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>19. <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='관점'>관점</option><option value='부정성'>부정성</option><option value='인내심'>인내심</option><option value='견디다'>견디다</option><option value='태도'>태도</option></select>이 너무 많으면 문제만 보이게 됩니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='부정성' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>20. 올바른 마음가짐을 가지고 있다면 어떤 여행이든 <select class='vocab-select'><option value=''>── 선택하세요 ──</option><option value='관점'>관점</option><option value='부정성'>부정성</option><option value='인내심'>인내심</option><option value='견디다'>견디다</option><option value='태도'>태도</option></select>낼 수 있습니다.<button onclick='checkVocab(this)'>정답 확인</button><span class='vocab-answer' data-correct='견디다' style='display:none;'></span></div></div>"
+  },
+  "content_check_question": {
+    "en": "The travel report describes several <b>disruptions</b> today. What are the specific problems at the <b>airports</b> and on the <b>motorways</b>, and what <b>advice</b> is given to the passengers?",
+    "ja": "旅行レポートは今日のいくつかの<b>混乱</b>を説明しています。<b>空港</b>と<b>高速道路</b>での具体的な問題は何ですか？また、乗客にどのような<b>アドバイス</b>が与えられていますか？",
+    "fr": "Le rapport de voyage décrit plusieurs <b>perturbations</b> aujourd'hui. Quels sont les problèmes spécifiques aux <b>aéroports</b> et sur les <b>autoroutes</b>, et quels <b>conseils</b> sont donnés aux passagers ?",
+    "ko": "여행 보고서는 오늘의 여러 <b>혼란</b>을 설명합니다. <b>공항</b>과 <b>고속도로</b>에서의 구체적인 문제는 무엇이며, 승객들에게 어떤 <b>조언</b>이 제공되나요?"
+  },
+  "content_check_keywords": {
+    "en": "ongoing strike, airspace closed, delayed, lorry crashed, diversion, consult the website, check the news",
+    "ja": "進行中のストライキ, 空域閉鎖, 遅延, トラック衝突, 迂回路, ウェブサイトを確認, ニュースをチェック",
+    "fr": "grève en cours, espace aérien fermé, retardé, camion écrasé, déviation, consulter le site web, vérifier les actualités",
+    "ko": "진행 중인 파업, 영공 폐쇄, 지연, 트럭 충돌, 우회로, 웹사이트 확인, 뉴스 확인"
+  },
+  "content_check_placeholder": {
+    "en": "Explain the problems at the airport and on the road, and the advice given...",
+    "ja": "空港と道路での問題と、与えられたアドバイスを説明してください...",
+    "fr": "Expliquez les problèmes à l'aéroport et sur la route, et les conseils donnés...",
+    "ko": "공항과 도로에서의 문제점과 제공된 조언을 설명하세요..."
+  },
+  "deepening_question": {
+    "en": "The story of the farmer and the travellers suggests that your <b>attitude</b> determines your experience in a new place. If you have <b>too much negativity</b>, you will only find trouble.<br><br><b>Do you agree that our 'perspective' is the most important thing when we travel? Why do some people feel more 'frustration' than others during a difficult journey?</b>",
+    "ja": "農夫と旅行者の物語は、あなたの<b>態度</b>が新しい場所での経験を決定することを示唆しています。<b>否定的すぎる</b>と、問題ばかり見つけるでしょう。<br><br><b>旅行するとき、「視点」が最も重要なことだと思いますか？なぜ難しい旅の途中で、他の人よりも多くの「フラストレーション」を感じる人がいるのですか？</b>",
+    "fr": "L'histoire du fermier et des voyageurs suggère que votre <b>attitude</b> détermine votre expérience dans un nouvel endroit. Si vous avez <b>trop de négativité</b>, vous ne trouverez que des problèmes.<br><br><b>Êtes-vous d'accord que notre 'perspective' est la chose la plus importante lorsque nous voyageons ? Pourquoi certaines personnes ressentent-elles plus de 'frustration' que d'autres lors d'un voyage difficile ?</b>",
+    "ko": "농부와 여행자들의 이야기는 당신의 <b>태도</b>가 새로운 장소에서의 경험을 결정한다고 암시합니다. <b>부정적임이 너무 많다면</b>, 문제만 찾게 될 것입니다.<br><br><b>여행할 때 우리의 '관점'이 가장 중요하다고 동의하시나요? 왜 어떤 사람들은 어려운 여행 중에 다른 사람들보다 더 많은 '좌절감'을 느끼나요?</b>"
+  },
+  "deepening_placeholder": {
+    "en": "I agree/disagree because... I think people feel frustration when...",
+    "ja": "私は...に同意します/しません。人々がフラストレーションを感じるのは...",
+    "fr": "Je suis d'accord/pas d'accord parce que... Je pense que les gens ressentent de la frustration quand...",
+    "ko": "저는 ...에 동의합니다/동의하지 않습니다. 사람들이 좌절감을 느끼는 때는..."
+  },
+  "critical_question": {
+    "en": "We have explored various ways of <b>getting there</b> and the challenges that come with it, from <b>traffic chaos</b> to <b>getting lost</b>. We also learned that how we react to these problems depends on our <b>internal mindset</b>.<br><br><b>Is it better to 'plan every detail' of a journey to avoid stress, or is it better to 'be flexible' and accept that some chaos is part of the experience?<br>Support your opinion by using the grammar we learned (Articles and Quantifiers like 'some', 'much', 'a lot of') to describe your ideal way of travelling.</b>",
+    "ja": "私たちは、<b>そこに行く</b>ための様々な方法と、<b>交通渋滞</b>から<b>道に迷う</b>ことに至るまで、それに伴う課題を探求してきました。また、これらの問題に対する反応は私たちの<b>内面の考え方</b>に依存することを学びました。<br><br><b>ストレスを避けるために旅の「すべての詳細を計画する」方が良いですか、それとも「柔軟に対応し」、ある程度の混乱は経験の一部だと受け入れる方が良いですか？<br>あなたの理想の旅行の仕方を説明するために、学んだ文法（冠詞や「some」、「much」、「a lot of」などの数量詞）を使ってあなたの意見を裏付けてください。</b>",
+    "fr": "Nous avons exploré différentes façons de <b>s'y rendre</b> et les défis qui les accompagnent, du <b>chaos de la circulation</b> au <b>fait de se perdre</b>. Nous avons également appris que notre réaction à ces problèmes dépend de notre <b>état d'esprit intérieur</b>.<br><br><b>Vaut-il mieux 'planifier chaque détail' d'un voyage pour éviter le stress, ou vaut-il mieux 'être flexible' et accepter qu'un certain chaos fasse partie de l'expérience ?<br>Étayez votre opinion en utilisant la grammaire que nous avons apprise (Articles et quantifieurs comme 'some', 'much', 'a lot of') pour décrire votre façon idéale de voyager.</b>",
+    "ko": "우리는 <b>그곳에 가는</b> 다양한 방법과 그에 따르는 도전들을 살펴보았습니다. <b>교통 혼란</b>부터 <b>길을 잃는</b> 것까지 말이죠. 또한 이러한 문제에 대한 우리의 반응이 우리의 <b>내부 마음가짐</b>에 달려 있다는 것을 배웠습니다.<br><br><b>스트레스를 피하기 위해 여행의 '모든 세부 사항을 계획하는' 것이 더 좋을까요, 아니면 '유연하게 대처하고' 약간의 혼란을 경험의 일부로 받아들이는 것이 더 좋을까요?<br>배운 문법(관사 및 'some', 'much', 'a lot of'과 같은 수량사)을 사용하여 이상적인 여행 방식을 설명함으로써 당신의 의견을 뒷받침하세요.</b>"
+  },
+  "critical_placeholder": {
+    "en": "I think planning is better because... For example, we can avoid a lot of stress by booking... However, sometimes we need some flexibility when...",
+    "ja": "計画を立てる方が良いと思います。なぜなら...例えば、...を予約することで多くのストレスを避けることができます。しかし、時には...のときに柔軟性が必要です。",
+    "fr": "Je pense que la planification est meilleure parce que... Par exemple, nous pouvons éviter beaucoup de stress en réservant... Cependant, nous avons parfois besoin d'un peu de flexibilité quand...",
+    "ko": "계획하는 것이 더 낫다고 생각합니다. 왜냐하면... 예를 들어, ...을 예약함으로써 많은 스트레스를 피할 수 있습니다. 그러나 때로는 ...할 때 약간의 유연성이 필요합니다."
+  }
+}
