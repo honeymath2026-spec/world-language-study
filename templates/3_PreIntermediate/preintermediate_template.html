@@ -1303,8 +1303,8 @@ function speakText(text) {
 }
 
 // ==================== 단어 읽고 카드로 이동 ====================
-function speakAndScroll(word, cardId) {
-    console.log("🔊 speakAndScroll called with:", word, cardId);
+function speakAndScroll(wordId, cardId) {
+    console.log("🔊 speakAndScroll called with:", wordId, cardId, "langCode:", langCode);
     
     // TTS 객체 확인 및 재초기화 시도
     let ttsAvailable = false;
@@ -1314,7 +1314,6 @@ function speakAndScroll(word, cardId) {
         console.log("✅ TTS available");
     } else {
         console.warn("⚠️ TTS not available, trying to reinitialize...");
-        // TTS가 없으면 다시 초기화 시도
         if (typeof TTS !== 'undefined' && TTS.init) {
             TTS.init();
             if (window.TTS) {
@@ -1324,9 +1323,33 @@ function speakAndScroll(word, cardId) {
         }
     }
     
-    // 1. TTS로 단어 읽기
+    // ✅ 현재 언어에 맞는 단어와 뜻 찾기
+    let textToSpeak = wordId;
+    
+    if (unitData && unitData.vocabulary && unitData.vocabulary[langCode]) {
+        const vocabList = unitData.vocabulary[langCode];
+        // cardId에서 ID 추출 (예: 'vocab-restaurant' → 'restaurant')
+        const vocabId = cardId.replace('vocab-', '');
+        const vocab = vocabList.find(v => v.id === vocabId);
+        
+        if (vocab) {
+            // ✅ 현재 언어의 단어와 정의를 함께 읽음
+            textToSpeak = `${vocab.word}. ${vocab.definition}`;
+            console.log(`✅ Speaking in ${langCode}:`, textToSpeak);
+        } else {
+            // ID로 못 찾으면 wordId로 다시 시도
+            const vocabById = vocabList.find(v => v.id === wordId);
+            if (vocabById) {
+                textToSpeak = `${vocabById.word}. ${vocabById.definition}`;
+                console.log(`✅ Speaking in ${langCode} (by wordId):`, textToSpeak);
+            }
+        }
+    }
+    
+    // 1. TTS로 현재 언어로 읽기
     if (ttsAvailable && window.TTS) {
-        window.TTS.speak(word);
+        window.TTS.setLanguage(langCode);  // 🔥 중요: 언어 설정!
+        window.TTS.speak(textToSpeak);
     } else {
         console.error("❌ TTS still not available");
         alert("TTS not ready. Please refresh the page (Ctrl+Shift+R).");
