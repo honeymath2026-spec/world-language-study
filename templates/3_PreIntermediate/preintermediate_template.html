@@ -1035,9 +1035,7 @@ async function loadUnitData() {
     try {
         const unitStr = String(unitNum).padStart(2, '0');
         const levelFolder = getLevelFolder(levelName);
-        const dataPath = window.location.pathname.includes('world-language-study') 
-    ? `/world-language-study/data/${levelFolder}/unit_${unitStr}.json` 
-    : `/data/${levelFolder}/unit_${unitStr}.json`;
+        const dataPath = `../../data/${levelFolder}/unit_${unitStr}.json`;
         console.log('📂 Loading from:', dataPath);
         
         const response = await fetch(dataPath);
