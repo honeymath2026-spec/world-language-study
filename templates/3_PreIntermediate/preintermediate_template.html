@@ -1035,7 +1035,9 @@ async function loadUnitData() {
     try {
         const unitStr = String(unitNum).padStart(2, '0');
         const levelFolder = getLevelFolder(levelName);
-        const dataPath = `/world-language-study/data/${levelFolder}/unit_${unitStr}.json`;
+        const dataPath = window.location.pathname.includes('world-language-study') 
+    ? `/world-language-study/data/${levelFolder}/unit_${unitStr}.json` 
+    : `/data/${levelFolder}/unit_${unitStr}.json`;
 
 수정 후 꼭 해야 할 일 (이 과정을 거쳐야 배포됩니다!)
 
