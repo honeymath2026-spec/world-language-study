@@ -6,28 +6,72 @@
     "ko": "편하게 살아요!"
   },
   "topic": {
-    "en": "Weekdays and weekends, present simple (I/you/we/they), leisure activities, social expressions",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Daily routines · Hobbies · Seasons · Work-life balance",
+    "ja": "日課 · 趣味 · 季節 · ワークライフバランス",
+    "fr": "Routines quotidiennes · Loisirs · Saisons · Équilibre vie pro-vie perso",
+    "ko": "일상 · 취미 · 계절 · 일과 삶의 균형"
   },
   "core_title": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Work and Play",
+    "ja": "仕事と遊び",
+    "fr": "Travail et loisirs",
+    "ko": "일과 놀이"
   },
   "core_reading_html": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "<p>My <strong><span class='vocab-link' id='text-week' onclick='speakAndScroll(\"week\", \"vocab-week\")'>week</span></strong> is very busy and full of <strong><span class='vocab-link' id='text-work' onclick='speakAndScroll(\"work\", \"vocab-work\")'>work</span></strong>. I <strong><span class='vocab-link' id='text-start' onclick='speakAndScroll(\"start\", \"vocab-start\")'>start</span></strong> my day early every morning. I usually <strong><span class='vocab-link' id='text-travel' onclick='speakAndScroll(\"travel\", \"vocab-travel\")'>travel</span></strong> to the office by bus. In the <strong><span class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>evening</span></strong>, I often feel <strong><span class='vocab-link' id='text-tired' onclick='speakAndScroll(\"tired\", \"vocab-tired\")'>tired</span></strong> after a long day. But I like to <strong><span class='vocab-link' id='text-read' onclick='speakAndScroll(\"read\", \"vocab-read\")'>read</span></strong> good books to relax at home. I also love listening to <strong><span class='vocab-link' id='text-music' onclick='speakAndScroll(\"music\", \"vocab-music\")'>music</span></strong> with my friends. When <strong><span class='vocab-link' id='text-spring' onclick='speakAndScroll(\"spring\", \"vocab-spring\")'>spring</span></strong> comes, the weather is nice, so I take photos of beautiful <strong><span class='vocab-link' id='text-flowers' onclick='speakAndScroll(\"flowers\", \"vocab-flowers\")'>flowers</span></strong> in the park. It is a simple but very happy life for me!</p>",
+    "ja": "<p>私の<strong><span class='vocab-link' id='text-week' onclick='speakAndScroll(\"週\", \"vocab-week\")'>週</span></strong>はとても忙しく、<strong><span class='vocab-link' id='text-work' onclick='speakAndScroll(\"仕事\", \"vocab-work\")'>仕事</span></strong>でいっぱいです。私は毎日早く<strong><span class='vocab-link' id='text-start' onclick='speakAndScroll(\"始める\", \"vocab-start\")'>始める</span></strong>ます。たいていバスでオフィスへ<strong><span class='vocab-link' id='text-travel' onclick='speakAndScroll(\"通勤する\", \"vocab-travel\")'>通勤する</span></strong>ます。<strong><span class='vocab-link' id='text-evening' onclick='speakAndScroll(\"夕方\", \"vocab-evening\")'>夕方</span></strong>には、長い一日の後に<strong><span class='vocab-link' id='text-tired' onclick='speakAndScroll(\"疲れる\", \"vocab-tired\")'>疲れる</span></strong>ます。でも、家でリラックスするために良い本を<strong><span class='vocab-link' id='text-read' onclick='speakAndScroll(\"読む\", \"vocab-read\")'>読む</span></strong>のが好きです。友達と<strong><span class='vocab-link' id='text-music' onclick='speakAndScroll(\"音楽\", \"vocab-music\")'>音楽</span></strong>を聴くことも大好きです。<strong><span class='vocab-link' id='text-spring' onclick='speakAndScroll(\"春\", \"vocab-spring\")'>春</span></strong>が来て天気が良いと、公園で美しい<strong><span class='vocab-link' id='text-flowers' onclick='speakAndScroll(\"花\", \"vocab-flowers\")'>花</span></strong>の写真を撮ります。私にとって、シンプルですがとても幸せな生活です！</p>",
+    "fr": "<p>Ma <strong><span class='vocab-link' id='text-week' onclick='speakAndScroll(\"semaine\", \"vocab-week\")'>semaine</span></strong> est très occupée et remplie de <strong><span class='vocab-link' id='text-work' onclick='speakAndScroll(\"travail\", \"vocab-work\")'>travail</span></strong>. Je <strong><span class='vocab-link' id='text-start' onclick='speakAndScroll(\"commence\", \"vocab-start\")'>commence</span></strong> ma journée tôt chaque matin. Je <strong><span class='vocab-link' id='text-travel' onclick='speakAndScroll(\"voyage\", \"vocab-travel\")'>voyage</span></strong> au bureau en bus. Le <strong><span class='vocab-link' id='text-evening' onclick='speakAndScroll(\"soir\", \"vocab-evening\")'>soir</span></strong>, je me sens souvent <strong><span class='vocab-link' id='text-tired' onclick='speakAndScroll(\"fatigué\", \"vocab-tired\")'>fatigué</span></strong> après une longue journée. Mais j'aime <strong><span class='vocab-link' id='text-read' onclick='speakAndScroll(\"lis\", \"vocab-read\")'>lire</span></strong> de bons livres pour me détendre à la maison. J'adore aussi écouter de la <strong><span class='vocab-link' id='text-music' onclick='speakAndScroll(\"musique\", \"vocab-music\")'>musique</span></strong> avec mes amis. Quand le <strong><span class='vocab-link' id='text-spring' onclick='speakAndScroll(\"printemps\", \"vocab-spring\")'>printemps</span></strong> arrive, le temps est beau, alors je prends des photos de belles <strong><span class='vocab-link' id='text-flowers' onclick='speakAndScroll(\"fleurs\", \"vocab-flowers\")'>fleurs</span></strong> dans le parc. C'est une vie simple mais très heureuse pour moi !</p>",
+    "ko": "<p>제 <strong><span class='vocab-link' id='text-week' onclick='speakAndScroll(\"주\", \"vocab-week\")'>주</span></strong>는 매우 바쁘고 <strong><span class='vocab-link' id='text-work' onclick='speakAndScroll(\"일\", \"vocab-work\")'>일</span></strong>로 가득합니다. 저는 매일 아침 일찍 하루를 <strong><span class='vocab-link' id='text-start' onclick='speakAndScroll(\"시작하다\", \"vocab-start\")'>시작하다</span></strong>합니다. 보통 버스를 타고 사무실로 <strong><span class='vocab-link' id='text-travel' onclick='speakAndScroll(\"이동하다\", \"vocab-travel\")'>이동하다</span></strong>합니다. <strong><span class='vocab-link' id='text-evening' onclick='speakAndScroll(\"저녁\", \"vocab-evening\")'>저녁</span></strong>이 되면 긴 하루 끝에 종종 <strong><span class='vocab-link' id='text-tired' onclick='speakAndScroll(\"피곤하다\", \"vocab-tired\")'>피곤하다</span></strong>합니다. 하지만 집에서 쉬기 위해 좋은 책을 <strong><span class='vocab-link' id='text-read' onclick='speakAndScroll(\"읽다\", \"vocab-read\")'>읽다</span></strong>하는 것을 좋아합니다. 저는 친구들과 <strong><span class='vocab-link' id='text-music' onclick='speakAndScroll(\"음악\", \"vocab-music\")'>음악</span></strong>을 듣는 것도 매우 좋아합니다. <strong><span class='vocab-link' id='text-spring' onclick='speakAndScroll(\"봄\", \"vocab-spring\")'>봄</span></strong>이 오고 날씨가 좋으면, 공원에서 예쁜 <strong><span class='vocab-link' id='text-flowers' onclick='speakAndScroll(\"꽃\", \"vocab-flowers\")'>꽃</span></strong> 사진을 찍습니다. 저에게는 단순하지만 정말 행복한 삶입니다!</p>"
   },
   "vocabulary": {
-    "en": [],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "en": [
+      { "id": "week", "word": "Week", "definition": "A period of seven days.", "pronunciation": "Week" },
+      { "id": "work", "word": "Work", "definition": "Activity done for a purpose.", "pronunciation": "Work" },
+      { "id": "start", "word": "Start", "definition": "To begin doing something.", "pronunciation": "Start" },
+      { "id": "travel", "word": "Travel", "definition": "To go from one place to another.", "pronunciation": "Travel" },
+      { "id": "evening", "word": "Evening", "definition": "The end of the day.", "pronunciation": "Evening" },
+      { "id": "tired", "word": "Tired", "definition": "Needing rest or sleep.", "pronunciation": "Tired" },
+      { "id": "read", "word": "Read", "definition": "To look at and understand words.", "pronunciation": "Read" },
+      { "id": "music", "word": "Music", "definition": "Sounds arranged in a pleasant way.", "pronunciation": "Music" },
+      { "id": "spring", "word": "Spring", "definition": "The season after winter.", "pronunciation": "Spring" },
+      { "id": "flowers", "word": "Flowers", "definition": "The colorful parts of plants.", "pronunciation": "Flowers" }
+    ],
+    "ja": [
+      { "id": "week", "word": "週", "definition": "7日間の期間。", "pronunciation": "しゅう" },
+      { "id": "work", "word": "仕事", "definition": "目的を持って行う活動。", "pronunciation": "しごと" },
+      { "id": "start", "word": "始める", "definition": "何かを開始すること。", "pronunciation": "はじめる" },
+      { "id": "travel", "word": "通勤する", "definition": "場所から場所へ移動すること。", "pronunciation": "つうきんする" },
+      { "id": "evening", "word": "夕方", "definition": "日暮れの時間。", "pronunciation": "ゆうがた" },
+      { "id": "tired", "word": "疲れる", "definition": "休息が必要な状態。", "pronunciation": "つかれる" },
+      { "id": "read", "word": "読む", "definition": "言葉を理解すること。", "pronunciation": "よむ" },
+      { "id": "music", "word": "音楽", "definition": "心地よい音の並び。", "pronunciation": "おんがく" },
+      { "id": "spring", "word": "春", "definition": "冬の後の季節。", "pronunciation": "はる" },
+      { "id": "flowers", "word": "花", "definition": "植物の彩り豊かな部分。", "pronunciation": "はな" }
+    ],
+    "fr": [
+      { "id": "week", "word": "semaine", "definition": "Une période de sept jours.", "pronunciation": "semaine" },
+      { "id": "work", "word": "travail", "definition": "Activité faite dans un but.", "pronunciation": "travail" },
+      { "id": "start", "word": "commence", "definition": "Débuter quelque chose.", "pronunciation": "commence" },
+      { "id": "travel", "word": "voyage", "definition": "Se déplacer d'un lieu à l'autre.", "pronunciation": "voyage" },
+      { "id": "evening", "word": "soir", "definition": "La fin de la journée.", "pronunciation": "soir" },
+      { "id": "tired", "word": "fatigué", "definition": "Avoir besoin de repos.", "pronunciation": "fatigué" },
+      { "id": "read", "word": "lire", "definition": "Comprendre des mots écrits.", "pronunciation": "lire" },
+      { "id": "music", "word": "musique", "definition": "Sons arrangés agréablement.", "pronunciation": "musique" },
+      { "id": "spring", "word": "printemps", "definition": "La saison après l'hiver.", "pronunciation": "printemps" },
+      { "id": "flowers", "word": "fleurs", "definition": "Parties colorées des plantes.", "pronunciation": "fleurs" }
+    ],
+    "ko": [
+      { "id": "week", "word": "주", "definition": "7일간의 기간.", "pronunciation": "주" },
+      { "id": "work", "word": "일", "definition": "목적을 가지고 하는 활동.", "pronunciation": "일" },
+      { "id": "start", "word": "시작하다", "definition": "무엇인가를 시작함.", "pronunciation": "시작하다" },
+      { "id": "travel", "word": "이동하다", "definition": "한 장소에서 다른 곳으로 감.", "pronunciation": "이동하다" },
+      { "id": "evening", "word": "저녁", "definition": "하루의 끝 무렵.", "pronunciation": "저녁" },
+      { "id": "tired", "word": "피곤하다", "definition": "휴식이 필요한 상태.", "pronunciation": "피곤하다" },
+      { "id": "read", "word": "읽다", "definition": "글자를 보고 이해함.", "pronunciation": "읽다" },
+      { "id": "music", "word": "음악", "definition": "듣기 좋은 소리의 조합.", "pronunciation": "음악" },
+      { "id": "spring", "word": "봄", "definition": "겨울 뒤의 계절.", "pronunciation": "봄" },
+      { "id": "flowers", "word": "꽃", "definition": "식물의 화려한 부분.", "pronunciation": "꽃" }
+    ]
   },
   "listening_tracks": {
     "en": [

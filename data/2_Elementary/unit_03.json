@@ -1,80 +1,76 @@
 {
   "title": {
-    "en": "A Busy Life",
-    "ja": "忙しい毎日",
-    "fr": "Une vie bien remplie",
+    "en": "Busy Lives",
+    "ja": "忙しい日々",
+    "fr": "Vies bien remplies",
     "ko": "바쁜 일상"
   },
   "topic": {
-    "en": "Jobs, daily routines, and transactions",
-    "ja": "仕事、日課、取引",
-    "fr": "Métiers, routines quotidiennes et transactions",
-    "ko": "직업, 일상, 거래"
+    "en": "Daily routines · Jobs · Work-life balance · Time",
+    "ja": "日課 · 仕事 · ワークライフバランス · 時間",
+    "fr": "Routines quotidiennes · Métiers · Équilibre vie pro-vie perso · Temps",
+    "ko": "일상 · 직업 · 일과 삶의 균형 · 시간"
   },
   "core_title": {
-    "en": "Work and Daily Routines",
-    "ja": "仕事と日常生活",
-    "fr": "Travail et routines quotidiennes",
-    "ko": "일과 일상생활"
+    "en": "A Day in the Life",
+    "ja": "ある日の生活",
+    "fr": "Une journée dans la vie",
+    "ko": "어느 날의 일상"
   },
   "core_reading_html": {
-    "en": "<p style='margin-top:0;'>People do many <strong class='vocab-link' id='text-job' onclick='speakAndScroll(\"job\", \"vocab-job\")'>job</strong> tasks every day. Some people are a <strong class='vocab-link' id='text-doctor' onclick='speakAndScroll(\"doctor\", \"vocab-doctor\")'>doctor</strong>, while others work in a <strong class='vocab-link' id='text-shop' onclick='speakAndScroll(\"shop\", \"vocab-shop\")'>shop</strong>. Every <strong class='vocab-link' id='text-morning' onclick='speakAndScroll(\"morning\", \"vocab-morning\")'>morning</strong>, we start our <strong class='vocab-link' id='text-day' onclick='speakAndScroll(\"day\", \"vocab-day\")'>day</strong> with energy. We might buy an <strong class='vocab-link' id='text-icecream' onclick='speakAndScroll(\"icecream\", \"vocab-icecream\")'>ice-cream</strong> or talk to a <strong class='vocab-link' id='text-neighbour' onclick='speakAndScroll(\"neighbour\", \"vocab-neighbour\")'>neighbour</strong>.</p><p>Life is often busy. In the <strong class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>evening</strong>, it is nice to relax with a <strong class='vocab-link' id='text-drink' onclick='speakAndScroll(\"drink\", \"vocab-drink\")'>drink</strong>. Even when we have little <strong class='vocab-link' id='text-time' onclick='speakAndScroll(\"time\", \"vocab-time\")'>time</strong>, we enjoy our <strong class='vocab-link' id='text-life' onclick='speakAndScroll(\"life\", \"vocab-life\")'>life</strong> and the people around us.</p>",
-    "ja": "<p style='margin-top:0;'>人々は毎日多くの<strong class='vocab-link' id='text-job' onclick='speakAndScroll(\"job\", \"vocab-job\")'>仕事</strong>をこなしています。<strong class='vocab-link' id='text-doctor' onclick='speakAndScroll(\"doctor\", \"vocab-doctor\")'>医者</strong>として働く人もいれば、<strong class='vocab-link' id='text-shop' onclick='speakAndScroll(\"shop\", \"vocab-shop\")'>店</strong>で働く人もいます。<strong class='vocab-link' id='text-morning' onclick='speakAndScroll(\"morning\", \"vocab-morning\")'>朝</strong>になると、私たちはエネルギーを持って<strong class='vocab-link' id='text-day' onclick='speakAndScroll(\"day\", \"vocab-day\")'>一日</strong>を始めます。<strong class='vocab-link' id='text-icecream' onclick='speakAndScroll(\"icecream\", \"vocab-icecream\")'>アイスクリーム</strong>を買ったり、<strong class='vocab-link' id='text-neighbour' onclick='speakAndScroll(\"neighbour\", \"vocab-neighbour\")'>隣人</strong>と話したりすることもあります。</p><p>生活は忙しいものです。<strong class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>夜</strong>には<strong class='vocab-link' id='text-drink' onclick='speakAndScroll(\"drink\", \"vocab-drink\")'>飲み物</strong>を飲んでリラックスするのが最高です。<strong class='vocab-link' id='text-time' onclick='speakAndScroll(\"time\", \"vocab-time\")'>時間</strong>があまりなくても、私たちは<strong class='vocab-link' id='text-life' onclick='speakAndScroll(\"life\", \"vocab-life\")'>人生</strong>と周りの人々を大切にしています。</p>",
-    "fr": "<p style='margin-top:0;'>Les gens font beaucoup de <strong class='vocab-link' id='text-job' onclick='speakAndScroll(\"job\", \"vocab-job\")'>travail</strong> chaque jour. Certains sont <strong class='vocab-link' id='text-doctor' onclick='speakAndScroll(\"doctor\", \"vocab-doctor\")'>médecin</strong>, d'autres travaillent dans une <strong class='vocab-link' id='text-shop' onclick='speakAndScroll(\"shop\", \"vocab-shop\")'>boutique</strong>. Chaque <strong class='vocab-link' id='text-morning' onclick='speakAndScroll(\"morning\", \"vocab-morning\")'>matin</strong>, nous commençons notre <strong class='vocab-link' id='text-day' onclick='speakAndScroll(\"day\", \"vocab-day\")'>journée</strong> avec énergie. Nous pouvons acheter une <strong class='vocab-link' id='text-icecream' onclick='speakAndScroll(\"icecream\", \"vocab-icecream\")'>glace</strong> ou parler à un <strong class='vocab-link' id='text-neighbour' onclick='speakAndScroll(\"neighbour\", \"vocab-neighbour\")'>voisin</strong>.</p><p>La vie est souvent chargée. Le <strong class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>soir</strong>, il est agréable de se détendre avec une <strong class='vocab-link' id='text-drink' onclick='speakAndScroll(\"drink\", \"vocab-drink\")'>boisson</strong>. Même quand nous avons peu de <strong class='vocab-link' id='text-time' onclick='speakAndScroll(\"time\", \"vocab-time\")'>temps</strong>, nous profitons de notre <strong class='vocab-link' id='text-life' onclick='speakAndScroll(\"life\", \"vocab-life\")'>vie</strong> et des gens qui nous entourent.</p>",
-    "ko": "<p style='margin-top:0;'>사람들은 매일 많은 <strong class='vocab-link' id='text-job' onclick='speakAndScroll(\"job\", \"vocab-job\")'>직업</strong> 활동을 합니다. 어떤 사람은 <strong class='vocab-link' id='text-doctor' onclick='speakAndScroll(\"doctor\", \"vocab-doctor\")'>의사</strong>이고, 다른 사람들은 <strong class='vocab-link' id='text-shop' onclick='speakAndScroll(\"shop\", \"vocab-shop\")'>가게</strong>에서 일합니다. 매일 <strong class='vocab-link' id='text-morning' onclick='speakAndScroll(\"morning\", \"vocab-morning\")'>아침</strong>마다 우리는 활기차게 <strong class='vocab-link' id='text-day' onclick='speakAndScroll(\"day\", \"vocab-day\")'>하루</strong>를 시작합니다. <strong class='vocab-link' id='text-icecream' onclick='speakAndScroll(\"icecream\", \"vocab-icecream\")'>아이스크림</strong>을 사거나 <strong class='vocab-link' id='text-neighbour' onclick='speakAndScroll(\"neighbour\", \"vocab-neighbour\")'>이웃</strong>과 대화하기도 합니다.</p><p>삶은 종종 바쁩니다. <strong class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>저녁</strong>에는 <strong class='vocab-link' id='text-drink' onclick='speakAndScroll(\"drink\", \"vocab-drink\")'>음료</strong>를 마시며 쉬는 것이 좋습니다. 비록 <strong class='vocab-link' id='text-time' onclick='speakAndScroll(\"time\", \"vocab-time\")'>시간</strong>이 부족할 때도 있지만, 우리는 우리의 <strong class='vocab-link' id='text-life' onclick='speakAndScroll(\"life\", \"vocab-life\")'>삶</strong>과 주변 사람들을 즐깁니다.</p>"
+    "en": "<p>My <strong><span class='vocab-link' id='text-morning' onclick='speakAndScroll(\"morning\", \"vocab-morning\")'>morning</span></strong> is always very busy. I <strong><span class='vocab-link' id='text-wake' onclick='speakAndScroll(\"wake\", \"vocab-wake\")'>wake</span></strong> up early at 6:00 every day. I <strong><span class='vocab-link' id='text-drink' onclick='speakAndScroll(\"drink\", \"vocab-drink\")'>drink</span></strong> a cup of hot coffee and then I start my <strong><span class='vocab-link' id='text-work' onclick='speakAndScroll(\"work\", \"vocab-work\")'>work</span></strong>. I have a <strong><span class='vocab-link' id='text-job' onclick='speakAndScroll(\"job\", \"vocab-job\")'>job</span></strong> as a local doctor in a small <strong><span class='vocab-link' id='text-town' onclick='speakAndScroll(\"town\", \"vocab-town\")'>town</span></strong>. It is often very hard, but I really enjoy helping many <strong><span class='vocab-link' id='text-people' onclick='speakAndScroll(\"people\", \"vocab-people\")'>people</span></strong> in my community. In the <strong><span class='vocab-link' id='text-evening' onclick='speakAndScroll(\"evening\", \"vocab-evening\")'>evening</span></strong>, I am usually very <strong><span class='vocab-link' id='text-tired' onclick='speakAndScroll(\"tired\", \"vocab-tired\")'>tired</span></strong>. Finally, I go to <strong><span class='vocab-link' id='text-bed' onclick='speakAndScroll(\"bed\", \"vocab-bed\")'>bed</span></strong> at 10:00 to get some rest for tomorrow.</p>",
+    "ja": "<p>私の<strong><span class='vocab-link' id='text-morning' onclick='speakAndScroll(\"朝\", \"vocab-morning\")'>朝</span></strong>はいつもとても忙しいです。毎日6時に<strong><span class='vocab-link' id='text-wake' onclick='speakAndScroll(\"目覚める\", \"vocab-wake\")'>目覚める</span></strong>ます。温かいコーヒーを<strong><span class='vocab-link' id='text-drink' onclick='speakAndScroll(\"飲む\", \"vocab-drink\")'>飲む</span></strong>、それから<strong><span class='vocab-link' id='text-work' onclick='speakAndScroll(\"仕事\", \"vocab-work\")'>仕事</span></strong>を始めます。私は小さな<strong><span class='vocab-link' id='text-town' onclick='speakAndScroll(\"町\", \"vocab-town\")'>町</span></strong>で地域のお医者さんという<strong><span class='vocab-link' id='text-job' onclick='speakAndScroll(\"職業\", \"vocab-job\")'>職業</span></strong>に就いています。大変なことも多いですが、地域で多くの<strong><span class='vocab-link' id='text-people' onclick='speakAndScroll(\"人々\", \"vocab-people\")'>人々</span></strong>を助けるのが大好きです。<strong><span class='vocab-link' id='text-evening' onclick='speakAndScroll(\"夕方\", \"vocab-evening\")'>夕方</span></strong>には、たいていとても<strong><span class='vocab-link' id='text-tired' onclick='speakAndScroll(\"疲れる\", \"vocab-tired\")'>疲れる</span></strong>ます。最後に、明日のために休もうと10時に<strong><span class='vocab-link' id='text-bed' onclick='speakAndScroll(\"ベッド\", \"vocab-bed\")'>ベッド</span></strong>に入ります。</p>",
+    "fr": "<p>Mon <strong><span class='vocab-link' id='text-morning' onclick='speakAndScroll(\"matin\", \"vocab-morning\")'>matin</span></strong> est toujours très chargé. Je me <strong><span class='vocab-link' id='text-wake' onclick='speakAndScroll(\"réveille\", \"vocab-wake\")'>réveille</span></strong> tôt à 6h00 chaque jour. Je <strong><span class='vocab-link' id='text-drink' onclick='speakAndScroll(\"bois\", \"vocab-drink\")'>bois</span></strong> une tasse de café chaud et je commence mon <strong><span class='vocab-link' id='text-work' onclick='speakAndScroll(\"travail\", \"vocab-work\")'>travail</span></strong>. J'ai un <strong><span class='vocab-link' id='text-job' onclick='speakAndScroll(\"emploi\", \"vocab-job\")'>emploi</span></strong> de médecin local dans une petite <strong><span class='vocab-link' id='text-town' onclick='speakAndScroll(\"ville\", \"vocab-town\")'>ville</span></strong>. C'est souvent difficile, mais j'aime vraiment aider beaucoup de <strong><span class='vocab-link' id='text-people' onclick='speakAndScroll(\"personnes\", \"vocab-people\")'>personnes</span></strong> dans ma communauté. Le <strong><span class='vocab-link' id='text-evening' onclick='speakAndScroll(\"soir\", \"vocab-evening\")'>soir</span></strong>, je suis généralement très <strong><span class='vocab-link' id='text-tired' onclick='speakAndScroll(\"fatigué\", \"vocab-tired\")'>fatigué</span></strong>. Enfin, je vais au <strong><span class='vocab-link' id='text-bed' onclick='speakAndScroll(\"lit\", \"vocab-bed\")'>lit</span></strong> à 22h00 pour me reposer pour demain.</p>",
+    "ko": "<p>제 <strong><span class='vocab-link' id='text-morning' onclick='speakAndScroll(\"아침\", \"vocab-morning\")'>아침</span></strong>은 언제나 매우 바쁩니다. 저는 매일 6시에 <strong><span class='vocab-link' id='text-wake' onclick='speakAndScroll(\"일어나다\", \"vocab-wake\")'>일어나다</span></strong>입니다. 따뜻한 커피 한 잔을 <strong><span class='vocab-link' id='text-drink' onclick='speakAndScroll(\"마시다\", \"vocab-drink\")'>마시다</span></strong>고 <strong><span class='vocab-link' id='text-work' onclick='speakAndScroll(\"일\", \"vocab-work\")'>일</span></strong>을 시작합니다. 저는 작은 <strong><span class='vocab-link' id='text-town' onclick='speakAndScroll(\"마을\", \"vocab-town\")'>마을</span></strong>에서 지역 의사라는 <strong><span class='vocab-link' id='text-job' onclick='speakAndScroll(\"직업\", \"vocab-job\")'>직업</span></strong>을 가지고 있습니다. 종종 힘들기도 하지만, 지역 사회의 많은 <strong><span class='vocab-link' id='text-people' onclick='speakAndScroll(\"사람\", \"vocab-people\")'>사람</span></strong>들을 돕는 것을 정말 좋아합니다. <strong><span class='vocab-link' id='text-evening' onclick='speakAndScroll(\"저녁\", \"vocab-evening\")'>저녁</span></strong>이 되면 저는 대개 아주 <strong><span class='vocab-link' id='text-tired' onclick='speakAndScroll(\"피곤하다\", \"vocab-tired\")'>피곤하다</span></strong>합니다. 마침내 내일을 위해 쉬려고 10시에 <strong><span class='vocab-link' id='text-bed' onclick='speakAndScroll(\"침대\", \"vocab-bed\")'>침대</span></strong>로 갑니다.</p>"
   },
   "vocabulary": {
     "en": [
-      { "id": "job", "word": "Job", "definition": "Work that a person does.", "pronunciation": "Job" },
-      { "id": "doctor", "word": "Doctor", "definition": "Someone who helps sick people.", "pronunciation": "Doctor" },
-      { "id": "shop", "word": "Shop", "definition": "A place to buy things.", "pronunciation": "Shop" },
       { "id": "morning", "word": "Morning", "definition": "The early part of the day.", "pronunciation": "Morning" },
-      { "id": "day", "word": "Day", "definition": "The time from sunrise to sunset.", "pronunciation": "Day" },
-      { "id": "icecream", "word": "Ice-cream", "definition": "A cold, sweet food.", "pronunciation": "Ice-cream" },
-      { "id": "neighbour", "word": "Neighbour", "definition": "A person living nearby.", "pronunciation": "Neighbour" },
+      { "id": "wake", "word": "Wake", "definition": "To become awake.", "pronunciation": "Wake" },
+      { "id": "drink", "word": "Drink", "definition": "To swallow liquid.", "pronunciation": "Drink" },
+      { "id": "work", "word": "Work", "definition": "Activity involving mental or physical effort.", "pronunciation": "Work" },
+      { "id": "job", "word": "Job", "definition": "A paid position of regular employment.", "pronunciation": "Job" },
+      { "id": "town", "word": "Town", "definition": "A place where people live and work.", "pronunciation": "Town" },
+      { "id": "people", "word": "People", "definition": "Human beings in general.", "pronunciation": "People" },
       { "id": "evening", "word": "Evening", "definition": "The end of the day.", "pronunciation": "Evening" },
-      { "id": "drink", "word": "Drink", "definition": "Liquid that you swallow.", "pronunciation": "Drink" },
-      { "id": "time", "word": "Time", "definition": "The hours and minutes.", "pronunciation": "Time" },
-      { "id": "life", "word": "Life", "definition": "The experience of being alive.", "pronunciation": "Life" }
+      { "id": "tired", "word": "Tired", "definition": "In need of sleep or rest.", "pronunciation": "Tired" },
+      { "id": "bed", "word": "Bed", "definition": "A piece of furniture for sleeping.", "pronunciation": "Bed" }
     ],
     "ja": [
-      { "id": "job", "word": "仕事", "definition": "人が行う作業や職業。", "pronunciation": "仕事" },
-      { "id": "doctor", "word": "医者", "definition": "病気を治療する人。", "pronunciation": "医者" },
-      { "id": "shop", "word": "店", "definition": "物を売る場所。", "pronunciation": "店" },
-      { "id": "morning", "word": "朝", "definition": "一日の始まり。", "pronunciation": "朝" },
-      { "id": "day", "word": "一日", "definition": "昼間の時間。", "pronunciation": "一日" },
-      { "id": "icecream", "word": "アイスクリーム", "definition": "冷たい甘いお菓子。", "pronunciation": "アイスクリーム" },
-      { "id": "neighbour", "word": "隣人", "definition": "近くに住む人。", "pronunciation": "隣人" },
-      { "id": "evening", "word": "夜", "definition": "日が暮れてから寝るまで。", "pronunciation": "夜" },
-      { "id": "drink", "word": "飲み物", "definition": "飲むための液体。", "pronunciation": "飲み物" },
-      { "id": "time", "word": "時間", "definition": "流れゆく時の単位。", "pronunciation": "時間" },
-      { "id": "life", "word": "人生", "definition": "生きている経験。", "pronunciation": "人生" }
+      { "id": "morning", "word": "朝", "definition": "一日の早い時間帯。", "pronunciation": "あさ" },
+      { "id": "wake", "word": "目覚める", "definition": "眠りから覚めること。", "pronunciation": "めざめる" },
+      { "id": "drink", "word": "飲む", "definition": "液体を喉に通すこと。", "pronunciation": "のむ" },
+      { "id": "work", "word": "仕事", "definition": "労力を使って行う活動。", "pronunciation": "しごと" },
+      { "id": "town", "word": "町", "definition": "人々が住む場所。", "pronunciation": "まち" },
+      { "id": "job", "word": "職業", "definition": "生計を立てるための活動。", "pronunciation": "しょくぎょう" },
+      { "id": "people", "word": "人々", "definition": "人間の集団。", "pronunciation": "ひとびと" },
+      { "id": "evening", "word": "夕方", "definition": "日暮れの時間帯。", "pronunciation": "ゆうがた" },
+      { "id": "tired", "word": "疲れる", "definition": "休養が必要な状態。", "pronunciation": "つかれる" },
+      { "id": "bed", "word": "ベッド", "definition": "寝るための家具。", "pronunciation": "べっど" }
     ],
     "fr": [
-      { "id": "job", "word": "Travail", "definition": "Activité professionnelle.", "pronunciation": "Travail" },
-      { "id": "doctor", "word": "Médecin", "definition": "Soigne les maladies.", "pronunciation": "Médecin" },
-      { "id": "shop", "word": "Boutique", "definition": "Lieu de vente.", "pronunciation": "Boutique" },
-      { "id": "morning", "word": "Matin", "definition": "Début de la journée.", "pronunciation": "Matin" },
-      { "id": "day", "word": "Journée", "definition": "Durée d'une journée.", "pronunciation": "Journée" },
-      { "id": "icecream", "word": "Glace", "definition": "Dessert froid et sucré.", "pronunciation": "Glace" },
-      { "id": "neighbour", "word": "Voisin", "definition": "Personne habitant à côté.", "pronunciation": "Voisin" },
-      { "id": "evening", "word": "Soir", "definition": "Fin de la journée.", "pronunciation": "Soir" },
-      { "id": "drink", "word": "Boisson", "definition": "Liquide que l'on boit.", "pronunciation": "Boisson" },
-      { "id": "time", "word": "Temps", "definition": "Les heures et minutes.", "pronunciation": "Temps" },
-      { "id": "life", "word": "Vie", "definition": "L'état d'être vivant.", "pronunciation": "Vie" }
+      { "id": "morning", "word": "matin", "definition": "Le début de la journée.", "pronunciation": "matin" },
+      { "id": "wake", "word": "réveille", "definition": "Sortir du sommeil.", "pronunciation": "réveille" },
+      { "id": "drink", "word": "bois", "definition": "Avaler un liquide.", "pronunciation": "bois" },
+      { "id": "work", "word": "travail", "definition": "Activité professionnelle.", "pronunciation": "travail" },
+      { "id": "job", "word": "emploi", "definition": "Poste de travail.", "pronunciation": "emploi" },
+      { "id": "town", "word": "ville", "definition": "Lieu de vie.", "pronunciation": "ville" },
+      { "id": "people", "word": "personnes", "definition": "Êtres humains.", "pronunciation": "personnes" },
+      { "id": "evening", "word": "soir", "definition": "Fin de la journée.", "pronunciation": "soir" },
+      { "id": "tired", "word": "fatigué", "definition": "Besoin de repos.", "pronunciation": "fatigué" },
+      { "id": "bed", "word": "lit", "definition": "Meuble pour dormir.", "pronunciation": "lit" }
     ],
     "ko": [
-      { "id": "job", "word": "직업", "definition": "생계를 위해 하는 일.", "pronunciation": "직업" },
-      { "id": "doctor", "word": "의사", "definition": "병을 고치는 사람.", "pronunciation": "의사" },
-      { "id": "shop", "word": "가게", "definition": "물건을 파는 곳.", "pronunciation": "가게" },
-      { "id": "morning", "word": "아침", "definition": "하루의 시작.", "pronunciation": "아침" },
-      { "id": "day", "word": "하루", "definition": "낮 동안의 시간.", "pronunciation": "하루" },
-      { "id": "icecream", "word": "아이스크림", "definition": "차갑고 단 음식.", "pronunciation": "아이스크림" },
-      { "id": "neighbour", "word": "이웃", "definition": "근처에 사는 사람.", "pronunciation": "이웃" },
-      { "id": "evening", "word": "저녁", "definition": "하루가 끝날 때.", "pronunciation": "저녁" },
-      { "id": "drink", "word": "음료", "definition": "마실 수 있는 것.", "pronunciation": "음료" },
-      { "id": "time", "word": "시간", "definition": "흘러가는 때.", "pronunciation": "시간" },
-      { "id": "life", "word": "삶", "definition": "살아가는 경험.", "pronunciation": "삶" }
+      { "id": "morning", "word": "아침", "definition": "하루의 시작 시간.", "pronunciation": "아침" },
+      { "id": "wake", "word": "일어나다", "definition": "잠에서 깨다.", "pronunciation": "일어나다" },
+      { "id": "drink", "word": "마시다", "definition": "액체를 삼키다.", "pronunciation": "마시다" },
+      { "id": "work", "word": "일", "definition": "수고를 들여 하는 활동.", "pronunciation": "일" },
+      { "id": "town", "word": "마을", "definition": "사람들이 사는 곳.", "pronunciation": "마을" },
+      { "id": "job", "word": "직업", "definition": "돈을 벌기 위해 하는 일.", "pronunciation": "직업" },
+      { "id": "people", "word": "사람", "definition": "인간.", "pronunciation": "사람" },
+      { "id": "evening", "word": "저녁", "definition": "해가 질 무렵.", "pronunciation": "저녁" },
+      { "id": "tired", "word": "피곤하다", "definition": "지쳐서 쉬고 싶은 상태.", "pronunciation": "피곤하다" },
+      { "id": "bed", "word": "침대", "definition": "잠자는 가구.", "pronunciation": "침대" }
     ]
   },
   "listening_tracks": {
