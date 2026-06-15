@@ -1038,24 +1038,6 @@ async function loadUnitData() {
         const dataPath = window.location.pathname.includes('world-language-study') 
     ? `/world-language-study/data/${levelFolder}/unit_${unitStr}.json` 
     : `/data/${levelFolder}/unit_${unitStr}.json`;
-
-수정 후 꼭 해야 할 일 (이 과정을 거쳐야 배포됩니다!)
-
-    파일 저장: 코드 수정 후 저장합니다.
-
-    깃허브에 올리기: 터미널에서 다음 명령어를 차례대로 입력합니다.
-    Bash
-
-    git add .
-    git commit -m "fix: path error for github pages"
-    git push
-
-    잠시 대기: git push가 끝나면 깃허브가 자동으로 다시 사이트를 빌드합니다. (1~2분 소요)
-
-    사이트 확인: Ctrl + F5를 눌러서 강력 새로고침 후 다시 접속해 보세요.
-
-이제 Loading from: /world-language-study/data/...로 로그가 찍히면서 파일이 정상적으로 불러와질 것입니다. 시도해 보시고 결과가 어떤지 알려주세요!
-        
         console.log('📂 Loading from:', dataPath);
         
         const response = await fetch(dataPath);
