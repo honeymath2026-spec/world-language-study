@@ -1035,8 +1035,7 @@ async function loadUnitData() {
     try {
         const unitStr = String(unitNum).padStart(2, '0');
         const levelFolder = getLevelFolder(levelName);
-        const dataPath = `../../../data/${levelFolder}/unit_${unitStr}.json`;
-        
+        const dataPath = `../../data/${levelFolder}/unit_${unitStr}.json`;
         console.log('📂 Loading from:', dataPath);
         
         const response = await fetch(dataPath);
@@ -1304,48 +1303,53 @@ function speakText(text) {
 }
 
 // ==================== 단어 읽고 카드로 이동 ====================
-function speakAndScroll(word, cardId) {
-    console.log("🔊 speakAndScroll called with:", word, cardId);
+function speakAndScroll(wordId, cardId) {
+    console.log("🔊 speakAndScroll called with:", wordId, cardId, "langCode:", langCode);
     
-    // TTS 객체 확인 및 재초기화 시도
+    // TTS 객체 확인
     let ttsAvailable = false;
-    
     if (window.TTS) {
         ttsAvailable = true;
-        console.log("✅ TTS available");
-    } else {
-        console.warn("⚠️ TTS not available, trying to reinitialize...");
-        // TTS가 없으면 다시 초기화 시도
-        if (typeof TTS !== 'undefined' && TTS.init) {
-            TTS.init();
-            if (window.TTS) {
-                ttsAvailable = true;
-                console.log("✅ TTS reinitialized successfully");
-            }
+    } else if (typeof TTS !== 'undefined' && TTS.init) {
+        TTS.init();
+        if (window.TTS) ttsAvailable = true;
+    }
+    
+    // ✅ 현재 언어의 vocabulary에서 단어 찾기
+    let textToSpeak = wordId;
+    
+    if (unitData && unitData.vocabulary && unitData.vocabulary[langCode]) {
+        const vocabList = unitData.vocabulary[langCode];
+        // cardId에서 ID 추출 (예: 'vocab-caring' → 'caring')
+        const vocabId = cardId.replace('vocab-', '');
+        const vocab = vocabList.find(v => v.id === vocabId);
+        
+        if (vocab) {
+            // ✅ 현재 언어의 단어 + 정의 읽기
+            textToSpeak = `${vocab.word}. ${vocab.definition}`;
+            console.log(`✅ Speaking in ${langCode}:`, textToSpeak);
+        } else {
+            console.warn(`⚠️ Vocabulary not found for id: ${vocabId}`);
+            console.log("Available IDs:", vocabList.map(v => v.id).join(", "));
         }
     }
     
-    // 1. TTS로 단어 읽기
+    // ✅ TTS로 현재 언어로 읽기 (가장 중요!)
     if (ttsAvailable && window.TTS) {
-        window.TTS.speak(word);
+        window.TTS.setLanguage(langCode);  // 🔥 반드시 필요!
+        window.TTS.speak(textToSpeak);
     } else {
-        console.error("❌ TTS still not available");
-        alert("TTS not ready. Please refresh the page (Ctrl+Shift+R).");
+        console.error("❌ TTS not available");
     }
     
-    // 2. 해당 단어 카드로 스크롤 이동
+    // 카드로 스크롤
     const element = document.getElementById(cardId);
     if (element) {
         setTimeout(() => {
             element.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            element.style.transition = 'background 0.3s';
             element.style.background = '#fff59d';
-            setTimeout(() => {
-                if (element) element.style.background = '';
-            }, 1500);
+            setTimeout(() => element.style.background = '', 1500);
         }, 100);
-    } else {
-        console.warn(`⚠️ Card element not found: ${cardId}`);
     }
 }
 
