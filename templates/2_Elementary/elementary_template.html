@@ -1034,8 +1034,11 @@ function speakAndScroll(wordId, cardId) {
     if (unitData && unitData.vocabulary && unitData.vocabulary[langCode]) {
         const vocabList = unitData.vocabulary[langCode];
         const vocab = vocabList.find(v => v.id === wordId);
-        if (vocab && vocab.pronunciation) {
-            wordToSpeak = vocab.pronunciation;
+        
+        // 단어와 뜻을 합쳐서 읽도록 수정
+        if (vocab) {
+            wordToSpeak = `${vocab.word}. ${vocab.definition}`;
+            console.log(`✅ Speaking:`, wordToSpeak);
         }
     }
     
