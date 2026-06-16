@@ -325,228 +325,150 @@
   },
   "speaking_chunks": {
     "en": [
-      {
-        "type": "chunk",
-        "text": "The city is ... than the country.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "I think it's safer in the country.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>The city is more exciting than the country.</b> <b>I think it's safer in the country.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "I've got a ...",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "It's got ...",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>I've got a big flat.</b> <b>It's got a garden.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "the biggest / the most expensive",
-        "color": "#16a085",
-        "bg": "#e8f8f5"
-      },
-      {
-        "type": "chunk",
-        "text": "the cheapest / the oldest",
-        "color": "#16a085",
-        "bg": "#e8f8f5"
-      },
-      {
-        "type": "sentence",
-        "text": "Claridge's is <b>the oldest hotel.</b> The Plaza is <b>the biggest.</b>",
-        "color": "#1abc9c",
-        "bg": "#e8f8f5"
-      }
+          {
+      "type": "chunk",
+      "text": "visit different cities",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "compare them",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "I like to <b>visit different cities</b> and <b>compare them</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "find the best city",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "enjoy the music and museums",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "It's exciting to <b>find the best city</b> and <b>enjoy the music and museums</b> there.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "ja": [
-      {
-        "type": "chunk",
-        "text": "都会は田舎より...です。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "田舎の方が安全だと思います。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>都会は田舎より刺激的です。</b> <b>田舎の方が安全だと思います。</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "私には...があります。",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "それには...があります。",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>私には広いアパートがあります。</b> <b>それには庭があります。</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "最も大きい／最も高価な",
-        "color": "#16a085",
-        "bg": "#e8f8f5"
-      },
-      {
-        "type": "chunk",
-        "text": "最も安い／最も古い",
-        "color": "#16a085",
-        "bg": "#e8f8f5"
-      },
-      {
-        "type": "sentence",
-        "text": "クラリッジズは<b>最も古いホテルです。</b> プラザは<b>最も大きいです。</b>",
-        "color": "#1abc9c",
-        "bg": "#e8f8f5"
-      }
+          {
+      "type": "chunk",
+      "text": "いろんな都市を訪れる",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "それらを比べる",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>いろんな都市を訪れる</b> と <b>それらを比べる</b> のが楽しいです。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "一番いい都市を見つける",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "音楽と博物館を楽しむ",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>一番いい都市を見つける</b> ために、<b>音楽と博物館を楽しむ</b> ことが大切です。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "fr": [
-      {
-        "type": "chunk",
-        "text": "La ville est ... que la campagne.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Je pense que c'est plus sûr à la campagne.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>La ville est plus excitante que la campagne.</b> <b>Je pense que c'est plus sûr à la campagne.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "J'ai un/une ...",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Il/Elle a ...",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>J'ai un grand appartement.</b> <b>Il a un jardin.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "le plus grand / le plus cher",
-        "color": "#16a085",
-        "bg": "#e8f8f5"
-      },
-      {
-        "type": "chunk",
-        "text": "le moins cher / le plus ancien",
-        "color": "#16a085",
-        "bg": "#e8f8f5"
-      },
-      {
-        "type": "sentence",
-        "text": "Claridge's est <b>l'hôtel le plus ancien.</b> Le Plaza est <b>le plus grand.</b>",
-        "color": "#1abc9c",
-        "bg": "#e8f8f5"
-      }
+          {
+      "type": "chunk",
+      "text": "les comparer",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "J'aime <b>visiter différentes villes</b> et <b>les comparer</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "trouver la meilleure ville",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "profiter de la musique et des musées",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "C'est passionnant de <b>trouver la meilleure ville</b> et <b>profiter de la musique et des musées</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "ko": [
-      {
-        "type": "chunk",
-        "text": "도시는 시골보다 ...입니다.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "시골이 더 안전하다고 생각해요.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>도시는 시골보다 더 흥미진진합니다.</b> <b>시골이 더 안전하다고 생각해요.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "저는 ...을/를 가지고 있어요.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "그것은 ...을/를 가지고 있어요.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>저는 넓은 아파트를 가지고 있어요.</b> <b>그것은 정원을 가지고 있어요.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "가장 큰 / 가장 비싼",
-        "color": "#16a085",
-        "bg": "#e8f8f5"
-      },
-      {
-        "type": "chunk",
-        "text": "가장 싼 / 가장 오래된",
-        "color": "#16a085",
-        "bg": "#e8f8f5"
-      },
-      {
-        "type": "sentence",
-        "text": "Claridge's가 <b>가장 오래된 호텔입니다.</b> The Plaza가 <b>가장 큽니다.</b>",
-        "color": "#1abc9c",
-        "bg": "#e8f8f5"
-      }
+          {
+      "type": "chunk",
+      "text": "다양한 도시를 방문하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "그것들을 비교하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "나는 <b>다양한 도시를 방문하다</b>고 <b>그것들을 비교하다</b>는 것을 좋아해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "가장 좋은 도시를 찾다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "음악과 박물관을 즐기다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>가장 좋은 도시를 찾다</b>는 것은 그곳의 <b>음악과 박물관을 즐기다</b>는 것을 의미해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ]
   },
   "grammar_html": {

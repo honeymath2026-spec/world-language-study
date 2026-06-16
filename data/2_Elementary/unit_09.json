@@ -316,6 +316,160 @@
       { "question": "오늘날 우리는 세계 각지의 음식을 쉽게 구할 수 있다.", "correct": "T", "explanation": "오늘날 식량 운송이 쉬워져 여러 나라의 음식을 쉽게 얻을 수 있습니다." }
     ]
   },
+  "speaking_chunks": {
+    "en": [
+      {
+      "type": "chunk",
+      "text": "like different foods",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "fruit and vegetables",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "People <b>like different foods</b>, such as <b>fruit and vegetables</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "enjoy food from other countries",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "bring people together",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "People <b>enjoy food from other countries</b> because it can <b>bring people together</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "ja": [
+          {
+      "type": "chunk",
+      "text": "いろいろな食べ物が好き",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "果物と野菜",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "人々は <b>いろいろな食べ物が好き</b> で、例えば <b>果物と野菜</b> がその一つです。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "他の国の料理を楽しむ",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "人々を結びつける",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "人々は <b>他の国の料理を楽しむ</b> ことで、それが <b>人々を結びつける</b> ことができます。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "fr": [
+      {
+      "type": "chunk",
+      "text": "aimer différents aliments",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "fruits et légumes",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Les gens <b>aimer différents aliments</b>, comme les <b>fruits et légumes</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "apprécier la nourriture d'autres pays",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "rapprocher les gens",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Les gens <b>apprécier la nourriture d'autres pays</b> parce qu'elle peut <b>rapprocher les gens</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "ko": [
+      {
+      "type": "chunk",
+      "text": "다양한 음식을 좋아하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "과일과 채소",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "사람들은 <b>다양한 음식을 좋아하다</b>는데, 예를 들어 <b>과일과 채소</b> 같은 것들이 있어요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "다른 나라 음식을 즐기다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "사람들을 하나로 모으다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "사람들은 <b>다른 나라 음식을 즐기다</b>는 것이 <b>사람들을 하나로 모으다</b>는 데 도움이 되어요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ]
+  },
   "grammar_html": {
     "en": "<h3>1. Count vs Uncount Nouns</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>Count nouns</strong> have a plural form (apple → apples). <strong>Uncount nouns</strong> do not have a plural form (chocolate, not chocolates).</p></div><h3>2. I like vs I'd like</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>I like</strong> = general enjoyment (I like tea). <strong>I'd like (I would like)</strong> = want now (I'd like a cup of tea).</p></div><h3>3. Some and Any</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>Use <strong>some</strong> in offers and requests (Would you like <strong>some</strong> tea? Can I have <strong>some</strong> biscuits?). Use <strong>any</strong> in other questions and negatives (Are there <strong>any</strong> chips? There isn't <strong>any</strong> tea).</p></div><h3>4. Much vs Many</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>Many</strong> + count nouns (How <strong>many</strong> eggs?). <strong>Much</strong> + uncount nouns (How <strong>much</strong> coffee?).</p></div><h3>5. Polite requests</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'><strong>Can I have...? / Could I have...?</strong> = ask for something. <strong>Can you...? / Could you...?</strong> = ask someone to do something.</p></div>",
     "ja": "",
