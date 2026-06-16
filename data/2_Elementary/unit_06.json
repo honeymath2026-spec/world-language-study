@@ -309,252 +309,156 @@
 },
   "speaking_chunks": {
     "en": [
-      {
-        "type": "chunk",
-        "text": "Can you...?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Yes, I can.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "No, I can’t.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Can you</b> speak French? <b>Yes, I can</b>.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Where were you...?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "I was at...",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Where were you</b> yesterday? <b>I was at</b> home.",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Could you... when you were...?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "Yes, I could.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Could you swim when you were</b> five? <b>Yes, I could</b>.",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      }
+          {
+      "type": "chunk",
+      "text": "have special talents",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "practice every day",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Young people <b>have special talents</b> and they <b>practice every day</b> to get better.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "can do many things",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "work hard for their dreams",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "These young people <b>can do many things</b> and they <b>work hard for their dreams</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "ja": [
       {
-        "type": "chunk",
-        "text": "〜できますか？",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "はい、できます。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "いいえ、できません。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>フランス語を話せますか？</b> <b>はい、話せます。</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "どこにいましたか？",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "〜にいました。",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>昨日どこにいましたか？</b> <b>家にいました。</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "〜歳のとき〜できましたか？",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "はい、できました。",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>5歳のとき泳げましたか？</b> <b>はい、泳げました。</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      }
+      "type": "chunk",
+      "text": "特別な才能がある",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "毎日練習する",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "子どもたちは <b>特別な才能がある</b> から、<b>毎日練習する</b> ことで上手くなります。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "たくさんのことができる",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "夢のために頑張る",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "若い人たちは <b>たくさんのことができる</b> から、<b>夢のために頑張る</b> ことが大事です。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "fr": [
       {
-        "type": "chunk",
-        "text": "Pouvez-vous... ?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Oui, je peux.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Non, je ne peux pas.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Parlez-vous français ?</b> <b>Oui, je parle.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Où étiez-vous... ?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "J'étais à...",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Où étiez-vous hier ?</b> <b>J'étais à</b> la maison.",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Saviez-vous... quand vous aviez... ?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "Oui, je savais.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Saviez-vous nager quand vous aviez cinq ans ?</b> <b>Oui, je savais.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      }
+      "type": "chunk",
+      "text": "avoir des talents spéciaux",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "pratiquer tous les jours",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Les jeunes <b>avoir des talents spéciaux</b> et ils <b>pratiquer tous les jours</b> pour s'améliorer.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "pouvoir faire beaucoup de choses",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "travailler dur pour leurs rêves",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Ces jeunes <b>pouvoir faire beaucoup de choses</b> et ils <b>travailler dur pour leurs rêves</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "ko": [
       {
-        "type": "chunk",
-        "text": "~할 수 있나요?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "네, 할 수 있습니다.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "아니요, 못합니다.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>프랑스어 할 수 있나요?</b> <b>네, 할 수 있습니다.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "어디에 있었나요?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "~에 있었습니다.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>어제 어디에 있었나요?</b> <b>집에 있었습니다.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "~살 때 ~할 수 있었나요?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "네, 할 수 있었습니다.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>다섯 살 때 수영할 수 있었나요?</b> <b>네, 할 수 있었습니다.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      }
+      "type": "chunk",
+      "text": "특별한 재능이 있다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "매일 연습하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "어린이들은 <b>특별한 재능이 있다</b>고 <b>매일 연습하다</b>면 더 잘할 수 있어요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "많은 것을 할 수 있다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "꿈을 위해 열심히 하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "이 젊은이들은 <b>많은 것을 할 수 있다</b>고 <b>꿈을 위해 열심히 하다</b>는 자세가 필요해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ]
   },
   "grammar_html": {

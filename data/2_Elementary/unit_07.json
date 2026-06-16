@@ -335,63 +335,156 @@
   "speaking_chunks": {
     "en": [
       {
-        "type": "chunk",
-        "text": "When did you last...?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "I last... (time expression)",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>When did you last have a holiday?</b> <b>Last August.</b> Where did you go? To Spain.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Did you...?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "Yes, I did. / No, I didn't.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Did you pass the test?</b> <b>Yes, I did.</b> / <b>No, I didn't.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "Happy...!",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Thank you very much.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Happy Birthday!</b> <b>Thank you very much.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+      "type": "chunk",
+      "text": "learn new things",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "work very hard",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "People can <b>learn new things</b> when they <b>work very hard</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "have a difficult life",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "achieve their dreams",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Even when people <b>have a difficult life</b>, they can <b>achieve their dreams</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "ja": [
+    {
+      "type": "chunk",
+      "text": "新しいことを学ぶ",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "とても一生懸命働く",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>新しいことを学ぶ</b> には <b>とても一生懸命働く</b> ことが必要です。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "大変な人生を送る",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "夢を叶える",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "たとえ <b>大変な人生を送る</b> ことがあっても、<b>夢を叶える</b> ことは可能です。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "fr": [
+    {
+      "type": "chunk",
+      "text": "apprendre de nouvelles choses",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "travailler très dur",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Les gens peuvent <b>apprendre de nouvelles choses</b> s'ils <b>travailler très dur</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "avoir une vie difficile",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "réaliser leurs rêves",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Même quand ils <b>avoir une vie difficile</b>, les gens peuvent <b>réaliser leurs rêves</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "ko": [
+    {
+      "type": "chunk",
+      "text": "새로운 것을 배우다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "매우 열심히 일하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "사람들은 <b>새로운 것을 배우다</b>려면 <b>매우 열심히 일하다</b>는 자세가 필요해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "어려운 삶을 살다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "꿈을 이루다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>어려운 삶을 살다</b>라도 <b>꿈을 이루다</b>는 것은 가능해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ]
   },
   "grammar_html": {
     "en": "<h3>1. Past Simple – Regular Verbs</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>For regular verbs, we add <strong>-ed</strong> to form the past simple.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• start</strong> → started / <strong style='color:#2980b9;'>work</strong> → worked / <strong style='color:#16a085;'>create</strong> → created</li><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• live</strong> → lived (add only -d because the verb ends in -e)</li></ul><h3>2. Past Simple – Negative and Questions (did)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use <strong>did not (didn't)</strong> + base form for negatives. We use <strong>did</strong> + subject + base form for questions.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#c0392b;'>• Negative:</strong> She <strong>didn't learn</strong> to read until she was 86.</li><li style='margin-bottom:15px;'><strong style='color:#c0392b;'>• Question:</strong> <strong>When did she learn</strong> to read?</li></ul><h3>3. Past Simple – Irregular Verbs</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>Irregular verbs have special past forms that are not made with -ed.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• go</strong> → went / <strong style='color:#16a085;'>have</strong> → had / <strong style='color:#16a085;'>become</strong> → became / <strong style='color:#16a085;'>buy</strong> → bought / <strong style='color:#16a085;'>meet</strong> → met</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• be</strong> → was/were / <strong style='color:#16a085;'>can</strong> → could</li></ul>",

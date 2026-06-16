@@ -338,10 +338,158 @@
     ]
 },
   "speaking_chunks": {
-    "en": [],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "en": [
+      {
+      "type": "chunk",
+      "text": "live in different homes",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "near the sea or in the city",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "People <b>live in different homes</b>, some <b>near the sea or in the city</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "live with family",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "have a garden",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Some people <b>live with family</b> and others <b>have a garden</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "ja": [
+{
+      "type": "chunk",
+      "text": "いろいろな家に住む",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "海の近くや街中で",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "人々は <b>いろいろな家に住む</b>、<b>海の近くや街中で</b> 生活しています。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "家族と住む",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "庭がある",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "ある人は <b>家族と住む</b>、またある人は <b>庭がある</b> 家に住んでいます。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "fr": [
+      {
+      "type": "chunk",
+      "text": "vivre dans différentes maisons",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "près de la mer ou en ville",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Les gens <b>vivre dans différentes maisons</b>, certains <b>près de la mer ou en ville</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "vivre en famille",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "avoir un jardin",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Certaines personnes <b>vivre en famille</b> et d'autres <b>avoir un jardin</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "ko": [
+          {
+      "type": "chunk",
+      "text": "다양한 집에 살다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "바다 근처나 도시에서",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "사람들은 <b>다양한 집에 살다</b>, 어떤 이들은 <b>바다 근처나 도시에서</b> 삽니다.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "가족과 함께 살다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "정원이 있다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "어떤 사람들은 <b>가족과 함께 살다</b>고, 다른 사람들은 <b>정원이 있다</b>는 집에 삽니다.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ]
   },
   "grammar_html": {
     "en": "",

@@ -605,10 +605,158 @@
     ]
   },
   "speaking_chunks": {
-    "en": [],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "en": [
+{
+      "type": "chunk",
+      "text": "invent new things",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "change the world",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "People <b>invent new things</b> and these ideas <b>change the world</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "find love in different ways",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "send messages across the sea",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "People can <b>find love in different ways</b>, like <b>send messages across the sea</b> in a bottle.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "ja": [
+{
+      "type": "chunk",
+      "text": "新しいものを発明する",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "世界を変える",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>新しいものを発明する</b> ことで、<b>世界を変える</b> ことができます。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "違う方法で愛を見つける",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "海を越えてメッセージを送る",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "人々は <b>違う方法で愛を見つける</b> ことができ、<b>海を越えてメッセージを送る</b> こともあります。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "fr": [
+    {
+      "type": "chunk",
+      "text": "inventer de nouvelles choses",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "changer le monde",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Les gens <b>inventer de nouvelles choses</b> et ces idées <b>changer le monde</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "trouver l'amour de différentes manières",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "envoyer des messages à travers la mer",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Les gens peuvent <b>trouver l'amour de différentes manières</b>, comme <b>envoyer des messages à travers la mer</b> dans une bouteille.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "ko": [
+{
+      "type": "chunk",
+      "text": "새로운 것을 발명하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "세상을 바꾸다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "사람들은 <b>새로운 것을 발명하다</b>는 것으로 <b>세상을 바꾸다</b>는 일을 해왔어요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "다른 방식으로 사랑을 찾다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "바다를 건너 메시지를 보내다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "사람들은 <b>다른 방식으로 사랑을 찾다</b>는 게 가능해요, 예를 들어 <b>바다를 건너 메시지를 보내다</b>는 것처럼요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ]
   },
   "grammar_html": {
     "en": "<h3>1. Past Simple Negatives</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>To make the past simple negative, use <strong>didn't</strong> + base form of the verb.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'>• I <strong>didn't watch</strong> TV yesterday.</li><li style='margin-bottom:15px;'>• They <strong>didn't make</strong> jeans in 1923.</li><li style='margin-bottom:15px;'>• He <strong>didn't give</strong> the aspirin to his mother.</li></ul><h3>2. Using 'ago'</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use <strong>ago</strong> to say how long before now something happened.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'>• Cars were invented <strong>131 years ago</strong> (from 2024).</li><li style='margin-bottom:15px;'>• I got up three hours <strong>ago</strong>.</li><li style='margin-bottom:15px;'>• This term started two months <strong>ago</strong>.</li></ul><h3>3. Saying Dates</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We write: 3/4/1999 or 3 April 1999.<br>We say: 'The third of April, nineteen ninety-nine' or 'April the third, nineteen ninety-nine'.</p></div>",
