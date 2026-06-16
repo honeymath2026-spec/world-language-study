@@ -1,88 +1,83 @@
 {
   "title": {
-    "en": "Looking good!",
-    "ja": "かっこよく見える！",
-    "fr": "Bonne mine !",
-    "ko": "멋지게 보여요!"
+    "en": "Who's at the Party?",
+    "ja": "パーティーにいるのは誰？",
+    "fr": "Qui est à la fête ?",
+    "ko": "파티에 누가 있을까?"
   },
   "topic": {
-    "en": "Present Continuous, whose, clothes, words that rhyme, in a clothes shop",
-    "ja": "現在進行形、誰の～、洋服、韻を踏む言葉、洋服店で",
-    "fr": "Présent continu, À qui ?, vêtements, mots qui riment, dans un magasin de vêtements",
-    "ko": "현재진행형, 소유의문, 옷, 운율이 맞는 단어, 옷가게에서"
+    "en": "People, Jobs, and Belongings",
+    "ja": "人々・仕事・持ち物",
+    "fr": "Les personnes, les métiers et les objets",
+    "ko": "사람, 직업, 그리고 소유물"
   },
   "core_title": {
-    "en": "Describing People and Clothes",
-    "ja": "人と服装の描写",
-    "fr": "Décrire des personnes et des vêtements",
-    "ko": "사람과 옷 묘사하기"
+    "en": "Meeting People at a Party",
+    "ja": "パーティーで人と出会う",
+    "fr": "Rencontrer des gens à une fête",
+    "ko": "파티에서 사람들을 만나다"
   },
   "core_reading_html": {
-    "en": "<p style='margin-top:0;'><strong>Part 1: Describing people</strong></p><p>Who is tall? Who isn't very tall? Who is pretty, good-looking, or handsome? Who's got long, short, fair, dark, or grey hair? Who's got blue or brown eyes? Rebecca's got dark hair and brown eyes.</p><p><strong>Part 2: What are they doing?</strong></p><p>Who is smiling? Who is talking? Who is writing? Who is laughing? Who is eating? Who is running? Who is sitting down? Who is cooking? Who is standing up? Who is playing? Jane's smiling. Angela's running.</p><p><strong>Part 3: What are they wearing?</strong></p><p>Rudi's wearing a brown T-shirt. Nadia is wearing a dress. People wear many different clothes: a hat, a coat, a jumper, a shirt, a T-shirt, a dress, a skirt, a jacket, a suit, trousers, jeans, shorts, shoes, trainers, boots.</p>",
-    "ja": "<p style='margin-top:0;'><strong>パート1: 人を描写する</strong></p><p>誰が背が高いですか？誰がそれほど背が高くないですか？誰がかわいい、かっこいい、ハンサムですか？誰が長い、短い、明るい、暗い、白い髪をしていますか？誰が青い目、茶色い目をしていますか？レベッカは黒い髪と茶色い目をしています。</p><p><strong>パート2: 彼らは何をしているですか？</strong></p><p>誰が笑っていますか？誰が話していますか？誰が書いていますか？誰が笑っていますか？誰が食べていますか？誰が走っていますか？誰が座っていますか？誰が料理していますか？誰が立っていますか？誰が遊んでいますか？ジェーンは笑っています。アンジェラは走っています。</p><p><strong>パート3: 彼らは何を着ていますか？</strong></p><p>ルディは茶色のTシャツを着ています。ナディアはドレスを着ています。人々は帽子、コート、ジャンパー、シャツ、Tシャツ、ドレス、スカート、ジャケット、スーツ、ズボン、ジーンズ、ショーツ、靴、トレーナー、ブーツなど様々な服を着ます。</p>",
-    "fr": "<p style='margin-top:0;'><strong>Partie 1: Décrire des personnes</strong></p><p>Qui est grand ? Qui n'est pas très grand ? Qui est jolie, beau/belle, beau ? Qui a les cheveux longs, courts, blonds, foncés, gris ? Qui a les yeux bleus ou marron ? Rebecca a les cheveux foncés et les yeux marron.</p><p><strong>Partie 2: Que font-ils ?</strong></p><p>Qui sourit ? Qui parle ? Qui écrit ? Qui rit ? Qui mange ? Qui court ? Qui est assis ? Qui cuisine ? Qui est debout ? Qui joue ? Jane sourit. Angela court.</p><p><strong>Partie 3: Que portent-ils ?</strong></p><p>Rudi porte un T-shirt marron. Nadia porte une robe. Les gens portent de nombreux vêtements différents : un chapeau, un manteau, un pull, une chemise, un T-shirt, une robe, une jupe, une veste, un costume, un pantalon, un jean, un short, des chaussures, des baskets, des bottes.</p>",
-    "ko": "<p style='margin-top:0;'><strong>파트 1: 사람 묘사하기</strong></p><p>누가 키가 크나요? 누가 별로 키가 크지 않나요? 누가 예쁘고, 잘생겼고, 멋진가요? 누가 긴 머리, 짧은 머리, 밝은 머리, 어두운 머리, 흰 머리를 가졌나요? 누가 파란 눈, 갈색 눈을 가졌나요? Rebecca는 어두운 머리와 갈색 눈을 가졌어요.</p><p><strong>파트 2: 그들은 무엇을 하고 있나요?</strong></p><p>누가 웃고 있나요? 누가 말하고 있나요? 누가 쓰고 있나요? 누가 크게 웃고 있나요? 누가 먹고 있나요? 누가 달리고 있나요? 누가 앉아 있나요? 누가 요리하고 있나요? 누가 서 있나요? 누가 놀고 있나요? Jane이 웃고 있어요. Angela가 달리고 있어요.</p><p><strong>파트 3: 그들은 무엇을 입고 있나요?</strong></p><p>Rudi는 갈색 티셔츠를 입고 있어요. Nadia는 드레스를 입고 있어요. 사람들은 다양한 옷을 입습니다: 모자, 코트, 점퍼, 셔츠, 티셔츠, 드레스, 치마, 재킷, 정장, 바지, 청바지, 반바지, 신발, 운동화, 부츠.</p>"
+    "en": "<p>Oliver is at a party. He does not know many <strong><span class='vocab-link' id='text-people' onclick='speakAndScroll(\"people\", \"vocab-people\")'>people</span></strong>. Monica helps him. Harry is a <strong><span class='vocab-link' id='text-musician' onclick='speakAndScroll(\"musician\", \"vocab-musician\")'>musician</span></strong> in Los Angeles. Mandy is very <strong><span class='vocab-link' id='text-rich' onclick='speakAndScroll(\"rich\", \"vocab-rich\")'>rich</span></strong>. Fiona is a <strong><span class='vocab-link' id='text-writer' onclick='speakAndScroll(\"writer\", \"vocab-writer\")'>writer</span></strong> who writes stories for children. George is a <strong><span class='vocab-link' id='text-pilot' onclick='speakAndScroll(\"pilot\", \"vocab-pilot\")'>pilot</span></strong>. He travels many miles every week. Roz and Sam are <strong><span class='vocab-link' id='text-married' onclick='speakAndScroll(\"married\", \"vocab-married\")'>married</span></strong>. They live in a <strong><span class='vocab-link' id='text-flat' onclick='speakAndScroll(\"flat\", \"vocab-flat\")'>flat</span></strong>. Oliver also sees a <strong><span class='vocab-link' id='text-racket' onclick='speakAndScroll(\"racket\", \"vocab-racket\")'>racket</span></strong>, a <strong><span class='vocab-link' id='text-cap' onclick='speakAndScroll(\"cap\", \"vocab-cap\")'>cap</span></strong>, and a <strong><span class='vocab-link' id='text-dog' onclick='speakAndScroll(\"dog\", \"vocab-dog\")'>dog</span></strong>. He asks, “Whose are they?”</p>",
+
+    "ja": "<p>オリバーはパーティーにいます。たくさんの <strong><span class='vocab-link' id='text-people' onclick='speakAndScroll(\"people\", \"vocab-people\")'>人々</span></strong> を知りません。モニカが助けます。ハリーはロサンゼルスで働く <strong><span class='vocab-link' id='text-musician' onclick='speakAndScroll(\"musician\", \"vocab-musician\")'>音楽家</span></strong> です。マンディはとても <strong><span class='vocab-link' id='text-rich' onclick='speakAndScroll(\"rich\", \"vocab-rich\")'>お金持ち</span></strong> です。フィオナは子どもの物語を書く <strong><span class='vocab-link' id='text-writer' onclick='speakAndScroll(\"writer\", \"vocab-writer\")'>作家</span></strong> です。ジョージは <strong><span class='vocab-link' id='text-pilot' onclick='speakAndScroll(\"pilot\", \"vocab-pilot\")'>パイロット</span></strong> で、毎週たくさん旅をします。ロズとサムは <strong><span class='vocab-link' id='text-married' onclick='speakAndScroll(\"married\", \"vocab-married\")'>結婚して</span></strong> いて、<strong><span class='vocab-link' id='text-flat' onclick='speakAndScroll(\"flat\", \"vocab-flat\")'>アパート</span></strong> に住んでいます。オリバーは <strong><span class='vocab-link' id='text-racket' onclick='speakAndScroll(\"racket\", \"vocab-racket\")'>ラケット</span></strong>、<strong><span class='vocab-link' id='text-cap' onclick='speakAndScroll(\"cap\", \"vocab-cap\")'>帽子</span></strong>、そして <strong><span class='vocab-link' id='text-dog' onclick='speakAndScroll(\"dog\", \"vocab-dog\")'>犬</span></strong> を見ます。そして「これは誰のものですか？」と聞きます。</p>",
+
+    "fr": "<p>Olivier est à une fête. Il ne connaît pas beaucoup de <strong><span class='vocab-link' id='text-people' onclick='speakAndScroll(\"people\", \"vocab-people\")'>personnes</span></strong>. Monica l'aide. Harry est un <strong><span class='vocab-link' id='text-musician' onclick='speakAndScroll(\"musician\", \"vocab-musician\")'>musicien</span></strong> à Los Angeles. Mandy est très <strong><span class='vocab-link' id='text-rich' onclick='speakAndScroll(\"rich\", \"vocab-rich\")'>riche</span></strong>. Fiona est une <strong><span class='vocab-link' id='text-writer' onclick='speakAndScroll(\"writer\", \"vocab-writer\")'>écrivaine</span></strong> qui écrit des histoires pour enfants. George est <strong><span class='vocab-link' id='text-pilot' onclick='speakAndScroll(\"pilot\", \"vocab-pilot\")'>pilote</span></strong>. Il voyage beaucoup chaque semaine. Roz et Sam sont <strong><span class='vocab-link' id='text-married' onclick='speakAndScroll(\"married\", \"vocab-married\")'>mariés</span></strong>. Ils habitent dans un <strong><span class='vocab-link' id='text-flat' onclick='speakAndScroll(\"flat\", \"vocab-flat\")'>appartement</span></strong>. Olivier voit aussi une <strong><span class='vocab-link' id='text-racket' onclick='speakAndScroll(\"racket\", \"vocab-racket\")'>raquette</span></strong>, une <strong><span class='vocab-link' id='text-cap' onclick='speakAndScroll(\"cap\", \"vocab-cap\")'>casquette</span></strong> et un <strong><span class='vocab-link' id='text-dog' onclick='speakAndScroll(\"dog\", \"vocab-dog\")'>chien</span></strong>. Il demande : « À qui sont-ils ? »</p>",
+
+    "ko": "<p>올리버는 파티에 와 있습니다. 그는 많은 <strong><span class='vocab-link' id='text-people' onclick='speakAndScroll(\"people\", \"vocab-people\")'>사람들</span></strong> 을 알지 못합니다. 모니카가 도와줍니다. 해리는 로스앤젤레스에서 일하는 <strong><span class='vocab-link' id='text-musician' onclick='speakAndScroll(\"musician\", \"vocab-musician\")'>음악가</span></strong> 입니다. 맨디는 매우 <strong><span class='vocab-link' id='text-rich' onclick='speakAndScroll(\"rich\", \"vocab-rich\")'>부유한</span></strong> 사람입니다. 피오나는 어린이 이야기를 쓰는 <strong><span class='vocab-link' id='text-writer' onclick='speakAndScroll(\"writer\", \"vocab-writer\")'>작가</span></strong> 입니다. 조지는 <strong><span class='vocab-link' id='text-pilot' onclick='speakAndScroll(\"pilot\", \"vocab-pilot\")'>파일럿</span></strong> 으로 매주 먼 곳을 여행합니다. 로즈와 샘은 <strong><span class='vocab-link' id='text-married' onclick='speakAndScroll(\"married\", \"vocab-married\")'>결혼한</span></strong> 부부이며 <strong><span class='vocab-link' id='text-flat' onclick='speakAndScroll(\"flat\", \"vocab-flat\")'>아파트</span></strong> 에 살고 있습니다. 올리버는 <strong><span class='vocab-link' id='text-racket' onclick='speakAndScroll(\"racket\", \"vocab-racket\")'>라켓</span></strong>, <strong><span class='vocab-link' id='text-cap' onclick='speakAndScroll(\"cap\", \"vocab-cap\")'>모자</span></strong>, 그리고 <strong><span class='vocab-link' id='text-dog' onclick='speakAndScroll(\"dog\", \"vocab-dog\")'>개</span></strong> 도 봅니다. 그는 “이것들은 누구의 것일까?”라고 묻습니다.</p>"
   },
+
   "vocabulary": {
     "en": [
-      { "id": "hat", "word": "Hat", "definition": "A covering for the head.", "pronunciation": "Hat" },
-      { "id": "coat", "word": "Coat", "definition": "An outer garment worn outdoors.", "pronunciation": "Coat" },
-      { "id": "jumper", "word": "Jumper", "definition": "A knitted garment for the upper body.", "pronunciation": "Jumper" },
-      { "id": "shirt", "word": "Shirt", "definition": "A garment for the upper body with a collar and sleeves.", "pronunciation": "Shirt" },
-      { "id": "dress", "word": "Dress", "definition": "A one-piece garment for women or girls.", "pronunciation": "Dress" },
-      { "id": "skirt", "word": "Skirt", "definition": "A garment that hangs from the waist.", "pronunciation": "Skirt" },
-      { "id": "jacket", "word": "Jacket", "definition": "A short coat.", "pronunciation": "Jacket" },
-      { "id": "suit", "word": "Suit", "definition": "A set of matching jacket and trousers or skirt.", "pronunciation": "Suit" },
-      { "id": "trousers", "word": "Trousers", "definition": "A garment covering the legs from waist to ankle.", "pronunciation": "Trousers" },
-      { "id": "jeans", "word": "Jeans", "definition": "Casual trousers made of denim.", "pronunciation": "Jeans" },
-      { "id": "shoes", "word": "Shoes", "definition": "Footwear covering the foot.", "pronunciation": "Shoes" },
-      { "id": "trainers", "word": "Trainers", "definition": "Casual shoes for sports or walking.", "pronunciation": "Trainers" },
-      { "id": "boots", "word": "Boots", "definition": "Footwear that covers the ankle.", "pronunciation": "Boots" }
+      { "id": "people", "word": "people", "definition": "Men, women, and children.", "pronunciation": "people" },
+      { "id": "musician", "word": "musician", "definition": "A person who plays or writes music.", "pronunciation": "musician" },
+      { "id": "rich", "word": "rich", "definition": "Having a lot of money.", "pronunciation": "rich" },
+      { "id": "writer", "word": "writer", "definition": "A person who writes books or stories.", "pronunciation": "writer" },
+      { "id": "pilot", "word": "pilot", "definition": "A person who flies an airplane.", "pronunciation": "pilot" },
+      { "id": "married", "word": "married", "definition": "Having a husband or wife.", "pronunciation": "married" },
+      { "id": "flat", "word": "flat", "definition": "An apartment.", "pronunciation": "flat" },
+      { "id": "racket", "word": "racket", "definition": "Sports equipment used in tennis.", "pronunciation": "racket" },
+      { "id": "cap", "word": "cap", "definition": "A soft hat with a visor.", "pronunciation": "cap" },
+      { "id": "dog", "word": "dog", "definition": "A common pet animal.", "pronunciation": "dog" }
     ],
+
     "ja": [
-      { "id": "hat", "word": "帽子", "definition": "頭を覆うもの。", "pronunciation": "ぼうし" },
-      { "id": "coat", "word": "コート", "definition": "屋外で着る外衣。", "pronunciation": "コート" },
-      { "id": "jumper", "word": "ジャンパー", "definition": "上半身に着るニットの衣服。", "pronunciation": "ジャンパー" },
-      { "id": "shirt", "word": "シャツ", "definition": "襟と袖のある上半身の衣服。", "pronunciation": "シャツ" },
-      { "id": "dress", "word": "ドレス", "definition": "女性や少女のための一枚の衣服。", "pronunciation": "ドレス" },
-      { "id": "skirt", "word": "スカート", "definition": "腰から下げる衣服。", "pronunciation": "スカート" },
-      { "id": "jacket", "word": "ジャケット", "definition": "短いコート。", "pronunciation": "ジャケット" },
-      { "id": "suit", "word": "スーツ", "definition": "合わせたジャケットとズボンまたはスカートのセット。", "pronunciation": "スーツ" },
-      { "id": "trousers", "word": "ズボン", "definition": "腰から足首まで脚を覆う衣服。", "pronunciation": "ズボン" },
-      { "id": "jeans", "word": "ジーンズ", "definition": "デニムのカジュアルなズボン。", "pronunciation": "ジーンズ" },
-      { "id": "shoes", "word": "靴", "definition": "足を覆う履物。", "pronunciation": "くつ" },
-      { "id": "trainers", "word": "トレーナー", "definition": "スポーツや歩行のためのカジュアルな靴。", "pronunciation": "トレーナー" },
-      { "id": "boots", "word": "ブーツ", "definition": "足首を覆う履物。", "pronunciation": "ブーツ" }
+      { "id": "people", "word": "人々", "definition": "たくさんの人。", "pronunciation": "ひとびと" },
+      { "id": "musician", "word": "音楽家", "definition": "音楽を演奏する人。", "pronunciation": "おんがくか" },
+      { "id": "rich", "word": "お金持ち", "definition": "たくさんお金を持っている人。", "pronunciation": "おかねもち" },
+      { "id": "writer", "word": "作家", "definition": "本や物語を書く人。", "pronunciation": "さっか" },
+      { "id": "pilot", "word": "パイロット", "definition": "飛行機を操縦する人。", "pronunciation": "ぱいろっと" },
+      { "id": "married", "word": "結婚して", "definition": "夫婦になっていること。", "pronunciation": "けっこんして" },
+      { "id": "flat", "word": "アパート", "definition": "人が住む集合住宅。", "pronunciation": "あぱーと" },
+      { "id": "racket", "word": "ラケット", "definition": "テニスで使う道具。", "pronunciation": "らけっと" },
+      { "id": "cap", "word": "帽子", "definition": "頭にかぶるもの。", "pronunciation": "ぼうし" },
+      { "id": "dog", "word": "犬", "definition": "人気のあるペット。", "pronunciation": "いぬ" }
     ],
+
     "fr": [
-      { "id": "hat", "word": "Chapeau", "definition": "Une couverture pour la tête.", "pronunciation": "Chapeau" },
-      { "id": "coat", "word": "Manteau", "definition": "Un vêtement d'extérieur porté dehors.", "pronunciation": "Manteau" },
-      { "id": "jumper", "word": "Pull", "definition": "Un vêtement tricoté pour le haut du corps.", "pronunciation": "Pull" },
-      { "id": "shirt", "word": "Chemise", "definition": "Un vêtement pour le haut du corps avec un col et des manches.", "pronunciation": "Chemise" },
-      { "id": "dress", "word": "Robe", "definition": "Un vêtement d'une seule pièce pour les femmes ou les filles.", "pronunciation": "Robe" },
-      { "id": "skirt", "word": "Jupe", "definition": "Un vêtement qui pend de la taille.", "pronunciation": "Jupe" },
-      { "id": "jacket", "word": "Veste", "definition": "Un manteau court.", "pronunciation": "Veste" },
-      { "id": "suit", "word": "Costume", "definition": "Un ensemble de veste et pantalon ou jupe assortis.", "pronunciation": "Costume" },
-      { "id": "trousers", "word": "Pantalon", "definition": "Un vêtement couvrant les jambes de la taille à la cheville.", "pronunciation": "Pantalon" },
-      { "id": "jeans", "word": "Jean", "definition": "Un pantalon décontracté en denim.", "pronunciation": "Jean" },
-      { "id": "shoes", "word": "Chaussures", "definition": "Chaussures couvrant le pied.", "pronunciation": "Chaussures" },
-      { "id": "trainers", "word": "Baskets", "definition": "Chaussures décontractées pour le sport ou la marche.", "pronunciation": "Baskets" },
-      { "id": "boots", "word": "Bottes", "definition": "Chaussures qui couvrent la cheville.", "pronunciation": "Bottes" }
+      { "id": "people", "word": "personnes", "definition": "Des hommes, des femmes et des enfants.", "pronunciation": "personnes" },
+      { "id": "musician", "word": "musicien", "definition": "Personne qui joue de la musique.", "pronunciation": "musicien" },
+      { "id": "rich", "word": "riche", "definition": "Qui a beaucoup d'argent.", "pronunciation": "riche" },
+      { "id": "writer", "word": "écrivaine", "definition": "Personne qui écrit des histoires.", "pronunciation": "écrivaine" },
+      { "id": "pilot", "word": "pilote", "definition": "Personne qui conduit un avion.", "pronunciation": "pilote" },
+      { "id": "married", "word": "mariés", "definition": "Un homme et une femme unis par mariage.", "pronunciation": "mariés" },
+      { "id": "flat", "word": "appartement", "definition": "Logement dans un immeuble.", "pronunciation": "appartement" },
+      { "id": "racket", "word": "raquette", "definition": "Objet utilisé pour jouer au tennis.", "pronunciation": "raquette" },
+      { "id": "cap", "word": "casquette", "definition": "Petit chapeau avec visière.", "pronunciation": "casquette" },
+      { "id": "dog", "word": "chien", "definition": "Animal de compagnie très courant.", "pronunciation": "chien" }
     ],
+
     "ko": [
-      { "id": "hat", "word": "모자", "definition": "머리를 덮는 것.", "pronunciation": "모자" },
-      { "id": "coat", "word": "코트", "definition": "야외에서 입는 겉옷.", "pronunciation": "코트" },
-      { "id": "jumper", "word": "점퍼", "definition": "상체에 입는 니트 옷.", "pronunciation": "점퍼" },
-      { "id": "shirt", "word": "셔츠", "definition": "칼라와 소매가 있는 상의.", "pronunciation": "셔츠" },
-      { "id": "dress", "word": "드레스", "definition": "여성이나 소녀를 위한 원피스 옷.", "pronunciation": "드레스" },
-      { "id": "skirt", "word": "치마", "definition": "허리에서 늘어뜨리는 옷.", "pronunciation": "치마" },
-      { "id": "jacket", "word": "재킷", "definition": "짧은 코트.", "pronunciation": "재킷" },
-      { "id": "suit", "word": "정장", "definition": "매치되는 재킷과 바지 또는 치마 세트.", "pronunciation": "정장" },
-      { "id": "trousers", "word": "바지", "definition": "허리에서 발목까지 다리를 덮는 옷.", "pronunciation": "바지" },
-      { "id": "jeans", "word": "청바지", "definition": "데님으로 만든 캐주얼 바지.", "pronunciation": "청바지" },
-      { "id": "shoes", "word": "신발", "definition": "발을 덮는 신발류.", "pronunciation": "신발" },
-      { "id": "trainers", "word": "운동화", "definition": "스포츠나 걷기를 위한 캐주얼 신발.", "pronunciation": "운동화" },
-      { "id": "boots", "word": "부츠", "definition": "발목을 덮는 신발.", "pronunciation": "부츠" }
+      { "id": "people", "word": "사람들", "definition": "남자, 여자, 아이들을 모두 포함한 사람들.", "pronunciation": "사람들" },
+      { "id": "musician", "word": "음악가", "definition": "음악을 연주하거나 만드는 사람.", "pronunciation": "음악가" },
+      { "id": "rich", "word": "부유한", "definition": "돈이 많은 상태의.", "pronunciation": "부유한" },
+      { "id": "writer", "word": "작가", "definition": "책이나 이야기를 쓰는 사람.", "pronunciation": "작가" },
+      { "id": "pilot", "word": "파일럿", "definition": "비행기를 조종하는 사람.", "pronunciation": "파일럿" },
+      { "id": "married", "word": "결혼한", "definition": "부부가 된 상태의.", "pronunciation": "결혼한" },
+      { "id": "flat", "word": "아파트", "definition": "여러 가구가 사는 주택.", "pronunciation": "아파트" },
+      { "id": "racket", "word": "라켓", "definition": "테니스를 칠 때 사용하는 도구.", "pronunciation": "라켓" },
+      { "id": "cap", "word": "모자", "definition": "머리에 쓰는 물건.", "pronunciation": "모자" },
+      { "id": "dog", "word": "개", "definition": "사람들이 많이 기르는 동물.", "pronunciation": "개" }
     ]
   },
   "listening_tracks": {
