@@ -329,10 +329,158 @@
     ]
   },
   "speaking_chunks": {
-    "en": [],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "en": [
+    {
+      "type": "chunk",
+      "text": "meet new people",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "learn about their jobs",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "At a party, you can <b>meet new people</b> and <b>learn about their jobs</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "find things at the party",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "ask whose they are",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "If you <b>find things at the party</b>, you can <b>ask whose they are</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "ja": [
+    {
+      "type": "chunk",
+      "text": "新しい人に会う",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "彼らの仕事を知る",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "パーティーでは <b>新しい人に会う</b> ことができ、<b>彼らの仕事を知る</b> こともできます。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "パーティーで物を見つける",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "誰のものか尋ねる",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "パーティーで <b>物を見つける</b> と、<b>誰のものか尋ねる</b> ことができます。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "fr": [
+{
+      "type": "chunk",
+      "text": "rencontrer de nouvelles personnes",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "apprendre leurs métiers",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "À une fête, vous pouvez <b>rencontrer de nouvelles personnes</b> et <b>apprendre leurs métiers</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "trouver des objets à la fête",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "demander à qui ils sont",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Si vous <b>trouver des objets à la fête</b>, vous pouvez <b>demander à qui ils sont</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "ko": [
+{
+      "type": "chunk",
+      "text": "새로운 사람들을 만나다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "그들의 직업을 알다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "파티에서는 <b>새로운 사람들을 만나다</b>고 <b>그들의 직업을 알다</b>는 기회를 가질 수 있어요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "파티에서 물건을 찾다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "누구의 것인지 묻다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "파티에서 <b>물건을 찾다</b>면, <b>누구의 것인지 묻다</b>는 게 좋아요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ]
   },
   "grammar_html": {
     "en": "",

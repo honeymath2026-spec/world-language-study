@@ -304,299 +304,155 @@
   "speaking_chunks": {
     "en": [
       {
-        "type": "chunk",
-        "text": "What are you going to do?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "I'm going to...",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>What are you going to do?</b> <b>I'm going to</b> travel all over the world.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Why are you going to Holland?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "To see the tulips.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Why are you going to Holland?</b> <b>To see</b> the tulips.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "What's the weather like?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "It's sunny and hot.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>What's the weather like?</b> <b>It's sunny and hot.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "What shall we do?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Let's go to the beach.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>What shall we do?</b> <b>Let's go to the beach.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+      "type": "chunk",
+      "text": "follow their dreams",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "learn new skills",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "People <b>follow their dreams</b> and <b>learn new skills</b> to make them come true.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "change their lives",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "have a better future",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Sometimes people <b>change their lives</b> because they want to <b>have a better future</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "ja": [
       {
-        "type": "chunk",
-        "text": "何をするつもりですか？",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "～するつもりです。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>何をするつもりですか？</b> <b>私は</b>世界中を旅行する<b>つもりです。</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "なぜオランダに行くのですか？",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "チューリップを見るために。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>なぜオランダに行くのですか？</b> <b>チューリップを見るために。</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "天気はどうですか？",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "晴れて暑いです。",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>天気はどうですか？</b> <b>晴れて暑いです。</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "何をしましょうか？",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "ビーチに行きましょう。",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>何をしましょうか？</b> <b>ビーチに行きましょう。</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+      "type": "chunk",
+      "text": "夢を追いかける",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "新しいスキルを学ぶ",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "人々は <b>夢を追いかける</b> ために <b>新しいスキルを学ぶ</b> ことが大切です。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "人生を変える",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "より良い未来を手に入れる",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "時には人々は <b>人生を変える</b> ことで <b>より良い未来を手に入れる</b> ことができます。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "fr": [
       {
-        "type": "chunk",
-        "text": "Qu'est-ce que tu vas faire ?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Je vais...",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Qu'est-ce que tu vas faire ?</b> <b>Je vais</b> voyager dans le monde entier.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Pourquoi vas-tu en Hollande ?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Pour voir les tulipes.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Pourquoi vas-tu en Hollande ?</b> <b>Pour voir</b> les tulipes.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Quel temps fait-il ?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "Il fait soleil et chaud.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Quel temps fait-il ?</b> <b>Il fait soleil et chaud.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "Qu'est-ce qu'on fait ?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Allons à la plage.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Qu'est-ce qu'on fait ?</b> <b>Allons à la plage.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+      "type": "chunk",
+      "text": "suivre leurs rêves",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "apprendre de nouvelles compétences",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Les gens <b>suivre leurs rêves</b> et <b>apprendre de nouvelles compétences</b> pour les réaliser.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "changer leur vie",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "avoir un meilleur avenir",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Parfois, les gens <b>changer leur vie</b> parce qu'ils veulent <b>avoir un meilleur avenir</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "ko": [
-      {
-        "type": "chunk",
-        "text": "뭐 할 거예요?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "나는 ~할 거예요.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>뭐 할 거예요?</b> <b>나는</b> 전 세계를 여행<b>할 거예요.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "왜 네덜란드에 가요?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "튤립을 보러요.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>왜 네덜란드에 가요?</b> <b>튤립을 보러요.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "날씨가 어때요?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "맑고 더워요.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>날씨가 어때요?</b> <b>맑고 더워요.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "우리 뭐 할까?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "해변에 가자.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>우리 뭐 할까?</b> <b>해변에 가자.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+          {
+      "type": "chunk",
+      "text": "꿈을 따라가다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "새로운 기술을 배우다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "사람들은 <b>꿈을 따라가다</b>는 목표로 <b>새로운 기술을 배우다</b>는 것을 선택해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "삶을 바꾸다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "더 나은 미래를 가지다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "때로는 사람들이 <b>삶을 바꾸다</b>는 선택을 하는 이유는 <b>더 나은 미래를 가지다</b>는 것을 원하기 때문이에요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ]
   },
   "grammar_html": {

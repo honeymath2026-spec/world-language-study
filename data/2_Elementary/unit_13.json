@@ -358,64 +358,157 @@
   },
   "speaking_chunks": {
     "en": [
-      {
-        "type": "chunk",
-        "text": "What time does the train leave?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "When does it get in?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>What time does the train leave?</b> It leaves at 5.28.",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "A return ticket to Bristol, please.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Day return or period return?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>A return ticket to Bristol, please.</b> <b>Day return or period return?</b> Day return.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "How do you want to pay?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "Cash, please.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>How do you want to pay?</b> <b>Cash, please.</b> Here's a twenty-pound note.",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      }
+          {
+      "type": "chunk",
+      "text": "ask questions",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "get good information",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "When you travel, it's helpful to <b>ask questions</b> and <b>get good information</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "hear a strange noise",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "make a clever choice",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "If you <b>hear a strange noise</b> at night, try to <b>make a clever choice</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "ja": [
+{
+      "type": "chunk",
+      "text": "質問をする",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "良い情報を得る",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "旅行では <b>質問をする</b> と <b>良い情報を得る</b> ことが大切です。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "変な音を聞く",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "賢い選択をする",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "夜に <b>変な音を聞く</b> と、<b>賢い選択をする</b> のが大事です。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "fr": [
+{
+      "type": "chunk",
+      "text": "poser des questions",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "obtenir de bonnes informations",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Quand on voyage, c'est utile de <b>poser des questions</b> et <b>obtenir de bonnes informations</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "entendre un bruit étrange",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "faire un choix malin",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Si vous <b>entendre un bruit étrange</b> la nuit, essayez de <b>faire un choix malin</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ],
+    "ko": [
+    {
+      "type": "chunk",
+      "text": "질문을 하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "좋은 정보를 얻다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "여행할 때는 <b>질문을 하다</b>고 <b>좋은 정보를 얻다</b>는 것이 중요해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "이상한 소리를 듣다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "영리한 선택을 하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "밤에 <b>이상한 소리를 듣다</b>면 <b>영리한 선택을 하다</b>는 것이 필요해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
+    ]
   },
   "grammar_html": {
     "en": "<h3>1. Question words</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>Question words are used to ask for specific information. Common question words: <strong>who, what, where, when, why, which, how, how many, how much</strong>.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• Where</strong> do you live? <em>In London.</em></li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• When</strong> did the first man walk on the moon? <em>1969.</em></li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• How much</strong> does an African elephant weigh? <em>5–7 tonnes.</em></li></ul><h3>2. Adjectives vs Adverbs</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>Adjectives describe <strong>nouns</strong>. Adverbs describe <strong>verbs</strong>. Most adverbs are formed by adding <strong>-ly</strong> to the adjective.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• quick</strong> meal (adjective) → eat <strong style='color:#d35400;'>quickly</strong> (adverb)</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• careful</strong> driver (adjective) → drive <strong style='color:#d35400;'>carefully</strong> (adverb)</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• hard</strong> life (adjective) → work <strong style='color:#d35400;'>hard</strong> (adverb - irregular, same form)</li><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• good</strong> cook (adjective) → cook <strong style='color:#d35400;'>well</strong> (adverb - irregular)</li></ul><h3>3. -ed / -ing adjectives</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>-ed adjectives describe <strong>feelings</strong> (how someone feels). -ing adjectives describe <strong>things or situations</strong> (what causes the feeling).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• The book was interesting.</strong> I was interested.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• The lesson was boring.</strong> The students were bored.</li></ul>",

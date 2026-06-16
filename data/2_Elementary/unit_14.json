@@ -455,300 +455,156 @@
   },
   "speaking_chunks": {
     "en": [
-      {
-        "type": "chunk",
-        "text": "Have you ever been to...?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Yes, I have. / No, I haven't.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Have you ever been to</b> Paris? <b>Yes, I have.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "I've never been to...",
-        "color": "#2ecc71",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "chunk",
-        "text": "She's been to...",
-        "color": "#2ecc71",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>I've never been to</b> Australia. <b>She's been to</b> Berlin.",
-        "color": "#27ae60",
-        "bg": "#e9f7ef"
-      },
-      {
-        "type": "chunk",
-        "text": "Have you... yet?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "I've just...",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Have you done the washing-up yet?</b> <b>Yes, I've just done it.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "When did you go?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "I went there... ago.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>When did you go?</b> <b>I went there two years ago.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      }
+          {
+      "type": "chunk",
+      "text": "have different life experiences",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "travel to new places",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "People <b>have different life experiences</b> when they <b>travel to new places</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "live a long life",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "eat healthy food",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Many people <b>live a long life</b> and <b>eat healthy food</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "ja": [
-      {
-        "type": "chunk",
-        "text": "〜に行ったことがありますか？",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "はい、あります。 / いいえ、ありません。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>パリに行ったことがありますか？</b> <b>はい、あります。</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "〜に行ったことが一度もありません。",
-        "color": "#2ecc71",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "chunk",
-        "text": "彼女は〜に行ったことがあります。",
-        "color": "#2ecc71",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>オーストラリアに行ったことが一度もありません。</b> <b>彼女はベルリンに行ったことがあります。</b>",
-        "color": "#27ae60",
-        "bg": "#e9f7ef"
-      },
-      {
-        "type": "chunk",
-        "text": "もう〜しましたか？",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "ちょうど〜したところです。",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>もう皿洗いをしましたか？</b> <b>はい、ちょうど終わったところです。</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "いつ行きましたか？",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "〜年前に行きました。",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>いつ行きましたか？</b> <b>2年前に行きました。</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      }
+          {
+      "type": "chunk",
+      "text": "さまざまな人生経験を持つ",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "新しい場所へ旅行する",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>さまざまな人生経験を持つ</b> ためには <b>新しい場所へ旅行する</b> ことが大切です。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "長生きする",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "健康的な食べ物を食べる",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "多くの人は <b>長生きする</b> ために <b>健康的な食べ物を食べる</b> ことが大事だと言います。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "fr": [
       {
-        "type": "chunk",
-        "text": "Es-tu déjà allé à... ?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Oui, j'y suis allé. / Non, je n'y suis pas allé.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Es-tu déjà allé à</b> Paris ? <b>Oui, j'y suis allé.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Je ne suis jamais allé à...",
-        "color": "#2ecc71",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "chunk",
-        "text": "Elle est allée à...",
-        "color": "#2ecc71",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Je ne suis jamais allé en</b> Australie. <b>Elle est allée à</b> Berlin.",
-        "color": "#27ae60",
-        "bg": "#e9f7ef"
-      },
-      {
-        "type": "chunk",
-        "text": "As-tu déjà... ?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Je viens de...",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>As-tu déjà fait la vaisselle ?</b> <b>Oui, je viens de la faire.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Quand y es-tu allé ?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "J'y suis allé il y a... ans.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Quand y es-tu allé ?</b> <b>J'y suis allé il y a deux ans.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      }
+      "type": "chunk",
+      "text": "avoir des expériences de vie différentes",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "voyager vers de nouveaux endroits",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Les gens <b>avoir des expériences de vie différentes</b> quand ils <b>voyager vers de nouveaux endroits</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "vivre longtemps",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "manger des aliments sains",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Beaucoup de personnes <b>vivre longtemps</b> et <b>manger des aliments sains</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ],
     "ko": [
       {
-        "type": "chunk",
-        "text": "~에 가본 적 있니?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "응, 있어. / 아니, 없어.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>파리에 가본 적 있니?</b> <b>응, 있어.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "~에 가본 적이 한 번도 없어.",
-        "color": "#2ecc71",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "chunk",
-        "text": "그녀는 ~에 가본 적이 있어.",
-        "color": "#2ecc71",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>호주에 가본 적이 한 번도 없어.</b> <b>그녀는 베를린에 가본 적이 있어.</b>",
-        "color": "#27ae60",
-        "bg": "#e9f7ef"
-      },
-      {
-        "type": "chunk",
-        "text": "아직 ~했니?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "방금 ~했어.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>아직 설거지했니?</b> <b>응, 방금 했어.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "언제 갔니?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "~년 전에 거기에 갔어.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>언제 갔니?</b> <b>2년 전에 거기에 갔어.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      }
+      "type": "chunk",
+      "text": "다양한 인생 경험을 가지다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "새로운 곳으로 여행하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "사람들은 <b>다양한 인생 경험을 가지다</b>는 것을 <b>새로운 곳으로 여행하다</b>는 것을 통해 얻을 수 있어요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "오래 살다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "건강한 음식을 먹다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "많은 사람들이 <b>오래 살다</b>는 것을 위해 <b>건강한 음식을 먹다</b>는 것을 실천해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    }
     ]
   },
   "grammar_html": {
