@@ -5,29 +5,83 @@
     "fr": "Où habitez-vous ?",
     "ko": "어디에 사시나요?"
   },
+
   "topic": {
-    "en": "There is/are, prepositions, some/any, this/that, furniture, directions",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Homes around the world · Countries · Cities · Family · Daily life",
+    "ja": "世界の家々・国・都市・家族・日常生活",
+    "fr": "Maisons du monde · Pays · Villes · Famille · Vie quotidienne",
+    "ko": "세계의 집 · 나라 · 도시 · 가족 · 일상생활"
   },
+
   "core_title": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Homes and Families Around the World",
+    "ja": "世界の家と家族",
+    "fr": "Les maisons et les familles dans le monde",
+    "ko": "세계의 집과 가족"
   },
+
   "core_reading_html": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "<p>People live in different <strong><span class='vocab-link' id='text-home' onclick='speakAndScroll(\"home\", \"vocab-home\")'>homes</span></strong> around the world. Manola lives in a small <strong><span class='vocab-link' id='text-flat' onclick='speakAndScroll(\"flat\", \"vocab-flat\")'>flat</span></strong> near the sea. Ray and Elsie live in a large <strong><span class='vocab-link' id='text-house' onclick='speakAndScroll(\"house\", \"vocab-house\")'>house</span></strong> with a <strong><span class='vocab-link' id='text-garden' onclick='speakAndScroll(\"garden\", \"vocab-garden\")'>garden</span></strong>. Brad lives near the <strong><span class='vocab-link' id='text-beach' onclick='speakAndScroll(\"beach\", \"vocab-beach\")'>beach</span></strong>. Alise lives with her <strong><span class='vocab-link' id='text-family' onclick='speakAndScroll(\"family\", \"vocab-family\")'>family</span></strong> in a traditional home. Some people live in a <strong><span class='vocab-link' id='text-city' onclick='speakAndScroll(\"city\", \"vocab-city\")'>city</span></strong>, and others live in the <strong><span class='vocab-link' id='text-countryside' onclick='speakAndScroll(\"countryside\", \"vocab-countryside\")'>countryside</span></strong>. Every <strong><span class='vocab-link' id='text-room' onclick='speakAndScroll(\"room\", \"vocab-room\")'>room</span></strong> is different, but people want a comfortable <strong><span class='vocab-link' id='text-place' onclick='speakAndScroll(\"place\", \"vocab-place\")'>place</span></strong> to live. Homes can be big or small, but they are special to everyone.</p>",
+
+    "ja": "<p>世界にはさまざまな <strong><span class='vocab-link' id='text-ie' onclick='speakAndScroll(\"ie\", \"vocab-ie\")'>家</span></strong> があります。マノラは海の近くの小さな <strong><span class='vocab-link' id='text-apaato' onclick='speakAndScroll(\"apaato\", \"vocab-apaato\")'>アパート</span></strong> に住んでいます。レイとエルシーは <strong><span class='vocab-link' id='text-ie2' onclick='speakAndScroll(\"ie2\", \"vocab-ie2\")'>家</span></strong> と <strong><span class='vocab-link' id='text-niwa' onclick='speakAndScroll(\"niwa\", \"vocab-niwa\")'>庭</span></strong> のある大きな家に住んでいます。ブラッドは <strong><span class='vocab-link' id='text-hama' onclick='speakAndScroll(\"hama\", \"vocab-hama\")'>浜辺</span></strong> の近くに住んでいます。アリセは <strong><span class='vocab-link' id='text-kazoku' onclick='speakAndScroll(\"kazoku\", \"vocab-kazoku\")'>家族</span></strong> と伝統的な家で暮らしています。<strong><span class='vocab-link' id='text-machi' onclick='speakAndScroll(\"machi\", \"vocab-machi\")'>町</span></strong> に住む人もいれば、<strong><span class='vocab-link' id='text-inaka' onclick='speakAndScroll(\"inaka\", \"vocab-inaka\")'>田舎</span></strong> に住む人もいます。どの <strong><span class='vocab-link' id='text-heya' onclick='speakAndScroll(\"heya\", \"vocab-heya\")'>部屋</span></strong> も違いますが、みんな快適な <strong><span class='vocab-link' id='text-basho' onclick='speakAndScroll(\"basho\", \"vocab-basho\")'>場所</span></strong> を求めています。家は大きくても小さくても特別です。</p>",
+
+    "fr": "<p>Les gens vivent dans différentes <strong><span class='vocab-link' id='text-maison' onclick='speakAndScroll(\"maison\", \"vocab-maison\")'>maisons</span></strong> dans le monde. Manola habite dans un petit <strong><span class='vocab-link' id='text-appartement' onclick='speakAndScroll(\"appartement\", \"vocab-appartement\")'>appartement</span></strong> près de la mer. Ray et Elsie vivent dans une grande <strong><span class='vocab-link' id='text-maison2' onclick='speakAndScroll(\"maison2\", \"vocab-maison2\")'>maison</span></strong> avec un <strong><span class='vocab-link' id='text-jardin' onclick='speakAndScroll(\"jardin\", \"vocab-jardin\")'>jardin</span></strong>. Brad vit près de la <strong><span class='vocab-link' id='text-plage' onclick='speakAndScroll(\"plage\", \"vocab-plage\")'>plage</span></strong>. Alise vit avec sa <strong><span class='vocab-link' id='text-famille' onclick='speakAndScroll(\"famille\", \"vocab-famille\")'>famille</span></strong> dans une maison traditionnelle. Certaines personnes vivent en <strong><span class='vocab-link' id='text-ville' onclick='speakAndScroll(\"ville\", \"vocab-ville\")'>ville</span></strong>, d'autres à la <strong><span class='vocab-link' id='text-campagne' onclick='speakAndScroll(\"campagne\", \"vocab-campagne\")'>campagne</span></strong>. Chaque <strong><span class='vocab-link' id='text-piece' onclick='speakAndScroll(\"piece\", \"vocab-piece\")'>pièce</span></strong> est différente, mais tout le monde veut un bon <strong><span class='vocab-link' id='text-endroit' onclick='speakAndScroll(\"endroit\", \"vocab-endroit\")'>endroit</span></strong> pour vivre. Les maisons peuvent être grandes ou petites, mais elles sont spéciales.</p>",
+
+    "ko": "<p>세계 사람들은 다양한 <strong><span class='vocab-link' id='text-jip' onclick='speakAndScroll(\"jip\", \"vocab-jip\")'>집</span></strong> 에서 살아갑니다. 마놀라는 바다 근처의 작은 <strong><span class='vocab-link' id='text-apateu' onclick='speakAndScroll(\"apateu\", \"vocab-apateu\")'>아파트</span></strong> 에 삽니다. 레이와 엘시는 <strong><span class='vocab-link' id='text-jutaek' onclick='speakAndScroll(\"jutaek\", \"vocab-jutaek\")'>주택</span></strong> 과 <strong><span class='vocab-link' id='text-jeongwon' onclick='speakAndScroll(\"jeongwon\", \"vocab-jeongwon\")'>정원</span></strong> 이 있는 큰 집에 삽니다. 브래드는 <strong><span class='vocab-link' id='text-haebyeon' onclick='speakAndScroll(\"haebyeon\", \"vocab-haebyeon\")'>해변</span></strong> 근처에 삽니다. 알리세는 <strong><span class='vocab-link' id='text-gajok' onclick='speakAndScroll(\"gajok\", \"vocab-gajok\")'>가족</span></strong> 과 전통 가옥에서 삽니다. 어떤 사람들은 <strong><span class='vocab-link' id='text-dosi' onclick='speakAndScroll(\"dosi\", \"vocab-dosi\")'>도시</span></strong> 에 살고, 어떤 사람들은 <strong><span class='vocab-link' id='text-sigol' onclick='speakAndScroll(\"sigol\", \"vocab-sigol\")'>시골</span></strong> 에 삽니다. 모든 <strong><span class='vocab-link' id='text-bang' onclick='speakAndScroll(\"bang\", \"vocab-bang\")'>방</span></strong> 은 다르지만 사람들은 편안한 <strong><span class='vocab-link' id='text-jangso' onclick='speakAndScroll(\"jangso\", \"vocab-jangso\")'>장소</span></strong> 를 원합니다. 집은 크거나 작아도 모두 특별합니다.</p>"
   },
+
   "vocabulary": {
-    "en": [],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "en": [
+      { "id": "home", "word": "home", "definition": "The place where a person lives.", "pronunciation": "home" },
+      { "id": "flat", "word": "flat", "definition": "An apartment.", "pronunciation": "flat" },
+      { "id": "house", "word": "house", "definition": "A building where people live.", "pronunciation": "house" },
+      { "id": "garden", "word": "garden", "definition": "An area where flowers or plants grow.", "pronunciation": "garden" },
+      { "id": "beach", "word": "beach", "definition": "A sandy place by the sea.", "pronunciation": "beach" },
+      { "id": "family", "word": "family", "definition": "Parents, children, and relatives.", "pronunciation": "family" },
+      { "id": "city", "word": "city", "definition": "A large town.", "pronunciation": "city" },
+      { "id": "countryside", "word": "countryside", "definition": "Land outside towns and cities.", "pronunciation": "countryside" },
+      { "id": "room", "word": "room", "definition": "A part of a house.", "pronunciation": "room" },
+      { "id": "place", "word": "place", "definition": "A location or area.", "pronunciation": "place" }
+    ],
+
+    "ja": [
+      { "id": "ie", "word": "家", "definition": "人が住む場所。", "pronunciation": "いえ" },
+      { "id": "apaato", "word": "アパート", "definition": "集合住宅の部屋。", "pronunciation": "あぱあと" },
+      { "id": "ie2", "word": "家", "definition": "人が暮らす建物。", "pronunciation": "いえ" },
+      { "id": "niwa", "word": "庭", "definition": "花や木がある場所。", "pronunciation": "にわ" },
+      { "id": "hama", "word": "浜辺", "definition": "海の近くの砂浜。", "pronunciation": "はまべ" },
+      { "id": "kazoku", "word": "家族", "definition": "親や子どもなどの人たち。", "pronunciation": "かぞく" },
+      { "id": "machi", "word": "町", "definition": "人が多く住む場所。", "pronunciation": "まち" },
+      { "id": "inaka", "word": "田舎", "definition": "自然が多い地域。", "pronunciation": "いなか" },
+      { "id": "heya", "word": "部屋", "definition": "家の中の空間。", "pronunciation": "へや" },
+      { "id": "basho", "word": "場所", "definition": "あるところ。", "pronunciation": "ばしょ" }
+    ],
+
+    "fr": [
+      { "id": "maison", "word": "maison", "definition": "Endroit où l'on habite.", "pronunciation": "maison" },
+      { "id": "appartement", "word": "appartement", "definition": "Logement dans un immeuble.", "pronunciation": "appartement" },
+      { "id": "maison2", "word": "maison", "definition": "Bâtiment pour vivre.", "pronunciation": "maison" },
+      { "id": "jardin", "word": "jardin", "definition": "Lieu où poussent les plantes.", "pronunciation": "jardin" },
+      { "id": "plage", "word": "plage", "definition": "Bord de mer avec du sable.", "pronunciation": "plage" },
+      { "id": "famille", "word": "famille", "definition": "Parents et enfants.", "pronunciation": "famille" },
+      { "id": "ville", "word": "ville", "definition": "Grande zone urbaine.", "pronunciation": "ville" },
+      { "id": "campagne", "word": "campagne", "definition": "Zone rurale.", "pronunciation": "campagne" },
+      { "id": "piece", "word": "pièce", "definition": "Espace dans une maison.", "pronunciation": "pièce" },
+      { "id": "endroit", "word": "endroit", "definition": "Lieu ou place.", "pronunciation": "endroit" }
+    ],
+
+    "ko": [
+      { "id": "jip", "word": "집", "definition": "사람이 사는 곳.", "pronunciation": "집" },
+      { "id": "apateu", "word": "아파트", "definition": "여러 세대가 사는 건물.", "pronunciation": "아파트" },
+      { "id": "jutaek", "word": "주택", "definition": "사람이 거주하는 건물.", "pronunciation": "주택" },
+      { "id": "jeongwon", "word": "정원", "definition": "꽃과 나무를 기르는 곳.", "pronunciation": "정원" },
+      { "id": "haebyeon", "word": "해변", "definition": "바다 옆의 모래사장.", "pronunciation": "해변" },
+      { "id": "gajok", "word": "가족", "definition": "함께 사는 친척들.", "pronunciation": "가족" },
+      { "id": "dosi", "word": "도시", "definition": "사람이 많이 사는 곳.", "pronunciation": "도시" },
+      { "id": "sigol", "word": "시골", "definition": "자연이 많은 지역.", "pronunciation": "시골" },
+      { "id": "bang", "word": "방", "definition": "집 안의 공간.", "pronunciation": "방" },
+      { "id": "jangso", "word": "장소", "definition": "어떤 곳.", "pronunciation": "장소" }
+    ]
   },
   "listening_tracks": {
     "en": [
