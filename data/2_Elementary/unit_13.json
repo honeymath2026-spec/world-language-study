@@ -1,70 +1,80 @@
 {
   "title": {
-    "en": "How terribly clever!",
+    "en": "How Terribly Clever!",
     "ja": "なんて恐ろしく賢いのでしょう！",
     "fr": "Comme c'est terriblement intelligent !",
     "ko": "정말 대단하군요!"
   },
   "topic": {
-    "en": "Question forms, adverbs/adjectives, describing feelings, catching a train",
-    "ja": "疑問詞、副詞・形容詞、感情表現、電車の利用",
-    "fr": "Formes interrogatives, adverbes/adjectifs, décrire des sentiments, prendre le train",
-    "ko": "의문문 형태, 부사/형용사, 감정 표현하기, 기차 이용하기"
+    "en": "Asking questions, travel information, and being clever",
+    "ja": "質問、旅行案内、そして賢く考えること",
+    "fr": "Poser des questions, voyager et être malin",
+    "ko": "질문하기, 여행 정보, 그리고 영리하게 생각하기"
   },
   "core_title": {
-    "en": "Question forms and adverbs",
-    "ja": "疑問詞と副詞",
-    "fr": "Formes interrogatives et adverbes",
-    "ko": "의문문 형태와 부사"
+    "en": "A Clever Trip",
+    "ja": "かしこい旅",
+    "fr": "Un voyage malin",
+    "ko": "영리한 여행"
   },
   "core_reading_html": {
-    "en": "<p style='margin-top:0;'><strong>Part 1: A train journey</strong></p><p>The people on the train were hot and tired. A tall young man sat next to three small children and their aunt. The aunt and the children talked. When the aunt spoke she always began with 'Don't …'. When the children spoke they always began with 'Why …?' The young man said nothing. The small boy whistled loudly. 'Don't do that, Cyril,' said his aunt. Cyril stood up and looked out of the window. 'Why is that man taking those sheep out of that field?' he asked. 'Perhaps he's taking them to another field where there's more grass,' said the aunt. 'But there's lots of grass in that field. Why can't the sheep stay there?'</p><p><strong>Part 2: The story of Bertha</strong></p><p>Once upon a time, there was a little girl called Bertha. She was always well behaved and worked hard. She was never late, never dirty, never rude, and she never told lies. Bertha was so good that she won three gold medals: 'Never late', 'Always polite', and 'Best Child in the World'. One day the king invited her to his palace. She put on her best white dress and pinned her medals to the front. She walked through the woods. But in the woods there lived a big hungry wolf. He saw her white dress and heard the medals clinking. The wolf caught her easily and ate everything except her three medals.</p>",
-    "ja": "<p style='margin-top:0;'><strong>パート1: 列車の旅</strong></p><p>列車の中の人々は暑くて疲れていました。背の高い青年が3人の小さな子供たちとその叔母の隣に座っていました。叔母と子供たちは話していました。叔母が話すときはいつも「〜してはいけません」で始まりました。子供たちが話すときはいつも「なぜ？」で始まりました。青年は何も言いませんでした。小さな男の子が大きな口笛を吹きました。「やめなさい、シリル」と叔母は言いました。シリルは立ち上がって窓の外を見ました。「なぜあの男は羊をあの野原から連れ出しているの？」と尋ねました。「もっと草がある別の野原に連れて行っているのかもしれない」と叔母は言いました。「でもあの野原にはたくさん草があるよ。なぜ羊はそこにいられないの？」</p><p><strong>パート2: バーサの物語</strong></p><p>昔々、バーサという小さな女の子がいました。彼女はいつも行儀がよく、一生懸命働きました。決して遅刻せず、汚くならず、失礼でなく、嘘もつきませんでした。バーサはとても良い子だったので、3つの金メダルを獲得しました。「遅刻しない」「いつも礼儀正しい」「世界で一番良い子」。ある日、王様が彼女を宮殿に招待しました。彼女は最高の白いドレスを着て、メダルを胸に留めました。森を歩いていると、大きな飢えたオオカミが住んでいました。オオカミは白いドレスとメダルの音を聞いて、バーサを簡単に捕まえ、3つのメダル以外はすべて食べてしまいました。</p>",
-    "fr": "<p style='margin-top:0;'><strong>Partie 1: Un voyage en train</strong></p><p>Les gens dans le train avaient chaud et étaient fatigués. Un grand jeune homme était assis à côté de trois petits enfants et de leur tante. La tante et les enfants parlaient. Quand la tante parlait, elle commençait toujours par « Ne … pas ». Quand les enfants parlaient, ils commençaient toujours par « Pourquoi … ? » Le jeune homme ne disait rien. Le petit garçon siffla bruyamment. « Ne fais pas ça, Cyril », dit sa tante. Cyril se leva et regarda par la fenêtre. « Pourquoi cet homme emmène-t-il ces moutons hors de ce champ ? » demanda-t-il. « Peut-être les emmène-t-il dans un autre champ où il y a plus d'herbe », dit la tante. « Mais il y a beaucoup d'herbe dans ce champ. Pourquoi les moutons ne peuvent-ils pas rester là ? »</p><p><strong>Partie 2: L'histoire de Bertha</strong></p><p>Il était une fois une petite fille appelée Bertha. Elle était toujours bien élevée et travaillait dur. Elle n'était jamais en retard, jamais sale, jamais impolie, et elle ne mentait jamais. Bertha était si bonne qu'elle gagna trois médailles d'or : « Jamais en retard », « Toujours polie » et « Meilleure enfant du monde ». Un jour, le roi l'invita à son palais. Elle mit sa plus belle robe blanche et épingla ses médailles sur le devant. Elle traversa les bois. Mais dans les bois vivait un grand loup affamé. Il vit sa robe blanche et entendit les médailles cliqueter. Le loup l'attrapa facilement et mangea tout sauf ses trois médailles.</p>",
-    "ko": "<p style='margin-top:0;'><strong>파트 1: 기차 여행</strong></p><p>기차 안의 사람들은 덥고 피곤했습니다. 키 큰 청년이 세 명의 어린 아이들과 그들의 이모 옆에 앉아 있었습니다. 이모와 아이들은 이야기하고 있었습니다. 이모가 말할 때는 항상 '하지 마세요'로 시작했습니다. 아이들이 말할 때는 항상 '왜요?'로 시작했습니다. 청년은 아무 말도 하지 않았습니다. 작은 소년이 휘파람을 크게 불었습니다. '그렇게 하지 마, Cyril.' 이모가 말했습니다. Cyril은 일어나 창밖을 내다보았습니다. '저 남자는 왜 양들을 들판 밖으로 데리고 나가는 거예요?'라고 물었습니다. '아마 풀이 더 많은 다른 들판으로 데려가는 거란다.' 이모가 말했습니다. '그런데 저 들판에도 풀이 많잖아요. 왜 양들은 거기 있을 수 없나요?'</p><p><strong>파트 2: Bertha 이야기</strong></p><p>옛날 옛적에 Bertha라는 어린 소녀가 살았습니다. 그녀는 항상 착하게 행동하고 열심히 공부했습니다. 지각한 적도, 더럽힌 적도, 무례한 적도, 거짓말을 한 적도 없었습니다. Bertha는 너무 착해서 금메달 세 개를 받았습니다: '지각하지 않음', '항상 예의 바름', '세계 최고의 어린이'. 어느 날 왕이 그녀를 궁전으로 초대했습니다. 그녀는 가장 예쁜 흰 드레스를 입고 메달을 앞쪽에 달았습니다. 그녀는 숲속을 걸어갔습니다. 그런데 그 숲에는 배고픈 큰 늑대가 살고 있었습니다. 늑대는 그녀의 흰 드레스를 보고 메달이 딸랑거리는 소리를 들었습니다. 늑대는 그녀를 쉽게 잡아서 세 개의 메달을 제외한 모든 것을 먹어치웠습니다.</p>"
+    "en": "<p>Tom wanted to visit his family in another city. At the station, he asked for <strong><span class='vocab-link' id='text-ticket' onclick='speakAndScroll(\"ticket\", \"vocab-ticket\")'>a ticket</span></strong> and checked the <strong><span class='vocab-link' id='text-train' onclick='speakAndScroll(\"train\", \"vocab-train\")'>train</span></strong> time. He stood on the correct <strong><span class='vocab-link' id='text-platform' onclick='speakAndScroll(\"platform\", \"vocab-platform\")'>platform</span></strong> and waited. During the trip, he asked many <strong><span class='vocab-link' id='text-question' onclick='speakAndScroll(\"question\", \"vocab-question\")'>questions</span></strong>. He wanted good <strong><span class='vocab-link' id='text-information' onclick='speakAndScroll(\"information\", \"vocab-information\")'>information</span></strong>. Later, he stayed in a small <strong><span class='vocab-link' id='text-hotel' onclick='speakAndScroll(\"hotel\", \"vocab-hotel\")'>hotel</span></strong>. At night, he heard a strange <strong><span class='vocab-link' id='text-noise' onclick='speakAndScroll(\"noise\", \"vocab-noise\")'>noise</span></strong>. He felt <strong><span class='vocab-link' id='text-afraid' onclick='speakAndScroll(\"afraid\", \"vocab-afraid\")'>afraid</span></strong>, but he listened carefully and made a <strong><span class='vocab-link' id='text-clever' onclick='speakAndScroll(\"clever\", \"vocab-clever\")'>clever</span></strong> choice. In the end, there was no danger. The <strong><span class='vocab-link' id='text-police' onclick='speakAndScroll(\"police\", \"vocab-police\")'>police</span></strong> helped him, and everything was fine.</p>",
+
+    "ja": "<p>トムは家族に会うため別の町へ行きました。駅で <strong><span class='vocab-link' id='text-kippu' onclick='speakAndScroll(\"きっぷ\", \"vocab-kippu\")'>きっぷ</span></strong> を買い、<strong><span class='vocab-link' id='text-densha' onclick='speakAndScroll(\"でんしゃ\", \"vocab-densha\")'>でんしゃ</span></strong> の時間を調べました。正しい <strong><span class='vocab-link' id='text-home' onclick='speakAndScroll(\"ホーム\", \"vocab-home\")'>ホーム</span></strong> で待ちながら、たくさんの <strong><span class='vocab-link' id='text-shitsumon' onclick='speakAndScroll(\"しつもん\", \"vocab-shitsumon\")'>しつもん</span></strong> をしました。役立つ <strong><span class='vocab-link' id='text-jouhou' onclick='speakAndScroll(\"じょうほう\", \"vocab-jouhou\")'>じょうほう</span></strong> が欲しかったのです。その後、小さな <strong><span class='vocab-link' id='text-hoteru' onclick='speakAndScroll(\"ホテル\", \"vocab-hoteru\")'>ホテル</span></strong> に泊まりました。夜になると不思議な <strong><span class='vocab-link' id='text-oto' onclick='speakAndScroll(\"おと\", \"vocab-oto\")'>おと</span></strong> が聞こえました。少し <strong><span class='vocab-link' id='text-kowai' onclick='speakAndScroll(\"こわい\", \"vocab-kowai\")'>こわい</span></strong> と感じましたが、よく聞いて <strong><span class='vocab-link' id='text-kashikoi' onclick='speakAndScroll(\"かしこい\", \"vocab-kashikoi\")'>かしこい</span></strong> 判断をしました。最後には危険はなく、<strong><span class='vocab-link' id='text-keisatsu' onclick='speakAndScroll(\"けいさつ\", \"vocab-keisatsu\")'>けいさつ</span></strong> が助けてくれました。</p>",
+
+    "fr": "<p>Tom voulait rendre visite à sa famille dans une autre ville. À la gare, il a acheté un <strong><span class='vocab-link' id='text-billet' onclick='speakAndScroll(\"billet\", \"vocab-billet\")'>billet</span></strong> et vérifié l'heure du <strong><span class='vocab-link' id='text-trainfr' onclick='speakAndScroll(\"train\", \"vocab-trainfr\")'>train</span></strong>. Il a attendu sur le bon <strong><span class='vocab-link' id='text-quai' onclick='speakAndScroll(\"quai\", \"vocab-quai\")'>quai</span></strong>. Pendant le voyage, il a posé beaucoup de <strong><span class='vocab-link' id='text-questionfr' onclick='speakAndScroll(\"question\", \"vocab-questionfr\")'>questions</span></strong>. Il voulait de bonnes <strong><span class='vocab-link' id='text-informationfr' onclick='speakAndScroll(\"information\", \"vocab-informationfr\")'>informations</span></strong>. Plus tard, il est resté dans un petit <strong><span class='vocab-link' id='text-hotelfr' onclick='speakAndScroll(\"hôtel\", \"vocab-hotelfr\")'>hôtel</span></strong>. La nuit, il a entendu un <strong><span class='vocab-link' id='text-bruit' onclick='speakAndScroll(\"bruit\", \"vocab-bruit\")'>bruit</span></strong> étrange. Il avait <strong><span class='vocab-link' id='text-peur' onclick='speakAndScroll(\"peur\", \"vocab-peur\")'>peur</span></strong>, mais il a réfléchi et a fait un choix <strong><span class='vocab-link' id='text-malin' onclick='speakAndScroll(\"malin\", \"vocab-malin\")'>malin</span></strong>. Finalement, il n'y avait aucun danger. La <strong><span class='vocab-link' id='text-policefr' onclick='speakAndScroll(\"police\", \"vocab-policefr\")'>police</span></strong> l'a aidé et tout allait bien.</p>",
+
+    "ko": "<p>톰은 다른 도시에 있는 가족을 만나러 가고 싶었습니다. 역에서 <strong><span class='vocab-link' id='text-ticketko' onclick='speakAndScroll(\"표\", \"vocab-ticketko\")'>표</span></strong> 를 사고 <strong><span class='vocab-link' id='text-trainko' onclick='speakAndScroll(\"기차\", \"vocab-trainko\")'>기차</span></strong> 시간을 확인했습니다. 그는 올바른 <strong><span class='vocab-link' id='text-platformko' onclick='speakAndScroll(\"플랫폼\", \"vocab-platformko\")'>플랫폼</span></strong> 에서 기다렸습니다. 여행 중에 많은 <strong><span class='vocab-link' id='text-questionko' onclick='speakAndScroll(\"질문\", \"vocab-questionko\")'>질문</span></strong> 을 했습니다. 좋은 <strong><span class='vocab-link' id='text-informationko' onclick='speakAndScroll(\"정보\", \"vocab-informationko\")'>정보</span></strong> 를 얻고 싶었기 때문입니다. 나중에 작은 <strong><span class='vocab-link' id='text-hotelko' onclick='speakAndScroll(\"호텔\", \"vocab-hotelko\")'>호텔</span></strong> 에 머물렀습니다. 밤에 이상한 <strong><span class='vocab-link' id='text-noiseko' onclick='speakAndScroll(\"소리\", \"vocab-noiseko\")'>소리</span></strong> 를 들었습니다. 그는 <strong><span class='vocab-link' id='text-afraidko' onclick='speakAndScroll(\"무서운\", \"vocab-afraidko\")'>무서운</span></strong> 기분이 들었지만 차분히 생각하고 <strong><span class='vocab-link' id='text-cleverko' onclick='speakAndScroll(\"영리한\", \"vocab-cleverko\")'>영리한</span></strong> 선택을 했습니다. 결국 위험은 없었고, <strong><span class='vocab-link' id='text-policeko' onclick='speakAndScroll(\"경찰\", \"vocab-policeko\")'>경찰</span></strong> 이 도와주어 모든 일이 잘 해결되었습니다.</p>"
   },
   "vocabulary": {
     "en": [
-      {
-        "id": "bored",
-        "word": "bored",
-        "definition": "Feeling tired and unhappy because something is not interesting.",
-        "pronunciation": "/bɔːrd/"
-      },
-      {
-        "id": "excited",
-        "word": "excited",
-        "definition": "Feeling very happy and enthusiastic about something.",
-        "pronunciation": "/ɪkˈsaɪtɪd/"
-      },
-      {
-        "id": "worried",
-        "word": "worried",
-        "definition": "Feeling anxious or unhappy because you think something bad might happen.",
-        "pronunciation": "/ˈwɜːrid/"
-      },
-      {
-        "id": "tired",
-        "word": "tired",
-        "definition": "Feeling that you need to sleep or rest.",
-        "pronunciation": "/ˈtaɪərd/"
-      },
-      {
-        "id": "annoyed",
-        "word": "annoyed",
-        "definition": "Slightly angry or irritated.",
-        "pronunciation": "/əˈnɔɪd/"
-      },
-      {
-        "id": "interested",
-        "word": "interested",
-        "definition": "Wanting to give your attention to something or learn more.",
-        "pronunciation": "/ˈɪntrəstɪd/"
-      }
+      { "id": "ticket", "word": "ticket", "definition": "A pass used for travel.", "pronunciation": "ticket" },
+      { "id": "train", "word": "train", "definition": "A railway vehicle for passengers.", "pronunciation": "train" },
+      { "id": "platform", "word": "platform", "definition": "The place where people wait for trains.", "pronunciation": "platform" },
+      { "id": "question", "word": "question", "definition": "Something you ask to get information.", "pronunciation": "question" },
+      { "id": "information", "word": "information", "definition": "Facts or details you learn.", "pronunciation": "information" },
+      { "id": "hotel", "word": "hotel", "definition": "A place where travelers stay.", "pronunciation": "hotel" },
+      { "id": "noise", "word": "noise", "definition": "A sound, often unwanted.", "pronunciation": "noise" },
+      { "id": "afraid", "word": "afraid", "definition": "Feeling scared.", "pronunciation": "afraid" },
+      { "id": "clever", "word": "clever", "definition": "Smart and quick-thinking.", "pronunciation": "clever" },
+      { "id": "police", "word": "police", "definition": "People who protect the public.", "pronunciation": "police" }
     ],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "ja": [
+      { "id": "kippu", "word": "きっぷ", "definition": "でんしゃにのるためのけん。", "pronunciation": "きっぷ" },
+      { "id": "densha", "word": "でんしゃ", "definition": "レールのうえをはしるのりもの。", "pronunciation": "でんしゃ" },
+      { "id": "home", "word": "ホーム", "definition": "でんしゃをまつばしょ。", "pronunciation": "ほーむ" },
+      { "id": "shitsumon", "word": "しつもん", "definition": "たずねること。", "pronunciation": "しつもん" },
+      { "id": "jouhou", "word": "じょうほう", "definition": "しるためのないよう。", "pronunciation": "じょうほう" },
+      { "id": "hoteru", "word": "ホテル", "definition": "りょこうでとまるところ。", "pronunciation": "ほてる" },
+      { "id": "oto", "word": "おと", "definition": "きこえるもの。", "pronunciation": "おと" },
+      { "id": "kowai", "word": "こわい", "definition": "おそれるきもち。", "pronunciation": "こわい" },
+      { "id": "kashikoi", "word": "かしこい", "definition": "あたまがよい。", "pronunciation": "かしこい" },
+      { "id": "keisatsu", "word": "けいさつ", "definition": "みんなをまもるひと。", "pronunciation": "けいさつ" }
+    ],
+    "fr": [
+      { "id": "billet", "word": "billet", "definition": "Document pour voyager.", "pronunciation": "billet" },
+      { "id": "trainfr", "word": "train", "definition": "Véhicule sur des rails.", "pronunciation": "train" },
+      { "id": "quai", "word": "quai", "definition": "Endroit où l'on attend le train.", "pronunciation": "quai" },
+      { "id": "questionfr", "word": "question", "definition": "Ce que l'on demande.", "pronunciation": "question" },
+      { "id": "informationfr", "word": "information", "definition": "Faits ou détails utiles.", "pronunciation": "information" },
+      { "id": "hotelfr", "word": "hôtel", "definition": "Lieu où l'on passe la nuit.", "pronunciation": "hôtel" },
+      { "id": "bruit", "word": "bruit", "definition": "Un son entendu.", "pronunciation": "bruit" },
+      { "id": "peur", "word": "peur", "definition": "Sentiment de crainte.", "pronunciation": "peur" },
+      { "id": "malin", "word": "malin", "definition": "Intelligent et astucieux.", "pronunciation": "malin" },
+      { "id": "policefr", "word": "police", "definition": "Service de protection publique.", "pronunciation": "police" }
+    ],
+    "ko": [
+      { "id": "ticketko", "word": "표", "definition": "여행할 때 사용하는 승차권.", "pronunciation": "표" },
+      { "id": "trainko", "word": "기차", "definition": "철로를 달리는 교통수단.", "pronunciation": "기차" },
+      { "id": "platformko", "word": "플랫폼", "definition": "기차를 기다리는 장소.", "pronunciation": "플랫폼" },
+      { "id": "questionko", "word": "질문", "definition": "무엇을 물어보는 말.", "pronunciation": "질문" },
+      { "id": "informationko", "word": "정보", "definition": "알아야 할 내용이나 사실.", "pronunciation": "정보" },
+      { "id": "hotelko", "word": "호텔", "definition": "여행자가 머무는 곳.", "pronunciation": "호텔" },
+      { "id": "noiseko", "word": "소리", "definition": "귀로 들리는 것.", "pronunciation": "소리" },
+      { "id": "afraidko", "word": "무서운", "definition": "두렵거나 겁이 나는 상태.", "pronunciation": "무서운" },
+      { "id": "cleverko", "word": "영리한", "definition": "똑똑하고 판단이 빠른.", "pronunciation": "영리한" },
+      { "id": "policeko", "word": "경찰", "definition": "사람들을 보호하는 기관.", "pronunciation": "경찰" }
+    ]
   },
   "listening_tracks": {
     "en": [
