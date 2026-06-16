@@ -1,90 +1,90 @@
 {
-  "title": {
-    "en": "Bigger and better!",
+ "title": {
+    "en": "Bigger and Better!",
     "ja": "より大きく、より良く！",
     "fr": "Plus grand et meilleur !",
     "ko": "더 크고 더 좋게!"
   },
 
   "topic": {
-    "en": "Comparing Cities · Comparatives and Superlatives · Travel and Places",
-    "ja": "都市の比較・比較級と最上級・旅行と場所",
-    "fr": "Comparer les villes · Comparatifs et superlatifs · Voyages et lieux",
-    "ko": "도시 비교 · 비교급과 최상급 · 여행과 장소"
+    "en": "Comparing places and finding the best city",
+    "ja": "場所を比べて一番良い都市を見つける",
+    "fr": "Comparer des lieux et trouver la meilleure ville",
+    "ko": "장소를 비교하고 가장 좋은 도시 찾기"
   },
 
   "core_title": {
     "en": "Which City Is the Best?",
-    "ja": "どの都市がいちばんいい？",
-    "fr": "Quelle est la meilleure ville ?",
+    "ja": "どの都市が一番いい？",
+    "fr": "Quelle ville est la meilleure ?",
     "ko": "어떤 도시가 가장 좋을까?"
   },
 
   "core_reading_html": {
-    "en": "<p>Many people like to visit a <strong><span class='vocab-link' id='text-city' onclick='speakAndScroll(\"city\", \"vocab-city\")'>city</span></strong>. Vienna is a beautiful <strong><span class='vocab-link' id='text-capital' onclick='speakAndScroll(\"capital\", \"vocab-capital\")'>capital</span></strong> with great <strong><span class='vocab-link' id='text-music' onclick='speakAndScroll(\"music\", \"vocab-music\")'>music</span></strong>. It stands near a <strong><span class='vocab-link' id='text-river' onclick='speakAndScroll(\"river\", \"vocab-river\")'>river</span></strong> and has a famous <strong><span class='vocab-link' id='text-museum' onclick='speakAndScroll(\"museum\", \"vocab-museum\")'>museum</span></strong>. Liverpool is a busy <strong><span class='vocab-link' id='text-port' onclick='speakAndScroll(\"port\", \"vocab-port\")'>port</span></strong> and many people <strong><span class='vocab-link' id='text-travel' onclick='speakAndScroll(\"travel\", \"vocab-travel\")'>travel</span></strong> there. New Orleans is famous for jazz and a fun <strong><span class='vocab-link' id='text-festival' onclick='speakAndScroll(\"festival\", \"vocab-festival\")'>festival</span></strong>. Some cities are <strong><span class='vocab-link' id='text-bigger' onclick='speakAndScroll(\"bigger\", \"vocab-bigger\")'>bigger</span></strong>, but many people think these cities are the <strong><span class='vocab-link' id='text-best' onclick='speakAndScroll(\"best\", \"vocab-best\")'>best</span></strong> places for a <strong><span class='vocab-link' id='text-tourist' onclick='speakAndScroll(\"tourist\", \"vocab-tourist\")'>tourist</span></strong>.</p>",
+    "en": "<p>Emma likes to <strong><span class='vocab-link' id='text-visit' onclick='speakAndScroll(\"visit\", \"vocab-visit\")'>visit</span></strong> different cities. Last year, she went to <strong><span class='vocab-link' id='text-london' onclick='speakAndScroll(\"london\", \"vocab-london\")'>London</span></strong>, <strong><span class='vocab-link' id='text-paris' onclick='speakAndScroll(\"paris\", \"vocab-paris\")'>Paris</span></strong>, and <strong><span class='vocab-link' id='text-vienna' onclick='speakAndScroll(\"vienna\", \"vocab-vienna\")'>Vienna</span></strong>. She thinks Vienna is the <strong><span class='vocab-link' id='text-pretty' onclick='speakAndScroll(\"pretty\", \"vocab-pretty\")'>prettiest</span></strong> city. Paris has many <strong><span class='vocab-link' id='text-museum' onclick='speakAndScroll(\"museum\", \"vocab-museum\")'>museums</span></strong>, but Vienna has better <strong><span class='vocab-link' id='text-music' onclick='speakAndScroll(\"music\", \"vocab-music\")'>music</span></strong>. London is <strong><span class='vocab-link' id='text-big' onclick='speakAndScroll(\"big\", \"vocab-big\")'>bigger</span></strong> than the other cities. Emma also visited <strong><span class='vocab-link' id='text-liverpool' onclick='speakAndScroll(\"liverpool\", \"vocab-liverpool\")'>Liverpool</span></strong> and <strong><span class='vocab-link' id='text-neworleans' onclick='speakAndScroll(\"neworleans\", \"vocab-neworleans\")'>New Orleans</span></strong>. She loves <strong><span class='vocab-link' id='text-jazz' onclick='speakAndScroll(\"jazz\", \"vocab-jazz\")'>jazz</span></strong>, so New Orleans was her favorite place. Every city was different, but each one was interesting and exciting.</p>",
 
-    "ja": "<p>多くの人は<strong><span class='vocab-link' id='text-city-ja' onclick='speakAndScroll(\"city-ja\", \"vocab-city-ja\")'>都市</span></strong>を訪れるのが好きです。ウィーンは美しい<strong><span class='vocab-link' id='text-capital-ja' onclick='speakAndScroll(\"capital-ja\", \"vocab-capital-ja\")'>首都</span></strong>で、すばらしい<strong><span class='vocab-link' id='text-music-ja' onclick='speakAndScroll(\"music-ja\", \"vocab-music-ja\")'>音楽</span></strong>があります。大きな<strong><span class='vocab-link' id='text-river-ja' onclick='speakAndScroll(\"river-ja\", \"vocab-river-ja\")'>川</span></strong>の近くにあり、有名な<strong><span class='vocab-link' id='text-museum-ja' onclick='speakAndScroll(\"museum-ja\", \"vocab-museum-ja\")'>博物館</span></strong>もあります。リヴァプールはにぎやかな<strong><span class='vocab-link' id='text-port-ja' onclick='speakAndScroll(\"port-ja\", \"vocab-port-ja\")'>港</span></strong>で、多くの人がそこへ<strong><span class='vocab-link' id='text-travel-ja' onclick='speakAndScroll(\"travel-ja\", \"vocab-travel-ja\")'>旅行</span></strong>します。ニューオーリンズはジャズと楽しい<strong><span class='vocab-link' id='text-festival-ja' onclick='speakAndScroll(\"festival-ja\", \"vocab-festival-ja\")'>祭り</span></strong>で有名です。もっと<strong><span class='vocab-link' id='text-bigger-ja' onclick='speakAndScroll(\"bigger-ja\", \"vocab-bigger-ja\")'>大きい</span></strong>都市もありますが、多くの人はこれらの都市が<strong><span class='vocab-link' id='text-best-ja' onclick='speakAndScroll(\"best-ja\", \"vocab-best-ja\")'>最高</span></strong>の場所であり、<strong><span class='vocab-link' id='text-tourist-ja' onclick='speakAndScroll(\"tourist-ja\", \"vocab-tourist-ja\")'>観光客</span></strong>に人気だと考えています。</p>",
+    "ja": "<p>エマはいろいろな都市を<strong><span class='vocab-link' id='text-visit' onclick='speakAndScroll(\"visit\", \"vocab-visit\")'>訪れる</span></strong>のが好きです。去年、彼女は<strong><span class='vocab-link' id='text-london' onclick='speakAndScroll(\"london\", \"vocab-london\")'>ロンドン</span></strong>、<strong><span class='vocab-link' id='text-paris' onclick='speakAndScroll(\"paris\", \"vocab-paris\")'>パリ</span></strong>、そして<strong><span class='vocab-link' id='text-vienna' onclick='speakAndScroll(\"vienna\", \"vocab-vienna\")'>ウィーン</span></strong>へ行きました。彼女はウィーンが最も<strong><span class='vocab-link' id='text-pretty' onclick='speakAndScroll(\"pretty\", \"vocab-pretty\")'>美しい</span></strong>都市だと思っています。パリには多くの<strong><span class='vocab-link' id='text-museum' onclick='speakAndScroll(\"museum\", \"vocab-museum\")'>博物館</span></strong>がありますが、ウィーンにはもっと良い<strong><span class='vocab-link' id='text-music' onclick='speakAndScroll(\"music\", \"vocab-music\")'>音楽</span></strong>があります。ロンドンは他の都市より<strong><span class='vocab-link' id='text-big' onclick='speakAndScroll(\"big\", \"vocab-big\")'>大きい</span></strong>です。エマは<strong><span class='vocab-link' id='text-liverpool' onclick='speakAndScroll(\"liverpool\", \"vocab-liverpool\")'>リヴァプール</span></strong>と<strong><span class='vocab-link' id='text-neworleans' onclick='speakAndScroll(\"neworleans\", \"vocab-neworleans\")'>ニューオーリンズ</span></strong>にも行きました。彼女は<strong><span class='vocab-link' id='text-jazz' onclick='speakAndScroll(\"jazz\", \"vocab-jazz\")'>ジャズ</span></strong>が大好きなので、ニューオーリンズが一番好きな場所でした。どの都市も違いましたが、それぞれ魅力的でした。</p>",
 
-    "fr": "<p>Beaucoup de personnes aiment visiter une <strong><span class='vocab-link' id='text-city-fr' onclick='speakAndScroll(\"city-fr\", \"vocab-city-fr\")'>ville</span></strong>. Vienne est une belle <strong><span class='vocab-link' id='text-capital-fr' onclick='speakAndScroll(\"capital-fr\", \"vocab-capital-fr\")'>capitale</span></strong> avec une grande <strong><span class='vocab-link' id='text-music-fr' onclick='speakAndScroll(\"music-fr\", \"vocab-music-fr\")'>musique</span></strong>. Elle est près d'une <strong><span class='vocab-link' id='text-river-fr' onclick='speakAndScroll(\"river-fr\", \"vocab-river-fr\")'>rivière</span></strong> et possède un célèbre <strong><span class='vocab-link' id='text-museum-fr' onclick='speakAndScroll(\"museum-fr\", \"vocab-museum-fr\")'>musée</span></strong>. Liverpool est un grand <strong><span class='vocab-link' id='text-port-fr' onclick='speakAndScroll(\"port-fr\", \"vocab-port-fr\")'>port</span></strong> où beaucoup de gens <strong><span class='vocab-link' id='text-travel-fr' onclick='speakAndScroll(\"travel-fr\", \"vocab-travel-fr\")'>voyagent</span></strong>. La Nouvelle-Orléans est célèbre pour le jazz et un <strong><span class='vocab-link' id='text-festival-fr' onclick='speakAndScroll(\"festival-fr\", \"vocab-festival-fr\")'>festival</span></strong> populaire. Certaines villes sont plus <strong><span class='vocab-link' id='text-bigger-fr' onclick='speakAndScroll(\"bigger-fr\", \"vocab-bigger-fr\")'>grandes</span></strong>, mais beaucoup pensent que ces villes sont les <strong><span class='vocab-link' id='text-best-fr' onclick='speakAndScroll(\"best-fr\", \"vocab-best-fr\")'>meilleures</span></strong> pour un <strong><span class='vocab-link' id='text-tourist-fr' onclick='speakAndScroll(\"tourist-fr\", \"vocab-tourist-fr\")'>touriste</span></strong>.</p>",
+    "fr": "<p>Emma aime <strong><span class='vocab-link' id='text-visit' onclick='speakAndScroll(\"visit\", \"vocab-visit\")'>visiter</span></strong> différentes villes. L'année dernière, elle est allée à <strong><span class='vocab-link' id='text-london' onclick='speakAndScroll(\"london\", \"vocab-london\")'>Londres</span></strong>, <strong><span class='vocab-link' id='text-paris' onclick='speakAndScroll(\"paris\", \"vocab-paris\")'>Paris</span></strong> et <strong><span class='vocab-link' id='text-vienna' onclick='speakAndScroll(\"vienna\", \"vocab-vienna\")'>Vienne</span></strong>. Elle pense que Vienne est la ville la plus <strong><span class='vocab-link' id='text-pretty' onclick='speakAndScroll(\"pretty\", \"vocab-pretty\")'>jolie</span></strong>. Paris possède de nombreux <strong><span class='vocab-link' id='text-museum' onclick='speakAndScroll(\"museum\", \"vocab-museum\")'>musées</span></strong>, mais Vienne a une meilleure <strong><span class='vocab-link' id='text-music' onclick='speakAndScroll(\"music\", \"vocab-music\")'>musique</span></strong>. Londres est plus <strong><span class='vocab-link' id='text-big' onclick='speakAndScroll(\"big\", \"vocab-big\")'>grande</span></strong> que les autres villes. Emma a aussi visité <strong><span class='vocab-link' id='text-liverpool' onclick='speakAndScroll(\"liverpool\", \"vocab-liverpool\")'>Liverpool</span></strong> et <strong><span class='vocab-link' id='text-neworleans' onclick='speakAndScroll(\"neworleans\", \"vocab-neworleans\")'>La Nouvelle-Orléans</span></strong>. Elle adore le <strong><span class='vocab-link' id='text-jazz' onclick='speakAndScroll(\"jazz\", \"vocab-jazz\")'>jazz</span></strong>, alors cette ville est devenue sa préférée. Chaque ville était différente mais très intéressante.</p>",
 
-    "ko": "<p>많은 사람들은 <strong><span class='vocab-link' id='text-city-ko' onclick='speakAndScroll(\"city-ko\", \"vocab-city-ko\")'>도시</span></strong>를 방문하는 것을 좋아합니다. 빈은 아름다운 <strong><span class='vocab-link' id='text-capital-ko' onclick='speakAndScroll(\"capital-ko\", \"vocab-capital-ko\")'>수도</span></strong>이며 훌륭한 <strong><span class='vocab-link' id='text-music-ko' onclick='speakAndScroll(\"music-ko\", \"vocab-music-ko\")'>음악</span></strong>으로 유명합니다. 큰 <strong><span class='vocab-link' id='text-river-ko' onclick='speakAndScroll(\"river-ko\", \"vocab-river-ko\")'>강</span></strong> 근처에 있으며 유명한 <strong><span class='vocab-link' id='text-museum-ko' onclick='speakAndScroll(\"museum-ko\", \"vocab-museum-ko\")'>박물관</span></strong>도 있습니다. 리버풀은 중요한 <strong><span class='vocab-link' id='text-port-ko' onclick='speakAndScroll(\"port-ko\", \"vocab-port-ko\")'>항구</span></strong>이고 많은 사람들이 그곳으로 <strong><span class='vocab-link' id='text-travel-ko' onclick='speakAndScroll(\"travel-ko\", \"vocab-travel-ko\")'>여행</span></strong>합니다. 뉴올리언스는 재즈와 즐거운 <strong><span class='vocab-link' id='text-festival-ko' onclick='speakAndScroll(\"festival-ko\", \"vocab-festival-ko\")'>축제</span></strong>로 유명합니다. 더 <strong><span class='vocab-link' id='text-bigger-ko' onclick='speakAndScroll(\"bigger-ko\", \"vocab-bigger-ko\")'>큰</span></strong> 도시도 있지만 많은 사람들은 이 도시들이 <strong><span class='vocab-link' id='text-best-ko' onclick='speakAndScroll(\"best-ko\", \"vocab-best-ko\")'>최고의</span></strong> 여행지이며 <strong><span class='vocab-link' id='text-tourist-ko' onclick='speakAndScroll(\"tourist-ko\", \"vocab-tourist-ko\")'>관광객</span></strong>에게 인기가 있다고 생각합니다.</p>"
+    "ko": "<p>엠마는 여러 도시를 <strong><span class='vocab-link' id='text-visit' onclick='speakAndScroll(\"visit\", \"vocab-visit\")'>방문하는 것</span></strong>을 좋아합니다. 지난해 그녀는 <strong><span class='vocab-link' id='text-london' onclick='speakAndScroll(\"london\", \"vocab-london\")'>런던</span></strong>, <strong><span class='vocab-link' id='text-paris' onclick='speakAndScroll(\"paris\", \"vocab-paris\")'>파리</span></strong>, 그리고 <strong><span class='vocab-link' id='text-vienna' onclick='speakAndScroll(\"vienna\", \"vocab-vienna\")'>빈</span></strong>을 여행했습니다. 그녀는 빈이 가장 <strong><span class='vocab-link' id='text-pretty' onclick='speakAndScroll(\"pretty\", \"vocab-pretty\")'>아름다운</span></strong> 도시라고 생각합니다. 파리에는 많은 <strong><span class='vocab-link' id='text-museum' onclick='speakAndScroll(\"museum\", \"vocab-museum\")'>박물관</span></strong>이 있지만 빈에는 더 좋은 <strong><span class='vocab-link' id='text-music' onclick='speakAndScroll(\"music\", \"vocab-music\")'>음악</span></strong>이 있습니다. 런던은 다른 도시들보다 더 <strong><span class='vocab-link' id='text-big' onclick='speakAndScroll(\"big\", \"vocab-big\")'>큰</span></strong> 도시입니다. 엠마는 <strong><span class='vocab-link' id='text-liverpool' onclick='speakAndScroll(\"liverpool\", \"vocab-liverpool\")'>리버풀</span></strong>과 <strong><span class='vocab-link' id='text-neworleans' onclick='speakAndScroll(\"neworleans\", \"vocab-neworleans\")'>뉴올리언스</span></strong>도 방문했습니다. 그녀는 <strong><span class='vocab-link' id='text-jazz' onclick='speakAndScroll(\"jazz\", \"vocab-jazz\")'>재즈</span></strong>를 좋아해서 뉴올리언스를 가장 좋아했습니다. 모든 도시는 서로 달랐지만 모두 흥미롭고 신나는 곳이었습니다.</p>"
   },
 
   "vocabulary": {
     "en": [
-      { "id": "city", "word": "city", "definition": "A large town where many people live.", "pronunciation": "city" },
-      { "id": "capital", "word": "capital", "definition": "The main city of a country.", "pronunciation": "capital" },
-      { "id": "music", "word": "music", "definition": "Sounds made by instruments or singing.", "pronunciation": "music" },
-      { "id": "river", "word": "river", "definition": "A large natural stream of water.", "pronunciation": "river" },
-      { "id": "museum", "word": "museum", "definition": "A place where historical objects are shown.", "pronunciation": "museum" },
-      { "id": "port", "word": "port", "definition": "A place where ships arrive and leave.", "pronunciation": "port" },
-      { "id": "travel", "word": "travel", "definition": "To go from one place to another.", "pronunciation": "travel" },
-      { "id": "festival", "word": "festival", "definition": "A special celebration event.", "pronunciation": "festival" },
-      { "id": "bigger", "word": "bigger", "definition": "Larger in size.", "pronunciation": "bigger" },
-      { "id": "best", "word": "best", "definition": "Better than all others.", "pronunciation": "best" },
-      { "id": "tourist", "word": "tourist", "definition": "A person visiting a place for pleasure.", "pronunciation": "tourist" }
+      { "id": "visit", "word": "visit", "definition": "To go to a place and spend time there.", "pronunciation": "visit" },
+      { "id": "london", "word": "London", "definition": "The capital city of the United Kingdom.", "pronunciation": "London" },
+      { "id": "paris", "word": "Paris", "definition": "The capital city of France.", "pronunciation": "Paris" },
+      { "id": "vienna", "word": "Vienna", "definition": "The capital city of Austria.", "pronunciation": "Vienna" },
+      { "id": "pretty", "word": "prettiest", "definition": "The most beautiful.", "pronunciation": "prettiest" },
+      { "id": "museum", "word": "museum", "definition": "A place where historical or cultural objects are shown.", "pronunciation": "museum" },
+      { "id": "music", "word": "music", "definition": "Sounds made by singing or instruments.", "pronunciation": "music" },
+      { "id": "big", "word": "bigger", "definition": "Larger in size.", "pronunciation": "bigger" },
+      { "id": "liverpool", "word": "Liverpool", "definition": "A famous port city in Britain.", "pronunciation": "Liverpool" },
+      { "id": "neworleans", "word": "New Orleans", "definition": "A city famous for jazz music.", "pronunciation": "New Orleans" },
+      { "id": "jazz", "word": "jazz", "definition": "A style of music from America.", "pronunciation": "jazz" }
     ],
 
     "ja": [
-      { "id": "city-ja", "word": "都市", "definition": "人が多く住む大きな町。", "pronunciation": "とし" },
-      { "id": "capital-ja", "word": "首都", "definition": "国の中心となる都市。", "pronunciation": "しゅと" },
-      { "id": "music-ja", "word": "音楽", "definition": "歌や楽器による音。", "pronunciation": "おんがく" },
-      { "id": "river-ja", "word": "川", "definition": "自然に流れる水の流れ。", "pronunciation": "かわ" },
-      { "id": "museum-ja", "word": "博物館", "definition": "歴史や文化を展示する場所。", "pronunciation": "はくぶつかん" },
-      { "id": "port-ja", "word": "港", "definition": "船が出入りする場所。", "pronunciation": "みなと" },
-      { "id": "travel-ja", "word": "旅行", "definition": "他の場所へ行くこと。", "pronunciation": "りょこう" },
-      { "id": "festival-ja", "word": "祭り", "definition": "特別なお祝いの行事。", "pronunciation": "まつり" },
-      { "id": "bigger-ja", "word": "大きい", "definition": "サイズがより大きい。", "pronunciation": "おおきい" },
-      { "id": "best-ja", "word": "最高", "definition": "いちばん良いこと。", "pronunciation": "さいこう" },
-      { "id": "tourist-ja", "word": "観光客", "definition": "旅行で訪れる人。", "pronunciation": "かんこうきゃく" }
+      { "id": "visit", "word": "訪れる", "definition": "ある場所へ行くこと。", "pronunciation": "おとずれる" },
+      { "id": "london", "word": "ロンドン", "definition": "イギリスの首都。", "pronunciation": "ろんどん" },
+      { "id": "paris", "word": "パリ", "definition": "フランスの首都。", "pronunciation": "ぱり" },
+      { "id": "vienna", "word": "ウィーン", "definition": "オーストリアの首都。", "pronunciation": "うぃーん" },
+      { "id": "pretty", "word": "美しい", "definition": "とてもきれいなこと。", "pronunciation": "うつくしい" },
+      { "id": "museum", "word": "博物館", "definition": "歴史や文化を展示する場所。", "pronunciation": "はくぶつかん" },
+      { "id": "music", "word": "音楽", "definition": "歌や楽器の音。", "pronunciation": "おんがく" },
+      { "id": "big", "word": "大きい", "definition": "サイズが大きいこと。", "pronunciation": "おおきい" },
+      { "id": "liverpool", "word": "リヴァプール", "definition": "イギリスの有名な港町。", "pronunciation": "りゔぁぷーる" },
+      { "id": "neworleans", "word": "ニューオーリンズ", "definition": "ジャズで有名な都市。", "pronunciation": "にゅーおーりんず" },
+      { "id": "jazz", "word": "ジャズ", "definition": "アメリカ生まれの音楽。", "pronunciation": "じゃず" }
     ],
 
     "fr": [
-      { "id": "city-fr", "word": "ville", "definition": "Un grand endroit où vivent beaucoup de personnes.", "pronunciation": "ville" },
-      { "id": "capital-fr", "word": "capitale", "definition": "La ville principale d’un pays.", "pronunciation": "capitale" },
-      { "id": "music-fr", "word": "musique", "definition": "Des sons créés par des instruments ou des voix.", "pronunciation": "musique" },
-      { "id": "river-fr", "word": "rivière", "definition": "Un cours d’eau naturel.", "pronunciation": "rivière" },
-      { "id": "museum-fr", "word": "musée", "definition": "Un lieu qui présente des objets historiques.", "pronunciation": "musée" },
-      { "id": "port-fr", "word": "port", "definition": "Un lieu où arrivent les bateaux.", "pronunciation": "port" },
-      { "id": "travel-fr", "word": "voyager", "definition": "Aller d’un endroit à un autre.", "pronunciation": "voyager" },
-      { "id": "festival-fr", "word": "festival", "definition": "Une fête spéciale.", "pronunciation": "festival" },
-      { "id": "bigger-fr", "word": "grandes", "definition": "Plus grandes en taille.", "pronunciation": "grandes" },
-      { "id": "best-fr", "word": "meilleures", "definition": "Les plus bonnes.", "pronunciation": "meilleures" },
-      { "id": "tourist-fr", "word": "touriste", "definition": "Une personne qui voyage pour le plaisir.", "pronunciation": "touriste" }
+      { "id": "visit", "word": "visiter", "definition": "Aller dans un lieu pour le découvrir.", "pronunciation": "visiter" },
+      { "id": "london", "word": "Londres", "definition": "La capitale du Royaume-Uni.", "pronunciation": "Londres" },
+      { "id": "paris", "word": "Paris", "definition": "La capitale de la France.", "pronunciation": "Paris" },
+      { "id": "vienna", "word": "Vienne", "definition": "La capitale de l'Autriche.", "pronunciation": "Vienne" },
+      { "id": "pretty", "word": "jolie", "definition": "Belle et agréable à regarder.", "pronunciation": "jolie" },
+      { "id": "museum", "word": "musée", "definition": "Lieu où l'on montre des objets historiques.", "pronunciation": "musée" },
+      { "id": "music", "word": "musique", "definition": "Art des sons et des chansons.", "pronunciation": "musique" },
+      { "id": "big", "word": "grande", "definition": "De taille importante.", "pronunciation": "grande" },
+      { "id": "liverpool", "word": "Liverpool", "definition": "Ville portuaire célèbre du Royaume-Uni.", "pronunciation": "Liverpool" },
+      { "id": "neworleans", "word": "La Nouvelle-Orléans", "definition": "Ville célèbre pour le jazz.", "pronunciation": "Nouvelle-Orléans" },
+      { "id": "jazz", "word": "jazz", "definition": "Style de musique populaire.", "pronunciation": "jazz" }
     ],
 
     "ko": [
-      { "id": "city-ko", "word": "도시", "definition": "많은 사람들이 사는 큰 마을.", "pronunciation": "도시" },
-      { "id": "capital-ko", "word": "수도", "definition": "한 나라의 중심 도시.", "pronunciation": "수도" },
-      { "id": "music-ko", "word": "음악", "definition": "노래나 악기로 만드는 소리.", "pronunciation": "음악" },
-      { "id": "river-ko", "word": "강", "definition": "자연적으로 흐르는 큰 물길.", "pronunciation": "강" },
-      { "id": "museum-ko", "word": "박물관", "definition": "역사적 물건을 전시하는 곳.", "pronunciation": "박물관" },
-      { "id": "port-ko", "word": "항구", "definition": "배가 드나드는 장소.", "pronunciation": "항구" },
-      { "id": "travel-ko", "word": "여행", "definition": "다른 장소로 가는 것.", "pronunciation": "여행" },
-      { "id": "festival-ko", "word": "축제", "definition": "특별한 기념 행사.", "pronunciation": "축제" },
-      { "id": "bigger-ko", "word": "큰", "definition": "더 큰 크기의.", "pronunciation": "큰" },
-      { "id": "best-ko", "word": "최고의", "definition": "가장 좋은.", "pronunciation": "최고의" },
-      { "id": "tourist-ko", "word": "관광객", "definition": "관광을 위해 방문하는 사람.", "pronunciation": "관광객" }
+      { "id": "visit", "word": "방문하다", "definition": "어떤 장소에 가다.", "pronunciation": "방문하다" },
+      { "id": "london", "word": "런던", "definition": "영국의 수도.", "pronunciation": "런던" },
+      { "id": "paris", "word": "파리", "definition": "프랑스의 수도.", "pronunciation": "파리" },
+      { "id": "vienna", "word": "빈", "definition": "오스트리아의 수도.", "pronunciation": "빈" },
+      { "id": "pretty", "word": "아름다운", "definition": "매우 예쁜.", "pronunciation": "아름다운" },
+      { "id": "museum", "word": "박물관", "definition": "역사나 문화를 전시하는 곳.", "pronunciation": "박물관" },
+      { "id": "music", "word": "음악", "definition": "노래와 악기의 소리.", "pronunciation": "음악" },
+      { "id": "big", "word": "큰", "definition": "크기가 큰.", "pronunciation": "큰" },
+      { "id": "liverpool", "word": "리버풀", "definition": "영국의 유명한 항구 도시.", "pronunciation": "리버풀" },
+      { "id": "neworleans", "word": "뉴올리언스", "definition": "재즈 음악으로 유명한 도시.", "pronunciation": "뉴올리언스" },
+      { "id": "jazz", "word": "재즈", "definition": "미국에서 시작된 음악 장르.", "pronunciation": "재즈" }
     ]
   },
   "listening_tracks": {
