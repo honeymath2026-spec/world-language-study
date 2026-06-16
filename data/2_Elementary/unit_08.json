@@ -6,28 +6,275 @@
     "ko": "얼마나 오래 전?"
   },
   "topic": {
-    "en": "Past Simple negatives, ago, dates, inventions, meeting people",
-    "ja": "過去形の否定文、ago、日付、発明、人との出会い",
-    "fr": "Négation au prétérit, ago, dates, inventions, rencontres",
-    "ko": "과거 단순 부정문, ago, 날짜, 발명품, 만남"
+    "en": "Past simple · Inventions · History · Finding love",
+    "ja": "過去形・発明・歴史・愛の見つけ方",
+    "fr": "Passé simple · Inventions · Histoire · Trouver l'amour",
+    "ko": "과거 시제 · 발명 · 역사 · 사랑 찾기"
   },
   "core_title": {
-    "en": "Famous Inventions and How People Met",
-    "ja": "有名な発明と人々の出会い",
-    "fr": "Inventions célèbres et rencontres",
-    "ko": "유명한 발명품과 사람들이 만난 방법"
+    "en": "Famous Ideas and Special Stories",
+    "ja": "有名な発明と特別な物語",
+    "fr": "Des inventions célèbres et des histoires spéciales",
+    "ko": "유명한 발명과 특별한 이야기"
   },
   "core_reading_html": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "<p>Many years ago, people made new things and shared interesting stories. <strong><span class='vocab-link' id='text-jeans' onclick='speakAndScroll(\"jeans\", \"vocab-jeans\")'>jeans</span></strong> became popular around the world. The first <strong><span class='vocab-link' id='text-television' onclick='speakAndScroll(\"television\", \"vocab-television\")'>television</span></strong> picture was shown in 1925. A young <strong><span class='vocab-link' id='text-chemist' onclick='speakAndScroll(\"chemist\", \"vocab-chemist\")'>chemist</span></strong> made <strong><span class='vocab-link' id='text-aspirin' onclick='speakAndScroll(\"aspirin\", \"vocab-aspirin\")'>aspirin</span></strong> to help people. Later, a shy woman met a new <strong><span class='vocab-link' id='text-friend' onclick='speakAndScroll(\"friend\", \"vocab-friend\")'>friend</span></strong> on the <strong><span class='vocab-link' id='text-internet' onclick='speakAndScroll(\"internet\", \"vocab-internet\")'>Internet</span></strong>. They sent many <strong><span class='vocab-link' id='text-email' onclick='speakAndScroll(\"email\", \"vocab-email\")'>emails</span></strong> and fell in <strong><span class='vocab-link' id='text-love' onclick='speakAndScroll(\"love\", \"vocab-love\")'>love</span></strong>. Another man put a <strong><span class='vocab-link' id='text-letter' onclick='speakAndScroll(\"letter\", \"vocab-letter\")'>letter</span></strong> in a <strong><span class='vocab-link' id='text-bottle' onclick='speakAndScroll(\"bottle\", \"vocab-bottle\")'>bottle</span></strong>. Years later, someone found it on a beach. These stories show how people changed lives in different ways.</p>",
+
+    "ja": "<p>昔、人々は新しい物を作り、特別な物語を残しました。<strong><span class='vocab-link' id='text-jeans' onclick='speakAndScroll(\"jeans\", \"vocab-jeans\")'>ジーンズ</span></strong>は世界中で人気になりました。最初の<strong><span class='vocab-link' id='text-television' onclick='speakAndScroll(\"television\", \"vocab-television\")'>テレビ</span></strong>映像は1925年に送られました。若い<strong><span class='vocab-link' id='text-chemist' onclick='speakAndScroll(\"chemist\", \"vocab-chemist\")'>化学者</span></strong>が<strong><span class='vocab-link' id='text-aspirin' onclick='speakAndScroll(\"aspirin\", \"vocab-aspirin\")'>アスピリン</span></strong>を作りました。その後、内気な女性はインターネットで新しい<strong><span class='vocab-link' id='text-friend' onclick='speakAndScroll(\"friend\", \"vocab-friend\")'>友だち</span></strong>と出会いました。二人はたくさんの<strong><span class='vocab-link' id='text-email' onclick='speakAndScroll(\"email\", \"vocab-email\")'>メール</span></strong>を送り、<strong><span class='vocab-link' id='text-love' onclick='speakAndScroll(\"love\", \"vocab-love\")'>恋</span></strong>に落ちました。別の男性は<strong><span class='vocab-link' id='text-letter' onclick='speakAndScroll(\"letter\", \"vocab-letter\")'>手紙</span></strong>を<strong><span class='vocab-link' id='text-bottle' onclick='speakAndScroll(\"bottle\", \"vocab-bottle\")'>ボトル</span></strong>に入れて海へ流しました。何年も後に誰かが海岸で見つけました。これらの物語は、人々がさまざまな方法で人生を変えたことを示しています。</p>",
+
+    "fr": "<p>Il y a longtemps, des personnes ont créé de nouvelles choses et vécu des histoires spéciales. Les <strong><span class='vocab-link' id='text-jeans' onclick='speakAndScroll(\"jeans\", \"vocab-jeans\")'>jeans</span></strong> sont devenus populaires dans le monde. La première image de <strong><span class='vocab-link' id='text-television' onclick='speakAndScroll(\"television\", \"vocab-television\")'>télévision</span></strong> a été diffusée en 1925. Un jeune <strong><span class='vocab-link' id='text-chemist' onclick='speakAndScroll(\"chemist\", \"vocab-chemist\")'>chimiste</span></strong> a créé de l'<strong><span class='vocab-link' id='text-aspirin' onclick='speakAndScroll(\"aspirin\", \"vocab-aspirin\")'>aspirine</span></strong> pour aider les gens. Plus tard, une femme timide a rencontré un nouveau <strong><span class='vocab-link' id='text-friend' onclick='speakAndScroll(\"friend\", \"vocab-friend\")'>ami</span></strong> sur <strong><span class='vocab-link' id='text-internet' onclick='speakAndScroll(\"internet\", \"vocab-internet\")'>Internet</span></strong>. Ils ont échangé beaucoup d'<strong><span class='vocab-link' id='text-email' onclick='speakAndScroll(\"email\", \"vocab-email\")'>e-mails</span></strong> et sont tombés amoureux. Un autre homme a mis une <strong><span class='vocab-link' id='text-letter' onclick='speakAndScroll(\"letter\", \"vocab-letter\")'>lettre</span></strong> dans une <strong><span class='vocab-link' id='text-bottle' onclick='speakAndScroll(\"bottle\", \"vocab-bottle\")'>bouteille</span></strong>. Des années plus tard, quelqu'un l'a trouvée sur une plage. Ces histoires montrent comment les gens ont changé des vies.</p>",
+
+    "ko": "<p>오래전 사람들은 새로운 것을 만들고 특별한 이야기를 남겼습니다. <strong><span class='vocab-link' id='text-jeans' onclick='speakAndScroll(\"jeans\", \"vocab-jeans\")'>청바지</span></strong>는 전 세계에서 인기를 얻었습니다. 최초의 <strong><span class='vocab-link' id='text-television' onclick='speakAndScroll(\"television\", \"vocab-television\")'>텔레비전</span></strong> 화면은 1925년에 전송되었습니다. 젊은 <strong><span class='vocab-link' id='text-chemist' onclick='speakAndScroll(\"chemist\", \"vocab-chemist\")'>화학자</span></strong>는 <strong><span class='vocab-link' id='text-aspirin' onclick='speakAndScroll(\"aspirin\", \"vocab-aspirin\")'>아스피린</span></strong>을 만들어 사람들을 도왔습니다. 이후 수줍음 많은 여성은 인터넷에서 새로운 <strong><span class='vocab-link' id='text-friend' onclick='speakAndScroll(\"friend\", \"vocab-friend\")'>친구</span></strong>를 만났습니다. 그들은 많은 <strong><span class='vocab-link' id='text-email' onclick='speakAndScroll(\"email\", \"vocab-email\")'>이메일</span></strong>을 주고받으며 <strong><span class='vocab-link' id='text-love' onclick='speakAndScroll(\"love\", \"vocab-love\")'>사랑</span></strong>에 빠졌습니다. 또 다른 남성은 <strong><span class='vocab-link' id='text-letter' onclick='speakAndScroll(\"letter\", \"vocab-letter\")'>편지</span></strong>를 <strong><span class='vocab-link' id='text-bottle' onclick='speakAndScroll(\"bottle\", \"vocab-bottle\")'>병</span></strong>에 넣어 바다에 띄웠습니다. 몇 년 뒤 누군가가 해변에서 그것을 발견했습니다. 이 이야기들은 사람들이 다양한 방법으로 삶을 바꾸었다는 것을 보여줍니다.</p>"
   },
   "vocabulary": {
-    "en": [],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "en": [
+      {
+        "id": "jeans",
+        "word": "jeans",
+        "definition": "Strong trousers made from denim.",
+        "pronunciation": "jeans"
+      },
+      {
+        "id": "television",
+        "word": "television",
+        "definition": "A machine used to watch programs and videos.",
+        "pronunciation": "television"
+      },
+      {
+        "id": "chemist",
+        "word": "chemist",
+        "definition": "A scientist who studies chemicals.",
+        "pronunciation": "chemist"
+      },
+      {
+        "id": "aspirin",
+        "word": "aspirin",
+        "definition": "A medicine used to reduce pain.",
+        "pronunciation": "aspirin"
+      },
+      {
+        "id": "friend",
+        "word": "friend",
+        "definition": "A person you like and know well.",
+        "pronunciation": "friend"
+      },
+      {
+        "id": "internet",
+        "word": "Internet",
+        "definition": "A worldwide computer network.",
+        "pronunciation": "internet"
+      },
+      {
+        "id": "email",
+        "word": "email",
+        "definition": "A message sent electronically.",
+        "pronunciation": "email"
+      },
+      {
+        "id": "love",
+        "word": "love",
+        "definition": "A strong feeling of affection.",
+        "pronunciation": "love"
+      },
+      {
+        "id": "letter",
+        "word": "letter",
+        "definition": "A written message sent to someone.",
+        "pronunciation": "letter"
+      },
+      {
+        "id": "bottle",
+        "word": "bottle",
+        "definition": "A container used to hold liquids.",
+        "pronunciation": "bottle"
+      }
+    ],
+    "ja": [
+      {
+        "id": "jeans",
+        "word": "ジーンズ",
+        "definition": "デニムで作られた丈夫なズボン。",
+        "pronunciation": "じーんず"
+      },
+      {
+        "id": "television",
+        "word": "テレビ",
+        "definition": "映像番組を見るための機械。",
+        "pronunciation": "てれび"
+      },
+      {
+        "id": "chemist",
+        "word": "化学者",
+        "definition": "化学を研究する科学者。",
+        "pronunciation": "かがくしゃ"
+      },
+      {
+        "id": "aspirin",
+        "word": "アスピリン",
+        "definition": "痛みをやわらげる薬。",
+        "pronunciation": "あすぴりん"
+      },
+      {
+        "id": "friend",
+        "word": "友だち",
+        "definition": "仲の良い人。",
+        "pronunciation": "ともだち"
+      },
+      {
+        "id": "internet",
+        "word": "インターネット",
+        "definition": "世界中のコンピューターをつなぐネットワーク。",
+        "pronunciation": "いんたーねっと"
+      },
+      {
+        "id": "email",
+        "word": "メール",
+        "definition": "電子的に送るメッセージ。",
+        "pronunciation": "めーる"
+      },
+      {
+        "id": "love",
+        "word": "恋",
+        "definition": "人を好きになる気持ち。",
+        "pronunciation": "こい"
+      },
+      {
+        "id": "letter",
+        "word": "手紙",
+        "definition": "人に送る文章。",
+        "pronunciation": "てがみ"
+      },
+      {
+        "id": "bottle",
+        "word": "ボトル",
+        "definition": "液体を入れる容器。",
+        "pronunciation": "ぼとる"
+      }
+    ],
+    "fr": [
+      {
+        "id": "jeans",
+        "word": "jeans",
+        "definition": "Pantalon solide en denim.",
+        "pronunciation": "jeans"
+      },
+      {
+        "id": "television",
+        "word": "télévision",
+        "definition": "Appareil pour regarder des programmes.",
+        "pronunciation": "télévision"
+      },
+      {
+        "id": "chemist",
+        "word": "chimiste",
+        "definition": "Scientifique qui étudie la chimie.",
+        "pronunciation": "chimiste"
+      },
+      {
+        "id": "aspirin",
+        "word": "aspirine",
+        "definition": "Médicament contre la douleur.",
+        "pronunciation": "aspirine"
+      },
+      {
+        "id": "friend",
+        "word": "ami",
+        "definition": "Personne que l'on apprécie.",
+        "pronunciation": "ami"
+      },
+      {
+        "id": "internet",
+        "word": "Internet",
+        "definition": "Réseau mondial d'ordinateurs.",
+        "pronunciation": "internet"
+      },
+      {
+        "id": "email",
+        "word": "e-mail",
+        "definition": "Message envoyé par voie électronique.",
+        "pronunciation": "e-mail"
+      },
+      {
+        "id": "love",
+        "word": "amour",
+        "definition": "Sentiment profond d'affection.",
+        "pronunciation": "amour"
+      },
+      {
+        "id": "letter",
+        "word": "lettre",
+        "definition": "Message écrit envoyé à quelqu'un.",
+        "pronunciation": "lettre"
+      },
+      {
+        "id": "bottle",
+        "word": "bouteille",
+        "definition": "Récipient pour contenir un liquide.",
+        "pronunciation": "bouteille"
+      }
+    ],
+    "ko": [
+      {
+        "id": "jeans",
+        "word": "청바지",
+        "definition": "데님 천으로 만든 바지.",
+        "pronunciation": "청바지"
+      },
+      {
+        "id": "television",
+        "word": "텔레비전",
+        "definition": "영상 프로그램을 보는 기계.",
+        "pronunciation": "텔레비전"
+      },
+      {
+        "id": "chemist",
+        "word": "화학자",
+        "definition": "화학을 연구하는 과학자.",
+        "pronunciation": "화학자"
+      },
+      {
+        "id": "aspirin",
+        "word": "아스피린",
+        "definition": "통증을 줄여 주는 약.",
+        "pronunciation": "아스피린"
+      },
+      {
+        "id": "friend",
+        "word": "친구",
+        "definition": "가깝게 지내는 사람.",
+        "pronunciation": "친구"
+      },
+      {
+        "id": "internet",
+        "word": "인터넷",
+        "definition": "전 세계를 연결하는 컴퓨터 네트워크.",
+        "pronunciation": "인터넷"
+      },
+      {
+        "id": "email",
+        "word": "이메일",
+        "definition": "전자적으로 보내는 메시지.",
+        "pronunciation": "이메일"
+      },
+      {
+        "id": "love",
+        "word": "사랑",
+        "definition": "깊은 애정의 감정.",
+        "pronunciation": "사랑"
+      },
+      {
+        "id": "letter",
+        "word": "편지",
+        "definition": "글로 쓴 메시지.",
+        "pronunciation": "편지"
+      },
+      {
+        "id": "bottle",
+        "word": "병",
+        "definition": "액체를 담는 용기.",
+        "pronunciation": "병"
+      }
+    ]
   },
   "listening_tracks": {
     "en": [
