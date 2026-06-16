@@ -148,7 +148,7 @@ json 형식으로 보여줘.
 
 
 -------------------------------------
-"core_reading_html"	"vocabulary"	"speaking_chunks"	"vocabulary_check"
+"core_reading_html"	"vocabulary"	
 -------------------------------------
 
 
@@ -209,8 +209,74 @@ elementary 수준의 단어 10개 내외가 되는 core reading 총 단어수는
 위에 나열된 조건들을 모두 만족할때 까지 처음부터 다시 수정하고 모든 조건이 만족했을 때  코드 전체를 작성해서 보여줘.
 
 
+-------------------------------------
+"speaking_chunks"	
+-------------------------------------
 
-  
+
+1. 위 내용을 각 나라 언어로 종합해서 정리한다.
+2. 각 나라 언어로 정리된 1번 내용중 핵심이 되는 chunk를 4개 찾는다.
+3. 2에서 만든 4개의 chunk를 2개씩 2묶음으로 만든다.
+4. 3에서 2묶음으로 만든 chunk를 이용하여 2개의 문장으로 만든다.
+5. 4에서 만든 2개의 문장은 맥락이 있어야한다.
+6. 5에서 만든 문장이 맥락이 없을 경우 2번부터 다시 조건에 맞을 때 까지 반복한다.
+7. 조건에 맞는 {2개의 chunk와 1개의 문장} *2 => 1paragraph 으로 만든다.
+8. 예시 틀은 다음과 같다.
+{
+        "type": "chunk",
+        "text": "communicate with other people",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "in many different ways",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "We can <b>communicate with other people</b> <b>in many different ways</b>, such as talking, writing, and e-mail.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "chunk",
+        "text": "exchanging information",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "chunk",
+        "text": "nothing compared to",
+        "color": "#3498db",
+        "bg": "#ebf5fb"
+      },
+      {
+        "type": "sentence",
+        "text": "Animals have ways of <b>exchanging information</b>, but this is <b>nothing compared to</b> what people can do.",
+        "color": "#2980b9",
+        "bg": "#e1f5fe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Humans <b>communicate with other people</b> <b>in many different ways</b>, including using language and technology. While animals are <b>exchanging information</b> through dance or song, it is <b>nothing compared to</b> human abilities like telling jokes or making promises.",
+        "color": "#2c3e50",
+        "bg": "#f0f7ff"
+      },
+      
+9. chunk, sentence, paragraph를 각 나라의 특성에 맞게 영어/일본어/프랑스어/한국어 언어로 확대해서 작성한다.
+10. 작성 후 조건 2부터 9까지 수정해야할 내용이 있으면 다시 수정한다.
+11. 수정이 완성된 후 작성된 내용을 보여준다.
+
+
+
+
+-------------------------------------
+"vocabulary_check"
+-------------------------------------
+
+
 -------------------------------------
 "grammar_html"
 -------------------------------------
