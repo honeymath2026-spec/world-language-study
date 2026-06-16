@@ -1,33 +1,76 @@
 {
   "title": {
     "en": "Food you like!",
-    "ja": "あなたの好きな食べ物！",
+    "ja": "好きな食べ物！",
     "fr": "La nourriture que vous aimez !",
     "ko": "좋아하는 음식!"
   },
   "topic": {
-    "en": "Count and uncount nouns, I like/I'd like, much/many, food, polite requests",
-    "ja": "可算名詞と不可算名詞、I like/I'd like、much/many、食べ物、丁寧なリクエスト",
-    "fr": "Noms dénombrables et indénombrables, I like/I'd like, much/many, nourriture, demandes polies",
-    "ko": "가산명사와 불가산명사, I like/I'd like, much/many, 음식, 정중한 요청"
+    "en": "Food preferences · Likes and dislikes · World food · Healthy eating",
+    "ja": "食べ物の好み・好き嫌い・世界の料理・健康的な食事",
+    "fr": "Préférences alimentaires · Goûts et dégoûts · Cuisine du monde · Alimentation saine",
+    "ko": "음식 취향 · 좋아하는 것과 싫어하는 것 · 세계 음식 · 건강한 식생활"
   },
   "core_title": {
-    "en": "Food and Drink, Count and Uncount Nouns, Offers and Requests",
-    "ja": "食べ物と飲み物、可算名詞と不可算名詞、申し出とリクエスト",
-    "fr": "Nourriture et boissons, noms dénombrables et indénombrables, offres et demandes",
-    "ko": "음식과 음료, 가산명사와 불가산명사, 제안과 요청"
+    "en": "Food Around the World",
+    "ja": "世界の食べ物",
+    "fr": "La nourriture autour du monde",
+    "ko": "세계의 음식"
   },
   "core_reading_html": {
-    "en": "<p>We use <strong>count nouns</strong> for things we can count (apples, biscuits). We use <strong>uncount nouns</strong> for things we cannot count (chocolate, apple juice).</p><p>We use '<strong>I like</strong>' to talk about things we enjoy in general. We use '<strong>I'd like</strong>' (I would like) to ask for something or say what we want now.</p><p>We use '<strong>some</strong>' in offers and requests (Would you like some tea? Can I have some biscuits?). We use '<strong>any</strong>' in questions and negatives (Are there any chips? There isn't any tea).</p><p>We use '<strong>many</strong>' with count nouns in questions and negatives (How many eggs? There aren't many eggs). We use '<strong>much</strong>' with uncount nouns (How much coffee? There isn't much coffee).</p>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "<p>People like different food. Some people love <strong><span class='vocab-link' id='text-fruit' onclick='speakAndScroll(\"fruit\", \"vocab-fruit\")'>fruit</span></strong>, but others like <strong><span class='vocab-link' id='text-vegetables' onclick='speakAndScroll(\"vegetables\", \"vocab-vegetables\")'>vegetables</span></strong>. Tom likes <strong><span class='vocab-link' id='text-beer' onclick='speakAndScroll(\"beer\", \"vocab-beer\")'>beer</span></strong>, but Daisy likes <strong><span class='vocab-link' id='text-juice' onclick='speakAndScroll(\"juice\", \"vocab-juice\")'>juice</span></strong>. Many people enjoy <strong><span class='vocab-link' id='text-pizza' onclick='speakAndScroll(\"pizza\", \"vocab-pizza\")'>pizza</span></strong> and <strong><span class='vocab-link' id='text-pasta' onclick='speakAndScroll(\"pasta\", \"vocab-pasta\")'>pasta</span></strong>. Around the world, people eat different food. In China, many people eat <strong><span class='vocab-link' id='text-noodles' onclick='speakAndScroll(\"noodles\", \"vocab-noodles\")'>noodles</span></strong>. In India, people enjoy <strong><span class='vocab-link' id='text-rice' onclick='speakAndScroll(\"rice\", \"vocab-rice\")'>rice</span></strong> dishes. Some people love <strong><span class='vocab-link' id='text-chocolate' onclick='speakAndScroll(\"chocolate\", \"vocab-chocolate\")'>chocolate</span></strong>. Others eat healthy food every day. Good food brings people together and helps us learn about different cultures.</p>",
+
+    "ja": "<p>人によって好きな食べ物は違います。<strong><span class='vocab-link' id='text-kudamono' onclick='speakAndScroll(\"kudamono\", \"vocab-kudamono\")'>果物</span></strong>が好きな人もいれば、<strong><span class='vocab-link' id='text-yasai' onclick='speakAndScroll(\"yasai\", \"vocab-yasai\")'>野菜</span></strong>が好きな人もいます。トムは<strong><span class='vocab-link' id='text-beer-ja' onclick='speakAndScroll(\"beer-ja\", \"vocab-beer-ja\")'>ビール</span></strong>が好きですが、デイジーは<strong><span class='vocab-link' id='text-juice-ja' onclick='speakAndScroll(\"juice-ja\", \"vocab-juice-ja\")'>ジュース</span></strong>が好きです。多くの人は<strong><span class='vocab-link' id='text-pizza-ja' onclick='speakAndScroll(\"pizza-ja\", \"vocab-pizza-ja\")'>ピザ</span></strong>や<strong><span class='vocab-link' id='text-pasta-ja' onclick='speakAndScroll(\"pasta-ja\", \"vocab-pasta-ja\")'>パスタ</span></strong>を楽しみます。世界ではさまざまな食べ物が食べられています。中国では<strong><span class='vocab-link' id='text-men' onclick='speakAndScroll(\"men\", \"vocab-men\")'>麺</span></strong>が人気です。インドでは<strong><span class='vocab-link' id='text-kome' onclick='speakAndScroll(\"kome\", \"vocab-kome\")'>米</span></strong>料理がよく食べられます。<strong><span class='vocab-link' id='text-chocolate-ja' onclick='speakAndScroll(\"chocolate-ja\", \"vocab-chocolate-ja\")'>チョコレート</span></strong>が大好きな人もいます。食べ物は人々を結びつけ、文化を学ぶ助けになります。</p>",
+
+    "fr": "<p>Les gens aiment des aliments différents. Certaines personnes adorent les <strong><span class='vocab-link' id='text-fruits-fr' onclick='speakAndScroll(\"fruits-fr\", \"vocab-fruits-fr\")'>fruits</span></strong>, tandis que d'autres préfèrent les <strong><span class='vocab-link' id='text-legumes-fr' onclick='speakAndScroll(\"legumes-fr\", \"vocab-legumes-fr\")'>légumes</span></strong>. Tom aime la <strong><span class='vocab-link' id='text-biere-fr' onclick='speakAndScroll(\"biere-fr\", \"vocab-biere-fr\")'>bière</span></strong>, mais Daisy préfère le <strong><span class='vocab-link' id='text-jus-fr' onclick='speakAndScroll(\"jus-fr\", \"vocab-jus-fr\")'>jus</span></strong>. Beaucoup de personnes aiment la <strong><span class='vocab-link' id='text-pizza-fr' onclick='speakAndScroll(\"pizza-fr\", \"vocab-pizza-fr\")'>pizza</span></strong> et les <strong><span class='vocab-link' id='text-pates-fr' onclick='speakAndScroll(\"pates-fr\", \"vocab-pates-fr\")'>pâtes</span></strong>. Dans le monde, les habitudes alimentaires sont différentes. En Chine, beaucoup de gens mangent des <strong><span class='vocab-link' id='text-nouilles-fr' onclick='speakAndScroll(\"nouilles-fr\", \"vocab-nouilles-fr\")'>nouilles</span></strong>. En Inde, on mange souvent du <strong><span class='vocab-link' id='text-riz-fr' onclick='speakAndScroll(\"riz-fr\", \"vocab-riz-fr\")'>riz</span></strong>. Certaines personnes adorent le <strong><span class='vocab-link' id='text-chocolat-fr' onclick='speakAndScroll(\"chocolat-fr\", \"vocab-chocolat-fr\")'>chocolat</span></strong>. La nourriture rapproche les gens et nous aide à découvrir différentes cultures.</p>",
+
+    "ko": "<p>사람들은 서로 다른 음식을 좋아합니다. 어떤 사람들은 <strong><span class='vocab-link' id='text-fruit-ko' onclick='speakAndScroll(\"fruit-ko\", \"vocab-fruit-ko\")'>과일</span></strong>을 좋아하고, 다른 사람들은 <strong><span class='vocab-link' id='text-vegetable-ko' onclick='speakAndScroll(\"vegetable-ko\", \"vocab-vegetable-ko\")'>채소</span></strong>를 좋아합니다. 톰은 <strong><span class='vocab-link' id='text-beer-ko' onclick='speakAndScroll(\"beer-ko\", \"vocab-beer-ko\")'>맥주</span></strong>를 좋아하지만 데이지는 <strong><span class='vocab-link' id='text-juice-ko' onclick='speakAndScroll(\"juice-ko\", \"vocab-juice-ko\")'>주스</span></strong>를 좋아합니다. 많은 사람들은 <strong><span class='vocab-link' id='text-pizza-ko' onclick='speakAndScroll(\"pizza-ko\", \"vocab-pizza-ko\")'>피자</span></strong>와 <strong><span class='vocab-link' id='text-pasta-ko' onclick='speakAndScroll(\"pasta-ko\", \"vocab-pasta-ko\")'>파스타</span></strong>를 즐깁니다. 세계 곳곳에서는 다양한 음식을 먹습니다. 중국에서는 <strong><span class='vocab-link' id='text-noodle-ko' onclick='speakAndScroll(\"noodle-ko\", \"vocab-noodle-ko\")'>면</span></strong>을 많이 먹고, 인도에서는 <strong><span class='vocab-link' id='text-rice-ko' onclick='speakAndScroll(\"rice-ko\", \"vocab-rice-ko\")'>쌀</span></strong> 요리를 즐깁니다. 어떤 사람들은 <strong><span class='vocab-link' id='text-chocolate-ko' onclick='speakAndScroll(\"chocolate-ko\", \"vocab-chocolate-ko\")'>초콜릿</span></strong>을 매우 좋아합니다. 음식은 사람들을 하나로 모으고 다른 문화를 배우게 해 줍니다.</p>"
   },
   "vocabulary": {
-    "en": [],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "en": [
+      { "id": "fruit", "word": "fruit", "definition": "Sweet food that grows on trees or plants.", "pronunciation": "fruit" },
+      { "id": "vegetables", "word": "vegetables", "definition": "Plants that people eat as food.", "pronunciation": "vegetables" },
+      { "id": "beer", "word": "beer", "definition": "A popular drink made from grains.", "pronunciation": "beer" },
+      { "id": "juice", "word": "juice", "definition": "A drink made from fruit.", "pronunciation": "juice" },
+      { "id": "pizza", "word": "pizza", "definition": "A baked dish with toppings.", "pronunciation": "pizza" },
+      { "id": "pasta", "word": "pasta", "definition": "Food made from dough, such as spaghetti.", "pronunciation": "pasta" },
+      { "id": "noodles", "word": "noodles", "definition": "Long thin strips of cooked dough.", "pronunciation": "noodles" },
+      { "id": "rice", "word": "rice", "definition": "Small grains eaten as food.", "pronunciation": "rice" },
+      { "id": "chocolate", "word": "chocolate", "definition": "A sweet food made from cocoa.", "pronunciation": "chocolate" }
+    ],
+    "ja": [
+      { "id": "kudamono", "word": "果物", "definition": "木や植物になる甘い食べ物。", "pronunciation": "くだもの" },
+      { "id": "yasai", "word": "野菜", "definition": "食べるために育てられる植物。", "pronunciation": "やさい" },
+      { "id": "beer-ja", "word": "ビール", "definition": "麦から作られる飲み物。", "pronunciation": "びーる" },
+      { "id": "juice-ja", "word": "ジュース", "definition": "果物から作られる飲み物。", "pronunciation": "じゅーす" },
+      { "id": "pizza-ja", "word": "ピザ", "definition": "具をのせて焼いた料理。", "pronunciation": "ぴざ" },
+      { "id": "pasta-ja", "word": "パスタ", "definition": "スパゲッティなどの麺料理。", "pronunciation": "ぱすた" },
+      { "id": "men", "word": "麺", "definition": "細長い食べ物。", "pronunciation": "めん" },
+      { "id": "kome", "word": "米", "definition": "主食として食べられる穀物。", "pronunciation": "こめ" },
+      { "id": "chocolate-ja", "word": "チョコレート", "definition": "カカオから作られる甘い食べ物。", "pronunciation": "ちょこれーと" }
+    ],
+    "fr": [
+      { "id": "fruits-fr", "word": "fruits", "definition": "Aliments sucrés qui poussent sur les plantes.", "pronunciation": "fruits" },
+      { "id": "legumes-fr", "word": "légumes", "definition": "Plantes cultivées pour être mangées.", "pronunciation": "légumes" },
+      { "id": "biere-fr", "word": "bière", "definition": "Boisson populaire faite à partir de céréales.", "pronunciation": "bière" },
+      { "id": "jus-fr", "word": "jus", "definition": "Boisson faite à partir de fruits.", "pronunciation": "jus" },
+      { "id": "pizza-fr", "word": "pizza", "definition": "Plat cuit avec différentes garnitures.", "pronunciation": "pizza" },
+      { "id": "pates-fr", "word": "pâtes", "definition": "Aliment comme les spaghettis.", "pronunciation": "pâtes" },
+      { "id": "nouilles-fr", "word": "nouilles", "definition": "Bandes longues et fines de pâte.", "pronunciation": "nouilles" },
+      { "id": "riz-fr", "word": "riz", "definition": "Petits grains consommés comme aliment.", "pronunciation": "riz" },
+      { "id": "chocolat-fr", "word": "chocolat", "definition": "Confiserie faite à partir du cacao.", "pronunciation": "chocolat" }
+    ],
+    "ko": [
+      { "id": "fruit-ko", "word": "과일", "definition": "나무나 식물에서 자라는 달콤한 먹거리.", "pronunciation": "과일" },
+      { "id": "vegetable-ko", "word": "채소", "definition": "먹기 위해 재배하는 식물.", "pronunciation": "채소" },
+      { "id": "beer-ko", "word": "맥주", "definition": "곡물로 만드는 음료.", "pronunciation": "맥주" },
+      { "id": "juice-ko", "word": "주스", "definition": "과일로 만든 음료.", "pronunciation": "주스" },
+      { "id": "pizza-ko", "word": "피자", "definition": "여러 재료를 올려 구운 음식.", "pronunciation": "피자" },
+      { "id": "pasta-ko", "word": "파스타", "definition": "스파게티와 같은 면 요리.", "pronunciation": "파스타" },
+      { "id": "noodle-ko", "word": "면", "definition": "길고 가는 음식 재료.", "pronunciation": "면" },
+      { "id": "rice-ko", "word": "쌀", "definition": "주식으로 먹는 곡물.", "pronunciation": "쌀" },
+      { "id": "chocolate-ko", "word": "초콜릿", "definition": "카카오로 만든 달콤한 음식.", "pronunciation": "초콜릿" }
+    ]
   },
   "listening_tracks": {
     "en": [
