@@ -412,372 +412,180 @@
   },
   "speaking_chunks": {
     "en": [
-      {
-        "type": "chunk",
-        "text": "What's her surname?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Her surname is...",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>What's her surname?</b> <b>Her surname is</b> Anderson.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "How old is she?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "She is... years old.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>How old is she?</b> <b>She is</b> twenty-eight <b>years old.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Is she married?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "No, she isn't.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Is she married?</b> <b>No, she isn't.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "Who's she?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "She's Patrick's wife.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Who's she?</b> <b>She's Patrick's wife.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "How much is a hamburger and chips?",
-        "color": "#27ae60",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "chunk",
-        "text": "Three pounds fifty.",
-        "color": "#27ae60",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>How much is a hamburger and chips?</b> <b>Three pounds fifty.</b>",
-        "color": "#1e8449",
-        "bg": "#d5f5e3"
-      }
+          {
+      "type": "chunk",
+      "text": "meet a new friend",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "say my name and where I am from",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "When I <b>meet a new friend</b>, I <b>say my name and where I am from</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "order food and drinks",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "the server is kind",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "At the café, we <b>order food and drinks</b> and <b>the server is kind</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "When I <b>meet a new friend</b>, I <b>say my name and where I am from</b>. We talk and have a good time. At the café, we <b>order food and drinks</b> and <b>the server is kind</b>. We say goodbye and see you soon!",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ],
     "ja": [
-      {
-        "type": "chunk",
-        "text": "彼女の姓は何ですか？",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "彼女の姓は...です。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>彼女の姓は何ですか？</b> <b>彼女の姓は</b>アンダーソン<b>です。</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "彼女は何歳ですか？",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "彼女は...歳です。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>彼女は何歳ですか？</b> <b>彼女は</b>28<b>歳です。</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "彼女は結婚していますか？",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "いいえ、結婚していません。",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>彼女は結婚していますか？</b> <b>いいえ、結婚していません。</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "彼女は誰ですか？",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "彼女はパトリックの妻です。",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>彼女は誰ですか？</b> <b>彼女はパトリックの妻です。</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "ハンバーガーとチップスはいくらですか？",
-        "color": "#27ae60",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "chunk",
-        "text": "3ポンド50ペンスです。",
-        "color": "#27ae60",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>ハンバーガーとチップスはいくらですか？</b> <b>3ポンド50ペンスです。</b>",
-        "color": "#1e8449",
-        "bg": "#d5f5e3"
-      }
+          {
+      "type": "chunk",
+      "text": "新しい友だちに会う",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "自分の名前と出身を言う",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>新しい友だちに会う</b> とき、<b>自分の名前と出身を言う</b> のが大切です。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "食べ物と飲み物を注文する",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "店員は親切です",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "カフェで <b>食べ物と飲み物を注文する</b> と、<b>店員は親切です</b>。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>新しい友だちに会う</b> とき、<b>自分の名前と出身を言う</b> のが大切です。一緒に話して楽しい時間を過ごします。カフェで <b>食べ物と飲み物を注文する</b> と、<b>店員は親切です</b>。そして、「さようなら、また会いましょう！」と言って別れます。",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ],
     "fr": [
-      {
-        "type": "chunk",
-        "text": "Quel est son nom de famille ?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Son nom de famille est...",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Quel est son nom de famille ?</b> <b>Son nom de famille est</b> Anderson.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Quel âge a-t-elle ?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Elle a... ans.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Quel âge a-t-elle ?</b> <b>Elle a</b> vingt-huit <b>ans.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Est-elle mariée ?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "Non, elle n'est pas mariée.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Est-elle mariée ?</b> <b>Non, elle n'est pas mariée.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "Qui est-elle ?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "C'est la femme de Patrick.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Qui est-elle ?</b> <b>C'est la femme de Patrick.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Combien coûte un hamburger et des frites ?",
-        "color": "#27ae60",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "chunk",
-        "text": "Trois livres cinquante.",
-        "color": "#27ae60",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Combien coûte un hamburger et des frites ?</b> <b>Trois livres cinquante.</b>",
-        "color": "#1e8449",
-        "bg": "#d5f5e3"
-      }
+          {
+      "type": "chunk",
+      "text": "rencontrer un nouvel ami",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "dire mon nom et d'où je viens",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Quand je <b>rencontrer un nouvel ami</b>, je <b>dire mon nom et d'où je viens</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "commander de la nourriture et des boissons",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "le serveur est gentil",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Au café, nous <b>commander de la nourriture et des boissons</b> et <b>le serveur est gentil</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quand je <b>rencontrer un nouvel ami</b>, je <b>dire mon nom et d'où je viens</b>. Nous parlons et passons un bon moment. Au café, nous <b>commander de la nourriture et des boissons</b> et <b>le serveur est gentil</b>. Nous disons au revoir et à bientôt !",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ],
     "ko": [
       {
-        "type": "chunk",
-        "text": "그녀의 성은 무엇인가요?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "그녀의 성은...입니다.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>그녀의 성은 무엇인가요?</b> <b>그녀의 성은</b> Anderson<b>입니다.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "그녀는 몇 살인가요?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "그녀는...살입니다.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>그녀는 몇 살인가요?</b> <b>그녀는</b> 28<b>살입니다.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "그녀는 결혼했나요?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "아니요, 그녀는 결혼하지 않았습니다.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>그녀는 결혼했나요?</b> <b>아니요, 그녀는 결혼하지 않았습니다.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "그녀는 누구인가요?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "그녀는 Patrick의 아내입니다.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>그녀는 누구인가요?</b> <b>그녀는 Patrick의 아내입니다.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "햄버거와 칩은 얼마인가요?",
-        "color": "#27ae60",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "chunk",
-        "text": "3파운드 50펜스입니다.",
-        "color": "#27ae60",
-        "bg": "#eafaf1"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>햄버거와 칩은 얼마인가요?</b> <b>3파운드 50펜스입니다.</b>",
-        "color": "#1e8449",
-        "bg": "#d5f5e3"
-      }
+      "type": "chunk",
+      "text": "새로운 친구를 만나다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "내 이름과 출신을 말하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>새로운 친구를 만나다</b>면, <b>내 이름과 출신을 말하다</b>는 것이 중요해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "음식과 음료를 주문하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "직원은 친절합니다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "카페에서 <b>음식과 음료를 주문하다</b>면, <b>직원은 친절합니다</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>새로운 친구를 만나다</b>면, <b>내 이름과 출신을 말하다</b>는 것이 중요해요. 함께 이야기하며 좋은 시간을 보내요. 카페에서 <b>음식과 음료를 주문하다</b>면, <b>직원은 친절합니다</b>. 그리고 \"안녕, 또 만나요!\"라고 말하며 헤어져요.",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ]
   },
   "grammar_html": {
