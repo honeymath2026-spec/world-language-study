@@ -1,33 +1,87 @@
 {
   "title": {
-    "en": "Can you speak English?",
-    "ja": "英語を話せますか？",
+    "en": "Can you speak Japanese?",
+    "ja": "日本語を話せますか？",
     "fr": "Parlez-vous anglais ?",
     "ko": "영어 할 수 있나요?"
   },
+
   "topic": {
-    "en": "Ability, past states, telephone English, homophones",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Abilities · Talents · Languages · Sports · Past events",
+    "ja": "能力・才能・言語・スポーツ・過去の出来事",
+    "fr": "Capacités · Talents · Langues · Sports · Événements passés",
+    "ko": "능력 · 재능 · 언어 · 스포츠 · 과거 경험"
   },
+
   "core_title": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Young People with Amazing Talents",
+    "ja": "すばらしい才能を持つ子どもたち",
+    "fr": "De jeunes talents extraordinaires",
+    "ko": "놀라운 재능을 가진 아이들"
   },
+
   "core_reading_html": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "<p>Many young people have special <strong><span class='vocab-link' id='text-talent' onclick='speakAndScroll(\"talent\", \"vocab-talent\")'>talents</span></strong>. Alexandra can <strong><span class='vocab-link' id='text-paint' onclick='speakAndScroll(\"paint\", \"vocab-paint\")'>paint</span></strong> beautiful pictures. Lukas can <strong><span class='vocab-link' id='text-play' onclick='speakAndScroll(\"play\", \"vocab-play\")'>play</span></strong> the piano very well. They <strong><span class='vocab-link' id='text-practice' onclick='speakAndScroll(\"practice\", \"vocab-practice\")'>practice</span></strong> every day. Tina can <strong><span class='vocab-link' id='text-swim' onclick='speakAndScroll(\"swim\", \"vocab-swim\")'>swim</span></strong> and play sports, but she cannot <strong><span class='vocab-link' id='text-drive' onclick='speakAndScroll(\"drive\", \"vocab-drive\")'>drive</span></strong>. She can use a <strong><span class='vocab-link' id='text-computer' onclick='speakAndScroll(\"computer\", \"vocab-computer\")'>computer</span></strong> and speak another <strong><span class='vocab-link' id='text-language' onclick='speakAndScroll(\"language\", \"vocab-language\")'>language</span></strong>. These young people <strong><span class='vocab-link' id='text-learn' onclick='speakAndScroll(\"learn\", \"vocab-learn\")'>learn</span></strong> new things and work hard. Their <strong><span class='vocab-link' id='text-dream' onclick='speakAndScroll(\"dream\", \"vocab-dream\")'>dreams</span></strong> help them become successful in the <strong><span class='vocab-link' id='text-future' onclick='speakAndScroll(\"future\", \"vocab-future\")'>future</span></strong>.</p>",
+
+    "ja": "<p>多くの子どもたちは特別な <strong><span class='vocab-link' id='text-sainou' onclick='speakAndScroll(\"sainou\", \"vocab-sainou\")'>才能</span></strong> を持っています。アレクサンドラは美しい絵を <strong><span class='vocab-link' id='text-kaku' onclick='speakAndScroll(\"kaku\", \"vocab-kaku\")'>描く</span></strong> ことができます。ルーカスはピアノを <strong><span class='vocab-link' id='text-hiku' onclick='speakAndScroll(\"hiku\", \"vocab-hiku\")'>弾く</span></strong> のが上手です。二人は毎日 <strong><span class='vocab-link' id='text-renshuu' onclick='speakAndScroll(\"renshuu\", \"vocab-renshuu\")'>練習</span></strong> します。ティナは <strong><span class='vocab-link' id='text-oyogu' onclick='speakAndScroll(\"oyogu\", \"vocab-oyogu\")'>泳ぐ</span></strong> ことができますが、車を <strong><span class='vocab-link' id='text-unten' onclick='speakAndScroll(\"unten\", \"vocab-unten\")'>運転</span></strong> できません。彼女は <strong><span class='vocab-link' id='text-pasokon' onclick='speakAndScroll(\"pasokon\", \"vocab-pasokon\")'>パソコン</span></strong> を使い、別の <strong><span class='vocab-link' id='text-gengo' onclick='speakAndScroll(\"gengo\", \"vocab-gengo\")'>言語</span></strong> を話せます。みんな新しいことを <strong><span class='vocab-link' id='text-manabu' onclick='speakAndScroll(\"manabu\", \"vocab-manabu\")'>学び</span></strong>、大きな <strong><span class='vocab-link' id='text-yume' onclick='speakAndScroll(\"yume\", \"vocab-yume\")'>夢</span></strong> を持って未来へ進みます。</p>",
+
+    "fr": "<p>De nombreux jeunes ont des <strong><span class='vocab-link' id='text-talent-fr' onclick='speakAndScroll(\"talent-fr\", \"vocab-talent-fr\")'>talents</span></strong> spéciaux. Alexandra peut <strong><span class='vocab-link' id='text-peindre' onclick='speakAndScroll(\"peindre\", \"vocab-peindre\")'>peindre</span></strong> de beaux tableaux. Lukas sait <strong><span class='vocab-link' id='text-jouer' onclick='speakAndScroll(\"jouer\", \"vocab-jouer\")'>jouer</span></strong> du piano. Ils <strong><span class='vocab-link' id='text-pratiquer' onclick='speakAndScroll(\"pratiquer\", \"vocab-pratiquer\")'>pratiquent</span></strong> chaque jour. Tina peut <strong><span class='vocab-link' id='text-nager' onclick='speakAndScroll(\"nager\", \"vocab-nager\")'>nager</span></strong> mais elle ne peut pas <strong><span class='vocab-link' id='text-conduire' onclick='speakAndScroll(\"conduire\", \"vocab-conduire\")'>conduire</span></strong>. Elle utilise un <strong><span class='vocab-link' id='text-ordinateur' onclick='speakAndScroll(\"ordinateur\", \"vocab-ordinateur\")'>ordinateur</span></strong> et parle une autre <strong><span class='vocab-link' id='text-langue' onclick='speakAndScroll(\"langue\", \"vocab-langue\")'>langue</span></strong>. Ces jeunes aiment <strong><span class='vocab-link' id='text-apprendre' onclick='speakAndScroll(\"apprendre\", \"vocab-apprendre\")'>apprendre</span></strong> et travaillent dur. Leurs <strong><span class='vocab-link' id='text-reve' onclick='speakAndScroll(\"reve\", \"vocab-reve\")'>rêves</span></strong> les aideront dans le <strong><span class='vocab-link' id='text-avenir' onclick='speakAndScroll(\"avenir\", \"vocab-avenir\")'>avenir</span></strong>.</p>",
+
+    "ko": "<p>많은 아이들은 특별한 <strong><span class='vocab-link' id='text-jaeneung' onclick='speakAndScroll(\"jaeneung\", \"vocab-jaeneung\")'>재능</span></strong> 을 가지고 있습니다. 알렉산드라는 아름다운 그림을 <strong><span class='vocab-link' id='text-geurida' onclick='speakAndScroll(\"geurida\", \"vocab-geurida\")'>그릴</span></strong> 수 있습니다. 루카스는 피아노를 <strong><span class='vocab-link' id='text-yeonju' onclick='speakAndScroll(\"yeonju\", \"vocab-yeonju\")'>연주</span></strong> 할 수 있습니다. 그들은 매일 <strong><span class='vocab-link' id='text-yeonseup' onclick='speakAndScroll(\"yeonseup\", \"vocab-yeonseup\")'>연습</span></strong> 합니다. 티나는 <strong><span class='vocab-link' id='text-suyeong' onclick='speakAndScroll(\"suyeong\", \"vocab-suyeong\")'>수영</span></strong> 을 할 수 있지만 <strong><span class='vocab-link' id='text-unjeon' onclick='speakAndScroll(\"unjeon\", \"vocab-unjeon\")'>운전</span></strong> 은 못합니다. 그녀는 <strong><span class='vocab-link' id='text-keompyuteo' onclick='speakAndScroll(\"keompyuteo\", \"vocab-keompyuteo\")'>컴퓨터</span></strong> 를 사용할 수 있고 다른 <strong><span class='vocab-link' id='text-eoneo' onclick='speakAndScroll(\"eoneo\", \"vocab-eoneo\")'>언어</span></strong> 도 말할 수 있습니다. 이 아이들은 새로운 것을 <strong><span class='vocab-link' id='text-baeuda' onclick='speakAndScroll(\"baeuda\", \"vocab-baeuda\")'>배우고</span></strong> 큰 <strong><span class='vocab-link' id='text-kkum' onclick='speakAndScroll(\"kkum\", \"vocab-kkum\")'>꿈</span></strong> 을 가지고 있습니다. 그들의 노력은 밝은 <strong><span class='vocab-link' id='text-mirae' onclick='speakAndScroll(\"mirae\", \"vocab-mirae\")'>미래</span></strong> 를 만듭니다.</p>"
   },
+
   "vocabulary": {
-    "en": [],
-    "ja": [],
-    "fr": [],
-    "ko": []
+    "en": [
+      { "id": "talent", "word": "talent", "definition": "A natural ability to do something well.", "pronunciation": "talent" },
+      { "id": "paint", "word": "paint", "definition": "To make pictures with colors.", "pronunciation": "paint" },
+      { "id": "play", "word": "play", "definition": "To perform music on an instrument.", "pronunciation": "play" },
+      { "id": "practice", "word": "practice", "definition": "To do something many times to improve.", "pronunciation": "practice" },
+      { "id": "swim", "word": "swim", "definition": "To move through water.", "pronunciation": "swim" },
+      { "id": "drive", "word": "drive", "definition": "To control a car.", "pronunciation": "drive" },
+      { "id": "computer", "word": "computer", "definition": "An electronic machine for work and study.", "pronunciation": "computer" },
+      { "id": "language", "word": "language", "definition": "A system of speaking and writing.", "pronunciation": "language" },
+      { "id": "learn", "word": "learn", "definition": "To gain knowledge or skills.", "pronunciation": "learn" },
+      { "id": "dream", "word": "dream", "definition": "A hope or goal for the future.", "pronunciation": "dream" }
+    ],
+
+    "ja": [
+      { "id": "sainou", "word": "才能", "definition": "特別な能力。", "pronunciation": "さいのう" },
+      { "id": "kaku", "word": "描く", "definition": "絵を作ること。", "pronunciation": "かく" },
+      { "id": "hiku", "word": "弾く", "definition": "楽器を演奏すること。", "pronunciation": "ひく" },
+      { "id": "renshuu", "word": "練習", "definition": "上手になるために繰り返すこと。", "pronunciation": "れんしゅう" },
+      { "id": "oyogu", "word": "泳ぐ", "definition": "水の中を進むこと。", "pronunciation": "およぐ" },
+      { "id": "unten", "word": "運転", "definition": "車を動かすこと。", "pronunciation": "うんてん" },
+      { "id": "pasokon", "word": "パソコン", "definition": "電子機器の一つ。", "pronunciation": "ぱそこん" },
+      { "id": "gengo", "word": "言語", "definition": "話したり書いたりするためのことば。", "pronunciation": "げんご" },
+      { "id": "manabu", "word": "学ぶ", "definition": "新しい知識を得ること。", "pronunciation": "まなぶ" },
+      { "id": "yume", "word": "夢", "definition": "将来の希望や目標。", "pronunciation": "ゆめ" }
+    ],
+
+    "fr": [
+      { "id": "talent-fr", "word": "talent", "definition": "Capacité naturelle.", "pronunciation": "talent" },
+      { "id": "peindre", "word": "peindre", "definition": "Faire un tableau avec des couleurs.", "pronunciation": "peindre" },
+      { "id": "jouer", "word": "jouer", "definition": "Faire de la musique.", "pronunciation": "jouer" },
+      { "id": "pratiquer", "word": "pratiquer", "definition": "S'exercer régulièrement.", "pronunciation": "pratiquer" },
+      { "id": "nager", "word": "nager", "definition": "Se déplacer dans l'eau.", "pronunciation": "nager" },
+      { "id": "conduire", "word": "conduire", "definition": "Diriger une voiture.", "pronunciation": "conduire" },
+      { "id": "ordinateur", "word": "ordinateur", "definition": "Machine électronique.", "pronunciation": "ordinateur" },
+      { "id": "langue", "word": "langue", "definition": "Système de communication.", "pronunciation": "langue" },
+      { "id": "apprendre", "word": "apprendre", "definition": "Acquérir des connaissances.", "pronunciation": "apprendre" },
+      { "id": "reve", "word": "rêve", "definition": "Objectif ou souhait.", "pronunciation": "rêve" }
+    ],
+
+    "ko": [
+      { "id": "jaeneung", "word": "재능", "definition": "특별한 능력.", "pronunciation": "재능" },
+      { "id": "geurida", "word": "그리다", "definition": "그림을 만들다.", "pronunciation": "그리다" },
+      { "id": "yeonju", "word": "연주", "definition": "악기를 연주하는 것.", "pronunciation": "연주" },
+      { "id": "yeonseup", "word": "연습", "definition": "실력을 높이기 위해 반복하는 것.", "pronunciation": "연습" },
+      { "id": "suyeong", "word": "수영", "definition": "물속에서 움직이는 것.", "pronunciation": "수영" },
+      { "id": "unjeon", "word": "운전", "definition": "차를 조종하는 것.", "pronunciation": "운전" },
+      { "id": "keompyuteo", "word": "컴퓨터", "definition": "전자 기기.", "pronunciation": "컴퓨터" },
+      { "id": "eoneo", "word": "언어", "definition": "말과 글의 체계.", "pronunciation": "언어" },
+      { "id": "baeuda", "word": "배우다", "definition": "지식이나 기술을 익히다.", "pronunciation": "배우다" },
+      { "id": "kkum", "word": "꿈", "definition": "미래의 목표나 희망.", "pronunciation": "꿈" }
+    ]
   },
   "listening_tracks": {
     "en": [
