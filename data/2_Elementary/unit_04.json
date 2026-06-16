@@ -436,227 +436,179 @@
   "speaking_chunks": {
     "en": [
       {
-        "type": "chunk",
-        "text": "Where do you work?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "I work in...",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Where do you work?</b> <b>I work in</b> New York.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Do you like your work?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "Yes, I do. / No, I don't.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Do you like your work?</b> <b>Yes, I do.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "What time do you get up?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "I get up at...",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>What time do you get up?</b> <b>I get up at</b> 7.00.",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Do you have children?",
-        "color": "#16a085",
-        "bg": "#e8f8f5"
-      },
-      {
-        "type": "chunk",
-        "text": "Yes, I do. / No, I don't.",
-        "color": "#16a085",
-        "bg": "#e8f8f5"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Do you have children?</b> <b>Yes, I do.</b> I have two sons.",
-        "color": "#1abc9c",
-        "bg": "#d1f2eb"
-      }
+      "type": "chunk",
+      "text": "have a busy week",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "relax in the evening",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "I <b>have a busy week</b>, but I always <b>relax in the evening</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "enjoy my hobbies",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "take photos of flowers",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "On weekends, I <b>enjoy my hobbies</b> and <b>take photos of flowers</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "I <b>have a busy week</b>, but I always <b>relax in the evening</b> by reading or listening to music. On weekends, I <b>enjoy my hobbies</b> and <b>take photos of flowers</b> in the park. This simple life makes me happy!",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ],
     "ja": [
-      {
-        "type": "chunk",
-        "text": "どこで働いていますか？",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "私は...で働いています。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>どこで働いていますか？</b> <b>私は</b>ニューヨーク<b>で働いています。</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "仕事は好きですか？",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "はい、好きです。／いいえ、好きではありません。",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>仕事は好きですか？</b> <b>はい、好きです。</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "何時に起きますか？",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "私は...時に起きます。",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>何時に起きますか？</b> <b>私は</b>7時<b>に起きます。</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+          {
+      "type": "chunk",
+      "text": "忙しい一週間を過ごす",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "夕方にリラックスする",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>忙しい一週間を過ごす</b> けれど、いつも <b>夕方にリラックスする</b> ようにしている。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "趣味を楽しむ",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "花の写真を撮る",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "週末には <b>趣味を楽しむ</b> ため、よく <b>花の写真を撮る</b>。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>忙しい一週間を過ごす</b> けれど、いつも <b>夕方にリラックスする</b> ようにしている。週末には <b>趣味を楽しむ</b> ため、よく公園で <b>花の写真を撮る</b>。こんなシンプルな生活が自分には合っている。",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ],
     "fr": [
-      {
-        "type": "chunk",
-        "text": "Où travaillez-vous ?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Je travaille à...",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Où travaillez-vous ?</b> <b>Je travaille à</b> New York.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Aimez-vous votre travail ?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "Oui, j'aime. / Non, je n'aime pas.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Aimez-vous votre travail ?</b> <b>Oui, j'aime.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      }
+          {
+      "type": "chunk",
+      "text": "avoir une semaine chargée",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "se détendre le soir",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Je <b>avoir une semaine chargée</b>, mais je <b>se détendre le soir</b> toujours.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "profiter de mes loisirs",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "prendre des photos de fleurs",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Le week-end, je <b>profiter de mes loisirs</b> et <b>prendre des photos de fleurs</b>.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Je <b>avoir une semaine chargée</b>, mais je <b>se détendre le soir</b> toujours en lisant ou en écoutant de la musique. Le week-end, je <b>profiter de mes loisirs</b> et <b>prendre des photos de fleurs</b> dans le parc. Cette vie simple me rend heureux !",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ],
     "ko": [
       {
-        "type": "chunk",
-        "text": "어디에서 일하시나요?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "저는...에서 일합니다.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>어디에서 일하시나요?</b> <b>저는</b> 뉴욕<b>에서 일합니다.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "당신의 일을 좋아하시나요?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "네, 좋아합니다. / 아니요, 좋아하지 않습니다.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>당신의 일을 좋아하시나요?</b> <b>네, 좋아합니다.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "몇 시에 일어나시나요?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "저는...시에 일어납니다.",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>몇 시에 일어나시나요?</b> <b>저는</b> 7시<b>에 일어납니다.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+      "type": "chunk",
+      "text": "바쁜 한 주를 보내다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "저녁에 쉬다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "<b>바쁜 한 주를 보내다</b>지만, 항상 <b>저녁에 쉬다</b>는 시간을 가져요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "취미를 즐기다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "꽃 사진을 찍다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "주말에는 <b>취미를 즐기다</b>며 공원에서 <b>꽃 사진을 찍다</b>는 걸 좋아해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "<b>바쁜 한 주를 보내다</b>지만, 항상 <b>저녁에 쉬다</b>는 시간을 가져요. 독서나 음악 감상으로 하루를 마무리하죠. 주말에는 <b>취미를 즐기다</b>며 공원에서 <b>꽃 사진을 찍다</b>는 걸 좋아해요. 이렇게 단순한 삶이 저를 행복하게 만듭니다!",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ]
   },
   "grammar_html": {
