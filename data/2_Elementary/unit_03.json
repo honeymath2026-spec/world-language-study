@@ -367,300 +367,180 @@
   },
   "speaking_chunks": {
     "en": [
-      {
-        "type": "chunk",
-        "text": "What does he/she do?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "He/She is a...",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>What does she do?</b> <b>She is a</b> scientist.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Where does he/she come from?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "He/She comes from...",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Where does he come from?</b> <b>He comes from</b> England.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Does he/she speak...?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "Yes, he/she does. / No, he/she doesn't.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Does she speak French?</b> <b>Yes, she does.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "What time is it?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "It's... o'clock / half past... / quarter to...",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>What time is it?</b> <b>It's half past five.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+          {
+      "type": "chunk",
+      "text": "wake up early",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "start work",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "I <b>wake up early</b> and <b>start work</b> at 7:00 every day.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "help sick people",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "go to bed late",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "During the day I <b>help sick people</b>, and I <b>go to bed late</b> at night.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "I <b>wake up early</b> and <b>start work</b> at 7:00 every day. I am a doctor, so during the day I <b>help sick people</b>. I am very busy and I <b>go to bed late</b> at night.",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ],
     "ja": [
-      {
-        "type": "chunk",
-        "text": "彼/彼女の仕事は何ですか？",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "彼/彼女は...です。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>彼女の仕事は何ですか？</b> <b>彼女は</b>科学者<b>です。</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "彼/彼女はどこから来ましたか？",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "彼/彼女は...から来ました。",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>彼はどこから来ましたか？</b> <b>彼は</b>イギリス<b>から来ました。</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "彼/彼女は...を話せますか？",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "はい、話せます。/ いいえ、話せません。",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>彼女はフランス語を話せますか？</b> <b>はい、話せます。</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "今何時ですか？",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "...時です / ...時半です / ...時15分前です",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>今何時ですか？</b> <b>5時半です。</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+          {
+      "type": "chunk",
+      "text": "早く起きる",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "仕事を始める",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "私は<b>早く起きる</b> と <b>仕事を始める</b> を毎日7時に行います。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "病人を助ける",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "夜遅く寝る",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "日中は <b>病人を助ける</b> 仕事をして、<b>夜遅く寝る</b> ことが多いです。",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "私は<b>早く起きる</b> と <b>仕事を始める</b> を毎日7時に行います。医者なので、日中は <b>病人を助ける</b> 仕事をしています。とても忙しくて、<b>夜遅く寝る</b> ことが多いです。",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ],
     "fr": [
-      {
-        "type": "chunk",
-        "text": "Que fait-il/elle ?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Il/Elle est...",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Que fait-elle ?</b> <b>Elle est</b> scientifique.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "D'où vient-il/elle ?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "Il/Elle vient de...",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>D'où vient-il ?</b> <b>Il vient d'</b>Angleterre.",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "Parle-t-il/elle... ?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "Oui, il/elle parle. / Non, il/elle ne parle pas.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Parle-t-elle français ?</b> <b>Oui, elle parle.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "Quelle heure est-il ?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "Il est... heure(s) / ... heure(s) et demie / moins le quart",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>Quelle heure est-il ?</b> <b>Il est cinq heures et demie.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+          {
+      "type": "chunk",
+      "text": "me réveiller tôt",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "commencer le travail",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Je <b>me réveiller tôt</b> et <b>commencer le travail</b> à 7h00 chaque jour.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "aider les malades",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "me coucher tard",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "Pendant la journée, je <b>aider les malades</b> et je <b>me coucher tard</b> le soir.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "Je <b>me réveiller tôt</b> et <b>commencer le travail</b> à 7h00 chaque jour. Je suis médecin, donc pendant la journée je <b>aider les malades</b>. Je suis très occupé et je <b>me coucher tard</b> le soir.",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ],
     "ko": [
       {
-        "type": "chunk",
-        "text": "그/그녀는 무슨 일을 하나요?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "그/그녀는 ...입니다.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>그녀는 무슨 일을 하나요?</b> <b>그녀는</b> 과학자<b>입니다.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "그/그녀는 어디에서 왔나요?",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "chunk",
-        "text": "그/그녀는 ...에서 왔어요.",
-        "color": "#3498db",
-        "bg": "#ebf5fb"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>그는 어디에서 왔나요?</b> <b>그는</b> 영국<b>에서 왔어요.</b>",
-        "color": "#2980b9",
-        "bg": "#e1f5fe"
-      },
-      {
-        "type": "chunk",
-        "text": "그/그녀는 ...를 할 줄 아나요?",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "chunk",
-        "text": "네, 할 수 있어요. / 아니요, 할 수 없어요.",
-        "color": "#9b59b6",
-        "bg": "#f5eef8"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>그녀는 프랑스어를 할 줄 아나요?</b> <b>네, 할 수 있어요.</b>",
-        "color": "#8e44ad",
-        "bg": "#f4ecf7"
-      },
-      {
-        "type": "chunk",
-        "text": "지금 몇 시인가요?",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "chunk",
-        "text": "...시입니다 / ...시 반입니다 / ...시 15분 전입니다",
-        "color": "#e67e22",
-        "bg": "#fef5e7"
-      },
-      {
-        "type": "sentence",
-        "text": "<b>지금 몇 시인가요?</b> <b>5시 반입니다.</b>",
-        "color": "#d35400",
-        "bg": "#fef9e7"
-      }
+      "type": "chunk",
+      "text": "일찍 일어나다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "일을 시작하다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "나는 <b>일찍 일어나다</b>고 <b>일을 시작하다</b>를 매일 7시에 해요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "chunk",
+      "text": "아픈 사람을 돕다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "chunk",
+      "text": "늦게 자다",
+      "color": "#3498db",
+      "bg": "#ebf5fb"
+    },
+    {
+      "type": "sentence",
+      "text": "낮에는 <b>아픈 사람을 돕다</b>고, 밤에는 <b>늦게 자다</b>는 편이에요.",
+      "color": "#2980b9",
+      "bg": "#e1f5fe"
+    },
+    {
+      "type": "paragraph",
+      "text": "나는 <b>일찍 일어나다</b>고 <b>일을 시작하다</b>를 매일 7시에 해요. 저는 의사라서 낮에는 <b>아픈 사람을 돕다</b>는 일을 해요. 매우 바빠서 <b>늦게 자다</b>는 편이에요.",
+      "color": "#2c3e50",
+      "bg": "#f0f7ff"
+    }
     ]
   },
   "grammar_html": {
