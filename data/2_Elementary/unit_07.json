@@ -1,81 +1,79 @@
 {
-  "title": { "en": "Bigger and better!", "ja": "より大きく、より良く！", "fr": "Plus grand et meilleur !", "ko": "더 크고 더 좋게!" },
-  
+  "title": {
+    "en": "A Life of Learning",
+    "ja": "学び続ける人生",
+    "fr": "Une vie d’apprentissage",
+    "ko": "배움의 삶"
+  },
   "topic": {
-    "en": "Life stories · Work · Family · Learning · Famous people",
-    "ja": "人生の物語・仕事・家族・学び・有名な人物",
-    "fr": "Histoires de vie · Travail · Famille · Apprentissage · Personnages célèbres",
-    "ko": "인생 이야기 · 일 · 가족 · 배움 · 역사적 인물"
+    "en": "Past Life · Daily Routine · Learning · Historical Figures",
+    "ja": "過去の人生・日課・学び・歴史上の人物",
+    "fr": "Vie passée · Routine quotidienne · Apprentissage · Personnages historiques",
+    "ko": "과거의 삶 · 일상 · 배움 · 역사적 인물"
   },
-
   "core_title": {
-    "en": "People Who Changed Their Lives",
-    "ja": "人生を変えた人々",
-    "fr": "Des personnes qui ont changé leur vie",
-    "ko": "삶을 바꾼 사람들"
+    "en": "Never Too Late to Learn",
+    "ja": "学ぶのに遅すぎることはない",
+    "fr": "Il n’est jamais trop tard pour apprendre",
+    "ko": "배우기에 늦은 때는 없다"
   },
-
   "core_reading_html": {
-    "en": "<p>Many <strong><span class='vocab-link' id='text-people' onclick='speakAndScroll(\"people\", \"vocab-people\")'>people</span></strong> worked hard in the past. Mattie started <strong><span class='vocab-link' id='text-work' onclick='speakAndScroll(\"work\", \"vocab-work\")'>work</span></strong> when she was very young. She loved to <strong><span class='vocab-link' id='text-learn' onclick='speakAndScroll(\"learn\", \"vocab-learn\")'>learn</span></strong> and later could <strong><span class='vocab-link' id='text-read' onclick='speakAndScroll(\"read\", \"vocab-read\")'>read</span></strong> and <strong><span class='vocab-link' id='text-write' onclick='speakAndScroll(\"write\", \"vocab-write\")'>write</span></strong>. Her <strong><span class='vocab-link' id='text-family' onclick='speakAndScroll(\"family\", \"vocab-family\")'>family</span></strong> was very important to her. Other famous <strong><span class='vocab-link' id='text-leader' onclick='speakAndScroll(\"leader\", \"vocab-leader\")'>leaders</span></strong> and thinkers also changed history. They showed great <strong><span class='vocab-link' id='text-courage' onclick='speakAndScroll(\"courage\", \"vocab-courage\")'>courage</span></strong>, shared new <strong><span class='vocab-link' id='text-idea' onclick='speakAndScroll(\"idea\", \"vocab-idea\")'>ideas</span></strong>, and left an important <strong><span class='vocab-link' id='text-legacy' onclick='speakAndScroll(\"legacy\", \"vocab-legacy\")'>legacy</span></strong>. Their stories still give us <strong><span class='vocab-link' id='text-hope' onclick='speakAndScroll(\"hope\", \"vocab-hope\")'>hope</span></strong> today.</p>",
+    "en": "<p><strong><span class='vocab-link' id='text-life' onclick='speakAndScroll(\"life\", \"vocab-life\")'>Life</span></strong> can be difficult, but people can learn and grow. Mattie worked in a <strong><span class='vocab-link' id='text-field' onclick='speakAndScroll(\"field\", \"vocab-field\")'>field</span></strong> when she was a child. She had a hard <strong><span class='vocab-link' id='text-job' onclick='speakAndScroll(\"job\", \"vocab-job\")'>job</span></strong>, but she loved writing <strong><span class='vocab-link' id='text-poems' onclick='speakAndScroll(\"poems\", \"vocab-poems\")'>poems</span></strong>. She wanted to <strong><span class='vocab-link' id='text-read' onclick='speakAndScroll(\"read\", \"vocab-read\")'>read</span></strong> and <strong><span class='vocab-link' id='text-write' onclick='speakAndScroll(\"write\", \"vocab-write\")'>write</span></strong>. Later, she learned these skills and shared her work. Great <strong><span class='vocab-link' id='text-leaders' onclick='speakAndScroll(\"leaders\", \"vocab-leaders\")'>leaders</span></strong> in history also studied and worked hard. Their <strong><span class='vocab-link' id='text-family' onclick='speakAndScroll(\"family\", \"vocab-family\")'>family</span></strong>, dreams, and <strong><span class='vocab-link' id='text-future' onclick='speakAndScroll(\"future\", \"vocab-future\")'>future</span></strong> were important to them. Every <strong><span class='vocab-link' id='text-person' onclick='speakAndScroll(\"person\", \"vocab-person\")'>person</span></strong> can learn something new.</p>",
 
-    "ja": "<p>昔、多くの <strong><span class='vocab-link' id='text-hitobito' onclick='speakAndScroll(\"hitobito\", \"vocab-hitobito\")'>人々</span></strong> は一生懸命働きました。マティは幼いころに <strong><span class='vocab-link' id='text-shigoto' onclick='speakAndScroll(\"shigoto\", \"vocab-shigoto\")'>仕事</span></strong> を始めました。彼女は <strong><span class='vocab-link' id='text-manabu' onclick='speakAndScroll(\"manabu\", \"vocab-manabu\")'>学ぶ</span></strong> ことが好きで、後に <strong><span class='vocab-link' id='text-yomu' onclick='speakAndScroll(\"yomu\", \"vocab-yomu\")'>読む</span></strong> ことや <strong><span class='vocab-link' id='text-kaku' onclick='speakAndScroll(\"kaku\", \"vocab-kaku\")'>書く</span></strong> ことができるようになりました。<strong><span class='vocab-link' id='text-kazoku' onclick='speakAndScroll(\"kazoku\", \"vocab-kazoku\")'>家族</span></strong> は彼女にとって大切でした。ほかの有名な <strong><span class='vocab-link' id='text-shidousha' onclick='speakAndScroll(\"shidousha\", \"vocab-shidousha\")'>指導者</span></strong> たちも歴史を変えました。彼らは大きな <strong><span class='vocab-link' id='text-yuuki' onclick='speakAndScroll(\"yuuki\", \"vocab-yuuki\")'>勇気</span></strong> を示し、新しい <strong><span class='vocab-link' id='text-kangae' onclick='speakAndScroll(\"kangae\", \"vocab-kangae\")'>考え</span></strong> を広め、重要な <strong><span class='vocab-link' id='text-isan' onclick='speakAndScroll(\"isan\", \"vocab-isan\")'>遺産</span></strong> を残しました。その物語は今も私たちに <strong><span class='vocab-link' id='text-kibou' onclick='speakAndScroll(\"kibou\", \"vocab-kibou\")'>希望</span></strong> を与えています。</p>",
+    "ja": "<p><strong><span class='vocab-link' id='text-jinsei' onclick='speakAndScroll(\"jinsei\", \"vocab-jinsei\")'>人生</span></strong>は大変なこともありますが、人は学び成長できます。マティは子どものころ、<strong><span class='vocab-link' id='text-hatake' onclick='speakAndScroll(\"hatake\", \"vocab-hatake\")'>畑</span></strong>で働きました。大変な<strong><span class='vocab-link' id='text-shigoto' onclick='speakAndScroll(\"shigoto\", \"vocab-shigoto\")'>仕事</span></strong>でしたが、<strong><span class='vocab-link' id='text-shi' onclick='speakAndScroll(\"shi\", \"vocab-shi\")'>詩</span></strong>を書くことが好きでした。彼女は<strong><span class='vocab-link' id='text-yomu' onclick='speakAndScroll(\"yomu\", \"vocab-yomu\")'>読む</span></strong>ことと<strong><span class='vocab-link' id='text-kaku' onclick='speakAndScroll(\"kaku\", \"vocab-kaku\")'>書く</span></strong>ことを学びたかったのです。その後、学ぶことに成功しました。歴史上の<strong><span class='vocab-link' id='text-shidousha' onclick='speakAndScroll(\"shidousha\", \"vocab-shidousha\")'>指導者</span></strong>たちも努力して学びました。彼らにとって<strong><span class='vocab-link' id='text-kazoku' onclick='speakAndScroll(\"kazoku\", \"vocab-kazoku\")'>家族</span></strong>や夢、そして<strong><span class='vocab-link' id='text-mirai' onclick='speakAndScroll(\"mirai\", \"vocab-mirai\")'>未来</span></strong>は大切でした。どんな<strong><span class='vocab-link' id='text-hito' onclick='speakAndScroll(\"hito\", \"vocab-hito\")'>人</span></strong>でも新しいことを学べます。</p>",
 
-    "fr": "<p>Dans le passé, beaucoup de <strong><span class='vocab-link' id='text-personnes' onclick='speakAndScroll(\"personnes\", \"vocab-personnes\")'>personnes</span></strong> ont travaillé dur. Mattie a commencé le <strong><span class='vocab-link' id='text-travail' onclick='speakAndScroll(\"travail\", \"vocab-travail\")'>travail</span></strong> très jeune. Elle aimait <strong><span class='vocab-link' id='text-apprendre' onclick='speakAndScroll(\"apprendre\", \"vocab-apprendre\")'>apprendre</span></strong> et a ensuite pu <strong><span class='vocab-link' id='text-lire' onclick='speakAndScroll(\"lire\", \"vocab-lire\")'>lire</span></strong> et <strong><span class='vocab-link' id='text-ecrire' onclick='speakAndScroll(\"ecrire\", \"vocab-ecrire\")'>écrire</span></strong>. Sa <strong><span class='vocab-link' id='text-famille' onclick='speakAndScroll(\"famille\", \"vocab-famille\")'>famille</span></strong> était très importante. D'autres grands <strong><span class='vocab-link' id='text-chef' onclick='speakAndScroll(\"chef\", \"vocab-chef\")'>dirigeants</span></strong> ont changé l'histoire. Ils ont montré du <strong><span class='vocab-link' id='text-courage-fr' onclick='speakAndScroll(\"courage-fr\", \"vocab-courage-fr\")'>courage</span></strong>, partagé des <strong><span class='vocab-link' id='text-idee' onclick='speakAndScroll(\"idee\", \"vocab-idee\")'>idées</span></strong> nouvelles et laissé un grand <strong><span class='vocab-link' id='text-heritage' onclick='speakAndScroll(\"heritage\", \"vocab-heritage\")'>héritage</span></strong>. Leurs histoires donnent encore de l'<strong><span class='vocab-link' id='text-espoir' onclick='speakAndScroll(\"espoir\", \"vocab-espoir\")'>espoir</span></strong> aujourd'hui.</p>",
+    "fr": "<p>La <strong><span class='vocab-link' id='text-vie' onclick='speakAndScroll(\"vie\", \"vocab-vie\")'>vie</span></strong> peut être difficile, mais chacun peut apprendre et grandir. Mattie travaillait dans un <strong><span class='vocab-link' id='text-champ' onclick='speakAndScroll(\"champ\", \"vocab-champ\")'>champ</span></strong> quand elle était enfant. Elle avait un <strong><span class='vocab-link' id='text-travail' onclick='speakAndScroll(\"travail\", \"vocab-travail\")'>travail</span></strong> difficile, mais elle aimait écrire des <strong><span class='vocab-link' id='text-poemes' onclick='speakAndScroll(\"poemes\", \"vocab-poemes\")'>poèmes</span></strong>. Elle voulait <strong><span class='vocab-link' id='text-lire' onclick='speakAndScroll(\"lire\", \"vocab-lire\")'>lire</span></strong> et <strong><span class='vocab-link' id='text-ecrire' onclick='speakAndScroll(\"ecrire\", \"vocab-ecrire\")'>écrire</span></strong>. Plus tard, elle a appris ces compétences. Les grands <strong><span class='vocab-link' id='text-dirigeants' onclick='speakAndScroll(\"dirigeants\", \"vocab-dirigeants\")'>dirigeants</span></strong> de l’histoire ont aussi étudié avec sérieux. Leur <strong><span class='vocab-link' id='text-famille' onclick='speakAndScroll(\"famille\", \"vocab-famille\")'>famille</span></strong>, leurs rêves et leur <strong><span class='vocab-link' id='text-avenir' onclick='speakAndScroll(\"avenir\", \"vocab-avenir\")'>avenir</span></strong> étaient importants. Chaque <strong><span class='vocab-link' id='text-personne' onclick='speakAndScroll(\"personne\", \"vocab-personne\")'>personne</span></strong> peut apprendre quelque chose de nouveau.</p>",
 
-    "ko": "<p>과거에는 많은 <strong><span class='vocab-link' id='text-saram' onclick='speakAndScroll(\"saram\", \"vocab-saram\")'>사람들</span></strong> 이 열심히 살았습니다. 마티는 아주 어린 나이에 <strong><span class='vocab-link' id='text-il' onclick='speakAndScroll(\"il\", \"vocab-il\")'>일</span></strong> 을 시작했습니다. 그녀는 <strong><span class='vocab-link' id='text-baeum' onclick='speakAndScroll(\"baeum\", \"vocab-baeum\")'>배움</span></strong> 을 좋아했고, 나중에는 <strong><span class='vocab-link' id='text-ilkgi' onclick='speakAndScroll(\"ilkgi\", \"vocab-ilkgi\")'>읽기</span></strong> 와 <strong><span class='vocab-link' id='text-sseugi' onclick='speakAndScroll(\"sseugi\", \"vocab-sseugi\")'>쓰기</span></strong> 를 할 수 있게 되었습니다. <strong><span class='vocab-link' id='text-gajok' onclick='speakAndScroll(\"gajok\", \"vocab-gajok\")'>가족</span></strong> 은 그녀에게 매우 중요했습니다. 다른 유명한 <strong><span class='vocab-link' id='text-jidoja' onclick='speakAndScroll(\"jidoja\", \"vocab-jidoja\")'>지도자</span></strong> 들도 역사를 바꾸었습니다. 그들은 큰 <strong><span class='vocab-link' id='text-yonggi' onclick='speakAndScroll(\"yonggi\", \"vocab-yonggi\")'>용기</span></strong> 를 보여 주었고 새로운 <strong><span class='vocab-link' id='text-saenggak' onclick='speakAndScroll(\"saenggak\", \"vocab-saenggak\")'>생각</span></strong> 을 나누었으며 중요한 <strong><span class='vocab-link' id='text-yusan' onclick='speakAndScroll(\"yusan\", \"vocab-yusan\")'>유산</span></strong> 을 남겼습니다. 그들의 이야기는 오늘날에도 우리에게 <strong><span class='vocab-link' id='text-huimang' onclick='speakAndScroll(\"huimang\", \"vocab-huimang\")'>희망</span></strong> 을 줍니다.</p>"
+    "ko": "<p><strong><span class='vocab-link' id='text-life-ko' onclick='speakAndScroll(\"life-ko\", \"vocab-life-ko\")'>삶</span></strong>은 힘들 수 있지만 사람은 배우고 성장할 수 있습니다. 마티는 어린 시절 <strong><span class='vocab-link' id='text-field-ko' onclick='speakAndScroll(\"field-ko\", \"vocab-field-ko\")'>들판</span></strong>에서 일했습니다. 그녀는 힘든 <strong><span class='vocab-link' id='text-job-ko' onclick='speakAndScroll(\"job-ko\", \"vocab-job-ko\")'>일</span></strong>을 했지만 <strong><span class='vocab-link' id='text-poem-ko' onclick='speakAndScroll(\"poem-ko\", \"vocab-poem-ko\")'>시</span></strong>를 사랑했습니다. 그녀는 <strong><span class='vocab-link' id='text-read-ko' onclick='speakAndScroll(\"read-ko\", \"vocab-read-ko\")'>읽기</span></strong>와 <strong><span class='vocab-link' id='text-write-ko' onclick='speakAndScroll(\"write-ko\", \"vocab-write-ko\")'>쓰기</span></strong>를 배우고 싶어 했습니다. 나중에 그녀는 그 꿈을 이루었습니다. 역사 속 위대한 <strong><span class='vocab-link' id='text-leader-ko' onclick='speakAndScroll(\"leader-ko\", \"vocab-leader-ko\")'>지도자</span></strong>들도 열심히 공부했습니다. 그들에게 <strong><span class='vocab-link' id='text-family-ko' onclick='speakAndScroll(\"family-ko\", \"vocab-family-ko\")'>가족</span></strong>, 꿈, 그리고 <strong><span class='vocab-link' id='text-future-ko' onclick='speakAndScroll(\"future-ko\", \"vocab-future-ko\")'>미래</span></strong>는 중요했습니다. 모든 <strong><span class='vocab-link' id='text-person-ko' onclick='speakAndScroll(\"person-ko\", \"vocab-person-ko\")'>사람</span></strong>은 새로운 것을 배울 수 있습니다.</p>"
   },
-
   "vocabulary": {
     "en": [
-      {"id":"people","word":"people","definition":"men, women, and children","pronunciation":"people"},
-      {"id":"work","word":"work","definition":"a job or activity","pronunciation":"work"},
-      {"id":"learn","word":"learn","definition":"to gain knowledge","pronunciation":"learn"},
-      {"id":"read","word":"read","definition":"to look at words and understand them","pronunciation":"read"},
-      {"id":"write","word":"write","definition":"to make words on paper","pronunciation":"write"},
-      {"id":"family","word":"family","definition":"parents and children","pronunciation":"family"},
-      {"id":"leader","word":"leader","definition":"a person who guides others","pronunciation":"leader"},
-      {"id":"courage","word":"courage","definition":"being brave","pronunciation":"courage"},
-      {"id":"idea","word":"idea","definition":"a thought or plan","pronunciation":"idea"},
-      {"id":"legacy","word":"legacy","definition":"something important left for the future","pronunciation":"legacy"}
+      { "id": "life", "word": "Life", "definition": "The way a person lives.", "pronunciation": "life" },
+      { "id": "field", "word": "Field", "definition": "An area of land used for farming.", "pronunciation": "field" },
+      { "id": "job", "word": "Job", "definition": "Work that a person does.", "pronunciation": "job" },
+      { "id": "poems", "word": "Poems", "definition": "Pieces of writing with rhythm and feeling.", "pronunciation": "poems" },
+      { "id": "read", "word": "Read", "definition": "To understand written words.", "pronunciation": "read" },
+      { "id": "write", "word": "Write", "definition": "To put words on paper.", "pronunciation": "write" },
+      { "id": "leaders", "word": "Leaders", "definition": "People who guide others.", "pronunciation": "leaders" },
+      { "id": "family", "word": "Family", "definition": "Parents, children, and relatives.", "pronunciation": "family" },
+      { "id": "future", "word": "Future", "definition": "The time that is coming.", "pronunciation": "future" },
+      { "id": "person", "word": "Person", "definition": "A human being.", "pronunciation": "person" }
     ],
-
     "ja": [
-      {"id":"hitobito","word":"人々","definition":"たくさんの人。","pronunciation":"ひとびと"},
-      {"id":"shigoto","word":"仕事","definition":"はたらくこと。","pronunciation":"しごと"},
-      {"id":"manabu","word":"学ぶ","definition":"知識を得ること。","pronunciation":"まなぶ"},
-      {"id":"yomu","word":"読む","definition":"文字を見ること。","pronunciation":"よむ"},
-      {"id":"kaku","word":"書く","definition":"文字を書くこと。","pronunciation":"かく"},
-      {"id":"kazoku","word":"家族","definition":"親や子ども。","pronunciation":"かぞく"},
-      {"id":"shidousha","word":"指導者","definition":"人々を導く人。","pronunciation":"しどうしゃ"},
-      {"id":"yuuki","word":"勇気","definition":"おそれない心。","pronunciation":"ゆうき"},
-      {"id":"kangae","word":"考え","definition":"思ったこと。","pronunciation":"かんがえ"},
-      {"id":"isan","word":"遺産","definition":"後世に残るもの。","pronunciation":"いさん"}
+      { "id": "jinsei", "word": "人生", "definition": "人が生きることやその道のり。", "pronunciation": "じんせい" },
+      { "id": "hatake", "word": "畑", "definition": "作物を育てる土地。", "pronunciation": "はたけ" },
+      { "id": "shigoto", "word": "仕事", "definition": "働くこと。", "pronunciation": "しごと" },
+      { "id": "shi", "word": "詩", "definition": "気持ちや考えを表す文学。", "pronunciation": "し" },
+      { "id": "yomu", "word": "読む", "definition": "文字の意味を理解すること。", "pronunciation": "よむ" },
+      { "id": "kaku", "word": "書く", "definition": "文字や文章を作ること。", "pronunciation": "かく" },
+      { "id": "shidousha", "word": "指導者", "definition": "人々を導く人。", "pronunciation": "しどうしゃ" },
+      { "id": "kazoku", "word": "家族", "definition": "親や子どもなどの集まり。", "pronunciation": "かぞく" },
+      { "id": "mirai", "word": "未来", "definition": "これから来る時間。", "pronunciation": "みらい" },
+      { "id": "hito", "word": "人", "definition": "人間。", "pronunciation": "ひと" }
     ],
-
     "fr": [
-      {"id":"personnes","word":"personnes","definition":"êtres humains","pronunciation":"personnes"},
-      {"id":"travail","word":"travail","definition":"activité professionnelle","pronunciation":"travail"},
-      {"id":"apprendre","word":"apprendre","definition":"acquérir des connaissances","pronunciation":"apprendre"},
-      {"id":"lire","word":"lire","definition":"comprendre des mots écrits","pronunciation":"lire"},
-      {"id":"ecrire","word":"écrire","definition":"former des mots","pronunciation":"écrire"},
-      {"id":"famille","word":"famille","definition":"parents et enfants","pronunciation":"famille"},
-      {"id":"chef","word":"dirigeant","definition":"personne qui guide les autres","pronunciation":"dirigeant"},
-      {"id":"courage-fr","word":"courage","definition":"force face au danger","pronunciation":"courage"},
-      {"id":"idee","word":"idée","definition":"pensée ou plan","pronunciation":"idée"},
-      {"id":"heritage","word":"héritage","definition":"ce qui reste pour le futur","pronunciation":"héritage"}
+      { "id": "vie", "word": "Vie", "definition": "La manière dont une personne vit.", "pronunciation": "vie" },
+      { "id": "champ", "word": "Champ", "definition": "Terrain utilisé pour cultiver des plantes.", "pronunciation": "champ" },
+      { "id": "travail", "word": "Travail", "definition": "Activité professionnelle ou tâche.", "pronunciation": "travail" },
+      { "id": "poemes", "word": "Poèmes", "definition": "Textes écrits avec des émotions et du rythme.", "pronunciation": "poèmes" },
+      { "id": "lire", "word": "Lire", "definition": "Comprendre des mots écrits.", "pronunciation": "lire" },
+      { "id": "ecrire", "word": "Écrire", "definition": "Mettre des mots sur papier.", "pronunciation": "écrire" },
+      { "id": "dirigeants", "word": "Dirigeants", "definition": "Personnes qui guident les autres.", "pronunciation": "dirigeants" },
+      { "id": "famille", "word": "Famille", "definition": "Parents, enfants et proches.", "pronunciation": "famille" },
+      { "id": "avenir", "word": "Avenir", "definition": "Le temps à venir.", "pronunciation": "avenir" },
+      { "id": "personne", "word": "Personne", "definition": "Être humain.", "pronunciation": "personne" }
     ],
-
     "ko": [
-      {"id":"saram","word":"사람","definition":"인간.","pronunciation":"사람"},
-      {"id":"il","word":"일","definition":"노동이나 직업.","pronunciation":"일"},
-      {"id":"baeum","word":"배움","definition":"지식을 얻는 것.","pronunciation":"배움"},
-      {"id":"ilkgi","word":"읽기","definition":"글을 읽는 것.","pronunciation":"읽기"},
-      {"id":"sseugi","word":"쓰기","definition":"글을 적는 것.","pronunciation":"쓰기"},
-      {"id":"gajok","word":"가족","definition":"함께 사는 친척들.","pronunciation":"가족"},
-      {"id":"jidoja","word":"지도자","definition":"사람들을 이끄는 사람.","pronunciation":"지도자"},
-      {"id":"yonggi","word":"용기","definition":"두려움을 이기는 마음.","pronunciation":"용기"},
-      {"id":"saenggak","word":"생각","definition":"마음속의 생각.","pronunciation":"생각"},
-      {"id":"yusan","word":"유산","definition":"후대에 남기는 것.","pronunciation":"유산"}
+      { "id": "life-ko", "word": "삶", "definition": "사람이 살아가는 과정.", "pronunciation": "삶" },
+      { "id": "field-ko", "word": "들판", "definition": "농작물을 기르는 넓은 땅.", "pronunciation": "들판" },
+      { "id": "job-ko", "word": "일", "definition": "사람이 하는 노동이나 직업.", "pronunciation": "일" },
+      { "id": "poem-ko", "word": "시", "definition": "감정과 생각을 담은 글.", "pronunciation": "시" },
+      { "id": "read-ko", "word": "읽기", "definition": "글의 뜻을 이해하는 것.", "pronunciation": "읽기" },
+      { "id": "write-ko", "word": "쓰기", "definition": "글을 적는 것.", "pronunciation": "쓰기" },
+      { "id": "leader-ko", "word": "지도자", "definition": "사람들을 이끄는 사람.", "pronunciation": "지도자" },
+      { "id": "family-ko", "word": "가족", "definition": "부모, 자녀 등 가까운 사람들.", "pronunciation": "가족" },
+      { "id": "future-ko", "word": "미래", "definition": "앞으로 다가올 시간.", "pronunciation": "미래" },
+      { "id": "person-ko", "word": "사람", "definition": "인간.", "pronunciation": "사람" }
     ]
   },
   "listening_tracks": {
