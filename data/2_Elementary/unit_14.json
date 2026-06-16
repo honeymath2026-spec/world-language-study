@@ -6,198 +6,174 @@
     "ko": "~해 본 적 있니?"
   },
   "topic": {
-    "en": "Present Perfect with ever, never, yet, just; travel experiences; airport",
-    "ja": "現在完了形（ever, never, yet, just付き）；旅行体験；空港",
-    "fr": "Present Perfect avec ever, never, yet, just ; expériences de voyage ; aéroport",
-    "ko": "현재완료(ever, never, yet, just); 여행 경험; 공항"
+    "en": "Life Experiences and Healthy Long Lives",
+    "ja": "人生経験と健康で長い人生",
+    "fr": "Expériences de vie et longue vie en bonne santé",
+    "ko": "인생 경험과 건강한 장수"
   },
   "core_title": {
-    "en": "Present Perfect Experiences",
-    "ja": "現在完了形での経験表現",
-    "fr": "Expériences au Present Perfect",
-    "ko": "현재완료 경험 표현"
+    "en": "A Life Full of Experiences",
+    "ja": "経験に満ちた人生",
+    "fr": "Une vie pleine d'expériences",
+    "ko": "경험이 가득한 삶"
   },
   "core_reading_html": {
-    "en": "<p style='margin-top:0;'><strong>Present Perfect + ever, never</strong></p><p>I've been to Germany. (I've = I have)<br>I haven't been to France.<br>I've never been to Australia.</p><p><strong>Conversation:</strong><br>A: Have you ever been to Paris?<br>B: No, I haven't.<br>A: Have you ever been to Berlin?<br>B: Yes, I have.<br>A: When did you go?<br>B: Two years ago.</p><p><strong>Talking about a partner:</strong><br>Maria's been to Berlin. (Maria's = Maria has)<br>She went there two years ago.<br>But she hasn't been to Paris. / She's never been to Paris.</p><p><strong>Present Perfect + yet and just (A honeymoon in London)</strong></p><p>Things to do in London:<br>- go to Buckingham Palace<br>- see the Houses of Parliament<br>- have a boat ride on the River Thames<br>- go on the London Eye<br>- walk in Hyde Park<br>- go shopping in Harrods<br>- see the Crown Jewels in the Tower of London<br>- travel on a double-decker bus<br>- go to the theatre</p><p>They've travelled on a double-decker bus.<br>They haven't seen the Crown Jewels yet.<br>We've just had a boat ride on the Thames.</p>",
-    "ja": "<p style='margin-top:0;'><strong>現在完了形 + ever, never</strong></p><p>私はドイツに行ったことがあります。（I've = I have）<br>私はフランスに行ったことがありません。<br>私はオーストラリアに行ったことが一度もありません。</p><p><strong>会話:</strong><br>A: パリに行ったことがありますか？<br>B: いいえ、ありません。<br>A: ベルリンに行ったことがありますか？<br>B: はい、あります。<br>A: いつ行きましたか？<br>B: 2年前です。</p><p><strong>パートナーについて話す:</strong><br>マリアはベルリンに行ったことがあります。（Maria's = Maria has）<br>彼女は2年前にそこへ行きました。<br>しかし、彼女はパリに行ったことがありません。/ 彼女はパリに行ったことが一度もありません。</p><p><strong>現在完了形 + yet と just（ロンドンのハネムーン）</strong></p><p>ロンドンでのやりたいことリスト:<br>- バッキンガム宮殿に行く<br>- 国会議事堂を見る<br>- テムズ川でボートに乗る<br>- ロンドン・アイに乗る<br>- ハイドパークを散歩する<br>- ハロッズで買い物をする<br>- ロンドン塔で王冠の宝石を見る<br>- 2階建てバスに乗る<br>- 劇場に行く</p><p>彼らは2階建てバスに乗ったことがあります。<br>彼らはまだ王冠の宝石を見ていません。<br>私たちはちょうどテムズ川でボートに乗ったところです。</p>",
-    "fr": "<p style='margin-top:0;'><strong>Present Perfect + ever, never</strong></p><p>Je suis allé en Allemagne. (I've = I have)<br>Je ne suis pas allé en France.<br>Je ne suis jamais allé en Australie.</p><p><strong>Conversation :</strong><br>A: Es-tu déjà allé à Paris ?<br>B: Non, je n'y suis pas allé.<br>A: Es-tu déjà allé à Berlin ?<br>B: Oui, j'y suis allé.<br>A: Quand y es-tu allé ?<br>B: Il y a deux ans.</p><p><strong>Parler d'un partenaire :</strong><br>Maria est allée à Berlin. (Maria's = Maria has)<br>Elle y est allée il y a deux ans.<br>Mais elle n'est pas allée à Paris. / Elle n'est jamais allée à Paris.</p><p><strong>Present Perfect + yet et just (Une lune de miel à Londres)</strong></p><p>Choses à faire à Londres :<br>- aller à Buckingham Palace<br>- voir le Parlement<br>- faire une promenade en bateau sur la Tamise<br>- monter sur le London Eye<br>- se promener dans Hyde Park<br>- faire du shopping chez Harrods<br>- voir les Joyaux de la Couronne à la Tour de Londres<br>- voyager dans un bus à impériale<br>- aller au théâtre</p><p>Ils ont voyagé dans un bus à impériale.<br>Ils n'ont pas encore vu les Joyaux de la Couronne.<br>Nous venons de faire une promenade en bateau sur la Tamise.</p>",
-    "ko": "<p style='margin-top:0;'><strong>현재완료 + ever, never</strong></p><p>저는 독일에 가본 적이 있어요. (I've = I have)<br>저는 프랑스에 가본 적이 없어요.<br>저는 호주에 가본 적이 한 번도 없어요.</p><p><strong>대화:</strong><br>A: 파리에 가본 적 있니?<br>B: 아니, 없어.<br>A: 베를린에 가본 적 있니?<br>B: 응, 있어.<br>A: 언제 갔니?<br>B: 2년 전에.</p><p><strong>파트너에 대해 말하기:</strong><br>Maria는 베를린에 가본 적이 있어요. (Maria's = Maria has)<br>그녀는 2년 전에 거기에 갔어요.<br>하지만 그녀는 파리에 가본 적이 없어요. / 그녀는 파리에 가본 적이 한 번도 없어요.</p><p><strong>현재완료 + yet, just (런던 신혼여행)</strong></p><p>런던에서 할 일:<br>- 버킹엄 궁전 가기<br>- 국회의사당 구경하기<br>- 템스 강에서 보트 타기<br>- 런던 아이 타기<br>- 하이드 파크 산책하기<br>- 해러즈에서 쇼핑하기<br>- 런던 타워에서 왕관 보석 구경하기<br>- 2층 버스 타기<br>- 극장 가기</p><p>그들은 2층 버스를 타봤어요.<br>그들은 아직 왕관 보석을 보지 못했어요.<br>우리는 방금 템스 강에서 보트를 탔어요.</p>"
+    "en": "<p>Many people have different life experiences. Ryan has lived in <strong><span class='vocab-link' id='text-japan' onclick='speakAndScroll(\"japan\", \"vocab-japan\")'>Japan</span></strong> and worked for a big company. Marilyn has visited famous places in London and traveled on a boat. Some people have never stayed in an expensive hotel, but they have enjoyed their trips. A <strong><span class='vocab-link' id='text-flight' onclick='speakAndScroll(\"flight\", \"vocab-flight\")'>flight</span></strong> can take people to new places. Long life is also interesting. <strong><span class='vocab-link' id='text-fruit' onclick='speakAndScroll(\"fruit\", \"vocab-fruit\")'>Fruit</span></strong>, exercise, and family are important for many older people. Every <strong><span class='vocab-link' id='text-person' onclick='speakAndScroll(\"person\", \"vocab-person\")'>person</span></strong> has a different <strong><span class='vocab-link' id='text-story' onclick='speakAndScroll(\"story\", \"vocab-story\")'>story</span></strong>. New <strong><span class='vocab-link' id='text-experience' onclick='speakAndScroll(\"experience\", \"vocab-experience\")'>experiences</span></strong> help us learn and grow.</p>",
+    "ja": "<p>多くの人はさまざまな人生経験を持っています。ライアンは<strong><span class='vocab-link' id='text-japan' onclick='speakAndScroll(\"japan\", \"vocab-japan\")'>日本</span></strong>に住み、大きな会社で働いたことがあります。マリリンはロンドンの有名な場所を訪れ、船に乗りました。高級ホテルに泊まったことがない人もいますが、旅行を楽しんでいます。<strong><span class='vocab-link' id='text-flight' onclick='speakAndScroll(\"flight\", \"vocab-flight\")'>飛行機の旅</span></strong>は人々を新しい場所へ連れて行きます。長生きも興味深いことです。<strong><span class='vocab-link' id='text-fruit' onclick='speakAndScroll(\"fruit\", \"vocab-fruit\")'>果物</span></strong>や運動、家族は多くの高齢者にとって大切です。どの<strong><span class='vocab-link' id='text-person' onclick='speakAndScroll(\"person\", \"vocab-person\")'>人</span></strong>にも異なる<strong><span class='vocab-link' id='text-story' onclick='speakAndScroll(\"story\", \"vocab-story\")'>物語</span></strong>があります。新しい<strong><span class='vocab-link' id='text-experience' onclick='speakAndScroll(\"experience\", \"vocab-experience\")'>経験</span></strong>は私たちを成長させてくれます。</p>",
+    "fr": "<p>Beaucoup de personnes ont des expériences de vie différentes. Ryan a vécu au <strong><span class='vocab-link' id='text-japan' onclick='speakAndScroll(\"japan\", \"vocab-japan\")'>Japon</span></strong> et a travaillé pour une grande entreprise. Marilyn a visité des lieux célèbres à Londres et a voyagé en bateau. Certaines personnes ne sont jamais restées dans un hôtel cher, mais elles ont apprécié leurs voyages. Un <strong><span class='vocab-link' id='text-flight' onclick='speakAndScroll(\"flight\", \"vocab-flight\")'>vol</span></strong> peut emmener les gens vers de nouveaux endroits. Une longue vie est aussi intéressante. Les <strong><span class='vocab-link' id='text-fruit' onclick='speakAndScroll(\"fruit\", \"vocab-fruit\")'>fruits</span></strong>, l'exercice et la famille sont importants pour beaucoup de personnes âgées. Chaque <strong><span class='vocab-link' id='text-person' onclick='speakAndScroll(\"person\", \"vocab-person\")'>personne</span></strong> a une <strong><span class='vocab-link' id='text-story' onclick='speakAndScroll(\"story\", \"vocab-story\")'>histoire</span></strong> différente. Les nouvelles <strong><span class='vocab-link' id='text-experience' onclick='speakAndScroll(\"experience\", \"vocab-experience\")'>expériences</span></strong> nous aident à apprendre et à grandir.</p>",
+    "ko": "<p>많은 사람들은 서로 다른 인생 경험을 가지고 있습니다. 라이언은 <strong><span class='vocab-link' id='text-japan' onclick='speakAndScroll(\"japan\", \"vocab-japan\")'>일본</span></strong>에 살아 본 적이 있고 큰 회사에서 일한 적도 있습니다. 마릴린은 런던의 유명한 장소를 방문했고 보트를 탔습니다. 어떤 사람들은 비싼 호텔에 묵어 본 적이 없지만 여행을 즐겼습니다. <strong><span class='vocab-link' id='text-flight' onclick='speakAndScroll(\"flight\", \"vocab-flight\")'>비행</span></strong>은 사람들을 새로운 장소로 데려다줍니다. 장수도 흥미로운 이야기입니다. <strong><span class='vocab-link' id='text-fruit' onclick='speakAndScroll(\"fruit\", \"vocab-fruit\")'>과일</span></strong>, 운동, 그리고 가족은 많은 노인들에게 중요합니다. 모든 <strong><span class='vocab-link' id='text-person' onclick='speakAndScroll(\"person\", \"vocab-person\")'>사람</span></strong>은 각자의 <strong><span class='vocab-link' id='text-story' onclick='speakAndScroll(\"story\", \"vocab-story\")'>이야기</span></strong>를 가지고 있습니다. 새로운 <strong><span class='vocab-link' id='text-experience' onclick='speakAndScroll(\"experience\", \"vocab-experience\")'>경험</span></strong>은 우리를 배우고 성장하게 합니다.</p>"
   },
   "vocabulary": {
     "en": [
       {
-        "id": "ever",
-        "word": "Ever",
-        "definition": "At any time in the past (used in questions with present perfect).",
-        "pronunciation": "/ˈev.ər/"
+        "id": "japan",
+        "word": "Japan",
+        "definition": "A country in East Asia.",
+        "pronunciation": "Japan"
       },
       {
-        "id": "never",
-        "word": "Never",
-        "definition": "Not at any time in the past.",
-        "pronunciation": "/ˈnev.ər/"
+        "id": "flight",
+        "word": "Flight",
+        "definition": "A trip on an airplane.",
+        "pronunciation": "Flight"
       },
       {
-        "id": "yet",
-        "word": "Yet",
-        "definition": "Up until now (used in negatives and questions with present perfect).",
-        "pronunciation": "/jet/"
+        "id": "fruit",
+        "word": "Fruit",
+        "definition": "Sweet food that grows on plants or trees.",
+        "pronunciation": "Fruit"
       },
       {
-        "id": "just",
-        "word": "Just",
-        "definition": "A very short time ago.",
-        "pronunciation": "/dʒʌst/"
+        "id": "person",
+        "word": "Person",
+        "definition": "A human being.",
+        "pronunciation": "Person"
       },
       {
-        "id": "been",
-        "word": "Been",
-        "definition": "Past participle of 'be' – used for visiting or going to a place.",
-        "pronunciation": "/biːn/"
+        "id": "story",
+        "word": "Story",
+        "definition": "A description of events or experiences.",
+        "pronunciation": "Story"
       },
       {
-        "id": "gone",
-        "word": "Gone",
-        "definition": "Past participle of 'go' – meaning you went somewhere and have not returned.",
-        "pronunciation": "/ɡɒn/"
-      },
-      {
-        "id": "past_participle",
-        "word": "Past participle",
-        "definition": "The third form of a verb (e.g., eaten, made, seen).",
-        "pronunciation": "/pɑːst pɑːˈtɪs.ɪ.pəl/"
+        "id": "experience",
+        "word": "Experience",
+        "definition": "Something that happens to you in life.",
+        "pronunciation": "Experience"
       }
     ],
     "ja": [
       {
-        "id": "ever",
-        "word": "かつて",
-        "definition": "過去のいつかの時点で（現在完了形の疑問文で使用）",
-        "pronunciation": "エヴァー"
+        "id": "japan",
+        "word": "日本",
+        "definition": "東アジアにある国。",
+        "pronunciation": "にほん"
       },
       {
-        "id": "never",
-        "word": "一度も～ない",
-        "definition": "過去のいつの時点でもない",
-        "pronunciation": "ネヴァー"
+        "id": "flight",
+        "word": "飛行機の旅",
+        "definition": "飛行機に乗る旅行。",
+        "pronunciation": "ひこうきのたび"
       },
       {
-        "id": "yet",
-        "word": "まだ",
-        "definition": "今までのところ（現在完了形の否定文と疑問文で使用）",
-        "pronunciation": "イェット"
+        "id": "fruit",
+        "word": "果物",
+        "definition": "木や植物になる甘い食べ物。",
+        "pronunciation": "くだもの"
       },
       {
-        "id": "just",
-        "word": "ちょうど～したところ",
-        "definition": "非常に短い時間前に",
-        "pronunciation": "ジャスト"
+        "id": "person",
+        "word": "人",
+        "definition": "人間。",
+        "pronunciation": "ひと"
       },
       {
-        "id": "been",
-        "word": "行ったことがある",
-        "definition": "'be'の過去分詞 – 場所を訪れたことを表す",
-        "pronunciation": "ビーン"
+        "id": "story",
+        "word": "物語",
+        "definition": "出来事や経験についての話。",
+        "pronunciation": "ものがたり"
       },
       {
-        "id": "gone",
-        "word": "行ってしまった",
-        "definition": "'go'の過去分詞 – どこかに行ってまだ戻っていない",
-        "pronunciation": "ゴーン"
-      },
-      {
-        "id": "past_participle",
-        "word": "過去分詞",
-        "definition": "動詞の第三形（例：食べた、作った、見た）",
-        "pronunciation": "カコブンシ"
+        "id": "experience",
+        "word": "経験",
+        "definition": "人生で体験したこと。",
+        "pronunciation": "けいけん"
       }
     ],
     "fr": [
       {
-        "id": "ever",
-        "word": "Déjà",
-        "definition": "À un moment quelconque dans le passé (utilisé dans les questions au present perfect).",
-        "pronunciation": "/ˈev.ər/"
+        "id": "japan",
+        "word": "Japon",
+        "definition": "Un pays d'Asie de l'Est.",
+        "pronunciation": "Japon"
       },
       {
-        "id": "never",
-        "word": "Jamais",
-        "definition": "À aucun moment dans le passé.",
-        "pronunciation": "/ˈnev.ər/"
+        "id": "flight",
+        "word": "Vol",
+        "definition": "Un voyage en avion.",
+        "pronunciation": "Vol"
       },
       {
-        "id": "yet",
-        "word": "Encore",
-        "definition": "Jusqu'à présent (utilisé dans les négations et questions au present perfect).",
-        "pronunciation": "/jet/"
+        "id": "fruit",
+        "word": "Fruit",
+        "definition": "Un aliment sucré qui pousse sur une plante ou un arbre.",
+        "pronunciation": "Fruit"
       },
       {
-        "id": "just",
-        "word": "Venir de",
-        "definition": "Il y a très peu de temps.",
-        "pronunciation": "/dʒʌst/"
+        "id": "person",
+        "word": "Personne",
+        "definition": "Un être humain.",
+        "pronunciation": "Personne"
       },
       {
-        "id": "been",
-        "word": "Allé / été",
-        "definition": "Participe passé de 'be' – utilisé pour visiter ou aller quelque part.",
-        "pronunciation": "/biːn/"
+        "id": "story",
+        "word": "Histoire",
+        "definition": "Le récit d'événements ou d'expériences.",
+        "pronunciation": "Histoire"
       },
       {
-        "id": "gone",
-        "word": "Allé (sans retour)",
-        "definition": "Participe passé de 'go' – signifie que vous êtes allé quelque part et n'êtes pas revenu.",
-        "pronunciation": "/ɡɒn/"
-      },
-      {
-        "id": "past_participle",
-        "word": "Participe passé",
-        "definition": "La troisième forme d'un verbe (ex. mangé, fait, vu).",
-        "pronunciation": "/pɑːst pɑːˈtɪs.ɪ.pəl/"
+        "id": "experience",
+        "word": "Expérience",
+        "definition": "Quelque chose que l'on vit dans sa vie.",
+        "pronunciation": "Expérience"
       }
     ],
     "ko": [
       {
-        "id": "ever",
-        "word": "~해본 적",
-        "definition": "과거의 어떤 때라도 (현재완료 의문문에서 사용)",
-        "pronunciation": "에버"
+        "id": "japan",
+        "word": "일본",
+        "definition": "동아시아에 있는 나라.",
+        "pronunciation": "일본"
       },
       {
-        "id": "never",
-        "word": "한 번도 ~없는",
-        "definition": "과거의 어느 때도 아닌",
-        "pronunciation": "네버"
+        "id": "flight",
+        "word": "비행",
+        "definition": "비행기를 타고 하는 여행.",
+        "pronunciation": "비행"
       },
       {
-        "id": "yet",
-        "word": "아직",
-        "definition": "지금까지는 (현재완료 부정문과 의문문에서 사용)",
-        "pronunciation": "예트"
+        "id": "fruit",
+        "word": "과일",
+        "definition": "나무나 식물에서 나는 달콤한 먹거리.",
+        "pronunciation": "과일"
       },
       {
-        "id": "just",
-        "word": "방금",
-        "definition": "아주 짧은 시간 전에",
-        "pronunciation": "저스트"
+        "id": "person",
+        "word": "사람",
+        "definition": "인간.",
+        "pronunciation": "사람"
       },
       {
-        "id": "been",
-        "word": "가본 적 있는",
-        "definition": "'be'의 과거분사 – 장소를 방문하거나 간 것을 나타냄",
-        "pronunciation": "빈"
+        "id": "story",
+        "word": "이야기",
+        "definition": "사건이나 경험에 대한 말이나 글.",
+        "pronunciation": "이야기"
       },
       {
-        "id": "gone",
-        "word": "가버린",
-        "definition": "'go'의 과거분사 – 어딘가에 갔고 아직 돌아오지 않았음을 의미",
-        "pronunciation": "곤"
-      },
-      {
-        "id": "past_participle",
-        "word": "과거분사",
-        "definition": "동사의 세 번째 형태 (예: 먹은, 만든, 본)",
-        "pronunciation": "과거분사"
+        "id": "experience",
+        "word": "경험",
+        "definition": "삶에서 직접 겪은 일.",
+        "pronunciation": "경험"
       }
     ]
   },
