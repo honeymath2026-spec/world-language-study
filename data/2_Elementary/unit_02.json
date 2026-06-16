@@ -1,80 +1,76 @@
 {
-    "title": {
-    "en": "Meeting and Greeting",
-    "ja": "出会いと挨拶",
-    "fr": "Rencontres et salutations",
-    "ko": "만남과 인사"
+  "title": {
+    "en": "Meeting someone new",
+    "ja": "みなさん、こんにちは！",
+    "fr": "Bonjour tout le monde !",
+    "ko": "안녕하세요 여러분!"
   },
   "topic": {
-    "en": "Introductions · Personal information · Numbers · Everyday phrases",
-    "ja": "自己紹介 · 個人情報 · 数字 · 日常会話",
-    "fr": "Se présenter · Informations personnelles · Nombres · Expressions courantes",
-    "ko": "자기소개 · 개인정보 · 숫자 · 일상 표현"
+    "en": "Introducing Yourself and Everyday Conversations",
+    "ja": "自己紹介と日常会話",
+    "fr": "Se présenter et les conversations quotidiennes",
+    "ko": "자기소개와 일상 대화"
   },
   "core_title": {
-    "en": "A New Student in Cairo",
-    "ja": "カイロからの新しい留学生",
-    "fr": "Un nouvel étudiant au Caire",
-    "ko": "카이로에서 온 새로운 학생"
+    "en": "New Friends at the Café",
+    "ja": "カフェでできた新しい友だち",
+    "fr": "De nouveaux amis au café",
+    "ko": "카페에서 만난 새로운 친구들"
   },
   "core_reading_html": {
-    "en": "<p><strong><span class='vocab-link' id='text-hello' onclick='speakAndScroll(\"hello\", \"vocab-hello\")'>Hello</span></strong>, my <strong><span class='vocab-link' id='text-name' onclick='speakAndScroll(\"name\", \"vocab-name\")'>name</span></strong> is Yasmina Kamal. I am a <strong><span class='vocab-link' id='text-student' onclick='speakAndScroll(\"student\", \"vocab-student\")'>student</span></strong> from <strong><span class='vocab-link' id='text-egypt' onclick='speakAndScroll(\"egypt\", \"vocab-egypt\")'>Egypt</span></strong>. I <strong><span class='vocab-link' id='text-live' onclick='speakAndScroll(\"live\", \"vocab-live\")'>live</span></strong> in a small <strong><span class='vocab-link' id='text-flat' onclick='speakAndScroll(\"flat\", \"vocab-flat\")'>flat</span></strong> in the city of Cairo. I have a wonderful <strong><span class='vocab-link' id='text-family' onclick='speakAndScroll(\"family\", \"vocab-family\")'>family</span></strong> with two <strong><span class='vocab-link' id='text-brothers' onclick='speakAndScroll(\"brothers\", \"vocab-brothers\")'>brothers</span></strong> and one sister. Every morning, I study very hard. I want to learn English because it is a very important <strong><span class='vocab-link' id='text-international' onclick='speakAndScroll(\"international\", \"vocab-international\")'>international</span></strong> language for my future career. I enjoy meeting new people from different countries. <strong><span class='vocab-link' id='text-goodbye' onclick='speakAndScroll(\"goodbye\", \"vocab-goodbye\")'>Goodbye</span></strong> for now, and I hope you have a really nice <strong><span class='vocab-link' id='text-day' onclick='speakAndScroll(\"day\", \"vocab-day\")'>day</span></strong>!</p>",
-    "ja": "<p><strong><span class='vocab-link' id='text-hello' onclick='speakAndScroll(\"こんにちは\", \"vocab-hello\")'>こんにちは</span></strong>、私の<strong><span class='vocab-link' id='text-name' onclick='speakAndScroll(\"なまえ\", \"vocab-name\")'>名前</span></strong>はヤスミナ・カマルです。私は<strong><span class='vocab-link' id='text-egypt' onclick='speakAndScroll(\"えじぷと\", \"vocab-egypt\")'>エジプト</span></strong>から来た<strong><span class='vocab-link' id='text-student' onclick='speakAndScroll(\"がくせい\", \"vocab-student\")'>学生</span></strong>です。今、カイロの街にある小さな<strong><span class='vocab-link' id='text-flat' onclick='speakAndScroll(\"あぱーと\", \"vocab-flat\")'>アパート</span></strong>に<strong><span class='vocab-link' id='text-live' onclick='speakAndScroll(\"すんでいます\", \"vocab-live\")'>住んで</span></strong>います。私の素敵な<strong><span class='vocab-link' id='text-family' onclick='speakAndScroll(\"かぞく\", \"vocab-family\")'>家族</span></strong>には二人の<strong><span class='vocab-link' id='text-brothers' onclick='speakAndScroll(\"きょうだい\", \"vocab-brothers\")'>兄弟</span></strong>と一人の姉妹がいます。毎日一生懸命勉強しています。英語は将来の仕事のためにとても重要な<strong><span class='vocab-link' id='text-international' onclick='speakAndScroll(\"こくさい的\", \"vocab-international\")'>国際的</span></strong>な言語なので、学びたいと思っています。いろいろな国の人と出会うのが大好きです。それでは<strong><span class='vocab-link' id='text-goodbye' onclick='speakAndScroll(\"さようなら\", \"vocab-goodbye\")'>さようなら</span></strong>、あなたにとって素晴らしい<strong><span class='vocab-link' id='text-day' onclick='speakAndScroll(\"いちにち\", \"vocab-day\")'>一日</span></strong>になりますように！</p>",
-    "fr": "<p><strong><span class='vocab-link' id='text-hello' onclick='speakAndScroll(\"bonjour\", \"vocab-hello\")'>Bonjour</span></strong>, mon <strong><span class='vocab-link' id='text-name' onclick='speakAndScroll(\"nom\", \"vocab-name\")'>nom</span></strong> est Yasmina Kamal. Je suis une <strong><span class='vocab-link' id='text-student' onclick='speakAndScroll(\"étudiante\", \"vocab-student\")'>étudiante</span></strong> originaire d'<strong><span class='vocab-link' id='text-egypt' onclick='speakAndScroll(\"Égypte\", \"vocab-egypt\")'>Égypte</span></strong>. Je <strong><span class='vocab-link' id='text-live' onclick='speakAndScroll(\"vis\", \"vocab-live\")'>vis</span></strong> dans un petit <strong><span class='vocab-link' id='text-flat' onclick='speakAndScroll(\"appartement\", \"vocab-flat\")'>appartement</span></strong> situé dans la ville du Caire. Ma <strong><span class='vocab-link' id='text-family' onclick='speakAndScroll(\"famille\", \"vocab-family\")'>famille</span></strong> est formidable et je compte deux <strong><span class='vocab-link' id='text-brothers' onclick='speakAndScroll(\"frères\", \"vocab-brothers\")'>frères</span></strong> et une sœur. Je travaille beaucoup chaque jour. Je veux apprendre l'anglais car c'est une langue <strong><span class='vocab-link' id='text-international' onclick='speakAndScroll(\"internationale\", \"vocab-international\")'>internationale</span></strong> essentielle pour mon futur métier. J'adore rencontrer des gens de cultures différentes. <strong><span class='vocab-link' id='text-goodbye' onclick='speakAndScroll(\"au revoir\", \"vocab-goodbye\")'>Au revoir</span></strong> et passez une excellente <strong><span class='vocab-link' id='text-day' onclick='speakAndScroll(\"journée\", \"vocab-day\")'>journée</span></strong> !</p>",
-    "ko": "<p><strong><span class='vocab-link' id='text-hello' onclick='speakAndScroll(\"안녕하세요\", \"vocab-hello\")'>안녕하세요</span></strong>, 제 <strong><span class='vocab-link' id='text-name' onclick='speakAndScroll(\"이름\", \"vocab-name\")'>이름</span></strong>은 야스미나 카말입니다. 저는 <strong><span class='vocab-link' id='text-egypt' onclick='speakAndScroll(\"이집트\", \"vocab-egypt\")'>이집트</span></strong>에서 온 <strong><span class='vocab-link' id='text-student' onclick='speakAndScroll(\"학생\", \"vocab-student\")'>학생</span></strong>입니다. 저는 지금 카이로 시내의 작은 <strong><span class='vocab-link' id='text-flat' onclick='speakAndScroll(\"아파트\", \"vocab-flat\")'>아파트</span></strong>에 <strong><span class='vocab-link' id='text-live' onclick='speakAndScroll(\"삽니다\", \"vocab-live\")'>삽니다</span></strong>. 저희 <strong><span class='vocab-link' id='text-family' onclick='speakAndScroll(\"가족\", \"vocab-family\")'>가족</span></strong>은 부모님과 두 명의 <strong><span class='vocab-link' id='text-brothers' onclick='speakAndScroll(\"남자형제\", \"vocab-brothers\")'>남자형제</span></strong>, 그리고 자매 한 명으로 구성되어 있습니다. 저는 매일 열심히 공부합니다. 영어는 제 미래의 직업을 위해 매우 중요한 <strong><span class='vocab-link' id='text-international' onclick='speakAndScroll(\"국제적인\", \"vocab-international\")'>국제적인</span></strong> 언어이기 때문에 배우고 싶습니다. 다양한 나라의 사람들을 만나는 것을 즐깁니다. 그럼 <strong><span class='vocab-link' id='text-goodbye' onclick='speakAndScroll(\"안녕히계세요\", \"vocab-goodbye\")'>안녕히계세요</span></strong>, 정말 좋은 <strong><span class='vocab-link' id='text-day' onclick='speakAndScroll(\"하루\", \"vocab-day\")'>하루</span></strong> 보내시길 바랍니다!</p>"
+    "en": "<p><strong><span class='vocab-link' id='text-hello' onclick='speakAndScroll(\"hello\", \"vocab-hello\")'>Hello</span></strong>! My name is Emma. I am a <strong><span class='vocab-link' id='text-student' onclick='speakAndScroll(\"student\", \"vocab-student\")'>student</span></strong> from Egypt. I live in a small <strong><span class='vocab-link' id='text-flat' onclick='speakAndScroll(\"flat\", \"vocab-flat\")'>flat</span></strong> with my family. Today I meet a new <strong><span class='vocab-link' id='text-friend' onclick='speakAndScroll(\"friend\", \"vocab-friend\")'>friend</span></strong> at a <strong><span class='vocab-link' id='text-cafe' onclick='speakAndScroll(\"cafe\", \"vocab-cafe\")'>café</span></strong>. We talk about our <strong><span class='vocab-link' id='text-name' onclick='speakAndScroll(\"name\", \"vocab-name\")'>names</span></strong>, families, and cities. We order <strong><span class='vocab-link' id='text-food' onclick='speakAndScroll(\"food\", \"vocab-food\")'>food</span></strong> and a cold <strong><span class='vocab-link' id='text-drink' onclick='speakAndScroll(\"drink\", \"vocab-drink\")'>drink</span></strong>. The <strong><span class='vocab-link' id='text-server' onclick='speakAndScroll(\"server\", \"vocab-server\")'>server</span></strong> is very kind. Before we leave, we check a <strong><span class='vocab-link' id='text-phone' onclick='speakAndScroll(\"phone\", \"vocab-phone\")'>phone</span></strong> number and say, 'Goodbye! See you soon!'</p>",
+    "ja": "<p><strong><span class='vocab-link' id='text-konnichiwa' onclick='speakAndScroll(\"konnichiwa\", \"vocab-konnichiwa\")'>こんにちは</span></strong>。私はエマです。私はエジプトから来た<strong><span class='vocab-link' id='text-gakusei' onclick='speakAndScroll(\"gakusei\", \"vocab-gakusei\")'>学生</span></strong>です。家族と小さな<strong><span class='vocab-link' id='text-apato' onclick='speakAndScroll(\"apato\", \"vocab-apato\")'>アパート</span></strong>に住んでいます。今日はカフェで新しい<strong><span class='vocab-link' id='text-tomodachi' onclick='speakAndScroll(\"tomodachi\", \"vocab-tomodachi\")'>友だち</span></strong>に会いました。私たちは<strong><span class='vocab-link' id='text-kafe' onclick='speakAndScroll(\"kafe\", \"vocab-kafe\")'>カフェ</span></strong>で名前や家族、町について話しました。そして<strong><span class='vocab-link' id='text-namae' onclick='speakAndScroll(\"namae\", \"vocab-namae\")'>名前</span></strong>を紹介し、<strong><span class='vocab-link' id='text-tabemono' onclick='speakAndScroll(\"tabemono\", \"vocab-tabemono\")'>食べ物</span></strong>と冷たい<strong><span class='vocab-link' id='text-nomimono' onclick='speakAndScroll(\"nomimono\", \"vocab-nomimono\")'>飲み物</span></strong>を注文しました。<strong><span class='vocab-link' id='text-tenin' onclick='speakAndScroll(\"tenin\", \"vocab-tenin\")'>店員</span></strong>さんはとても親切でした。帰る前に<strong><span class='vocab-link' id='text-denwa' onclick='speakAndScroll(\"denwa\", \"vocab-denwa\")'>電話</span></strong>番号を確認して、「またね！」と言いました。</p>",
+    "fr": "<p><strong><span class='vocab-link' id='text-bonjour' onclick='speakAndScroll(\"bonjour\", \"vocab-bonjour\")'>Bonjour</span></strong> ! Je m'appelle Emma. Je suis une <strong><span class='vocab-link' id='text-etudiante' onclick='speakAndScroll(\"etudiante\", \"vocab-etudiante\")'>étudiante</span></strong> d'Égypte. J'habite dans un petit <strong><span class='vocab-link' id='text-appartement' onclick='speakAndScroll(\"appartement\", \"vocab-appartement\")'>appartement</span></strong> avec ma famille. Aujourd'hui, je rencontre une nouvelle <strong><span class='vocab-link' id='text-amie' onclick='speakAndScroll(\"amie\", \"vocab-amie\")'>amie</span></strong> dans un <strong><span class='vocab-link' id='text-cafe' onclick='speakAndScroll(\"cafe\", \"vocab-cafe\")'>café</span></strong>. Nous parlons de nos <strong><span class='vocab-link' id='text-nom' onclick='speakAndScroll(\"nom\", \"vocab-nom\")'>noms</span></strong>, de nos familles et de nos villes. Nous commandons de la <strong><span class='vocab-link' id='text-nourriture' onclick='speakAndScroll(\"nourriture\", \"vocab-nourriture\")'>nourriture</span></strong> et une <strong><span class='vocab-link' id='text-boisson' onclick='speakAndScroll(\"boisson\", \"vocab-boisson\")'>boisson</span></strong> froide. Le <strong><span class='vocab-link' id='text-serveur' onclick='speakAndScroll(\"serveur\", \"vocab-serveur\")'>serveur</span></strong> est très gentil. Avant de partir, nous vérifions un numéro de <strong><span class='vocab-link' id='text-telephone' onclick='speakAndScroll(\"telephone\", \"vocab-telephone\")'>téléphone</span></strong> et nous disons : « Au revoir ! À bientôt ! »</p>",
+    "ko": "<p><strong><span class='vocab-link' id='text-annyeonghaseyo' onclick='speakAndScroll(\"annyeonghaseyo\", \"vocab-annyeonghaseyo\")'>안녕하세요</span></strong>! 제 이름은 엠마입니다. 저는 이집트에서 온 <strong><span class='vocab-link' id='text-haksaeng' onclick='speakAndScroll(\"haksaeng\", \"vocab-haksaeng\")'>학생</span></strong>입니다. 가족과 작은 <strong><span class='vocab-link' id='text-apateu' onclick='speakAndScroll(\"apateu\", \"vocab-apateu\")'>아파트</span></strong>에 살고 있습니다. 오늘 저는 카페에서 새로운 <strong><span class='vocab-link' id='text-chingu' onclick='speakAndScroll(\"chingu\", \"vocab-chingu\")'>친구</span></strong>를 만났습니다. 우리는 <strong><span class='vocab-link' id='text-kape' onclick='speakAndScroll(\"kape\", \"vocab-kape\")'>카페</span></strong>에서 이름과 가족, 사는 도시에 대해 이야기했습니다. 그리고 <strong><span class='vocab-link' id='text-ireum' onclick='speakAndScroll(\"ireum\", \"vocab-ireum\")'>이름</span></strong>을 소개하고 <strong><span class='vocab-link' id='text-eumsik' onclick='speakAndScroll(\"eumsik\", \"vocab-eumsik\")'>음식</span></strong>과 차가운 <strong><span class='vocab-link' id='text-eumryo' onclick='speakAndScroll(\"eumryo\", \"vocab-eumryo\")'>음료</span></strong>를 주문했습니다. <strong><span class='vocab-link' id='text-jigwon' onclick='speakAndScroll(\"jigwon\", \"vocab-jigwon\")'>직원</span></strong>은 매우 친절했습니다. 집에 가기 전에 <strong><span class='vocab-link' id='text-jeonhwa' onclick='speakAndScroll(\"jeonhwa\", \"vocab-jeonhwa\")'>전화</span></strong>번호를 확인하고 “안녕! 또 만나!”라고 말했습니다.</p>"
   },
   "vocabulary": {
     "en": [
-      { "id": "hello", "word": "Hello", "definition": "A greeting said when meeting someone.", "pronunciation": "Hello" },
-      { "id": "name", "word": "Name", "definition": "The word used to identify a person.", "pronunciation": "Name" },
-      { "id": "student", "word": "Student", "definition": "A person who is studying at a school or college.", "pronunciation": "Student" },
-      { "id": "egypt", "word": "Egypt", "definition": "A country in North Africa.", "pronunciation": "Egypt" },
-      { "id": "live", "word": "Live", "definition": "To have one's home in a particular place.", "pronunciation": "Live" },
-      { "id": "flat", "word": "Flat", "definition": "A set of rooms for living in.", "pronunciation": "Flat" },
-      { "id": "family", "word": "Family", "definition": "A group of parents and children.", "pronunciation": "Family" },
-      { "id": "brothers", "word": "Brothers", "definition": "Male children of the same parents.", "pronunciation": "Brothers" },
-      { "id": "international", "word": "International", "definition": "Involving two or more countries.", "pronunciation": "International" },
-      { "id": "goodbye", "word": "Goodbye", "definition": "What you say when you leave.", "pronunciation": "Goodbye" },
-      { "id": "day", "word": "Day", "definition": "A period of 24 hours.", "pronunciation": "Day" }
+      { "id": "hello", "word": "Hello", "definition": "A greeting when meeting someone.", "pronunciation": "Hello" },
+      { "id": "student", "word": "student", "definition": "A person who learns at school.", "pronunciation": "student" },
+      { "id": "flat", "word": "flat", "definition": "An apartment to live in.", "pronunciation": "flat" },
+      { "id": "friend", "word": "friend", "definition": "A person you like and know well.", "pronunciation": "friend" },
+      { "id": "cafe", "word": "café", "definition": "A place to buy food and drinks.", "pronunciation": "café" },
+      { "id": "name", "word": "name", "definition": "The word people use to call someone.", "pronunciation": "name" },
+      { "id": "food", "word": "food", "definition": "Things people eat.", "pronunciation": "food" },
+      { "id": "drink", "word": "drink", "definition": "Something you can drink.", "pronunciation": "drink" },
+      { "id": "server", "word": "server", "definition": "A person who brings food in a café.", "pronunciation": "server" },
+      { "id": "phone", "word": "phone", "definition": "A device used to call people.", "pronunciation": "phone" }
     ],
     "ja": [
-      { "id": "hello", "word": "こんにちは", "definition": "人に会った時の挨拶。", "pronunciation": "こんにちは" },
-      { "id": "name", "word": "名前", "definition": "人を特定するための言葉。", "pronunciation": "なまえ" },
-      { "id": "egypt", "word": "エジプト", "definition": "北アフリカにある国。", "pronunciation": "えじぷと" },
-      { "id": "student", "word": "学生", "definition": "学校などで学んでいる人。", "pronunciation": "がくせい" },
-      { "id": "flat", "word": "アパート", "definition": "建物の中にある居住用の部屋。", "pronunciation": "あぱーと" },
-      { "id": "live", "word": "住んでいる", "definition": "特定の場所に住居を持つこと。", "pronunciation": "すんでいる" },
-      { "id": "family", "word": "家族", "definition": "親と子供のグループ。", "pronunciation": "かぞく" },
-      { "id": "brothers", "word": "兄弟", "definition": "同じ親を持つ男性の子供。", "pronunciation": "きょうだい" },
-      { "id": "international", "word": "国際的", "definition": "2つ以上の国に関わること。", "pronunciation": "こくさいてき" },
-      { "id": "goodbye", "word": "さようなら", "definition": "別れる時に言う言葉。", "pronunciation": "さようなら" },
-      { "id": "day", "word": "一日", "definition": "24時間の期間。", "pronunciation": "いちにち" }
+      { "id": "konnichiwa", "word": "こんにちは", "definition": "人に会ったときのあいさつ。", "pronunciation": "こんにちは" },
+      { "id": "gakusei", "word": "学生", "definition": "学校で勉強する人。", "pronunciation": "がくせい" },
+      { "id": "apato", "word": "アパート", "definition": "人が住む建物。", "pronunciation": "あぱーと" },
+      { "id": "tomodachi", "word": "友だち", "definition": "仲の良い人。", "pronunciation": "ともだち" },
+      { "id": "kafe", "word": "カフェ", "definition": "飲み物や食べ物を楽しむ場所。", "pronunciation": "かふぇ" },
+      { "id": "namae", "word": "名前", "definition": "人を呼ぶ言葉。", "pronunciation": "なまえ" },
+      { "id": "tabemono", "word": "食べ物", "definition": "食べるもの。", "pronunciation": "たべもの" },
+      { "id": "nomimono", "word": "飲み物", "definition": "飲むもの。", "pronunciation": "のみもの" },
+      { "id": "tenin", "word": "店員", "definition": "お店で働く人。", "pronunciation": "てんいん" },
+      { "id": "denwa", "word": "電話", "definition": "人と話すための機械。", "pronunciation": "でんわ" }
     ],
     "fr": [
-      { "id": "hello", "word": "Bonjour", "definition": "Une salutation quand on rencontre quelqu'un.", "pronunciation": "Bonjour" },
-      { "id": "name", "word": "Nom", "definition": "Le mot utilisé pour identifier une personne.", "pronunciation": "Nom" },
-      { "id": "student", "word": "Étudiante", "definition": "Une personne qui étudie.", "pronunciation": "Étudiante" },
-      { "id": "egypt", "word": "Égypte", "definition": "Un pays en Afrique du Nord.", "pronunciation": "Égypte" },
-      { "id": "live", "word": "Vis", "definition": "Avoir son domicile dans un lieu.", "pronunciation": "Vis" },
-      { "id": "flat", "word": "Appartement", "definition": "Un logement dans un immeuble.", "pronunciation": "Appartement" },
-      { "id": "family", "word": "Famille", "definition": "Un groupe de parents et d'enfants.", "pronunciation": "Famille" },
-      { "id": "brothers", "word": "Frères", "definition": "Enfants mâles des mêmes parents.", "pronunciation": "Frères" },
-      { "id": "international", "word": "Internationale", "definition": "Impliquant plusieurs pays.", "pronunciation": "Internationale" },
-      { "id": "goodbye", "word": "Au revoir", "definition": "Ce qu'on dit en quittant.", "pronunciation": "Au revoir" },
-      { "id": "day", "word": "Journée", "definition": "Une période de temps.", "pronunciation": "Journée" }
+      { "id": "bonjour", "word": "Bonjour", "definition": "Salutation utilisée pour rencontrer quelqu'un.", "pronunciation": "Bonjour" },
+      { "id": "etudiante", "word": "étudiante", "definition": "Personne qui étudie.", "pronunciation": "étudiante" },
+      { "id": "appartement", "word": "appartement", "definition": "Logement où l'on habite.", "pronunciation": "appartement" },
+      { "id": "amie", "word": "amie", "definition": "Personne que l'on aime bien.", "pronunciation": "amie" },
+      { "id": "cafe", "word": "café", "definition": "Lieu où l'on mange ou boit.", "pronunciation": "café" },
+      { "id": "nom", "word": "nom", "definition": "Mot utilisé pour identifier une personne.", "pronunciation": "nom" },
+      { "id": "nourriture", "word": "nourriture", "definition": "Ce que l'on mange.", "pronunciation": "nourriture" },
+      { "id": "boisson", "word": "boisson", "definition": "Ce que l'on boit.", "pronunciation": "boisson" },
+      { "id": "serveur", "word": "serveur", "definition": "Personne qui sert les clients.", "pronunciation": "serveur" },
+      { "id": "telephone", "word": "téléphone", "definition": "Appareil pour communiquer.", "pronunciation": "téléphone" }
     ],
     "ko": [
-      { "id": "hello", "word": "안녕하세요", "definition": "사람을 만날 때 하는 인사.", "pronunciation": "안녕하세요" },
-      { "id": "name", "word": "이름", "definition": "사람을 지칭하는 말.", "pronunciation": "이름" },
-      { "id": "egypt", "word": "이집트", "definition": "북아프리카에 있는 국가.", "pronunciation": "이집트" },
-      { "id": "student", "word": "학생", "definition": "학교에서 공부하는 사람.", "pronunciation": "학생" },
-      { "id": "flat", "word": "아파트", "definition": "공동 주택의 한 형태.", "pronunciation": "아파트" },
-      { "id": "live", "word": "삽니다", "definition": "어떤 곳에 거주함.", "pronunciation": "삽니다" },
-      { "id": "family", "word": "가족", "definition": "부모와 자식으로 구성된 집단.", "pronunciation": "가족" },
-      { "id": "brothers", "word": "남자형제", "definition": "부모가 같은 남자 형제.", "pronunciation": "남자형제" },
-      { "id": "international", "word": "국제적인", "definition": "여러 나라와 관련 있는.", "pronunciation": "국제적인" },
-      { "id": "goodbye", "word": "안녕히계세요", "definition": "떠날 때 하는 인사.", "pronunciation": "안녕히계세요" },
-      { "id": "day", "word": "하루", "definition": "날을 의미함.", "pronunciation": "하루" }
+      { "id": "annyeonghaseyo", "word": "안녕하세요", "definition": "사람을 만날 때 하는 인사.", "pronunciation": "안녕하세요" },
+      { "id": "haksaeng", "word": "학생", "definition": "학교에서 공부하는 사람.", "pronunciation": "학생" },
+      { "id": "apateu", "word": "아파트", "definition": "사람이 사는 집.", "pronunciation": "아파트" },
+      { "id": "chingu", "word": "친구", "definition": "가깝게 지내는 사람.", "pronunciation": "친구" },
+      { "id": "kape", "word": "카페", "definition": "음식과 음료를 파는 곳.", "pronunciation": "카페" },
+      { "id": "ireum", "word": "이름", "definition": "사람을 부르는 말.", "pronunciation": "이름" },
+      { "id": "eumsik", "word": "음식", "definition": "먹는 것.", "pronunciation": "음식" },
+      { "id": "eumryo", "word": "음료", "definition": "마시는 것.", "pronunciation": "음료" },
+      { "id": "jigwon", "word": "직원", "definition": "가게에서 일하는 사람.", "pronunciation": "직원" },
+      { "id": "jeonhwa", "word": "전화", "definition": "통화할 때 사용하는 기기.", "pronunciation": "전화" }
     ]
   },
   "listening_tracks": {
