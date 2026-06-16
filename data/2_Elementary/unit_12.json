@@ -1,252 +1,86 @@
 {
   "title": {
-    "en": "Life’s an adventure!",
-    "ja": "人生は冒険だ！",
-    "fr": "La vie est une aventure !",
-    "ko": "인생은 모험이다!"
+    "en": "Future Plans",
+    "ja": "将来の計画",
+    "fr": "Projets d'avenir",
+    "ko": "미래 계획"
   },
+
   "topic": {
-    "en": "Future plans (going to), infinitive of purpose, weather, making suggestions",
-    "ja": "未来の計画（going to）、目的の不定詞、天気、提案をする",
-    "fr": "Projets futurs (going to), infinitif de but, météo, faire des suggestions",
-    "ko": "미래 계획(going to), 목적의 부정사, 날씨, 제안하기"
+    "en": "Dreams, future plans, and passions",
+    "ja": "夢・将来の計画・情熱",
+    "fr": "Rêves, projets d'avenir et passions",
+    "ko": "꿈, 미래 계획, 그리고 열정"
   },
+
   "core_title": {
-    "en": "Future Plans and Weather",
-    "ja": "未来の計画と天気",
-    "fr": "Projets futurs et météo",
-    "ko": "미래 계획과 날씨"
+    "en": "Following Your Dream",
+    "ja": "夢を追いかけて",
+    "fr": "Suivre son rêve",
+    "ko": "꿈을 향해 가는 길"
   },
+
   "core_reading_html": {
-    "en": "<p style='margin-top:0;'><strong>Rosie, aged 11</strong><br>I'm going to be a ballet dancer. I'm going to travel all over the world. I'm going to learn Russian. I'm not going to marry until I'm thirty-five. I'm not going to wear skirts and blouses. I'm going to wear jeans and T-shirts all the time. I'm going to become a TV star.</p><p><strong>Miss Bishop, aged 59</strong><br>I'm going to travel all over the world. I'm going to learn Russian. I'm going to learn to drive. I'm going to open a school. I'm not going to marry until I'm thirty-five. I'm going to write a book.</p><p><strong>Infinitive of purpose</strong><br>We use 'to + verb' to say why we do something.<br>• I'm going to Holland <strong>to see</strong> the tulips.<br>• She opened the window <strong>to get</strong> fresh air.</p><p><strong>The weather</strong><br>What's the weather like? It's sunny, rainy, windy, snowy, cloudy, foggy.<br>What's it going to be like tomorrow? I think it's going to be cold and dry.</p><p><strong>Making suggestions</strong><br>What shall we do? Let's go to the beach. / Shall we go swimming?</p>",
-    "ja": "<p style='margin-top:0;'><strong>ロージー（11歳）</strong><br>私はバレリーナになるつもりです。世界中を旅行するつもりです。ロシア語を学ぶつもりです。35歳まで結婚しないつもりです。スカートやブラウスは着ないつもりです。いつもジーンズとTシャツを着るつもりです。テレビスターになるつもりです。</p><p><strong>ミス・ビショップ（59歳）</strong><br>私は世界中を旅行するつもりです。ロシア語を学ぶつもりです。運転を習うつもりです。学校を開くつもりです。35歳まで結婚しないつもりです。本を書くつもりです。</p><p><strong>目的の不定詞</strong><br>何かをする理由を言うために「to + 動詞」を使います。<br>• 私はチューリップを<strong>見るために</strong>オランダに行きます。<br>• 彼女は新鮮な空気を<strong>入れるために</strong>窓を開けました。</p><p><strong>天気</strong><br>天気はどうですか？晴れ、雨、風、雪、曇り、霧です。<br>明日はどうなりそうですか？寒くて乾燥すると思います。</p><p><strong>提案をする</strong><br>何をしましょうか？ビーチに行きましょう。／泳ぎませんか？</p>",
-    "fr": "<p style='margin-top:0;'><strong>Rosie, 11 ans</strong><br>Je vais être danseuse de ballet. Je vais voyager dans le monde entier. Je vais apprendre le russe. Je ne vais pas me marier avant 35 ans. Je ne vais pas porter de jupes et de chemisiers. Je vais toujours porter des jeans et des T-shirts. Je vais devenir une star de la télé.</p><p><strong>Mlle Bishop, 59 ans</strong><br>Je vais voyager dans le monde entier. Je vais apprendre le russe. Je vais apprendre à conduire. Je vais ouvrir une école. Je ne vais pas me marier avant 35 ans. Je vais écrire un livre.</p><p><strong>Infinitif de but</strong><br>Nous utilisons 'to + verbe' pour dire pourquoi nous faisons quelque chose.<br>• Je vais en Hollande <strong>pour voir</strong> les tulipes.<br>• Elle a ouvert la fenêtre <strong>pour avoir</strong> de l'air frais.</p><p><strong>La météo</strong><br>Quel temps fait-il ? Il fait soleil, il pleut, il vente, il neige, il est nuageux, il y a du brouillard.<br>Quel temps va-t-il faire demain ? Je pense qu'il va faire froid et sec.</p><p><strong>Faire des suggestions</strong><br>Qu'est-ce qu'on fait ? Allons à la plage. / Si on allait nager ?</p>",
-    "ko": "<p style='margin-top:0;'><strong>Rosie, 11세</strong><br>나는 발레리나가 될 거예요. 나는 전 세계를 여행할 거예요. 나는 러시아어를 배울 거예요. 나는 35살까지 결혼하지 않을 거예요. 나는 치마와 블라우스를 입지 않을 거예요. 나는 항상 청바지와 티셔츠를 입을 거예요. 나는 TV 스타가 될 거예요.</p><p><strong>Miss Bishop, 59세</strong><br>나는 전 세계를 여행할 거예요. 나는 러시아어를 배울 거예요. 나는 운전을 배울 거예요. 나는 학교를 열 거예요. 나는 35살까지 결혼하지 않을 거예요. 나는 책을 쓸 거예요.</p><p><strong>목적의 부정사</strong><br>우리는 무언가를 하는 이유를 말할 때 'to + 동사'를 사용합니다.<br>• 나는 튤립을 <strong>보러</strong> 네덜란드에 갈 거예요.<br>• 그녀는 신선한 공기를 <strong>들어오게 하려고</strong> 창문을 열었어요.</p><p><strong>날씨</strong><br>날씨가 어때요? 맑음, 비, 바람, 눈, 흐림, 안개입니다.<br>내일은 어떻게 될까요? 춥고 건조할 거예요.</p><p><strong>제안하기</strong><br>우리 뭐 할까? 해변에 가자. / 수영할까?</p>"
+    "en": "<p>Many people have a <strong><span class='vocab-link' id='text-dream' onclick='speakAndScroll(\"dream\", \"vocab-dream\")'>dream</span></strong>. Rosie wants to <strong><span class='vocab-link' id='text-travel' onclick='speakAndScroll(\"travel\", \"vocab-travel\")'>travel</span></strong> around the world. Miss Bishop has a <strong><span class='vocab-link' id='text-plan' onclick='speakAndScroll(\"plan\", \"vocab-plan\")'>plan</span></strong> to learn new things after she retires. Clem loves to <strong><span class='vocab-link' id='text-fly' onclick='speakAndScroll(\"fly\", \"vocab-fly\")'>fly</span></strong> in the sky. Sue likes the <strong><span class='vocab-link' id='text-race' onclick='speakAndScroll(\"race\", \"vocab-race\")'>race</span></strong> track and wants a new job. They all <strong><span class='vocab-link' id='text-learn' onclick='speakAndScroll(\"learn\", \"vocab-learn\")'>learn</span></strong> new skills and <strong><span class='vocab-link' id='text-work' onclick='speakAndScroll(\"work\", \"vocab-work\")'>work</span></strong> hard. Sometimes they <strong><span class='vocab-link' id='text-change' onclick='speakAndScroll(\"change\", \"vocab-change\")'>change</span></strong> their lives. They want a better <strong><span class='vocab-link' id='text-future' onclick='speakAndScroll(\"future\", \"vocab-future\")'>future</span></strong>. With <strong><span class='vocab-link' id='text-energy' onclick='speakAndScroll(\"energy\", \"vocab-energy\")'>energy</span></strong> and hope, they follow their dreams every day.</p>",
+
+    "ja": "<p>多くの人には<strong><span class='vocab-link' id='text-yume' onclick='speakAndScroll(\"yume\", \"vocab-yume\")'>夢</span></strong>があります。ロージーは世界中を<strong><span class='vocab-link' id='text-ryokou' onclick='speakAndScroll(\"ryokou\", \"vocab-ryokou\")'>旅行</span></strong>したいと思っています。ビショップ先生には退職後の<strong><span class='vocab-link' id='text-keikaku' onclick='speakAndScroll(\"keikaku\", \"vocab-keikaku\")'>計画</span></strong>があります。クレムは空を<strong><span class='vocab-link' id='text-tobu' onclick='speakAndScroll(\"tobu\", \"vocab-tobu\")'>飛ぶ</span></strong>ことが大好きです。スーは<strong><span class='vocab-link' id='text-race-ja' onclick='speakAndScroll(\"race-ja\", \"vocab-race-ja\")'>レース</span></strong>が好きで、新しい仕事をしたいと考えています。彼らは新しいことを<strong><span class='vocab-link' id='text-manabu' onclick='speakAndScroll(\"manabu\", \"vocab-manabu\")'>学び</span></strong>、一生懸命<strong><span class='vocab-link' id='text-hataraku' onclick='speakAndScroll(\"hataraku\", \"vocab-hataraku\")'>働き</span></strong>ます。時には人生を<strong><span class='vocab-link' id='text-kaeru' onclick='speakAndScroll(\"kaeru\", \"vocab-kaeru\")'>変え</span></strong>ます。より良い<strong><span class='vocab-link' id='text-shourai' onclick='speakAndScroll(\"shourai\", \"vocab-shourai\")'>将来</span></strong>を目指し、<strong><span class='vocab-link' id='text-genki' onclick='speakAndScroll(\"genki\", \"vocab-genki\")'>元気</span></strong>と希望を持って夢を追い続けます。</p>",
+
+    "fr": "<p>Beaucoup de personnes ont un <strong><span class='vocab-link' id='text-reve' onclick='speakAndScroll(\"reve\", \"vocab-reve\")'>rêve</span></strong>. Rosie veut <strong><span class='vocab-link' id='text-voyager' onclick='speakAndScroll(\"voyager\", \"vocab-voyager\")'>voyager</span></strong> autour du monde. Mlle Bishop a un <strong><span class='vocab-link' id='text-plan-fr' onclick='speakAndScroll(\"plan-fr\", \"vocab-plan-fr\")'>plan</span></strong> pour apprendre après sa retraite. Clem aime <strong><span class='vocab-link' id='text-voler' onclick='speakAndScroll(\"voler\", \"vocab-voler\")'>voler</span></strong> dans le ciel. Sue aime la <strong><span class='vocab-link' id='text-course' onclick='speakAndScroll(\"course\", \"vocab-course\")'>course</span></strong> automobile et veut un nouveau travail. Ils <strong><span class='vocab-link' id='text-apprendre' onclick='speakAndScroll(\"apprendre\", \"vocab-apprendre\")'>apprennent</span></strong> de nouvelles compétences et <strong><span class='vocab-link' id='text-travailler' onclick='speakAndScroll(\"travailler\", \"vocab-travailler\")'>travaillent</span></strong> dur. Parfois, ils <strong><span class='vocab-link' id='text-changer' onclick='speakAndScroll(\"changer\", \"vocab-changer\")'>changent</span></strong> leur vie. Ils veulent un meilleur <strong><span class='vocab-link' id='text-avenir' onclick='speakAndScroll(\"avenir\", \"vocab-avenir\")'>avenir</span></strong>. Avec de l'<strong><span class='vocab-link' id='text-energie' onclick='speakAndScroll(\"energie\", \"vocab-energie\")'>énergie</span></strong> et de l'espoir, ils suivent leurs rêves chaque jour.</p>",
+
+    "ko": "<p>많은 사람들은 <strong><span class='vocab-link' id='text-dream-ko' onclick='speakAndScroll(\"dream-ko\", \"vocab-dream-ko\")'>꿈</span></strong>을 가지고 있습니다. 로지는 세계를 <strong><span class='vocab-link' id='text-travel-ko' onclick='speakAndScroll(\"travel-ko\", \"vocab-travel-ko\")'>여행</span></strong>하고 싶어 합니다. 비숍 양은 은퇴 후 새로운 것을 배우려는 <strong><span class='vocab-link' id='text-plan-ko' onclick='speakAndScroll(\"plan-ko\", \"vocab-plan-ko\")'>계획</span></strong>이 있습니다. 클렘은 하늘을 <strong><span class='vocab-link' id='text-fly-ko' onclick='speakAndScroll(\"fly-ko\", \"vocab-fly-ko\")'>나는</span></strong> 것을 좋아합니다. 수는 <strong><span class='vocab-link' id='text-race-ko' onclick='speakAndScroll(\"race-ko\", \"vocab-race-ko\")'>경주</span></strong>를 좋아하며 새로운 일을 꿈꿉니다. 그들은 새로운 것을 <strong><span class='vocab-link' id='text-learn-ko' onclick='speakAndScroll(\"learn-ko\", \"vocab-learn-ko\")'>배우고</span></strong>, 열심히 <strong><span class='vocab-link' id='text-work-ko' onclick='speakAndScroll(\"work-ko\", \"vocab-work-ko\")'>일합니다</span></strong>. 때로는 삶을 <strong><span class='vocab-link' id='text-change-ko' onclick='speakAndScroll(\"change-ko\", \"vocab-change-ko\")'>바꾸기도</span></strong> 합니다. 그들은 더 좋은 <strong><span class='vocab-link' id='text-future-ko' onclick='speakAndScroll(\"future-ko\", \"vocab-future-ko\")'>미래</span></strong>를 원합니다. <strong><span class='vocab-link' id='text-energy-ko' onclick='speakAndScroll(\"energy-ko\", \"vocab-energy-ko\")'>열정</span></strong>과 희망으로 매일 꿈을 향해 나아갑니다.</p>"
   },
+
   "vocabulary": {
     "en": [
-      {
-        "id": "sunny",
-        "word": "Sunny",
-        "definition": "Bright with sunlight.",
-        "pronunciation": "ˈsʌni"
-      },
-      {
-        "id": "rainy",
-        "word": "Rainy",
-        "definition": "With a lot of rain.",
-        "pronunciation": "ˈreɪni"
-      },
-      {
-        "id": "windy",
-        "word": "Windy",
-        "definition": "With a lot of wind.",
-        "pronunciation": "ˈwɪndi"
-      },
-      {
-        "id": "snowy",
-        "word": "Snowy",
-        "definition": "With snow falling or lying on the ground.",
-        "pronunciation": "ˈsnəʊi"
-      },
-      {
-        "id": "cloudy",
-        "word": "Cloudy",
-        "definition": "Full of clouds.",
-        "pronunciation": "ˈklaʊdi"
-      },
-      {
-        "id": "foggy",
-        "word": "Foggy",
-        "definition": "Full of fog (thick cloud near the ground).",
-        "pronunciation": "ˈfɒɡi"
-      },
-      {
-        "id": "sneeze",
-        "word": "Sneeze",
-        "definition": "To suddenly blow air out of your nose and mouth.",
-        "pronunciation": "sniːz"
-      },
-      {
-        "id": "float",
-        "word": "Float",
-        "definition": "To stay on the surface of a liquid or in the air without sinking.",
-        "pronunciation": "fləʊt"
-      },
-      {
-        "id": "race",
-        "word": "Race",
-        "definition": "A competition of speed.",
-        "pronunciation": "reɪs"
-      }
+      { "id": "dream", "word": "dream", "definition": "Something you want to do in the future.", "pronunciation": "dream" },
+      { "id": "travel", "word": "travel", "definition": "To go to different places.", "pronunciation": "travel" },
+      { "id": "plan", "word": "plan", "definition": "An idea about what you will do.", "pronunciation": "plan" },
+      { "id": "fly", "word": "fly", "definition": "To move through the air.", "pronunciation": "fly" },
+      { "id": "race", "word": "race", "definition": "A competition to be the fastest.", "pronunciation": "race" },
+      { "id": "learn", "word": "learn", "definition": "To gain knowledge or skills.", "pronunciation": "learn" },
+      { "id": "work", "word": "work", "definition": "To do a job or activity.", "pronunciation": "work" },
+      { "id": "change", "word": "change", "definition": "To make something different.", "pronunciation": "change" },
+      { "id": "future", "word": "future", "definition": "The time that is coming.", "pronunciation": "future" },
+      { "id": "energy", "word": "energy", "definition": "Strength and enthusiasm.", "pronunciation": "energy" }
     ],
+
     "ja": [
-      {
-        "id": "sunny",
-        "word": "晴れ",
-        "definition": "日光で明るい。",
-        "pronunciation": "はれ"
-      },
-      {
-        "id": "rainy",
-        "word": "雨",
-        "definition": "たくさんの雨が降る。",
-        "pronunciation": "あめ"
-      },
-      {
-        "id": "windy",
-        "word": "風が強い",
-        "definition": "たくさんの風がある。",
-        "pronunciation": "かぜがつよい"
-      },
-      {
-        "id": "snowy",
-        "word": "雪",
-        "definition": "雪が降っている、または地面に積もっている。",
-        "pronunciation": "ゆき"
-      },
-      {
-        "id": "cloudy",
-        "word": "曇り",
-        "definition": "雲でいっぱい。",
-        "pronunciation": "くもり"
-      },
-      {
-        "id": "foggy",
-        "word": "霧",
-        "definition": "霧でいっぱい。",
-        "pronunciation": "きり"
-      },
-      {
-        "id": "sneeze",
-        "word": "くしゃみ",
-        "definition": "突然鼻と口から空気を勢いよく出すこと。",
-        "pronunciation": "くしゃみ"
-      },
-      {
-        "id": "float",
-        "word": "浮かぶ",
-        "definition": "液体の表面や空中に沈まずに留まる。",
-        "pronunciation": "うかぶ"
-      },
-      {
-        "id": "race",
-        "word": "レース",
-        "definition": "速さの競争。",
-        "pronunciation": "れーす"
-      }
+      { "id": "yume", "word": "夢", "definition": "将来かなえたいこと。", "pronunciation": "ゆめ" },
+      { "id": "ryokou", "word": "旅行", "definition": "いろいろな場所へ行くこと。", "pronunciation": "りょこう" },
+      { "id": "keikaku", "word": "計画", "definition": "これからすることを考えること。", "pronunciation": "けいかく" },
+      { "id": "tobu", "word": "飛ぶ", "definition": "空の中を進むこと。", "pronunciation": "とぶ" },
+      { "id": "race-ja", "word": "レース", "definition": "速さを競う競技。", "pronunciation": "れーす" },
+      { "id": "manabu", "word": "学ぶ", "definition": "新しい知識を得ること。", "pronunciation": "まなぶ" },
+      { "id": "hataraku", "word": "働く", "definition": "仕事をすること。", "pronunciation": "はたらく" },
+      { "id": "kaeru", "word": "変える", "definition": "違うものにすること。", "pronunciation": "かえる" },
+      { "id": "shourai", "word": "将来", "definition": "これから先の時間。", "pronunciation": "しょうらい" },
+      { "id": "genki", "word": "元気", "definition": "力ややる気があること。", "pronunciation": "げんき" }
     ],
+
     "fr": [
-      {
-        "id": "sunny",
-        "word": "Ensoleillé",
-        "definition": "Clair avec de la lumière du soleil.",
-        "pronunciation": "ɑ̃.sɔ.le.je"
-      },
-      {
-        "id": "rainy",
-        "word": "Pluvieux",
-        "definition": "Avec beaucoup de pluie.",
-        "pronunciation": "ply.vjø"
-      },
-      {
-        "id": "windy",
-        "word": "Venteux",
-        "definition": "Avec beaucoup de vent.",
-        "pronunciation": "vɑ̃.tø"
-      },
-      {
-        "id": "snowy",
-        "word": "Neigeux",
-        "definition": "Avec de la neige qui tombe ou qui couvre le sol.",
-        "pronunciation": "nɛ.ʒø"
-      },
-      {
-        "id": "cloudy",
-        "word": "Nuageux",
-        "definition": "Plein de nuages.",
-        "pronunciation": "nɥa.ʒø"
-      },
-      {
-        "id": "foggy",
-        "word": "Brumieux",
-        "definition": "Plein de brouillard.",
-        "pronunciation": "bʁy.mjø"
-      },
-      {
-        "id": "sneeze",
-        "word": "Éternuer",
-        "definition": "Expulser soudainement de l'air par le nez et la bouche.",
-        "pronunciation": "e.tɛʁ.nɥe"
-      },
-      {
-        "id": "float",
-        "word": "Flotter",
-        "definition": "Rester à la surface d'un liquide ou dans l'air sans couler.",
-        "pronunciation": "flɔ.te"
-      },
-      {
-        "id": "race",
-        "word": "Course",
-        "definition": "Une compétition de vitesse.",
-        "pronunciation": "kuʁs"
-      }
+      { "id": "reve", "word": "rêve", "definition": "Quelque chose que l'on veut faire plus tard.", "pronunciation": "rêve" },
+      { "id": "voyager", "word": "voyager", "definition": "Aller dans différents endroits.", "pronunciation": "voyager" },
+      { "id": "plan-fr", "word": "plan", "definition": "Une idée de ce que l'on va faire.", "pronunciation": "plan" },
+      { "id": "voler", "word": "voler", "definition": "Se déplacer dans les airs.", "pronunciation": "voler" },
+      { "id": "course", "word": "course", "definition": "Compétition pour être le plus rapide.", "pronunciation": "course" },
+      { "id": "apprendre", "word": "apprendre", "definition": "Acquérir des connaissances.", "pronunciation": "apprendre" },
+      { "id": "travailler", "word": "travailler", "definition": "Faire un travail.", "pronunciation": "travailler" },
+      { "id": "changer", "word": "changer", "definition": "Rendre quelque chose différent.", "pronunciation": "changer" },
+      { "id": "avenir", "word": "avenir", "definition": "Le temps à venir.", "pronunciation": "avenir" },
+      { "id": "energie", "word": "énergie", "definition": "Force et enthousiasme.", "pronunciation": "énergie" }
     ],
+
     "ko": [
-      {
-        "id": "sunny",
-        "word": "맑음",
-        "definition": "햇빛으로 밝은.",
-        "pronunciation": "말금"
-      },
-      {
-        "id": "rainy",
-        "word": "비",
-        "definition": "비가 많이 오는.",
-        "pronunciation": "비"
-      },
-      {
-        "id": "windy",
-        "word": "바람",
-        "definition": "바람이 많이 부는.",
-        "pronunciation": "바람"
-      },
-      {
-        "id": "snowy",
-        "word": "눈",
-        "definition": "눈이 내리거나 땅에 쌓인.",
-        "pronunciation": "눈"
-      },
-      {
-        "id": "cloudy",
-        "word": "흐림",
-        "definition": "구름으로 가득 찬.",
-        "pronunciation": "흐림"
-      },
-      {
-        "id": "foggy",
-        "word": "안개",
-        "definition": "안개로 가득 찬.",
-        "pronunciation": "안개"
-      },
-      {
-        "id": "sneeze",
-        "word": "재채기",
-        "definition": "갑자기 코와 입으로 공기를 세게 내뿜는 것.",
-        "pronunciation": "재채기"
-      },
-      {
-        "id": "float",
-        "word": "뜨다",
-        "definition": "액체 표면이나 공중에 가라앉지 않고 머물다.",
-        "pronunciation": "뜨다"
-      },
-      {
-        "id": "race",
-        "word": "경주",
-        "definition": "속도 경쟁.",
-        "pronunciation": "경주"
-      }
+      { "id": "dream-ko", "word": "꿈", "definition": "앞으로 이루고 싶은 것.", "pronunciation": "꿈" },
+      { "id": "travel-ko", "word": "여행", "definition": "여러 장소를 다니는 것.", "pronunciation": "여행" },
+      { "id": "plan-ko", "word": "계획", "definition": "앞으로 할 일을 생각한 것.", "pronunciation": "계획" },
+      { "id": "fly-ko", "word": "나는", "definition": "공중으로 움직이는 것.", "pronunciation": "나는" },
+      { "id": "race-ko", "word": "경주", "definition": "누가 더 빠른지 겨루는 경기.", "pronunciation": "경주" },
+      { "id": "learn-ko", "word": "배우다", "definition": "지식이나 기술을 익히다.", "pronunciation": "배우다" },
+      { "id": "work-ko", "word": "일하다", "definition": "일이나 활동을 하다.", "pronunciation": "일하다" },
+      { "id": "change-ko", "word": "바꾸다", "definition": "다르게 만들다.", "pronunciation": "바꾸다" },
+      { "id": "future-ko", "word": "미래", "definition": "앞으로 다가올 시간.", "pronunciation": "미래" },
+      { "id": "energy-ko", "word": "열정", "definition": "힘과 의욕.", "pronunciation": "열정" }
     ]
   },
   "listening_tracks": {
