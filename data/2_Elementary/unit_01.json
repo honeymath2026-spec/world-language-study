@@ -1,5 +1,5 @@
 {
-    "title": {
+  "title": {
     "en": "Hello and Goodbye",
     "ja": "こんにちはとさようなら",
     "fr": "Bonjour et Au revoir",
@@ -462,87 +462,87 @@
     "en": [
       {
       "type": "chunk",
-      "text": "greet someone for the first time",
+      "text": "say hello",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "chunk",
-      "text": "talk about your name and where you are from",
+      "text": "say your name",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "sentence",
-      "text": "When you <b>greet someone for the first time</b>, you usually <b>talk about your name and where you are from</b>.",
+      "text": "When you meet someone, you <b>say hello</b> and <b>say your name</b>.",
       "color": "#2980b9",
       "bg": "#e1f5fe"
     },
     {
       "type": "chunk",
-      "text": "end a conversation",
+      "text": "say goodbye",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "chunk",
-      "text": "say a friendly goodbye",
+      "text": "see you later",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "sentence",
-      "text": "When you <b>end a conversation</b>, it's polite to <b>say a friendly goodbye</b>, like 'see you later'.",
+      "text": "To end a talk, you <b>say goodbye</b> or <b>see you later</b>.",
       "color": "#2980b9",
       "bg": "#e1f5fe"
     },
     {
       "type": "paragraph",
-      "text": "When you <b>greet someone for the first time</b>, you usually <b>talk about your name and where you are from</b>. They may also ask about your family. When you <b>end a conversation</b>, it's polite to <b>say a friendly goodbye</b> such as 'see you later' or 'have a nice day'.",
+      "text": "When you meet someone, you <b>say hello</b> and <b>say your name</b>. Then you can ask, 'How are you?' To end a talk, you <b>say goodbye</b> or <b>see you later</b>. This is a friendly way to finish a conversation.",
       "color": "#2c3e50",
       "bg": "#f0f7ff"
     }
     ],
     "ja": [
-      {
+          {
       "type": "chunk",
-      "text": "初めて人に会うときの挨拶",
+      "text": "挨拶をする",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "chunk",
-      "text": "自分の名前や出身を話す",
+      "text": "名前を言う",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "sentence",
-      "text": "<b>初めて人に会うときの挨拶</b>では、たいてい <b>自分の名前や出身を話す</b> と良いでしょう。",
+      "text": "人に会ったら、<b>挨拶をする</b> と <b>名前を言う</b> のが大切です。",
       "color": "#2980b9",
       "bg": "#e1f5fe"
     },
     {
       "type": "chunk",
-      "text": "会話を終える時",
+      "text": "別れの挨拶",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "chunk",
-      "text": "親しみを込めて別れの挨拶をする",
+      "text": "またね",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "sentence",
-      "text": "<b>会話を終える時</b>には、<b>親しみを込めて別れの挨拶をする</b> のが礼儀です。",
+      "text": "話を終える時は、<b>別れの挨拶</b> や <b>またね</b> と言います。",
       "color": "#2980b9",
       "bg": "#e1f5fe"
     },
     {
       "type": "paragraph",
-      "text": "<b>初めて人に会うときの挨拶</b> では、<b>自分の名前や出身を話す</b> のが基本です。家族の話をするのも良いでしょう。<b>会話を終える時</b> には、<b>親しみを込めて別れの挨拶をする</b> ようにしましょう。「また明日」や「良い一日を」などが自然です。",
+      "text": "人に会ったら、<b>挨拶をする</b> と <b>名前を言う</b> のが大切です。相手の名前も聞きましょう。話を終える時は、<b>別れの挨拶</b> や <b>またね</b> と言います。これで会話がスムーズに終わります。",
       "color": "#2c3e50",
       "bg": "#f0f7ff"
     }
@@ -550,87 +550,87 @@
     "fr": [
       {
       "type": "chunk",
-      "text": "saluer quelqu'un pour la première fois",
+      "text": "dire bonjour",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "chunk",
-      "text": "parler de son nom et de sa provenance",
+      "text": "dire son nom",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "sentence",
-      "text": "Quand vous <b>saluer quelqu'un pour la première fois</b>, vous devriez <b>parler de son nom et de sa provenance</b>.",
+      "text": "Quand on rencontre quelqu'un, il faut <b>dire bonjour</b> et <b>dire son nom</b>.",
       "color": "#2980b9",
       "bg": "#e1f5fe"
     },
     {
       "type": "chunk",
-      "text": "terminer une conversation",
+      "text": "dire au revoir",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "chunk",
-      "text": "dire au revoir de manière amicale",
+      "text": "à plus tard",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "sentence",
-      "text": "Pour <b>terminer une conversation</b>, il est poli de <b>dire au revoir de manière amicale</b>.",
+      "text": "Pour finir un échange, on peut <b>dire au revoir</b> ou <b>à plus tard</b>.",
       "color": "#2980b9",
       "bg": "#e1f5fe"
     },
     {
       "type": "paragraph",
-      "text": "Lorsque vous <b>saluer quelqu'un pour la première fois</b>, il est courant de <b>parler de son nom et de sa provenance</b>. Vous pouvez aussi parler de votre famille. Pour <b>terminer une conversation</b>, il est de bon ton de <b>dire au revoir de manière amicale</b> en utilisant des expressions comme 'à plus tard' ou 'bonne journée'.",
+      "text": "Quand on rencontre quelqu'un, il faut <b>dire bonjour</b> et <b>dire son nom</b>. On peut aussi demander 'Comment ça va ?' Pour finir un échange, on peut <b>dire au revoir</b> ou <b>à plus tard</b>. C'est une façon polie de terminer.",
       "color": "#2c3e50",
       "bg": "#f0f7ff"
     }
     ],
     "ko": [
-          {
+        {
       "type": "chunk",
-      "text": "처음 만나는 사람에게 인사하기",
+      "text": "인사하다",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "chunk",
-      "text": "자신의 이름과 출신을 이야기하다",
+      "text": "이름을 말하다",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "sentence",
-      "text": "<b>처음 만나는 사람에게 인사하기</b> 위해서는 보통 <b>자신의 이름과 출신을 이야기하다</b>는 것이 중요합니다.",
+      "text": "누군가를 만나면 <b>인사하다</b>와 <b>이름을 말하다</b>는 것이 기본이에요.",
       "color": "#2980b9",
       "bg": "#e1f5fe"
     },
     {
       "type": "chunk",
-      "text": "대화를 끝내다",
+      "text": "작별 인사하다",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "chunk",
-      "text": "다정하게 작별 인사를 하다",
+      "text": "다음에 봐",
       "color": "#3498db",
       "bg": "#ebf5fb"
     },
     {
       "type": "sentence",
-      "text": "<b>대화를 끝내다</b>는 상황에서는 <b>다정하게 작별 인사를 하다</b>는 것이 좋은 매너입니다.",
+      "text": "대화를 끝낼 때는 <b>작별 인사하다</b>나 <b>다음에 봐</b>라고 말해요.",
       "color": "#2980b9",
       "bg": "#e1f5fe"
     },
     {
       "type": "paragraph",
-      "text": "<b>처음 만나는 사람에게 인사하기</b> 위해서는 보통 <b>자신의 이름과 출신을 이야기하다</b>는 것이 중요합니다. 여기에 가족에 대한 이야기도 더할 수 있습니다. <b>대화를 끝내다</b>는 상황에서는 <b>다정하게 작별 인사를 하다</b>는 것이 좋은 매너입니다. '다음에 봐요'나 '좋은 하루 보내세요'와 같은 표현을 사용할 수 있습니다.",
+      "text": "누군가를 만나면 <b>인사하다</b>와 <b>이름을 말하다</b>는 것이 기본이에요. '어떻게 지내요?'라고 물을 수도 있어요. 대화를 끝낼 때는 <b>작별 인사하다</b>나 <b>다음에 봐</b>라고 말해요. 이렇게 하면 대화를 예쁘게 마무리할 수 있어요.",
       "color": "#2c3e50",
       "bg": "#f0f7ff"
     }
