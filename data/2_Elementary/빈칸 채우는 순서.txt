@@ -317,11 +317,6 @@ elementary 수준의 영어/일본어/프랑스어/한국어 언어로 확대해
 
 
 
--------------------------------------
-"content_check_question"	"content_check_keywords"	"content_check_placeholder"
--------------------------------------
-
-
 
 -------------------------------------
 "deepening_question"	"deepening_placeholder"
