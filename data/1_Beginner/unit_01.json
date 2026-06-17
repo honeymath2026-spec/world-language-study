@@ -270,22 +270,7 @@
     ]
   },
   "grammar": {
-  "en": {
-      "title": "Grammar Spot",
-      "content": "• I'm = I am\n• My name's = My name is\n• What's = What is\n• It's = It is\n• Use am with I.\n• Use is with he, she, it, and names.\n• Use this is to introduce a person or thing.\n• Use my for your name or things.\n• Use your when asking about another person.\n• Say: How are you? / I'm fine, thanks."
-    },
-    "ja": {
-      "title": "文法ポイント",
-      "content": "• 「わたし」は「わたしです」を使います。\n• 「〜です」は自分や人の名前を言うときに使います。\n• 「おなまえは？」は相手の名前をたずねる言い方です。\n• 「これは〜です」で人やものをしょうかいします。\n• 「わたしの」は自分のものをあらわします。\n• 「あなたの」は相手のものをあらわします。\n• 「げんきですか？」であいさつできます。\n• 「げんきです」「ありがとう」でこたえます。"
-    },
-    "fr": {
-      "title": "Grammaire",
-      "content": "• « Je suis » sert à dire son nom.\n• « Mon nom est » sert à se présenter.\n• « Comment t'appelles-tu ? » sert à demander le nom.\n• « Voici » sert à présenter une personne ou une chose.\n• « Mon / ma » indique ce qui m'appartient.\n• « Ton / ta » indique ce qui appartient à l'autre personne.\n• « Comment ça va ? » est une salutation.\n• On répond : « Ça va bien, merci. »"
-    },
-    "ko": {
-      "title": "문법 포인트",
-      "content": "• 나는 소개할 때 ‘저는 ~예요/이에요’를 사용해요.\n• 이름을 말할 때 ‘제 이름은 ~예요’라고 해요.\n• 상대 이름을 물을 때 ‘이름이 뭐예요?’라고 해요.\n• 사람이나 사물을 소개할 때 ‘이 사람은 ~예요’, ‘이것은 ~예요’를 사용해요.\n• ‘내’는 나의 것을 나타내요.\n• ‘네’는 상대방의 것을 나타내요.\n• ‘잘 지내요?’로 안부를 물을 수 있어요.\n• ‘네, 잘 지내요.’, ‘고마워요.’로 대답할 수 있어요."
-    }
+  "en": { "title": "Grammar Spot", "content": "⭐ I'm = I am\n⭐ My name's = My name is\n⭐ What's = What is\n⭐ It's = It is\n📌 Use am when talking about yourself.\n📌 Use is when talking about one person, one thing, or a name.\n📌 Use This is ... to introduce a person or thing.\n📌 Use my for things that belong to you.\n📌 Use your when talking about another person's things.\n💬 How are you? / I'm fine, thanks.\n🗣️ Practice speaking" }, "ja": { "title": "文法ポイント", "content": "⭐ 「わたしです」と言うときは「〜です」を使います。\n⭐ 名前を言うときは「わたしの名前は〜です」を使います。\n⭐ 相手の名前を聞くときは「お名前は何ですか」を使います。\n⭐ 人や物を紹介するときは「これは〜です」を使います。\n📌 「わたしの」は自分のものを表します。\n📌 「あなたの」は相手のものを表します。\n💬 「お元気ですか」\n💬 「元気です。ありがとう。」\n🗣️ 話してみましょう" }, "fr": { "title": "Grammaire", "content": "⭐ « Je suis » permet de parler de soi.\n⭐ « Mon nom est » sert à dire son nom.\n⭐ « Comment t'appelles-tu ? » sert à demander le nom de quelqu'un.\n⭐ « Voici » sert à présenter une personne ou une chose.\n📌 « Mon / ma » indique ce qui m'appartient.\n📌 « Ton / ta » indique ce qui appartient à l'autre personne.\n💬 « Comment ça va ? »\n💬 « Ça va bien, merci. »\n🗣️ Entraîne-toi à parler" }, "ko": { "title": "문법 포인트", "content": "⭐ 자신을 소개할 때는 ‘저는 ~예요/이에요’를 사용해요.\n⭐ 이름을 말할 때는 ‘제 이름은 ~예요’라고 해요.\n⭐ 상대의 이름을 물을 때는 ‘이름이 뭐예요?’라고 해요.\n⭐ 사람이나 사물을 소개할 때는 ‘이 사람은 ~예요’, ‘이것은 ~예요’를 사용해요.\n📌 ‘내’는 나의 것을 나타내요.\n📌 ‘네’는 상대방의 것을 나타내요.\n💬 잘 지내요?\n💬 네, 잘 지내요. 고마워요.\n🗣️ 말해보기" }
   },
   "practice_conversations": {
     "en": [
