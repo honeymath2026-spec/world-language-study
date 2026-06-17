@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌍 Beginner · Picture & Play</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧸</text></svg>">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --primary: #2c3e50;
+            --secondary: #3498db;
+            --success: #27ae60;
+            --warning: #f39c12;
+            --bg: #fdf8f0;
+            --white: #ffffff;
+            --beginner-accent: #f1c40f;
+            --card-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            --radius: 28px;
+        }
+        body {
+            font-family: 'Segoe UI', 'Noto Sans', 'Comic Sans MS', sans-serif;
+            background-color: var(--bg);
+            color: var(--primary);
+            line-height: 1.4;
+            padding: 0 0 100px 0;
+        }
+        .course-nav {
+            background: linear-gradient(135deg, #f1c40f, #f39c12);
+            color: #2c3e50;
+            padding: 0.6rem 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            border-bottom: 6px solid #e67e22;
+            position: sticky;
+            top: 0;
+            z-index: 1001;
+        }
+        .course-nav h1 { font-size: 1.8rem; font-weight: 900; }
+        .course-nav h1 i { margin-right: 10px; }
+        .unit-selector { display: flex; gap: 6px; flex-wrap: wrap; }
+        .unit-btn {
+            background: rgba(255,255,255,0.3);
+            border: 2px solid transparent;
+            color: #2c3e50;
+            padding: 8px 18px;
+            border-radius: 40px;
+            cursor: pointer;
+            font-size: 1.1rem;
+            font-weight: bold;
+            transition: 0.2s;
+        }
+        .unit-btn:hover { background: rgba(255,255,255,0.6); transform: scale(1.05); }
+        .unit-btn.active { background: #ffffff; border-color: #2c3e50; box-shadow: 0 4px 8px rgba(0,0,0,0.15); }
+
+        header {
+            background: #2c3e50;
+            color: white;
+            padding: 0.6rem 5%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+            position: sticky;
+            top: 68px;
+            z-index: 1000;
+            border-bottom: 4px solid #f1c40f;
+        }
+        header h2 { font-size: 1.5rem; font-weight: 700; color: #f1c40f; }
+        .nav-links { display: flex; gap: 6px; flex-wrap: wrap; }
+        .nav-links a {
+            color: #ecf0f1;
+            text-decoration: none;
+            padding: 6px 16px;
+            border-radius: 30px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            background: rgba(255,255,255,0.1);
+            transition: 0.2s;
+        }
+        .nav-links a:hover { background: #f1c40f; color: #2c3e50; }
+
+        .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+
+        section {
+            background: var(--white);
+            padding: 2rem 2rem 2.5rem;
+            border-radius: var(--radius);
+            margin-bottom: 2.5rem;
+            box-shadow: var(--card-shadow);
+            scroll-margin-top: 130px;
+            border: 2px solid #f0e6d3;
+        }
+        section:hover { border-color: #f1c40f; }
+        h2 {
+            font-size: 2rem;
+            font-weight: 800;
+            border-left: 10px solid #f1c40f;
+            padding-left: 18px;
+            margin-bottom: 1.8rem;
+            color: #2c3e50;
+        }
+        h3 { font-size: 1.6rem; color: #e67e22; margin-bottom: 1.2rem; }
+
+        .picture-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 25px;
+            margin: 20px 0;
+        }
+        .picture-card {
+            background: #ffffff;
+            border-radius: 40px;
+            padding: 25px 15px 20px;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+            border: 3px solid #f0e6d3;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .picture-card:hover {
+            transform: translateY(-8px) scale(1.02);
+            border-color: #f1c40f;
+            box-shadow: 0 12px 30px rgba(241,196,15,0.25);
+        }
+        .picture-emoji { font-size: 5rem !important; display: block; }
+        .picture-word { font-size: 1.8rem; font-weight: 700; color: #2c3e50; }
+        .picture-hint { font-size: 0.95rem; color: #7f8c8d; font-style: italic; }
+
+        .listen-item {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
+            background: #fef9ef;
+            padding: 20px 25px;
+            border-radius: 60px;
+            margin-bottom: 18px;
+            border: 2px solid #f0e6d3;
+        }
+        .listen-emoji { font-size: 4rem; min-width: 70px; text-align: center; }
+        .listen-text { font-size: 1.6rem; font-weight: 600; flex: 1; min-width: 120px; }
+        .listen-btn {
+            background: #f1c40f;
+            border: none;
+            border-radius: 50px;
+            padding: 12px 28px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.2s;
+            color: #2c3e50;
+        }
+        .listen-btn:hover { background: #f39c12; transform: scale(1.05); }
+        .listen-btn.recording { background: #e74c3c; color: white; animation: pulse 1s infinite; }
+
+        .story-box {
+            background: #fef9ef;
+            border-radius: 40px;
+            padding: 2rem;
+            border: 3px solid #f1c40f;
+            font-size: 1.2rem;
+            line-height: 1.8;
+        }
+        .story-question {
+            background: #ffffff;
+            border-radius: 30px;
+            padding: 20px 25px;
+            margin-top: 20px;
+            border: 2px dashed #f39c12;
+        }
+        .story-option {
+            display: inline-block;
+            padding: 12px 30px;
+            border-radius: 60px;
+            background: #ecf0f1;
+            margin: 6px 8px 6px 0;
+            cursor: pointer;
+            font-size: 1.2rem;
+            font-weight: 600;
+            transition: 0.2s;
+            border: 2px solid transparent;
+        }
+        .story-option:hover { background: #f1c40f; transform: scale(1.05); }
+
+        .activity-box {
+            background: #fef9ef;
+            border-radius: 40px;
+            padding: 2rem;
+            border: 3px solid #f1c40f;
+        }
+        .match-row { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 15px 0; }
+        .match-item {
+            background: white;
+            border-radius: 60px;
+            padding: 15px 30px;
+            font-size: 1.6rem;
+            font-weight: 600;
+            border: 3px solid #ddd;
+            cursor: pointer;
+            transition: 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .match-item:hover { border-color: #f1c40f; transform: scale(1.05); }
+        .match-item.matched { background: #d5f5e3; border-color: #27ae60; }
+        .match-emoji { font-size: 3rem; }
+
+        .find-grid { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0; }
+        .find-option {
+            background: white;
+            border-radius: 60px;
+            padding: 20px 35px;
+            font-size: 4rem;
+            border: 4px solid #ddd;
+            cursor: pointer;
+            transition: 0.2s;
+            min-width: 100px;
+            text-align: center;
+        }
+        .find-option:hover { border-color: #f1c40f; transform: scale(1.08); }
+        .find-option.correct { border-color: #27ae60; background: #d5f5e3; }
+        .find-option.wrong { border-color: #e74c3c; background: #fadbd8; }
+
+        .family-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            gap: 20px;
+        }
+        .family-card {
+            background: white;
+            border-radius: 50px;
+            padding: 20px 10px;
+            text-align: center;
+            border: 3px solid #f0e6d3;
+            transition: 0.2s;
+            cursor: pointer;
+        }
+        .family-card:hover { border-color: #f1c40f; transform: translateY(-5px); }
+        .family-emoji { font-size: 4.5rem; display: block; }
+        .family-word { font-size: 1.6rem; font-weight: 700; }
+
+        .back-to-dashboard {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: #2c3e50;
+            color: white;
+            padding: 14px 24px;
+            border-radius: 60px;
+            text-decoration: none;
+            font-weight: bold;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+            z-index: 1002;
+            transition: 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 1.1rem;
+        }
+        .back-to-dashboard:hover { background: #f1c40f; color: #2c3e50; transform: scale(1.05); }
+
+        @media (max-width: 768px) {
+            .course-nav { flex-direction: column; text-align: center; }
+            header { flex-direction: column; text-align: center; top: 115px; }
+            .picture-grid { grid-template-columns: repeat(2, 1fr); }
+            .family-grid { grid-template-columns: repeat(2, 1fr); }
+            .listen-item { flex-direction: column; text-align: center; }
+            .container { padding: 10px; }
+            section { padding: 1.5rem; }
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        .hidden { display: none; }
+        .text-center { text-align: center; }
+    </style>
+</head>
+<body>
+
+<div class="course-nav">
+    <h1><i class="fas fa-child"></i> Beginner · Picture & Play</h1>
+    <div class="unit-selector" id="unit-selector"></div>
+</div>
+
+<header>
+    <h2 id="unit-title">🧸 Unit 1: My World</h2>
+    <nav class="nav-links" id="nav-links">
+        <a href="#dictionary">📖 Picture Dictionary</a>
+        <a href="#listen">🎵 Listen & Repeat</a>
+        <a href="#story">📚 Story Time</a>
+        <a href="#activities">🎮 Fun Activities</a>
+        <a href="#family">👪 Family & Friends</a>
+        <a href="#numbers">🔢 Numbers</a>
+        <a href="#grammar">📝 Grammar</a>
+        <a href="#practice">💬 Practice</a>
+    </nav>
+</header>
+
+<div class="container" id="main-content">
+    <div id="loading" class="text-center" style="padding: 60px 0; font-size: 2rem;">
+        <i class="fas fa-spinner fa-spin"></i> Loading...
+    </div>
+</div>
+
+<a href="../../index.html" class="back-to-dashboard">
+    <i class="fas fa-home"></i> Dashboard
+</a>
+
+<script src="../../js/tts.js"></script>
+<script src="../../js/utils.js"></script>
+<script>
+// ============================================================
+//  BEGINNER TEMPLATE - PICTURE & PLAY
+// ============================================================
+
+const urlParams = new URLSearchParams(window.location.search);
+const lang = urlParams.get('lang') || 'en';
+let unitNum = parseInt(urlParams.get('unit')) || 1;
+
+const ui = {
+    en: {
+        loading: 'Loading...', dictionary: '📖 Picture Dictionary',
+        listen: '🎵 Listen & Repeat', story: '📚 Story Time',
+        activities: '🎮 Fun Activities', family: '👪 Family & Friends',
+        listen_btn: '🔊 Listen', record_btn: '🎤 Record', stop_btn: '⏹ Stop',
+        play_btn: '▶ Play', check: '✅ Check', correct: '🎉 Correct!',
+        wrong: '❌ Try again!', match_instruction: 'Match the picture with the word!',
+        find_instruction: 'Find the correct one!'
+    },
+    ko: {
+        loading: '불러오는 중...', dictionary: '📖 그림 사전',
+        listen: '🎵 듣고 따라하기', story: '📚 이야기 시간',
+        activities: '🎮 재미있는 활동', family: '👪 가족과 친구',
+        listen_btn: '🔊 듣기', record_btn: '🎤 녹음', stop_btn: '⏹ 정지',
+        play_btn: '▶ 재생', check: '✅ 확인', correct: '🎉 정답!',
+        wrong: '❌ 다시 해보세요!', match_instruction: '그림과 단어를 매치하세요!',
+        find_instruction: '올바른 것을 찾으세요!'
+    },
+    ja: {
+        loading: '読み込み中...', dictionary: '📖 絵辞典',
+        listen: '🎵 聞いてリピート', story: '📚 お話タイム',
+        activities: '🎮 楽しいアクティビティ', family: '👪 家族と友達',
+        listen_btn: '🔊 聞く', record_btn: '🎤 録音', stop_btn: '⏹ 停止',
+        play_btn: '▶ 再生', check: '✅ チェック', correct: '🎉 正解！',
+        wrong: '❌ もう一度！', match_instruction: '絵と単語をマッチさせよう！',
+        find_instruction: '正しいものを探そう！'
+    },
+    fr: {
+        loading: 'Chargement...', dictionary: '📖 Dictionnaire illustré',
+        listen: '🎵 Écouter et répéter', story: '📚 Histoire',
+        activities: '🎮 Activités amusantes', family: '👪 Famille et amis',
+        listen_btn: '🔊 Écouter', record_btn: '🎤 Enregistrer', stop_btn: '⏹ Arrêter',
+        play_btn: '▶ Lire', check: '✅ Vérifier', correct: '🎉 Correct !',
+        wrong: '❌ Réessaie !', match_instruction: 'Associe l\'image et le mot !',
+        find_instruction: 'Trouve le bon !'
+    }
+};
+const t = ui[lang] || ui.en;
+
+// ---------- TTS 설정 ----------
+if (window.TTS) {
+    TTS.init();
+    TTS.setLanguage(lang);
+}
+
+// ---------- 데이터 로드 ----------
+async function loadUnit() {
+    const unitStr = String(unitNum).padStart(2, '0');
+    const unitPath = `../../data/1_Beginner/unit_${unitStr}.json`;
+
+    try {
+        const response = await fetch(unitPath);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const unitData = await response.json();
+        renderPage(unitData);
+    } catch (err) {
+        console.error('Load error:', err);
+        document.getElementById('main-content').innerHTML = `
+            <div style="text-align:center;padding:60px;font-size:1.5rem;color:#e74c3c;">
+                ❌ Cannot load Unit ${unitNum}: ${err.message}
+                <br><br>
+                <button onclick="location.reload()" style="padding:12px 30px;font-size:1.2rem;border-radius:30px;background:#f1c40f;border:none;cursor:pointer;">
+                    🔄 Try Again
+                </button>
+            </div>
+        `;
+        const loadingEl = document.getElementById('loading');
+        if (loadingEl) loadingEl.style.display = 'none';
+    }
+}
+
+// ============================================================
+// 🔥🔥🔥 TTS 함수 - preintermediate_template.html 방식으로 통일
+// ============================================================
+
+// 기본 TTS 함수 - preintermediate 방식 그대로 사용
+function speakText(text) {
+    if (window.TTS) {
+        window.TTS.setLanguage(lang);
+        window.TTS.speak(text);
+    }
+}
+
+// 인코딩된 문자열을 디코딩해서 TTS 실행
+function speakItemDecode(encodedText, encodedSound) {
+    const text = decodeURIComponent(encodedText);
+    const sound = decodeURIComponent(encodedSound || text);
+    speakText(sound);
+}
+
+// 간단한 단어/문장 TTS (아포스트로피 문제 없음)
+function speakItem(word, sound) {
+    const text = sound || word;
+    speakText(text);
+}
+
+// ============================================================
+// 렌더링 함수
+// ============================================================
+function renderPage(unit) {
+    const langData = (key) => {
+        const data = unit[key];
+        if (!data) return [];
+        return data[lang] || data['en'] || [];
+    };
+
+    const dict = langData('picture_dictionary');
+    const listen = langData('listen_repeat');
+    const story = unit.story_time?.[lang] || unit.story_time?.['en'] || {};
+    const activities = langData('fun_activities');
+    const family = langData('family_friends');
+    const numbers = unit.numbers?.[lang] || unit.numbers?.['en'] || [];
+    const grammar = unit.grammar?.[lang] || unit.grammar?.['en'] || {};
+    const conversations = unit.practice_conversations?.[lang] || unit.practice_conversations?.['en'] || [];
+
+    const title = unit.title?.[lang] || unit.title?.['en'] || `Unit ${unitNum}`;
+    document.getElementById('unit-title').textContent = `🧸 Unit ${unitNum}: ${title}`;
+
+    let html = '';
+
+    // ---------- PICTURE DICTIONARY ----------
+if (dict.length > 0) {
+    html += `<section id="dictionary"><h2>${t.dictionary}</h2><div class="picture-grid">`;
+    dict.forEach(item => {
+        // 🔥 수정: '를 \'로 escape
+        const safeWord = item.word.replace(/'/g, "\\'");
+        const safeSound = (item.sound || item.word).replace(/'/g, "\\'");
+        html += `
+            <div class="picture-card" onclick="speakText('${safeWord}')">
+                <span class="picture-emoji">${item.emoji || '🔤'}</span>
+                <span class="picture-word">${item.word}</span>
+                <span class="picture-hint">${item.hint || ''}</span>
+            </div>
+        `;
+    });
+    html += `</div></section>`;
+}
+
+// ---------- LISTEN & REPEAT ----------
+if (listen.length > 0) {
+    html += `<section id="listen"><h2>${t.listen}</h2>`;
+    listen.forEach((item, idx) => {
+        // 🔥 수정: '를 \'로 escape
+        const safeText = item.text.replace(/'/g, "\\'");
+        const safeSound = (item.sound || item.text).replace(/'/g, "\\'");
+        html += `
+            <div class="listen-item">
+                <span class="listen-emoji">${item.emoji || '🔊'}</span>
+                <span class="listen-text">${item.text}</span>
+                <div>
+                    <button class="listen-btn" onclick="speakText('${safeSound}')">
+                        ${t.listen_btn}
+                    </button>
+                    <button class="listen-btn" id="rec-btn-${idx}" onclick="toggleRecord(${idx}, '${safeText}')">
+                        ${t.record_btn}
+                    </button>
+                    <button class="listen-btn" id="play-btn-${idx}" style="display:none;" onclick="playRecord(${idx})">
+                        ${t.play_btn}
+                    </button>
+                </div>
+            </div>
+        `;
+    });
+    html += `</section>`;
+}
+
+// ---------- FAMILY & FRIENDS ----------
+if (family.length > 0) {
+    html += `<section id="family"><h2>${t.family}</h2><div class="family-grid">`;
+    family.forEach(item => {
+        // 🔥 수정: '를 \'로 escape
+        const safeWord = item.word.replace(/'/g, "\\'");
+        const safeSound = (item.sound || item.word).replace(/'/g, "\\'");
+        html += `
+            <div class="family-card" onclick="speakText('${safeSound}')">
+                <span class="family-emoji">${item.emoji || '👤'}</span>
+                <span class="family-word">${item.word}</span>
+            </div>
+        `;
+    });
+    html += `</div></section>`;
+}
+
+// ---------- PRACTICE CONVERSATIONS ----------
+if (conversations.length > 0) {
+    html += `<section id="practice"><h2>💬 Practice Conversations</h2>`;
+    conversations.forEach((conv, idx) => {
+        html += `<div style="background:#f8f9fa;padding:15px 20px;border-radius:15px;margin-bottom:15px;border-left:5px solid #9b59b6;">
+            <h4 style="color:#9b59b6;margin-bottom:12px;">${conv.title}</h4>`;
+        conv.lines.forEach(line => {
+            // 🔥 수정: '를 \'로 escape
+            const safeText = line.text.replace(/'/g, "\\'");
+            html += `
+                <div style="padding:6px 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+                    <strong style="color:#3498db;min-width:35px;">${line.speaker}:</strong>
+                    <span style="flex:1;">${line.text}</span>
+                    <button class="listen-btn" style="padding:4px 14px;font-size:0.8rem;" onclick="speakText('${safeText}')">🔊</button>
+                </div>
+            `;
+        });
+        html += `</div>`;
+    });
+    html += `</section>`;
+}
+
+    document.getElementById('main-content').innerHTML = html;
+    const loadingEl = document.getElementById('loading');
+    if (loadingEl) loadingEl.style.display = 'none';
+    buildUnitSelector();
+}
+
+// ---------- 유닛 선택기 ----------
+function buildUnitSelector() {
+    const sel = document.getElementById('unit-selector');
+    if (!sel) return;
+    let html = '';
+    for (let i = 1; i <= 14; i++) {
+        const active = (i === unitNum) ? 'active' : '';
+        html += `<button class="unit-btn ${active}" onclick="navigateUnit(${i})">${i}</button>`;
+    }
+    sel.innerHTML = html;
+}
+
+function navigateUnit(u) {
+    window.location.href = `beginner_template.html?lang=${lang}&unit=${u}&_=${Date.now()}`;
+}
+
+// ---------- 녹음 관련 ----------
+let recordings = {};
+let recorders = {};
+
+function toggleRecord(idx, encodedText) {
+    const btn = document.getElementById(`rec-btn-${idx}`);
+    if (!btn) return;
+
+    if (recorders[idx] && recorders[idx].state === 'recording') {
+        recorders[idx].stop();
+        btn.textContent = t.record_btn;
+        btn.classList.remove('recording');
+        return;
+    }
+    navigator.mediaDevices.getUserMedia({ audio: true }).then(stream => {
+        const recorder = new MediaRecorder(stream);
+        const chunks = [];
+        recorder.ondataavailable = e => chunks.push(e.data);
+        recorder.onstop = () => {
+            const blob = new Blob(chunks, { type: 'audio/webm' });
+            recordings[idx] = URL.createObjectURL(blob);
+            const playBtn = document.getElementById(`play-btn-${idx}`);
+            if (playBtn) playBtn.style.display = 'inline-block';
+            stream.getTracks().forEach(t => t.stop());
+            btn.textContent = t.record_btn;
+            btn.classList.remove('recording');
+        };
+        recorder.start();
+        recorders[idx] = recorder;
+        btn.textContent = t.stop_btn;
+        btn.classList.add('recording');
+    }).catch(() => alert('🎤 Please allow microphone access.'));
+}
+
+function playRecord(idx) {
+    if (recordings[idx]) {
+        new Audio(recordings[idx]).play();
+    }
+}
+
+// ---------- 스토리 옵션 ----------
+function checkStoryOption(el, isCorrect) {
+    const fb = document.getElementById('story-feedback');
+    if (!fb) return;
+    if (isCorrect === 'true') {
+        fb.innerHTML = `${t.correct} 🎉`;
+        fb.style.color = '#27ae60';
+    } else {
+        fb.innerHTML = `${t.wrong} 😊`;
+        fb.style.color = '#e74c3c';
+    }
+    document.querySelectorAll('.story-option').forEach(o => o.style.opacity = '0.5');
+    el.style.opacity = '1';
+    el.style.borderColor = isCorrect === 'true' ? '#27ae60' : '#e74c3c';
+}
+
+// ---------- 매칭 게임 ----------
+let matchSelections = {};
+
+function matchPair(el, actIdx, pairIdx) {
+    const row = document.getElementById(`match-row-${actIdx}`);
+    if (!row) return;
+    const items = row.querySelectorAll('.match-item');
+    const fb = document.getElementById(`match-feedback-${actIdx}`);
+    if (!fb) return;
+
+    if (!matchSelections[actIdx]) matchSelections[actIdx] = [];
+    const sel = matchSelections[actIdx];
+
+    if (sel.includes(pairIdx)) {
+        sel.splice(sel.indexOf(pairIdx), 1);
+        el.classList.remove('matched');
+        return;
+    }
+
+    sel.push(pairIdx);
+    el.classList.add('matched');
+
+    const totalPairs = items.length / 2;
+    if (sel.length === totalPairs) {
+        fb.innerHTML = `${t.correct} 🎉`;
+        fb.style.color = '#27ae60';
+    } else {
+        fb.innerHTML = `✅ ${sel.length}/${totalPairs} ${t.check}`;
+        fb.style.color = '#f39c12';
+    }
+}
+
+// ---------- 찾기 게임 ----------
+function findOption(el, actIdx) {
+    const fb = document.getElementById(`find-feedback-${actIdx}`);
+    if (!fb) return;
+    const isTarget = el.dataset.target === 'true';
+    if (isTarget) {
+        el.classList.add('correct');
+        fb.innerHTML = `${t.correct} 🎉`;
+        fb.style.color = '#27ae60';
+        document.querySelectorAll(`#find-grid-${actIdx} .find-option`).forEach(o => {
+            if (!o.classList.contains('correct')) o.classList.add('wrong');
+        });
+    } else {
+        el.classList.add('wrong');
+        fb.innerHTML = `${t.wrong} 😊`;
+        fb.style.color = '#e74c3c';
+        setTimeout(() => {
+            el.classList.remove('wrong');
+            fb.innerHTML = '';
+        }, 800);
+    }
+}
+
+// ---------- 전역 노출 ----------
+window.speakText = speakText;
+window.speakItemDecode = speakItemDecode;
+window.speakItem = speakItem;
+window.toggleRecord = toggleRecord;
+window.playRecord = playRecord;
+window.checkStoryOption = checkStoryOption;
+window.matchPair = matchPair;
+window.findOption = findOption;
+window.navigateUnit = navigateUnit;
+
+document.addEventListener('DOMContentLoaded', loadUnit);
+</script>
+</body>
+</html>

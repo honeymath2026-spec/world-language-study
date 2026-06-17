@@ -1,0 +1,31 @@
+"grammar": {
+    "en": {
+      "title": "Grammar Spot",
+      "content": "I'm = I am<br>name's = name is<br>What's = What is<br><br><strong>am/are/is</strong><br>I <u>am</u> Sandra.<br>How <u>are</u> you?<br>This <u>is</u> John.<br><br><strong>my/your</strong><br><u>My</u> name's Hiro.<br>What's <u>your</u> name?<br><br><strong>Plurals</strong><br>one book → two <u>books</u><br>one sandwich → ten <u>sandwiches</u>"
+    },
+    "ja": {
+      "title": "文法ポイント",
+      "content": ""
+    },
+    "fr": {
+      "title": "Grammaire",
+      "content": ""
+    },
+    "ko": {
+      "title": "문법 포인트",
+      "content": ""
+    }
+  },
+
+  Grammar Spot 는 영어 틀을 기준으로 참고하되 
+  "en": ""<-영어
+  "ja": ""<-일본어
+  "fr": ""<-프랑스어
+  "ko": ""<-한국어
+  각 언어로 변환하되 완성된 Grammar Spot을 읽어 본 후 해당 언어로 변환된 내용이
+  그 나라 문법에 적용이 안되면 해당 유닛 내용을 처음부터 다시 검토한다.
+  검토한 내용을 각 나라 언어를 토대로 중요 문법을 다시 정리한다.
+  각 나라 언어에 문법 내용이 맞을 때까지 위 조건을 반복한다.
+  각 나라의 언어로 정리가 완성되면 작성된 내용을 보여준다.
+각 나라 언어를 완성한 후에 그 나라 언어 이외의 다른 나라 언어로 불필요한 설명은 빼줘.
+

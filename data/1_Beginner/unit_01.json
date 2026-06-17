@@ -1,0 +1,420 @@
+{
+  "title": {
+    "en": "Hello!",
+    "ja": "こんにちは！",
+    "fr": "Bonjour !",
+    "ko": "안녕하세요!"
+  },
+  "topic": {
+    "en": "Greetings · Introductions · am/are/is · my/your · Numbers 1-10 · Plurals",
+    "ja": "挨拶 · 自己紹介 · am/are/is · my/your · 数字1-10 · 複数形",
+    "fr": "Salutations · Présentations · am/are/is · my/your · Nombres 1-10 · Pluriels",
+    "ko": "인사 · 자기소개 · am/are/is · my/your · 숫자 1-10 · 복수형"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "book", "emoji": "📕", "word": "book", "hint": "I read a book", "sound": "book" },
+      { "id": "camera", "emoji": "📷", "word": "camera", "hint": "I take photos", "sound": "camera" },
+      { "id": "car", "emoji": "🚗", "word": "car", "hint": "I drive a car", "sound": "car" },
+      { "id": "photograph", "emoji": "🖼️", "word": "photograph", "hint": "A picture", "sound": "photograph" },
+      { "id": "computer", "emoji": "💻", "word": "computer", "hint": "I use a computer", "sound": "computer" },
+      { "id": "bag", "emoji": "👜", "word": "bag", "hint": "My school bag", "sound": "bag" },
+      { "id": "hamburger", "emoji": "🍔", "word": "hamburger", "hint": "I eat a hamburger", "sound": "hamburger" },
+      { "id": "television", "emoji": "📺", "word": "television", "hint": "I watch TV", "sound": "television" },
+      { "id": "sandwich", "emoji": "🥪", "word": "sandwich", "hint": "I eat a sandwich", "sound": "sandwich" },
+      { "id": "house", "emoji": "🏠", "word": "house", "hint": "I live in a house", "sound": "house" }
+    ],
+    "ja": [
+      { "id": "book", "emoji": "📕", "word": "本", "hint": "本を読みます", "sound": "ほん" },
+      { "id": "camera", "emoji": "📷", "word": "カメラ", "hint": "写真を撮ります", "sound": "かめら" },
+      { "id": "car", "emoji": "🚗", "word": "車", "hint": "車を運転します", "sound": "くるま" },
+      { "id": "photograph", "emoji": "🖼️", "word": "写真", "hint": "絵や写真", "sound": "しゃしん" },
+      { "id": "computer", "emoji": "💻", "word": "コンピュータ", "hint": "コンピュータを使う", "sound": "こんぴゅーた" },
+      { "id": "bag", "emoji": "👜", "word": "かばん", "hint": "学校のかばん", "sound": "かばん" },
+      { "id": "hamburger", "emoji": "🍔", "word": "ハンバーガー", "hint": "ハンバーガーを食べる", "sound": "はんばーがー" },
+      { "id": "television", "emoji": "📺", "word": "テレビ", "hint": "テレビを見る", "sound": "てれび" },
+      { "id": "sandwich", "emoji": "🥪", "word": "サンドイッチ", "hint": "サンドイッチを食べる", "sound": "さんどいっち" },
+      { "id": "house", "emoji": "🏠", "word": "家", "hint": "家に住む", "sound": "いえ" }
+    ],
+    "fr": [
+      { "id": "book", "emoji": "📕", "word": "livre", "hint": "Je lis un livre", "sound": "livre" },
+      { "id": "camera", "emoji": "📷", "word": "appareil photo", "hint": "Je prends des photos", "sound": "appareil photo" },
+      { "id": "car", "emoji": "🚗", "word": "voiture", "hint": "Je conduis une voiture", "sound": "voiture" },
+      { "id": "photograph", "emoji": "🖼️", "word": "photographie", "hint": "Une image", "sound": "photographie" },
+      { "id": "computer", "emoji": "💻", "word": "ordinateur", "hint": "J'utilise un ordinateur", "sound": "ordinateur" },
+      { "id": "bag", "emoji": "👜", "word": "sac", "hint": "Mon sac d'école", "sound": "sac" },
+      { "id": "hamburger", "emoji": "🍔", "word": "hamburger", "hint": "Je mange un hamburger", "sound": "hamburger" },
+      { "id": "television", "emoji": "📺", "word": "télévision", "hint": "Je regarde la télé", "sound": "television" },
+      { "id": "sandwich", "emoji": "🥪", "word": "sandwich", "hint": "Je mange un sandwich", "sound": "sandwich" },
+      { "id": "house", "emoji": "🏠", "word": "maison", "hint": "Je vis dans une maison", "sound": "maison" }
+    ],
+    "ko": [
+      { "id": "book", "emoji": "📕", "word": "책", "hint": "책을 읽어요", "sound": "책" },
+      { "id": "camera", "emoji": "📷", "word": "카메라", "hint": "사진을 찍어요", "sound": "카메라" },
+      { "id": "car", "emoji": "🚗", "word": "자동차", "hint": "자동차를 운전해요", "sound": "자동차" },
+      { "id": "photograph", "emoji": "🖼️", "word": "사진", "hint": "그림이나 사진", "sound": "사진" },
+      { "id": "computer", "emoji": "💻", "word": "컴퓨터", "hint": "컴퓨터를 사용해요", "sound": "컴퓨터" },
+      { "id": "bag", "emoji": "👜", "word": "가방", "hint": "학교 가방", "sound": "가방" },
+      { "id": "hamburger", "emoji": "🍔", "word": "햄버거", "hint": "햄버거를 먹어요", "sound": "햄버거" },
+      { "id": "television", "emoji": "📺", "word": "텔레비전", "hint": "TV를 봐요", "sound": "텔레비전" },
+      { "id": "sandwich", "emoji": "🥪", "word": "샌드위치", "hint": "샌드위치를 먹어요", "sound": "샌드위치" },
+      { "id": "house", "emoji": "🏠", "word": "집", "hint": "집에 살아요", "sound": "집" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "hello", "emoji": "👋", "text": "Hello. I'm Sandra.", "sound": "Hello. I am Sandra." },
+      { "id": "whats_your_name", "emoji": "❓", "text": "What's your name?", "sound": "What is your name?" },
+      { "id": "my_name_is", "emoji": "🙋", "text": "My name's Hiro.", "sound": "My name is Hiro." },
+      { "id": "this_is", "emoji": "👥", "text": "This is John.", "sound": "This is John." },
+      { "id": "how_are_you", "emoji": "😊", "text": "How are you?", "sound": "How are you?" },
+      { "id": "fine_thanks", "emoji": "👍", "text": "Fine, thanks. And you?", "sound": "Fine, thanks. And you?" },
+      { "id": "very_well", "emoji": "✨", "text": "Very well, thanks.", "sound": "Very well, thanks." },
+      { "id": "im_ok", "emoji": "😄", "text": "I'm OK, thanks.", "sound": "I am OK, thanks." }
+    ],
+    "ja": [
+      { "id": "hello", "emoji": "👋", "text": "こんにちは。私はサンドラです。", "sound": "こんにちは。わたしはサンドラです。" },
+      { "id": "whats_your_name", "emoji": "❓", "text": "お名前は何ですか？", "sound": "おなまえはなんですか？" },
+      { "id": "my_name_is", "emoji": "🙋", "text": "私の名前はヒロです。", "sound": "わたしのなまえはヒロです。" },
+      { "id": "this_is", "emoji": "👥", "text": "こちらはジョンです。", "sound": "こちらはジョンです。" },
+      { "id": "how_are_you", "emoji": "😊", "text": "お元気ですか？", "sound": "おげんきですか？" },
+      { "id": "fine_thanks", "emoji": "👍", "text": "元気です。ありがとう。あなたは？", "sound": "げんきです。ありがとう。あなたは？" },
+      { "id": "very_well", "emoji": "✨", "text": "とても元気です。ありがとう。", "sound": "とてもげんきです。ありがとう。" },
+      { "id": "im_ok", "emoji": "😄", "text": "元気です。ありがとう。", "sound": "げんきです。ありがとう。" }
+    ],
+    "fr": [
+      { "id": "hello", "emoji": "👋", "text": "Bonjour. Je suis Sandra.", "sound": "Bonjour. Je suis Sandra." },
+      { "id": "whats_your_name", "emoji": "❓", "text": "Comment vous appelez-vous ?", "sound": "Comment vous appelez-vous ?" },
+      { "id": "my_name_is", "emoji": "🙋", "text": "Je m'appelle Hiro.", "sound": "Je m'appelle Hiro." },
+      { "id": "this_is", "emoji": "👥", "text": "Voici John.", "sound": "Voici John." },
+      { "id": "how_are_you", "emoji": "😊", "text": "Comment allez-vous ?", "sound": "Comment allez-vous ?" },
+      { "id": "fine_thanks", "emoji": "👍", "text": "Bien, merci. Et vous ?", "sound": "Bien, merci. Et vous ?" },
+      { "id": "very_well", "emoji": "✨", "text": "Très bien, merci.", "sound": "Très bien, merci." },
+      { "id": "im_ok", "emoji": "😄", "text": "Je vais bien, merci.", "sound": "Je vais bien, merci." }
+    ],
+    "ko": [
+      { "id": "hello", "emoji": "👋", "text": "안녕하세요. 저는 샌드라입니다.", "sound": "안녕하세요. 저는 샌드라입니다." },
+      { "id": "whats_your_name", "emoji": "❓", "text": "이름이 무엇인가요?", "sound": "이름이 무엇인가요?" },
+      { "id": "my_name_is", "emoji": "🙋", "text": "제 이름은 히로입니다.", "sound": "제 이름은 히로입니다." },
+      { "id": "this_is", "emoji": "👥", "text": "이분은 존입니다.", "sound": "이분은 존입니다." },
+      { "id": "how_are_you", "emoji": "😊", "text": "어떻게 지내세요?", "sound": "어떻게 지내세요?" },
+      { "id": "fine_thanks", "emoji": "👍", "text": "잘 지내요. 감사합니다. 당신은요?", "sound": "잘 지내요. 감사합니다. 당신은요?" },
+      { "id": "very_well", "emoji": "✨", "text": "아주 잘 지내요. 감사합니다.", "sound": "아주 잘 지내요. 감사합니다." },
+      { "id": "im_ok", "emoji": "😄", "text": "잘 지내요. 감사합니다.", "sound": "잘 지내요. 감사합니다." }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "Hello!",
+      "content": "👋 Hello. I'm Sandra. What's your name? 🙋 My name's Hiro. 👥 Sandra, this is John. John, this is Hiro. 😊 Hello, John. Hello, Hiro. How are you? 👍 Fine, thanks. And you? ✨ Very well, thanks.",
+      "question": "What is the boy's name?",
+      "options": [
+        { "text": "Hiro", "emoji": "🙋", "correct": true },
+        { "text": "John", "emoji": "👥", "correct": false },
+        { "text": "Sandra", "emoji": "👩", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "こんにちは！",
+      "content": "👋 こんにちは。私はサンドラです。お名前は何ですか？ 🙋 私の名前はヒロです。 👥 サンドラ、こちらはジョンです。ジョン、こちらはヒロです。 😊 こんにちは、ジョン。こんにちは、ヒロ。お元気ですか？ 👍 元気です。ありがとう。あなたは？ ✨ とても元気です。ありがとう。",
+      "question": "男の子の名前は何ですか？",
+      "options": [
+        { "text": "ヒロ", "emoji": "🙋", "correct": true },
+        { "text": "ジョン", "emoji": "👥", "correct": false },
+        { "text": "サンドラ", "emoji": "👩", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "Bonjour !",
+      "content": "👋 Bonjour. Je suis Sandra. Comment vous appelez-vous ? 🙋 Je m'appelle Hiro. 👥 Sandra, voici John. John, voici Hiro. 😊 Bonjour, John. Bonjour, Hiro. Comment allez-vous ? 👍 Bien, merci. Et vous ? ✨ Très bien, merci.",
+      "question": "Quel est le nom du garçon ?",
+      "options": [
+        { "text": "Hiro", "emoji": "🙋", "correct": true },
+        { "text": "John", "emoji": "👥", "correct": false },
+        { "text": "Sandra", "emoji": "👩", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "안녕하세요!",
+      "content": "👋 안녕하세요. 저는 샌드라입니다. 이름이 무엇인가요? 🙋 제 이름은 히로입니다. 👥 샌드라, 이분은 존입니다. 존, 이분은 히로입니다. 😊 안녕하세요, 존. 안녕하세요, 히로. 어떻게 지내세요? 👍 잘 지내요. 감사합니다. 당신은요? ✨ 아주 잘 지내요. 감사합니다.",
+      "question": "남자아이의 이름은 무엇인가요?",
+      "options": [
+        { "text": "히로", "emoji": "🙋", "correct": true },
+        { "text": "존", "emoji": "👥", "correct": false },
+        { "text": "샌드라", "emoji": "👩", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the picture with the word!",
+        "pairs": [
+          { "emoji": "📕", "word": "book" },
+          { "emoji": "📷", "word": "camera" },
+          { "emoji": "🚗", "word": "car" },
+          { "emoji": "🖼️", "word": "photograph" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the camera! 📷",
+        "target": "📷",
+        "options": ["📕", "📷", "🚗", "🖼️"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "絵と単語をマッチさせよう！",
+        "pairs": [
+          { "emoji": "📕", "word": "本" },
+          { "emoji": "📷", "word": "カメラ" },
+          { "emoji": "🚗", "word": "車" },
+          { "emoji": "🖼️", "word": "写真" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "カメラを探そう！📷",
+        "target": "📷",
+        "options": ["📕", "📷", "🚗", "🖼️"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associe l'image et le mot !",
+        "pairs": [
+          { "emoji": "📕", "word": "livre" },
+          { "emoji": "📷", "word": "appareil photo" },
+          { "emoji": "🚗", "word": "voiture" },
+          { "emoji": "🖼️", "word": "photographie" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouve l'appareil photo ! 📷",
+        "target": "📷",
+        "options": ["📕", "📷", "🚗", "🖼️"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "그림과 단어를 매치하세요!",
+        "pairs": [
+          { "emoji": "📕", "word": "책" },
+          { "emoji": "📷", "word": "카메라" },
+          { "emoji": "🚗", "word": "자동차" },
+          { "emoji": "🖼️", "word": "사진" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "카메라를 찾으세요! 📷",
+        "target": "📷",
+        "options": ["📕", "📷", "🚗", "🖼️"]
+      }
+    ]
+  },
+  "numbers": {
+    "en": [
+      { "number": 1, "word": "one", "emoji": "1️⃣" },
+      { "number": 2, "word": "two", "emoji": "2️⃣" },
+      { "number": 3, "word": "three", "emoji": "3️⃣" },
+      { "number": 4, "word": "four", "emoji": "4️⃣" },
+      { "number": 5, "word": "five", "emoji": "5️⃣" },
+      { "number": 6, "word": "six", "emoji": "6️⃣" },
+      { "number": 7, "word": "seven", "emoji": "7️⃣" },
+      { "number": 8, "word": "eight", "emoji": "8️⃣" },
+      { "number": 9, "word": "nine", "emoji": "9️⃣" },
+      { "number": 10, "word": "ten", "emoji": "🔟" }
+    ],
+    "ja": [
+      { "number": 1, "word": "いち", "emoji": "1️⃣" },
+      { "number": 2, "word": "に", "emoji": "2️⃣" },
+      { "number": 3, "word": "さん", "emoji": "3️⃣" },
+      { "number": 4, "word": "よん", "emoji": "4️⃣" },
+      { "number": 5, "word": "ご", "emoji": "5️⃣" },
+      { "number": 6, "word": "ろく", "emoji": "6️⃣" },
+      { "number": 7, "word": "なな", "emoji": "7️⃣" },
+      { "number": 8, "word": "はち", "emoji": "8️⃣" },
+      { "number": 9, "word": "きゅう", "emoji": "9️⃣" },
+      { "number": 10, "word": "じゅう", "emoji": "🔟" }
+    ],
+    "fr": [
+      { "number": 1, "word": "un", "emoji": "1️⃣" },
+      { "number": 2, "word": "deux", "emoji": "2️⃣" },
+      { "number": 3, "word": "trois", "emoji": "3️⃣" },
+      { "number": 4, "word": "quatre", "emoji": "4️⃣" },
+      { "number": 5, "word": "cinq", "emoji": "5️⃣" },
+      { "number": 6, "word": "six", "emoji": "6️⃣" },
+      { "number": 7, "word": "sept", "emoji": "7️⃣" },
+      { "number": 8, "word": "huit", "emoji": "8️⃣" },
+      { "number": 9, "word": "neuf", "emoji": "9️⃣" },
+      { "number": 10, "word": "dix", "emoji": "🔟" }
+    ],
+    "ko": [
+      { "number": 1, "word": "하나", "emoji": "1️⃣" },
+      { "number": 2, "word": "둘", "emoji": "2️⃣" },
+      { "number": 3, "word": "셋", "emoji": "3️⃣" },
+      { "number": 4, "word": "넷", "emoji": "4️⃣" },
+      { "number": 5, "word": "다섯", "emoji": "5️⃣" },
+      { "number": 6, "word": "여섯", "emoji": "6️⃣" },
+      { "number": 7, "word": "일곱", "emoji": "7️⃣" },
+      { "number": 8, "word": "여덟", "emoji": "8️⃣" },
+      { "number": 9, "word": "아홉", "emoji": "9️⃣" },
+      { "number": 10, "word": "열", "emoji": "🔟" }
+    ]
+  },
+  "grammar": {
+  "en": {
+    "title": "Grammar Spot",
+    "content": "<strong>I'm = I am</strong><br>name's = name is<br>What's = What is<br><br><strong>am/are/is</strong><br>I <u>am</u> Sandra.<br>How <u>are</u> you?<br>This <u>is</u> John.<br><br><strong>my/your</strong><br><u>My</u> name's Hiro.<br>What's <u>your</u> name?<br><br><strong>Plurals</strong><br>one book → two <u>books</u><br>one sandwich → ten <u>sandwiches</u>"
+  },
+  "ja": {
+    "title": "文法ポイント",
+    "content": "<strong>I'm = I am</strong><br>（私は〜です）<br><strong>name's = name is</strong><br>（名前は〜です）<br><strong>What's = What is</strong><br>（〜は何ですか？）<br><br><strong>am/are/is（be動詞）</strong><br>I <u>am</u> Sandra.（私はサンドラです）<br>How <u>are</u> you?（お元気ですか？）<br>This <u>is</u> John.（こちらはジョンです）<br><br><strong>my/your（所有格）</strong><br><u>My</u> name's Hiro.（私の名前はヒロです）<br>What's <u>your</u> name?（あなたの名前は何ですか？）<br><br><strong>複数形</strong><br>one book → two <u>books</u>（本）<br>one sandwich → ten <u>sandwiches</u>（サンドイッチ）<br>※英語では名詞に -s/-es を付けて複数形を作ります。"
+  },
+  "fr": {
+    "title": "Grammaire",
+    "content": "<strong>I'm = I am</strong><br>（Je suis）<br><strong>name's = name is</strong><br>（s'appelle / le nom est）<br><strong>What's = What is</strong><br>（Qu'est-ce que c'est ? / Quel est... ?）<br><br><strong>am/are/is（verbe être）</strong><br>Je <u>suis</u> Sandra.<br>Comment <u>allez</u>-vous ?<br>C'<u>est</u> John.<br><br><strong>my/your（possessifs）</strong><br><u>Mon</u> nom est Hiro.<br>Quel est <u>ton</u> nom ?<br><br><strong>Pluriels</strong><br>one book → two <u>books</u>（un livre → deux livres）<br>one sandwich → ten <u>sandwiches</u>（un sandwich → dix sandwiches）<br>※En français, on ajoute -s ou -x pour former le pluriel des noms."
+  },
+  "ko": {
+    "title": "문법 포인트",
+    "content": "<strong>I'm = I am</strong><br>（나는 ~입니다 / 저는 ~입니다）<br><strong>name's = name is</strong><br>（이름은 ~입니다）<br><strong>What's = What is</strong><br>（~은/는 무엇입니까?）<br><br><strong>am/are/is（be동사）</strong><br>I <u>am</u> Sandra.（저는 샌드라입니다）<br>How <u>are</u> you?（어떻게 지내세요?）<br>This <u>is</u> John.（이분은 존입니다）<br><br><strong>my/your（소유격）</strong><br><u>My</u> name's Hiro.（제 이름은 히로입니다）<br>What's <u>your</u> name?（당신의 이름은 무엇입니까?）<br><br><strong>복수형</strong><br>one book → two <u>books</u>（책 한 권 → 책 두 권）<br>one sandwich → ten <u>sandwiches</u>（샌드위치 하나 → 샌드위치 열 개）<br>※영어에서는 명사에 -s/-es를 붙여 복수형을 만듭니다."
+  }
+  },
+  "practice_conversations": {
+    "en": [
+      {
+        "title": "Conversation 1",
+        "lines": [
+          { "speaker": "A", "text": "Hello. My name's Anna. What's your name?" },
+          { "speaker": "B", "text": "Ben." }
+        ]
+      },
+      {
+        "title": "Conversation 2",
+        "lines": [
+          { "speaker": "C", "text": "Hello. My name's Carla. What's your name?" },
+          { "speaker": "D", "text": "My name's David." }
+        ]
+      },
+      {
+        "title": "Conversation 3",
+        "lines": [
+          { "speaker": "B", "text": "Hello, Anna. How are you?" },
+          { "speaker": "A", "text": "Fine, thanks, Ben. And you?" },
+          { "speaker": "B", "text": "Very well, thanks." }
+        ]
+      },
+      {
+        "title": "Conversation 4",
+        "lines": [
+          { "speaker": "D", "text": "Hi, Carla. How are you?" },
+          { "speaker": "C", "text": "Fine, thanks. And you?" },
+          { "speaker": "D", "text": "OK, thanks." }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "会話 1",
+        "lines": [
+          { "speaker": "A", "text": "こんにちは。私の名前はアンナです。あなたの名前は何ですか？" },
+          { "speaker": "B", "text": "ベンです。" }
+        ]
+      },
+      {
+        "title": "会話 2",
+        "lines": [
+          { "speaker": "C", "text": "こんにちは。私の名前はカーラです。あなたの名前は何ですか？" },
+          { "speaker": "D", "text": "私の名前はデイビッドです。" }
+        ]
+      },
+      {
+        "title": "会話 3",
+        "lines": [
+          { "speaker": "B", "text": "こんにちは、アンナ。お元気ですか？" },
+          { "speaker": "A", "text": "元気です、ベン。ありがとう。あなたは？" },
+          { "speaker": "B", "text": "とても元気です。ありがとう。" }
+        ]
+      },
+      {
+        "title": "会話 4",
+        "lines": [
+          { "speaker": "D", "text": "こんにちは、カーラ。お元気ですか？" },
+          { "speaker": "C", "text": "元気です。ありがとう。あなたは？" },
+          { "speaker": "D", "text": "元気です。ありがとう。" }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "Conversation 1",
+        "lines": [
+          { "speaker": "A", "text": "Bonjour. Je m'appelle Anna. Comment vous appelez-vous ?" },
+          { "speaker": "B", "text": "Ben." }
+        ]
+      },
+      {
+        "title": "Conversation 2",
+        "lines": [
+          { "speaker": "C", "text": "Bonjour. Je m'appelle Carla. Comment vous appelez-vous ?" },
+          { "speaker": "D", "text": "Je m'appelle David." }
+        ]
+      },
+      {
+        "title": "Conversation 3",
+        "lines": [
+          { "speaker": "B", "text": "Bonjour, Anna. Comment allez-vous ?" },
+          { "speaker": "A", "text": "Bien, merci, Ben. Et vous ?" },
+          { "speaker": "B", "text": "Très bien, merci." }
+        ]
+      },
+      {
+        "title": "Conversation 4",
+        "lines": [
+          { "speaker": "D", "text": "Bonjour, Carla. Comment allez-vous ?" },
+          { "speaker": "C", "text": "Bien, merci. Et vous ?" },
+          { "speaker": "D", "text": "Bien, merci." }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "대화 1",
+        "lines": [
+          { "speaker": "A", "text": "안녕하세요. 제 이름은 안나입니다. 당신의 이름은 무엇인가요?" },
+          { "speaker": "B", "text": "벤입니다." }
+        ]
+      },
+      {
+        "title": "대화 2",
+        "lines": [
+          { "speaker": "C", "text": "안녕하세요. 제 이름은 칼라입니다. 당신의 이름은 무엇인가요?" },
+          { "speaker": "D", "text": "제 이름은 데이비드입니다." }
+        ]
+      },
+      {
+        "title": "대화 3",
+        "lines": [
+          { "speaker": "B", "text": "안녕하세요, 안나. 어떻게 지내세요?" },
+          { "speaker": "A", "text": "잘 지내요, 벤. 감사합니다. 당신은요?" },
+          { "speaker": "B", "text": "아주 잘 지내요. 감사합니다." }
+        ]
+      },
+      {
+        "title": "대화 4",
+        "lines": [
+          { "speaker": "D", "text": "안녕하세요, 칼라. 어떻게 지내세요?" },
+          { "speaker": "C", "text": "잘 지내요. 감사합니다. 당신은요?" },
+          { "speaker": "D", "text": "잘 지내요. 감사합니다." }
+        ]
+      }
+    ]
+  }
+}
