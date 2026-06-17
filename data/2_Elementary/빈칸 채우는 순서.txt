@@ -337,18 +337,99 @@ elementary 수준의 영어/일본어/프랑스어/한국어 언어로 확대해
 검토가 완료되고 각 나라 문법이 그 나라에서 사용하는 내용이 맞다면 그 내용을 작성해서 보여줘.
 
 
-
 -------------------------------------
-"deepening_question"	"deepening_placeholder"
--------------------------------------
-
-
-
--------------------------------------
-"critical_question"	"critical_placeholder"
+"content_check_question" "content_check_keywords" "content_check_placeholder"
 -------------------------------------
 
 
+다음은 영어 작성 틀 예시이다. 
+
+예시 틀
+  "content_check_question": {
+    "en": "The text explains how to introduce yourself and others, talk about countries, and name everyday objects in English. <b>How do you introduce yourself and ask someone's name? How do you say where you are from? What is the difference between 'a' and 'an'?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_keywords": {
+    "en": "introduce, name, from, countries, a/an, everyday objects",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "content_check_placeholder": {
+    "en": "Explain how to introduce yourself, ask for someone's name, talk about where you are from, and use a/an...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
 
 
-2 
+
+예시 틀
+"deepening_question": {
+    "en": "The listening and reading texts show different ways to greet people and talk about where they are from. <b>How do you say hello and goodbye in your country? How are these different from English greetings? Do you have different greetings for the morning, afternoon, and evening?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "deepening_placeholder": {
+    "en": "In my country, we say... This is different from English because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+
+
+
+예시 틀
+"critical_question": {
+    "en": "In this unit, you learned to introduce yourself, talk about countries, and name everyday objects. <b>Why is it important to learn how to greet people and introduce yourself when you learn a new language? How can learning these basic phrases help you when you travel to an English-speaking country?</b>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "critical_placeholder": {
+    "en": "Learning to greet and introduce yourself is important because... These phrases help when travelling because...",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  }
+
+
+조건 내용
+
+----------------------------------------
+"content_check_question"은 "extra_reading_html" 읽기 자료에서 찾을 수 있는 간단한 질문으로 한다.
+"content_check_keywords" "content_check_placeholder"는 "content_check_question"다에 답에 대한 간략한 틀을 보여준다.
+
+"deepening_question"은 최종 "critical_question"를 묻기 전에 미리 생각해 두어야 알아야할 내용에 대한 
+"content_check_question"과 관련된 간단한 생각을 할 수 있는 질문으로 작성한다.
+"deepening_placeholder"는 "deepening_question"에 답에 대한 간략한 틀을 보여준다.
+
+"critical_question"는 이번 유닛 전체 내용에 대한 사고력을 요하는 문제로 이번 유닛 전체를 포괄(관통)할 수 있는 내용에 대한 
+주제에 대해 토론을 할 수 있는 문제를 작성한다.
+"critical_placeholder"는 "critical_question"에 답에 대한 간략한 틀을 보여준다.
+
+! 주의:
+"content_check_question" / "deepening_question" / "critical_question" 세 질문 모두 각 나라의 초등과정(elementary) 
+수준으로 작성한다.
+
+"en": "", <-영어
+"ja": "", <-일본어
+"fr": "", <-프랑스어
+"ko": "" <-한국어
+작성된 영어틀은 기준으로 참고하고 틀은 유지하되 각 나라에서 사용되지 않는 
+문법 내용은 절대 사용하지 말고 각 나라의 문법적 지식에 맞게 생각한 후
+각 나라별로 내용을 검토해서 각 나라의 문법 내용에 맞게 따로 질문을 작성해줘.
+각 나라별 작성할 질문 내용이 완료되면 재검토 해보고 위의 조건이 만족할 때 까지 계속 검토해줘.
+각 나라별 작성할 질문이 완료되면 재검토 해보고 위의 조건이 만족할 때 까지 검토해줘.
+----------------------------------------
+
+모든 검토가 완료되고 각 나라에 해당하는 질문 내용이 
+그 나라에서 사용하는 초등과정(elementary) 
+수준으로 작성된 질문 내용과 맞다면 그 내용을 작성해서 보여줘.
+
+위에 제시된 각 나라의 예시 틀에 맞추어 최종 내용은 json 파일 형식으로 수정한 후 보여줘.
+
+

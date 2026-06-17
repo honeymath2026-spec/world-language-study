@@ -646,45 +646,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 인사와 정체성</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 안녕하세요, 이름, 인사, 대화</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 누군가를 처음 만날 때, 대화를 시작하기 위해 \"<select class='vocab-select'><option value=''>── 선택 ──</option><option value='annyeong'>안녕하세요</option><option value='ireum'>이름</option><option value='insa'>인사</option><option value='daehwa'>대화</option></select>\"라고 말합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='annyeong' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 다른 사람이 그 사람을 부를 때 사용하는 특별한 단어는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='annyeong'>안녕하세요</option><option value='ireum'>이름</option><option value='insa'>인사</option><option value='daehwa'>대화</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='ireum' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. <select class='vocab-select'><option value=''>── 선택 ──</option><option value='annyeong'>안녕하세요</option><option value='ireum'>이름</option><option value='insa'>인사</option><option value='daehwa'>대화</option></select>는 정보를 공유하기 위해 둘 이상의 사람들 사이에서 이루어지는 이야기입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='daehwa' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. \"좋은 아침입니다\"와 \"좋은 저녁입니다\"는 하루 중 다른 시간에 사용되는 다른 종류의 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='annyeong'>안녕하세요</option><option value='ireum'>이름</option><option value='insa'>인사</option><option value='daehwa'>대화</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='insa' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 배움과 작별</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 배우다, 친구, 안녕히 가세요</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 다른 사람들과 이야기함으로써 다른 사람과 장소에 대해 새로운 것을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='baeuda'>배우다</option><option value='chingu'>친구</option><option value='annyeonghi-gaseyo'>안녕히 가세요</option></select> 수 있습니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='baeuda' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 대화를 마치고 자리를 떠날 때 \"<select class='vocab-select'><option value=''>── 선택 ──</option><option value='baeuda'>배우다</option><option value='chingu'>친구</option><option value='annyeonghi-gaseyo'>안녕히 가세요</option></select>\" 또는 \"다음에 봐\"라고 말합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='annyeonghi-gaseyo' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. \"안녕\"이라는 말은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='baeuda'>배우다</option><option value='chingu'>친구</option><option value='annyeonghi-gaseyo'>안녕히 가세요</option></select>, 즉 자신이 좋아하고 함께 시간을 보내는 사람에게 자주 사용됩니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='chingu' style='display:none;'></span></div></div><div style='background:#f0f7ff; border:1px solid #bdd9ff; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2b6cb0; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 3: 시간대</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 저녁, 전화, 아침</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. <select class='vocab-select'><option value=''>── 선택 ──</option><option value='jeonyeok'>저녁</option><option value='jeonhwa'>전화</option><option value='achim'>아침</option></select>은 하루 중 이른 시간으로, \"좋은 아침입니다\"라고 말합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='achim' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. <select class='vocab-select'><option value=''>── 선택 ──</option><option value='jeonyeok'>저녁</option><option value='jeonhwa'>전화</option><option value='achim'>아침</option></select>은 하루 중 늦은 시간으로, \"좋은 저녁입니다\"라고 말합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='jeonyeok' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. <select class='vocab-select'><option value=''>── 선택 ──</option><option value='jeonyeok'>저녁</option><option value='jeonhwa'>전화</option><option value='achim'>아침</option></select>를 받을 때는 보통 \"여보세요\"와 같은 인사말로 시작합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='jeonhwa' style='display:none;'></span></div></div>"
   },
     "content_check_question": {
-    "en": "The text explains how to introduce yourself and others, talk about countries, and name everyday objects in English. <b>How do you introduce yourself and ask someone's name? How do you say where you are from? What is the difference between 'a' and 'an'?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The extra reading explains different ways to say hello and goodbye in English, and how to ask \"How are you?\" <b>What are some ways to say hello and goodbye in English? How do you answer \"How are you?\"</b>",
+    "ja": "追加の読み物では、日本語の挨拶と「お元気ですか？」への答え方を説明しています。<b>日本語で「こんにちは」や「さようなら」の言い方にはどんな種類がありますか？「お元気ですか？」にはどう答えますか？</b>",
+    "fr": "La lecture supplémentaire explique les différentes façons de dire bonjour et au revoir en français, et comment répondre à « Comment allez-vous ? » <b>Quelles sont les différentes façons de dire bonjour et au revoir en français ? Comment répond-on à « Comment allez-vous ? »</b>",
+    "ko": "추가 읽기 자료에서는 한국어 인사말과 「어떻게 지내세요?」에 대한 답변을 설명합니다. <b>한국어로 인사하고 작별 인사하는 방법에는 어떤 것들이 있나요? 「어떻게 지내세요?」에는 어떻게 답하나요?</b>"
   },
   "content_check_keywords": {
-    "en": "introduce, name, from, countries, a/an, everyday objects",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "hello, goodbye, hi, good morning, good evening, bye, see you later, I'm fine, very well, not bad",
+    "ja": "こんにちは、さようなら、おはようございます、こんばんは、じゃあね、また明日、元気です、まあまあです",
+    "fr": "bonjour, au revoir, salut, bonsoir, à plus tard, à bientôt, ça va bien, très bien, pas mal",
+    "ko": "안녕하세요, 안녕히 가세요, 안녕, 좋은 아침입니다, 다음에 봐요, 잘 가요, 잘 지내요, 그럭저럭요"
   },
   "content_check_placeholder": {
-    "en": "Explain how to introduce yourself, ask for someone's name, talk about where you are from, and use a/an...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Some ways to say hello are... Some ways to say goodbye are... To answer \"How are you?\" you can say...",
+    "ja": "「こんにちは」の言い方には...があります。「さようなら」の言い方には...があります。「お元気ですか？」には...と答えます。",
+    "fr": "Pour dire bonjour, on peut dire... Pour dire au revoir, on peut dire... Pour répondre à « Comment allez-vous ? », on peut dire...",
+    "ko": "인사하는 방법으로는...이/가 있습니다. 작별 인사하는 방법으로는...이/가 있습니다. 「어떻게 지내세요?」에는...라고 답합니다."
   },
   "deepening_question": {
-    "en": "The listening and reading texts show different ways to greet people and talk about where they are from. <b>How do you say hello and goodbye in your country? How are these different from English greetings? Do you have different greetings for the morning, afternoon, and evening?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows that English has different greetings for different times of day. <b>Do you use different greetings at different times of day in your country? What do you say in the morning, afternoon, and evening? Are there casual and formal ways to greet people?</b>",
+    "ja": "読み物では、日本語にも時間帯によって異なる挨拶があることが書かれています。<b>あなたの国でも時間帯によって違う挨拶を使いますか？朝、昼、夕方・夜に何と言いますか？カジュアルな挨拶とフォーマルな挨拶はありますか？</b>",
+    "fr": "La lecture montre qu'en français, il y a différentes salutations selon le moment de la journée. <b>Utilisez-vous différentes salutations selon le moment de la journée dans votre pays ? Que dites-vous le matin, l'après-midi et le soir ? Y a-t-il des façons familières et formelles de saluer ?</b>",
+    "ko": "읽기 자료에서는 한국어에도 시간에 따라 다른 인사말이 있다고 설명합니다. <b>여러분의 나라에서도 시간대에 따라 다른 인사말을 사용하나요? 아침, 점심, 저녁에 무엇이라고 인사하나요? 반말과 존댓말 인사가 있나요?</b>"
   },
   "deepening_placeholder": {
-    "en": "In my country, we say... This is different from English because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In my country, we say... in the morning, ... in the afternoon, and ... in the evening. We use casual greetings with... and formal greetings with...",
+    "ja": "私の国では、朝は...、昼は...、夕方・夜は...と言います。カジュアルな挨拶は...に使い、フォーマルな挨拶は...に使います。",
+    "fr": "Dans mon pays, on dit... le matin, ... l'après-midi, et ... le soir. On utilise des salutations familières avec... et des salutations formelles avec...",
+    "ko": "제 나라에서는 아침에...라고 하고, 점심에...라고 하고, 저녁에...라고 합니다. 반말은...에게 사용하고, 존댓말은...에게 사용합니다."
   },
   "critical_question": {
-    "en": "In this unit, you learned to introduce yourself, talk about countries, and name everyday objects. <b>Why is it important to learn how to greet people and introduce yourself when you learn a new language? How can learning these basic phrases help you when you travel to an English-speaking country?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned how to greet people, introduce yourself, and say goodbye. <b>Why is it important to know how to greet people and introduce yourself when you visit another country? How can knowing these phrases help you make friends and understand people better?</b>",
+    "ja": "このユニットでは、挨拶の仕方、自己紹介の仕方、別れの挨拶を学びました。<b>外国を訪れるとき、挨拶や自己紹介ができることはなぜ大切だと思いますか？これらのフレーズを知っていると、友達作りや相手の理解にどのように役立ちますか？</b>",
+    "fr": "Dans cette unité, vous avez appris à saluer, vous présenter et dire au revoir. <b>Pourquoi est-il important de savoir saluer et se présenter quand on visite un autre pays ? Comment ces phrases peuvent-elles vous aider à vous faire des amis et à mieux comprendre les gens ?</b>",
+    "ko": "이번 유닛에서는 인사하는 방법, 자기소개하는 방법, 작별 인사하는 방법을 배웠습니다. <b>다른 나라를 방문할 때 인사와 자기소개를 할 줄 아는 것이 왜 중요하다고 생각하나요? 이런 표현들을 알면 친구를 사귀고 상대방을 더 잘 이해하는 데 어떻게 도움이 될까요?</b>"
   },
   "critical_placeholder": {
-    "en": "Learning to greet and introduce yourself is important because... These phrases help when travelling because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Knowing how to greet and introduce yourself is important because... These phrases help when visiting another country because... They help make friends by...",
+    "ja": "挨拶や自己紹介ができることは大切です。なぜなら...。これらのフレーズは外国を訪れるときに...ので役立ちます。友達作りには...のに役立ちます。",
+    "fr": "Savoir saluer et se présenter est important car... Ces phrases aident lors d'une visite dans un autre pays car... Elles aident à se faire des amis en...",
+    "ko": "인사와 자기소개를 할 줄 아는 것은 중요합니다. 왜냐하면... 이러한 표현들은 다른 나라를 방문할 때... 때문에 도움이 됩니다. 친구를 사귀는 데는... 데 도움이 됩니다."
   }
 }
