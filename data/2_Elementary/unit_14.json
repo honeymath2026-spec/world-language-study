@@ -623,45 +623,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: 장소와 여행</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 일본, 비행, 여행하다, 사람</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 여러 장소를 다니는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='일본'>일본</option><option value='비행'>비행</option><option value='여행하다'>여행하다</option><option value='사람'>사람</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='여행하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 동아시아에 있는 나라는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='일본'>일본</option><option value='비행'>비행</option><option value='여행하다'>여행하다</option><option value='사람'>사람</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='일본' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 인간은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='일본'>일본</option><option value='비행'>비행</option><option value='여행하다'>여행하다</option><option value='사람'>사람</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='사람' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 비행기를 타고 하는 여행은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='일본'>일본</option><option value='비행'>비행</option><option value='여행하다'>여행하다</option><option value='사람'>사람</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='비행' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: 건강과 생활</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 과일, 운동, 가족</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 건강을 위한 신체 활동은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='과일'>과일</option><option value='운동'>운동</option><option value='가족'>가족</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='운동' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 나무나 식물에서 나는 달콤한 먹거리는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='과일'>과일</option><option value='운동'>운동</option><option value='가족'>가족</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='과일' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 부모, 자녀 등 가까운 사람들은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='과일'>과일</option><option value='운동'>운동</option><option value='가족'>가족</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='가족' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: 경험과 이야기</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 이야기, 경험, 삶</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 사람이 살아가는 과정은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='이야기'>이야기</option><option value='경험'>경험</option><option value='삶'>삶</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='삶' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 사건이나 경험에 대한 말이나 글은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='이야기'>이야기</option><option value='경험'>경험</option><option value='삶'>삶</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='이야기' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 삶에서 직접 겪은 일은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='이야기'>이야기</option><option value='경험'>경험</option><option value='삶'>삶</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='경험' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "The text explains the present perfect with ever, never, yet, and just for talking about experiences. <b>How do you ask if someone has visited a place? How do you say you have never been somewhere? What is the difference between 'yet' and 'just'?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The extra reading tells us about three people who have lived long lives. <b>How old is Joyce Bews and what has she done? How old is Alice Patterson-Smythe and what has she done? How old is Tommy Harrison and what has he done?</b>",
+    "ja": "追加の読み物では、長生きした三人の人々について説明しています。<b>ジョイス・ビューズは何歳で、何をしてきましたか？アリス・パターソン＝スミスは何歳で、何をしてきましたか？トミー・ハリソンは何歳で、何をしてきましたか？</b>",
+    "fr": "La lecture supplémentaire nous parle de trois personnes qui ont vécu longtemps. <b>Quel âge a Joyce Bews et qu'a-t-elle fait ? Quel âge a Alice Patterson-Smythe et qu'a-t-elle fait ? Quel âge a Tommy Harrison et qu'a-t-il fait ?</b>",
+    "ko": "추가 읽기 자료는 오래 산 세 사람에 대해 이야기합니다. <b>조이스 뷰스는 몇 살이고 무엇을 해 왔나요? 앨리스 패터슨-스미스는 몇 살이고 무엇을 해 왔나요? 토미 해리슨은 몇 살이고 무엇을 해 왔나요?</b>"
   },
   "content_check_keywords": {
-    "en": "present perfect, ever, never, yet, just, past participle, been, experiences",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Joyce Bews, 100, dressmaker, Australia, America, Alice Patterson-Smythe, just over 100, ambulance, WWII, Tokyo, Los Angeles, Miami, Tommy Harrison, exactly 100, engineer, pipe, driving, France",
+    "ja": "ジョイス・ビューズ, 100歳, ドレスメーカー, オーストラリア, アメリカ, アリス・パターソン＝スミス, 100歳超, 救急車, 第二次世界大戦, 東京, ロサンゼルス, マイアミ, トミー・ハリソン, ちょうど100歳, エンジニア, パイプ, 運転, フランス",
+    "fr": "Joyce Bews, 100 ans, couturière, Australie, Amérique, Alice Patterson-Smythe, un peu plus de 100 ans, ambulance, WWII, Tokyo, Los Angeles, Miami, Tommy Harrison, exactement 100 ans, ingénieur, pipe, conduite, France",
+    "ko": "조이스 뷰스, 100세, 드레스 제작자, 호주, 미국, 앨리스 패터슨-스미스, 100세 초과, 구급차, 제2차 세계대전, 도쿄, 로스앤젤레스, 마이애미, 토미 해리슨, 정확히 100세, 엔지니어, 파이프, 운전, 프랑스"
   },
   "content_check_placeholder": {
-    "en": "Explain how to form the present perfect, use 'ever' in questions, 'never' in negatives, and the difference between 'yet' and 'just'...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Joyce Bews is... years old. She has... Alice is... years old. She has... Tommy is... years old. He has...",
+    "ja": "ジョイス・ビューズは...歳です。彼女は...してきました。アリスは...歳です。彼女は...してきました。トミーは...歳です。彼は...してきました。",
+    "fr": "Joyce Bews a... ans. Elle a... Alice a... ans. Elle a... Tommy a... ans. Il a...",
+    "ko": "조이스 뷰스는...세입니다. 그녀는...해 왔습니다. 앨리스는...세입니다. 그녀는...해 왔습니다. 토미는...세입니다. 그는...해 왔습니다."
   },
   "deepening_question": {
-    "en": "The reading texts describe three centenarians (Joyce, Alice, Tommy) with very different lifestyles. <b>Why do you think these people have lived so long? How many reasons can you find? Would you like to live to be 100? Why or why not?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows that people who live long lives have different habits and experiences. <b>What do you think helps people live a long life? Do you think eating healthy food, exercising, or having family and friends is most important? Why?</b>",
+    "ja": "読み物では、長生きする人々がさまざまな習慣や経験を持っていることが示されています。<b>人を長生きさせるのは何だと思いますか？健康的な食事、運動、そして家族や友人がいることのうち、どれが最も重要だと思いますか？なぜですか？</b>",
+    "fr": "La lecture montre que les personnes qui vivent longtemps ont des habitudes et des expériences différentes. <b>Selon vous, qu'est-ce qui aide les gens à vivre longtemps ? Pensez-vous que manger sainement, faire de l'exercice ou avoir de la famille et des amis est le plus important ? Pourquoi ?</b>",
+    "ko": "읽기 자료는 오래 사는 사람들이 다양한 습관과 경험을 가지고 있음을 보여줍니다. <b>사람들이 오래 살 수 있게 하는 것은 무엇이라고 생각하나요? 건강한 식습관, 운동, 가족과 친구가 있는 것 중 무엇이 가장 중요하다고 생각하나요? 그 이유는 무엇인가요?</b>"
   },
   "deepening_placeholder": {
-    "en": "I think they lived long because... Some reasons are... I would/would not like to live to 100 because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "I think... helps people live a long life because... The most important thing is... because...",
+    "ja": "...が長生きに役立つと思います。なぜなら...。最も重要なのは...です。なぜなら...。",
+    "fr": "Je pense que... aide les gens à vivre longtemps parce que... La chose la plus importante est... parce que...",
+    "ko": "...이/가 장수에 도움이 된다고 생각합니다. 왜냐하면... 가장 중요한 것은...입니다. 왜냐하면..."
   },
   "critical_question": {
-    "en": "In this unit, you learned to use present perfect to talk about life experiences and yet/just for recent events. <b>How is the present perfect different from the past simple? Why is it important to know the difference when talking about travel and experiences?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about life experiences and healthy long lives. You asked and answered questions using 'Have you ever...?' <b>Why do you think it is important to have different life experiences? How can new experiences help us learn and grow? What kind of experiences do you think are most valuable?</b>",
+    "ja": "このユニットでは、人生経験と健康で長い人生について学びました。「〜したことがありますか？」という質問を使って経験を尋ねたり答えたりしました。<b>さまざまな人生経験を持つことが大切なのはなぜだと思いますか？新しい経験はどのように私たちの学びと成長に役立ちますか？どのような経験が最も価値があると思いますか？</b>",
+    "fr": "Dans cette unité, vous avez appris les expériences de vie et la longévité en bonne santé. Vous avez posé et répondu à des questions en utilisant 'Avez-vous déjà... ?' <b>Pourquoi pensez-vous qu'il est important d'avoir des expériences de vie différentes ? Comment de nouvelles expériences peuvent-elles nous aider à apprendre et à grandir ? Quel type d'expériences pensez-vous être le plus précieux ?</b>",
+    "ko": "이번 유닛에서는 인생 경험과 건강한 장수에 대해 배웠습니다. '~해 본 적 있니?'라는 질문을 사용하여 경험을 묻고 답했습니다. <b>다양한 인생 경험을 가지는 것이 중요한 이유는 무엇이라고 생각하나요? 새로운 경험은 어떻게 우리의 배움과 성장에 도움이 될까요? 어떤 종류의 경험이 가장 가치 있다고 생각하나요?</b>"
   },
   "critical_placeholder": {
-    "en": "The present perfect focuses on the experience itself without a specific time, while the past simple tells exactly when... This is important for travel because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Having different life experiences is important because... New experiences help us learn and grow by... The most valuable experiences are... because...",
+    "ja": "さまざまな人生経験を持つことは...ので大切です。新しい経験は...という点で学びと成長に役立ちます。最も価値のある経験は...です。なぜなら...。",
+    "fr": "Avoir différentes expériences de vie est important parce que... Les nouvelles expériences nous aident à apprendre et à grandir en... Les expériences les plus précieuses sont... parce que...",
+    "ko": "다양한 인생 경험을 가지는 것은... 때문에 중요합니다. 새로운 경험은...을/를 통해 배움과 성장에 도움이 됩니다. 가장 가치 있는 경험은...입니다. 왜냐하면..."
   }
 }

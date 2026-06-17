@@ -498,45 +498,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: 사람과 직업</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 사람들, 음악가, 부유한, 작가</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 책이나 이야기를 쓰는 사람은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='사람들'>사람들</option><option value='음악가'>음악가</option><option value='부유한'>부유한</option><option value='작가'>작가</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='작가' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 남자, 여자, 아이들을 모두 포함한 사람들은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='사람들'>사람들</option><option value='음악가'>음악가</option><option value='부유한'>부유한</option><option value='작가'>작가</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='사람들' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 음악을 연주하거나 만드는 사람은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='사람들'>사람들</option><option value='음악가'>음악가</option><option value='부유한'>부유한</option><option value='작가'>작가</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='음악가' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 돈이 많은 상태는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='사람들'>사람들</option><option value='음악가'>음악가</option><option value='부유한'>부유한</option><option value='작가'>작가</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='부유한' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: 여행과 주거</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 파일럿, 결혼한, 아파트</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 여러 가구가 사는 주택은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='파일럿'>파일럿</option><option value='결혼한'>결혼한</option><option value='아파트'>아파트</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='아파트' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 부부가 된 상태는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='파일럿'>파일럿</option><option value='결혼한'>결혼한</option><option value='아파트'>아파트</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='결혼한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 비행기를 조종하는 사람은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='파일럿'>파일럿</option><option value='결혼한'>결혼한</option><option value='아파트'>아파트</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='파일럿' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: 물건과 반려동물</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 라켓, 모자, 개</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 머리에 쓰는 물건은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='라켓'>라켓</option><option value='모자'>모자</option><option value='개'>개</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='모자' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 테니스를 칠 때 사용하는 도구는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='라켓'>라켓</option><option value='모자'>모자</option><option value='개'>개</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='라켓' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 사람들이 많이 기르는 동물은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='라켓'>라켓</option><option value='모자'>모자</option><option value='개'>개</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='개' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+        "en": "The extra reading is a song about the world we live in. <b>What does the singer see in the world? What do friends say to each other? What does the singer hear babies doing? What does the singer think about the world?</b>",
+    "ja": "追加の読み物は、私たちが住む世界についての歌です。<b>歌い手は世界に何を見ていますか？友達はお互いに何と言っていますか？歌い手は赤ちゃんが何をしているのを聞きますか？歌い手は世界についてどう思っていますか？</b>",
+    "fr": "La lecture supplémentaire est une chanson sur le monde dans lequel nous vivons. <b>Que voit le chanteur dans le monde ? Que se disent les amis ? Qu'entend le chanteur faire les bébés ? Que pense le chanteur du monde ?</b>",
+    "ko": "추가 읽기 자료는 우리가 살고 있는 세계에 대한 노래입니다. <b>노래하는 사람은 세상에서 무엇을 보나요? 친구들은 서로에게 무엇이라고 말하나요? 노래하는 사람은 아기들이 무엇을 하는 소리를 듣나요? 노래하는 사람은 세상에 대해 어떻게 생각하나요?</b>"
   },
   "content_check_keywords": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "trees, roses, skies, clouds, rainbow, friends, shaking hands, babies, cry, wonderful world",
+    "ja": "木々, バラ, 空, 雲, 虹, 友人, 握手, 赤ちゃん, 泣く, 素晴らしい世界",
+    "fr": "arbres, roses, ciels, nuages, arc-en-ciel, amis, se serrer la main, bébés, pleurer, monde merveilleux",
+    "ko": "나무, 장미, 하늘, 구름, 무지개, 친구들, 악수, 아기들, 울다, 멋진 세상"
   },
   "content_check_placeholder": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The singer sees... Friends say... The singer hears babies... The singer thinks...",
+    "ja": "歌い手は...を見ます。友達は...と言います。歌い手は赤ちゃんが...するのを聞きます。歌い手は...と思っています。",
+    "fr": "Le chanteur voit... Les amis disent... Le chanteur entend les bébés... Le chanteur pense...",
+    "ko": "노래하는 사람은...을/를 봅니다. 친구들은...이라고 말합니다. 노래하는 사람은 아기들이...하는 것을 듣습니다. 노래하는 사람은...이라고 생각합니다."
   },
   "deepening_question": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The song describes a wonderful world with many beautiful things. <b>What things in your country or city make you think it's a wonderful place? Are there places in the world you would like to see? Why do you think it's important to notice the beauty around us?</b>",
+    "ja": "この歌は、美しいものがたくさんある素晴らしい世界を描写しています。<b>あなたの国や町のどのようなものが、素晴らしい場所だと思わせますか？世界にはどんな場所を見てみたいですか？身の回りの美しさに気づくことが大切なのはなぜだと思いますか？</b>",
+    "fr": "Cette chanson décrit un monde merveilleux avec de nombreuses belles choses. <b>Quelles choses dans votre pays ou votre ville vous font penser que c'est un endroit merveilleux ? Y a-t-il des endroits dans le monde que vous aimeriez voir ? Pourquoi pensez-vous qu'il est important de remarquer la beauté autour de nous ?</b>",
+    "ko": "이 노래는 아름다운 것들이 많은 멋진 세상을 묘사합니다. <b>여러분의 나라나 도시에서 어떤 것들이 이곳을 멋진 장소라고 생각하게 만드나요? 세계에서 보고 싶은 장소가 있나요? 주변의 아름다움을 알아차리는 것이 중요한 이유는 무엇이라고 생각하나요?</b>"
   },
   "deepening_placeholder": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In my country/city, I think... is wonderful because... I would like to see... because... Noticing beauty is important because...",
+    "ja": "私の国や町では...が素晴らしいと思います。なぜなら...。私は...を見てみたいです。なぜなら...。美しさに気づくことは...ので大切です。",
+    "fr": "Dans mon pays/ma ville, je pense que... est merveilleux parce que... J'aimerais voir... parce que... Il est important de remarquer la beauté parce que...",
+    "ko": "제 나라나 도시에서는...이/가 멋지다고 생각합니다. 왜냐하면... 저는...을/를 보고 싶습니다. 왜냐하면... 아름다움을 알아차리는 것은... 때문에 중요합니다."
   },
   "critical_question": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about meeting people and talking about their jobs and belongings. The song reminds us to appreciate the world around us. <b>Why do you think it's important to connect with people and notice the world we live in? How can meeting new people and appreciating nature make our lives better? What is one thing you would tell a friend about why this is a wonderful world?</b>",
+    "ja": "このユニットでは、人と出会い、仕事や持ち物について話すことを学びました。歌は周りの世界を大切にすることを教えてくれます。<b>人とつながり、私たちが住んでいる世界に目を向けることが大切なのはなぜだと思いますか？新しい人と出会い、自然を大切にすることは、どのように私たちの生活をより良くしますか？友達に、なぜこれが素晴らしい世界なのか、何を伝えますか？</b>",
+    "fr": "Dans cette unité, vous avez appris à rencontrer des gens et à parler de leurs métiers et de leurs objets. La chanson nous rappelle d'apprécier le monde qui nous entoure. <b>Pourquoi pensez-vous qu'il est important de se connecter avec les gens et de remarquer le monde dans lequel nous vivons ? Comment rencontrer de nouvelles personnes et apprécier la nature peut-il rendre nos vies meilleures ? Quelle est une chose que vous diriez à un ami pour expliquer pourquoi c'est un monde merveilleux ?</b>",
+    "ko": "이번 유닛에서는 사람들을 만나고 그들의 직업과 소지품에 대해 이야기하는 법을 배웠습니다. 노래는 우리 주변의 세상을 소중히 여기라고 상기시킵니다. <b>사람들과 연결되고 우리가 살고 있는 세상을 알아차리는 것이 중요한 이유는 무엇이라고 생각하나요? 새로운 사람들을 만나고 자연을 감상하는 것이 어떻게 우리의 삶을 더 좋게 만들 수 있나요? 친구에게 이것이 멋진 세상인 이유에 대해 한 가지 말해준다면 무엇을 말하겠습니까?</b>"
   },
   "critical_placeholder": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Connecting with people is important because... Meeting new people and appreciating nature makes life better by... I would tell a friend this world is wonderful because...",
+    "ja": "人とつながることは...ので大切です。新しい人に出会い自然を大切にすることは...によって生活をより良くします。この世界が素晴らしいと友達に伝えるなら...",
+    "fr": "Se connecter avec les gens est important parce que... Rencontrer de nouvelles personnes et apprécier la nature rend la vie meilleure en... Je dirais à un ami que ce monde est merveilleux parce que...",
+    "ko": "사람들과 연결되는 것은... 때문에 중요합니다. 새로운 사람을 만나고 자연을 감상하는 것은...을/를 통해 삶을 더 좋게 만듭니다. 친구에게 이 세상이 멋진 이유에 대해...이라고 말할 것입니다."
   }
 }

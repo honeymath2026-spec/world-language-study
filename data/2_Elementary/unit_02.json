@@ -598,45 +598,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 사람과 장소</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 안녕하세요, 학생, 아파트, 친구</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 사람이 사는 집을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='annyeonghaseyo'>안녕하세요</option><option value='haksaeng'>학생</option><option value='apateu'>아파트</option><option value='chingu'>친구</option></select>라고 합니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='apateu' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 학교에서 공부하는 사람은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='annyeonghaseyo'>안녕하세요</option><option value='haksaeng'>학생</option><option value='apateu'>아파트</option><option value='chingu'>친구</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='haksaeng' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. \"좋은 아침입니다\"는 사람을 만날 때 하는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='annyeonghaseyo'>안녕하세요</option><option value='haksaeng'>학생</option><option value='apateu'>아파트</option><option value='chingu'>친구</option></select>의 한 종류입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='annyeonghaseyo' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 좋아하고 잘 아는 사람은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='annyeonghaseyo'>안녕하세요</option><option value='haksaeng'>학생</option><option value='apateu'>아파트</option><option value='chingu'>친구</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='chingu' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 음식과 음료</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 카페, 이름, 음식</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 사람을 부를 때 사용하는 말은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='kape'>카페</option><option value='ireum'>이름</option><option value='eumsik'>음식</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='ireum' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 빵, 밥, 고기는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='kape'>카페</option><option value='ireum'>이름</option><option value='eumsik'>음식</option></select>의 종류입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='eumsik' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 음식과 음료를 살 수 있는 곳은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='kape'>카페</option><option value='ireum'>이름</option><option value='eumsik'>음식</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='kape' style='display:none;'></span></div></div><div style='background:#f0f7ff; border:1px solid #bdd9ff; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2b6cb0; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 3: 의사소통과 서비스</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 음료, 직원, 전화</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 카페에서 음식을 가져다주는 사람은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='eumryo'>음료</option><option value='jigwon'>직원</option><option value='jeonhwa'>전화</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='jigwon' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. <select class='vocab-select'><option value=''>── 선택 ──</option><option value='eumryo'>음료</option><option value='jigwon'>직원</option><option value='jeonhwa'>전화</option></select>는 멀리 있는 사람과 통화할 때 사용하는 기기입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='jeonhwa' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 물과 주스는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='eumryo'>음료</option><option value='jigwon'>직원</option><option value='jeonhwa'>전화</option></select>의 종류입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='eumryo' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "This unit teaches how to ask questions and make negatives with 'am/is/are', use possessive 's', talk about family, use opposites, and order food in a café. <b>How do you ask yes/no questions with 'to be'? How do you make a negative sentence? How do you show possession with 's? How do you ask for the price of something in a café?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The extra reading explains how to order food and drinks at a café. <b>What can you order at Baker Street Snack Bar? How much does a hamburger and chips cost? How do you ask for something and how do you ask for the price?</b>",
+    "ja": "追加の読み物では、カフェでの注文の仕方を説明しています。<b>ベイカーストリートカフェでは何を注文できますか？ハンバーガー＆ポテトはいくらですか？何かを頼むときや値段を聞くときは何と言いますか？</b>",
+    "fr": "La lecture supplémentaire explique comment commander de la nourriture et des boissons dans un café. <b>Que peut-on commander au Café des Amis ? Combien coûte un sandwich jambon-frites ? Comment demander quelque chose et comment demander le prix ?</b>",
+    "ko": "추가 읽기 자료에서는 카페에서 음식과 음료를 주문하는 방법을 설명합니다. <b>베이커 스트리트 카페에서는 무엇을 주문할 수 있나요? 햄버거 세트는 얼마인가요? 무엇을 요청할 때와 가격을 물을 때 어떻게 말하나요?</b>"
   },
   "content_check_keywords": {
-    "en": "questions, negatives, am/is/are, possessive's, family, opposites, café, how much",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "order, food, drinks, hamburger, chips, price, ask, menu, café, pay",
+    "ja": "注文, 食べ物, 飲み物, ハンバーガー, ポテト, 値段, 聞く, メニュー, カフェ, 支払う",
+    "fr": "commander, nourriture, boissons, sandwich, frites, prix, demander, menu, café, payer",
+    "ko": "주문, 음식, 음료, 햄버거, 감자튀김, 가격, 묻다, 메뉴, 카페, 계산하다"
   },
   "content_check_placeholder": {
-    "en": "Explain how to make questions and negatives with 'to be', how to use possessive 's', and how to ask for prices in a café...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "At the café, you can order... A hamburger and chips costs... To order something, you say... To ask the price, you say...",
+    "ja": "カフェでは...を注文できます。ハンバーガー＆ポテトは...です。何かを頼むときは...と言います。値段を聞くときは...と言います。",
+    "fr": "Au café, on peut commander... Un sandwich jambon-frites coûte... Pour commander, on dit... Pour demander le prix, on dit...",
+    "ko": "카페에서는...을/를 주문할 수 있습니다. 햄버거 세트는...입니다. 주문할 때는...라고 말합니다. 가격을 물을 때는...라고 말합니다."
   },
   "deepening_question": {
-    "en": "The unit includes a letter from Dorita in New York. She talks about her classmates from different countries. <b>Do you have classmates from different countries? What countries are they from? What is interesting about learning English with people from different cultures?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows a menu with different food and drinks and their prices. <b>What food and drinks do you like to order at a café? Do you prefer hot drinks or cold drinks? What is a good price for a meal in your country?</b>",
+    "ja": "読み物にはさまざまな食べ物や飲み物とその値段が書かれています。<b>カフェでは何を注文するのが好きですか？温かい飲み物と冷たい飲み物のどちらが好きですか？あなたの国では食事の適切な値段はいくらぐらいですか？</b>",
+    "fr": "La lecture présente un menu avec différents plats et boissons et leurs prix. <b>Quels plats et boissons aimez-vous commander dans un café ? Préférez-vous les boissons chaudes ou froides ? Quel est un bon prix pour un repas dans votre pays ?</b>",
+    "ko": "읽기 자료에는 다양한 음식과 음료, 그리고 그 가격이 나와 있습니다. <b>카페에서 어떤 음식과 음료를 주문하는 것을 좋아하나요? 따뜻한 음료와 차가운 음료 중 무엇을 더 좋아하나요? 여러분의 나라에서 식사 값으로 적당한 가격은 얼마인가요?</b>"
   },
   "deepening_placeholder": {
-    "en": "In my class, I have classmates from... Learning English with people from different cultures is interesting because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "At a café, I like to order... I prefer... drinks because... In my country, a good price for a meal is...",
+    "ja": "カフェでは...を注文するのが好きです。...の飲み物が好きです。なぜなら...。私の国では食事の適切な値段は...です。",
+    "fr": "Au café, j'aime commander... Je préfère les boissons... parce que... Dans mon pays, un bon prix pour un repas est...",
+    "ko": "카페에서는...을/를 주문하는 것을 좋아합니다. 저는... 음료를 더 좋아합니다. 왜냐하면... 제 나라에서 식사 값으로 적당한 가격은...입니다."
   },
   "critical_question": {
-    "en": "In this unit, you learned how to introduce people, talk about family, and order food in a café. <b>Why is it useful to know how to talk about your family when you meet someone new? How can ordering food in English help you when you travel?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned to introduce yourself, make new friends, and order food at a café. <b>Why is it important to know how to order food and interact with people when you visit another country? How can these skills help you feel more confident and make your trip more enjoyable?</b>",
+    "ja": "このユニットでは、自己紹介、新しい友だちを作る方法、カフェでの注文の仕方を学びました。<b>外国を訪れたとき、食べ物を注文したり人と交流したりできることはなぜ大切ですか？これらのスキルはどのように自信を持たせ、旅をより楽しくしてくれますか？</b>",
+    "fr": "Dans cette unité, vous avez appris à vous présenter, à vous faire de nouveaux amis et à commander de la nourriture dans un café. <b>Pourquoi est-il important de savoir commander de la nourriture et d'interagir avec les gens quand on visite un autre pays ? Comment ces compétences peuvent-elles vous aider à être plus confiant et à rendre votre voyage plus agréable ?</b>",
+    "ko": "이번 유닛에서는 자기소개하는 방법, 새로운 친구를 사귀는 방법, 카페에서 음식을 주문하는 방법을 배웠습니다. <b>다른 나라를 방문할 때 음식을 주문하고 사람들과 소통할 수 있는 것이 왜 중요할까요? 이러한 기술들이 어떻게 자신감을 높이고 여행을 더 즐겁게 만드는 데 도움이 될까요?</b>"
   },
   "critical_placeholder": {
-    "en": "Talking about your family is useful when meeting someone new because... Ordering food in English helps when travelling because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Knowing how to order food is important because... It helps you interact with people by... These skills make you feel more confident when... They make your trip more enjoyable because...",
+    "ja": "食べ物を注文できることは大切です。なぜなら...。人と交流するのに役立ちます。なぜなら...。これらのスキルは...ときに自信を与えます。旅をより楽しくするのは...からです。",
+    "fr": "Savoir commander de la nourriture est important car... Cela vous aide à interagir avec les gens en... Ces compétences vous rendent plus confiant quand... Elles rendent votre voyage plus agréable parce que...",
+    "ko": "음식을 주문할 줄 아는 것은 중요합니다. 왜냐하면... 사람들과 소통하는 데 도움이 됩니다. 이러한 기술들은...때 자신감을 줍니다. 여행을 더 즐겁게 만드는 이유는...때문입니다."
   }
 }

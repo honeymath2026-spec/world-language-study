@@ -553,45 +553,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 일상 활동</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 아침, 일어나다, 마시다, 일</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 액체를 삼키는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='morning'>아침</option><option value='wake'>일어나다</option><option value='drink'>마시다</option><option value='work'>일</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='drink' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 수고를 들여 하는 활동은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='morning'>아침</option><option value='wake'>일어나다</option><option value='drink'>마시다</option><option value='work'>일</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='work' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 잠에서 깨는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='morning'>아침</option><option value='wake'>일어나다</option><option value='drink'>마시다</option><option value='work'>일</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='wake' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 하루의 시작 시간은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='morning'>아침</option><option value='wake'>일어나다</option><option value='drink'>마시다</option><option value='work'>일</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='morning' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 직업</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 직업, 마을, 사람</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 인간은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='job'>직업</option><option value='town'>마을</option><option value='people'>사람</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='people' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 돈을 벌기 위해 하는 일은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='job'>직업</option><option value='town'>마을</option><option value='people'>사람</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='job' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 사람들이 사는 곳은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='job'>직업</option><option value='town'>마을</option><option value='people'>사람</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='town' style='display:none;'></span></div></div><div style='background:#f0f7ff; border:1px solid #bdd9ff; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2b6cb0; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 3: 휴식과 시간</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 저녁, 피곤하다, 침대</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 지쳐서 쉬고 싶은 상태는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='evening'>저녁</option><option value='tired'>피곤하다</option><option value='bed'>침대</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='tired' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 잠자는 가구는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='evening'>저녁</option><option value='tired'>피곤하다</option><option value='bed'>침대</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='bed' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 해가 질 무렵은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='evening'>저녁</option><option value='tired'>피곤하다</option><option value='bed'>침대</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='evening' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "The text explains jobs, daily routines, and how to ask about what someone does. <b>What does Bob do? Where does Ali come from? Does Bob have free time? How do you ask someone about their job in English?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+        "en": "The extra reading tells us about Seumas McSporran, a very busy man with thirteen jobs. <b>How many jobs does Seumas have? What time does he get up in the morning? What does he do at 9:00?</b>",
+    "ja": "追加の読み物では、13の仕事を持つとても忙しい男性、シーマス・マクスポランについて説明しています。<b>シーマスはいくつの仕事を持っていますか？朝は何時に起きますか？9時には何をしますか？</b>",
+    "fr": "La lecture supplémentaire nous parle de Seumas McSporran, un homme très occupé qui a treize métiers. <b>Combien de métiers Seumas a-t-il ? À quelle heure se lève-t-il le matin ? Que fait-il à 9h00 ?</b>",
+    "ko": "추가 읽기 자료에서는 13개의 직업을 가진 매우 바쁜 남성 시머스 맥스포런에 대해 이야기합니다. <b>시머스는 몇 개의 직업을 가지고 있나요? 아침에 몇 시에 일어나나요? 9시에 무엇을 하나요?</b>"
   },
   "content_check_keywords": {
-    "en": "jobs, present simple, he/she/it, questions with does, telling time",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "thirteen jobs, get up, 6:00, 9:00, collects post, delivers, breakfast, school, island",
+    "ja": "13の仕事, 起きる, 6時, 9時, 郵便物を集める, 配達する, 朝食, 学校, 島",
+    "fr": "treize métiers, se lève, 6h00, 9h00, ramasse le courrier, distribue, petit-déjeuner, école, île",
+    "ko": "13개의 직업, 일어나다, 6시, 9시, 우편물을 수거하다, 배달하다, 아침 식사, 학교, 섬"
   },
   "content_check_placeholder": {
-    "en": "Bob is a flying doctor. Ali comes from England. Bob has no free time. To ask about someone's job, say 'What does he/she do?'...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Seumas has... jobs. He gets up at... in the morning. At 9:00, he...",
+    "ja": "シーマスは...の仕事を持っています。朝は...に起きます。9時には...をします。",
+    "fr": "Seumas a... métiers. Il se lève à... le matin. À 9h00, il...",
+    "ko": "시머스는...개의 직업이 있습니다. 아침...시에 일어납니다. 9시에는...을/를 합니다."
   },
   "deepening_question": {
-    "en": "The unit describes unusual jobs like a flying doctor and Seumas McSporran with thirteen jobs. <b>What is an unusual or interesting job in your country? What does that person do every day? Would you like to have a job like that? Why or why not?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows how Seumas has a very busy daily routine. <b>What do you think about having many jobs? Do you think it is good or bad? Is it better to have one job and more free time, or many jobs and be very busy? Why?</b>",
+    "ja": "読み物では、シーマスのとても忙しい日課が描かれています。<b>たくさんの仕事を持つことについてどう思いますか？良いことだと思いますか？悪いことだと思いますか？一つの仕事をして自由時間を多く持つことと、たくさんの仕事を持って忙しくすること、どちらが良いと思いますか？なぜですか？</b>",
+    "fr": "La lecture montre comment Seumas a une routine quotidienne très chargée. <b>Que pensez-vous d'avoir plusieurs métiers ? Est-ce une bonne ou une mauvaise chose ? Vaut-il mieux avoir un seul métier et plus de temps libre, ou plusieurs métiers et être très occupé ? Pourquoi ?</b>",
+    "ko": "읽기 자료는 시머스의 매우 바쁜 일상을 보여줍니다. <b>여러 개의 직업을 가지는 것에 대해 어떻게 생각하나요? 좋은 일이라고 생각하나요? 나쁜 일이라고 생각하나요? 하나의 직업을 가지고 여가 시간을 더 많이 갖는 것과 여러 개의 직업을 가지고 매우 바쁘게 사는 것 중 무엇이 더 낫다고 생각하나요? 왜 그런가요?</b>"
   },
   "deepening_placeholder": {
-    "en": "In my country, an unusual job is... This person works... I would/would not like this job because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "I think having many jobs is... because... I prefer... because...",
+    "ja": "たくさんの仕事を持つことは...だと思います。なぜなら...。私は...の方が好きです。なぜなら...。",
+    "fr": "Je pense qu'avoir plusieurs métiers est... parce que... Je préfère... parce que...",
+    "ko": "여러 개의 직업을 가지는 것은...라고 생각합니다. 왜냐하면... 저는...이/가 더 낫다고 생각합니다. 왜냐하면..."
   },
   "critical_question": {
-    "en": "In this unit, you learned to talk about jobs, ask questions using 'does', and tell the time. <b>Why is it useful to know how to talk about jobs and daily schedules in a new language? How can these skills help you in a professional or travel situation?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about daily routines, different jobs, and how people balance work and life. <b>Why is it important to have a balance between work and free time? What can happen if someone works too much? How can we make sure we have time for family, friends, and rest?</b>",
+    "ja": "このユニットでは、日課、様々な職業、そして仕事と生活のバランスについて学びました。<b>仕事と自由時間のバランスが大切なのはなぜですか？働きすぎるとどうなるでしょうか？家族や友達、休息の時間を確保するにはどうすればよいでしょうか？</b>",
+    "fr": "Dans cette unité, vous avez appris les routines quotidiennes, différents métiers et comment les gens équilibrent travail et vie personnelle. <b>Pourquoi est-il important d'avoir un équilibre entre le travail et le temps libre ? Que peut-il arriver si quelqu'un travaille trop ? Comment pouvons-nous nous assurer d'avoir du temps pour la famille, les amis et le repos ?</b>",
+    "ko": "이번 유닛에서는 일상 생활, 다양한 직업, 그리고 일과 삶의 균형에 대해 배웠습니다. <b>일과 여가 시간의 균형을 맞추는 것이 중요한 이유는 무엇인가요? 너무 많이 일하면 어떤 일이 생길 수 있나요? 가족, 친구, 휴식을 위한 시간을 어떻게 확보할 수 있을까요?</b>"
   },
   "critical_placeholder": {
-    "en": "Talking about jobs and daily schedules is useful because... These skills help in professional situations such as... In travel, they help when...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Having a balance is important because... If someone works too much, they may... We can make time for family and friends by...",
+    "ja": "バランスが大切なのは...だからです。働きすぎると...かもしれません。家族や友達の時間を確保するには...ができます。",
+    "fr": "Avoir un équilibre est important car... Si quelqu'un travaille trop, il peut... Nous pouvons trouver du temps pour la famille et les amis en...",
+    "ko": "균형을 맞추는 것이 중요한 이유는... 때문입니다. 너무 많이 일하면...할 수도 있습니다. 가족과 친구를 위한 시간을 만들려면...하면 됩니다."
   }
 }

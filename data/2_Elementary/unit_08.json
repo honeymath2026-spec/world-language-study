@@ -774,45 +774,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: 발명과 물건</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 청바지, 텔레비전, 화학자, 아스피린</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 화학을 연구하는 과학자는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='청바지'>청바지</option><option value='텔레비전'>텔레비전</option><option value='화학자'>화학자</option><option value='아스피린'>아스피린</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='화학자' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 데님 천으로 만든 바지는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='청바지'>청바지</option><option value='텔레비전'>텔레비전</option><option value='화학자'>화학자</option><option value='아스피린'>아스피린</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='청바지' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 통증을 줄여 주는 약은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='청바지'>청바지</option><option value='텔레비전'>텔레비전</option><option value='화학자'>화학자</option><option value='아스피린'>아스피린</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='아스피린' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 영상 프로그램을 보는 기계는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='청바지'>청바지</option><option value='텔레비전'>텔레비전</option><option value='화학자'>화학자</option><option value='아스피린'>아스피린</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='텔레비전' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: 소통과 연결</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 친구, 인터넷, 이메일</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 전자적으로 보내는 메시지는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='친구'>친구</option><option value='인터넷'>인터넷</option><option value='이메일'>이메일</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='이메일' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 전 세계를 연결하는 컴퓨터 네트워크는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='친구'>친구</option><option value='인터넷'>인터넷</option><option value='이메일'>이메일</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='인터넷' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 가깝게 지내는 사람은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='친구'>친구</option><option value='인터넷'>인터넷</option><option value='이메일'>이메일</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='친구' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: 감정과 메시지</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 사랑, 편지, 병</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 액체를 담는 용기는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='사랑'>사랑</option><option value='편지'>편지</option><option value='병'>병</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='병' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 깊은 애정의 감정은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='사랑'>사랑</option><option value='편지'>편지</option><option value='병'>병</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='사랑' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 글로 쓴 메시지는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='사랑'>사랑</option><option value='편지'>편지</option><option value='병'>병</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='편지' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "This unit covers Past Simple negatives, using 'ago', saying dates, and talking about inventions. <b>How do you make a negative sentence in the Past Simple? How do you use 'ago' to talk about when something happened? How do you say the date '3/4/1999'?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The extra reading tells us about two unusual ways to find love. <b>How did Per and Debbie meet each other? Where are they from? How did Vincent try to find a wife? What happened to his message after ten years?</b>",
+    "ja": "追加の読み物では、愛を見つける二つの珍しい方法について説明しています。<b>ペールとデビーはどうやって出会いましたか？二人はどこ出身ですか？ヴィンセントはどのように妻を探そうとしましたか？彼のメッセージは10年後にどうなりましたか？</b>",
+    "fr": "La lecture supplémentaire nous parle de deux façons inhabituelles de trouver l'amour. <b>Comment Per et Debbie se sont-ils rencontrés ? D'où viennent-ils ? Comment Vincent a-t-il essayé de trouver une épouse ? Qu'est-il arrivé à son message après dix ans ?</b>",
+    "ko": "추가 읽기 자료에서는 사랑을 찾는 두 가지 특별한 방법에 대해 이야기합니다. <b>페르와 데비는 어떻게 만났나요? 그들은 어디 출신인가요? 빈센트는 어떻게 아내를 찾으려 했나요? 10년 후 그의 메시지에는 어떤 일이 일어났나요?</b>"
   },
   "content_check_keywords": {
-    "en": "Past Simple negative, didn't, ago, dates, ordinals, inventions, meet",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Per Olafson, Debbie Grant, Norway, England, Internet, chat room, Vincent Banks, fisherman, bottle, letter, Spain, Rosa Randeiro",
+    "ja": "ペール・オラフソン, デビー・グラント, ノルウェー, イギリス, インターネット, チャットルーム, ヴィンセント・バンクス, 漁師, ボトル, 手紙, スペイン, ロサ・ランデイロ",
+    "fr": "Per Olafson, Debbie Grant, Norvège, Angleterre, Internet, salon de discussion, Vincent Banks, pêcheur, bouteille, lettre, Espagne, Rosa Randeiro",
+    "ko": "페르 올라프손, 데비 그랜트, 노르웨이, 영국, 인터넷, 채팅룸, 빈센트 뱅크스, 어부, 병, 편지, 스페인, 로사 란데이로"
   },
   "content_check_placeholder": {
-    "en": "To make a negative Past Simple sentence, use didn't + base verb... Use 'ago' after a time expression... The date 3/4/1999 is said...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Per and Debbie met... Per is from... and Debbie is from... Vincent wrote... and put it... Ten years later, a woman named... found it...",
+    "ja": "ペールとデビーは...で出会いました。ペールは...出身で、デビーは...出身です。ヴィンセントは...を書いて...に入れました。10年後、...という女性がそれを見つけました。",
+    "fr": "Per et Debbie se sont rencontrés sur... Per est de... et Debbie est de... Vincent a écrit... et l'a mis... Dix ans plus tard, une femme nommée... l'a trouvé...",
+    "ko": "페르와 데비는...에서 만났습니다. 페르는... 출신이고 데비는... 출신입니다. 빈센트는...을/를 써서...에 넣었습니다. 10년 후, ...이라는 여성이 그것을 발견했습니다."
   },
   "deepening_question": {
-    "en": "The unit includes stories about how people met (Internet, message in a bottle). <b>How do people usually meet their partners in your country? Has technology changed the way people meet? How do you think meeting someone through the Internet is different from meeting them in person?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows two very different ways people found love. <b>Do you think it is possible to find true love on the Internet? Why or why not? Would you ever send a message in a bottle? What do you think is the best way to meet new people?</b>",
+    "ja": "読み物では、人々が愛を見つけた二つの非常に異なる方法が示されています。<b>インターネットで真実の愛を見つけることは可能だと思いますか？なぜそう思いますか？ボトルメッセージを送ったことがありますか？新しい人と出会うための最良の方法は何だと思いますか？</b>",
+    "fr": "La lecture montre deux façons très différentes de trouver l'amour. <b>Pensez-vous qu'il est possible de trouver le grand amour sur Internet ? Pourquoi ou pourquoi pas ? Enverriez-vous un message dans une bouteille ? Quelle est, selon vous, la meilleure façon de rencontrer de nouvelles personnes ?</b>",
+    "ko": "읽기 자료는 사람들이 사랑을 찾은 두 가지 매우 다른 방법을 보여줍니다. <b>인터넷에서 진정한 사랑을 찾는 것이 가능하다고 생각하나요? 그렇게 생각하는 이유는 무엇인가요? 병에 편지를 넣어 보낸 적이 있나요? 새로운 사람을 만나는 가장 좋은 방법은 무엇이라고 생각하나요?</b>"
   },
   "deepening_placeholder": {
-    "en": "In my country, people often meet... Technology has changed meeting by... Internet meetings are different because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "I think it is possible to find love on the Internet because... However, it can also be... I would/wouldn't send a message in a bottle because... The best way to meet people is...",
+    "ja": "インターネットで愛を見つけることは可能だと思います。なぜなら...。しかし、...こともあります。ボトルメッセージを送るのは...からです。新しい人と出会う最良の方法は...です。",
+    "fr": "Je pense qu'il est possible de trouver l'amour sur Internet parce que... Cependant, cela peut aussi être... J'enverrais/je n'enverrais pas un message dans une bouteille parce que... La meilleure façon de rencontrer des gens est...",
+    "ko": "인터넷에서 사랑을 찾는 것이 가능하다고 생각합니다. 왜냐하면... 하지만... 수도 있습니다. 병에 편지를 보낼 것 같습니다/보내지 않을 것 같습니다. 왜냐하면... 새로운 사람을 만나는 가장 좋은 방법은...입니다."
   },
   "critical_question": {
-    "en": "In this unit, you practiced talking about past events using negatives and 'ago', and saying dates. <b>Why is it important to be able to talk about when things did NOT happen, as well as when they did? How can using dates and 'ago' help you understand history or news stories in English?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about inventions, different ways to find love, and how people changed their lives. <b>Why do you think people are always trying to find new ways to connect with others? How have inventions like the Internet and email changed the way we make friends and find love? Do you think these changes are good or bad?</b>",
+    "ja": "このユニットでは、発明や愛を見つけるさまざまな方法、そして人々がどのように人生を変えたかについて学びました。<b>人々が常に他人とつながる新しい方法を探し続けるのはなぜだと思いますか？インターネットやメールのような発明は、私たちが友達を作り、愛を見つける方法をどのように変えましたか？これらの変化は良いことだと思いますか、それとも悪いことだと思いますか？</b>",
+    "fr": "Dans cette unité, vous avez appris les inventions, les différentes façons de trouver l'amour et comment les gens ont changé leur vie. <b>Pourquoi pensez-vous que les gens cherchent toujours de nouvelles façons de se connecter avec les autres ? Comment des inventions comme Internet et le courrier électronique ont-elles changé notre façon de nous faire des amis et de trouver l'amour ? Pensez-vous que ces changements sont bons ou mauvais ?</b>",
+    "ko": "이번 유닛에서는 발명품, 사랑을 찾는 다양한 방법, 그리고 사람들이 어떻게 자신의 삶을 바꾸었는지에 대해 배웠습니다. <b>사람들이 항상 다른 사람들과 연결될 새로운 방법을 찾는 이유는 무엇이라고 생각하나요? 인터넷과 이메일 같은 발명품은 우리가 친구를 사귀고 사랑을 찾는 방식을 어떻게 변화시켰나요? 이러한 변화가 좋은 것인지 나쁜 것인지 어떻게 생각하나요?</b>"
   },
   "critical_placeholder": {
-    "en": "Talking about what didn't happen is important because... Dates and 'ago' help with history and news because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "People are always trying to find new ways to connect because... Inventions like the Internet have changed relationships by... I think these changes are good/bad because...",
+    "ja": "人々が常に新しいつながり方を探すのは...からです。インターネットのような発明は...という点で人間関係を変えました。これらの変化は...ので良い/悪いと思います。",
+    "fr": "Les gens cherchent toujours de nouvelles façons de se connecter parce que... Des inventions comme Internet ont changé les relations en... Je pense que ces changements sont bons/mauvais parce que...",
+    "ko": "사람들이 항상 새로운 연결 방식을 찾는 이유는... 때문입니다. 인터넷과 같은 발명품은...이라는 점에서 인간관계를 변화시켰습니다. 저는 이러한 변화가... 때문에 좋다/나쁘다고 생각합니다."
   }
 }

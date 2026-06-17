@@ -471,45 +471,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: 꿈과 행동</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 꿈, 여행, 계획, 나는</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 공중으로 움직이는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='꿈'>꿈</option><option value='여행'>여행</option><option value='계획'>계획</option><option value='나는'>나는</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='나는' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 여러 장소를 다니는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='꿈'>꿈</option><option value='여행'>여행</option><option value='계획'>계획</option><option value='나는'>나는</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='여행' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 앞으로 이루고 싶은 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='꿈'>꿈</option><option value='여행'>여행</option><option value='계획'>계획</option><option value='나는'>나는</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='꿈' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 앞으로 할 일을 생각한 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='꿈'>꿈</option><option value='여행'>여행</option><option value='계획'>계획</option><option value='나는'>나는</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='계획' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: 경쟁과 성장</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 경주, 배우다, 일하다</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 일이나 활동을 하는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='경주'>경주</option><option value='배우다'>배우다</option><option value='일하다'>일하다</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='일하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 누가 더 빠른지 겨루는 경기는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='경주'>경주</option><option value='배우다'>배우다</option><option value='일하다'>일하다</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='경주' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 지식이나 기술을 익히는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='경주'>경주</option><option value='배우다'>배우다</option><option value='일하다'>일하다</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='배우다' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: 미래와 동기</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 바꾸다, 미래, 열정</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 앞으로 다가올 시간은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='바꾸다'>바꾸다</option><option value='미래'>미래</option><option value='열정'>열정</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='미래' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 힘과 의욕은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='바꾸다'>바꾸다</option><option value='미래'>미래</option><option value='열정'>열정</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='열정' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 다르게 만드는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='바꾸다'>바꾸다</option><option value='미래'>미래</option><option value='열정'>열정</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='바꾸다' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+        "en": "The extra reading tells us about two people with unusual passions. <b>What does Clem Quinn do and why does he love it? When did he first try it? What does Sue Glass do now and what are her future plans?</b>",
+    "ja": "追加の読み物では、二人の特別な情熱を持つ人々について説明しています。<b>クレム・クインは何をしていますか？なぜそれが好きなのでしょうか？最初に試したのはいつですか？スー・グラスは今何をしていますか？彼女の将来の計画は何ですか？</b>",
+    "fr": "La lecture supplémentaire nous parle de deux personnes ayant des passions inhabituelles. <b>Que fait Clem Quinn et pourquoi l'aime-t-il ? Quand a-t-il essayé pour la première fois ? Que fait Sue Glass maintenant et quels sont ses projets futurs ?</b>",
+    "ko": "추가 읽기 자료에서는 특별한 열정을 가진 두 사람에 대해 이야기합니다. <b>클렘 퀸은 무엇을 하고 있으며 왜 그것을 좋아하나요? 그는 언제 처음 시도했나요? 수 글래스는 지금 무엇을 하고 있으며 그녀의 미래 계획은 무엇인가요?</b>"
   },
   "content_check_keywords": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Clem Quinn, sky-diving, parachute jump, 20 years ago, teacher, Sue Glass, racing driver, Brands Hatch, driving school",
+    "ja": "クレム・クイン, スカイダイビング, パラシュートジャンプ, 20年前, 講師, スー・グラス, レーシングドライバー, ブランズ・ハッチ, 自動車学校",
+    "fr": "Clem Quinn, parachutisme, saut en parachute, il y a 20 ans, professeur, Sue Glass, pilote de course, Brands Hatch, auto-école",
+    "ko": "클렘 퀸, 스카이다이빙, 낙하산 점프, 20년 전, 강사, 수 글래스, 레이싱 드라이버, 브랜즈 해치, 운전학원"
   },
   "content_check_placeholder": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Clem Quinn is a... He loves it because... He first tried it... Sue Glass is a... Now she plans to...",
+    "ja": "クレム・クインは...です。彼が好きな理由は...。最初に試したのは...。スー・グラスは...です。今、彼女は...を計画しています。",
+    "fr": "Clem Quinn est... Il aime ça parce que... Il a essayé pour la première fois... Sue Glass est... Maintenant, elle prévoit de...",
+    "ko": "클렘 퀸은...입니다. 그가 그것을 좋아하는 이유는... 처음 시도한 것은... 수 글래스는...입니다. 지금 그녀는...을/를 계획하고 있습니다."
   },
   "deepening_question": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows how people can find passions that make them happy. <b>What is something you are passionate about or would like to try? Why do you think it's important to have a hobby or passion? How does it make you feel?</b>",
+    "ja": "読み物では、人々がどのように幸せになる情熱を見つけることができるかが示されています。<b>あなたが情熱を持っていること、あるいは挑戦してみたいことは何ですか？趣味や情熱を持つことが大切なのはなぜだと思いますか？それはどのような気持ちにさせてくれますか？</b>",
+    "fr": "La lecture montre comment les gens peuvent trouver des passions qui les rendent heureux. <b>Qu'est-ce qui vous passionne ou que vous aimeriez essayer ? Pourquoi pensez-vous qu'il est important d'avoir un hobby ou une passion ? Qu'est-ce que cela vous fait ressentir ?</b>",
+    "ko": "읽기 자료는 사람들이 자신을 행복하게 하는 열정을 어떻게 찾을 수 있는지 보여줍니다. <b>여러분이 열정을 가지고 있거나 도전해 보고 싶은 것은 무엇인가요? 취미나 열정을 가지는 것이 중요한 이유는 무엇이라고 생각하나요? 그것은 여러분에게 어떤 느낌을 주나요?</b>"
   },
   "deepening_placeholder": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "I am passionate about... I would like to try... Having a passion is important because... It makes me feel...",
+    "ja": "私が情熱を持っているのは...です。...を試してみたいです。情熱を持つことは...ので大切です。それは...という気持ちにさせてくれます。",
+    "fr": "Je suis passionné(e) par... J'aimerais essayer... Avoir une passion est important parce que... Cela me fait ressentir...",
+    "ko": "제가 열정을 가지고 있는 것은...입니다. 저는...을/를 시도해 보고 싶습니다. 열정을 가지는 것은... 때문에 중요합니다. 그것은 저에게...이라는 느낌을 줍니다."
   },
   "critical_question": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about people who had dreams and followed them with energy and determination. <b>Why do you think it is important to have goals and dreams in life? What can happen if people give up on their dreams? How can we encourage ourselves to keep going when things are difficult?</b>",
+    "ja": "このユニットでは、夢を持ち、情熱と決意を持ってそれを追いかけた人々について学びました。<b>人生に目標や夢を持つことが大切なのはなぜだと思いますか？人々が夢を諦めるとどうなるでしょうか？難しいことに直面したとき、どのように自分を励まし続けることができますか？</b>",
+    "fr": "Dans cette unité, vous avez appris des personnes qui avaient des rêves et les ont suivis avec énergie et détermination. <b>Pourquoi pensez-vous qu'il est important d'avoir des objectifs et des rêves dans la vie ? Que peut-il arriver si les gens abandonnent leurs rêves ? Comment pouvons-nous nous encourager à continuer quand les choses sont difficiles ?</b>",
+    "ko": "이번 유닛에서는 꿈을 가지고 열정과 결심으로 그것을 추구한 사람들에 대해 배웠습니다. <b>인생에 목표와 꿈을 가지는 것이 중요한 이유는 무엇이라고 생각하나요? 사람들이 꿈을 포기하면 어떤 일이 일어날까요? 어려운 상황에서 어떻게 스스로를 격려하며 계속 나아갈 수 있을까요?</b>"
   },
   "critical_placeholder": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Having goals and dreams is important because... If people give up on their dreams, they might... To encourage ourselves when things are difficult, we can...",
+    "ja": "目標や夢を持つことは...ので大切です。人々が夢を諦めると...かもしれません。難しい時に自分を励ますには...ができます。",
+    "fr": "Avoir des objectifs et des rêves est important parce que... Si les gens abandonnent leurs rêves, ils pourraient... Pour nous encourager quand les choses sont difficiles, nous pouvons...",
+    "ko": "목표와 꿈을 가지는 것은... 때문에 중요합니다. 사람들이 꿈을 포기하면... 수도 있습니다. 어려운 상황에서 스스로를 격려하려면...을/를 할 수 있습니다."
   }
 }

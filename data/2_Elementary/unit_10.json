@@ -487,45 +487,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: 도시</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 방문하다, 런던, 파리, 빈</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 오스트리아의 수도는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='방문하다'>방문하다</option><option value='런던'>런던</option><option value='파리'>파리</option><option value='빈'>빈</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='빈' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 어떤 장소에 가는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='방문하다'>방문하다</option><option value='런던'>런던</option><option value='파리'>파리</option><option value='빈'>빈</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='방문하다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 프랑스의 수도는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='방문하다'>방문하다</option><option value='런던'>런던</option><option value='파리'>파리</option><option value='빈'>빈</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='파리' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 영국의 수도는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='방문하다'>방문하다</option><option value='런던'>런던</option><option value='파리'>파리</option><option value='빈'>빈</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='런던' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: 문화와 장소</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 아름다운, 박물관, 음악</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 역사나 문화를 전시하는 곳은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='아름다운'>아름다운</option><option value='박물관'>박물관</option><option value='음악'>음악</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='박물관' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 노래와 악기의 소리는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='아름다운'>아름다운</option><option value='박물관'>박물관</option><option value='음악'>음악</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='음악' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 매우 예쁜 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='아름다운'>아름다운</option><option value='박물관'>박물관</option><option value='음악'>음악</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='아름다운' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: 도시와 음악</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 큰, 리버풀, 뉴올리언스, 재즈</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 영국의 유명한 항구 도시는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='큰'>큰</option><option value='리버풀'>리버풀</option><option value='뉴올리언스'>뉴올리언스</option><option value='재즈'>재즈</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='리버풀' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 크기가 큰 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='큰'>큰</option><option value='리버풀'>리버풀</option><option value='뉴올리언스'>뉴올리언스</option><option value='재즈'>재즈</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='큰' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 미국에서 시작된 음악 장르는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='큰'>큰</option><option value='리버풀'>리버풀</option><option value='뉴올리언스'>뉴올리언스</option><option value='재즈'>재즈</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='재즈' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "This unit teaches how to compare city and country life, use 'have got' to talk about possessions, and use superlatives to describe the best/worst hotels. <b>How do you form comparative and superlative adjectives? What is the difference between 'have' and 'have got'? How do you say 'good' and 'bad' in comparative and superlative forms?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+        "en": "The extra reading describes three famous cities. <b>What is Vienna famous for? What is Liverpool known for and when did the Beatles start there? What is New Orleans famous for and where is it located?</b>",
+    "ja": "追加の読み物では、三つの有名な都市について説明しています。<b>ウィーンは何で有名ですか？リヴァプールは何で知られていますか？ビートルズはいつそこで結成されましたか？ニューオーリンズは何で有名ですか？どこに位置していますか？</b>",
+    "fr": "La lecture supplémentaire décrit trois villes célèbres. <b>Pour quoi Vienne est-elle célèbre ? Pour quoi Liverpool est-elle connue et quand les Beatles s'y sont-ils formés ? Pour quoi La Nouvelle-Orléans est-elle célèbre et où se trouve-t-elle ?</b>",
+    "ko": "추가 읽기 자료에서는 세 개의 유명한 도시를 설명합니다. <b>빈은 무엇으로 유명한가요? 리버풀은 무엇으로 유명하며 비틀즈는 거기서 언제 결성되었나요? 뉴올리언스는 무엇으로 유명하며 어디에 위치해 있나요?</b>"
   },
   "content_check_keywords": {
-    "en": "comparatives, superlatives, have got, city vs country, directions, hotels",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Vienna, music, Danube, Liverpool, port, Beatles, 1959, New Orleans, jazz, Mardi Gras, Mississippi",
+    "ja": "ウィーン, 音楽, ドナウ川, リヴァプール, 港, ビートルズ, 1959, ニューオーリンズ, ジャズ, マルディグラ, ミシシッピ川",
+    "fr": "Vienne, musique, Danube, Liverpool, port, Beatles, 1959, La Nouvelle-Orléans, jazz, Mardi Gras, Mississippi",
+    "ko": "빈, 음악, 다뉴브 강, 리버풀, 항구, 비틀즈, 1959, 뉴올리언스, 재즈, 마디 그라, 미시시피 강"
   },
   "content_check_placeholder": {
-    "en": "Explain how to compare two things using -er/more, how to use have got to show possession, and how to use the + -est/most for superlatives...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Vienna is famous for... Liverpool is known for... The Beatles started there in... New Orleans is famous for... and it is located on...",
+    "ja": "ウィーンは...で有名です。リヴァプールは...で知られています。ビートルズは...年にそこで結成されました。ニューオーリンズは...で有名で、...に位置しています。",
+    "fr": "Vienne est célèbre pour... Liverpool est connue pour... Les Beatles s'y sont formés en... La Nouvelle-Orléans est célèbre pour... et elle se trouve sur...",
+    "ko": "빈은...으로 유명합니다. 리버풀은...으로 유명합니다. 비틀즈는...년에 거기서 결성되었습니다. 뉴올리언스는...으로 유명하며...에 위치해 있습니다."
   },
   "deepening_question": {
-    "en": "The unit compares city and country life and features three musical cities: Vienna, Liverpool, and New Orleans. <b>Do you prefer living in a city or in the countryside? Why? Which of the three musical cities would you most like to visit and why? What kind of music is your city or country famous for?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows that different cities have different features and histories. <b>What do you think makes a city special or interesting? Is it the music, the history, the food, or something else? What city would you like to visit and why?</b>",
+    "ja": "読み物では、都市ごとに特徴や歴史が異なることが示されています。<b>都市を特別で面白いものにしているのは何だと思いますか？音楽、歴史、食べ物、それとも他の何かですか？どの都市を訪れてみたいですか？その理由は？</b>",
+    "fr": "La lecture montre que différentes villes ont des caractéristiques et des histoires différentes. <b>Selon vous, qu'est-ce qui rend une ville spéciale ou intéressante ? Est-ce la musique, l'histoire, la nourriture ou autre chose ? Quelle ville aimeriez-vous visiter et pourquoi ?</b>",
+    "ko": "읽기 자료는 도시마다 다른 특징과 역사를 가지고 있음을 보여줍니다. <b>도시를 특별하고 흥미롭게 만드는 것은 무엇이라고 생각하나요? 음악, 역사, 음식, 아니면 다른 것인가요? 어떤 도시를 방문하고 싶나요? 그 이유는 무엇인가요?</b>"
   },
   "deepening_placeholder": {
-    "en": "I prefer living in the city because... / I prefer the countryside because... I would like to visit... because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "I think a city is special because of... I would like to visit... because...",
+    "ja": "都市が特別だと思うのは...だからです。...を訪れてみたいです。なぜなら...",
+    "fr": "Je pense qu'une ville est spéciale à cause de... Je voudrais visiter... parce que...",
+    "ko": "도시가 특별하다고 생각하는 이유는... 때문입니다. 저는...을/를 방문하고 싶습니다. 왜냐하면..."
   },
   "critical_question": {
-    "en": "In this unit, you learned to compare places and use 'have got' to describe possessions. <b>Why are comparative and superlative forms important when describing hotels, cities, or travel experiences? How could you use these forms to recommend a hotel or a city to a friend?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about different cities and how to compare them. <b>Why do you think some cities become more famous than others? What makes a city a good place to live or visit? If you could choose any city in the world to live in, which one would you choose and why?</b>",
+    "ja": "このユニットでは、さまざまな都市とその比較方法について学びました。<b>なぜ一部の都市が他の都市よりも有名になると思いますか？都市を住みやすい場所や訪れたい場所にするものは何ですか？もし世界のどの都市でも住む場所を選べるとしたら、どこを選びますか？その理由は？</b>",
+    "fr": "Dans cette unité, vous avez appris différentes villes et comment les comparer. <b>Pourquoi pensez-vous que certaines villes deviennent plus célèbres que d'autres ? Qu'est-ce qui fait d'une ville un bon endroit où vivre ou à visiter ? Si vous pouviez choisir n'importe quelle ville dans le monde pour y vivre, laquelle choisiriez-vous et pourquoi ?</b>",
+    "ko": "이번 유닛에서는 다양한 도시와 도시를 비교하는 방법에 대해 배웠습니다. <b>어떤 도시들이 다른 도시들보다 더 유명해지는 이유는 무엇이라고 생각하나요? 도시를 살기 좋은 곳이나 방문하고 싶은 곳으로 만드는 것은 무엇인가요? 세계 어느 도시에서든 살 수 있다면 어느 도시를 선택하겠나요? 그 이유는 무엇인가요?</b>"
   },
   "critical_placeholder": {
-    "en": "Comparatives and superlatives help us compare and recommend because... I would tell my friend: Hotel X is cheaper than Hotel Y, but Hotel Z is the most comfortable...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Some cities become more famous because... A good city to live in has... I would choose... because...",
+    "ja": "一部の都市がより有名になるのは...からです。住みやすい都市には...があります。私は...を選びます。なぜなら...",
+    "fr": "Certaines villes deviennent plus célèbres parce que... Une bonne ville où vivre a... Je choisirais... parce que...",
+    "ko": "어떤 도시들이 더 유명해지는 이유는... 때문입니다. 살기 좋은 도시에는...이/가 있습니다. 저는...을/를 선택하겠습니다. 왜냐하면..."
   }
 }

@@ -526,45 +526,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: 여행과 교통</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 표, 기차, 플랫폼, 질문</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 여행할 때 사용하는 승차권은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='표'>표</option><option value='기차'>기차</option><option value='플랫폼'>플랫폼</option><option value='질문'>질문</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='표' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 무엇을 물어보는 말은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='표'>표</option><option value='기차'>기차</option><option value='플랫폼'>플랫폼</option><option value='질문'>질문</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='질문' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 기차를 기다리는 장소는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='표'>표</option><option value='기차'>기차</option><option value='플랫폼'>플랫폼</option><option value='질문'>질문</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='플랫폼' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 철로를 달리는 교통수단은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='표'>표</option><option value='기차'>기차</option><option value='플랫폼'>플랫폼</option><option value='질문'>질문</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='기차' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: 정보와 숙박</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 정보, 호텔, 소리</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 여행자가 머무는 곳은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='정보'>정보</option><option value='호텔'>호텔</option><option value='소리'>소리</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='호텔' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 귀로 들리는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='정보'>정보</option><option value='호텔'>호텔</option><option value='소리'>소리</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='소리' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 알아야 할 내용이나 사실은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='정보'>정보</option><option value='호텔'>호텔</option><option value='소리'>소리</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='정보' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: 감정과 안전</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 무서운, 영리한, 경찰</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 사람들을 보호하는 기관은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='무서운'>무서운</option><option value='영리한'>영리한</option><option value='경찰'>경찰</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='경찰' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 똑똑하고 판단이 빠른 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='무서운'>무서운</option><option value='영리한'>영리한</option><option value='경찰'>경찰</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='영리한' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 두렵거나 겁이 나는 상태는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='무서운'>무서운</option><option value='영리한'>영리한</option><option value='경찰'>경찰</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='무서운' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "In this unit, you learned about question forms (who, what, where, when, why, which, how), adverbs vs adjectives, and describing feelings (bored, excited, worried, etc.). <b>How do you form a question with a question word? What is the difference between an adjective and an adverb? What is the difference between 'bored' and 'boring'?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The extra reading tells a story about Bertha and the reactions of the children and the aunt. <b>What did the children think about the story? What did the aunt think about the story? What is the possible moral of Bertha's story according to the text?</b>",
+    "ja": "追加の読み物では、ベルタという少女の物語と、それに対する子供たちや叔母の反応が描かれています。<b>子供たちはこの物語をどう思いましたか？叔母はどう思いましたか？本文によると、ベルタの物語の教訓として考えられることは何ですか？</b>",
+    "fr": "La lecture supplémentaire raconte une histoire sur Bertha et les réactions des enfants et de la tante. <b>Qu'ont pensé les enfants de l'histoire ? Qu'en a pensé la tante ? Selon le texte, quelle est la morale possible de l'histoire de Bertha ?</b>",
+    "ko": "추가 읽기 자료는 벨타에 관한 이야기와 아이들과 숙모의 반응을 다루고 있습니다. <b>아이들은 이 이야기에 대해 어떻게 생각했나요? 숙모는 어떻게 생각했나요? 본문에 따르면 벨타 이야기의 교훈으로 가능한 것은 무엇인가요?</b>"
   },
   "content_check_keywords": {
-    "en": "question words, adverbs, adjectives, feelings, -ed/-ing, train travel",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Bertha, children, excited, best story, aunt, terrible, moral, be good, clever, danger",
+    "ja": "ベルタ, 子供たち, 興奮, 最高の物語, 叔母, ひどい, 教訓, 善良である, 賢い, 危険",
+    "fr": "Bertha, enfants, enthousiastes, meilleure histoire, tante, terrible, morale, être bon, malin, danger",
+    "ko": "벨타, 아이들, 신남, 최고의 이야기, 숙모, 끔찍한, 교훈, 착함, 영리함, 위험"
   },
   "content_check_placeholder": {
-    "en": "To make a question with a question word, you put the question word first, then the auxiliary verb, then the subject...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The children thought the story was... The aunt thought it was... The moral might be that...",
+    "ja": "子供たちは物語を...と思いました。叔母は...と思いました。教訓は...かもしれません。",
+    "fr": "Les enfants ont pensé que l'histoire était... La tante a pensé que c'était... La morale pourrait être que...",
+    "ko": "아이들은 이야기가...라고 생각했습니다. 숙모는...이라고 생각했습니다. 교훈은...일 수도 있습니다."
   },
   "deepening_question": {
-    "en": "The story of Bertha shows a contrast between being 'horribly good' and being clever. <b>Do you agree with the moral 'It doesn't always pay to be good'? Why or why not? Can you think of a situation where being too good might be a disadvantage?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The story of Bertha shows a difference between being good and being clever. <b>Do you think it is better to be good or clever? Why? Can you think of a situation where being clever is more important than being good? What about a situation where being good is more important?</b>",
+    "ja": "ベルタの物語は、善良であることと賢いことの違いを示しています。<b>善良でいることと賢くいること、どちらがより良いと思いますか？なぜですか？賢いことが善良であることより重要な状況はありますか？善良であることがより重要な状況はどのようなものですか？</b>",
+    "fr": "L'histoire de Bertha montre une différence entre être bon et être malin. <b>Pensez-vous qu'il est mieux d'être bon ou malin ? Pourquoi ? Pouvez-vous penser à une situation où être malin est plus important qu'être bon ? Et une situation où être bon est plus important ?</b>",
+    "ko": "벨타의 이야기는 착한 것과 영리한 것의 차이를 보여줍니다. <b>착한 것과 영리한 것 중 무엇이 더 낫다고 생각하나요? 그 이유는 무엇인가요? 영리한 것이 착한 것보다 더 중요한 상황은 어떤 것이 있을까요? 착한 것이 더 중요한 상황은 무엇일까요?</b>"
   },
   "deepening_placeholder": {
-    "en": "I agree/disagree because... For example, if you are too good...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "I think it is better to be... because... A situation where being clever is more important is... A situation where being good is more important is...",
+    "ja": "私は...の方が良いと思います。なぜなら...。賢いことがより重要な状況は...。善良であることがより重要な状況は...。",
+    "fr": "Je pense qu'il est mieux d'être... parce que... Une situation où être malin est plus important est... Une situation où être bon est plus important est...",
+    "ko": "저는...이/가 더 낫다고 생각합니다. 왜냐하면... 영리한 것이 더 중요한 상황은... 착한 것이 더 중요한 상황은..."
   },
   "critical_question": {
-    "en": "In this unit, you learned to ask different types of questions (with who, what, where, when, why, how) and to describe feelings using -ed and -ing adjectives. <b>Why is it important to know how to ask different types of questions in English? How can using the correct adjective (e.g., 'I'm bored' vs 'The movie is boring') help you communicate more clearly when describing your feelings?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about asking questions, getting information, and making clever choices. The story of Bertha reminds us that being good doesn't always protect us from danger. <b>Why do you think it is important to be clever as well as good? How can asking questions and thinking carefully help us in difficult situations? Can you think of a time when being clever helped you or someone you know?</b>",
+    "ja": "このユニットでは、質問をすること、情報を得ること、賢い選択をすることについて学びました。ベルタの物語は、善良であることが必ずしも危険から守ってくれるわけではないことを教えてくれます。<b>善良であることだけでなく、賢くあることも大切なのはなぜだと思いますか？質問をしたり、慎重に考えたりすることは、困難な状況でどのように役立ちますか？賢く行動したことで助かった経験はありますか？</b>",
+    "fr": "Dans cette unité, vous avez appris à poser des questions, à obtenir des informations et à faire des choix malins. L'histoire de Bertha nous rappelle qu'être bon ne nous protège pas toujours du danger. <b>Pourquoi pensez-vous qu'il est important d'être malin en plus d'être bon ? Comment poser des questions et réfléchir attentivement peut-il nous aider dans des situations difficiles ? Pouvez-vous penser à un moment où être malin a aidé vous ou quelqu'un que vous connaissez ?</b>",
+    "ko": "이번 유닛에서는 질문하고, 정보를 얻고, 영리한 선택을 하는 것에 대해 배웠습니다. 벨타의 이야기는 착한 것이 항상 위험으로부터 우리를 보호해주지는 않는다는 것을 상기시켜 줍니다. <b>착한 것뿐만 아니라 영리한 것도 중요한 이유는 무엇이라고 생각하나요? 질문하고 신중하게 생각하는 것이 어려운 상황에서 어떻게 도움이 될까요? 영리하게 행동해서 도움이 되었던 경험이 있나요?</b>"
   },
   "critical_placeholder": {
-    "en": "Knowing different question types is important because... Using the correct adjective helps because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Being clever is important because... Asking questions and thinking carefully can help us by... A time when being clever helped was...",
+    "ja": "賢くあることが重要なのは...からです。質問をして慎重に考えることは...という点で役立ちます。賢く行動して助かった経験は...です。",
+    "fr": "Être malin est important parce que... Poser des questions et réfléchir attentivement peut nous aider en... Un moment où être malin a aidé a été...",
+    "ko": "영리한 것이 중요한 이유는... 때문입니다. 질문하고 신중하게 생각하는 것은...을/를 통해 도움이 됩니다. 영리하게 행동해서 도움이 되었던 경험은...입니다."
   }
 }

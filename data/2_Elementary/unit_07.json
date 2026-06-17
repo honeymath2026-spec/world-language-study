@@ -502,45 +502,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: 삶과 일</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 삶, 들판, 일, 시</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 감정과 생각을 담은 글은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='삶'>삶</option><option value='들판'>들판</option><option value='일'>일</option><option value='시'>시</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='시' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 농작물을 기르는 넓은 땅은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='삶'>삶</option><option value='들판'>들판</option><option value='일'>일</option><option value='시'>시</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='들판' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 사람이 살아가는 과정은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='삶'>삶</option><option value='들판'>들판</option><option value='일'>일</option><option value='시'>시</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='삶' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 사람이 하는 노동이나 직업은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='삶'>삶</option><option value='들판'>들판</option><option value='일'>일</option><option value='시'>시</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='일' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: 읽기와 쓰기</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 읽기, 쓰기, 지도자</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 글을 적는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='읽기'>읽기</option><option value='쓰기'>쓰기</option><option value='지도자'>지도자</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='쓰기' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 사람들을 이끄는 사람은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='읽기'>읽기</option><option value='쓰기'>쓰기</option><option value='지도자'>지도자</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='지도자' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 글의 뜻을 이해하는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='읽기'>읽기</option><option value='쓰기'>쓰기</option><option value='지도자'>지도자</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='읽기' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: 사람과 시간</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 가족, 미래, 사람</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 부모, 자녀 등 가까운 사람들은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='가족'>가족</option><option value='미래'>미래</option><option value='사람'>사람</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='가족' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 인간은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='가족'>가족</option><option value='미래'>미래</option><option value='사람'>사람</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='사람' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 앞으로 다가올 시간은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='가족'>가족</option><option value='미래'>미래</option><option value='사람'>사람</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='미래' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "The text explains the Past Simple tense using regular and irregular verbs, and includes biographies of Mattie Smith, George Washington, and Margaret Thatcher. <b>How do you form the Past Simple of regular verbs? How do you make negative sentences and questions in the Past Simple? What are some common irregular verbs?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+        "en": "The extra reading tells us about two important historical figures. <b>Who was the first President of the United States? What did he do? Who was the first woman prime minister in Europe? What was she called?</b>",
+    "ja": "追加の読み物では、二人の重要な歴史上の人物について説明しています。<b>アメリカ合衆国の初代大統領は誰ですか？彼は何をしましたか？ヨーロッパで初めての女性首相は誰ですか？彼女は何と呼ばれていましたか？</b>",
+    "fr": "La lecture supplémentaire nous parle de deux personnages historiques importants. <b>Qui a été le premier président des États-Unis ? Qu'a-t-il fait ? Qui a été la première femme Premier ministre en Europe ? Comment l'appelait-on ?</b>",
+    "ko": "추가 읽기 자료에서는 두 명의 중요한 역사적 인물에 대해 이야기합니다. <b>미국 초대 대통령은 누구인가요? 그는 무엇을 했나요? 유럽 최초의 여성 총리는 누구인가요? 그녀는 무엇이라고 불렸나요?</b>"
   },
   "content_check_keywords": {
-    "en": "Past Simple, regular verbs, irregular verbs, negative, questions, did, silent letters, special occasions",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "George Washington, first President, Virginia, War of Independence, Margaret Thatcher, Prime Minister, Britain, The Iron Lady",
+    "ja": "ジョージ・ワシントン, 初代大統領, バージニア, 独立戦争, マーガレット・サッチャー, 首相, イギリス, アイアン・レディ",
+    "fr": "George Washington, premier président, Virginie, guerre d'indépendance, Margaret Thatcher, Premier ministre, Royaume-Uni, Dame de fer",
+    "ko": "조지 워싱턴, 초대 대통령, 버지니아, 독립 전쟁, 마가렛 대처, 총리, 영국, 철의 여인"
   },
   "content_check_placeholder": {
-    "en": "Explain how to form the Past Simple for regular verbs, how to use 'didn't' for negatives, and give examples of irregular verbs...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The first President was... He... The first woman Prime Minister was... She was called...",
+    "ja": "初代大統領は...です。彼は...。初めての女性首相は...です。彼女は...と呼ばれていました。",
+    "fr": "Le premier président était... Il... La première femme Premier ministre était... On l'appelait...",
+    "ko": "초대 대통령은...입니다. 그는... 유럽 최초의 여성 총리는...입니다. 그녀는...이라고 불렸습니다."
   },
   "deepening_question": {
-    "en": "The unit includes a conversation about special occasions (birthday, New Year's Eve, Thanksgiving, etc.). <b>What special occasions are important in your country? How do people celebrate them? What do you say to someone on these days in your language?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows how some people became leaders and changed history. <b>What qualities do you think a good leader should have? Why are these qualities important? Can anyone become a leader, or are some people born with special skills?</b>",
+    "ja": "読み物では、どのようにしていくつかの人々が指導者となり歴史を変えたかが示されています。<b>良いリーダーはどのような資質を持つべきだと思いますか？なぜこれらの資質が重要ですか？誰でもリーダーになれますか？それとも特別な才能を持って生まれてくる人もいますか？</b>",
+    "fr": "La lecture montre comment certaines personnes sont devenues des dirigeants et ont changé l'histoire. <b>Quelles qualités pensez-vous qu'un bon dirigeant devrait avoir ? Pourquoi ces qualités sont-elles importantes ? Tout le monde peut-il devenir un dirigeant, ou certaines personnes naissent-elles avec des compétences spéciales ?</b>",
+    "ko": "읽기 자료는 어떻게 어떤 사람들이 지도자가 되어 역사를 바꾸었는지 보여줍니다. <b>좋은 지도자는 어떤 자질을 가져야 한다고 생각하나요? 이러한 자질이 중요한 이유는 무엇인가요? 누구나 지도자가 될 수 있나요? 아니면 특별한 재능을 가지고 태어나는 사람들도 있나요?</b>"
   },
   "deepening_placeholder": {
-    "en": "In my country, important special occasions include... People celebrate by... On this day, we say...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "A good leader should have... These qualities are important because... I think anyone can become a leader with... / Some people are born with...",
+    "ja": "良いリーダーは...を持つべきです。これらの資質が重要なのは...だからです。誰でも...でリーダーになれると思います。 / 中には...を持って生まれてくる人もいます。",
+    "fr": "Un bon dirigeant devrait avoir... Ces qualités sont importantes parce que... Je pense que tout le monde peut devenir un dirigeant avec... / Certaines personnes naissent avec...",
+    "ko": "좋은 지도자는...을/를 가져야 합니다. 이러한 자질이 중요한 이유는... 때문입니다. 누구나...을/를 통해 지도자가 될 수 있다고 생각합니다. / 어떤 사람들은...을/를 가지고 태어납니다."
   },
   "critical_question": {
-    "en": "In this unit, you learned about the lives of Mattie Smith, George Washington, and Margaret Thatcher. <b>Why is it important to learn about people from the past? How can studying history and biographies help us understand the present and make better decisions for the future?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about people who had difficult lives but continued learning, and historical figures who changed the world. <b>Why do you think learning is important throughout life? Can people change their lives by learning new things? How can we keep learning even when life is difficult?</b>",
+    "ja": "このユニットでは、大変な人生を送りながらも学び続けた人々や、世界を変えた歴史上の人物について学びました。<b>生涯を通じて学び続けることが大切なのはなぜだと思いますか？人は新しいことを学ぶことで人生を変えられると思いますか？人生が大変なときでも、どのように学び続けることができるでしょうか？</b>",
+    "fr": "Dans cette unité, vous avez appris des personnes qui ont eu des vies difficiles mais qui ont continué à apprendre, et des figures historiques qui ont changé le monde. <b>Pourquoi pensez-vous que l'apprentissage est important tout au long de la vie ? Les gens peuvent-ils changer leur vie en apprenant de nouvelles choses ? Comment pouvons-nous continuer à apprendre même lorsque la vie est difficile ?</b>",
+    "ko": "이번 유닛에서는 어려운 삶을 살면서도 계속 배운 사람들과 세상을 바꾼 역사적 인물들에 대해 배웠습니다. <b>평생 동안 배우는 것이 중요한 이유는 무엇이라고 생각하나요? 새로운 것을 배움으로써 사람들은 자신의 삶을 바꿀 수 있을까요? 삶이 어려울 때도 어떻게 계속 배울 수 있을까요?</b>"
   },
   "critical_placeholder": {
-    "en": "Learning about people from the past is important because... Studying history helps us understand the present by... This can lead to better future decisions because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Learning is important throughout life because... People can change their lives by learning because... To keep learning when life is difficult, we can...",
+    "ja": "生涯を通じて学ぶことが重要なのは...だからです。人は学ぶことで人生を変えられます。なぜなら...。人生が大変なときに学び続けるには...ができます。",
+    "fr": "L'apprentissage est important tout au long de la vie parce que... Les gens peuvent changer leur vie en apprenant parce que... Pour continuer à apprendre quand la vie est difficile, nous pouvons...",
+    "ko": "평생 배우는 것이 중요한 이유는... 때문입니다. 사람들은 배움을 통해 삶을 바꿀 수 있습니다. 왜냐하면... 삶이 어려울 때 계속 배우려면...을/를 할 수 있습니다."
   }
 }

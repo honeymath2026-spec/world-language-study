@@ -507,45 +507,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 집과 장소</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 집, 아파트, 주택, 정원</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 사람이 거주하는 건물은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='jip'>집</option><option value='apateu'>아파트</option><option value='jutaek'>주택</option><option value='jeongwon'>정원</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='jutaek' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 여러 세대가 사는 건물은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='jip'>집</option><option value='apateu'>아파트</option><option value='jutaek'>주택</option><option value='jeongwon'>정원</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='apateu' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 사람이 사는 곳은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='jip'>집</option><option value='apateu'>아파트</option><option value='jutaek'>주택</option><option value='jeongwon'>정원</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='jip' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 꽃과 나무를 기르는 곳은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='jip'>집</option><option value='apateu'>아파트</option><option value='jutaek'>주택</option><option value='jeongwon'>정원</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='jeongwon' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 자연과 지역</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 해변, 가족, 도시</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 사람이 많이 사는 곳은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='haebyeon'>해변</option><option value='gajok'>가족</option><option value='dosi'>도시</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='dosi' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 바다 옆의 모래사장은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='haebyeon'>해변</option><option value='gajok'>가족</option><option value='dosi'>도시</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='haebyeon' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 함께 사는 친척들은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='haebyeon'>해변</option><option value='gajok'>가족</option><option value='dosi'>도시</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='gajok' style='display:none;'></span></div></div><div style='background:#f0f7ff; border:1px solid #bdd9ff; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2b6cb0; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 3: 장소와 공간</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 시골, 방, 장소</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 어떤 곳은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='sigol'>시골</option><option value='bang'>방</option><option value='jangso'>장소</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='jangso' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 자연이 많은 지역은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='sigol'>시골</option><option value='bang'>방</option><option value='jangso'>장소</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='sigol' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 집 안의 공간은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='sigol'>시골</option><option value='bang'>방</option><option value='jangso'>장소</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='bang' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+        "en": "The extra reading describes different homes around the world. <b>Where does Manola live? What kind of home do Ray and Elsie have? Where does Brad live? What type of home does Alise have in Samoa?</b>",
+    "ja": "追加の読み物では、世界中のさまざまな家について説明しています。<b>マノラはどこに住んでいますか？レイとエルシーはどんな家に住んでいますか？ブラッドはどこに住んでいますか？サモアではアリセはどんな家に住んでいますか？</b>",
+    "fr": "La lecture supplémentaire décrit différentes maisons dans le monde. <b>Où habite Manola ? Quel type de maison ont Ray et Elsie ? Où habite Brad ? Quel type de maison Alise a-t-elle aux Samoa ?</b>",
+    "ko": "추가 읽기 자료에서는 세계 각국의 다양한 집에 대해 설명합니다. <b>마놀라는 어디에 살고 있나요? 레이와 엘시는 어떤 집에 살고 있나요? 브래드는 어디에 살고 있나요? 사모아에서 알리세는 어떤 집에 살고 있나요?</b>"
   },
   "content_check_keywords": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Lisbon, old flat, river, Toronto, modern house, garden, Malibu, beach, Samoa, traditional house, large family",
+    "ja": "リスボン, 古いアパート, 川, トロント, モダンな家, 庭, マリブ, ビーチ, サモア, 伝統的な家, 大家族",
+    "fr": "Lisbonne, vieil appartement, fleuve, Toronto, maison moderne, jardin, Malibu, plage, Samoa, maison traditionnelle, grande famille",
+    "ko": "리스본, 오래된 아파트, 강, 토론토, 현대적인 주택, 정원, 말리부, 해변, 사모아, 전통 가옥, 대가족"
   },
   "content_check_placeholder": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Manola lives in... Ray and Elsie live in... Brad lives in... Alise lives in...",
+    "ja": "マノラは...に住んでいます。レイとエルシーは...に住んでいます。ブラッドは...に住んでいます。アリセは...に住んでいます。",
+    "fr": "Manola habite... Ray et Elsie vivent dans... Brad habite... Alise habite...",
+    "ko": "마놀라는...에 살고 있습니다. 레이와 엘시는...에 살고 있습니다. 브래드는...에 살고 있습니다. 알리세는...에 살고 있습니다."
   },
   "deepening_question": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows that people live in different kinds of homes. <b>What kind of home do you live in? What is special about your home? Do you think it is better to live in a city or in the countryside? Why?</b>",
+    "ja": "読み物では、人々がさまざまな種類の家に住んでいることが示されています。<b>あなたはどんな家に住んでいますか？あなたの家の特別なところは何ですか？街中と田舎ではどちらに住むのが良いと思いますか？なぜですか？</b>",
+    "fr": "La lecture montre que les gens vivent dans différents types de maisons. <b>Dans quel type de maison habitez-vous ? Qu'est-ce qui est spécial chez vous ? Pensez-vous qu'il est mieux de vivre en ville ou à la campagne ? Pourquoi ?</b>",
+    "ko": "읽기 자료는 사람들이 다양한 종류의 집에 살고 있음을 보여줍니다. <b>여러분은 어떤 집에 살고 있나요? 여러분의 집의 특별한 점은 무엇인가요? 도시와 시골 중 어디에 사는 것이 더 좋다고 생각하나요? 왜 그런가요?</b>"
   },
   "deepening_placeholder": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "I live in a... My home is special because... I think living in the city/countryside is better because...",
+    "ja": "私は...に住んでいます。私の家の特別なところは...です。街中/田舎に住む方が良いと思います。なぜなら...",
+    "fr": "J'habite dans un/une... Ma maison est spéciale parce que... Je pense qu'il est mieux de vivre en ville/à la campagne parce que...",
+    "ko": "저는...에 살고 있습니다. 제 집의 특별한 점은...입니다. 도시/시골에 사는 것이 더 낫다고 생각합니다. 왜냐하면..."
   },
   "critical_question": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about different homes, families, and places around the world. <b>Why do you think homes are different in different countries? How does where you live affect your daily life and your family? What do you think makes a house a home?</b>",
+    "ja": "このユニットでは、世界のさまざまな家や家族、場所について学びました。<b>国によって家が異なるのはなぜだと思いますか？住んでいる場所は日常生活や家族にどのような影響を与えますか？家を「我が家」たらしめるものは何だと思いますか？</b>",
+    "fr": "Dans cette unité, vous avez appris les différentes maisons, familles et lieux à travers le monde. <b>Pourquoi pensez-vous que les maisons sont différentes selon les pays ? Comment votre lieu de vie affecte-t-il votre vie quotidienne et votre famille ? Qu'est-ce qui, selon vous, fait qu'une maison est un foyer ?</b>",
+    "ko": "이번 유닛에서는 세계 각국의 다양한 집, 가족, 장소에 대해 배웠습니다. <b>나라마다 집이 다른 이유는 무엇이라고 생각하나요? 사는 곳이 일상생활과 가족에게 어떤 영향을 미치나요? 집을 '우리 집'답게 만드는 것은 무엇이라고 생각하나요?</b>"
   },
   "critical_placeholder": {
-    "en": "",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Homes are different because... Where you live affects your life by... A house becomes a home when...",
+    "ja": "家が異なるのは...からです。住んでいる場所は...という形で生活に影響を与えます。家が我が家になるのは...ときです。",
+    "fr": "Les maisons sont différentes parce que... Où vous habitez affecte votre vie en... Une maison devient un foyer quand...",
+    "ko": "집이 다른 이유는... 때문입니다. 사는 곳은...을/를 통해 생활에 영향을 미칩니다. 집이 우리 집이 되는 때는...입니다."
   }
 }

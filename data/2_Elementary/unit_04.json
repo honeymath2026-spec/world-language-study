@@ -621,45 +621,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>그룹 1: 시간과 행동</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 주, 일, 시작하다, 이동하다</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 목적을 가지고 하는 활동은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='week'>주</option><option value='work'>일</option><option value='start'>시작하다</option><option value='travel'>이동하다</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='work' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 한 장소에서 다른 곳으로 가는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='week'>주</option><option value='work'>일</option><option value='start'>시작하다</option><option value='travel'>이동하다</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='travel' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 7일간의 기간은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='week'>주</option><option value='work'>일</option><option value='start'>시작하다</option><option value='travel'>이동하다</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='week' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 무엇인가를 시작하는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='week'>주</option><option value='work'>일</option><option value='start'>시작하다</option><option value='travel'>이동하다</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='start' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>그룹 2: 저녁과 휴식</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 저녁, 피곤하다, 읽다</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 글자를 보고 이해하는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='evening'>저녁</option><option value='tired'>피곤하다</option><option value='read'>읽다</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='read' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 하루의 끝 무렵은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='evening'>저녁</option><option value='tired'>피곤하다</option><option value='read'>읽다</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='evening' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 휴식이 필요한 상태는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='evening'>저녁</option><option value='tired'>피곤하다</option><option value='read'>읽다</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='tired' style='display:none;'></span></div></div><div style='background:#f0f7ff; border:1px solid #bdd9ff; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#2b6cb0; margin:0; border-left:4px solid #4299e1; padding-left:10px;'>그룹 3: 음악과 자연</h4><span style='font-size:0.85rem; background:#4299e1; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 선택지: 음악, 봄, 꽃</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 듣기 좋은 소리의 조합은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='music'>음악</option><option value='spring'>봄</option><option value='flowers'>꽃</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='music' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 식물의 화려한 부분은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='music'>음악</option><option value='spring'>봄</option><option value='flowers'>꽃</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='flowers' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 겨울 뒤의 계절은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='music'>음악</option><option value='spring'>봄</option><option value='flowers'>꽃</option></select>입니다.<button onclick='checkVocab(this)'>확인</button><span class='vocab-answer' data-correct='spring' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "The text explains Bobbi Brown's weekends and weekdays using the present simple tense. <b>Where does Bobbi work? What time does she get up? Does she like cooking? What does she do on Tuesdays and Thursdays?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+        "en": "The extra reading tells us about three people and their favourite seasons. <b>What is Al Wheeler's favourite season and why? What does Manuela da Silva like to do in summer? What is Toshi Suzuki's special hobby and when does he enjoy it most?</b>",
+    "ja": "追加の読み物では、3人の人とその好きな季節について説明しています。<b>アル・ウィーラーの好きな季節は何ですか？その理由は？マヌエラ・ダ・シルバは夏に何をするのが好きですか？鈴木敏志の特別な趣味は何ですか？それを最も楽しむのはいつですか？</b>",
+    "fr": "La lecture supplémentaire nous parle de trois personnes et de leurs saisons préférées. <b>Quelle est la saison préférée d'Al Wheeler et pourquoi ? Qu'est-ce que Manuela da Silva aime faire en été ? Quel est le hobby spécial de Toshi Suzuki et quand l'apprécie-t-il le plus ?</b>",
+    "ko": "추가 읽기 자료에서는 세 사람과 그들이 좋아하는 계절에 대해 이야기합니다. <b>알 휠러가 가장 좋아하는 계절은 무엇이고 그 이유는 무엇인가요? 마누엘라 다 실바는 여름에 무엇을 하는 것을 좋아하나요? 스즈키 토시의 특별한 취미는 무엇이고 언제 가장 즐기나요?</b>"
   },
   "content_check_keywords": {
-    "en": "present simple, weekend, weekday, routine, get up, work, interview, cook, relax, go out",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "autumn, fall, tree colours, beach, swimming, summer, photography, flowers, spring, Pentax, karaoke",
+    "ja": "秋, フォール, 木の色, ビーチ, 水泳, 夏, 写真撮影, 花, 春, ペンタックス, カラオケ",
+    "fr": "automne, couleurs des arbres, plage, baignade, été, photographie, fleurs, printemps, Pentax, karaoké",
+    "ko": "가을, 나무 색깔, 해변, 수영, 여름, 사진 촬영, 꽃, 봄, 펜탁스, 가라오케"
   },
   "content_check_placeholder": {
-    "en": "Bobbi works for SKYTV in New York City. She gets up at 3.00 in the morning...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Al Wheeler's favourite season is... because... Manuela likes to... in summer. Toshi's hobby is... and he enjoys it most in...",
+    "ja": "アル・ウィーラーの好きな季節は...です。なぜなら...。マヌエラは夏に...するのが好きです。鈴木の趣味は...で、特に...に楽しみます。",
+    "fr": "La saison préférée d'Al Wheeler est... parce que... Manuela aime... en été. Le hobby de Toshi est... et il l'apprécie surtout en...",
+    "ko": "알 휠러가 가장 좋아하는 계절은...입니다. 왜냐하면... 마누엘라는 여름에...하는 것을 좋아합니다. 스즈키의 취미는...이고, 특히...에 가장 즐깁니다."
   },
   "deepening_question": {
-    "en": "The reading texts describe the favourite seasons of three people from Canada, Portugal, and Japan. <b>What is your favourite season? Why? What do you like to do in that season? What do you do in other seasons?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows that different people have different favourite seasons. <b>What is your favourite season? What do you like to do in that season? Why do you like that season more than the others?</b>",
+    "ja": "読み物では、人によって好きな季節が異なることが示されています。<b>あなたの好きな季節は何ですか？その季節には何をするのが好きですか？なぜ他の季節よりもその季節が好きですか？</b>",
+    "fr": "La lecture montre que différentes personnes ont des saisons préférées différentes. <b>Quelle est votre saison préférée ? Qu'aimez-vous faire pendant cette saison ? Pourquoi aimez-vous cette saison plus que les autres ?</b>",
+    "ko": "읽기 자료는 사람마다 좋아하는 계절이 다르다는 것을 보여줍니다. <b>여러분이 가장 좋아하는 계절은 무엇인가요? 그 계절에 무엇을 하는 것을 좋아하나요? 다른 계절보다 그 계절을 더 좋아하는 이유는 무엇인가요?</b>"
   },
   "deepening_placeholder": {
-    "en": "My favourite season is... because I like to... In that season, I usually... In winter/summer/autumn/spring, I...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "My favourite season is... because... In this season, I like to... I prefer it because...",
+    "ja": "私の好きな季節は...です。なぜなら...。この季節には...をするのが好きです。他の季節より好きな理由は...です。",
+    "fr": "Ma saison préférée est... parce que... Pendant cette saison, j'aime... Je la préfère parce que...",
+    "ko": "제가 가장 좋아하는 계절은...입니다. 왜냐하면... 이 계절에는...을/를 좋아합니다. 다른 계절보다 더 좋아하는 이유는...입니다."
   },
   "critical_question": {
-    "en": "In this unit, you learned to talk about daily routines, leisure activities, and favourite seasons. <b>How do you think daily routines differ between people in different countries? Why might someone's favourite season depend on where they live?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about daily routines, hobbies, and different seasons. <b>Why do you think people have different favourite seasons? How do seasons affect what we do, how we feel, and how we spend our time? Do you think it is important to have hobbies in every season?</b>",
+    "ja": "このユニットでは、日課、趣味、そして様々な季節について学びました。<b>人によって好きな季節が異なるのはなぜだと思いますか？季節は私たちの行動や気分、時間の過ごし方にどのように影響しますか？どの季節にも趣味を持つことは大切だと思いますか？</b>",
+    "fr": "Dans cette unité, vous avez appris les routines quotidiennes, les loisirs et les différentes saisons. <b>Pourquoi pensez-vous que les gens ont des saisons préférées différentes ? Comment les saisons affectent-elles ce que nous faisons, comment nous nous sentons et comment nous passons notre temps ? Pensez-vous qu'il est important d'avoir des loisirs à chaque saison ?</b>",
+    "ko": "이번 유닛에서는 일상 생활, 취미, 그리고 다양한 계절에 대해 배웠습니다. <b>사람마다 좋아하는 계절이 다른 이유는 무엇이라고 생각하나요? 계절은 우리가 하는 일, 느낌, 시간을 보내는 방식에 어떤 영향을 미치나요? 모든 계절에 취미를 가지는 것이 중요하다고 생각하나요?</b>"
   },
   "critical_placeholder": {
-    "en": "Daily routines might be different because of work culture, climate, or family habits. Someone's favourite season might depend on the weather where they live, the activities available, or personal memories...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "People have different favourite seasons because... Seasons affect us by... Having hobbies in every season is important because...",
+    "ja": "人によって好きな季節が異なるのは...からです。季節は...という形で私たちに影響を与えます。どの季節にも趣味を持つことは...ので大切です。",
+    "fr": "Les gens ont des saisons préférées différentes parce que... Les saisons nous affectent en... Avoir des loisirs à chaque saison est important car...",
+    "ko": "사람마다 좋아하는 계절이 다른 이유는... 때문입니다. 계절은...을/를 통해 우리에게 영향을 미칩니다. 모든 계절에 취미를 가지는 것은... 때문에 중요합니다."
   }
 }

@@ -477,45 +477,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: 능력과 행동</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 재능, 그리다, 연주, 연습</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 실력을 향상시키려면 매일 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='재능'>재능</option><option value='그리다'>그리다</option><option value='연주'>연주</option><option value='연습'>연습</option></select> 해야 합니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='연습' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 알렉산드라는 아름다운 그림을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='재능'>재능</option><option value='그리다'>그리다</option><option value='연주'>연주</option><option value='연습'>연습</option></select> 수 있습니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='그리다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 루카스는 피아노를 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='재능'>재능</option><option value='그리다'>그리다</option><option value='연주'>연주</option><option value='연습'>연습</option></select> 할 수 있습니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='연주' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 무언가를 잘하는 타고난 능력을 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='재능'>재능</option><option value='그리다'>그리다</option><option value='연주'>연주</option><option value='연습'>연습</option></select> 이라고 합니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='재능' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: 기술과 테크놀로지</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 수영, 운전, 컴퓨터</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 자동차를 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='수영'>수영</option><option value='운전'>운전</option><option value='컴퓨터'>컴퓨터</option></select> 하려면 면허가 필요합니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='운전' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 티나는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='수영'>수영</option><option value='운전'>운전</option><option value='컴퓨터'>컴퓨터</option></select> 을 할 수 있지만 운전은 못합니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='수영' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 일과 공부를 위한 전자 기기는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='수영'>수영</option><option value='운전'>운전</option><option value='컴퓨터'>컴퓨터</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='컴퓨터' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: 학습과 미래</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 언어, 배우다, 꿈</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 지식이나 기술을 익히는 것은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='언어'>언어</option><option value='배우다'>배우다</option><option value='꿈'>꿈</option></select> 것입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='배우다' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>9. 미래에 대한 희망이나 목표를 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='언어'>언어</option><option value='배우다'>배우다</option><option value='꿈'>꿈</option></select> 이라고 합니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='꿈' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>10. 영어, 프랑스어, 한국어는 모두 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='언어'>언어</option><option value='배우다'>배우다</option><option value='꿈'>꿈</option></select> 의 예입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='언어' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "The unit explains how to talk about ability using 'can/can't' and past ability using 'could/couldn't', as well as past states using 'was/were'. <b>How do you ask someone if they can swim? How do you say you couldn't do something in the past? How do you ask where someone was yesterday?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The extra reading tells us about two young people with amazing talents. <b>What is Alexandra Nechita called and why? Where was she born? What does Lukas Vondracek do and how often does he practice?</b>",
+    "ja": "追加の読み物では、素晴らしい才能を持つ二人の若者について説明しています。<b>アレクサンドラ・ネキータは何と呼ばれていますか？その理由は？彼女はどこで生まれましたか？ルーカス・ボンドラチェクは何をしていますか？どれくらいの頻度で練習しますか？</b>",
+    "fr": "La lecture supplémentaire nous parle de deux jeunes gens aux talents extraordinaires. <b>Comment appelle-t-on Alexandra Nechita et pourquoi ? Où est-elle née ? Que fait Lukas Vondracek et à quelle fréquence pratique-t-il ?</b>",
+    "ko": "추가 읽기 자료에서는 놀라운 재능을 가진 두 명의 어린이에 대해 이야기합니다. <b>알렉산드라 네키타는 무엇이라고 불리나요? 그 이유는 무엇인가요? 그녀는 어디에서 태어났나요? 루카스 본드라체크는 무엇을 하나요? 얼마나 자주 연습하나요?</b>"
   },
   "content_check_keywords": {
-    "en": "can, can't, could, couldn't, was, were, ability, past",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Little Miss Picasso, cubist style, Romania, Los Angeles, piano, concerts, six hours, Opava, Vienna",
+    "ja": "小さなピカソ, キュビズム様式, ルーマニア, ロサンゼルス, ピアノ, コンサート, 6時間, オパヴァ, ウィーン",
+    "fr": "Petite Miss Picasso, style cubiste, Roumanie, Los Angeles, piano, concerts, six heures, Opava, Vienne",
+    "ko": "리틀 미스 피카소, 입체파 스타일, 루마니아, 로스앤젤레스, 피아노, 콘서트, 6시간, 오파바, 빈"
   },
   "content_check_placeholder": {
-    "en": "To ask if someone can swim, say... To say you couldn't do something in the past, say... To ask where someone was yesterday, say...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Alexandra is called... because... She was born in... Lukas is a... He practices...",
+    "ja": "アレクサンドラは...と呼ばれています。なぜなら...。彼女は...で生まれました。ルーカスは...で、...時間練習します。",
+    "fr": "Alexandra est appelée... parce que... Elle est née en... Lukas est un... Il pratique...",
+    "ko": "알렉산드라는...이라고 불립니다. 왜냐하면... 그녀는...에서 태어났습니다. 루카스는...이고...시간 연습합니다."
   },
   "deepening_question": {
-    "en": "The unit features child geniuses like Alexandra (painter) and Lukas (pianist) who have exceptional abilities. <b>What special abilities or talents did you have when you were very young? What could you do at age five that you can't do as well now? What can you do now that you couldn't do five years ago?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows how some young people have special talents. <b>Do you have any special talents or hobbies? What are you good at? Do you practice regularly to get better? Why is practice important?</b>",
+    "ja": "読み物では、特別な才能を持つ若者がいることが示されています。<b>あなたには特別な才能や趣味がありますか？何が得意ですか？上達するために定期的に練習していますか？練習が大切なのはなぜですか？</b>",
+    "fr": "La lecture montre que certains jeunes ont des talents particuliers. <b>Avez-vous des talents ou des hobbies spéciaux ? Dans quoi êtes-vous bon(ne) ? Est-ce que vous vous entraînez régulièrement pour vous améliorer ? Pourquoi l'entraînement est-il important ?</b>",
+    "ko": "읽기 자료는 몇몇 어린이들이 특별한 재능을 가지고 있음을 보여줍니다. <b>여러분은 특별한 재능이나 취미가 있나요? 무엇을 잘하나요? 더 잘하기 위해 규칙적으로 연습하나요? 연습이 중요한 이유는 무엇인가요?</b>"
   },
   "deepening_placeholder": {
-    "en": "When I was five, I could... but now I can't... Five years ago, I couldn't... but now I can...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "I have a talent for... I am good at... I practice regularly because... Practice is important because...",
+    "ja": "私には...の才能があります。...が得意です。定期的に練習しています。なぜなら...。練習が大切なのは...だからです。",
+    "fr": "J'ai un talent pour... Je suis bon(ne) en... Je m'entraîne régulièrement parce que... L'entraînement est important parce que...",
+    "ko": "저는...에 재능이 있습니다. 저는...을/를 잘합니다. 규칙적으로 연습합니다. 왜냐하면... 연습이 중요한 이유는... 때문입니다."
   },
   "critical_question": {
-    "en": "In this unit, you learned to talk about abilities using 'can/can't' and 'could/couldn't'. You also learned about homophones (words that sound the same) like 'hear/here' and 'write/right'. <b>Why is it important to be able to talk about what you can and cannot do when meeting new people or in a job interview? Why do you think English has so many words that sound the same but have different spellings and meanings?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about abilities, talents, and learning new skills. <b>Why do you think some people have special talents while others don't? Can anyone become good at something with practice? What is more important: natural talent or hard work? Why?</b>",
+    "ja": "このユニットでは、能力や才能、新しいスキルを学ぶことについて学びました。<b>なぜ特別な才能を持つ人と持たない人がいると思いますか？練習すれば誰でも何かを上手くなれると思いますか？天性の才能と努力のどちらがより重要だと思いますか？なぜですか？</b>",
+    "fr": "Dans cette unité, vous avez appris les capacités, les talents et l'apprentissage de nouvelles compétences. <b>Pourquoi pensez-vous que certaines personnes ont des talents spéciaux alors que d'autres non ? Est-ce que tout le monde peut devenir bon dans quelque chose avec de la pratique ? Qu'est-ce qui est le plus important : le talent naturel ou le travail acharné ? Pourquoi ?</b>",
+    "ko": "이번 유닛에서는 능력, 재능, 새로운 기술을 배우는 것에 대해 배웠습니다. <b>어떤 사람들은 특별한 재능을 가지고 있고 어떤 사람들은 그렇지 않은 이유는 무엇이라고 생각하나요? 연습을 통해 누구나 무언가를 잘할 수 있게 될까요? 타고난 재능과 노력 중 무엇이 더 중요할까요? 왜 그런가요?</b>"
   },
   "critical_placeholder": {
-    "en": "Talking about abilities is important because... English has many homophones because...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Some people have special talents because... I think anyone can become good with practice because... Natural talent is more important than hard work because... / Hard work is more important because...",
+    "ja": "特別な才能を持つ人がいるのは...からです。練習すれば誰でも上手くなれると思います。なぜなら...。天性の才能は努力より大切だと思います。なぜなら... / 努力の方が大切だと思います。なぜなら...",
+    "fr": "Certaines personnes ont des talents spéciaux parce que... Je pense que tout le monde peut devenir bon avec de la pratique parce que... Le talent naturel est plus important que le travail acharné parce que... / Le travail acharné est plus important parce que...",
+    "ko": "어떤 사람들이 특별한 재능을 가진 이유는... 때문입니다. 누구나 연습을 통해 잘할 수 있다고 생각합니다. 왜냐하면... 타고난 재능이 노력보다 더 중요합니다. 왜냐하면... / 노력이 더 중요합니다. 왜냐하면..."
   }
 }

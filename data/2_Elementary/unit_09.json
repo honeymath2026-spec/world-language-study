@@ -486,45 +486,45 @@
   "ko": "<div style='background:#fff5f5; border:1px solid #fed7d7; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c53030; margin:0; border-left:4px solid #f56565; padding-left:10px;'>Group 1: 과일과 음료</h4><span style='font-size:0.85rem; background:#f56565; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 과일, 채소, 맥주, 주스</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>1. 과일로 만든 음료는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='과일'>과일</option><option value='채소'>채소</option><option value='맥주'>맥주</option><option value='주스'>주스</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='주스' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>2. 나무나 식물에서 자라는 달콤한 먹거리는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='과일'>과일</option><option value='채소'>채소</option><option value='맥주'>맥주</option><option value='주스'>주스</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='과일' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>3. 곡물로 만드는 음료는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='과일'>과일</option><option value='채소'>채소</option><option value='맥주'>맥주</option><option value='주스'>주스</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='맥주' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>4. 먹기 위해 재배하는 식물은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='과일'>과일</option><option value='채소'>채소</option><option value='맥주'>맥주</option><option value='주스'>주스</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='채소' style='display:none;'></span></div></div><div style='background:#fffaf0; border:1px solid #feebc8; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#c05621; margin:0; border-left:4px solid #ed8936; padding-left:10px;'>Group 2: 주요 요리</h4><span style='font-size:0.85rem; background:#ed8936; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 피자, 파스타, 면</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>5. 여러 재료를 올려 구운 음식은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='피자'>피자</option><option value='파스타'>파스타</option><option value='면'>면</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='피자' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>6. 길고 가는 음식 재료는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='피자'>피자</option><option value='파스타'>파스타</option><option value='면'>면</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='면' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>7. 스파게티와 같은 면 요리는 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='피자'>피자</option><option value='파스타'>파스타</option><option value='면'>면</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='파스타' style='display:none;'></span></div></div><div style='background:#f0fff4; border:1px solid #c6f6d5; border-radius:12px; padding:20px; margin-bottom:25px;'><div style='display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:20px;'><h4 style='color:#276749; margin:0; border-left:4px solid #48bb78; padding-left:10px;'>Group 3: 곡물과 간식</h4><span style='font-size:0.85rem; background:#48bb78; color:white; padding:4px 12px; border-radius:20px;'><i class='fas fa-spell-check'></i> 단어 목록: 쌀, 초콜릿</span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px; margin-bottom:15px;'>8. 카카오로 만든 달콤한 음식은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='쌀'>쌀</option><option value='초콜릿'>초콜릿</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='초콜릿' style='display:none;'></span></div><div style='display:flex; align-items:center; flex-wrap:wrap; gap:5px;'>9. 주식으로 먹는 곡물은 <select class='vocab-select'><option value=''>── 선택 ──</option><option value='쌀'>쌀</option><option value='초콜릿'>초콜릿</option></select> 입니다.<button onclick='checkVocab(this)'>Check</button><span class='vocab-answer' data-correct='쌀' style='display:none;'></span></div></div>"
   },
   "content_check_question": {
-    "en": "The unit explains count/uncount nouns, 'I like' vs 'I'd like', 'some/any', 'much/many', and polite requests about food. <b>What is the difference between 'I like' and 'I'd like'? When do we use 'some' instead of 'any'? How do you politely ask for something in a shop or at the table?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+        "en": "The extra reading explains how food and eating habits are different around the world. <b>What do people eat in the south of China? What do people eat in the north? How do people eat in China compared to Europe? What changes have happened with food transport?</b>",
+    "ja": "追加の読み物では、世界の食事習慣の違いについて説明しています。<b>中国南部では何を食べますか？北部では何を食べますか？ヨーロッパと中国では食事の仕方がどのように違いますか？食料の輸送に関してどのような変化が起きましたか？</b>",
+    "fr": "La lecture supplémentaire explique comment la nourriture et les habitudes alimentaires sont différentes dans le monde. <b>Que mange-t-on dans le sud de la Chine ? Que mange-t-on dans le nord ? Comment les gens mangent-ils en Chine comparé à l'Europe ? Quels changements se sont produits avec le transport des aliments ?</b>",
+    "ko": "추가 읽기 자료에서는 세계各地的 음식과 식습관의 차이를 설명합니다. <b>중국 남부에서는 무엇을 먹나요? 북부에서는 무엇을 먹나요? 유럽과 중국에서는 식사 방식이 어떻게 다른가요? 식량 운송에는 어떤 변화가 있었나요?</b>"
   },
   "content_check_keywords": {
-    "en": "count nouns, uncount nouns, I like, I'd like, some, any, much, many, polite requests, food vocabulary",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "south China, rice, north China, noodles, chopsticks, knives and forks, transport, food from around the world",
+    "ja": "中国南部, 米, 中国北部, 麺, 箸, ナイフとフォーク, 輸送, 世界各地の食品",
+    "fr": "sud de la Chine, riz, nord de la Chine, nouilles, baguettes, couteaux et fourchettes, transport, nourriture du monde entier",
+    "ko": "중국 남부, 쌀, 중국 북부, 면, 젓가락, 나이프와 포크, 운송, 세계 각지의 식품"
   },
   "content_check_placeholder": {
-    "en": "Explain the difference between I like and I'd like, when to use some/any, much/many, and how to make polite requests...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In the south of China, people eat... In the north, they eat... In China, people eat with... In Europe, people eat with... Nowadays, food can be transported easily, so...",
+    "ja": "中国南部では...を食べます。北部では...を食べます。中国では...を使って食べます。ヨーロッパでは...を使って食べます。今日、食料は簡単に輸送できるため、...",
+    "fr": "Dans le sud de la Chine, on mange... Dans le nord, on mange... En Chine, on mange avec... En Europe, on mange avec... Aujourd'hui, la nourriture peut être transportée facilement, donc...",
+    "ko": "중국 남부에서는...을/를 먹습니다. 북부에서는...을/를 먹습니다. 중국에서는...을/를 사용해 먹습니다. 유럽에서는...을/를 사용해 먹습니다. 오늘날 식량은 쉽게 운송될 수 있으므로..."
   },
   "deepening_question": {
-    "en": "The reading 'Food around the world' shows how eating habits differ by region. <b>What is a typical meal in your country? How do people eat it (with chopsticks, fork and knife, bread, fingers)? Do you eat more rice, noodles, or bread? What foreign foods are popular where you live?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "The reading shows how people in different places eat different foods and have different eating customs. <b>What is your favourite food from your country? What is your favourite food from another country? Why do you think people's eating habits are so different around the world?</b>",
+    "ja": "読み物では、場所によって食べ物や食事習慣が異なることが示されています。<b>あなたの国の料理で一番好きなものは何ですか？他の国の料理で一番好きなものは何ですか？世界中で食習慣がこれほど異なるのはなぜだと思いますか？</b>",
+    "fr": "La lecture montre comment les gens dans différents endroits mangent des aliments différents et ont des coutumes alimentaires différentes. <b>Quel est votre plat préféré de votre pays ? Quel est votre plat préféré d'un autre pays ? Pourquoi pensez-vous que les habitudes alimentaires sont si différentes dans le monde ?</b>",
+    "ko": "읽기 자료는 지역에 따라 사람들이 먹는 음식과 식사 관습이 다르다는 것을 보여줍니다. <b>여러분의 나라 음식 중 가장 좋아하는 것은 무엇인가요? 다른 나라 음식 중 가장 좋아하는 것은 무엇인가요? 전 세계적으로 식습관이 이렇게 다른 이유는 무엇이라고 생각하나요?</b>"
   },
   "deepening_placeholder": {
-    "en": "In my country, a typical meal is... We eat with... We eat a lot of... Popular foreign foods include...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "My favourite food from my country is... My favourite food from another country is... People's eating habits are different because...",
+    "ja": "私の国の料理で好きなのは...です。他の国の料理で好きなのは...です。食習慣が異なるのは...からです。",
+    "fr": "Mon plat préféré de mon pays est... Mon plat préféré d'un autre pays est... Les habitudes alimentaires sont différentes parce que...",
+    "ko": "제가 가장 좋아하는 우리나라 음식은...입니다. 다른 나라 음식 중 가장 좋아하는 것은...입니다. 식습관이 다른 이유는... 때문입니다."
   },
   "critical_question": {
-    "en": "In this unit you learned to talk about food, use count/uncount nouns, and make polite requests. <b>Why is it useful to know the difference between 'I like' and 'I'd like' when ordering food in a restaurant or shopping? How can polite requests like 'Could I have...' or 'Can you pass...' help you in daily life?</b>",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "In this unit, you learned about food preferences, different eating habits around the world, and how food brings people together. <b>Why do you think food is important to culture and identity? How can trying new foods help us understand other cultures? What can we learn about a country from its food?</b>",
+    "ja": "このユニットでは、食の好み、世界のさまざまな食習慣、そして食べ物が人々をどのように結びつけるかについて学びました。<b>食べ物が文化やアイデンティティにとって重要なのはなぜだと思いますか？新しい食べ物を試すことは、他の文化を理解するのにどのように役立ちますか？その国の食べ物から何を学ぶことができますか？</b>",
+    "fr": "Dans cette unité, vous avez appris les préférences alimentaires, les différentes habitudes alimentaires dans le monde et comment la nourriture rapproche les gens. <b>Pourquoi pensez-vous que la nourriture est importante pour la culture et l'identité ? Comment essayer de nouveaux aliments peut-il nous aider à comprendre d'autres cultures ? Que peut-on apprendre d'un pays à travers sa nourriture ?</b>",
+    "ko": "이번 유닛에서는 음식 취향, 세계各地的 다양한 식습관, 그리고 음식이 사람들을 어떻게 하나로 모으는지 배웠습니다. <b>음식이 문화와 정체성에 중요한 이유는 무엇이라고 생각하나요? 새로운 음식을 시도하는 것이 다른 문화를 이해하는 데 어떻게 도움이 될까요? 한 국가의 음식을 통해 그 나라에 대해 무엇을 배울 수 있을까요?</b>"
   },
   "critical_placeholder": {
-    "en": "Knowing the difference helps because... Polite requests are useful when...",
-    "ja": "",
-    "fr": "",
-    "ko": ""
+    "en": "Food is important to culture because... Trying new foods helps us understand other cultures because... From a country's food, we can learn about...",
+    "ja": "食べ物が文化にとって重要なのは...からです。新しい食べ物を試すことは...ので、他の文化を理解するのに役立ちます。その国の食べ物から...を学ぶことができます。",
+    "fr": "La nourriture est importante pour la culture parce que... Essayer de nouveaux aliments nous aide à comprendre d'autres cultures parce que... De la nourriture d'un pays, on peut apprendre...",
+    "ko": "음식이 문화에 중요한 이유는... 때문입니다. 새로운 음식을 시도하는 것은... 때문에 다른 문화를 이해하는 데 도움이 됩니다. 한 국가의 음식을 통해...을/를 배울 수 있습니다."
   }
 }
