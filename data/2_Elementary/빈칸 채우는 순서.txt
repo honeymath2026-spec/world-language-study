@@ -316,6 +316,26 @@ elementary 수준의 영어/일본어/프랑스어/한국어 언어로 확대해
 -------------------------------------
 
 
+위 내용은 이번에 공부할 유닛의 읽기, 듣기 자료들이야. 
+이 자료를
+"en": "", <-영어
+"ja": "", <-일본어
+"fr": "", <-프랑스어
+"ko": "" <-한국어
+로 따로 분류한 후 각 나라들에서 이 자료들에서 중요하게 짚고 넘어가야 할 
+문법적 지식들을 다음 예시 틀에 맞추어 작성해줘.
+
+예시틀(json)
+"en": "<h3>1. Verb 'to be' (am/is/are)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use the verb 'to be' to talk about names, jobs, and where people are from.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#e67e22;'>• I am (I'm)</strong> from London.</li><li style='margin-bottom:15px;'><strong style='color:#2980b9;'>• You/We/They are (You're/We're/They're)</strong> from Chicago.</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• He/She/It is (He's/She's/It's)</strong> from Mexico.</li></ul><h3>2. Possessive Adjectives (my, your, his, her)</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use possessive adjectives to show who owns something.</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#d35400;'>• my</strong> name / <strong style='color:#d35400;'>your</strong> name / <strong style='color:#d35400;'>his</strong> name / <strong style='color:#d35400;'>her</strong> name</li><li style='margin-bottom:15px;'>'What's <strong style='color:#d35400;'>her</strong> name?' '<strong style='color:#d35400;'>Her</strong> name is Tomoko.'</li><li style='margin-bottom:15px;'>'What's <strong style='color:#d35400;'>his</strong> name?' '<strong style='color:#d35400;'>His</strong> name is Richard.'</li></ul><h3>3. A vs An</h3><div style='background-color:#fff; padding:15px; border-radius:10px; border:1px dashed #bdc3c7; margin-bottom:15px;'><p style='margin:5px 0;'>We use '<strong>a</strong>' before a consonant sound. We use '<strong>an</strong>' before a vowel sound (a, e, i, o, u).</p></div><ul style='list-style-type:none; padding-left:10px;'><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• a</strong> bag / <strong style='color:#16a085;'>a</strong> ticket / <strong style='color:#16a085;'>a</strong> dictionary</li><li style='margin-bottom:15px;'><strong style='color:#16a085;'>• an</strong> apple / <strong style='color:#16a085;'>an</strong> orange / <strong style='color:#16a085;'>an</strong> English book</li></ul>",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+
+작성된 영어틀은 기준으로 참고하고 틀은 유지하되 각 나라에서 사용되지 않는 문법 내용은 절대 사용하지 말고 각 나라의 문법적 지식에 맞게 생각한 후
+각 나라별로 내용을 검토해서 각 나라의 문법 내용에 맞게 따로 작성해줘.
+각 나라별 작성할 문법 내용이 완료되면 재검토 해보고 위의 조건이 만족할 때 까지 검토해줘.
+검토가 완료되고 각 나라 문법이 그 나라에서 사용하는 내용이 맞다면 그 내용을 작성해서 보여줘.
+
 
 
 -------------------------------------
