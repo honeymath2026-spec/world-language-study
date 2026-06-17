@@ -271,21 +271,21 @@
   },
   "grammar": {
   "en": {
-    "title": "Grammar Spot",
-    "content": "<strong>I'm = I am</strong><br>name's = name is<br>What's = What is<br><br><strong>am/are/is</strong><br>I <u>am</u> Sandra.<br>How <u>are</u> you?<br>This <u>is</u> John.<br><br><strong>my/your</strong><br><u>My</u> name's Hiro.<br>What's <u>your</u> name?<br><br><strong>Plurals</strong><br>one book → two <u>books</u><br>one sandwich → ten <u>sandwiches</u>"
-  },
-  "ja": {
-    "title": "文法ポイント",
-    "content": "<strong>I'm = I am</strong><br>（私は〜です）<br><strong>name's = name is</strong><br>（名前は〜です）<br><strong>What's = What is</strong><br>（〜は何ですか？）<br><br><strong>am/are/is（be動詞）</strong><br>I <u>am</u> Sandra.（私はサンドラです）<br>How <u>are</u> you?（お元気ですか？）<br>This <u>is</u> John.（こちらはジョンです）<br><br><strong>my/your（所有格）</strong><br><u>My</u> name's Hiro.（私の名前はヒロです）<br>What's <u>your</u> name?（あなたの名前は何ですか？）<br><br><strong>複数形</strong><br>one book → two <u>books</u>（本）<br>one sandwich → ten <u>sandwiches</u>（サンドイッチ）<br>※英語では名詞に -s/-es を付けて複数形を作ります。"
-  },
-  "fr": {
-    "title": "Grammaire",
-    "content": "<strong>I'm = I am</strong><br>（Je suis）<br><strong>name's = name is</strong><br>（s'appelle / le nom est）<br><strong>What's = What is</strong><br>（Qu'est-ce que c'est ? / Quel est... ?）<br><br><strong>am/are/is（verbe être）</strong><br>Je <u>suis</u> Sandra.<br>Comment <u>allez</u>-vous ?<br>C'<u>est</u> John.<br><br><strong>my/your（possessifs）</strong><br><u>Mon</u> nom est Hiro.<br>Quel est <u>ton</u> nom ?<br><br><strong>Pluriels</strong><br>one book → two <u>books</u>（un livre → deux livres）<br>one sandwich → ten <u>sandwiches</u>（un sandwich → dix sandwiches）<br>※En français, on ajoute -s ou -x pour former le pluriel des noms."
-  },
-  "ko": {
-    "title": "문법 포인트",
-    "content": "<strong>I'm = I am</strong><br>（나는 ~입니다 / 저는 ~입니다）<br><strong>name's = name is</strong><br>（이름은 ~입니다）<br><strong>What's = What is</strong><br>（~은/는 무엇입니까?）<br><br><strong>am/are/is（be동사）</strong><br>I <u>am</u> Sandra.（저는 샌드라입니다）<br>How <u>are</u> you?（어떻게 지내세요?）<br>This <u>is</u> John.（이분은 존입니다）<br><br><strong>my/your（소유격）</strong><br><u>My</u> name's Hiro.（제 이름은 히로입니다）<br>What's <u>your</u> name?（당신의 이름은 무엇입니까?）<br><br><strong>복수형</strong><br>one book → two <u>books</u>（책 한 권 → 책 두 권）<br>one sandwich → ten <u>sandwiches</u>（샌드위치 하나 → 샌드위치 열 개）<br>※영어에서는 명사에 -s/-es를 붙여 복수형을 만듭니다."
-  }
+      "title": "Grammar Spot",
+      "content": "• I'm = I am\n• My name's = My name is\n• What's = What is\n• It's = It is\n• Use am with I.\n• Use is with he, she, it, and names.\n• Use this is to introduce a person or thing.\n• Use my for your name or things.\n• Use your when asking about another person.\n• Say: How are you? / I'm fine, thanks."
+    },
+    "ja": {
+      "title": "文法ポイント",
+      "content": "• 「わたし」は「わたしです」を使います。\n• 「〜です」は自分や人の名前を言うときに使います。\n• 「おなまえは？」は相手の名前をたずねる言い方です。\n• 「これは〜です」で人やものをしょうかいします。\n• 「わたしの」は自分のものをあらわします。\n• 「あなたの」は相手のものをあらわします。\n• 「げんきですか？」であいさつできます。\n• 「げんきです」「ありがとう」でこたえます。"
+    },
+    "fr": {
+      "title": "Grammaire",
+      "content": "• « Je suis » sert à dire son nom.\n• « Mon nom est » sert à se présenter.\n• « Comment t'appelles-tu ? » sert à demander le nom.\n• « Voici » sert à présenter une personne ou une chose.\n• « Mon / ma » indique ce qui m'appartient.\n• « Ton / ta » indique ce qui appartient à l'autre personne.\n• « Comment ça va ? » est une salutation.\n• On répond : « Ça va bien, merci. »"
+    },
+    "ko": {
+      "title": "문법 포인트",
+      "content": "• 나는 소개할 때 ‘저는 ~예요/이에요’를 사용해요.\n• 이름을 말할 때 ‘제 이름은 ~예요’라고 해요.\n• 상대 이름을 물을 때 ‘이름이 뭐예요?’라고 해요.\n• 사람이나 사물을 소개할 때 ‘이 사람은 ~예요’, ‘이것은 ~예요’를 사용해요.\n• ‘내’는 나의 것을 나타내요.\n• ‘네’는 상대방의 것을 나타내요.\n• ‘잘 지내요?’로 안부를 물을 수 있어요.\n• ‘네, 잘 지내요.’, ‘고마워요.’로 대답할 수 있어요."
+    }
   },
   "practice_conversations": {
     "en": [
