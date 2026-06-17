@@ -319,7 +319,7 @@
   {
     "question": "Seumas habite sur une île au sud de l'Écosse.",
     "correct": "F",
-    "explication": "Faux. Il habite sur l'île de Gigha, dans l'ouest de l'Écosse."
+    "explanation": "Faux. Il habite sur l'île de Gigha, dans l'ouest de l'Écosse."
   },
   {
     "question": "Le matin, Seumas conduit les enfants à l'école à 8h00.",
