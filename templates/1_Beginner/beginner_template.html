@@ -449,89 +449,164 @@ function renderPage(unit) {
     let html = '';
 
     // ---------- PICTURE DICTIONARY ----------
-if (dict.length > 0) {
-    html += `<section id="dictionary"><h2>${t.dictionary}</h2><div class="picture-grid">`;
-    dict.forEach(item => {
-        // 🔥 수정: '를 \'로 escape
-        const safeWord = item.word.replace(/'/g, "\\'");
-        const safeSound = (item.sound || item.word).replace(/'/g, "\\'");
-        html += `
-            <div class="picture-card" onclick="speakText('${safeWord}')">
-                <span class="picture-emoji">${item.emoji || '🔤'}</span>
-                <span class="picture-word">${item.word}</span>
-                <span class="picture-hint">${item.hint || ''}</span>
-            </div>
-        `;
-    });
-    html += `</div></section>`;
-}
-
-// ---------- LISTEN & REPEAT ----------
-if (listen.length > 0) {
-    html += `<section id="listen"><h2>${t.listen}</h2>`;
-    listen.forEach((item, idx) => {
-        // 🔥 수정: '를 \'로 escape
-        const safeText = item.text.replace(/'/g, "\\'");
-        const safeSound = (item.sound || item.text).replace(/'/g, "\\'");
-        html += `
-            <div class="listen-item">
-                <span class="listen-emoji">${item.emoji || '🔊'}</span>
-                <span class="listen-text">${item.text}</span>
-                <div>
-                    <button class="listen-btn" onclick="speakText('${safeSound}')">
-                        ${t.listen_btn}
-                    </button>
-                    <button class="listen-btn" id="rec-btn-${idx}" onclick="toggleRecord(${idx}, '${safeText}')">
-                        ${t.record_btn}
-                    </button>
-                    <button class="listen-btn" id="play-btn-${idx}" style="display:none;" onclick="playRecord(${idx})">
-                        ${t.play_btn}
-                    </button>
-                </div>
-            </div>
-        `;
-    });
-    html += `</section>`;
-}
-
-// ---------- FAMILY & FRIENDS ----------
-if (family.length > 0) {
-    html += `<section id="family"><h2>${t.family}</h2><div class="family-grid">`;
-    family.forEach(item => {
-        // 🔥 수정: '를 \'로 escape
-        const safeWord = item.word.replace(/'/g, "\\'");
-        const safeSound = (item.sound || item.word).replace(/'/g, "\\'");
-        html += `
-            <div class="family-card" onclick="speakText('${safeSound}')">
-                <span class="family-emoji">${item.emoji || '👤'}</span>
-                <span class="family-word">${item.word}</span>
-            </div>
-        `;
-    });
-    html += `</div></section>`;
-}
-
-// ---------- PRACTICE CONVERSATIONS ----------
-if (conversations.length > 0) {
-    html += `<section id="practice"><h2>💬 Practice Conversations</h2>`;
-    conversations.forEach((conv, idx) => {
-        html += `<div style="background:#f8f9fa;padding:15px 20px;border-radius:15px;margin-bottom:15px;border-left:5px solid #9b59b6;">
-            <h4 style="color:#9b59b6;margin-bottom:12px;">${conv.title}</h4>`;
-        conv.lines.forEach(line => {
-            // 🔥 수정: '를 \'로 escape
-            const safeText = line.text.replace(/'/g, "\\'");
+    if (dict.length > 0) {
+        html += `<section id="dictionary"><h2>${t.dictionary}</h2><div class="picture-grid">`;
+        dict.forEach(item => {
+            const safeWord = item.word.replace(/'/g, "\\'");
             html += `
-                <div style="padding:6px 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
-                    <strong style="color:#3498db;min-width:35px;">${line.speaker}:</strong>
-                    <span style="flex:1;">${line.text}</span>
-                    <button class="listen-btn" style="padding:4px 14px;font-size:0.8rem;" onclick="speakText('${safeText}')">🔊</button>
+                <div class="picture-card" onclick="speakText('${safeWord}')">
+                    <span class="picture-emoji">${item.emoji || '🔤'}</span>
+                    <span class="picture-word">${item.word}</span>
+                    <span class="picture-hint">${item.hint || ''}</span>
                 </div>
             `;
         });
-        html += `</div>`;
-    });
-    html += `</section>`;
-}
+        html += `</div></section>`;
+    }
+
+    // ---------- LISTEN & REPEAT ----------
+    if (listen.length > 0) {
+        html += `<section id="listen"><h2>${t.listen}</h2>`;
+        listen.forEach((item, idx) => {
+            const safeText = item.text.replace(/'/g, "\\'");
+            const safeSound = (item.sound || item.text).replace(/'/g, "\\'");
+            html += `
+                <div class="listen-item">
+                    <span class="listen-emoji">${item.emoji || '🔊'}</span>
+                    <span class="listen-text">${item.text}</span>
+                    <div>
+                        <button class="listen-btn" onclick="speakText('${safeSound}')">
+                            ${t.listen_btn}
+                        </button>
+                        <button class="listen-btn" id="rec-btn-${idx}" onclick="toggleRecord(${idx}, '${safeText}')">
+                            ${t.record_btn}
+                        </button>
+                        <button class="listen-btn" id="play-btn-${idx}" style="display:none;" onclick="playRecord(${idx})">
+                            ${t.play_btn}
+                        </button>
+                    </div>
+                </div>
+            `;
+        });
+        html += `</section>`;
+    }
+
+    // ---------- STORY TIME ----------
+    if (story.content) {
+        html += `<section id="story"><h2>${t.story}</h2>
+            <div class="story-box">
+                <div>${story.content}</div>`;
+        if (story.question) {
+            html += `
+                <div class="story-question">
+                    <p><strong>❓ ${story.question}</strong></p>
+                    <div id="story-options">
+                        ${(story.options || []).map((opt, i) => `
+                            <span class="story-option" onclick="checkStoryOption(this, '${opt.correct ? 'true' : 'false'}')">
+                                ${opt.emoji || ''} ${opt.text}
+                            </span>
+                        `).join('')}
+                    </div>
+                    <div id="story-feedback" style="margin-top:12px;font-weight:bold;font-size:1.4rem;"></div>
+                </div>
+            `;
+        }
+        html += `</div></section>`;
+    }
+
+    // ---------- FUN ACTIVITIES ----------
+    if (activities.length > 0) {
+        html += `<section id="activities"><h2>${t.activities}</h2><div class="activity-box">`;
+        activities.forEach((act, idx) => {
+            if (act.type === 'match') {
+                html += `<h3>🔗 ${act.instruction || t.match_instruction}</h3><div class="match-row" id="match-row-${idx}">`;
+                act.pairs.forEach((pair, pi) => {
+                    html += `
+                        <span class="match-item" data-pair="${pi}" onclick="matchPair(this, ${idx}, ${pi})">
+                            <span class="match-emoji">${pair.emoji}</span> ${pair.word}
+                        </span>
+                    `;
+                });
+                html += `</div><div id="match-feedback-${idx}" style="margin:10px 0;font-size:1.4rem;font-weight:bold;"></div>`;
+            } else if (act.type === 'find') {
+                html += `<h3>🔍 ${act.instruction || t.find_instruction}</h3>
+                    <p style="font-size:1.6rem;margin-bottom:12px;">${act.question}</p>
+                    <div class="find-grid" id="find-grid-${idx}">`;
+                act.options.forEach(opt => {
+                    const isTarget = opt === act.target;
+                    html += `
+                        <span class="find-option" data-target="${isTarget}" onclick="findOption(this, ${idx})">
+                            ${opt}
+                        </span>
+                    `;
+                });
+                html += `</div><div id="find-feedback-${idx}" style="margin:10px 0;font-size:1.4rem;font-weight:bold;"></div>`;
+            }
+        });
+        html += `</div></section>`;
+    }
+
+    // ---------- FAMILY & FRIENDS ----------
+    if (family.length > 0) {
+        html += `<section id="family"><h2>${t.family}</h2><div class="family-grid">`;
+        family.forEach(item => {
+            const safeWord = item.word.replace(/'/g, "\\'");
+            const safeSound = (item.sound || item.word).replace(/'/g, "\\'");
+            html += `
+                <div class="family-card" onclick="speakText('${safeSound}')">
+                    <span class="family-emoji">${item.emoji || '👤'}</span>
+                    <span class="family-word">${item.word}</span>
+                </div>
+            `;
+        });
+        html += `</div></section>`;
+    }
+
+    // ---------- NUMBERS ----------
+    if (numbers.length > 0) {
+        html += `<section id="numbers"><h2>🔢 Numbers 1-10</h2><div class="picture-grid">`;
+        numbers.forEach(num => {
+            const safeWord = num.word.replace(/'/g, "\\'");
+            html += `
+                <div class="picture-card" onclick="speakText('${safeWord}')">
+                    <span class="picture-emoji">${num.emoji || '🔢'}</span>
+                    <span class="picture-word">${num.word}</span>
+                    <span class="picture-hint">${num.number}</span>
+                </div>
+            `;
+        });
+        html += `</div></section>`;
+    }
+
+    // ---------- GRAMMAR ----------
+    if (grammar.title && grammar.content) {
+        html += `<section id="grammar"><h2>📝 ${grammar.title}</h2>
+            <div style="background:#f4f9ff;border-radius:20px;padding:25px;border:2px solid #d1e3f8;font-size:1.1rem;line-height:2;">
+                ${grammar.content}
+            </div>
+        </section>`;
+    }
+
+    // ---------- PRACTICE CONVERSATIONS ----------
+    if (conversations.length > 0) {
+        html += `<section id="practice"><h2>💬 Practice Conversations</h2>`;
+        conversations.forEach((conv, idx) => {
+            html += `<div style="background:#f8f9fa;padding:15px 20px;border-radius:15px;margin-bottom:15px;border-left:5px solid #9b59b6;">
+                <h4 style="color:#9b59b6;margin-bottom:12px;">${conv.title}</h4>`;
+            conv.lines.forEach(line => {
+                const safeText = line.text.replace(/'/g, "\\'");
+                html += `
+                    <div style="padding:6px 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+                        <strong style="color:#3498db;min-width:35px;">${line.speaker}:</strong>
+                        <span style="flex:1;">${line.text}</span>
+                        <button class="listen-btn" style="padding:4px 14px;font-size:0.8rem;" onclick="speakText('${safeText}')">🔊</button>
+                    </div>
+                `;
+            });
+            html += `</div>`;
+        });
+        html += `</section>`;
+    }
 
     document.getElementById('main-content').innerHTML = html;
     const loadingEl = document.getElementById('loading');
