@@ -114,24 +114,202 @@
             gap: 25px;
             margin: 20px 0;
         }
-        .picture-card {
-            background: #ffffff;
-            border-radius: 40px;
-            padding: 25px 15px 20px;
-            text-align: center;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-            border: 3px solid #f0e6d3;
-            cursor: pointer;
-            transition: all 0.2s ease;
-        }
-        .picture-card:hover {
-            transform: translateY(-8px) scale(1.02);
-            border-color: #f1c40f;
-            box-shadow: 0 12px 30px rgba(241,196,15,0.25);
-        }
-        .picture-emoji { font-size: 5rem !important; display: block; }
-        .picture-word { font-size: 1.8rem; font-weight: 700; color: #2c3e50; }
-        .picture-hint { font-size: 0.95rem; color: #7f8c8d; font-style: italic; }
+        /* Picture Dictionary 카드 스타일 수정 */
+.picture-card {
+    background: #ffffff;
+    border-radius: 40px;
+    padding: 25px 15px 20px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    border: 3px solid #f0e6d3;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px; /* 항목 사이 간격 */
+}
+
+.picture-emoji { 
+    font-size: 5rem !important; 
+    display: block; 
+}
+
+.picture-word { 
+    font-size: 1.8rem; 
+    font-weight: 700; 
+    color: #2c3e50;
+    display: block;
+}
+
+.picture-hint { 
+    font-size: 0.95rem; 
+    color: #7f8c8d; 
+    font-style: italic;
+    display: block;
+    margin-top: 4px;
+    background: #f8f4ec;
+    padding: 4px 12px;
+    border-radius: 20px;
+    max-width: 90%;
+}
+
+
+/* ============================================================
+   🎮 MATCHING GAME - CONNECT WITH LINES
+   ============================================================ */
+
+.match-game-container {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 20px 10px;
+    min-height: 400px;
+    flex-wrap: wrap;
+}
+
+.match-column {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    flex: 1;
+    min-width: 120px;
+}
+
+.match-column-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #2c3e50;
+    text-align: center;
+    padding: 8px;
+    background: #f0f3f8;
+    border-radius: 30px;
+    margin-bottom: 8px;
+}
+
+.match-drag-item {
+    padding: 16px 24px;
+    background: white;
+    border: 4px solid #ddd;
+    border-radius: 60px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    text-align: center;
+    cursor: grab;
+    transition: all 0.2s ease;
+    user-select: none;
+    touch-action: none;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.match-drag-item:active {
+    cursor: grabbing;
+}
+
+.match-drag-item.dragging {
+    opacity: 0.5;
+    transform: scale(0.95);
+}
+
+.match-drag-item.droppable {
+    border-color: #f1c40f;
+    background: #fef9ef;
+    transform: scale(1.02);
+}
+
+.match-drag-item.matched-left {
+    border-color: #27ae60;
+    background: #d5f5e3;
+    cursor: default;
+    opacity: 0.7;
+}
+
+.match-drag-item.matched-right {
+    border-color: #27ae60;
+    background: #d5f5e3;
+    cursor: default;
+    opacity: 0.7;
+}
+
+.match-drag-item.wrong-match {
+    border-color: #e74c3c;
+    background: #fadbd8;
+    animation: shake 0.4s ease;
+}
+
+/* SVG 선을 그릴 컨테이너 */
+.match-svg-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 10;
+}
+
+.match-svg-container line {
+    stroke-width: 4;
+    stroke-linecap: round;
+}
+
+.match-line-correct {
+    stroke: #27ae60;
+}
+
+.match-line-wrong {
+    stroke: #e74c3c;
+}
+
+/* 쉐이크 애니메이션 */
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-8px); }
+    75% { transform: translateX(8px); }
+}
+
+/* ===== 반응형 ===== */
+@media (max-width: 768px) {
+    .match-game-container {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+    
+    .match-column {
+        width: 100%;
+        min-width: unset;
+    }
+    
+    .match-drag-item {
+        font-size: 1.3rem;
+        padding: 12px 18px;
+        min-height: 55px;
+    }
+}
+
+@media (max-width: 480px) {
+    .match-drag-item {
+        font-size: 1.1rem;
+        padding: 10px 14px;
+        min-height: 45px;
+        border-radius: 40px;
+    }
+    
+    .match-column-title {
+        font-size: 1rem;
+    }
+}
+
+
+
 
         .listen-item {
             display: flex;
@@ -266,6 +444,426 @@
             font-size: 1.1rem;
         }
         .back-to-dashboard:hover { background: #f1c40f; color: #2c3e50; transform: scale(1.05); }
+
+/* ============================================================
+   📚 STORY TIME - KIDS VERSION (줄바꿈 개선)
+   ============================================================ */
+
+.story-box {
+    background: #fef9ef;
+    border-radius: 40px;
+    padding: 2.5rem;
+    border: 3px solid #f1c40f;
+    font-size: 1.4rem;
+    line-height: 2.2;
+}
+
+/* 대사 하나하나를 카드처럼 */
+.story-line {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    padding: 12px 18px;
+    margin-bottom: 10px;
+    background: white;
+    border-radius: 30px;
+    border: 2px solid #f0e6d3;
+    transition: 0.2s;
+    font-size: 1.4rem;
+    line-height: 1.8;
+}
+
+.story-line:hover {
+    border-color: #f1c40f;
+    background: #fffef9;
+    transform: translateX(6px);
+}
+
+/* 캐릭터 이름 (왼쪽) */
+.story-line .story-speaker {
+    font-weight: 800;
+    color: #e67e22;
+    min-width: 70px;
+    flex-shrink: 0;
+    font-size: 1.3rem;
+    background: #fef3e0;
+    padding: 2px 14px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+/* 대사 내용 (오른쪽) */
+.story-line .story-text {
+    flex: 1;
+    font-weight: 500;
+    color: #2c3e50;
+    word-break: keep-all;
+}
+
+/* 이야기 제목/설명 */
+.story-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    text-align: center;
+    background: #f1c40f;
+    padding: 12px 20px;
+    border-radius: 60px;
+    display: inline-block;
+}
+
+/* 질문 박스 */
+.story-question {
+    background: #ffffff;
+    border-radius: 30px;
+    padding: 24px 28px;
+    margin-top: 24px;
+    border: 3px dashed #f39c12;
+}
+
+.story-question p {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin-bottom: 16px;
+}
+
+/* 선택지 버튼 */
+.story-option {
+    display: inline-block;
+    padding: 16px 36px;
+    border-radius: 60px;
+    background: #ecf0f1;
+    margin: 8px 10px 8px 0;
+    cursor: pointer;
+    font-size: 1.6rem;
+    font-weight: 700;
+    transition: 0.2s;
+    border: 3px solid transparent;
+    color: #2c3e50;
+}
+
+.story-option:hover {
+    background: #f1c40f;
+    transform: scale(1.05);
+    border-color: #e67e22;
+}
+
+.story-option.correct-answer {
+    background: #d5f5e3;
+    border-color: #27ae60;
+}
+
+.story-option.wrong-answer {
+    background: #fadbd8;
+    border-color: #e74c3c;
+}
+
+/* 피드백 */
+#story-feedback {
+    margin-top: 16px;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+/* ===== Story Time 반응형 ===== */
+@media (max-width: 768px) {
+    .story-box {
+        padding: 1.5rem;
+        font-size: 1.2rem;
+    }
+
+    .story-line {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 6px;
+        padding: 14px 16px;
+        font-size: 1.2rem;
+    }
+
+    .story-line .story-speaker {
+        min-width: auto;
+        font-size: 1.1rem;
+        padding: 2px 12px;
+        align-self: flex-start;
+    }
+
+    .story-line .story-text {
+        font-size: 1.2rem;
+        padding-left: 4px;
+    }
+
+    .story-question p {
+        font-size: 1.5rem;
+    }
+
+    .story-option {
+        font-size: 1.3rem;
+        padding: 12px 24px;
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .story-box {
+        padding: 1rem;
+        font-size: 1rem;
+        border-radius: 30px;
+    }
+
+    .story-line {
+        padding: 10px 12px;
+        font-size: 1rem;
+        border-radius: 20px;
+    }
+
+    .story-line .story-speaker {
+        font-size: 0.95rem;
+    }
+
+    .story-line .story-text {
+        font-size: 1rem;
+    }
+
+    .story-question p {
+        font-size: 1.2rem;
+    }
+
+    .story-option {
+        font-size: 1.1rem;
+        padding: 10px 18px;
+    }
+}
+
+        
+        
+/* ============================================================
+   🧸 GRAMMAR SPOT - KIDS VERSION (3~7세용)
+   ============================================================ */
+
+/* Grammar 섹션 전체 */
+#grammar {
+    background: linear-gradient(145deg, #fef9ef, #fff5e6);
+    border: 6px solid #f1c40f;
+    border-radius: 50px;
+    padding: 2rem 2rem 2.8rem;
+    box-shadow: 0 8px 30px rgba(241, 196, 15, 0.2);
+    transition: 0.3s;
+}
+
+#grammar:hover {
+    box-shadow: 0 12px 45px rgba(241, 196, 15, 0.35);
+}
+
+/* Grammar 제목 */
+#grammar h2 {
+    font-size: 3rem;
+    text-align: center;
+    border-left: none;
+    border-bottom: 6px solid #f1c40f;
+    padding-bottom: 18px;
+    margin-bottom: 2rem;
+    color: #2c3e50;
+    letter-spacing: 2px;
+}
+
+/* Grammar 내용 컨테이너 */
+.grammar-content {
+    font-size: 1.8rem;
+    line-height: 2.8;
+    padding: 5px 5px;
+}
+
+/* 각 문법 항목 - 카드 스타일 */
+.grammar-item {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    padding: 16px 24px;
+    margin-bottom: 14px;
+    background: white;
+    border-radius: 60px;
+    border: 3px solid #f0e6d3;
+    font-size: 1.8rem;
+    cursor: default;
+    transition: all 0.25s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    min-height: 70px;
+}
+
+.grammar-item:hover {
+    border-color: #f1c40f;
+    transform: scale(1.02) translateX(6px);
+    box-shadow: 0 6px 24px rgba(241, 196, 15, 0.2);
+    background: #fffef9;
+}
+
+/* Grammar 이모지 (왼쪽) */
+.grammar-item .g-emoji {
+    font-size: 3.4rem;
+    min-width: 60px;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+/* Grammar 화살표/구분자 */
+.grammar-item .g-arrow {
+    color: #f1c40f;
+    font-size: 2.6rem;
+    margin: 0 4px;
+    font-weight: 900;
+    flex-shrink: 0;
+}
+
+/* Grammar 예문 하이라이트 */
+.grammar-item .g-example {
+    color: #e67e22;
+    font-weight: 700;
+    background: #fef3e0;
+    padding: 4px 20px;
+    border-radius: 40px;
+    font-size: 1.7rem;
+    display: inline-block;
+    border: 2px dashed #f39c12;
+}
+
+/* Grammar = 등호 스타일 */
+.grammar-item .g-equal {
+    color: #2c3e50;
+    font-size: 2.2rem;
+    font-weight: 900;
+    margin: 0 4px;
+    flex-shrink: 0;
+}
+
+/* Grammar 텍스트 (가운데) */
+.grammar-item .g-text {
+    flex: 1;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #2c3e50;
+    word-break: keep-all;
+}
+
+/* Grammar 작은 설명 텍스트 */
+.grammar-item .g-desc {
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #5d6d7e;
+    background: #f0f3f8;
+    padding: 2px 18px;
+    border-radius: 30px;
+    flex-shrink: 0;
+}
+
+/* ===== 반응형: 태블릿/모바일 ===== */
+@media (max-width: 768px) {
+    #grammar h2 {
+        font-size: 2.4rem;
+    }
+
+    .grammar-item {
+        font-size: 1.5rem;
+        padding: 14px 18px;
+        gap: 12px;
+        flex-wrap: wrap;
+        min-height: 60px;
+        border-radius: 40px;
+    }
+
+    .grammar-item .g-emoji {
+        font-size: 2.8rem;
+        min-width: 50px;
+    }
+
+    .grammar-item .g-text {
+        font-size: 1.5rem;
+        flex: 1 1 100%;
+        order: 3;
+        padding-left: 10px;
+    }
+
+    .grammar-item .g-arrow,
+    .grammar-item .g-equal {
+        font-size: 2rem;
+    }
+
+    .grammar-item .g-example {
+        font-size: 1.4rem;
+        padding: 3px 14px;
+        order: 4;
+    }
+
+    .grammar-item .g-desc {
+        font-size: 1.3rem;
+        padding: 2px 14px;
+        order: 5;
+    }
+
+    .grammar-content {
+        font-size: 1.5rem;
+        line-height: 2.4;
+    }
+}
+
+/* ===== 아주 작은 화면 (휴대폰) ===== */
+@media (max-width: 480px) {
+    #grammar {
+        padding: 1.2rem 1rem 1.8rem;
+        border-width: 4px;
+        border-radius: 35px;
+    }
+
+    #grammar h2 {
+        font-size: 2rem;
+        padding-bottom: 12px;
+        margin-bottom: 1.2rem;
+        border-bottom-width: 4px;
+    }
+
+    .grammar-item {
+        font-size: 1.3rem;
+        padding: 12px 14px;
+        gap: 8px;
+        border-radius: 30px;
+        margin-bottom: 10px;
+        min-height: 50px;
+    }
+
+    .grammar-item .g-emoji {
+        font-size: 2.2rem;
+        min-width: 40px;
+    }
+
+    .grammar-item .g-text {
+        font-size: 1.3rem;
+        padding-left: 6px;
+    }
+
+    .grammar-item .g-arrow,
+    .grammar-item .g-equal {
+        font-size: 1.6rem;
+    }
+
+    .grammar-item .g-example {
+        font-size: 1.2rem;
+        padding: 2px 10px;
+    }
+
+    .grammar-item .g-desc {
+        font-size: 1.1rem;
+        padding: 2px 10px;
+    }
+
+    .grammar-content {
+        font-size: 1.2rem;
+        line-height: 2.2;
+    }
+}
+
 
         @media (max-width: 768px) {
             .course-nav { flex-direction: column; text-align: center; }
@@ -423,6 +1021,258 @@ function speakItem(word, sound) {
     speakText(text);
 }
 
+
+// ============================================================
+// 🎮 매칭 게임 - 드래그 & 드롭 + 선 그리기
+// ============================================================
+
+var dragData = null;
+var matchPairs = {};
+var matchedLeft = {};
+var matchedRight = {};
+
+// ---------- 드래그 시작 (마우스) ----------
+function dragStart(event, gameIdx, pairIdx) {
+    var el = event.target.closest('.match-drag-item');
+    if (el.classList.contains('matched-left')) {
+        event.preventDefault();
+        return;
+    }
+    dragData = {
+        gameIdx: gameIdx,
+        pairIdx: pairIdx,
+        type: 'left'
+    };
+    el.classList.add('dragging');
+    event.dataTransfer.setData('text/plain', '');
+    event.dataTransfer.effectAllowed = 'move';
+}
+
+// ---------- 드래그 종료 (마우스) ----------
+function dragEnd(event) {
+    var el = event.target.closest('.match-drag-item');
+    if (el) {  // ✅ el이 있을 때만 실행
+        el.classList.remove('dragging');
+    }
+    document.querySelectorAll('.match-drag-item.droppable').forEach(function(o) {
+        o.classList.remove('droppable');
+    });
+}
+
+// ---------- 드래그 오버 (마우스) ----------
+function dragOver(event) {
+    event.preventDefault();
+    event.dataTransfer.dropEffect = 'move';
+    var target = event.target.closest('.match-drag-item');
+    if (target && target.classList.contains('match-right') && !target.classList.contains('matched-right')) {
+        target.classList.add('droppable');
+    }
+}
+
+// ---------- 드롭 (마우스) ----------
+function drop(event, gameIdx, pairIdx) {
+    event.preventDefault();
+    var target = event.target.closest('.match-drag-item');
+    if (!target) return;
+    target.classList.remove('droppable');
+    
+    if (!dragData) return;
+    if (dragData.gameIdx !== gameIdx) return;
+    if (target.classList.contains('matched-right')) return;
+    
+    var leftEl = document.getElementById('left-' + gameIdx + '-' + dragData.pairIdx);
+    var rightEl = document.getElementById('right-' + gameIdx + '-' + pairIdx);
+    
+    // 매칭 확인
+    if (dragData.pairIdx === pairIdx) {
+        // 정답!
+        leftEl.classList.add('matched-left');
+        leftEl.classList.remove('dragging');
+        rightEl.classList.add('matched-right');
+        rightEl.draggable = false;
+        
+        matchedLeft[gameIdx] = matchedLeft[gameIdx] || [];
+        matchedLeft[gameIdx].push(dragData.pairIdx);
+        matchedRight[gameIdx] = matchedRight[gameIdx] || [];
+        matchedRight[gameIdx].push(pairIdx);
+        
+        // 선 그리기
+        drawMatchLine(gameIdx, dragData.pairIdx, pairIdx, true);
+        
+        // 피드백 업데이트
+        updateMatchFeedback(gameIdx);
+    } else {
+        // 오답
+        leftEl.classList.add('wrong-match');
+        rightEl.classList.add('wrong-match');
+        setTimeout(function() {
+            leftEl.classList.remove('wrong-match');
+            rightEl.classList.remove('wrong-match');
+            leftEl.classList.remove('dragging');
+        }, 500);
+    }
+    
+    dragData = null;
+}
+
+// ---------- 터치 지원 (모바일) ----------
+var touchData = null;
+var touchClone = null;
+
+function touchStart(event, gameIdx, pairIdx) {
+    var el = event.target.closest('.match-drag-item');
+    if (el.classList.contains('matched-left')) return;
+    
+    var touch = event.touches[0];
+    touchData = {
+        gameIdx: gameIdx,
+        pairIdx: pairIdx,
+        startX: touch.clientX,
+        startY: touch.clientY
+    };
+    
+    // 드래그 중인 요소 복제 (시각적 피드백)
+    touchClone = el.cloneNode(true);
+    touchClone.style.position = 'fixed';
+    touchClone.style.pointerEvents = 'none';
+    touchClone.style.opacity = '0.7';
+    touchClone.style.zIndex = '1000';
+    touchClone.style.width = el.offsetWidth + 'px';
+    touchClone.style.left = (touch.clientX - el.offsetWidth/2) + 'px';
+    touchClone.style.top = (touch.clientY - el.offsetHeight/2) + 'px';
+    touchClone.style.transform = 'scale(1.05)';
+    document.body.appendChild(touchClone);
+    
+    el.classList.add('dragging');
+}
+
+function touchMove(event, gameIdx, pairIdx) {
+    event.preventDefault();
+    if (!touchData) return;
+    if (touchData.gameIdx !== gameIdx) return;
+    
+    var touch = event.touches[0];
+    if (touchClone) {
+        touchClone.style.left = (touch.clientX - touchClone.offsetWidth/2) + 'px';
+        touchClone.style.top = (touch.clientY - touchClone.offsetHeight/2) + 'px';
+    }
+    
+    var elements = document.elementsFromPoint(touch.clientX, touch.clientY);
+    var target = null;
+    for (var i = 0; i < elements.length; i++) {
+        var el = elements[i];
+        if (el.classList && el.classList.contains('match-right') && !el.classList.contains('matched-right')) {
+            target = el;
+            break;
+        }
+    }
+    
+    document.querySelectorAll('.match-drag-item.droppable').forEach(function(o) {
+        o.classList.remove('droppable');
+    });
+    if (target) {
+        target.classList.add('droppable');
+    }
+}
+
+function touchEnd(event) {
+    if (!touchData) return;
+    
+    var touch = event.changedTouches[0];
+    var elements = document.elementsFromPoint(touch.clientX, touch.clientY);
+    var target = null;
+    for (var i = 0; i < elements.length; i++) {
+        var el = elements[i];
+        if (el.classList && el.classList.contains('match-right') && !el.classList.contains('matched-right')) {
+            target = el;
+            break;
+        }
+    }
+    
+    if (target) {
+        var rightId = target.id;
+        var parts = rightId.split('-');
+        var pairIdx = parseInt(parts[2]);
+        var fakeEvent = { preventDefault: function() {}, target: target };
+        drop(fakeEvent, touchData.gameIdx, pairIdx);
+    }
+    
+    if (touchClone) {
+        touchClone.remove();
+        touchClone = null;
+    }
+    document.querySelectorAll('.match-drag-item.dragging').forEach(function(o) {
+        o.classList.remove('dragging');
+    });
+    document.querySelectorAll('.match-drag-item.droppable').forEach(function(o) {
+        o.classList.remove('droppable');
+    });
+    touchData = null;
+}
+
+// ---------- 선 그리기 ----------
+function drawMatchLine(gameIdx, leftPair, rightPair, isCorrect) {
+    var svg = document.getElementById('match-svg-' + gameIdx);
+    if (!svg) return;
+    
+    var leftEl = document.getElementById('left-' + gameIdx + '-' + leftPair);
+    var rightEl = document.getElementById('right-' + gameIdx + '-' + rightPair);
+    if (!leftEl || !rightEl) return;
+    
+    var container = document.getElementById('match-game-' + gameIdx);
+    var containerRect = container.getBoundingClientRect();
+    
+    var leftRect = leftEl.getBoundingClientRect();
+    var rightRect = rightEl.getBoundingClientRect();
+    
+    var x1 = leftRect.right - containerRect.left;
+    var y1 = leftRect.top + leftRect.height/2 - containerRect.top;
+    var x2 = rightRect.left - containerRect.left;
+    var y2 = rightRect.top + rightRect.height/2 - containerRect.top;
+    
+    var line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+    line.setAttribute('x1', x1);
+    line.setAttribute('y1', y1);
+    line.setAttribute('x2', x2);
+    line.setAttribute('y2', y2);
+    line.classList.add(isCorrect ? 'match-line-correct' : 'match-line-wrong');
+    line.setAttribute('stroke', isCorrect ? '#27ae60' : '#e74c3c');
+    line.setAttribute('stroke-width', '4');
+    line.setAttribute('stroke-linecap', 'round');
+    
+    // 애니메이션 효과 (선이 그려지는 효과)
+    var length = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
+    line.style.strokeDasharray = length;
+    line.style.strokeDashoffset = length;
+    line.style.transition = 'stroke-dashoffset 0.5s ease';
+    
+    svg.appendChild(line);
+    
+    // 다음 프레임에서 애니메이션 실행
+    requestAnimationFrame(function() {
+        line.style.strokeDashoffset = '0';
+    });
+}
+
+// ---------- 피드백 업데이트 ----------
+function updateMatchFeedback(gameIdx) {
+    var fb = document.getElementById('match-feedback-' + gameIdx);
+    if (!fb) return;
+    
+    var leftItems = document.querySelectorAll('#match-left-' + gameIdx + ' .match-drag-item');
+    var total = leftItems.length;
+    var matched = matchedLeft[gameIdx] ? matchedLeft[gameIdx].length : 0;
+    
+    if (matched === total) {
+        fb.innerHTML = '🎉 모두 맞췄어요! 잘했어요!';
+        fb.style.color = '#27ae60';
+    } else {
+        fb.innerHTML = '✅ ' + matched + ' / ' + total + ' 연결 완료!';
+        fb.style.color = '#f39c12';
+    }
+}
+
+
 // ============================================================
 // 렌더링 함수
 // ============================================================
@@ -452,6 +1302,7 @@ function renderPage(unit) {
         html += `<section id="dictionary"><h2>${t.dictionary}</h2><div class="picture-grid">`;
         dict.forEach(item => {
             const safeWord = item.word.replace(/'/g, "\\'");
+            const safeHint = (item.hint || '').replace(/'/g, "\\'");
             html += `
                 <div class="picture-card" onclick="speakText('${safeWord}')">
                     <span class="picture-emoji">${item.emoji || '🔤'}</span>
@@ -490,67 +1341,164 @@ function renderPage(unit) {
         html += `</section>`;
     }
 
-    // ---------- STORY TIME ----------
+    // ---------- STORY TIME (줄바꿈 개선 버전) ----------
     if (story.content) {
-        html += `<section id="story"><h2>${t.story}</h2>
+        // 대화 내용을 줄바꿈으로 분리
+        var storyLines = story.content.split('\n').filter(function(l) { return l.trim(); });
+        
+        var linesHtml = storyLines.map(function(line) {
+            var text = line.trim();
+            
+            // "이름: 대사" 패턴 찾기 (한글/영문 모두)
+            var match = text.match(/^([^:：]+)[:：]\s*(.+)/);
+            if (match) {
+                var speaker = match[1].trim();
+                var dialog = match[2].trim();
+                
+                // 캐릭터별 이모지 매칭
+                var emojiMap = {
+                    '센드라': '👩', 'Sandra': '👩',
+                    '히로': '👦', 'Hiro': '👦',
+                    '존': '👨', 'John': '👨',
+                    'Tom': '👦', 'Amy': '👧', 'Ben': '👦'
+                };
+                var emoji = emojiMap[speaker] || '💬';
+                
+                return `
+                    <div class="story-line">
+                        <span class="story-speaker">${emoji} ${speaker}</span>
+                        <span class="story-text">${dialog}</span>
+                    </div>
+                `;
+            } else {
+                // 캐릭터 이름이 없는 경우 (내레이션 등)
+                return `
+                    <div class="story-line" style="background: #f8f4ec; border-style: dashed; justify-content: center;">
+                        <span class="story-text" style="text-align: center; font-style: italic;">📖 ${text}</span>
+                    </div>
+                `;
+            }
+        }).join('');
+
+        html += `<section id="story">
+            <h2>${t.story}</h2>
             <div class="story-box">
-                <div>${story.content}</div>`;
+                <div style="text-align: center;">
+                    <span class="story-title">📖 오늘의 이야기</span>
+                </div>
+                ${linesHtml}`;
+        
         if (story.question) {
             html += `
                 <div class="story-question">
-                    <p><strong>❓ ${story.question}</strong></p>
-                    <div id="story-options">
-                        ${(story.options || []).map((opt, i) => `
-                            <span class="story-option" onclick="checkStoryOption(this, '${opt.correct ? 'true' : 'false'}')">
-                                ${opt.emoji || ''} ${opt.text}
-                            </span>
-                        `).join('')}
+                    <p>❓ ${story.question}</p>
+                    <div id="story-options">`;
+            
+            story.options.forEach(function(opt) {
+                html += `
+                        <span class="story-option" data-correct="${opt.correct ? 'true' : 'false'}" onclick="checkStoryOption(this, '${opt.correct ? 'true' : 'false'}')">
+                            ${opt.emoji || '🔹'} ${opt.text}
+                        </span>
+                    `;
+            });
+            
+            html += `
                     </div>
-                    <div id="story-feedback" style="margin-top:12px;font-weight:bold;font-size:1.4rem;"></div>
+                    <div id="story-feedback"></div>
                 </div>
             `;
         }
         html += `</div></section>`;
     }
 
-    // ---------- FUN ACTIVITIES ----------
-    if (activities.length > 0) {
-        html += `<section id="activities"><h2>${t.activities}</h2><div class="activity-box">`;
-        activities.forEach((act, idx) => {
-            if (act.type === 'match') {
-                html += `<h3>🔗 ${act.instruction || t.match_instruction}</h3><div class="match-row" id="match-row-${idx}">`;
-                act.pairs.forEach((pair, pi) => {
-                    html += `
-                        <span class="match-item" data-pair="${pi}" onclick="matchPair(this, ${idx}, ${pi})">
-                            <span class="match-emoji">${pair.emoji}</span> ${pair.word}
-                        </span>
-                    `;
-                });
-                html += `</div><div id="match-feedback-${idx}" style="margin:10px 0;font-size:1.4rem;font-weight:bold;"></div>`;
-            } else if (act.type === 'find') {
-                html += `<h3>🔍 ${act.instruction || t.find_instruction}</h3>
-                    <p style="font-size:1.6rem;margin-bottom:12px;">${act.question}</p>
-                    <div class="find-grid" id="find-grid-${idx}">`;
-                act.options.forEach(opt => {
-                    const isTarget = opt === act.target;
-                    html += `
-                        <span class="find-option" data-target="${isTarget}" onclick="findOption(this, ${idx})">
-                            ${opt}
-                        </span>
-                    `;
-                });
-                html += `</div><div id="find-feedback-${idx}" style="margin:10px 0;font-size:1.4rem;font-weight:bold;"></div>`;
+    // ---------- FUN ACTIVITIES (선 연결 매칭 게임) ----------
+if (activities.length > 0) {
+    html += `<section id="activities"><h2>${t.activities}</h2><div class="activity-box">`;
+    activities.forEach(function(act, idx) {
+        if (act.type === 'match') {
+            html += `<h3>🔗 ${act.instruction || t.match_instruction}</h3>`;
+            html += `<div class="match-game-container" id="match-game-${idx}">`;
+            
+            // 왼쪽 컬럼 (그림/이모지)
+            html += `<div class="match-column" id="match-left-${idx}">`;
+            html += `<div class="match-column-title">🖼️ 그림</div>`;
+            act.pairs.forEach(function(pair, pi) {
+                html += `
+                    <div class="match-drag-item match-left" 
+                         data-pair="${pi}" 
+                         data-type="left"
+                         draggable="true"
+                         ondragstart="dragStart(event, ${idx}, ${pi})"
+                         ondragend="dragEnd(event)"
+                         ontouchstart="touchStart(event, ${idx}, ${pi})"
+                         ontouchend="touchEnd(event)"
+                         id="left-${idx}-${pi}">
+                        <span style="font-size:2.5rem;">${pair.emoji}</span>
+                    </div>
+                `;
+            });
+            html += `</div>`;
+            
+            // 오른쪽 컬럼 (단어)
+            html += `<div class="match-column" id="match-right-${idx}">`;
+            html += `<div class="match-column-title">📝 단어</div>`;
+            // 섞기 (shuffle)
+            var shuffledPairs = [...act.pairs];
+            for (var i = shuffledPairs.length - 1; i > 0; i--) {
+                var j = Math.floor(Math.random() * (i + 1));
+                [shuffledPairs[i], shuffledPairs[j]] = [shuffledPairs[j], shuffledPairs[i]];
             }
-        });
-        html += `</div></section>`;
-    }
+            shuffledPairs.forEach(function(pair, si) {
+                var originalIndex = act.pairs.indexOf(pair);
+                html += `
+                    <div class="match-drag-item match-right" 
+                         data-pair="${originalIndex}" 
+                         data-type="right"
+                         draggable="false"
+                         ondrop="drop(event, ${idx}, ${originalIndex})"
+                         ondragover="dragOver(event)"
+                         ontouchmove="touchMove(event, ${idx}, ${originalIndex})"
+                         id="right-${idx}-${originalIndex}">
+                        ${pair.word}
+                    </div>
+                `;
+            });
+            html += `</div>`;
+            
+            // SVG 선을 그리기 위한 컨테이너
+            html += `<svg class="match-svg-container" id="match-svg-${idx}"></svg>`;
+            
+            html += `</div>`;
+            html += `<div id="match-feedback-${idx}" style="margin:10px 0;font-size:1.6rem;font-weight:bold;text-align:center;"></div>`;
+        } else if (act.type === 'find') {
+            // 기존 find 게임 유지
+            html += `<h3>🔍 ${act.instruction || t.find_instruction}</h3>
+                <p style="font-size:1.6rem;margin-bottom:12px;">${act.question}</p>
+                <div class="find-grid" id="find-grid-${idx}">`;
+            act.options.forEach(function(opt) {
+                var isTarget = (opt === act.target);
+                html += `
+                    <span class="find-option" data-target="${isTarget}" onclick="findOption(this, ${idx})">
+                        ${opt}
+                    </span>
+                `;
+            });
+            html += `</div><div id="find-feedback-${idx}" style="margin:10px 0;font-size:1.4rem;font-weight:bold;"></div>`;
+        }
+    });
+    html += `</div></section>`;
+}
+
+
+
+
 
     // ---------- FAMILY & FRIENDS ----------
     if (family.length > 0) {
         html += `<section id="family"><h2>${t.family}</h2><div class="family-grid">`;
-        family.forEach(item => {
-            const safeWord = item.word.replace(/'/g, "\\'");
-            const safeSound = (item.sound || item.word).replace(/'/g, "\\'");
+        family.forEach(function(item) {
+            var safeWord = item.word.replace(/'/g, "\\'");
+            var safeSound = (item.sound || item.word).replace(/'/g, "\\'");
             html += `
                 <div class="family-card" onclick="speakText('${safeSound}')">
                     <span class="family-emoji">${item.emoji || '👤'}</span>
@@ -564,8 +1512,8 @@ function renderPage(unit) {
     // ---------- NUMBERS ----------
     if (numbers.length > 0) {
         html += `<section id="numbers"><h2>🔢 Numbers 1-10</h2><div class="picture-grid">`;
-        numbers.forEach(num => {
-            const safeWord = num.word.replace(/'/g, "\\'");
+        numbers.forEach(function(num) {
+            var safeWord = num.word.replace(/'/g, "\\'");
             html += `
                 <div class="picture-card" onclick="speakText('${safeWord}')">
                     <span class="picture-emoji">${num.emoji || '🔢'}</span>
@@ -577,11 +1525,59 @@ function renderPage(unit) {
         html += `</div></section>`;
     }
 
-    // ---------- GRAMMAR ----------
+    // ---------- GRAMMAR (3~7세용 개선 버전) ----------
     if (grammar.title && grammar.content) {
-        html += `<section id="grammar"><h2>📝 ${grammar.title}</h2>
-            <div style="background:#f4f9ff;border-radius:20px;padding:25px;border:2px solid #d1e3f8;font-size:1.1rem;line-height:2;">
-                ${grammar.content}
+        var lines = grammar.content.split('\n').filter(function(l) { return l.trim(); });
+        
+        var itemsHtml = lines.map(function(line) {
+            var text = line.trim();
+            if (text.startsWith('•')) text = text.substring(1).trim();
+            
+            if (text.includes('=')) {
+                var parts = text.split('=').map(function(s) { return s.trim(); });
+                return `
+                    <div class="grammar-item">
+                        <span class="g-emoji">⭐</span>
+                        <span class="g-text">${parts[0]}</span>
+                        <span class="g-equal">=</span>
+                        <span class="g-example">${parts[1]}</span>
+                    </div>
+                `;
+            }
+            
+            if (text.match(/^Use /i) || text.match(/^use /i)) {
+                return `
+                    <div class="grammar-item">
+                        <span class="g-emoji">📌</span>
+                        <span class="g-text">${text}</span>
+                        <span class="g-desc">👆 이렇게 써요!</span>
+                    </div>
+                `;
+            }
+            
+            if (text.match(/^Say:/i) || text.match(/^say:/i)) {
+                var sayText = text.replace(/^Say:\s*/i, '').trim();
+                return `
+                    <div class="grammar-item">
+                        <span class="g-emoji">💬</span>
+                        <span class="g-text">${sayText}</span>
+                        <span class="g-desc">🗣️ 말해보기</span>
+                    </div>
+                `;
+            }
+            
+            return `
+                <div class="grammar-item">
+                    <span class="g-emoji">✨</span>
+                    <span class="g-text">${text}</span>
+                </div>
+            `;
+        }).join('');
+
+        html += `<section id="grammar">
+            <h2>📝 ${grammar.title}</h2>
+            <div class="grammar-content">
+                ${itemsHtml}
             </div>
         </section>`;
     }
@@ -589,11 +1585,11 @@ function renderPage(unit) {
     // ---------- PRACTICE CONVERSATIONS ----------
     if (conversations.length > 0) {
         html += `<section id="practice"><h2>💬 Practice Conversations</h2>`;
-        conversations.forEach((conv, idx) => {
+        conversations.forEach(function(conv, idx) {
             html += `<div style="background:#f8f9fa;padding:15px 20px;border-radius:15px;margin-bottom:15px;border-left:5px solid #9b59b6;">
                 <h4 style="color:#9b59b6;margin-bottom:12px;">${conv.title}</h4>`;
-            conv.lines.forEach(line => {
-                const safeText = line.text.replace(/'/g, "\\'");
+            conv.lines.forEach(function(line) {
+                var safeText = line.text.replace(/'/g, "\\'");
                 html += `
                     <div style="padding:6px 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
                         <strong style="color:#3498db;min-width:35px;">${line.speaker}:</strong>
@@ -608,11 +1604,10 @@ function renderPage(unit) {
     }
 
     document.getElementById('main-content').innerHTML = html;
-    const loadingEl = document.getElementById('loading');
+    var loadingEl = document.getElementById('loading');
     if (loadingEl) loadingEl.style.display = 'none';
     buildUnitSelector();
 }
-
 // ---------- 유닛 선택기 ----------
 function buildUnitSelector() {
     const sel = document.getElementById('unit-selector');
@@ -669,21 +1664,37 @@ function playRecord(idx) {
     }
 }
 
-// ---------- 스토리 옵션 ----------
+// ---------- 스토리 옵션 (개선 버전) ----------
 function checkStoryOption(el, isCorrect) {
-    const fb = document.getElementById('story-feedback');
+    var fb = document.getElementById('story-feedback');
     if (!fb) return;
+    
+    // 모든 옵션 비활성화 (한 번만 선택 가능)
+    var allOptions = document.querySelectorAll('.story-option');
+    allOptions.forEach(function(o) {
+        o.style.pointerEvents = 'none';
+        o.style.opacity = '0.6';
+    });
+    
     if (isCorrect === 'true') {
-        fb.innerHTML = `${t.correct} 🎉`;
+        el.classList.add('correct-answer');
+        fb.innerHTML = '🎉 정답입니다! 잘했어요!';
         fb.style.color = '#27ae60';
     } else {
-        fb.innerHTML = `${t.wrong} 😊`;
+        el.classList.add('wrong-answer');
+        fb.innerHTML = '😊 다시 생각해볼까요?';
         fb.style.color = '#e74c3c';
+        // 정답 표시
+        allOptions.forEach(function(o) {
+            if (o.dataset.correct === 'true') {
+                o.classList.add('correct-answer');
+            }
+        });
     }
-    document.querySelectorAll('.story-option').forEach(o => o.style.opacity = '0.5');
-    el.style.opacity = '1';
-    el.style.borderColor = isCorrect === 'true' ? '#27ae60' : '#e74c3c';
 }
+
+
+
 
 // ---------- 매칭 게임 ----------
 let matchSelections = {};
@@ -750,6 +1761,16 @@ window.checkStoryOption = checkStoryOption;
 window.matchPair = matchPair;
 window.findOption = findOption;
 window.navigateUnit = navigateUnit;
+window.dragStart = dragStart;
+window.dragEnd = dragEnd;
+window.dragOver = dragOver;
+window.drop = drop;
+window.touchStart = touchStart;
+window.touchMove = touchMove;
+window.touchEnd = touchEnd;
+window.drawMatchLine = drawMatchLine;
+window.updateMatchFeedback = updateMatchFeedback;
+
 
 document.addEventListener('DOMContentLoaded', loadUnit);
 </script>
