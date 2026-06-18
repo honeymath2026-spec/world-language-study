@@ -1,0 +1,257 @@
+{
+  "title": {
+    "en": "Personal Information",
+    "ja": "個人情報",
+    "fr": "Renseignements personnels",
+    "ko": "개인 정보"
+  },
+  "topic": {
+    "en": "Jobs - verb be (negatives and questions) - Address, phone number - Social expressions",
+    "ja": "仕事 - be動詞（否定文と疑問文） - 住所、電話番号 - 社交表現",
+    "fr": "Métiers - verbe be (négations et questions) - Adresse, numéro de téléphone - Expressions sociales",
+    "ko": "직업 - be동사 (부정문과 의문문) - 주소, 전화번호 - 사교 표현"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "police_officer", "emoji": "👮", "word": "police officer", "hint": "He helps people", "sound": "police officer" },
+      { "id": "nurse", "emoji": "👩‍⚕️", "word": "nurse", "hint": "She works in a hospital", "sound": "nurse" },
+      { "id": "student", "emoji": "🎓", "word": "student", "hint": "I study at school", "sound": "student" },
+      { "id": "teacher", "emoji": "👨‍🏫", "word": "teacher", "hint": "He teaches students", "sound": "teacher" },
+      { "id": "shop_assistant", "emoji": "🛒", "word": "shop assistant", "hint": "She works in a shop", "sound": "shop assistant" },
+      { "id": "taxi_driver", "emoji": "🚕", "word": "taxi driver", "hint": "He drives a taxi", "sound": "taxi driver" },
+      { "id": "businessman", "emoji": "💼", "word": "businessman", "hint": "He works in an office", "sound": "businessman" },
+      { "id": "doctor", "emoji": "👨‍⚕️", "word": "doctor", "hint": "She helps sick people", "sound": "doctor" }
+    ],
+    "ja": [
+      { "id": "police_officer", "emoji": "👮", "word": "警察官", "hint": "人々を助けます", "sound": "けいさつかん" },
+      { "id": "nurse", "emoji": "👩‍⚕️", "word": "看護師", "hint": "病院で働きます", "sound": "かんごし" },
+      { "id": "student", "emoji": "🎓", "word": "学生", "hint": "学校で勉強します", "sound": "がくせい" },
+      { "id": "teacher", "emoji": "👨‍🏫", "word": "先生", "hint": "生徒に教えます", "sound": "せんせい" },
+      { "id": "shop_assistant", "emoji": "🛒", "word": "店員", "hint": "店で働きます", "sound": "てんいん" },
+      { "id": "taxi_driver", "emoji": "🚕", "word": "タクシー運転手", "hint": "タクシーを運転します", "sound": "たくしーうんてんしゅ" },
+      { "id": "businessman", "emoji": "💼", "word": "ビジネスマン", "hint": "オフィスで働きます", "sound": "びじねすまん" },
+      { "id": "doctor", "emoji": "👨‍⚕️", "word": "医者", "hint": "病人を助けます", "sound": "いしゃ" }
+    ],
+    "fr": [
+      { "id": "police_officer", "emoji": "👮", "word": "policier", "hint": "Il aide les gens", "sound": "policier" },
+      { "id": "nurse", "emoji": "👩‍⚕️", "word": "infirmière", "hint": "Elle travaille à l'hôpital", "sound": "infirmière" },
+      { "id": "student", "emoji": "🎓", "word": "étudiant", "hint": "J'étudie à l'école", "sound": "étudiant" },
+      { "id": "teacher", "emoji": "👨‍🏫", "word": "professeur", "hint": "Il enseigne aux élèves", "sound": "professeur" },
+      { "id": "shop_assistant", "emoji": "🛒", "word": "vendeur", "hint": "Elle travaille dans un magasin", "sound": "vendeur" },
+      { "id": "taxi_driver", "emoji": "🚕", "word": "chauffeur de taxi", "hint": "Il conduit un taxi", "sound": "chauffeur de taxi" },
+      { "id": "businessman", "emoji": "💼", "word": "homme d'affaires", "hint": "Il travaille dans un bureau", "sound": "homme d'affaires" },
+      { "id": "doctor", "emoji": "👨‍⚕️", "word": "médecin", "hint": "Elle soigne les malades", "sound": "médecin" }
+    ],
+    "ko": [
+      { "id": "police_officer", "emoji": "👮", "word": "경찰관", "hint": "사람들을 도와요", "sound": "경찰관" },
+      { "id": "nurse", "emoji": "👩‍⚕️", "word": "간호사", "hint": "병원에서 일해요", "sound": "간호사" },
+      { "id": "student", "emoji": "🎓", "word": "학생", "hint": "학교에서 공부해요", "sound": "학생" },
+      { "id": "teacher", "emoji": "👨‍🏫", "word": "선생님", "hint": "학생들을 가르쳐요", "sound": "선생님" },
+      { "id": "shop_assistant", "emoji": "🛒", "word": "점원", "hint": "가게에서 일해요", "sound": "점원" },
+      { "id": "taxi_driver", "emoji": "🚕", "word": "택시 운전사", "hint": "택시를 운전해요", "sound": "택시 운전사" },
+      { "id": "businessman", "emoji": "💼", "word": "사업가", "hint": "사무실에서 일해요", "sound": "사업가" },
+      { "id": "doctor", "emoji": "👨‍⚕️", "word": "의사", "hint": "아픈 사람들을 돌봐요", "sound": "의사" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "whats_his_job", "emoji": "👨", "text": "What's his job? He's a teacher.", "sound": "What is his job? He is a teacher." },
+      { "id": "whats_her_job", "emoji": "👩", "text": "What's her job? She's a doctor.", "sound": "What is her job? She is a doctor." },
+      { "id": "he_isnt", "emoji": "🚫", "text": "He isn't a student. He's a teacher.", "sound": "He is not a student. He is a teacher." },
+      { "id": "she_isnt", "emoji": "🚫", "text": "She isn't a nurse. She's a doctor.", "sound": "She is not a nurse. She is a doctor." },
+      { "id": "is_amy_from", "emoji": "❓", "text": "Is Amy from America? No, she isn't.", "sound": "Is Amy from America? No, she is not." },
+      { "id": "is_she_married", "emoji": "💍", "text": "Is she married? No, she isn't.", "sound": "Is she married? No, she is not." },
+      { "id": "are_you_from", "emoji": "🌍", "text": "Are you from England? Yes, I am.", "sound": "Are you from England? Yes, I am." },
+      { "id": "im_not", "emoji": "🚫", "text": "I'm not from England. I'm from Houston.", "sound": "I am not from England. I am from Houston." }
+    ],
+    "ja": [
+      { "id": "whats_his_job", "emoji": "👨", "text": "彼の仕事は何ですか？彼は先生です。", "sound": "かれのしごとはなんですか？かれはせんせいです。" },
+      { "id": "whats_her_job", "emoji": "👩", "text": "彼女の仕事は何ですか？彼女は医者です。", "sound": "かのじょのしごとはなんですか？かのじょはいしゃです。" },
+      { "id": "he_isnt", "emoji": "🚫", "text": "彼は学生ではありません。彼は先生です。", "sound": "かれはがくせいではありません。かれはせんせいです。" },
+      { "id": "she_isnt", "emoji": "🚫", "text": "彼女は看護師ではありません。彼女は医者です。", "sound": "かのじょはかんごしではありません。かのじょはいしゃです。" },
+      { "id": "is_amy_from", "emoji": "❓", "text": "エイミーはアメリカ出身ですか？いいえ、違います。", "sound": "えいみーはあめりかしゅっしんですか？いいえ、ちがいます。" },
+      { "id": "is_she_married", "emoji": "💍", "text": "彼女は結婚していますか？いいえ、していません。", "sound": "かのじょはけっこんしていますか？いいえ、していません。" },
+      { "id": "are_you_from", "emoji": "🌍", "text": "あなたはイギリス出身ですか？はい、そうです。", "sound": "あなたはいぎりすしゅっしんですか？はい、そうです。" },
+      { "id": "im_not", "emoji": "🚫", "text": "私はイギリス出身ではありません。ヒューストン出身です。", "sound": "わたしはいぎりすしゅっしんではありません。ひゅーすとんしゅっしんです。" }
+    ],
+    "fr": [
+      { "id": "whats_his_job", "emoji": "👨", "text": "Quel est son métier ? Il est professeur.", "sound": "Quel est son métier ? Il est professeur." },
+      { "id": "whats_her_job", "emoji": "👩", "text": "Quel est son métier ? Elle est médecin.", "sound": "Quel est son métier ? Elle est médecin." },
+      { "id": "he_isnt", "emoji": "🚫", "text": "Il n'est pas étudiant. Il est professeur.", "sound": "Il n'est pas étudiant. Il est professeur." },
+      { "id": "she_isnt", "emoji": "🚫", "text": "Elle n'est pas infirmière. Elle est médecin.", "sound": "Elle n'est pas infirmière. Elle est médecin." },
+      { "id": "is_amy_from", "emoji": "❓", "text": "Amy vient-elle des États-Unis ? Non, elle ne vient pas.", "sound": "Amy vient-elle des États-Unis ? Non, elle ne vient pas." },
+      { "id": "is_she_married", "emoji": "💍", "text": "Est-elle mariée ? Non, elle ne l'est pas.", "sound": "Est-elle mariée ? Non, elle ne l'est pas." },
+      { "id": "are_you_from", "emoji": "🌍", "text": "Viens-tu d'Angleterre ? Oui, je viens.", "sound": "Viens-tu d'Angleterre ? Oui, je viens." },
+      { "id": "im_not", "emoji": "🚫", "text": "Je ne viens pas d'Angleterre. Je viens de Houston.", "sound": "Je ne viens pas d'Angleterre. Je viens de Houston." }
+    ],
+    "ko": [
+      { "id": "whats_his_job", "emoji": "👨", "text": "그의 직업은 무엇인가요? 그는 선생님입니다.", "sound": "그의 직업은 무엇인가요? 그는 선생님입니다." },
+      { "id": "whats_her_job", "emoji": "👩", "text": "그녀의 직업은 무엇인가요? 그녀는 의사입니다.", "sound": "그녀의 직업은 무엇인가요? 그녀는 의사입니다." },
+      { "id": "he_isnt", "emoji": "🚫", "text": "그는 학생이 아닙니다. 그는 선생님입니다.", "sound": "그는 학생이 아닙니다. 그는 선생님입니다." },
+      { "id": "she_isnt", "emoji": "🚫", "text": "그녀는 간호사가 아닙니다. 그녀는 의사입니다.", "sound": "그녀는 간호사가 아닙니다. 그녀는 의사입니다." },
+      { "id": "is_amy_from", "emoji": "❓", "text": "에이미는 미국 출신인가요? 아니요, 아닙니다.", "sound": "에이미는 미국 출신인가요? 아니요, 아닙니다." },
+      { "id": "is_she_married", "emoji": "💍", "text": "그녀는 결혼했나요? 아니요, 안 했어요.", "sound": "그녀는 결혼했나요? 아니요, 안 했어요." },
+      { "id": "are_you_from", "emoji": "🌍", "text": "영국 출신인가요? 네, 맞아요.", "sound": "영국 출신인가요? 네, 맞아요." },
+      { "id": "im_not", "emoji": "🚫", "text": "저는 영국 출신이 아닙니다. 휴스턴 출신입니다.", "sound": "저는 영국 출신이 아닙니다. 휴스턴 출신입니다." }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "A Pop Group",
+      "content": "This is the pop group 4 x 4 (Four by Four). Melanie Ryan is from Australia. Yves Lacoste is from France. Cath and George Walters are from England. They're on tour in the United States.\n'We're in New York. We're at the Radio City Music Hall. It's great!'\nWho is married in 4x4? Yves: 'I'm not married.' George and Cath: 'We aren't married!' Melanie: 'I am!'",
+      "question": "Who is married in the group?",
+      "options": [
+        { "text": "Melanie", "emoji": "👩", "correct": true },
+        { "text": "Yves", "emoji": "👨", "correct": false },
+        { "text": "Cath and George", "emoji": "👫", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "ポップグループ",
+      "content": "これはポップグループ「4 x 4」（フォー・バイ・フォー）です。メラニー・ライアンはオーストラリア出身です。イヴ・ラコストはフランス出身です。キャスとジョージ・ウォルターズはイギリス出身です。彼らはアメリカでツアー中です。\n「私たちはニューヨークにいます。ラジオシティ・ミュージックホールにいます。最高です！」\n4x4で結婚しているのは誰ですか？イヴ：「私は結婚していません。」ジョージとキャス：「私たちは結婚していません！」メラニー：「私はしています！」",
+      "question": "グループで結婚しているのは誰ですか？",
+      "options": [
+        { "text": "メラニー", "emoji": "👩", "correct": true },
+        { "text": "イヴ", "emoji": "👨", "correct": false },
+        { "text": "キャスとジョージ", "emoji": "👫", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "Un groupe de pop",
+      "content": "Voici le groupe de pop 4 x 4 (Four by Four). Melanie Ryan est d'Australie. Yves Lacoste est de France. Cath et George Walters sont d'Angleterre. Ils sont en tournée aux États-Unis.\n« Nous sommes à New York. Nous sommes au Radio City Music Hall. C'est génial ! »\nQui est marié dans 4x4 ? Yves : « Je ne suis pas marié. » George et Cath : « Nous ne sommes pas mariés ! » Melanie : « Je le suis ! »",
+      "question": "Qui est marié dans le groupe ?",
+      "options": [
+        { "text": "Melanie", "emoji": "👩", "correct": true },
+        { "text": "Yves", "emoji": "👨", "correct": false },
+        { "text": "Cath et George", "emoji": "👫", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "팝 그룹",
+      "content": "이들은 팝 그룹 '4 x 4'(포 바이 포)입니다. 멜라니 라이언은 호주 출신입니다. 이브 라코스트는 프랑스 출신입니다. 캐스와 조지 월터스는 영국 출신입니다. 그들은 미국에서 투어 중입니다.\n'우리는 뉴욕에 있습니다. 라디오 시티 뮤직 홀에 있어요. 정말 멋져요!'\n4x4에서 결혼한 사람은 누구인가요? 이브: '저는 결혼하지 않았어요.' 조지와 캐스: '우리는 결혼하지 않았어요!' 멜라니: '저는 결혼했어요!'",
+      "question": "그룹에서 결혼한 사람은 누구인가요?",
+      "options": [
+        { "text": "멜라니", "emoji": "👩", "correct": true },
+        { "text": "이브", "emoji": "👨", "correct": false },
+        { "text": "캐스와 조지", "emoji": "👫", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the job with the picture!",
+        "pairs": [
+          { "emoji": "👮", "word": "police officer" },
+          { "emoji": "👩‍⚕️", "word": "nurse" },
+          { "emoji": "🎓", "word": "student" },
+          { "emoji": "👨‍🏫", "word": "teacher" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the doctor! 👨‍⚕️",
+        "target": "👨‍⚕️",
+        "options": ["👮", "👩‍⚕️", "🎓", "👨‍⚕️"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "職業と絵を合わせましょう！",
+        "pairs": [
+          { "emoji": "👮", "word": "警察官" },
+          { "emoji": "👩‍⚕️", "word": "看護師" },
+          { "emoji": "🎓", "word": "学生" },
+          { "emoji": "👨‍🏫", "word": "先生" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "医者を見つけてください！👨‍⚕️",
+        "target": "👨‍⚕️",
+        "options": ["👮", "👩‍⚕️", "🎓", "👨‍⚕️"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez le métier à l'image !",
+        "pairs": [
+          { "emoji": "👮", "word": "policier" },
+          { "emoji": "👩‍⚕️", "word": "infirmière" },
+          { "emoji": "🎓", "word": "étudiant" },
+          { "emoji": "👨‍🏫", "word": "professeur" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouvez le médecin ! 👨‍⚕️",
+        "target": "👨‍⚕️",
+        "options": ["👮", "👩‍⚕️", "🎓", "👨‍⚕️"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "직업과 그림을 매치하세요!",
+        "pairs": [
+          { "emoji": "👮", "word": "경찰관" },
+          { "emoji": "👩‍⚕️", "word": "간호사" },
+          { "emoji": "🎓", "word": "학생" },
+          { "emoji": "👨‍🏫", "word": "선생님" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "의사를 찾으세요! 👨‍⚕️",
+        "target": "👨‍⚕️",
+        "options": ["👮", "👩‍⚕️", "🎓", "👨‍⚕️"]
+      }
+    ]
+  },
+  "social_expressions": {
+    "en": [
+      { "id": "good_morning", "emoji": "🌅", "expression": "Good morning", "response": "Good morning", "hint": "Say this in the morning" },
+      { "id": "good_afternoon", "emoji": "☀️", "expression": "Good afternoon", "response": "Good afternoon", "hint": "Say this in the afternoon" },
+      { "id": "good_evening", "emoji": "🌆", "expression": "Good evening", "response": "Good evening", "hint": "Say this in the evening" },
+      { "id": "good_night", "emoji": "🌙", "expression": "Good night", "response": "Good night", "hint": "Say this before sleeping" },
+      { "id": "goodbye", "emoji": "👋", "expression": "Goodbye", "response": "Goodbye! Have a good journey!", "hint": "Say this when you leave" },
+      { "id": "pardon", "emoji": "🙉", "expression": "Pardon?", "response": "I said...", "hint": "Say this when you don't understand" },
+      { "id": "sorry", "emoji": "😅", "expression": "Sorry", "response": "That's OK", "hint": "Say this when you make a mistake" },
+      { "id": "thank_you", "emoji": "🙏", "expression": "Thank you", "response": "You're welcome", "hint": "Say this when you receive something" }
+    ],
+    "ja": [
+      { "id": "good_morning", "emoji": "🌅", "expression": "おはようございます", "response": "おはようございます", "hint": "朝のあいさつ" },
+      { "id": "good_afternoon", "emoji": "☀️", "expression": "こんにちは", "response": "こんにちは", "hint": "昼間のあいさつ" },
+      { "id": "good_evening", "emoji": "🌆", "expression": "こんばんは", "response": "こんばんは", "hint": "夕方のあいさつ" },
+      { "id": "good_night", "emoji": "🌙", "expression": "おやすみなさい", "response": "おやすみなさい", "hint": "寝る前のあいさつ" },
+      { "id": "goodbye", "emoji": "👋", "expression": "さようなら", "response": "さようなら！いい旅を！", "hint": "別れのあいさつ" },
+      { "id": "pardon", "emoji": "🙉", "expression": "すみません、もう一度お願いします", "response": "〜と言いました", "hint": "聞き取れなかった時に" },
+      { "id": "sorry", "emoji": "😅", "expression": "ごめんなさい", "response": "いいですよ", "hint": "謝るとき" },
+      { "id": "thank_you", "emoji": "🙏", "expression": "ありがとうございます", "response": "どういたしまして", "hint": "感謝を伝えるとき" }
+    ],
+    "fr": [
+      { "id": "good_morning", "emoji": "🌅", "expression": "Bonjour", "response": "Bonjour", "hint": "Le matin" },
+      { "id": "good_afternoon", "emoji": "☀️", "expression": "Bonjour", "response": "Bonjour", "hint": "L'après-midi" },
+      { "id": "good_evening", "emoji": "🌆", "expression": "Bonsoir", "response": "Bonsoir", "hint": "Le soir" },
+      { "id": "good_night", "emoji": "🌙", "expression": "Bonne nuit", "response": "Bonne nuit", "hint": "Avant de dormir" },
+      { "id": "goodbye", "emoji": "👋", "expression": "Au revoir", "response": "Au revoir ! Bon voyage !", "hint": "En partant" },
+      { "id": "pardon", "emoji": "🙉", "expression": "Pardon ?", "response": "J'ai dit...", "hint": "Quand tu ne comprends pas" },
+      { "id": "sorry", "emoji": "😅", "expression": "Désolé", "response": "Ce n'est pas grave", "hint": "Quand tu fais une erreur" },
+      { "id": "thank_you", "emoji": "🙏", "expression": "Merci", "response": "De rien", "hint": "Pour remercier" }
+    ],
+    "ko": [
+      { "id": "good_morning", "emoji": "🌅", "expression": "좋은 아침입니다", "response": "좋은 아침입니다", "hint": "아침 인사" },
+      { "id": "good_afternoon", "emoji": "☀️", "expression": "안녕하세요", "response": "안녕하세요", "hint": "낮 인사" },
+      { "id": "good_evening", "emoji": "🌆", "expression": "안녕하세요", "response": "안녕하세요", "hint": "저녁 인사" },
+      { "id": "good_night", "emoji": "🌙", "expression": "안녕히 주무세요", "response": "안녕히 주무세요", "hint": "잠들기 전 인사" },
+      { "id": "goodbye", "emoji": "👋", "expression": "안녕히 가세요", "response": "안녕히 가세요! 좋은 여행 되세요!", "hint": "작별 인사" },
+      { "id": "pardon", "emoji": "🙉", "expression": "다시 말씀해 주세요?", "response": "제가 말한 것은...", "hint": "이해하지 못했을 때" },
+      { "id": "sorry", "emoji": "😅", "expression": "죄송합니다", "response": "괜찮아요", "hint": "실수했을 때" },
+      { "id": "thank_you", "emoji": "🙏", "expression": "감사합니다", "response": "천만에요", "hint": "감사를 표현할 때" }
+    ]
+  }
+  
+}

@@ -155,6 +155,64 @@
 }
 
 
+
+/* ============================================================
+   📚 REFERENCE SECTION - 참고 섹션
+   ============================================================ */
+
+section.reference {
+    background: #f8f9fa;
+    border: 2px dashed #bdc3c7;
+    border-radius: var(--radius);
+    padding: 1.5rem 2rem 2rem;
+    margin-bottom: 2rem;
+    box-shadow: none;
+    transition: 0.2s;
+}
+
+section.reference:hover {
+    border-color: #95a5a6;
+    background: #fefefe;
+}
+
+section.reference h2 {
+    border-left-color: #bdc3c7;
+    color: #7f8c8d;
+    font-size: 1.6rem;
+}
+
+section.reference .picture-card {
+    border-color: #d5d8dc;
+    background: #f8f9fa;
+}
+
+section.reference .picture-card:hover {
+    border-color: #95a5a6;
+    background: #ffffff;
+}
+
+section.reference .picture-word {
+    font-size: 1.4rem;
+}
+
+/* 네비게이션 구분선 */
+.nav-divider {
+    color: #bdc3c7;
+    padding: 0 8px;
+    font-size: 1.2rem;
+    user-select: none;
+}
+
+.nav-reference {
+    opacity: 0.7;
+    font-size: 0.8rem;
+}
+
+.nav-reference:hover {
+    opacity: 1;
+}
+
+
 /* ============================================================
    🎮 MATCHING GAME - CONNECT WITH LINES
    ============================================================ */
@@ -893,14 +951,8 @@
 <header>
     <h2 id="unit-title">🧸 Unit 1: My World</h2>
     <nav class="nav-links" id="nav-links">
-        <a href="#dictionary">📖 Picture Dictionary</a>
-        <a href="#listen">🎵 Listen & Repeat</a>
-        <a href="#story">📚 Story Time</a>
-        <a href="#activities">🎮 Fun Activities</a>
-        <a href="#numbers">🔢 Numbers</a>
-        <a href="#grammar">📝 Grammar</a>
-        <a href="#practice">💬 Practice</a>
-    </nav>
+    <!-- JavaScript로 동적으로 생성 -->
+</nav>
 </header>
 
 <div class="container" id="main-content">
@@ -1276,6 +1328,8 @@ function updateMatchFeedback(gameIdx) {
 // ============================================================
 // 렌더링 함수
 // ============================================================
+
+
 function renderPage(unit) {
     const langData = (key) => {
         const data = unit[key];
@@ -1291,10 +1345,48 @@ function renderPage(unit) {
     const numbers = unit.numbers?.[lang] || unit.numbers?.['en'] || [];
     const grammar = unit.grammar?.[lang] || unit.grammar?.['en'] || {};
     const conversations = unit.practice_conversations?.[lang] || unit.practice_conversations?.['en'] || [];
+    const social = langData('social_expressions');
 
     const title = unit.title?.[lang] || unit.title?.['en'] || `Unit ${unitNum}`;
     document.getElementById('unit-title').textContent = `🧸 Unit ${unitNum}: ${title}`;
 
+    // ============================================================
+    // ✅ 동적 네비게이션 생성 (메인 + 참고 구분)
+    // ============================================================
+    const navLinks = document.getElementById('nav-links');
+    
+    // 메인 섹션 (항상 표시)
+    const mainNav = [];
+    if (dict.length > 0) mainNav.push({ id: 'dictionary', label: '📖 Picture Dictionary' });
+    if (listen.length > 0) mainNav.push({ id: 'listen', label: '🎵 Listen & Repeat' });
+    if (story.content) mainNav.push({ id: 'story', label: '📚 Story Time' });
+    if (activities.length > 0) mainNav.push({ id: 'activities', label: '🎮 Fun Activities' });
+    if (grammar.title) mainNav.push({ id: 'grammar', label: '📝 Grammar' });
+    if (conversations.length > 0) mainNav.push({ id: 'practice', label: '💬 Practice' });
+
+    // 참고 섹션 (있는 경우만 표시)
+    const refNav = [];
+    if (numbers.length > 0) refNav.push({ id: 'numbers', label: '🔢 Numbers' });
+    if (social.length > 0) refNav.push({ id: 'social', label: '💬 Social' });
+    if (family.length > 0) refNav.push({ id: 'family', label: '👨‍👩‍👦 Family' });
+
+    // 네비게이션 HTML 생성
+    let navHtml = mainNav.map(item => 
+        `<a href="#${item.id}">${item.label}</a>`
+    ).join('');
+
+    if (refNav.length > 0) {
+        navHtml += `<span class="nav-divider">|</span>`;
+        navHtml += refNav.map(item => 
+            `<a href="#${item.id}" class="nav-reference">${item.label}</a>`
+        ).join('');
+    }
+
+    navLinks.innerHTML = navHtml;
+
+    // ============================================================
+    // HTML 렌더링
+    // ============================================================
     let html = '';
 
     // ---------- PICTURE DICTIONARY ----------
@@ -1341,29 +1433,24 @@ function renderPage(unit) {
         html += `</section>`;
     }
 
-    // ---------- STORY TIME (줄바꿈 개선 버전) ----------
+    // ---------- STORY TIME ----------
     if (story.content) {
-        // 대화 내용을 줄바꿈으로 분리
         var storyLines = story.content.split('\n').filter(function(l) { return l.trim(); });
         
         var linesHtml = storyLines.map(function(line) {
             var text = line.trim();
-            
-            // "이름: 대사" 패턴 찾기 (한글/영문 모두)
             var match = text.match(/^([^:：]+)[:：]\s*(.+)/);
             if (match) {
                 var speaker = match[1].trim();
                 var dialog = match[2].trim();
-                
-                // 캐릭터별 이모지 매칭
                 var emojiMap = {
                     '센드라': '👩', 'Sandra': '👩',
                     '히로': '👦', 'Hiro': '👦',
                     '존': '👨', 'John': '👨',
-                    'Tom': '👦', 'Amy': '👧', 'Ben': '👦'
+                    'Tom': '👦', 'Amy': '👧', 'Ben': '👦',
+                    'Melanie': '👩', 'Yves': '👨', 'Cath': '👩', 'George': '👨'
                 };
                 var emoji = emojiMap[speaker] || '💬';
-                
                 return `
                     <div class="story-line">
                         <span class="story-speaker">${emoji} ${speaker}</span>
@@ -1371,7 +1458,6 @@ function renderPage(unit) {
                     </div>
                 `;
             } else {
-                // 캐릭터 이름이 없는 경우 (내레이션 등)
                 return `
                     <div class="story-line" style="background: #f8f4ec; border-style: dashed; justify-content: center;">
                         <span class="story-text" style="text-align: center; font-style: italic;">📖 ${text}</span>
@@ -1411,121 +1497,79 @@ function renderPage(unit) {
         html += `</div></section>`;
     }
 
-    // ---------- FUN ACTIVITIES (선 연결 매칭 게임) ----------
-if (activities.length > 0) {
-    html += `<section id="activities"><h2>${t.activities}</h2><div class="activity-box">`;
-    activities.forEach(function(act, idx) {
-        if (act.type === 'match') {
-            html += `<h3>🔗 ${act.instruction || t.match_instruction}</h3>`;
-            html += `<div class="match-game-container" id="match-game-${idx}">`;
-            
-            // 왼쪽 컬럼 (그림/이모지)
-            html += `<div class="match-column" id="match-left-${idx}">`;
-            html += `<div class="match-column-title">🖼️ 그림</div>`;
-            act.pairs.forEach(function(pair, pi) {
-                html += `
-                    <div class="match-drag-item match-left" 
-                         data-pair="${pi}" 
-                         data-type="left"
-                         draggable="true"
-                         ondragstart="dragStart(event, ${idx}, ${pi})"
-                         ondragend="dragEnd(event)"
-                         ontouchstart="touchStart(event, ${idx}, ${pi})"
-                         ontouchend="touchEnd(event)"
-                         id="left-${idx}-${pi}">
-                        <span style="font-size:2.5rem;">${pair.emoji}</span>
-                    </div>
-                `;
-            });
-            html += `</div>`;
-            
-            // 오른쪽 컬럼 (단어)
-            html += `<div class="match-column" id="match-right-${idx}">`;
-            html += `<div class="match-column-title">📝 단어</div>`;
-            // 섞기 (shuffle)
-            var shuffledPairs = [...act.pairs];
-            for (var i = shuffledPairs.length - 1; i > 0; i--) {
-                var j = Math.floor(Math.random() * (i + 1));
-                [shuffledPairs[i], shuffledPairs[j]] = [shuffledPairs[j], shuffledPairs[i]];
+    // ---------- FUN ACTIVITIES ----------
+    if (activities.length > 0) {
+        html += `<section id="activities"><h2>${t.activities}</h2><div class="activity-box">`;
+        activities.forEach(function(act, idx) {
+            if (act.type === 'match') {
+                html += `<h3>🔗 ${act.instruction || t.match_instruction}</h3>`;
+                html += `<div class="match-game-container" id="match-game-${idx}">`;
+                
+                html += `<div class="match-column" id="match-left-${idx}">`;
+                html += `<div class="match-column-title">🖼️ 그림</div>`;
+                act.pairs.forEach(function(pair, pi) {
+                    html += `
+                        <div class="match-drag-item match-left" 
+                             data-pair="${pi}" 
+                             data-type="left"
+                             draggable="true"
+                             ondragstart="dragStart(event, ${idx}, ${pi})"
+                             ondragend="dragEnd(event)"
+                             ontouchstart="touchStart(event, ${idx}, ${pi})"
+                             ontouchend="touchEnd(event)"
+                             id="left-${idx}-${pi}">
+                            <span style="font-size:2.5rem;">${pair.emoji}</span>
+                        </div>
+                    `;
+                });
+                html += `</div>`;
+                
+                html += `<div class="match-column" id="match-right-${idx}">`;
+                html += `<div class="match-column-title">📝 단어</div>`;
+                var shuffledPairs = [...act.pairs];
+                for (var i = shuffledPairs.length - 1; i > 0; i--) {
+                    var j = Math.floor(Math.random() * (i + 1));
+                    [shuffledPairs[i], shuffledPairs[j]] = [shuffledPairs[j], shuffledPairs[i]];
+                }
+                shuffledPairs.forEach(function(pair, si) {
+                    var originalIndex = act.pairs.indexOf(pair);
+                    html += `
+                        <div class="match-drag-item match-right" 
+                             data-pair="${originalIndex}" 
+                             data-type="right"
+                             draggable="false"
+                             ondrop="drop(event, ${idx}, ${originalIndex})"
+                             ondragover="dragOver(event)"
+                             ontouchmove="touchMove(event, ${idx}, ${originalIndex})"
+                             id="right-${idx}-${originalIndex}">
+                            ${pair.word}
+                        </div>
+                    `;
+                });
+                html += `</div>`;
+                
+                html += `<svg class="match-svg-container" id="match-svg-${idx}"></svg>`;
+                html += `</div>`;
+                html += `<div id="match-feedback-${idx}" style="margin:10px 0;font-size:1.6rem;font-weight:bold;text-align:center;"></div>`;
+            } else if (act.type === 'find') {
+                html += `<h3>🔍 ${act.instruction || t.find_instruction}</h3>
+                    <p style="font-size:1.6rem;margin-bottom:12px;">${act.question}</p>
+                    <div class="find-grid" id="find-grid-${idx}">`;
+                act.options.forEach(function(opt) {
+                    var isTarget = (opt === act.target);
+                    html += `
+                        <span class="find-option" data-target="${isTarget}" onclick="findOption(this, ${idx})">
+                            ${opt}
+                        </span>
+                    `;
+                });
+                html += `</div><div id="find-feedback-${idx}" style="margin:10px 0;font-size:1.4rem;font-weight:bold;"></div>`;
             }
-            shuffledPairs.forEach(function(pair, si) {
-                var originalIndex = act.pairs.indexOf(pair);
-                html += `
-                    <div class="match-drag-item match-right" 
-                         data-pair="${originalIndex}" 
-                         data-type="right"
-                         draggable="false"
-                         ondrop="drop(event, ${idx}, ${originalIndex})"
-                         ondragover="dragOver(event)"
-                         ontouchmove="touchMove(event, ${idx}, ${originalIndex})"
-                         id="right-${idx}-${originalIndex}">
-                        ${pair.word}
-                    </div>
-                `;
-            });
-            html += `</div>`;
-            
-            // SVG 선을 그리기 위한 컨테이너
-            html += `<svg class="match-svg-container" id="match-svg-${idx}"></svg>`;
-            
-            html += `</div>`;
-            html += `<div id="match-feedback-${idx}" style="margin:10px 0;font-size:1.6rem;font-weight:bold;text-align:center;"></div>`;
-        } else if (act.type === 'find') {
-            // 기존 find 게임 유지
-            html += `<h3>🔍 ${act.instruction || t.find_instruction}</h3>
-                <p style="font-size:1.6rem;margin-bottom:12px;">${act.question}</p>
-                <div class="find-grid" id="find-grid-${idx}">`;
-            act.options.forEach(function(opt) {
-                var isTarget = (opt === act.target);
-                html += `
-                    <span class="find-option" data-target="${isTarget}" onclick="findOption(this, ${idx})">
-                        ${opt}
-                    </span>
-                `;
-            });
-            html += `</div><div id="find-feedback-${idx}" style="margin:10px 0;font-size:1.4rem;font-weight:bold;"></div>`;
-        }
-    });
-    html += `</div></section>`;
-}
-
-
-
-
-
-    // ---------- FAMILY & FRIENDS ----------
-    if (family.length > 0) {
-        html += `<section id="family"><h2>${t.family}</h2><div class="family-grid">`;
-        family.forEach(function(item) {
-            var safeWord = item.word.replace(/'/g, "\\'");
-            var safeSound = (item.sound || item.word).replace(/'/g, "\\'");
-            html += `
-                <div class="family-card" onclick="speakText('${safeSound}')">
-                    <span class="family-emoji">${item.emoji || '👤'}</span>
-                    <span class="family-word">${item.word}</span>
-                </div>
-            `;
         });
         html += `</div></section>`;
     }
 
-    // ---------- NUMBERS ----------
-    if (numbers.length > 0) {
-        html += `<section id="numbers"><h2>🔢 Numbers 1-10</h2><div class="picture-grid">`;
-        numbers.forEach(function(num) {
-            var safeWord = num.word.replace(/'/g, "\\'");
-            html += `
-                <div class="picture-card" onclick="speakText('${safeWord}')">
-                    <span class="picture-emoji">${num.emoji || '🔢'}</span>
-                    <span class="picture-word">${num.word}</span>
-                    <span class="picture-hint">${num.number}</span>
-                </div>
-            `;
-        });
-        html += `</div></section>`;
-    }
-
-    // ---------- GRAMMAR (3~7세용 개선 버전) ----------
+    // ---------- GRAMMAR ----------
     if (grammar.title && grammar.content) {
         var lines = grammar.content.split('\n').filter(function(l) { return l.trim(); });
         
@@ -1603,11 +1647,67 @@ if (activities.length > 0) {
         html += `</section>`;
     }
 
+    // ============================================================
+    // 📚 REFERENCE SECTIONS (참고 섹션 - 하단에 표시)
+    // ============================================================
+
+    // ---------- FAMILY & FRIENDS (참고) ----------
+    if (family.length > 0) {
+        html += `<section id="family" class="reference"><h2>👨‍👩‍👦 Family & Friends</h2><div class="family-grid">`;
+        family.forEach(function(item) {
+            var safeWord = item.word.replace(/'/g, "\\'");
+            var safeSound = (item.sound || item.word).replace(/'/g, "\\'");
+            html += `
+                <div class="family-card" onclick="speakText('${safeSound}')">
+                    <span class="family-emoji">${item.emoji || '👤'}</span>
+                    <span class="family-word">${item.word}</span>
+                </div>
+            `;
+        });
+        html += `</div></section>`;
+    }
+
+    // ---------- NUMBERS (참고) ----------
+    if (numbers.length > 0) {
+        html += `<section id="numbers" class="reference"><h2>🔢 Numbers</h2><div class="picture-grid">`;
+        numbers.forEach(function(num) {
+            var safeWord = num.word.replace(/'/g, "\\'");
+            html += `
+                <div class="picture-card" onclick="speakText('${safeWord}')">
+                    <span class="picture-emoji">${num.emoji || '🔢'}</span>
+                    <span class="picture-word" style="font-size:1.4rem;">${num.word}</span>
+                    <span class="picture-hint">${num.number}</span>
+                </div>
+            `;
+        });
+        html += `</div></section>`;
+    }
+
+    // ---------- SOCIAL EXPRESSIONS (참고) ----------
+    if (social.length > 0) {
+        html += `<section id="social" class="reference"><h2>💬 Social Expressions</h2><div class="picture-grid">`;
+        social.forEach(function(item) {
+            var safeExpression = item.expression.replace(/'/g, "\\'");
+            var safeResponse = (item.response || '').replace(/'/g, "\\'");
+            html += `
+                <div class="picture-card" onclick="speakText('${safeExpression}')">
+                    <span class="picture-emoji">${item.emoji || '💬'}</span>
+                    <span class="picture-word" style="font-size:1.4rem;">${item.expression}</span>
+                    <span class="picture-hint">${item.hint || ''}</span>
+                    ${item.response ? `<span style="font-size:0.85rem;color:#27ae60;background:#d5f5e3;padding:2px 12px;border-radius:20px;margin-top:4px;">↪ ${item.response}</span>` : ''}
+                </div>
+            `;
+        });
+        html += `</div></section>`;
+    }
+
     document.getElementById('main-content').innerHTML = html;
     var loadingEl = document.getElementById('loading');
     if (loadingEl) loadingEl.style.display = 'none';
     buildUnitSelector();
 }
+
+
 // ---------- 유닛 선택기 ----------
 function buildUnitSelector() {
     const sel = document.getElementById('unit-selector');
