@@ -1,0 +1,314 @@
+  {
+  "title": {
+    "en": "Unit 2 · Your World",
+    "ja": "ユニット2 · あなたの世界",
+    "fr": "Unité 2 · Votre monde",
+    "ko": "유닛 2 · 당신의 세계"
+  },
+  "topic": {
+    "en": "Talking about people and where they are from",
+    "ja": "人と出身地について話す",
+    "fr": "Parler des gens et de leur origine",
+    "ko": "사람들과 그들의 출신지에 대해 말하기"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "country", "emoji": "🌍", "word": "country", "hint": "A nation", "sound": "country" },
+      { "id": "city", "emoji": "🏙️", "word": "city", "hint": "A big town", "sound": "city" },
+      { "id": "doctor", "emoji": "👨‍⚕️", "word": "doctor", "hint": "A person who helps sick people", "sound": "doctor" },
+      { "id": "teacher", "emoji": "👩‍🏫", "word": "teacher", "hint": "A person who teaches", "sound": "teacher" },
+      { "id": "hospital", "emoji": "🏥", "word": "hospital", "hint": "A place where sick people go", "sound": "hospital" },
+      { "id": "school", "emoji": "🏫", "word": "school", "hint": "A place where students learn", "sound": "school" },
+      { "id": "name", "emoji": "📝", "word": "name", "hint": "What people call you", "sound": "name" },
+      { "id": "friend", "emoji": "🤝", "word": "friend", "hint": "A person you like", "sound": "friend" },
+      { "id": "married", "emoji": "💍", "word": "married", "hint": "Husband and wife", "sound": "married" },
+      { "id": "photograph", "emoji": "🖼️", "word": "photograph", "hint": "A picture", "sound": "photograph" }
+    ],
+    "ja": [
+      { "id": "country", "emoji": "🌍", "word": "国", "hint": "国家", "sound": "くに" },
+      { "id": "city", "emoji": "🏙️", "word": "都市", "hint": "大きな町", "sound": "とし" },
+      { "id": "doctor", "emoji": "👨‍⚕️", "word": "医者", "hint": "病人を助ける人", "sound": "いしゃ" },
+      { "id": "teacher", "emoji": "👩‍🏫", "word": "先生", "hint": "教える人", "sound": "せんせい" },
+      { "id": "hospital", "emoji": "🏥", "word": "病院", "hint": "病人が行く場所", "sound": "びょういん" },
+      { "id": "school", "emoji": "🏫", "word": "学校", "hint": "生徒が学ぶ場所", "sound": "がっこう" },
+      { "id": "name", "emoji": "📝", "word": "名前", "hint": "人を呼ぶときの呼び方", "sound": "なまえ" },
+      { "id": "friend", "emoji": "🤝", "word": "友達", "hint": "好きな人", "sound": "ともだち" },
+      { "id": "married", "emoji": "💍", "word": "結婚している", "hint": "夫と妻", "sound": "けっこんしている" },
+      { "id": "photograph", "emoji": "🖼️", "word": "写真", "hint": "絵", "sound": "しゃしん" }
+    ],
+    "fr": [
+      { "id": "country", "emoji": "🌍", "word": "pays", "hint": "Une nation", "sound": "pays" },
+      { "id": "city", "emoji": "🏙️", "word": "ville", "hint": "Une grande commune", "sound": "ville" },
+      { "id": "doctor", "emoji": "👨‍⚕️", "word": "médecin", "hint": "Une personne qui soigne", "sound": "médecin" },
+      { "id": "teacher", "emoji": "👩‍🏫", "word": "professeur", "hint": "Une personne qui enseigne", "sound": "professeur" },
+      { "id": "hospital", "emoji": "🏥", "word": "hôpital", "hint": "Un lieu où vont les malades", "sound": "hôpital" },
+      { "id": "school", "emoji": "🏫", "word": "école", "hint": "Un lieu où les élèves apprennent", "sound": "école" },
+      { "id": "name", "emoji": "📝", "word": "nom", "hint": "Comment on vous appelle", "sound": "nom" },
+      { "id": "friend", "emoji": "🤝", "word": "ami", "hint": "Une personne que vous aimez", "sound": "ami" },
+      { "id": "married", "emoji": "💍", "word": "marié", "hint": "Mari et femme", "sound": "marié" },
+      { "id": "photograph", "emoji": "🖼️", "word": "photographie", "hint": "Une image", "sound": "photographie" }
+    ],
+    "ko": [
+      { "id": "country", "emoji": "🌍", "word": "나라", "hint": "국가", "sound": "나라" },
+      { "id": "city", "emoji": "🏙️", "word": "도시", "hint": "큰 마을", "sound": "도시" },
+      { "id": "doctor", "emoji": "👨‍⚕️", "word": "의사", "hint": "아픈 사람을 돕는 사람", "sound": "의사" },
+      { "id": "teacher", "emoji": "👩‍🏫", "word": "선생님", "hint": "가르치는 사람", "sound": "선생님" },
+      { "id": "hospital", "emoji": "🏥", "word": "병원", "hint": "아픈 사람이 가는 곳", "sound": "병원" },
+      { "id": "school", "emoji": "🏫", "word": "학교", "hint": "학생들이 배우는 곳", "sound": "학교" },
+      { "id": "name", "emoji": "📝", "word": "이름", "hint": "사람들이 부르는 호칭", "sound": "이름" },
+      { "id": "friend", "emoji": "🤝", "word": "친구", "hint": "좋아하는 사람", "sound": "친구" },
+      { "id": "married", "emoji": "💍", "word": "결혼한", "hint": "남편과 아내", "sound": "결혼한" },
+      { "id": "photograph", "emoji": "🖼️", "word": "사진", "hint": "그림", "sound": "사진" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "his_name", "emoji": "👨", "text": "His name's Rick.", "sound": "His name is Rick." },
+      { "id": "her_name", "emoji": "👩", "text": "Her name's Sandra.", "sound": "Her name is Sandra." },
+      { "id": "hes_from", "emoji": "🌍", "text": "He's from the United States.", "sound": "He is from the United States." },
+      { "id": "shes_from", "emoji": "🌍", "text": "She's from Spain.", "sound": "She is from Spain." },
+      { "id": "whats_his_name", "emoji": "❓", "text": "What's his name?", "sound": "What is his name?" },
+      { "id": "where_is_he", "emoji": "📍", "text": "Where's he from?", "sound": "Where is he from?" },
+      { "id": "whats_her_name", "emoji": "❓", "text": "What's her name?", "sound": "What is her name?" },
+      { "id": "where_is_she", "emoji": "📍", "text": "Where's she from?", "sound": "Where is she from?" }
+    ],
+    "ja": [
+      { "id": "his_name", "emoji": "👨", "text": "彼の名前はリックです。", "sound": "かれのなまえはリックです。" },
+      { "id": "her_name", "emoji": "👩", "text": "彼女の名前はサンドラです。", "sound": "かのじょのなまえはサンドラです。" },
+      { "id": "hes_from", "emoji": "🌍", "text": "彼はアメリカ合衆国出身です。", "sound": "かれはアメリカがっしゅうこくしゅっしんです。" },
+      { "id": "shes_from", "emoji": "🌍", "text": "彼女はスペイン出身です。", "sound": "かのじょはスペインしゅっしんです。" },
+      { "id": "whats_his_name", "emoji": "❓", "text": "彼の名前は何ですか？", "sound": "かれのなまえはなんですか？" },
+      { "id": "where_is_he", "emoji": "📍", "text": "彼はどこ出身ですか？", "sound": "かれはどこしゅっしんですか？" },
+      { "id": "whats_her_name", "emoji": "❓", "text": "彼女の名前は何ですか？", "sound": "かのじょのなまえはなんですか？" },
+      { "id": "where_is_she", "emoji": "📍", "text": "彼女はどこ出身ですか？", "sound": "かのじょはどこしゅっしんですか？" }
+    ],
+    "fr": [
+      { "id": "his_name", "emoji": "👨", "text": "Il s'appelle Rick.", "sound": "Il s'appelle Rick." },
+      { "id": "her_name", "emoji": "👩", "text": "Elle s'appelle Sandra.", "sound": "Elle s'appelle Sandra." },
+      { "id": "hes_from", "emoji": "🌍", "text": "Il vient des États-Unis.", "sound": "Il vient des États-Unis." },
+      { "id": "shes_from", "emoji": "🌍", "text": "Elle vient d'Espagne.", "sound": "Elle vient d'Espagne." },
+      { "id": "whats_his_name", "emoji": "❓", "text": "Comment s'appelle-t-il ?", "sound": "Comment s'appelle-t-il ?" },
+      { "id": "where_is_he", "emoji": "📍", "text": "D'où vient-il ?", "sound": "D'où vient-il ?" },
+      { "id": "whats_her_name", "emoji": "❓", "text": "Comment s'appelle-t-elle ?", "sound": "Comment s'appelle-t-elle ?" },
+      { "id": "where_is_she", "emoji": "📍", "text": "D'où vient-elle ?", "sound": "D'où vient-elle ?" }
+    ],
+    "ko": [
+      { "id": "his_name", "emoji": "👨", "text": "그의 이름은 릭이에요.", "sound": "그의 이름은 릭이에요." },
+      { "id": "her_name", "emoji": "👩", "text": "그녀의 이름은 산드라예요.", "sound": "그녀의 이름은 산드라예요." },
+      { "id": "hes_from", "emoji": "🌍", "text": "그는 미국 출신이에요.", "sound": "그는 미국 출신이에요." },
+      { "id": "shes_from", "emoji": "🌍", "text": "그녀는 스페인 출신이에요.", "sound": "그녀는 스페인 출신이에요." },
+      { "id": "whats_his_name", "emoji": "❓", "text": "그의 이름은 무엇인가요?", "sound": "그의 이름은 무엇인가요?" },
+      { "id": "where_is_he", "emoji": "📍", "text": "그는 어디 출신인가요?", "sound": "그는 어디 출신인가요?" },
+      { "id": "whats_her_name", "emoji": "❓", "text": "그녀의 이름은 무엇인가요?", "sound": "그녀의 이름은 무엇인가요?" },
+      { "id": "where_is_she", "emoji": "📍", "text": "그녀는 어디 출신인가요?", "sound": "그녀는 어디 출신인가요?" }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "Hello!",
+      "content": "👋 Hello. I'm Sandra. What's your name? 🙋 My name's Luis. 👥 Sandra, this is Rick. Rick, this is Sandra. 😊 Hello, Rick. Hello, Sandra. How are you? 👍 Fine, thanks. And you? ✨ Very well, thanks. Where are you from? 🌍 I'm from Spain. Where are you from? 🌍 Oh, I'm from Spain too. From Madrid.",
+      "question": "What is the boy's name?",
+      "options": [
+        { "text": "Luis", "emoji": "🙋", "correct": true },
+        { "text": "Rick", "emoji": "👨", "correct": false },
+        { "text": "Sandra", "emoji": "👩", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "こんにちは！",
+      "content": "👋 こんにちは。私はサンドラです。お名前は何ですか？ 🙋 私の名前はルイスです。 👥 サンドラさん、こちらはリックです。リックさん、こちらはサンドラさんです。 😊 こんにちは、リックさん。こんにちは、サンドラさん。お元気ですか？ 👍 元気です、ありがとう。あなたは？ ✨ とても元気です、ありがとう。どこ出身ですか？ 🌍 私はスペイン出身です。あなたは？ 🌍 ああ、私もスペイン出身です。マドリードからです。",
+      "question": "男の子の名前は何ですか？",
+      "options": [
+        { "text": "ルイス", "emoji": "🙋", "correct": true },
+        { "text": "リック", "emoji": "👨", "correct": false },
+        { "text": "サンドラ", "emoji": "👩", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "Bonjour !",
+      "content": "👋 Bonjour. Je suis Sandra. Comment vous appelez-vous ? 🙋 Je m'appelle Luis. 👥 Sandra, voici Rick. Rick, voici Sandra. 😊 Bonjour, Rick. Bonjour, Sandra. Comment allez-vous ? 👍 Bien, merci. Et vous ? ✨ Très bien, merci. D'où venez-vous ? 🌍 Je viens d'Espagne. Et vous ? 🌍 Oh, je viens d'Espagne aussi. De Madrid.",
+      "question": "Quel est le nom du garçon ?",
+      "options": [
+        { "text": "Luis", "emoji": "🙋", "correct": true },
+        { "text": "Rick", "emoji": "👨", "correct": false },
+        { "text": "Sandra", "emoji": "👩", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "안녕하세요!",
+      "content": "👋 안녕하세요. 저는 산드라예요. 이름이 무엇인가요? 🙋 제 이름은 루이스예요. 👥 산드라, 이쪽은 릭이에요. 릭, 이쪽은 산드라예요. 😊 안녕하세요, 릭. 안녕하세요, 산드라. 잘 지내요? 👍 네, 잘 지내요. 당신은요? ✨ 아주 잘 지내요, 고마워요. 어디 출신인가요? 🌍 저는 스페인 출신이에요. 당신은요? 🌍 아, 저도 스페인 출신이에요. 마드리드에서요.",
+      "question": "남자아이의 이름은 무엇인가요?",
+      "options": [
+        { "text": "루이스", "emoji": "🙋", "correct": true },
+        { "text": "릭", "emoji": "👨", "correct": false },
+        { "text": "산드라", "emoji": "👩", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the country with its city!",
+        "pairs": [
+          { "emoji": "🇯🇵", "word": "Japan → Tokyo" },
+          { "emoji": "🇫🇷", "word": "France → Paris" },
+          { "emoji": "🇪🇸", "word": "Spain → Barcelona" },
+          { "emoji": "🇮🇹", "word": "Italy → Milan" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Where is Tokyo?",
+        "target": "🇯🇵",
+        "options": ["🇯🇵", "🇫🇷", "🇪🇸", "🇮🇹"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "国と都市を合わせましょう！",
+        "pairs": [
+          { "emoji": "🇯🇵", "word": "日本 → 東京" },
+          { "emoji": "🇫🇷", "word": "フランス → パリ" },
+          { "emoji": "🇪🇸", "word": "スペイン → バルセロナ" },
+          { "emoji": "🇮🇹", "word": "イタリア → ミラノ" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "東京はどこですか？",
+        "target": "🇯🇵",
+        "options": ["🇯🇵", "🇫🇷", "🇪🇸", "🇮🇹"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez le pays à sa ville !",
+        "pairs": [
+          { "emoji": "🇯🇵", "word": "Japon → Tokyo" },
+          { "emoji": "🇫🇷", "word": "France → Paris" },
+          { "emoji": "🇪🇸", "word": "Espagne → Barcelone" },
+          { "emoji": "🇮🇹", "word": "Italie → Milan" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Où se trouve Tokyo ?",
+        "target": "🇯🇵",
+        "options": ["🇯🇵", "🇫🇷", "🇪🇸", "🇮🇹"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "나라와 도시를 연결하세요!",
+        "pairs": [
+          { "emoji": "🇯🇵", "word": "일본 → 도쿄" },
+          { "emoji": "🇫🇷", "word": "프랑스 → 파리" },
+          { "emoji": "🇪🇸", "word": "스페인 → 바르셀로나" },
+          { "emoji": "🇮🇹", "word": "이탈리아 → 밀라노" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "도쿄는 어디에 있나요?",
+        "target": "🇯🇵",
+        "options": ["🇯🇵", "🇫🇷", "🇪🇸", "🇮🇹"]
+      }
+    ]
+  },
+  "numbers": {
+    "en": [
+      { "number": 11, "word": "eleven", "emoji": "1️⃣1️⃣" },
+      { "number": 12, "word": "twelve", "emoji": "1️⃣2️⃣" },
+      { "number": 13, "word": "thirteen", "emoji": "1️⃣3️⃣" },
+      { "number": 14, "word": "fourteen", "emoji": "1️⃣4️⃣" },
+      { "number": 15, "word": "fifteen", "emoji": "1️⃣5️⃣" },
+      { "number": 16, "word": "sixteen", "emoji": "1️⃣6️⃣" },
+      { "number": 17, "word": "seventeen", "emoji": "1️⃣7️⃣" },
+      { "number": 18, "word": "eighteen", "emoji": "1️⃣8️⃣" },
+      { "number": 19, "word": "nineteen", "emoji": "1️⃣9️⃣" },
+      { "number": 20, "word": "twenty", "emoji": "2️⃣0️⃣" },
+      { "number": 21, "word": "twenty-one", "emoji": "2️⃣1️⃣" },
+      { "number": 22, "word": "twenty-two", "emoji": "2️⃣2️⃣" },
+      { "number": 23, "word": "twenty-three", "emoji": "2️⃣3️⃣" },
+      { "number": 24, "word": "twenty-four", "emoji": "2️⃣4️⃣" },
+      { "number": 25, "word": "twenty-five", "emoji": "2️⃣5️⃣" },
+      { "number": 26, "word": "twenty-six", "emoji": "2️⃣6️⃣" },
+      { "number": 27, "word": "twenty-seven", "emoji": "2️⃣7️⃣" },
+      { "number": 28, "word": "twenty-eight", "emoji": "2️⃣8️⃣" },
+      { "number": 29, "word": "twenty-nine", "emoji": "2️⃣9️⃣" },
+      { "number": 30, "word": "thirty", "emoji": "3️⃣0️⃣" }
+    ],
+    "ja": [
+      { "number": 11, "word": "十一", "emoji": "1️⃣1️⃣" },
+      { "number": 12, "word": "十二", "emoji": "1️⃣2️⃣" },
+      { "number": 13, "word": "十三", "emoji": "1️⃣3️⃣" },
+      { "number": 14, "word": "十四", "emoji": "1️⃣4️⃣" },
+      { "number": 15, "word": "十五", "emoji": "1️⃣5️⃣" },
+      { "number": 16, "word": "十六", "emoji": "1️⃣6️⃣" },
+      { "number": 17, "word": "十七", "emoji": "1️⃣7️⃣" },
+      { "number": 18, "word": "十八", "emoji": "1️⃣8️⃣" },
+      { "number": 19, "word": "十九", "emoji": "1️⃣9️⃣" },
+      { "number": 20, "word": "二十", "emoji": "2️⃣0️⃣" },
+      { "number": 21, "word": "二十一", "emoji": "2️⃣1️⃣" },
+      { "number": 22, "word": "二十二", "emoji": "2️⃣2️⃣" },
+      { "number": 23, "word": "二十三", "emoji": "2️⃣3️⃣" },
+      { "number": 24, "word": "二十四", "emoji": "2️⃣4️⃣" },
+      { "number": 25, "word": "二十五", "emoji": "2️⃣5️⃣" },
+      { "number": 26, "word": "二十六", "emoji": "2️⃣6️⃣" },
+      { "number": 27, "word": "二十七", "emoji": "2️⃣7️⃣" },
+      { "number": 28, "word": "二十八", "emoji": "2️⃣8️⃣" },
+      { "number": 29, "word": "二十九", "emoji": "2️⃣9️⃣" },
+      { "number": 30, "word": "三十", "emoji": "3️⃣0️⃣" }
+    ],
+    "fr": [
+      { "number": 11, "word": "onze", "emoji": "1️⃣1️⃣" },
+      { "number": 12, "word": "douze", "emoji": "1️⃣2️⃣" },
+      { "number": 13, "word": "treize", "emoji": "1️⃣3️⃣" },
+      { "number": 14, "word": "quatorze", "emoji": "1️⃣4️⃣" },
+      { "number": 15, "word": "quinze", "emoji": "1️⃣5️⃣" },
+      { "number": 16, "word": "seize", "emoji": "1️⃣6️⃣" },
+      { "number": 17, "word": "dix-sept", "emoji": "1️⃣7️⃣" },
+      { "number": 18, "word": "dix-huit", "emoji": "1️⃣8️⃣" },
+      { "number": 19, "word": "dix-neuf", "emoji": "1️⃣9️⃣" },
+      { "number": 20, "word": "vingt", "emoji": "2️⃣0️⃣" },
+      { "number": 21, "word": "vingt et un", "emoji": "2️⃣1️⃣" },
+      { "number": 22, "word": "vingt-deux", "emoji": "2️⃣2️⃣" },
+      { "number": 23, "word": "vingt-trois", "emoji": "2️⃣3️⃣" },
+      { "number": 24, "word": "vingt-quatre", "emoji": "2️⃣4️⃣" },
+      { "number": 25, "word": "vingt-cinq", "emoji": "2️⃣5️⃣" },
+      { "number": 26, "word": "vingt-six", "emoji": "2️⃣6️⃣" },
+      { "number": 27, "word": "vingt-sept", "emoji": "2️⃣7️⃣" },
+      { "number": 28, "word": "vingt-huit", "emoji": "2️⃣8️⃣" },
+      { "number": 29, "word": "vingt-neuf", "emoji": "2️⃣9️⃣" },
+      { "number": 30, "word": "trente", "emoji": "3️⃣0️⃣" }
+    ],
+    "ko": [
+      { "number": 11, "word": "십일", "emoji": "1️⃣1️⃣" },
+      { "number": 12, "word": "십이", "emoji": "1️⃣2️⃣" },
+      { "number": 13, "word": "십삼", "emoji": "1️⃣3️⃣" },
+      { "number": 14, "word": "십사", "emoji": "1️⃣4️⃣" },
+      { "number": 15, "word": "십오", "emoji": "1️⃣5️⃣" },
+      { "number": 16, "word": "십육", "emoji": "1️⃣6️⃣" },
+      { "number": 17, "word": "십칠", "emoji": "1️⃣7️⃣" },
+      { "number": 18, "word": "십팔", "emoji": "1️⃣8️⃣" },
+      { "number": 19, "word": "십구", "emoji": "1️⃣9️⃣" },
+      { "number": 20, "word": "이십", "emoji": "2️⃣0️⃣" },
+      { "number": 21, "word": "이십일", "emoji": "2️⃣1️⃣" },
+      { "number": 22, "word": "이십이", "emoji": "2️⃣2️⃣" },
+      { "number": 23, "word": "이십삼", "emoji": "2️⃣3️⃣" },
+      { "number": 24, "word": "이십사", "emoji": "2️⃣4️⃣" },
+      { "number": 25, "word": "이십오", "emoji": "2️⃣5️⃣" },
+      { "number": 26, "word": "이십육", "emoji": "2️⃣6️⃣" },
+      { "number": 27, "word": "이십칠", "emoji": "2️⃣7️⃣" },
+      { "number": 28, "word": "이십팔", "emoji": "2️⃣8️⃣" },
+      { "number": 29, "word": "이십구", "emoji": "2️⃣9️⃣" },
+      { "number": 30, "word": "삼십", "emoji": "3️⃣0️⃣" }
+    ]
+
+  }
+
+}

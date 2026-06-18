@@ -1,3 +1,136 @@
+위 이미지는 영어 beginner 버전 유닛 내용이야. 
+위의 이미지 내용으로 영어/일본어/프랑스어/한국어 4개 국어로 변환하고 내용을 바탕으로 
+다음 예시 틀에 맞추어 내용을 작성해줘.
+예시 틀은 영어를 기반으로 작성되었지만
+단어나 내용은 위의 이미지 내용을 각나라의 언어로 변환한 내용이 들어가야돼.
+
+예시 틀
+
+"title": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "topic": {
+    "en": "",
+    "ja": "",
+    "fr": "",
+    "ko": ""
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "book", "emoji": "📕", "word": "book", "hint": "I read a book", "sound": "book" },
+      { "id": "camera", "emoji": "📷", "word": "camera", "hint": "I take photos", "sound": "camera" },
+      { "id": "car", "emoji": "🚗", "word": "car", "hint": "I drive a car", "sound": "car" },
+      { "id": "photograph", "emoji": "🖼️", "word": "photograph", "hint": "A picture", "sound": "photograph" },
+      { "id": "computer", "emoji": "💻", "word": "computer", "hint": "I use a computer", "sound": "computer" },
+      { "id": "bag", "emoji": "👜", "word": "bag", "hint": "My school bag", "sound": "bag" },
+      { "id": "hamburger", "emoji": "🍔", "word": "hamburger", "hint": "I eat a hamburger", "sound": "hamburger" },
+      { "id": "television", "emoji": "📺", "word": "television", "hint": "I watch TV", "sound": "television" },
+      { "id": "sandwich", "emoji": "🥪", "word": "sandwich", "hint": "I eat a sandwich", "sound": "sandwich" },
+      { "id": "house", "emoji": "🏠", "word": "house", "hint": "I live in a house", "sound": "house" }
+    ],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "hello", "emoji": "👋", "text": "Hello. I'm Sandra.", "sound": "Hello. I am Sandra." },
+      { "id": "whats_your_name", "emoji": "❓", "text": "What's your name?", "sound": "What is your name?" },
+      { "id": "my_name_is", "emoji": "🙋", "text": "My name's Hiro.", "sound": "My name is Hiro." },
+      { "id": "this_is", "emoji": "👥", "text": "This is John.", "sound": "This is John." },
+      { "id": "how_are_you", "emoji": "😊", "text": "How are you?", "sound": "How are you?" },
+      { "id": "fine_thanks", "emoji": "👍", "text": "Fine, thanks. And you?", "sound": "Fine, thanks. And you?" },
+      { "id": "very_well", "emoji": "✨", "text": "Very well, thanks.", "sound": "Very well, thanks." },
+      { "id": "im_ok", "emoji": "😄", "text": "I'm OK, thanks.", "sound": "I am OK, thanks." }
+    ],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "story_time": {
+    "en": {
+      "title": "Hello!",
+      "content": "👋 Hello. I'm Sandra. What's your name? 🙋 My name's Hiro. 👥 Sandra, this is John. John, this is Hiro. 😊 Hello, John. Hello, Hiro. How are you? 👍 Fine, thanks. And you? ✨ Very well, thanks.",
+      "question": "What is the boy's name?",
+      "options": [
+        { "text": "Hiro", "emoji": "🙋", "correct": true },
+        { "text": "John", "emoji": "👥", "correct": false },
+        { "text": "Sandra", "emoji": "👩", "correct": false }
+      ]
+    },
+    "ja": {},
+    "fr": {},
+    "ko": {},
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the picture with the word!",
+        "pairs": [
+          { "emoji": "📕", "word": "book" },
+          { "emoji": "📷", "word": "camera" },
+          { "emoji": "🚗", "word": "car" },
+          { "emoji": "🖼️", "word": "photograph" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the camera! 📷",
+        "target": "📷",
+        "options": ["📕", "📷", "🚗", "🖼️"]
+      }
+    ],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  },
+  "numbers": {
+    "en": [
+      { "number": 1, "word": "one", "emoji": "1️⃣" },
+      { "number": 2, "word": "two", "emoji": "2️⃣" },
+      { "number": 3, "word": "three", "emoji": "3️⃣" },
+      { "number": 4, "word": "four", "emoji": "4️⃣" },
+      { "number": 5, "word": "five", "emoji": "5️⃣" },
+      { "number": 6, "word": "six", "emoji": "6️⃣" },
+      { "number": 7, "word": "seven", "emoji": "7️⃣" },
+      { "number": 8, "word": "eight", "emoji": "8️⃣" },
+      { "number": 9, "word": "nine", "emoji": "9️⃣" },
+      { "number": 10, "word": "ten", "emoji": "🔟" }
+    ],
+    "ja": [],
+    "fr": [],
+    "ko": []
+  }
+  
+내용을 넣은 후 다시 검토해봐. 
+"en": [], <- 영어
+"ja": [], <- 일본어
+"fr": [], <- 프랑스어
+"ko": [] <- 한국어.
+
+    나를 배려한다고 영어/일본어/프랑스어/한국어의 내용을 각국의 언어로 작성한 후 한국어나 영어 
+    등 다른 나라의 언어로 해당 국가의 언어에 대한 부가(부연) 설명을 하면 절대 안돼.
+    한마디로 
+! 작성 원칙
+"en": [], <- 영어
+"ja": [], <- 일본어
+"fr": [], <- 프랑스어
+"ko": [] <- 한국어.
+의 내용들은 영어는 영어로만 작성/일본어는 일본어로만 작성/
+프랑스어는 프랑스어로만 작성/ 한국어는 한국어로만 작성
+이 원칙이야.
+
+작성이 완료 됐으면 나에게 보여주기 전에 너가 처음부터 끝까지 해당 언어의 텍스트를 먼저 확인해 보고
+그 국가의 언어 자료로 적당하면 나에게 작성된 내용을 보여줘. 
+작성하다가 해당 국가에서 그 내용이 사용 안되는것을 알게 된 순간 처음으로 돌아가서 조건이 만족될 때까지
+처음부터 조건을 다시 검토해서 작성을 다시 해줘.
+
+
+
+
 "grammar": {
     "en": {
       "title": "Grammar Spot",
