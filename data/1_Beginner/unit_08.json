@@ -1,0 +1,480 @@
+{
+  "title": {
+    "en": "Where I live",
+    "ja": "私の住んでいる場所",
+    "fr": "Où j'habite",
+    "ko": "내가 사는 곳"
+  },
+  "topic": {
+    "en": "Rooms and furniture, There is/are, any, Prepositions, Directions",
+    "ja": "部屋と家具、There is/are、any、前置詞、道案内",
+    "fr": "Pièces et meubles, There is/are, any, Prépositions, Indications",
+    "ko": "방과 가구, There is/are, any, 전치사, 길 안내"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "living_room", "emoji": "🛋️", "word": "living room", "hint": "I watch TV in the living room", "sound": "living room" },
+      { "id": "bedroom", "emoji": "🛏️", "word": "bedroom", "hint": "I sleep in the bedroom", "sound": "bedroom" },
+      { "id": "kitchen", "emoji": "🍳", "word": "kitchen", "hint": "I cook in the kitchen", "sound": "kitchen" },
+      { "id": "bathroom", "emoji": "🚿", "word": "bathroom", "hint": "I shower in the bathroom", "sound": "bathroom" },
+      { "id": "dining_room", "emoji": "🍽️", "word": "dining room", "hint": "I eat in the dining room", "sound": "dining room" },
+      { "id": "toilet", "emoji": "🚽", "word": "toilet", "hint": "The toilet is here", "sound": "toilet" },
+      { "id": "sofa", "emoji": "🛋️", "word": "sofa", "hint": "I sit on the sofa", "sound": "sofa" },
+      { "id": "armchair", "emoji": "🪑", "word": "armchair", "hint": "I sit in the armchair", "sound": "armchair" },
+      { "id": "bed", "emoji": "🛏️", "word": "bed", "hint": "I sleep in my bed", "sound": "bed" },
+      { "id": "table", "emoji": "🪑", "word": "table", "hint": "I eat at the table", "sound": "table" },
+      { "id": "cooker", "emoji": "🍳", "word": "cooker", "hint": "I cook on the cooker", "sound": "cooker" },
+      { "id": "television", "emoji": "📺", "word": "television", "hint": "I watch television", "sound": "television" },
+      { "id": "lamp", "emoji": "💡", "word": "lamp", "hint": "There is a lamp", "sound": "lamp" },
+      { "id": "picture", "emoji": "🖼️", "word": "picture", "hint": "A picture on the wall", "sound": "picture" },
+      { "id": "magazine", "emoji": "📰", "word": "magazine", "hint": "I read a magazine", "sound": "magazine" },
+      { "id": "cd_player", "emoji": "💿", "word": "CD player", "hint": "I play CDs", "sound": "CD player" },
+      { "id": "video_recorder", "emoji": "📼", "word": "video recorder", "hint": "I watch videos", "sound": "video recorder" }
+    ],
+    "ja": [
+      { "id": "living_room", "emoji": "🛋️", "word": "リビングルーム", "hint": "リビングでテレビを見ます", "sound": "リビングルーム" },
+      { "id": "bedroom", "emoji": "🛏️", "word": "寝室", "hint": "寝室で寝ます", "sound": "しんしつ" },
+      { "id": "kitchen", "emoji": "🍳", "word": "キッチン", "hint": "キッチンで料理をします", "sound": "キッチン" },
+      { "id": "bathroom", "emoji": "🚿", "word": "バスルーム", "hint": "バスルームでシャワーを浴びます", "sound": "バスルーム" },
+      { "id": "dining_room", "emoji": "🍽️", "word": "ダイニングルーム", "hint": "ダイニングで食事をします", "sound": "ダイニングルーム" },
+      { "id": "toilet", "emoji": "🚽", "word": "トイレ", "hint": "トイレはここです", "sound": "トイレ" },
+      { "id": "sofa", "emoji": "🛋️", "word": "ソファ", "hint": "ソファに座ります", "sound": "ソファ" },
+      { "id": "armchair", "emoji": "🪑", "word": "アームチェア", "hint": "アームチェアに座ります", "sound": "アームチェア" },
+      { "id": "bed", "emoji": "🛏️", "word": "ベッド", "hint": "ベッドで寝ます", "sound": "ベッド" },
+      { "id": "table", "emoji": "🪑", "word": "テーブル", "hint": "テーブルで食事をします", "sound": "テーブル" },
+      { "id": "cooker", "emoji": "🍳", "word": "コンロ", "hint": "コンロで料理をします", "sound": "コンロ" },
+      { "id": "television", "emoji": "📺", "word": "テレビ", "hint": "テレビを見ます", "sound": "テレビ" },
+      { "id": "lamp", "emoji": "💡", "word": "ランプ", "hint": "ランプがあります", "sound": "ランプ" },
+      { "id": "picture", "emoji": "🖼️", "word": "絵", "hint": "壁に絵があります", "sound": "え" },
+      { "id": "magazine", "emoji": "📰", "word": "雑誌", "hint": "雑誌を読みます", "sound": "ざっし" },
+      { "id": "cd_player", "emoji": "💿", "word": "CDプレーヤー", "hint": "CDをかけます", "sound": "CDプレーヤー" },
+      { "id": "video_recorder", "emoji": "📼", "word": "ビデオレコーダー", "hint": "ビデオを見ます", "sound": "ビデオレコーダー" }
+    ],
+    "fr": [
+      { "id": "living_room", "emoji": "🛋️", "word": "salon", "hint": "Je regarde la télé dans le salon", "sound": "salon" },
+      { "id": "bedroom", "emoji": "🛏️", "word": "chambre", "hint": "Je dors dans la chambre", "sound": "chambre" },
+      { "id": "kitchen", "emoji": "🍳", "word": "cuisine", "hint": "Je cuisine dans la cuisine", "sound": "cuisine" },
+      { "id": "bathroom", "emoji": "🚿", "word": "salle de bains", "hint": "Je me douche dans la salle de bains", "sound": "salle de bains" },
+      { "id": "dining_room", "emoji": "🍽️", "word": "salle à manger", "hint": "Je mange dans la salle à manger", "sound": "salle à manger" },
+      { "id": "toilet", "emoji": "🚽", "word": "toilettes", "hint": "Les toilettes sont ici", "sound": "toilettes" },
+      { "id": "sofa", "emoji": "🛋️", "word": "canapé", "hint": "Je m'assois sur le canapé", "sound": "canapé" },
+      { "id": "armchair", "emoji": "🪑", "word": "fauteuil", "hint": "Je m'assois dans le fauteuil", "sound": "fauteuil" },
+      { "id": "bed", "emoji": "🛏️", "word": "lit", "hint": "Je dors dans mon lit", "sound": "lit" },
+      { "id": "table", "emoji": "🪑", "word": "table", "hint": "Je mange à la table", "sound": "table" },
+      { "id": "cooker", "emoji": "🍳", "word": "cuisinière", "hint": "Je cuisine sur la cuisinière", "sound": "cuisinière" },
+      { "id": "television", "emoji": "📺", "word": "télévision", "hint": "Je regarde la télévision", "sound": "télévision" },
+      { "id": "lamp", "emoji": "💡", "word": "lampe", "hint": "Il y a une lampe", "sound": "lampe" },
+      { "id": "picture", "emoji": "🖼️", "word": "tableau", "hint": "Un tableau au mur", "sound": "tableau" },
+      { "id": "magazine", "emoji": "📰", "word": "magazine", "hint": "Je lis un magazine", "sound": "magazine" },
+      { "id": "cd_player", "emoji": "💿", "word": "lecteur CD", "hint": "Je joue des CD", "sound": "lecteur CD" },
+      { "id": "video_recorder", "emoji": "📼", "word": "magnétoscope", "hint": "Je regarde des vidéos", "sound": "magnétoscope" }
+    ],
+    "ko": [
+      { "id": "living_room", "emoji": "🛋️", "word": "거실", "hint": "거실에서 TV를 봅니다", "sound": "거실" },
+      { "id": "bedroom", "emoji": "🛏️", "word": "침실", "hint": "침실에서 잠을 잡니다", "sound": "침실" },
+      { "id": "kitchen", "emoji": "🍳", "word": "부엌", "hint": "부엌에서 요리합니다", "sound": "부엌" },
+      { "id": "bathroom", "emoji": "🚿", "word": "욕실", "hint": "욕실에서 샤워를 합니다", "sound": "욕실" },
+      { "id": "dining_room", "emoji": "🍽️", "word": "식당", "hint": "식당에서 식사를 합니다", "sound": "식당" },
+      { "id": "toilet", "emoji": "🚽", "word": "화장실", "hint": "화장실은 여기입니다", "sound": "화장실" },
+      { "id": "sofa", "emoji": "🛋️", "word": "소파", "hint": "소파에 앉습니다", "sound": "소파" },
+      { "id": "armchair", "emoji": "🪑", "word": "안락의자", "hint": "안락의자에 앉습니다", "sound": "안락의자" },
+      { "id": "bed", "emoji": "🛏️", "word": "침대", "hint": "침대에서 잠을 잡니다", "sound": "침대" },
+      { "id": "table", "emoji": "🪑", "word": "테이블", "hint": "테이블에서 식사를 합니다", "sound": "테이블" },
+      { "id": "cooker", "emoji": "🍳", "word": "가스레인지", "hint": "가스레인지에서 요리합니다", "sound": "가스레인지" },
+      { "id": "television", "emoji": "📺", "word": "텔레비전", "hint": "텔레비전을 봅니다", "sound": "텔레비전" },
+      { "id": "lamp", "emoji": "💡", "word": "램프", "hint": "램프가 있습니다", "sound": "램프" },
+      { "id": "picture", "emoji": "🖼️", "word": "그림", "hint": "벽에 그림이 있습니다", "sound": "그림" },
+      { "id": "magazine", "emoji": "📰", "word": "잡지", "hint": "잡지를 읽습니다", "sound": "잡지" },
+      { "id": "cd_player", "emoji": "💿", "word": "CD 플레이어", "hint": "CD를 틀어놓습니다", "sound": "CD 플레이어" },
+      { "id": "video_recorder", "emoji": "📼", "word": "비디오 녹화기", "hint": "비디오를 봅니다", "sound": "비디오 녹화기" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "there_is_a_sofa", "emoji": "🛋️", "text": "There's a sofa.", "sound": "There's a sofa." },
+      { "id": "there_are_armchairs", "emoji": "🪑", "text": "There are two armchairs.", "sound": "There are two armchairs." },
+      { "id": "is_there_a_tv", "emoji": "📺", "text": "Is there a TV?", "sound": "Is there a TV?" },
+      { "id": "are_there_any_pictures", "emoji": "🖼️", "text": "Are there any pictures?", "sound": "Are there any pictures?" },
+      { "id": "yes_there_is", "emoji": "✅", "text": "Yes, there is.", "sound": "Yes, there is." },
+      { "id": "no_there_isnt", "emoji": "❌", "text": "No, there isn't.", "sound": "No, there isn't." },
+      { "id": "yes_there_are", "emoji": "✅", "text": "Yes, there are.", "sound": "Yes, there are." },
+      { "id": "no_there_arent", "emoji": "❌", "text": "No, there aren't.", "sound": "No, there aren't." },
+      { "id": "where_is_cd_player", "emoji": "💿", "text": "Where's the CD player?", "sound": "Where's the CD player?" },
+      { "id": "on_the_floor", "emoji": "⬇️", "text": "It's on the floor.", "sound": "It's on the floor." }
+    ],
+    "ja": [
+      { "id": "there_is_a_sofa", "emoji": "🛋️", "text": "ソファがあります。", "sound": "ソファがあります。" },
+      { "id": "there_are_armchairs", "emoji": "🪑", "text": "アームチェアが二つあります。", "sound": "アームチェアがふたつあります。" },
+      { "id": "is_there_a_tv", "emoji": "📺", "text": "テレビはありますか？", "sound": "テレビはありますか？" },
+      { "id": "are_there_any_pictures", "emoji": "🖼️", "text": "絵はありますか？", "sound": "えはありますか？" },
+      { "id": "yes_there_is", "emoji": "✅", "text": "はい、あります。", "sound": "はい、あります。" },
+      { "id": "no_there_isnt", "emoji": "❌", "text": "いいえ、ありません。", "sound": "いいえ、ありません。" },
+      { "id": "yes_there_are", "emoji": "✅", "text": "はい、あります。", "sound": "はい、あります。" },
+      { "id": "no_there_arent", "emoji": "❌", "text": "いいえ、ありません。", "sound": "いいえ、ありません。" },
+      { "id": "where_is_cd_player", "emoji": "💿", "text": "CDプレーヤーはどこにありますか？", "sound": "CDプレーヤーはどこにありますか？" },
+      { "id": "on_the_floor", "emoji": "⬇️", "text": "床の上にあります。", "sound": "ゆかのうえにあります。" }
+    ],
+    "fr": [
+      { "id": "there_is_a_sofa", "emoji": "🛋️", "text": "Il y a un canapé.", "sound": "Il y a un canapé." },
+      { "id": "there_are_armchairs", "emoji": "🪑", "text": "Il y a deux fauteuils.", "sound": "Il y a deux fauteuils." },
+      { "id": "is_there_a_tv", "emoji": "📺", "text": "Est-ce qu'il y a une télé ?", "sound": "Est-ce qu'il y a une télé ?" },
+      { "id": "are_there_any_pictures", "emoji": "🖼️", "text": "Est-ce qu'il y a des tableaux ?", "sound": "Est-ce qu'il y a des tableaux ?" },
+      { "id": "yes_there_is", "emoji": "✅", "text": "Oui, il y en a.", "sound": "Oui, il y en a." },
+      { "id": "no_there_isnt", "emoji": "❌", "text": "Non, il n'y en a pas.", "sound": "Non, il n'y en a pas." },
+      { "id": "yes_there_are", "emoji": "✅", "text": "Oui, il y en a.", "sound": "Oui, il y en a." },
+      { "id": "no_there_arent", "emoji": "❌", "text": "Non, il n'y en a pas.", "sound": "Non, il n'y en a pas." },
+      { "id": "where_is_cd_player", "emoji": "💿", "text": "Où est le lecteur CD ?", "sound": "Où est le lecteur CD ?" },
+      { "id": "on_the_floor", "emoji": "⬇️", "text": "Il est par terre.", "sound": "Il est par terre." }
+    ],
+    "ko": [
+      { "id": "there_is_a_sofa", "emoji": "🛋️", "text": "소파가 있습니다.", "sound": "소파가 있습니다." },
+      { "id": "there_are_armchairs", "emoji": "🪑", "text": "안락의자가 두 개 있습니다.", "sound": "안락의자가 두 개 있습니다." },
+      { "id": "is_there_a_tv", "emoji": "📺", "text": "TV가 있나요?", "sound": "TV가 있나요?" },
+      { "id": "are_there_any_pictures", "emoji": "🖼️", "text": "그림이 있나요?", "sound": "그림이 있나요?" },
+      { "id": "yes_there_is", "emoji": "✅", "text": "네, 있습니다.", "sound": "네, 있습니다." },
+      { "id": "no_there_isnt", "emoji": "❌", "text": "아니요, 없습니다.", "sound": "아니요, 없습니다." },
+      { "id": "yes_there_are", "emoji": "✅", "text": "네, 있습니다.", "sound": "네, 있습니다." },
+      { "id": "no_there_arent", "emoji": "❌", "text": "아니요, 없습니다.", "sound": "아니요, 없습니다." },
+      { "id": "where_is_cd_player", "emoji": "💿", "text": "CD 플레이어는 어디에 있나요?", "sound": "CD 플레이어는 어디에 있나요?" },
+      { "id": "on_the_floor", "emoji": "⬇️", "text": "바닥에 있습니다.", "sound": "바닥에 있습니다." }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "Nicole's Living Room",
+      "content": "🛋️ My living room isn't very big, but I love it. There's a sofa, and there are two armchairs. 📺 There's a small table with a TV on it, and there are a lot of books. 💿 There's a CD player, and there are some CDs. 🖼️ There are pictures on the wall, and there are two lamps. It's a very comfortable room.",
+      "question": "How many armchairs are there?",
+      "options": [
+        { "text": "Two", "emoji": "🪑", "correct": true },
+        { "text": "One", "emoji": "🛋️", "correct": false },
+        { "text": "Three", "emoji": "🪑🪑🪑", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "ニコールのリビングルーム",
+      "content": "🛋️ 私のリビングルームはとても大きくありませんが、大好きです。ソファがあり、アームチェアが二つあります。📺 テレビが置いてある小さなテーブルがあり、たくさんの本があります。💿 CDプレーヤーがあり、何枚かのCDがあります。🖼️ 壁に絵があり、ランプが二つあります。とても居心地のいい部屋です。",
+      "question": "アームチェアはいくつありますか？",
+      "options": [
+        { "text": "二つ", "emoji": "🪑", "correct": true },
+        { "text": "一つ", "emoji": "🛋️", "correct": false },
+        { "text": "三つ", "emoji": "🪑🪑🪑", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "Le salon de Nicole",
+      "content": "🛋️ Mon salon n'est pas très grand, mais je l'adore. Il y a un canapé et il y a deux fauteuils. 📺 Il y a une petite table avec une télé dessus, et il y a beaucoup de livres. 💿 Il y a un lecteur CD et il y a des CD. 🖼️ Il y a des tableaux au mur et il y a deux lampes. C'est une pièce très confortable.",
+      "question": "Combien y a-t-il de fauteuils ?",
+      "options": [
+        { "text": "Deux", "emoji": "🪑", "correct": true },
+        { "text": "Un", "emoji": "🛋️", "correct": false },
+        { "text": "Trois", "emoji": "🪑🪑🪑", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "니콜의 거실",
+      "content": "🛋️ 제 거실은 아주 크지 않지만, 정말 좋아합니다. 소파가 하나 있고, 안락의자가 두 개 있습니다. 📺 TV가 놓인 작은 테이블이 있고, 책이 많이 있습니다. 💿 CD 플레이어가 있고, CD도 몇 장 있습니다. 🖼️ 벽에 그림이 있고, 램프가 두 개 있습니다. 아주 편안한 방입니다.",
+      "question": "안락의자는 몇 개 있나요?",
+      "options": [
+        { "text": "두 개", "emoji": "🪑", "correct": true },
+        { "text": "한 개", "emoji": "🛋️", "correct": false },
+        { "text": "세 개", "emoji": "🪑🪑🪑", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the room with the word! 🖐️ Drag and drop!",
+        "pairs": [
+          { "emoji": "🛋️", "word": "living room" },
+          { "emoji": "🛏️", "word": "bedroom" },
+          { "emoji": "🍳", "word": "kitchen" },
+          { "emoji": "🚿", "word": "bathroom" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the bed! 🛏️",
+        "target": "🛏️",
+        "options": ["🛋️", "🛏️", "🍳", "🚿"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "部屋と単語を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "pairs": [
+          { "emoji": "🛋️", "word": "リビングルーム" },
+          { "emoji": "🛏️", "word": "寝室" },
+          { "emoji": "🍳", "word": "キッチン" },
+          { "emoji": "🚿", "word": "バスルーム" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "ベッドを見つけてください！ 🛏️",
+        "target": "🛏️",
+        "options": ["🛋️", "🛏️", "🍳", "🚿"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez la pièce avec le mot ! 🖐️ Glissez-déposez !",
+        "pairs": [
+          { "emoji": "🛋️", "word": "salon" },
+          { "emoji": "🛏️", "word": "chambre" },
+          { "emoji": "🍳", "word": "cuisine" },
+          { "emoji": "🚿", "word": "salle de bains" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouvez le lit ! 🛏️",
+        "target": "🛏️",
+        "options": ["🛋️", "🛏️", "🍳", "🚿"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "방과 단어를 맞춰보세요! 🖐️ 드래그해서 연결하세요!",
+        "pairs": [
+          { "emoji": "🛋️", "word": "거실" },
+          { "emoji": "🛏️", "word": "침실" },
+          { "emoji": "🍳", "word": "부엌" },
+          { "emoji": "🚿", "word": "욕실" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "침대를 찾아보세요! 🛏️",
+        "target": "🛏️",
+        "options": ["🛋️", "🛏️", "🍳", "🚿"]
+      }
+    ]
+  },
+  "grammar": {
+    "en": {
+      "title": "Grammar Spot",
+      "content": "• Positive: There's a sofa. / There are two armchairs.\n• Question: Is there a TV? / Are there any pictures?\n• Negative: There isn't a computer. / There aren't any photographs.\n• Prepositions: in, on, under, next to"
+    },
+    "ja": {
+      "title": "文法のポイント",
+      "content": "• 肯定文: There's a sofa.（ソファがあります。） / There are two armchairs.（アームチェアが二つあります。）\n• 疑問文: Is there a TV?（テレビはありますか？） / Are there any pictures?（絵はありますか？）\n• 否定文: There isn't a computer.（コンピューターはありません。） / There aren't any photographs.（写真はありません。）\n• 前置詞: in（～の中に）, on（～の上に）, under（～の下に）, next to（～の隣に）"
+    },
+    "fr": {
+      "title": "Point de Grammaire",
+      "content": "• Positif: There's a sofa. / There are two armchairs.\n• Question: Is there a TV? / Are there any pictures?\n• Négatif: There isn't a computer. / There aren't any photographs.\n• Prépositions: in, on, under, next to"
+    },
+    "ko": {
+      "title": "문법 포인트",
+      "content": "• 긍정문: There's a sofa. (소파가 있습니다.) / There are two armchairs. (안락의자가 두 개 있습니다.)\n• 의문문: Is there a TV? (TV가 있나요?) / Are there any pictures? (그림이 있나요?)\n• 부정문: There isn't a computer. (컴퓨터가 없습니다.) / There aren't any photographs. (사진이 없습니다.)\n• 전치사: in (~ 안에), on (~ 위에), under (~ 아래에), next to (~ 옆에)"
+    }
+  },
+  "prepositions": {
+      "en": [
+    { "preposition": "in", "emoji": "📦", "example": "in the drawer", "meaning": "inside" },
+    { "preposition": "on", "emoji": "⬆️", "example": "on the bed", "meaning": "on top of" },
+    { "preposition": "under", "emoji": "⬇️", "example": "under the table", "meaning": "below" },
+    { "preposition": "next to", "emoji": "↔️", "example": "next to the bed", "meaning": "beside" }
+  ],
+  "fr": [
+    { "preposition": "dans", "emoji": "📦", "example": "dans le tiroir", "meaning": "à l'intérieur" },
+    { "preposition": "sur", "emoji": "⬆️", "example": "sur le lit", "meaning": "au-dessus" },
+    { "preposition": "sous", "emoji": "⬇️", "example": "sous la table", "meaning": "en dessous" },
+    { "preposition": "à côté de", "emoji": "↔️", "example": "à côté du lit", "meaning": "à côté" }
+  ],
+  "ja": [
+    { "preposition": "に", "emoji": "📦", "example": "引き出しの中に", "meaning": "～の中に" },
+    { "preposition": "に", "emoji": "⬆️", "example": "ベッドの上に", "meaning": "～の上に" },
+    { "preposition": "に", "emoji": "⬇️", "example": "テーブルの下に", "meaning": "～の下に" },
+    { "preposition": "に", "emoji": "↔️", "example": "ベッドの隣に", "meaning": "～の隣に" }
+  ],
+  "ko": [
+    { "preposition": "~안에", "emoji": "📦", "example": "서랍 안에", "meaning": "~ 안에" },
+    { "preposition": "~위에", "emoji": "⬆️", "example": "침대 위에", "meaning": "~ 위에" },
+    { "preposition": "~아래에", "emoji": "⬇️", "example": "테이블 아래에", "meaning": "~ 아래에" },
+    { "preposition": "~옆에", "emoji": "↔️", "example": "침대 옆에", "meaning": "~ 옆에" }
+  ]
+  },
+  "directions": {
+    "en": [
+      { "direction": "go straight on", "emoji": "⬆️", "meaning": "go forward" },
+      { "direction": "turn right", "emoji": "➡️", "meaning": "go right" },
+      { "direction": "turn left", "emoji": "⬅️", "meaning": "go left" }
+    ],
+    "ja": [
+      { "direction": "まっすぐ行く", "emoji": "⬆️", "meaning": "直進する" },
+      { "direction": "右に曲がる", "emoji": "➡️", "meaning": "右へ進む" },
+      { "direction": "左に曲がる", "emoji": "⬅️", "meaning": "左へ進む" }
+    ],
+    "fr": [
+      { "direction": "tout droit", "emoji": "⬆️", "meaning": "aller tout droit" },
+      { "direction": "tourner à droite", "emoji": "➡️", "meaning": "aller à droite" },
+      { "direction": "tourner à gauche", "emoji": "⬅️", "meaning": "aller à gauche" }
+    ],
+    "ko": [
+      { "direction": "곧장 가다", "emoji": "⬆️", "meaning": "직진하다" },
+      { "direction": "오른쪽으로 돌다", "emoji": "➡️", "meaning": "우회전하다" },
+      { "direction": "왼쪽으로 돌다", "emoji": "⬅️", "meaning": "좌회전하다" }
+    ]
+  },
+  "practice_conversations": {
+    "en": [
+      {
+        "title": "Nicole's Living Room",
+        "lines": [
+          { "speaker": "A", "text": "Is there a TV?" },
+          { "speaker": "B", "text": "Yes, there is." },
+          { "speaker": "A", "text": "Are there any pictures?" },
+          { "speaker": "B", "text": "Yes, there are." },
+          { "speaker": "A", "text": "Is there a telephone?" },
+          { "speaker": "B", "text": "No, there isn't." }
+        ]
+      },
+      {
+        "title": "Where are Nicole's things?",
+        "lines": [
+          { "speaker": "A", "text": "Where's the CD player?" },
+          { "speaker": "B", "text": "It's on the floor next to the bed." },
+          { "speaker": "A", "text": "Where are her car keys?" },
+          { "speaker": "B", "text": "They're in the drawer." },
+          { "speaker": "A", "text": "Where's her bag?" },
+          { "speaker": "B", "text": "It's on the floor next to the chair." }
+        ]
+      },
+      {
+        "title": "Asking for Directions",
+        "lines": [
+          { "speaker": "A", "text": "How do I get to the bus station?" },
+          { "speaker": "B", "text": "Go out of the school. Turn right." },
+          { "speaker": "A", "text": "Is it far?" },
+          { "speaker": "B", "text": "About ten minutes." }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "ニコールのリビングルーム",
+        "lines": [
+          { "speaker": "A", "text": "テレビはありますか？" },
+          { "speaker": "B", "text": "はい、あります。" },
+          { "speaker": "A", "text": "絵はありますか？" },
+          { "speaker": "B", "text": "はい、あります。" },
+          { "speaker": "A", "text": "電話はありますか？" },
+          { "speaker": "B", "text": "いいえ、ありません。" }
+        ]
+      },
+      {
+        "title": "ニコールのものはどこにありますか？",
+        "lines": [
+          { "speaker": "A", "text": "CDプレーヤーはどこにありますか？" },
+          { "speaker": "B", "text": "ベッドの隣の床の上にあります。" },
+          { "speaker": "A", "text": "彼女の車の鍵はどこにありますか？" },
+          { "speaker": "B", "text": "引き出しの中にあります。" },
+          { "speaker": "A", "text": "彼女のバッグはどこにありますか？" },
+          { "speaker": "B", "text": "椅子の隣の床の上にあります。" }
+        ]
+      },
+      {
+        "title": "道を尋ねる",
+        "lines": [
+          { "speaker": "A", "text": "バス停にはどうやって行きますか？" },
+          { "speaker": "B", "text": "学校を出て右に曲がってください。" },
+          { "speaker": "A", "text": "遠いですか？" },
+          { "speaker": "B", "text": "約10分です。" }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "Le salon de Nicole",
+        "lines": [
+          { "speaker": "A", "text": "Est-ce qu'il y a une télé ?" },
+          { "speaker": "B", "text": "Oui, il y en a une." },
+          { "speaker": "A", "text": "Est-ce qu'il y a des tableaux ?" },
+          { "speaker": "B", "text": "Oui, il y en a." },
+          { "speaker": "A", "text": "Est-ce qu'il y a un téléphone ?" },
+          { "speaker": "B", "text": "Non, il n'y en a pas." }
+        ]
+      },
+      {
+        "title": "Où sont les affaires de Nicole ?",
+        "lines": [
+          { "speaker": "A", "text": "Où est le lecteur CD ?" },
+          { "speaker": "B", "text": "Il est par terre à côté du lit." },
+          { "speaker": "A", "text": "Où sont ses clés de voiture ?" },
+          { "speaker": "B", "text": "Elles sont dans le tiroir." },
+          { "speaker": "A", "text": "Où est son sac ?" },
+          { "speaker": "B", "text": "Il est par terre à côté de la chaise." }
+        ]
+      },
+      {
+        "title": "Demander son chemin",
+        "lines": [
+          { "speaker": "A", "text": "Comment aller à la gare routière ?" },
+          { "speaker": "B", "text": "Sortez de l'école. Tournez à droite." },
+          { "speaker": "A", "text": "C'est loin ?" },
+          { "speaker": "B", "text": "Environ dix minutes." }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "니콜의 거실",
+        "lines": [
+          { "speaker": "A", "text": "TV가 있나요?" },
+          { "speaker": "B", "text": "네, 있습니다." },
+          { "speaker": "A", "text": "그림이 있나요?" },
+          { "speaker": "B", "text": "네, 있습니다." },
+          { "speaker": "A", "text": "전화기가 있나요?" },
+          { "speaker": "B", "text": "아니요, 없습니다." }
+        ]
+      },
+      {
+        "title": "니콜의 물건들은 어디에 있나요?",
+        "lines": [
+          { "speaker": "A", "text": "CD 플레이어는 어디에 있나요?" },
+          { "speaker": "B", "text": "침대 옆 바닥에 있습니다." },
+          { "speaker": "A", "text": "그녀의 자동차 열쇠는 어디에 있나요?" },
+          { "speaker": "B", "text": "서랍 안에 있습니다." },
+          { "speaker": "A", "text": "그녀의 가방은 어디에 있나요?" },
+          { "speaker": "B", "text": "의자 옆 바닥에 있습니다." }
+        ]
+      },
+      {
+        "title": "길 묻기",
+        "lines": [
+          { "speaker": "A", "text": "버스 정류장에 어떻게 가나요?" },
+          { "speaker": "B", "text": "학교를 나와서 오른쪽으로 돌아가세요." },
+          { "speaker": "A", "text": "멀어요?" },
+          { "speaker": "B", "text": "약 10분 정도입니다." }
+        ]
+      }
+    ]
+  },
+  "social_expressions": {
+    "en": [
+      { "id": "is_there", "emoji": "❓", "expression": "Is there a...?", "hint": "asking about singular", "response": "Yes, there is. / No, there isn't." },
+      { "id": "are_there", "emoji": "❓", "expression": "Are there any...?", "hint": "asking about plural", "response": "Yes, there are. / No, there aren't." },
+      { "id": "where_is", "emoji": "📍", "expression": "Where is the...?", "hint": "asking location", "response": "It's in/on/under/next to..." }
+    ],
+    "ja": [
+      { "id": "is_there", "emoji": "❓", "expression": "〜はありますか？（単数）", "hint": "単数のものを尋ねる", "response": "はい、あります。／いいえ、ありません。" },
+      { "id": "are_there", "emoji": "❓", "expression": "〜はありますか？（複数）", "hint": "複数のものを尋ねる", "response": "はい、あります。／いいえ、ありません。" },
+      { "id": "where_is", "emoji": "📍", "expression": "〜はどこにありますか？", "hint": "場所を尋ねる", "response": "〜の中に／上に／下に／隣にあります。" }
+    ],
+    "fr": [
+      { "id": "is_there", "emoji": "❓", "expression": "Est-ce qu'il y a... ?", "hint": "demander au singulier", "response": "Oui, il y en a. / Non, il n'y en a pas." },
+      { "id": "are_there", "emoji": "❓", "expression": "Est-ce qu'il y a des... ?", "hint": "demander au pluriel", "response": "Oui, il y en a. / Non, il n'y en a pas." },
+      { "id": "where_is", "emoji": "📍", "expression": "Où est... ?", "hint": "demander l'emplacement", "response": "C'est dans/sur/sous/à côté de..." }
+    ],
+    "ko": [
+      { "id": "is_there", "emoji": "❓", "expression": "~이/가 있나요? (단수)", "hint": "단수 명사 묻기", "response": "네, 있습니다. / 아니요, 없습니다." },
+      { "id": "are_there", "emoji": "❓", "expression": "~이/가 있나요? (복수)", "hint": "복수 명사 묻기", "response": "네, 있습니다. / 아니요, 없습니다." },
+      { "id": "where_is", "emoji": "📍", "expression": "~은/는 어디에 있나요?", "hint": "위치 묻기", "response": "~ 안에/위에/아래에/옆에 있습니다." }
+    ]
+  }
+}

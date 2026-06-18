@@ -1,0 +1,540 @@
+{
+  "title": {
+    "en": "It's my life!",
+    "ja": "それが私の人生！",
+    "fr": "C'est ma vie !",
+    "ko": "그것이 내 인생이야!"
+  },
+  "topic": {
+    "en": "Sports, food, drinks, Present Simple (I/you/they), a/an, languages and nationalities, numbers and prices",
+    "ja": "スポーツ、食べ物、飲み物、現在形（I/you/they）、a/an、言語と国籍、数字と価格",
+    "fr": "Sports, nourriture, boissons, Présent Simple (I/you/they), a/an, langues et nationalités, nombres et prix",
+    "ko": "스포츠, 음식, 음료, 현재시제 (I/you/they), a/an, 언어와 국적, 숫자와 가격"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "tennis", "emoji": "🎾", "word": "tennis", "hint": "I play tennis", "sound": "tennis" },
+      { "id": "football", "emoji": "⚽", "word": "football", "hint": "I play football", "sound": "football" },
+      { "id": "swimming", "emoji": "🏊", "word": "swimming", "hint": "I go swimming", "sound": "swimming" },
+      { "id": "skiing", "emoji": "⛷️", "word": "skiing", "hint": "I go skiing", "sound": "skiing" },
+      { "id": "pizza", "emoji": "🍕", "word": "pizza", "hint": "I eat pizza", "sound": "pizza" },
+      { "id": "hamburger", "emoji": "🍔", "word": "hamburger", "hint": "I eat hamburgers", "sound": "hamburger" },
+      { "id": "orange", "emoji": "🍊", "word": "orange", "hint": "I eat oranges", "sound": "orange" },
+      { "id": "ice_cream", "emoji": "🍦", "word": "ice-cream", "hint": "I eat ice-cream", "sound": "ice-cream" },
+      { "id": "tea", "emoji": "🍵", "word": "tea", "hint": "I drink tea", "sound": "tea" },
+      { "id": "coffee", "emoji": "☕", "word": "coffee", "hint": "I drink coffee", "sound": "coffee" },
+      { "id": "coca_cola", "emoji": "🥤", "word": "Coca-Cola", "hint": "I drink Coca-Cola", "sound": "Coca-Cola" },
+      { "id": "beer", "emoji": "🍺", "word": "beer", "hint": "I drink beer", "sound": "beer" },
+      { "id": "wine", "emoji": "🍷", "word": "wine", "hint": "I drink wine", "sound": "wine" },
+      { "id": "italian_food", "emoji": "🍝", "word": "Italian food", "hint": "I like Italian food", "sound": "Italian food" },
+      { "id": "chinese_food", "emoji": "🥢", "word": "Chinese food", "hint": "I like Chinese food", "sound": "Chinese food" }
+    ],
+    "ja": [
+      { "id": "tennis", "emoji": "🎾", "word": "テニス", "hint": "テニスをします", "sound": "テニス" },
+      { "id": "football", "emoji": "⚽", "word": "サッカー", "hint": "サッカーをします", "sound": "サッカー" },
+      { "id": "swimming", "emoji": "🏊", "word": "水泳", "hint": "泳ぎに行きます", "sound": "すいえい" },
+      { "id": "skiing", "emoji": "⛷️", "word": "スキー", "hint": "スキーに行きます", "sound": "スキー" },
+      { "id": "pizza", "emoji": "🍕", "word": "ピザ", "hint": "ピザを食べます", "sound": "ピザ" },
+      { "id": "hamburger", "emoji": "🍔", "word": "ハンバーガー", "hint": "ハンバーガーを食べます", "sound": "ハンバーガー" },
+      { "id": "orange", "emoji": "🍊", "word": "オレンジ", "hint": "オレンジを食べます", "sound": "オレンジ" },
+      { "id": "ice_cream", "emoji": "🍦", "word": "アイスクリーム", "hint": "アイスクリームを食べます", "sound": "アイスクリーム" },
+      { "id": "tea", "emoji": "🍵", "word": "お茶", "hint": "お茶を飲みます", "sound": "おちゃ" },
+      { "id": "coffee", "emoji": "☕", "word": "コーヒー", "hint": "コーヒーを飲みます", "sound": "コーヒー" },
+      { "id": "coca_cola", "emoji": "🥤", "word": "コカコーラ", "hint": "コカコーラを飲みます", "sound": "コカコーラ" },
+      { "id": "beer", "emoji": "🍺", "word": "ビール", "hint": "ビールを飲みます", "sound": "ビール" },
+      { "id": "wine", "emoji": "🍷", "word": "ワイン", "hint": "ワインを飲みます", "sound": "ワイン" },
+      { "id": "italian_food", "emoji": "🍝", "word": "イタリア料理", "hint": "イタリア料理が好きです", "sound": "イタリアりょうり" },
+      { "id": "chinese_food", "emoji": "🥢", "word": "中華料理", "hint": "中華料理が好きです", "sound": "ちゅうかりょうり" }
+    ],
+    "fr": [
+      { "id": "tennis", "emoji": "🎾", "word": "tennis", "hint": "Je joue au tennis", "sound": "tennis" },
+      { "id": "football", "emoji": "⚽", "word": "football", "hint": "Je joue au football", "sound": "football" },
+      { "id": "swimming", "emoji": "🏊", "word": "natation", "hint": "Je fais de la natation", "sound": "natation" },
+      { "id": "skiing", "emoji": "⛷️", "word": "ski", "hint": "Je fais du ski", "sound": "ski" },
+      { "id": "pizza", "emoji": "🍕", "word": "pizza", "hint": "Je mange de la pizza", "sound": "pizza" },
+      { "id": "hamburger", "emoji": "🍔", "word": "hamburger", "hint": "Je mange des hamburgers", "sound": "hamburger" },
+      { "id": "orange", "emoji": "🍊", "word": "orange", "hint": "Je mange des oranges", "sound": "orange" },
+      { "id": "ice_cream", "emoji": "🍦", "word": "glace", "hint": "Je mange de la glace", "sound": "glace" },
+      { "id": "tea", "emoji": "🍵", "word": "thé", "hint": "Je bois du thé", "sound": "thé" },
+      { "id": "coffee", "emoji": "☕", "word": "café", "hint": "Je bois du café", "sound": "café" },
+      { "id": "coca_cola", "emoji": "🥤", "word": "Coca-Cola", "hint": "Je bois du Coca-Cola", "sound": "Coca-Cola" },
+      { "id": "beer", "emoji": "🍺", "word": "bière", "hint": "Je bois de la bière", "sound": "bière" },
+      { "id": "wine", "emoji": "🍷", "word": "vin", "hint": "Je bois du vin", "sound": "vin" },
+      { "id": "italian_food", "emoji": "🍝", "word": "cuisine italienne", "hint": "J'aime la cuisine italienne", "sound": "cuisine italienne" },
+      { "id": "chinese_food", "emoji": "🥢", "word": "cuisine chinoise", "hint": "J'aime la cuisine chinoise", "sound": "cuisine chinoise" }
+    ],
+    "ko": [
+      { "id": "tennis", "emoji": "🎾", "word": "테니스", "hint": "테니스를 칩니다", "sound": "테니스" },
+      { "id": "football", "emoji": "⚽", "word": "축구", "hint": "축구를 합니다", "sound": "축구" },
+      { "id": "swimming", "emoji": "🏊", "word": "수영", "hint": "수영을 합니다", "sound": "수영" },
+      { "id": "skiing", "emoji": "⛷️", "word": "스키", "hint": "스키를 탑니다", "sound": "스키" },
+      { "id": "pizza", "emoji": "🍕", "word": "피자", "hint": "피자를 먹습니다", "sound": "피자" },
+      { "id": "hamburger", "emoji": "🍔", "word": "햄버거", "hint": "햄버거를 먹습니다", "sound": "햄버거" },
+      { "id": "orange", "emoji": "🍊", "word": "오렌지", "hint": "오렌지를 먹습니다", "sound": "오렌지" },
+      { "id": "ice_cream", "emoji": "🍦", "word": "아이스크림", "hint": "아이스크림을 먹습니다", "sound": "아이스크림" },
+      { "id": "tea", "emoji": "🍵", "word": "차", "hint": "차를 마십니다", "sound": "차" },
+      { "id": "coffee", "emoji": "☕", "word": "커피", "hint": "커피를 마십니다", "sound": "커피" },
+      { "id": "coca_cola", "emoji": "🥤", "word": "코카콜라", "hint": "코카콜라를 마십니다", "sound": "코카콜라" },
+      { "id": "beer", "emoji": "🍺", "word": "맥주", "hint": "맥주를 마십니다", "sound": "맥주" },
+      { "id": "wine", "emoji": "🍷", "word": "와인", "hint": "와인을 마십니다", "sound": "와인" },
+      { "id": "italian_food", "emoji": "🍝", "word": "이탈리아 요리", "hint": "이탈리아 요리를 좋아합니다", "sound": "이탈리아 요리" },
+      { "id": "chinese_food", "emoji": "🥢", "word": "중국 요리", "hint": "중국 요리를 좋아합니다", "sound": "중국 요리" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "i_like_tennis", "emoji": "👍", "text": "I like tennis.", "sound": "I like tennis." },
+      { "id": "i_dont_like_football", "emoji": "👎", "text": "I don't like football.", "sound": "I don't like football." },
+      { "id": "do_you_like_tennis", "emoji": "❓", "text": "Do you like tennis?", "sound": "Do you like tennis?" },
+      { "id": "yes_i_do", "emoji": "✅", "text": "Yes, I do.", "sound": "Yes, I do." },
+      { "id": "no_i_dont", "emoji": "❌", "text": "No, I don't.", "sound": "No, I don't." },
+      { "id": "where_do_you_live", "emoji": "🏠", "text": "Where do you live?", "sound": "Where do you live?" },
+      { "id": "i_live_in_london", "emoji": "🏙️", "text": "I live in London.", "sound": "I live in London." },
+      { "id": "whats_your_job", "emoji": "💼", "text": "What's your job?", "sound": "What is your job?" },
+      { "id": "im_a_waiter", "emoji": "🍽️", "text": "I'm a waiter.", "sound": "I am a waiter." }
+    ],
+    "ja": [
+      { "id": "i_like_tennis", "emoji": "👍", "text": "テニスが好きです。", "sound": "テニスがすきです。" },
+      { "id": "i_dont_like_football", "emoji": "👎", "text": "サッカーは好きじゃありません。", "sound": "サッカーはすきじゃありません。" },
+      { "id": "do_you_like_tennis", "emoji": "❓", "text": "テニスは好きですか？", "sound": "テニスはすきですか？" },
+      { "id": "yes_i_do", "emoji": "✅", "text": "はい、好きです。", "sound": "はい、すきです。" },
+      { "id": "no_i_dont", "emoji": "❌", "text": "いいえ、好きじゃありません。", "sound": "いいえ、すきじゃありません。" },
+      { "id": "where_do_you_live", "emoji": "🏠", "text": "どこに住んでいますか？", "sound": "どこにすんでいますか？" },
+      { "id": "i_live_in_london", "emoji": "🏙️", "text": "ロンドンに住んでいます。", "sound": "ロンドンにすんでいます。" },
+      { "id": "whats_your_job", "emoji": "💼", "text": "仕事は何ですか？", "sound": "しごとはなんですか？" },
+      { "id": "im_a_waiter", "emoji": "🍽️", "text": "私はウェイターです。", "sound": "わたしはウェイターです。" }
+    ],
+    "fr": [
+      { "id": "i_like_tennis", "emoji": "👍", "text": "J'aime le tennis.", "sound": "J'aime le tennis." },
+      { "id": "i_dont_like_football", "emoji": "👎", "text": "Je n'aime pas le football.", "sound": "Je n'aime pas le football." },
+      { "id": "do_you_like_tennis", "emoji": "❓", "text": "Tu aimes le tennis ?", "sound": "Tu aimes le tennis ?" },
+      { "id": "yes_i_do", "emoji": "✅", "text": "Oui, j'aime.", "sound": "Oui, j'aime." },
+      { "id": "no_i_dont", "emoji": "❌", "text": "Non, je n'aime pas.", "sound": "Non, je n'aime pas." },
+      { "id": "where_do_you_live", "emoji": "🏠", "text": "Où habites-tu ?", "sound": "Où habites-tu ?" },
+      { "id": "i_live_in_london", "emoji": "🏙️", "text": "J'habite à Londres.", "sound": "J'habite à Londres." },
+      { "id": "whats_your_job", "emoji": "💼", "text": "Quel est ton métier ?", "sound": "Quel est ton métier ?" },
+      { "id": "im_a_waiter", "emoji": "🍽️", "text": "Je suis serveur.", "sound": "Je suis serveur." }
+    ],
+    "ko": [
+      { "id": "i_like_tennis", "emoji": "👍", "text": "저는 테니스를 좋아합니다.", "sound": "저는 테니스를 좋아합니다." },
+      { "id": "i_dont_like_football", "emoji": "👎", "text": "저는 축구를 좋아하지 않습니다.", "sound": "저는 축구를 좋아하지 않습니다." },
+      { "id": "do_you_like_tennis", "emoji": "❓", "text": "테니스를 좋아하세요?", "sound": "테니스를 좋아하세요?" },
+      { "id": "yes_i_do", "emoji": "✅", "text": "네, 좋아합니다.", "sound": "네, 좋아합니다." },
+      { "id": "no_i_dont", "emoji": "❌", "text": "아니요, 좋아하지 않습니다.", "sound": "아니요, 좋아하지 않습니다." },
+      { "id": "where_do_you_live", "emoji": "🏠", "text": "어디에 사세요?", "sound": "어디에 사세요?" },
+      { "id": "i_live_in_london", "emoji": "🏙️", "text": "저는 런던에 삽니다.", "sound": "저는 런던에 삽니다." },
+      { "id": "whats_your_job", "emoji": "💼", "text": "직업이 무엇인가요?", "sound": "직업이 무엇인가요?" },
+      { "id": "im_a_waiter", "emoji": "🍽️", "text": "저는 웨이터입니다.", "sound": "저는 웨이터입니다." }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "Gordon Wilson",
+      "content": "👨 Hello! My name's Gordon Wilson. 🏴 I come from Aberdeen in Scotland, but now I live and work in London. 🏠 I have a very small flat near the centre. 🍽️ I'm a waiter and I'm also a drama student. 🇮🇹 I work in an Italian restaurant. 🍝 I eat Italian food and I drink Italian and French wine. 🍺 I don't drink beer. I don't like it. ⚽ And I don't play sports. 🗣️ I speak three languages – English, French, and a little Italian. 🎭 I want to be an actor.",
+      "question": "What is Gordon's job?",
+      "options": [
+        { "text": "He's a waiter", "emoji": "🍽️", "correct": true },
+        { "text": "He's a doctor", "emoji": "👨‍⚕️", "correct": false },
+        { "text": "He's a teacher", "emoji": "👨‍🏫", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "ゴードン・ウィルソン",
+      "content": "👨 こんにちは！私の名前はゴードン・ウィルソンです。🏴 私はスコットランドのアバディーン出身ですが、今はロンドンに住んで働いています。🏠 私は中心部の近くにとても小さなアパートを持っています。🍽️ 私はウェイターで、同時に演劇の学生でもあります。🇮🇹 私はイタリア料理店で働いています。🍝 イタリア料理を食べ、イタリアとフランスのワインを飲みます。🍺 ビールは飲みません。好きじゃないからです。⚽ そしてスポーツはしません。🗣️ 私は三つの言語を話します – 英語、フランス語、そして少しイタリア語です。🎭 私は俳優になりたいです。",
+      "question": "ゴードンの仕事は何ですか？",
+      "options": [
+        { "text": "ウェイター", "emoji": "🍽️", "correct": true },
+        { "text": "医者", "emoji": "👨‍⚕️", "correct": false },
+        { "text": "先生", "emoji": "👨‍🏫", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "Gordon Wilson",
+      "content": "👨 Bonjour ! Je m'appelle Gordon Wilson. 🏴 Je viens d'Aberdeen en Écosse, mais maintenant je vis et je travaille à Londres. 🏠 J'ai un très petit appartement près du centre. 🍽️ Je suis serveur et je suis aussi étudiant en théâtre. 🇮🇹 Je travaille dans un restaurant italien. 🍝 Je mange de la cuisine italienne et je bois du vin italien et français. 🍺 Je ne bois pas de bière. Je n'aime pas ça. ⚽ Et je ne fais pas de sport. 🗣️ Je parle trois langues – l'anglais, le français et un peu d'italien. 🎭 Je veux être acteur.",
+      "question": "Quel est le métier de Gordon ?",
+      "options": [
+        { "text": "Il est serveur", "emoji": "🍽️", "correct": true },
+        { "text": "Il est médecin", "emoji": "👨‍⚕️", "correct": false },
+        { "text": "Il est professeur", "emoji": "👨‍🏫", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "고든 윌슨",
+      "content": "👨 안녕하세요! 제 이름은 고든 윌슨입니다. 🏴 저는 스코틀랜드의 애버딘 출신이지만, 지금은 런던에 살면서 일하고 있습니다. 🏠 저는 시내 중심 근처에 아주 작은 아파트가 있습니다. 🍽️ 저는 웨이터이고 동시에 연극 학생이기도 합니다. 🇮🇹 저는 이탈리아 레스토랑에서 일합니다. 🍝 저는 이탈리아 요리를 먹고 이탈리아 와인과 프랑스 와인을 마십니다. 🍺 저는 맥주를 마시지 않습니다. 맥주를 좋아하지 않기 때문입니다. ⚽ 그리고 저는 스포츠를 하지 않습니다. 🗣️ 저는 세 가지 언어를 말합니다 – 영어, 프랑스어, 그리고 약간의 이탈리아어입니다. 🎭 저는 배우가 되고 싶습니다.",
+      "question": "고든의 직업은 무엇인가요?",
+      "options": [
+        { "text": "웨이터입니다", "emoji": "🍽️", "correct": true },
+        { "text": "의사입니다", "emoji": "👨‍⚕️", "correct": false },
+        { "text": "선생님입니다", "emoji": "👨‍🏫", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the sport with the word! 🖐️ Drag and drop!",
+        "pairs": [
+          { "emoji": "🎾", "word": "tennis" },
+          { "emoji": "⚽", "word": "football" },
+          { "emoji": "🏊", "word": "swimming" },
+          { "emoji": "⛷️", "word": "skiing" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the tennis ball! 🎾",
+        "target": "🎾",
+        "options": ["🎾", "⚽", "🏊", "⛷️"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "スポーツと単語を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "pairs": [
+          { "emoji": "🎾", "word": "テニス" },
+          { "emoji": "⚽", "word": "サッカー" },
+          { "emoji": "🏊", "word": "水泳" },
+          { "emoji": "⛷️", "word": "スキー" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "テニスボールを見つけてください！ 🎾",
+        "target": "🎾",
+        "options": ["🎾", "⚽", "🏊", "⛷️"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez le sport avec le mot ! 🖐️ Glissez-déposez !",
+        "pairs": [
+          { "emoji": "🎾", "word": "tennis" },
+          { "emoji": "⚽", "word": "football" },
+          { "emoji": "🏊", "word": "natation" },
+          { "emoji": "⛷️", "word": "ski" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouvez la balle de tennis ! 🎾",
+        "target": "🎾",
+        "options": ["🎾", "⚽", "🏊", "⛷️"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "스포츠와 단어를 맞춰보세요! 🖐️ 드래그해서 연결하세요!",
+        "pairs": [
+          { "emoji": "🎾", "word": "테니스" },
+          { "emoji": "⚽", "word": "축구" },
+          { "emoji": "🏊", "word": "수영" },
+          { "emoji": "⛷️", "word": "스키" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "테니스 공을 찾아보세요! 🎾",
+        "target": "🎾",
+        "options": ["🎾", "⚽", "🏊", "⛷️"]
+      }
+    ]
+  },
+  "grammar": {
+    "en": {
+      "title": "Grammar Spot",
+      "content": "• Positive: I like tennis.\n• Negative: I don't like football.\n• don't = do not\n• Question: Do you like tennis?\n• Short answer: Yes, I do. / No, I don't.\n• a small flat / an actor / a waiter / an Italian restaurant"
+    },
+    "ja": {
+      "title": "文法のポイント",
+      "content": "• 肯定文: I like tennis.（テニスが好きです。）\n• 否定文: I don't like football.（サッカーは好きじゃありません。）\n• don't = do not\n• 疑問文: Do you like tennis?（テニスは好きですか？）\n• 短い答え: Yes, I do. / No, I don't.\n• a small flat（小さなアパート）/ an actor（俳優）/ a waiter（ウェイター）/ an Italian restaurant（イタリア料理店）"
+    },
+    "fr": {
+      "title": "Point de Grammaire",
+      "content": "• Positif: I like tennis.\n• Négatif: I don't like football.\n• don't = do not\n• Question: Do you like tennis?\n• Réponse courte: Yes, I do. / No, I don't.\n• a small flat / an actor / a waiter / an Italian restaurant"
+    },
+    "ko": {
+      "title": "문법 포인트",
+      "content": "• 긍정문: I like tennis. (나는 테니스를 좋아합니다.)\n• 부정문: I don't like football. (나는 축구를 좋아하지 않습니다.)\n• don't = do not\n• 의문문: Do you like tennis? (테니스를 좋아하세요?)\n• 짧은 답변: Yes, I do. / No, I don't.\n• a small flat (작은 아파트) / an actor (배우) / a waiter (웨이터) / an Italian restaurant (이탈리아 레스토랑)"
+    }
+  },
+  "practice_conversations": {
+    "en": [
+      {
+        "title": "About Gordon Wilson",
+        "lines": [
+          { "speaker": "A", "text": "Do you come from Scotland?" },
+          { "speaker": "B", "text": "Yes, I do." },
+          { "speaker": "A", "text": "Do you live in Aberdeen?" },
+          { "speaker": "B", "text": "No, I don't. I live in London." },
+          { "speaker": "A", "text": "Do you work in a Chinese restaurant?" },
+          { "speaker": "B", "text": "No, I don't. I work in an Italian restaurant." },
+          { "speaker": "A", "text": "Do you drink beer?" },
+          { "speaker": "B", "text": "No, I don't. I don't like beer." }
+        ]
+      },
+      {
+        "title": "At a Party",
+        "lines": [
+          { "speaker": "A", "text": "Do you work in London?" },
+          { "speaker": "B", "text": "Yes, I do." },
+          { "speaker": "A", "text": "Do you live in London?" },
+          { "speaker": "B", "text": "Yes, I do." },
+          { "speaker": "A", "text": "Are you an actor?" },
+          { "speaker": "B", "text": "Yes, I am." },
+          { "speaker": "A", "text": "You speak English very well." },
+          { "speaker": "B", "text": "Thank you!" },
+          { "speaker": "A", "text": "Do you like Italy?" },
+          { "speaker": "B", "text": "Yes, I love Italy!" }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "ゴードン・ウィルソンについて",
+        "lines": [
+          { "speaker": "A", "text": "スコットランド出身ですか？" },
+          { "speaker": "B", "text": "はい、そうです。" },
+          { "speaker": "A", "text": "アバディーンに住んでいますか？" },
+          { "speaker": "B", "text": "いいえ、違います。ロンドンに住んでいます。" },
+          { "speaker": "A", "text": "中華料理店で働いていますか？" },
+          { "speaker": "B", "text": "いいえ、違います。イタリア料理店で働いています。" },
+          { "speaker": "A", "text": "ビールを飲みますか？" },
+          { "speaker": "B", "text": "いいえ、飲みません。ビールは好きじゃありません。" }
+        ]
+      },
+      {
+        "title": "パーティーで",
+        "lines": [
+          { "speaker": "A", "text": "ロンドンで働いていますか？" },
+          { "speaker": "B", "text": "はい、働いています。" },
+          { "speaker": "A", "text": "ロンドンに住んでいますか？" },
+          { "speaker": "B", "text": "はい、住んでいます。" },
+          { "speaker": "A", "text": "俳優ですか？" },
+          { "speaker": "B", "text": "はい、そうです。" },
+          { "speaker": "A", "text": "英語がとても上手ですね。" },
+          { "speaker": "B", "text": "ありがとうございます！" },
+          { "speaker": "A", "text": "イタリアは好きですか？" },
+          { "speaker": "B", "text": "はい、イタリアが大好きです！" }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "À propos de Gordon Wilson",
+        "lines": [
+          { "speaker": "A", "text": "Tu viens d'Écosse ?" },
+          { "speaker": "B", "text": "Oui, je viens d'Écosse." },
+          { "speaker": "A", "text": "Tu habites à Aberdeen ?" },
+          { "speaker": "B", "text": "Non, j'habite à Londres." },
+          { "speaker": "A", "text": "Tu travailles dans un restaurant chinois ?" },
+          { "speaker": "B", "text": "Non, je travaille dans un restaurant italien." },
+          { "speaker": "A", "text": "Tu bois de la bière ?" },
+          { "speaker": "B", "text": "Non, je ne bois pas de bière. Je n'aime pas la bière." }
+        ]
+      },
+      {
+        "title": "À une fête",
+        "lines": [
+          { "speaker": "A", "text": "Tu travailles à Londres ?" },
+          { "speaker": "B", "text": "Oui, je travaille à Londres." },
+          { "speaker": "A", "text": "Tu habites à Londres ?" },
+          { "speaker": "B", "text": "Oui, j'habite à Londres." },
+          { "speaker": "A", "text": "Tu es acteur ?" },
+          { "speaker": "B", "text": "Oui, je suis acteur." },
+          { "speaker": "A", "text": "Tu parles très bien anglais." },
+          { "speaker": "B", "text": "Merci !" },
+          { "speaker": "A", "text": "Tu aimes l'Italie ?" },
+          { "speaker": "B", "text": "Oui, j'adore l'Italie !" }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "고든 윌슨에 대하여",
+        "lines": [
+          { "speaker": "A", "text": "스코틀랜드 출신이신가요?" },
+          { "speaker": "B", "text": "네, 맞습니다." },
+          { "speaker": "A", "text": "애버딘에 사시나요?" },
+          { "speaker": "B", "text": "아니요, 런던에 삽니다." },
+          { "speaker": "A", "text": "중국 레스토랑에서 일하시나요?" },
+          { "speaker": "B", "text": "아니요, 이탈리아 레스토랑에서 일합니다." },
+          { "speaker": "A", "text": "맥주를 마시나요?" },
+          { "speaker": "B", "text": "아니요, 마시지 않습니다. 맥주를 좋아하지 않아요." }
+        ]
+      },
+      {
+        "title": "파티에서",
+        "lines": [
+          { "speaker": "A", "text": "런던에서 일하시나요?" },
+          { "speaker": "B", "text": "네, 일합니다." },
+          { "speaker": "A", "text": "런던에 사시나요?" },
+          { "speaker": "B", "text": "네, 삽니다." },
+          { "speaker": "A", "text": "배우이신가요?" },
+          { "speaker": "B", "text": "네, 맞습니다." },
+          { "speaker": "A", "text": "영어를 아주 잘 하시네요." },
+          { "speaker": "B", "text": "감사합니다!" },
+          { "speaker": "A", "text": "이탈리아를 좋아하세요?" },
+          { "speaker": "B", "text": "네, 이탈리아를 사랑해요!" }
+        ]
+      }
+    ]
+  },
+  "social_expressions": {
+    "en": [
+      { "id": "i_like", "emoji": "👍", "expression": "I like it", "hint": "positive", "response": "Me too!" },
+      { "id": "i_dont_like", "emoji": "👎", "expression": "I don't like it", "hint": "negative", "response": "Oh, really?" },
+      { "id": "do_you_like", "emoji": "❓", "expression": "Do you like...?", "hint": "asking", "response": "Yes, I do. / No, I don't." }
+    ],
+    "ja": [
+      { "id": "i_like", "emoji": "👍", "expression": "好きです", "hint": "肯定", "response": "私も！" },
+      { "id": "i_dont_like", "emoji": "👎", "expression": "好きじゃありません", "hint": "否定", "response": "あ、そうですか？" },
+      { "id": "do_you_like", "emoji": "❓", "expression": "〜は好きですか？", "hint": "質問", "response": "はい、好きです。／いいえ、好きじゃありません。" }
+    ],
+    "fr": [
+      { "id": "i_like", "emoji": "👍", "expression": "J'aime ça", "hint": "positif", "response": "Moi aussi !" },
+      { "id": "i_dont_like", "emoji": "👎", "expression": "Je n'aime pas ça", "hint": "négatif", "response": "Ah bon ?" },
+      { "id": "do_you_like", "emoji": "❓", "expression": "Tu aimes... ?", "hint": "question", "response": "Oui, j'aime. / Non, je n'aime pas." }
+    ],
+    "ko": [
+      { "id": "i_like", "emoji": "👍", "expression": "좋아해요", "hint": "긍정", "response": "저도요!" },
+      { "id": "i_dont_like", "emoji": "👎", "expression": "좋아하지 않아요", "hint": "부정", "response": "아, 그래요?" },
+      { "id": "do_you_like", "emoji": "❓", "expression": "~을 좋아하세요?", "hint": "질문", "response": "네, 좋아해요. / 아니요, 좋아하지 않아요." }
+    ]
+  },
+  "numbers": {
+    "en": [
+      { "number": 1, "word": "one", "emoji": "1️⃣" },
+      { "number": 2, "word": "two", "emoji": "2️⃣" },
+      { "number": 3, "word": "three", "emoji": "3️⃣" },
+      { "number": 4, "word": "four", "emoji": "4️⃣" },
+      { "number": 5, "word": "five", "emoji": "5️⃣" },
+      { "number": 6, "word": "six", "emoji": "6️⃣" },
+      { "number": 7, "word": "seven", "emoji": "7️⃣" },
+      { "number": 8, "word": "eight", "emoji": "8️⃣" },
+      { "number": 9, "word": "nine", "emoji": "9️⃣" },
+      { "number": 10, "word": "ten", "emoji": "🔟" },
+      { "number": 20, "word": "twenty", "emoji": "2️⃣0️⃣" },
+      { "number": 30, "word": "thirty", "emoji": "3️⃣0️⃣" },
+      { "number": 40, "word": "forty", "emoji": "4️⃣0️⃣" },
+      { "number": 50, "word": "fifty", "emoji": "5️⃣0️⃣" },
+      { "number": 60, "word": "sixty", "emoji": "6️⃣0️⃣" },
+      { "number": 70, "word": "seventy", "emoji": "7️⃣0️⃣" },
+      { "number": 80, "word": "eighty", "emoji": "8️⃣0️⃣" },
+      { "number": 90, "word": "ninety", "emoji": "9️⃣0️⃣" },
+      { "number": 100, "word": "one hundred", "emoji": "💯" }
+    ],
+    "ja": [
+      { "number": 1, "word": "いち", "emoji": "1️⃣" },
+      { "number": 2, "word": "に", "emoji": "2️⃣" },
+      { "number": 3, "word": "さん", "emoji": "3️⃣" },
+      { "number": 4, "word": "よん", "emoji": "4️⃣" },
+      { "number": 5, "word": "ご", "emoji": "5️⃣" },
+      { "number": 6, "word": "ろく", "emoji": "6️⃣" },
+      { "number": 7, "word": "なな", "emoji": "7️⃣" },
+      { "number": 8, "word": "はち", "emoji": "8️⃣" },
+      { "number": 9, "word": "きゅう", "emoji": "9️⃣" },
+      { "number": 10, "word": "じゅう", "emoji": "🔟" },
+      { "number": 20, "word": "にじゅう", "emoji": "2️⃣0️⃣" },
+      { "number": 30, "word": "さんじゅう", "emoji": "3️⃣0️⃣" },
+      { "number": 40, "word": "よんじゅう", "emoji": "4️⃣0️⃣" },
+      { "number": 50, "word": "ごじゅう", "emoji": "5️⃣0️⃣" },
+      { "number": 60, "word": "ろくじゅう", "emoji": "6️⃣0️⃣" },
+      { "number": 70, "word": "ななじゅう", "emoji": "7️⃣0️⃣" },
+      { "number": 80, "word": "はちじゅう", "emoji": "8️⃣0️⃣" },
+      { "number": 90, "word": "きゅうじゅう", "emoji": "9️⃣0️⃣" },
+      { "number": 100, "word": "ひゃく", "emoji": "💯" }
+    ],
+    "fr": [
+      { "number": 1, "word": "un", "emoji": "1️⃣" },
+      { "number": 2, "word": "deux", "emoji": "2️⃣" },
+      { "number": 3, "word": "trois", "emoji": "3️⃣" },
+      { "number": 4, "word": "quatre", "emoji": "4️⃣" },
+      { "number": 5, "word": "cinq", "emoji": "5️⃣" },
+      { "number": 6, "word": "six", "emoji": "6️⃣" },
+      { "number": 7, "word": "sept", "emoji": "7️⃣" },
+      { "number": 8, "word": "huit", "emoji": "8️⃣" },
+      { "number": 9, "word": "neuf", "emoji": "9️⃣" },
+      { "number": 10, "word": "dix", "emoji": "🔟" },
+      { "number": 20, "word": "vingt", "emoji": "2️⃣0️⃣" },
+      { "number": 30, "word": "trente", "emoji": "3️⃣0️⃣" },
+      { "number": 40, "word": "quarante", "emoji": "4️⃣0️⃣" },
+      { "number": 50, "word": "cinquante", "emoji": "5️⃣0️⃣" },
+      { "number": 60, "word": "soixante", "emoji": "6️⃣0️⃣" },
+      { "number": 70, "word": "soixante-dix", "emoji": "7️⃣0️⃣" },
+      { "number": 80, "word": "quatre-vingts", "emoji": "8️⃣0️⃣" },
+      { "number": 90, "word": "quatre-vingt-dix", "emoji": "9️⃣0️⃣" },
+      { "number": 100, "word": "cent", "emoji": "💯" }
+    ],
+    "ko": [
+      { "number": 1, "word": "하나", "emoji": "1️⃣" },
+      { "number": 2, "word": "둘", "emoji": "2️⃣" },
+      { "number": 3, "word": "셋", "emoji": "3️⃣" },
+      { "number": 4, "word": "넷", "emoji": "4️⃣" },
+      { "number": 5, "word": "다섯", "emoji": "5️⃣" },
+      { "number": 6, "word": "여섯", "emoji": "6️⃣" },
+      { "number": 7, "word": "일곱", "emoji": "7️⃣" },
+      { "number": 8, "word": "여덟", "emoji": "8️⃣" },
+      { "number": 9, "word": "아홉", "emoji": "9️⃣" },
+      { "number": 10, "word": "열", "emoji": "🔟" },
+      { "number": 20, "word": "스물", "emoji": "2️⃣0️⃣" },
+      { "number": 30, "word": "서른", "emoji": "3️⃣0️⃣" },
+      { "number": 40, "word": "마흔", "emoji": "4️⃣0️⃣" },
+      { "number": 50, "word": "쉰", "emoji": "5️⃣0️⃣" },
+      { "number": 60, "word": "예순", "emoji": "6️⃣0️⃣" },
+      { "number": 70, "word": "일흔", "emoji": "7️⃣0️⃣" },
+      { "number": 80, "word": "여든", "emoji": "8️⃣0️⃣" },
+      { "number": 90, "word": "아흔", "emoji": "9️⃣0️⃣" },
+      { "number": 100, "word": "백", "emoji": "💯" }
+    ]
+  },
+  "prices": {
+    "en": [
+    { "price": "30p", "word": "thirty p", "emoji": "🪙" },
+    { "price": "50p", "word": "fifty p", "emoji": "🪙" },
+    { "price": "75p", "word": "seventy-five p", "emoji": "🪙" },
+    { "price": "£1", "word": "one pound", "emoji": "💷" },
+    { "price": "£20", "word": "twenty pounds", "emoji": "💷" },
+    { "price": "£75", "word": "seventy-five pounds", "emoji": "💷" },
+    { "price": "£1.60", "word": "one pound sixty", "emoji": "💷" },
+    { "price": "£3.45", "word": "three pounds forty-five", "emoji": "💷" },
+    { "price": "£22.80", "word": "twenty-two pounds eighty", "emoji": "💷" }
+  ],
+  "fr": [
+    { "price": "0,30€", "word": "trente centimes", "emoji": "🪙" },
+    { "price": "0,50€", "word": "cinquante centimes", "emoji": "🪙" },
+    { "price": "0,75€", "word": "soixante-quinze centimes", "emoji": "🪙" },
+    { "price": "1€", "word": "un euro", "emoji": "💶" },
+    { "price": "20€", "word": "vingt euros", "emoji": "💶" },
+    { "price": "75€", "word": "soixante-quinze euros", "emoji": "💶" },
+    { "price": "1,60€", "word": "un euro soixante", "emoji": "💶" },
+    { "price": "3,45€", "word": "trois euros quarante-cinq", "emoji": "💶" },
+    { "price": "22,80€", "word": "vingt-deux euros quatre-vingts", "emoji": "💶" }
+  ],
+  "ja": [
+    { "price": "30円", "word": "さんじゅうえん", "emoji": "🪙" },
+    { "price": "50円", "word": "ごじゅうえん", "emoji": "🪙" },
+    { "price": "75円", "word": "ななじゅうごえん", "emoji": "🪙" },
+    { "price": "100円", "word": "ひゃくえん", "emoji": "💴" },
+    { "price": "2000円", "word": "にせんえん", "emoji": "💴" },
+    { "price": "7500円", "word": "ななせんごひゃくえん", "emoji": "💴" },
+    { "price": "160円", "word": "ひゃくろくじゅうえん", "emoji": "💴" },
+    { "price": "345円", "word": "さんびゃくよんじゅうごえん", "emoji": "💴" },
+    { "price": "2280円", "word": "にせんにひゃくはちじゅうえん", "emoji": "💴" }
+  ],
+  "ko": [
+  { "price": "30원", "word": "삼십 원", "emoji": "🪙" },
+  { "price": "50원", "word": "오십 원", "emoji": "🪙" },
+  { "price": "75원", "word": "칠십오 원", "emoji": "🪙" },
+  { "price": "1,000원", "word": "천 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
+  { "price": "20,000원", "word": "이만 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
+  { "price": "75,000원", "word": "칠만오천 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
+  { "price": "1,600원", "word": "천육백 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
+  { "price": "3,450원", "word": "삼천사백오십 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
+  { "price": "22,800원", "word": "이만이천팔백 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" }
+]
+  }
+}

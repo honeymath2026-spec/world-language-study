@@ -1,0 +1,478 @@
+{
+  "title": {
+    "en": "Happy birthday!",
+    "ja": "お誕生日おめでとう！",
+    "fr": "Joyeux anniversaire !",
+    "ko": "생일 축하해!"
+  },
+  "topic": {
+    "en": "Saying years, was/were born, Past Simple – irregular verbs, When's your birthday?",
+    "ja": "年の言い方、was/were born、過去形 – 不規則動詞、誕生日はいつ？",
+    "fr": "Dire les années, was/were born, Passé Simple – verbes irréguliers, Quand est ton anniversaire ?",
+    "ko": "연도 말하기, was/were born, 과거시제 – 불규칙 동사, 생일이 언제야?"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "painter", "emoji": "🎨", "word": "painter", "hint": "He was a painter", "sound": "painter" },
+      { "id": "scientist", "emoji": "🔬", "word": "scientist", "hint": "She was a scientist", "sound": "scientist" },
+      { "id": "singer", "emoji": "🎤", "word": "singer", "hint": "She was a singer", "sound": "singer" },
+      { "id": "writer", "emoji": "✍️", "word": "writer", "hint": "He was a writer", "sound": "writer" },
+      { "id": "musician", "emoji": "🎵", "word": "musician", "hint": "He was a musician", "sound": "musician" },
+      { "id": "actor", "emoji": "🎭", "word": "actor", "hint": "He was an actor", "sound": "actor" },
+      { "id": "politician", "emoji": "🏛️", "word": "politician", "hint": "She was a politician", "sound": "politician" },
+      { "id": "princess", "emoji": "👸", "word": "princess", "hint": "She was a princess", "sound": "princess" },
+      { "id": "racing_driver", "emoji": "🏎️", "word": "racing driver", "hint": "He was a racing driver", "sound": "racing driver" },
+      { "id": "birthday", "emoji": "🎂", "word": "birthday", "hint": "Happy birthday!", "sound": "birthday" },
+      { "id": "born", "emoji": "👶", "word": "born", "hint": "I was born in 1990", "sound": "born" }
+    ],
+    "ja": [
+      { "id": "painter", "emoji": "🎨", "word": "画家", "hint": "彼は画家でした", "sound": "がか" },
+      { "id": "scientist", "emoji": "🔬", "word": "科学者", "hint": "彼女は科学者でした", "sound": "かがくしゃ" },
+      { "id": "singer", "emoji": "🎤", "word": "歌手", "hint": "彼女は歌手でした", "sound": "かしゅ" },
+      { "id": "writer", "emoji": "✍️", "word": "作家", "hint": "彼は作家でした", "sound": "さっか" },
+      { "id": "musician", "emoji": "🎵", "word": "音楽家", "hint": "彼は音楽家でした", "sound": "おんがくか" },
+      { "id": "actor", "emoji": "🎭", "word": "俳優", "hint": "彼は俳優でした", "sound": "はいゆう" },
+      { "id": "politician", "emoji": "🏛️", "word": "政治家", "hint": "彼女は政治家でした", "sound": "せいじか" },
+      { "id": "princess", "emoji": "👸", "word": "王女", "hint": "彼女は王女でした", "sound": "おうじょ" },
+      { "id": "racing_driver", "emoji": "🏎️", "word": "レーシングドライバー", "hint": "彼はレーシングドライバーでした", "sound": "レーシングドライバー" },
+      { "id": "birthday", "emoji": "🎂", "word": "誕生日", "hint": "お誕生日おめでとう！", "sound": "たんじょうび" },
+      { "id": "born", "emoji": "👶", "word": "生まれた", "hint": "私は1990年に生まれました", "sound": "うまれた" }
+    ],
+    "fr": [
+      { "id": "painter", "emoji": "🎨", "word": "peintre", "hint": "Il était peintre", "sound": "peintre" },
+      { "id": "scientist", "emoji": "🔬", "word": "scientifique", "hint": "Elle était scientifique", "sound": "scientifique" },
+      { "id": "singer", "emoji": "🎤", "word": "chanteur", "hint": "Elle était chanteuse", "sound": "chanteur" },
+      { "id": "writer", "emoji": "✍️", "word": "écrivain", "hint": "Il était écrivain", "sound": "écrivain" },
+      { "id": "musician", "emoji": "🎵", "word": "musicien", "hint": "Il était musicien", "sound": "musicien" },
+      { "id": "actor", "emoji": "🎭", "word": "acteur", "hint": "Il était acteur", "sound": "acteur" },
+      { "id": "politician", "emoji": "🏛️", "word": "homme politique", "hint": "Elle était femme politique", "sound": "homme politique" },
+      { "id": "princess", "emoji": "👸", "word": "princesse", "hint": "Elle était princesse", "sound": "princesse" },
+      { "id": "racing_driver", "emoji": "🏎️", "word": "pilote de course", "hint": "Il était pilote de course", "sound": "pilote de course" },
+      { "id": "birthday", "emoji": "🎂", "word": "anniversaire", "hint": "Joyeux anniversaire !", "sound": "anniversaire" },
+      { "id": "born", "emoji": "👶", "word": "né", "hint": "Je suis né en 1990", "sound": "né" }
+    ],
+    "ko": [
+      { "id": "painter", "emoji": "🎨", "word": "화가", "hint": "그는 화가였습니다", "sound": "화가" },
+      { "id": "scientist", "emoji": "🔬", "word": "과학자", "hint": "그녀는 과학자였습니다", "sound": "과학자" },
+      { "id": "singer", "emoji": "🎤", "word": "가수", "hint": "그녀는 가수였습니다", "sound": "가수" },
+      { "id": "writer", "emoji": "✍️", "word": "작가", "hint": "그는 작가였습니다", "sound": "작가" },
+      { "id": "musician", "emoji": "🎵", "word": "음악가", "hint": "그는 음악가였습니다", "sound": "음악가" },
+      { "id": "actor", "emoji": "🎭", "word": "배우", "hint": "그는 배우였습니다", "sound": "배우" },
+      { "id": "politician", "emoji": "🏛️", "word": "정치가", "hint": "그녀는 정치가였습니다", "sound": "정치가" },
+      { "id": "princess", "emoji": "👸", "word": "공주", "hint": "그녀는 공주였습니다", "sound": "공주" },
+      { "id": "racing_driver", "emoji": "🏎️", "word": "레이싱 드라이버", "hint": "그는 레이싱 드라이버였습니다", "sound": "레이싱 드라이버" },
+      { "id": "birthday", "emoji": "🎂", "word": "생일", "hint": "생일 축하해!", "sound": "생일" },
+      { "id": "born", "emoji": "👶", "word": "태어난", "hint": "저는 1990년에 태어났습니다", "sound": "태어난" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "he_was_painter", "emoji": "🎨", "text": "He was a painter.", "sound": "He was a painter." },
+      { "id": "she_was_scientist", "emoji": "🔬", "text": "She was a scientist.", "sound": "She was a scientist." },
+      { "id": "he_was_born_1452", "emoji": "👶", "text": "He was born in 1452.", "sound": "He was born in 1452." },
+      { "id": "she_was_born_1867", "emoji": "👶", "text": "She was born in 1867.", "sound": "She was born in 1867." },
+      { "id": "i_was_born_1979", "emoji": "👶", "text": "I was born in 1979.", "sound": "I was born in 1979." },
+      { "id": "when_were_you_born", "emoji": "❓", "text": "When were you born?", "sound": "When were you born?" },
+      { "id": "when_was_he_born", "emoji": "❓", "text": "When was he born?", "sound": "When was he born?" },
+      { "id": "when_was_she_born", "emoji": "❓", "text": "When was she born?", "sound": "When was she born?" },
+      { "id": "when_were_they_born", "emoji": "❓", "text": "When were they born?", "sound": "When were they born?" }
+    ],
+    "ja": [
+      { "id": "he_was_painter", "emoji": "🎨", "text": "彼は画家でした。", "sound": "かれはがかでした。" },
+      { "id": "she_was_scientist", "emoji": "🔬", "text": "彼女は科学者でした。", "sound": "かのじょはかがくしゃでした。" },
+      { "id": "he_was_born_1452", "emoji": "👶", "text": "彼は1452年に生まれました。", "sound": "かれは1452ねんにうまれました。" },
+      { "id": "she_was_born_1867", "emoji": "👶", "text": "彼女は1867年に生まれました。", "sound": "かのじょは1867ねんにうまれました。" },
+      { "id": "i_was_born_1979", "emoji": "👶", "text": "私は1979年に生まれました。", "sound": "わたしは1979ねんにうまれました。" },
+      { "id": "when_were_you_born", "emoji": "❓", "text": "いつ生まれましたか？", "sound": "いつうまれましたか？" },
+      { "id": "when_was_he_born", "emoji": "❓", "text": "彼はいつ生まれましたか？", "sound": "かれはいつうまれましたか？" },
+      { "id": "when_was_she_born", "emoji": "❓", "text": "彼女はいつ生まれましたか？", "sound": "かのじょはいつうまれましたか？" },
+      { "id": "when_were_they_born", "emoji": "❓", "text": "彼らはいつ生まれましたか？", "sound": "かれらはいつうまれましたか？" }
+    ],
+    "fr": [
+      { "id": "he_was_painter", "emoji": "🎨", "text": "Il était peintre.", "sound": "Il était peintre." },
+      { "id": "she_was_scientist", "emoji": "🔬", "text": "Elle était scientifique.", "sound": "Elle était scientifique." },
+      { "id": "he_was_born_1452", "emoji": "👶", "text": "Il est né en 1452.", "sound": "Il est né en 1452." },
+      { "id": "she_was_born_1867", "emoji": "👶", "text": "Elle est née en 1867.", "sound": "Elle est née en 1867." },
+      { "id": "i_was_born_1979", "emoji": "👶", "text": "Je suis né en 1979.", "sound": "Je suis né en 1979." },
+      { "id": "when_were_you_born", "emoji": "❓", "text": "Quand es-tu né ?", "sound": "Quand es-tu né ?" },
+      { "id": "when_was_he_born", "emoji": "❓", "text": "Quand est-il né ?", "sound": "Quand est-il né ?" },
+      { "id": "when_was_she_born", "emoji": "❓", "text": "Quand est-elle née ?", "sound": "Quand est-elle née ?" },
+      { "id": "when_were_they_born", "emoji": "❓", "text": "Quand sont-ils nés ?", "sound": "Quand sont-ils nés ?" }
+    ],
+    "ko": [
+      { "id": "he_was_painter", "emoji": "🎨", "text": "그는 화가였습니다.", "sound": "그는 화가였습니다." },
+      { "id": "she_was_scientist", "emoji": "🔬", "text": "그녀는 과학자였습니다.", "sound": "그녀는 과학자였습니다." },
+      { "id": "he_was_born_1452", "emoji": "👶", "text": "그는 1452년에 태어났습니다.", "sound": "그는 1452년에 태어났습니다." },
+      { "id": "she_was_born_1867", "emoji": "👶", "text": "그녀는 1867년에 태어났습니다.", "sound": "그녀는 1867년에 태어났습니다." },
+      { "id": "i_was_born_1979", "emoji": "👶", "text": "저는 1979년에 태어났습니다.", "sound": "저는 1979년에 태어났습니다." },
+      { "id": "when_were_you_born", "emoji": "❓", "text": "당신은 언제 태어났나요?", "sound": "당신은 언제 태어났나요?" },
+      { "id": "when_was_he_born", "emoji": "❓", "text": "그는 언제 태어났나요?", "sound": "그는 언제 태어났나요?" },
+      { "id": "when_was_she_born", "emoji": "❓", "text": "그녀는 언제 태어났나요?", "sound": "그녀는 언제 태어났나요?" },
+      { "id": "when_were_they_born", "emoji": "❓", "text": "그들은 언제 태어났나요?", "sound": "그들은 언제 태어났나요?" }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "We're millionaires!",
+      "content": "🇫🇷 In August 1999 three friends, Jacques Proust, Guy Fadat, and François Leclerc, were on holiday in the town of Laraque in France. 🛍️ On Sunday they went shopping in the market and they saw a dirty, old painting of the Virgin Mary. 💰 They bought it for 1,400 francs and they took it to Paris. 🖼️ In Paris, an expert said that the painting was by Leonardo da Vinci and it was worth 500,000,000 francs. 😢 The man in Laraque market said: 'I was happy to sell the painting but now I'm very upset. I don't want to think about it!'",
+      "question": "How much was the painting worth?",
+      "options": [
+        { "text": "500,000,000 francs", "emoji": "💰", "correct": true },
+        { "text": "1,400 francs", "emoji": "🪙", "correct": false },
+        { "text": "100,000 francs", "emoji": "💵", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "私たちは億万長者！",
+      "content": "🇫🇷 1999年8月、ジャック・プルースト、ギー・ファダ、フランソワ・ルクレールの3人の友人はフランスのララックの町で休暇を過ごしていました。🛍️ 日曜日に彼らは市場で買い物をし、聖母マリアの汚れた古い絵画を見つけました。💰 彼らはそれを1,400フランで買い、パリに持ち帰りました。🖼️ パリで専門家がその絵はレオナルド・ダ・ヴィンチの作品で、5億フランの価値があると言いました。😢 ララック市場の男性は言いました：「絵を売れて嬉しかったけど、今はとても動揺しています。考えたくありません！」",
+      "question": "その絵の価値はいくらでしたか？",
+      "options": [
+        { "text": "5億フラン", "emoji": "💰", "correct": true },
+        { "text": "1,400フラン", "emoji": "🪙", "correct": false },
+        { "text": "10万フラン", "emoji": "💵", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "Nous sommes millionnaires !",
+      "content": "🇫🇷 En août 1999, trois amis, Jacques Proust, Guy Fadat et François Leclerc, étaient en vacances dans la ville de Laraque en France. 🛍️ Le dimanche, ils sont allés faire du shopping au marché et ils ont vu un vieux tableau sale de la Vierge Marie. 💰 Ils l'ont acheté pour 1 400 francs et ils l'ont emporté à Paris. 🖼️ À Paris, un expert a dit que le tableau était de Léonard de Vinci et qu'il valait 500 000 000 francs. 😢 L'homme du marché de Laraque a dit : « J'étais heureux de vendre le tableau mais maintenant je suis très contrarié. Je ne veux pas y penser ! »",
+      "question": "Combien valait le tableau ?",
+      "options": [
+        { "text": "500 000 000 francs", "emoji": "💰", "correct": true },
+        { "text": "1 400 francs", "emoji": "🪙", "correct": false },
+        { "text": "100 000 francs", "emoji": "💵", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "우리는 백만장자!",
+      "content": "🇫🇷 1999년 8월, 자크 프루스트, 기 파다, 프랑수아 르클레르 세 친구는 프랑스 라라크 마을에서 휴가를 보내고 있었습니다. 🛍️ 일요일에 그들은 시장에서 쇼핑을 하다가 성모 마리아의 더럽고 오래된 그림을 발견했습니다. 💰 그들은 그것을 1,400프랑에 사서 파리로 가져갔습니다. 🖼️ 파리에서 전문가가 그 그림은 레오나르도 다 빈치의 작품이며 5억 프랑의 가치가 있다고 말했습니다. 😢 라라크 시장의 남자는 말했습니다: \"그림을 팔아서 기뻤지만 지금은 매우 속상합니다. 생각하고 싶지 않아요!\"",
+      "question": "그 그림의 가치는 얼마였나요?",
+      "options": [
+        { "text": "5억 프랑", "emoji": "💰", "correct": true },
+        { "text": "1,400프랑", "emoji": "🪙", "correct": false },
+        { "text": "10만 프랑", "emoji": "💵", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the famous person with their job! 🖐️ Drag and drop!",
+        "pairs": [
+          { "emoji": "🎨", "word": "painter" },
+          { "emoji": "🎤", "word": "singer" },
+          { "emoji": "✍️", "word": "writer" },
+          { "emoji": "🎵", "word": "musician" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the person who paints! 🎨",
+        "target": "🎨",
+        "options": ["🎨", "🎤", "✍️", "🎵"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "有名人と職業を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "pairs": [
+          { "emoji": "🎨", "word": "画家" },
+          { "emoji": "🎤", "word": "歌手" },
+          { "emoji": "✍️", "word": "作家" },
+          { "emoji": "🎵", "word": "音楽家" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "絵を描く人を見つけてください！ 🎨",
+        "target": "🎨",
+        "options": ["🎨", "🎤", "✍️", "🎵"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez la célébrité avec son métier ! 🖐️ Glissez-déposez !",
+        "pairs": [
+          { "emoji": "🎨", "word": "peintre" },
+          { "emoji": "🎤", "word": "chanteur" },
+          { "emoji": "✍️", "word": "écrivain" },
+          { "emoji": "🎵", "word": "musicien" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouvez la personne qui peint ! 🎨",
+        "target": "🎨",
+        "options": ["🎨", "🎤", "✍️", "🎵"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "유명인과 직업을 맞춰보세요! 🖐️ 드래그해서 연결하세요!",
+        "pairs": [
+          { "emoji": "🎨", "word": "화가" },
+          { "emoji": "🎤", "word": "가수" },
+          { "emoji": "✍️", "word": "작가" },
+          { "emoji": "🎵", "word": "음악가" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "그림을 그리는 사람을 찾아보세요! 🎨",
+        "target": "🎨",
+        "options": ["🎨", "🎤", "✍️", "🎵"]
+      }
+    ]
+  },
+  "grammar": {
+    "en": {
+      "title": "Grammar Spot",
+      "content": "• Past of 'to be': I was, You were, He/She/It was, We were, They were\n• was/were born: I was born in 1990.\n• Questions: When were you born? When was he born?\n• Negatives: He wasn't a painter. They weren't French.\n• Irregular verbs: go-went, see-saw, buy-bought, take-took, say-said"
+    },
+    "ja": {
+      "title": "文法のポイント",
+      "content": "• 'to be'の過去形: I was, You were, He/She/It was, We were, They were\n• was/were born: 私は1990年に生まれました。\n• 疑問文: When were you born?（いつ生まれましたか？） When was he born?（彼はいつ生まれましたか？）\n• 否定文: He wasn't a painter.（彼は画家ではありませんでした。） They weren't French.（彼らはフランス人ではありませんでした。）\n• 不規則動詞: go-went, see-saw, buy-bought, take-took, say-said"
+    },
+    "fr": {
+      "title": "Point de Grammaire",
+      "content": "• Passé de 'to be': I was, You were, He/She/It was, We were, They were\n• was/were born: Je suis né en 1990.\n• Questions: When were you born? (Quand es-tu né ?) When was he born? (Quand est-il né ?)\n• Négations: He wasn't a painter. (Il n'était pas peintre.) They weren't French. (Ils n'étaient pas français.)\n• Verbes irréguliers: go-went, see-saw, buy-bought, take-took, say-said"
+    },
+    "ko": {
+      "title": "문법 포인트",
+      "content": "• 'to be'의 과거형: I was, You were, He/She/It was, We were, They were\n• was/were born: 저는 1990년에 태어났습니다.\n• 의문문: When were you born? (당신은 언제 태어났나요?) When was he born? (그는 언제 태어났나요?)\n• 부정문: He wasn't a painter. (그는 화가가 아니었습니다.) They weren't French. (그들은 프랑스인이 아니었습니다.)\n• 불규칙 동사: go-went, see-saw, buy-bought, take-took, say-said"
+    }
+  },
+  "irregular_verbs": {
+    "en": [
+      { "infinitive": "go", "past": "went", "emoji": "🏃" },
+      { "infinitive": "see", "past": "saw", "emoji": "👀" },
+      { "infinitive": "buy", "past": "bought", "emoji": "🛒" },
+      { "infinitive": "take", "past": "took", "emoji": "🤲" },
+      { "infinitive": "say", "past": "said", "emoji": "💬" },
+      { "infinitive": "sell", "past": "sold", "emoji": "💰" },
+      { "infinitive": "think", "past": "thought", "emoji": "💭" }
+    ],
+    "ja": [
+      { "infinitive": "go", "past": "went", "emoji": "🏃" },
+      { "infinitive": "see", "past": "saw", "emoji": "👀" },
+      { "infinitive": "buy", "past": "bought", "emoji": "🛒" },
+      { "infinitive": "take", "past": "took", "emoji": "🤲" },
+      { "infinitive": "say", "past": "said", "emoji": "💬" },
+      { "infinitive": "sell", "past": "sold", "emoji": "💰" },
+      { "infinitive": "think", "past": "thought", "emoji": "💭" }
+    ],
+    "fr": [
+      { "infinitive": "go", "past": "went", "emoji": "🏃" },
+      { "infinitive": "see", "past": "saw", "emoji": "👀" },
+      { "infinitive": "buy", "past": "bought", "emoji": "🛒" },
+      { "infinitive": "take", "past": "took", "emoji": "🤲" },
+      { "infinitive": "say", "past": "said", "emoji": "💬" },
+      { "infinitive": "sell", "past": "sold", "emoji": "💰" },
+      { "infinitive": "think", "past": "thought", "emoji": "💭" }
+    ],
+    "ko": [
+      { "infinitive": "go", "past": "went", "emoji": "🏃" },
+      { "infinitive": "see", "past": "saw", "emoji": "👀" },
+      { "infinitive": "buy", "past": "bought", "emoji": "🛒" },
+      { "infinitive": "take", "past": "took", "emoji": "🤲" },
+      { "infinitive": "say", "past": "said", "emoji": "💬" },
+      { "infinitive": "sell", "past": "sold", "emoji": "💰" },
+      { "infinitive": "think", "past": "thought", "emoji": "💭" }
+    ]
+  },
+  "months": {
+    "en": [
+      { "month": "January", "emoji": "📅", "number": 1 },
+      { "month": "February", "emoji": "📅", "number": 2 },
+      { "month": "March", "emoji": "📅", "number": 3 },
+      { "month": "April", "emoji": "📅", "number": 4 },
+      { "month": "May", "emoji": "📅", "number": 5 },
+      { "month": "June", "emoji": "📅", "number": 6 },
+      { "month": "July", "emoji": "📅", "number": 7 },
+      { "month": "August", "emoji": "📅", "number": 8 },
+      { "month": "September", "emoji": "📅", "number": 9 },
+      { "month": "October", "emoji": "📅", "number": 10 },
+      { "month": "November", "emoji": "📅", "number": 11 },
+      { "month": "December", "emoji": "📅", "number": 12 }
+    ],
+    "ja": [
+      { "month": "1月", "emoji": "📅", "number": 1 },
+      { "month": "2月", "emoji": "📅", "number": 2 },
+      { "month": "3月", "emoji": "📅", "number": 3 },
+      { "month": "4月", "emoji": "📅", "number": 4 },
+      { "month": "5月", "emoji": "📅", "number": 5 },
+      { "month": "6月", "emoji": "📅", "number": 6 },
+      { "month": "7月", "emoji": "📅", "number": 7 },
+      { "month": "8月", "emoji": "📅", "number": 8 },
+      { "month": "9月", "emoji": "📅", "number": 9 },
+      { "month": "10月", "emoji": "📅", "number": 10 },
+      { "month": "11月", "emoji": "📅", "number": 11 },
+      { "month": "12月", "emoji": "📅", "number": 12 }
+    ],
+    "fr": [
+      { "month": "janvier", "emoji": "📅", "number": 1 },
+      { "month": "février", "emoji": "📅", "number": 2 },
+      { "month": "mars", "emoji": "📅", "number": 3 },
+      { "month": "avril", "emoji": "📅", "number": 4 },
+      { "month": "mai", "emoji": "📅", "number": 5 },
+      { "month": "juin", "emoji": "📅", "number": 6 },
+      { "month": "juillet", "emoji": "📅", "number": 7 },
+      { "month": "août", "emoji": "📅", "number": 8 },
+      { "month": "septembre", "emoji": "📅", "number": 9 },
+      { "month": "octobre", "emoji": "📅", "number": 10 },
+      { "month": "novembre", "emoji": "📅", "number": 11 },
+      { "month": "décembre", "emoji": "📅", "number": 12 }
+    ],
+    "ko": [
+      { "month": "1월", "emoji": "📅", "number": 1 },
+      { "month": "2월", "emoji": "📅", "number": 2 },
+      { "month": "3월", "emoji": "📅", "number": 3 },
+      { "month": "4월", "emoji": "📅", "number": 4 },
+      { "month": "5월", "emoji": "📅", "number": 5 },
+      { "month": "6월", "emoji": "📅", "number": 6 },
+      { "month": "7월", "emoji": "📅", "number": 7 },
+      { "month": "8월", "emoji": "📅", "number": 8 },
+      { "month": "9월", "emoji": "📅", "number": 9 },
+      { "month": "10월", "emoji": "📅", "number": 10 },
+      { "month": "11월", "emoji": "📅", "number": 11 },
+      { "month": "12월", "emoji": "📅", "number": 12 }
+    ]
+  },
+  "ordinal_numbers": {
+    "en": [
+      { "number": 1, "word": "first", "symbol": "1st", "emoji": "🥇" },
+      { "number": 2, "word": "second", "symbol": "2nd", "emoji": "🥈" },
+      { "number": 3, "word": "third", "symbol": "3rd", "emoji": "🥉" },
+      { "number": 4, "word": "fourth", "symbol": "4th", "emoji": "4️⃣" },
+      { "number": 5, "word": "fifth", "symbol": "5th", "emoji": "5️⃣" },
+      { "number": 6, "word": "sixth", "symbol": "6th", "emoji": "6️⃣" },
+      { "number": 7, "word": "seventh", "symbol": "7th", "emoji": "7️⃣" },
+      { "number": 8, "word": "eighth", "symbol": "8th", "emoji": "8️⃣" },
+      { "number": 9, "word": "ninth", "symbol": "9th", "emoji": "9️⃣" },
+      { "number": 10, "word": "tenth", "symbol": "10th", "emoji": "🔟" },
+      { "number": 11, "word": "eleventh", "symbol": "11th", "emoji": "1️⃣1️⃣" },
+      { "number": 12, "word": "twelfth", "symbol": "12th", "emoji": "1️⃣2️⃣" },
+      { "number": 13, "word": "thirteenth", "symbol": "13th", "emoji": "1️⃣3️⃣" },
+      { "number": 14, "word": "fourteenth", "symbol": "14th", "emoji": "1️⃣4️⃣" },
+      { "number": 15, "word": "fifteenth", "symbol": "15th", "emoji": "1️⃣5️⃣" },
+      { "number": 16, "word": "sixteenth", "symbol": "16th", "emoji": "1️⃣6️⃣" },
+      { "number": 17, "word": "seventeenth", "symbol": "17th", "emoji": "1️⃣7️⃣" },
+      { "number": 18, "word": "eighteenth", "symbol": "18th", "emoji": "1️⃣8️⃣" },
+      { "number": 19, "word": "nineteenth", "symbol": "19th", "emoji": "1️⃣9️⃣" },
+      { "number": 20, "word": "twentieth", "symbol": "20th", "emoji": "2️⃣0️⃣" },
+      { "number": 21, "word": "twenty-first", "symbol": "21st", "emoji": "2️⃣1️⃣" },
+      { "number": 22, "word": "twenty-second", "symbol": "22nd", "emoji": "2️⃣2️⃣" },
+      { "number": 23, "word": "twenty-third", "symbol": "23rd", "emoji": "2️⃣3️⃣" },
+      { "number": 24, "word": "twenty-fourth", "symbol": "24th", "emoji": "2️⃣4️⃣" },
+      { "number": 25, "word": "twenty-fifth", "symbol": "25th", "emoji": "2️⃣5️⃣" },
+      { "number": 26, "word": "twenty-sixth", "symbol": "26th", "emoji": "2️⃣6️⃣" },
+      { "number": 27, "word": "twenty-seventh", "symbol": "27th", "emoji": "2️⃣7️⃣" },
+      { "number": 28, "word": "twenty-eighth", "symbol": "28th", "emoji": "2️⃣8️⃣" },
+      { "number": 29, "word": "twenty-ninth", "symbol": "29th", "emoji": "2️⃣9️⃣" },
+      { "number": 30, "word": "thirtieth", "symbol": "30th", "emoji": "3️⃣0️⃣" },
+      { "number": 31, "word": "thirty-first", "symbol": "31st", "emoji": "3️⃣1️⃣" }
+    ],
+    "ja": [
+      { "number": 1, "word": "第1", "symbol": "1st", "emoji": "🥇" },
+      { "number": 2, "word": "第2", "symbol": "2nd", "emoji": "🥈" },
+      { "number": 3, "word": "第3", "symbol": "3rd", "emoji": "🥉" },
+      { "number": 4, "word": "第4", "symbol": "4th", "emoji": "4️⃣" },
+      { "number": 5, "word": "第5", "symbol": "5th", "emoji": "5️⃣" },
+      { "number": 6, "word": "第6", "symbol": "6th", "emoji": "6️⃣" },
+      { "number": 7, "word": "第7", "symbol": "7th", "emoji": "7️⃣" },
+      { "number": 8, "word": "第8", "symbol": "8th", "emoji": "8️⃣" },
+      { "number": 9, "word": "第9", "symbol": "9th", "emoji": "9️⃣" },
+      { "number": 10, "word": "第10", "symbol": "10th", "emoji": "🔟" },
+      { "number": 11, "word": "第11", "symbol": "11th", "emoji": "1️⃣1️⃣" },
+      { "number": 12, "word": "第12", "symbol": "12th", "emoji": "1️⃣2️⃣" },
+      { "number": 13, "word": "第13", "symbol": "13th", "emoji": "1️⃣3️⃣" },
+      { "number": 14, "word": "第14", "symbol": "14th", "emoji": "1️⃣4️⃣" },
+      { "number": 15, "word": "第15", "symbol": "15th", "emoji": "1️⃣5️⃣" },
+      { "number": 16, "word": "第16", "symbol": "16th", "emoji": "1️⃣6️⃣" },
+      { "number": 17, "word": "第17", "symbol": "17th", "emoji": "1️⃣7️⃣" },
+      { "number": 18, "word": "第18", "symbol": "18th", "emoji": "1️⃣8️⃣" },
+      { "number": 19, "word": "第19", "symbol": "19th", "emoji": "1️⃣9️⃣" },
+      { "number": 20, "word": "第20", "symbol": "20th", "emoji": "2️⃣0️⃣" },
+      { "number": 21, "word": "第21", "symbol": "21st", "emoji": "2️⃣1️⃣" },
+      { "number": 22, "word": "第22", "symbol": "22nd", "emoji": "2️⃣2️⃣" },
+      { "number": 23, "word": "第23", "symbol": "23rd", "emoji": "2️⃣3️⃣" },
+      { "number": 24, "word": "第24", "symbol": "24th", "emoji": "2️⃣4️⃣" },
+      { "number": 25, "word": "第25", "symbol": "25th", "emoji": "2️⃣5️⃣" },
+      { "number": 26, "word": "第26", "symbol": "26th", "emoji": "2️⃣6️⃣" },
+      { "number": 27, "word": "第27", "symbol": "27th", "emoji": "2️⃣7️⃣" },
+      { "number": 28, "word": "第28", "symbol": "28th", "emoji": "2️⃣8️⃣" },
+      { "number": 29, "word": "第29", "symbol": "29th", "emoji": "2️⃣9️⃣" },
+      { "number": 30, "word": "第30", "symbol": "30th", "emoji": "3️⃣0️⃣" },
+      { "number": 31, "word": "第31", "symbol": "31st", "emoji": "3️⃣1️⃣" }
+    ],
+    "fr": [
+      { "number": 1, "word": "premier", "symbol": "1er", "emoji": "🥇" },
+      { "number": 2, "word": "deuxième", "symbol": "2e", "emoji": "🥈" },
+      { "number": 3, "word": "troisième", "symbol": "3e", "emoji": "🥉" },
+      { "number": 4, "word": "quatrième", "symbol": "4e", "emoji": "4️⃣" },
+      { "number": 5, "word": "cinquième", "symbol": "5e", "emoji": "5️⃣" },
+      { "number": 6, "word": "sixième", "symbol": "6e", "emoji": "6️⃣" },
+      { "number": 7, "word": "septième", "symbol": "7e", "emoji": "7️⃣" },
+      { "number": 8, "word": "huitième", "symbol": "8e", "emoji": "8️⃣" },
+      { "number": 9, "word": "neuvième", "symbol": "9e", "emoji": "9️⃣" },
+      { "number": 10, "word": "dixième", "symbol": "10e", "emoji": "🔟" },
+      { "number": 11, "word": "onzième", "symbol": "11e", "emoji": "1️⃣1️⃣" },
+      { "number": 12, "word": "douzième", "symbol": "12e", "emoji": "1️⃣2️⃣" },
+      { "number": 13, "word": "treizième", "symbol": "13e", "emoji": "1️⃣3️⃣" },
+      { "number": 14, "word": "quatorzième", "symbol": "14e", "emoji": "1️⃣4️⃣" },
+      { "number": 15, "word": "quinzième", "symbol": "15e", "emoji": "1️⃣5️⃣" },
+      { "number": 16, "word": "seizième", "symbol": "16e", "emoji": "1️⃣6️⃣" },
+      { "number": 17, "word": "dix-septième", "symbol": "17e", "emoji": "1️⃣7️⃣" },
+      { "number": 18, "word": "dix-huitième", "symbol": "18e", "emoji": "1️⃣8️⃣" },
+      { "number": 19, "word": "dix-neuvième", "symbol": "19e", "emoji": "1️⃣9️⃣" },
+      { "number": 20, "word": "vingtième", "symbol": "20e", "emoji": "2️⃣0️⃣" },
+      { "number": 21, "word": "vingt et unième", "symbol": "21e", "emoji": "2️⃣1️⃣" },
+      { "number": 22, "word": "vingt-deuxième", "symbol": "22e", "emoji": "2️⃣2️⃣" },
+      { "number": 23, "word": "vingt-troisième", "symbol": "23e", "emoji": "2️⃣3️⃣" },
+      { "number": 24, "word": "vingt-quatrième", "symbol": "24e", "emoji": "2️⃣4️⃣" },
+      { "number": 25, "word": "vingt-cinquième", "symbol": "25e", "emoji": "2️⃣5️⃣" },
+      { "number": 26, "word": "vingt-sixième", "symbol": "26e", "emoji": "2️⃣6️⃣" },
+      { "number": 27, "word": "vingt-septième", "symbol": "27e", "emoji": "2️⃣7️⃣" },
+      { "number": 28, "word": "vingt-huitième", "symbol": "28e", "emoji": "2️⃣8️⃣" },
+      { "number": 29, "word": "vingt-neuvième", "symbol": "29e", "emoji": "2️⃣9️⃣" },
+      { "number": 30, "word": "trentième", "symbol": "30e", "emoji": "3️⃣0️⃣" },
+      { "number": 31, "word": "trente et unième", "symbol": "31e", "emoji": "3️⃣1️⃣" }
+    ],
+    "ko": [
+      { "number": 1, "word": "첫 번째", "symbol": "1st", "emoji": "🥇" },
+      { "number": 2, "word": "두 번째", "symbol": "2nd", "emoji": "🥈" },
+      { "number": 3, "word": "세 번째", "symbol": "3rd", "emoji": "🥉" },
+      { "number": 4, "word": "네 번째", "symbol": "4th", "emoji": "4️⃣" },
+      { "number": 5, "word": "다섯 번째", "symbol": "5th", "emoji": "5️⃣" },
+      { "number": 6, "word": "여섯 번째", "symbol": "6th", "emoji": "6️⃣" },
+      { "number": 7, "word": "일곱 번째", "symbol": "7th", "emoji": "7️⃣" },
+      { "number": 8, "word": "여덟 번째", "symbol": "8th", "emoji": "8️⃣" },
+      { "number": 9, "word": "아홉 번째", "symbol": "9th", "emoji": "9️⃣" },
+      { "number": 10, "word": "열 번째", "symbol": "10th", "emoji": "🔟" },
+      { "number": 11, "word": "열한 번째", "symbol": "11th", "emoji": "1️⃣1️⃣" },
+      { "number": 12, "word": "열두 번째", "symbol": "12th", "emoji": "1️⃣2️⃣" },
+      { "number": 13, "word": "열세 번째", "symbol": "13th", "emoji": "1️⃣3️⃣" },
+      { "number": 14, "word": "열네 번째", "symbol": "14th", "emoji": "1️⃣4️⃣" },
+      { "number": 15, "word": "열다섯 번째", "symbol": "15th", "emoji": "1️⃣5️⃣" },
+      { "number": 16, "word": "열여섯 번째", "symbol": "16th", "emoji": "1️⃣6️⃣" },
+      { "number": 17, "word": "열일곱 번째", "symbol": "17th", "emoji": "1️⃣7️⃣" },
+      { "number": 18, "word": "열여덟 번째", "symbol": "18th", "emoji": "1️⃣8️⃣" },
+      { "number": 19, "word": "열아홉 번째", "symbol": "19th", "emoji": "1️⃣9️⃣" },
+      { "number": 20, "word": "스무 번째", "symbol": "20th", "emoji": "2️⃣0️⃣" },
+      { "number": 21, "word": "스물한 번째", "symbol": "21st", "emoji": "2️⃣1️⃣" },
+      { "number": 22, "word": "스물두 번째", "symbol": "22nd", "emoji": "2️⃣2️⃣" },
+      { "number": 23, "word": "스물세 번째", "symbol": "23rd", "emoji": "2️⃣3️⃣" },
+      { "number": 24, "word": "스물네 번째", "symbol": "24th", "emoji": "2️⃣4️⃣" },
+      { "number": 25, "word": "스물다섯 번째", "symbol": "25th", "emoji": "2️⃣5️⃣" },
+      { "number": 26, "word": "스물여섯 번째", "symbol": "26th", "emoji": "2️⃣6️⃣" },
+      { "number": 27, "word": "스물일곱 번째", "symbol": "27th", "emoji": "2️⃣7️⃣" },
+      { "number": 28, "word": "스물여덟 번째", "symbol": "28th", "emoji": "2️⃣8️⃣" },
+      { "number": 29, "word": "스물아홉 번째", "symbol": "29th", "emoji": "2️⃣9️⃣" },
+      { "number": 30, "word": "서른 번째", "symbol": "30th", "emoji": "3️⃣0️⃣" },
+      { "number": 31, "word": "서른한 번째", "symbol": "31st", "emoji": "3️⃣1️⃣" }
+    ]
+  }
+}

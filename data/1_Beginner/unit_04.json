@@ -1,0 +1,404 @@
+{
+  "title": {
+    "en": "Family and Friends",
+    "ja": "家族と友だち",
+    "fr": "Famille et amis",
+    "ko": "가족과 친구"
+  },
+  "topic": {
+    "en": "Family relations, possessive adjectives, has/have",
+    "ja": "家族関係、所有形容詞、has/have",
+    "fr": "Relations familiales, adjectifs possessifs, has/have",
+    "ko": "가족 관계, 소유격 형용사, has/have"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "mother", "emoji": "👩", "word": "mother", "hint": "She is my mother", "sound": "mother" },
+      { "id": "father", "emoji": "👨", "word": "father", "hint": "He is my father", "sound": "father" },
+      { "id": "sister", "emoji": "👧", "word": "sister", "hint": "She is my sister", "sound": "sister" },
+      { "id": "brother", "emoji": "👦", "word": "brother", "hint": "He is my brother", "sound": "brother" },
+      { "id": "daughter", "emoji": "👧", "word": "daughter", "hint": "She is my daughter", "sound": "daughter" },
+      { "id": "son", "emoji": "👦", "word": "son", "hint": "He is my son", "sound": "son" },
+      { "id": "wife", "emoji": "👩", "word": "wife", "hint": "She is my wife", "sound": "wife" },
+      { "id": "husband", "emoji": "👨", "word": "husband", "hint": "He is my husband", "sound": "husband" },
+      { "id": "parents", "emoji": "👫", "word": "parents", "hint": "They are my parents", "sound": "parents" },
+      { "id": "children", "emoji": "👧👦", "word": "children", "hint": "They are my children", "sound": "children" }
+    ],
+    "ja": [
+      { "id": "mother", "emoji": "👩", "word": "母", "hint": "彼女は私の母です", "sound": "はは" },
+      { "id": "father", "emoji": "👨", "word": "父", "hint": "彼は私の父です", "sound": "ちち" },
+      { "id": "sister", "emoji": "👧", "word": "姉", "hint": "彼女は私の姉です", "sound": "あね" },
+      { "id": "brother", "emoji": "👦", "word": "兄", "hint": "彼は私の兄です", "sound": "あに" },
+      { "id": "daughter", "emoji": "👧", "word": "娘", "hint": "彼女は私の娘です", "sound": "むすめ" },
+      { "id": "son", "emoji": "👦", "word": "息子", "hint": "彼は私の息子です", "sound": "むすこ" },
+      { "id": "wife", "emoji": "👩", "word": "妻", "hint": "彼女は私の妻です", "sound": "つま" },
+      { "id": "husband", "emoji": "👨", "word": "夫", "hint": "彼は私の夫です", "sound": "おっと" },
+      { "id": "parents", "emoji": "👫", "word": "両親", "hint": "彼らは私の両親です", "sound": "りょうしん" },
+      { "id": "children", "emoji": "👧👦", "word": "子供たち", "hint": "彼らは私の子供たちです", "sound": "こどもたち" }
+    ],
+    "fr": [
+      { "id": "mother", "emoji": "👩", "word": "mère", "hint": "C'est ma mère", "sound": "mère" },
+      { "id": "father", "emoji": "👨", "word": "père", "hint": "C'est mon père", "sound": "père" },
+      { "id": "sister", "emoji": "👧", "word": "sœur", "hint": "C'est ma sœur", "sound": "sœur" },
+      { "id": "brother", "emoji": "👦", "word": "frère", "hint": "C'est mon frère", "sound": "frère" },
+      { "id": "daughter", "emoji": "👧", "word": "fille", "hint": "C'est ma fille", "sound": "fille" },
+      { "id": "son", "emoji": "👦", "word": "fils", "hint": "C'est mon fils", "sound": "fils" },
+      { "id": "wife", "emoji": "👩", "word": "femme", "hint": "C'est ma femme", "sound": "femme" },
+      { "id": "husband", "emoji": "👨", "word": "mari", "hint": "C'est mon mari", "sound": "mari" },
+      { "id": "parents", "emoji": "👫", "word": "parents", "hint": "Ce sont mes parents", "sound": "parents" },
+      { "id": "children", "emoji": "👧👦", "word": "enfants", "hint": "Ce sont mes enfants", "sound": "enfants" }
+    ],
+    "ko": [
+      { "id": "mother", "emoji": "👩", "word": "어머니", "hint": "그녀는 제 어머니입니다", "sound": "어머니" },
+      { "id": "father", "emoji": "👨", "word": "아버지", "hint": "그는 제 아버지입니다", "sound": "아버지" },
+      { "id": "sister", "emoji": "👧", "word": "언니/누나", "hint": "그녀는 제 언니입니다", "sound": "언니" },
+      { "id": "brother", "emoji": "👦", "word": "오빠/형", "hint": "그는 제 오빠입니다", "sound": "오빠" },
+      { "id": "daughter", "emoji": "👧", "word": "딸", "hint": "그녀는 제 딸입니다", "sound": "딸" },
+      { "id": "son", "emoji": "👦", "word": "아들", "hint": "그는 제 아들입니다", "sound": "아들" },
+      { "id": "wife", "emoji": "👩", "word": "아내", "hint": "그녀는 제 아내입니다", "sound": "아내" },
+      { "id": "husband", "emoji": "👨", "word": "남편", "hint": "그는 제 남편입니다", "sound": "남편" },
+      { "id": "parents", "emoji": "👫", "word": "부모님", "hint": "그들은 제 부모님입니다", "sound": "부모님" },
+      { "id": "children", "emoji": "👧👦", "word": "자녀들", "hint": "그들은 제 자녀들입니다", "sound": "자녀들" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "sally_family", "emoji": "👨‍👩‍👧‍👦", "text": "This is Sally's family.", "sound": "This is Sally's family." },
+      { "id": "she_married", "emoji": "💍", "text": "She's married.", "sound": "She is married." },
+      { "id": "she_teacher", "emoji": "👩‍🏫", "text": "She's a teacher.", "sound": "She is a teacher." },
+      { "id": "their_house", "emoji": "🏠", "text": "Their house is in London.", "sound": "Their house is in London." },
+      { "id": "tom_husband", "emoji": "👨", "text": "Tom is Sally's husband.", "sound": "Tom is Sally's husband." },
+      { "id": "he_bank", "emoji": "🏦", "text": "He's a bank manager.", "sound": "He is a bank manager." },
+      { "id": "two_children", "emoji": "👧👦", "text": "They have two children.", "sound": "They have two children." },
+      { "id": "students", "emoji": "🎓", "text": "They're students at Camden College.", "sound": "They are students at Camden College." }
+    ],
+    "ja": [
+      { "id": "sally_family", "emoji": "👨‍👩‍👧‍👦", "text": "こちらはサリーの家族です。", "sound": "こちらはサリーのかぞくです。" },
+      { "id": "she_married", "emoji": "💍", "text": "彼女は結婚しています。", "sound": "かのじょはけっこんしています。" },
+      { "id": "she_teacher", "emoji": "👩‍🏫", "text": "彼女は教師です。", "sound": "かのじょはきょうしです。" },
+      { "id": "their_house", "emoji": "🏠", "text": "彼らの家はロンドンにあります。", "sound": "かれらのいえはロンドンにあります。" },
+      { "id": "tom_husband", "emoji": "👨", "text": "トムはサリーの夫です。", "sound": "トムはサリーのおっとです。" },
+      { "id": "he_bank", "emoji": "🏦", "text": "彼は銀行の支店長です。", "sound": "かれはぎんこうのしてんちょうです。" },
+      { "id": "two_children", "emoji": "👧👦", "text": "彼らには二人の子供がいます。", "sound": "かれらにはふたりのこどもがいます。" },
+      { "id": "students", "emoji": "🎓", "text": "彼らはカムデン・カレッジの学生です。", "sound": "かれらはカムデン・カレッジのがくせいです。" }
+    ],
+    "fr": [
+      { "id": "sally_family", "emoji": "👨‍👩‍👧‍👦", "text": "Voici la famille de Sally.", "sound": "Voici la famille de Sally." },
+      { "id": "she_married", "emoji": "💍", "text": "Elle est mariée.", "sound": "Elle est mariée." },
+      { "id": "she_teacher", "emoji": "👩‍🏫", "text": "Elle est professeur.", "sound": "Elle est professeur." },
+      { "id": "their_house", "emoji": "🏠", "text": "Leur maison est à Londres.", "sound": "Leur maison est à Londres." },
+      { "id": "tom_husband", "emoji": "👨", "text": "Tom est le mari de Sally.", "sound": "Tom est le mari de Sally." },
+      { "id": "he_bank", "emoji": "🏦", "text": "Il est directeur de banque.", "sound": "Il est directeur de banque." },
+      { "id": "two_children", "emoji": "👧👦", "text": "Ils ont deux enfants.", "sound": "Ils ont deux enfants." },
+      { "id": "students", "emoji": "🎓", "text": "Ils sont étudiants à Camden College.", "sound": "Ils sont étudiants à Camden College." }
+    ],
+    "ko": [
+      { "id": "sally_family", "emoji": "👨‍👩‍👧‍👦", "text": "이 분은 샐리의 가족입니다.", "sound": "이 분은 샐리의 가족입니다." },
+      { "id": "she_married", "emoji": "💍", "text": "그녀는 결혼했습니다.", "sound": "그녀는 결혼했습니다." },
+      { "id": "she_teacher", "emoji": "👩‍🏫", "text": "그녀는 선생님입니다.", "sound": "그녀는 선생님입니다." },
+      { "id": "their_house", "emoji": "🏠", "text": "그들의 집은 런던에 있습니다.", "sound": "그들의 집은 런던에 있습니다." },
+      { "id": "tom_husband", "emoji": "👨", "text": "톰은 샐리의 남편입니다.", "sound": "톰은 샐리의 남편입니다." },
+      { "id": "he_bank", "emoji": "🏦", "text": "그는 은행 지점장입니다.", "sound": "그는 은행 지점장입니다." },
+      { "id": "two_children", "emoji": "👧👦", "text": "그들은 두 명의 자녀가 있습니다.", "sound": "그들은 두 명의 자녀가 있습니다." },
+      { "id": "students", "emoji": "🎓", "text": "그들은 캠든 칼리지의 학생입니다.", "sound": "그들은 캠든 칼리지의 학생입니다." }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "Sally's Family",
+      "content": "👩 This is Sally Milton. She's married. 👨‍👩‍👧‍👦 This is her family. Their house is in London. 👩‍🏫 She's a teacher. Her school is in the centre of town. 👨 Tom is Sally's husband. He's a bank manager. His bank is in the centre of town, too. 👧👦 Their children are Kirsty and Nick. They're students at Camden College. 😊 We're happy in London.",
+      "question": "Who is Tom?",
+      "options": [
+        { "text": "Sally's husband", "emoji": "👨", "correct": true },
+        { "text": "Sally's brother", "emoji": "👦", "correct": false },
+        { "text": "Kirsty's brother", "emoji": "👦", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "サリーの家族",
+      "content": "👩 こちらはサリー・ミルトンです。彼女は結婚しています。👨‍👩‍👧‍👦 こちらが彼女の家族です。彼らの家はロンドンにあります。👩‍🏫 彼女は教師です。彼女の学校は町の中心にあります。👨 トムはサリーの夫です。彼は銀行の支店長です。彼の銀行も町の中心にあります。👧👦 彼らの子供はカースティとニックです。彼らはカムデン・カレッジの学生です。😊 私たちはロンドンで幸せです。",
+      "question": "トムは誰ですか？",
+      "options": [
+        { "text": "サリーの夫", "emoji": "👨", "correct": true },
+        { "text": "サリーの兄弟", "emoji": "👦", "correct": false },
+        { "text": "カースティの兄弟", "emoji": "👦", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "La famille de Sally",
+      "content": "👩 Voici Sally Milton. Elle est mariée. 👨‍👩‍👧‍👦 Voici sa famille. Leur maison est à Londres. 👩‍🏫 Elle est professeur. Son école est dans le centre-ville. 👨 Tom est le mari de Sally. Il est directeur de banque. Sa banque est aussi dans le centre-ville. 👧👦 Leurs enfants sont Kirsty et Nick. Ils sont étudiants à Camden College. 😊 Nous sommes heureux à Londres.",
+      "question": "Qui est Tom ?",
+      "options": [
+        { "text": "Le mari de Sally", "emoji": "👨", "correct": true },
+        { "text": "Le frère de Sally", "emoji": "👦", "correct": false },
+        { "text": "Le frère de Kirsty", "emoji": "👦", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "샐리의 가족",
+      "content": "👩 이 분은 샐리 밀턴입니다. 그녀는 결혼했습니다. 👨‍👩‍👧‍👦 이 분이 그녀의 가족입니다. 그들의 집은 런던에 있습니다. 👩‍🏫 그녀는 선생님입니다. 그녀의 학교는 시내 중심에 있습니다. 👨 톰은 샐리의 남편입니다. 그는 은행 지점장입니다. 그의 은행도 시내 중심에 있습니다. 👧👦 그들의 자녀는 커스티와 닉입니다. 그들은 캠든 칼리지의 학생입니다. 😊 우리는 런던에서 행복합니다.",
+      "question": "톰은 누구인가요?",
+      "options": [
+        { "text": "샐리의 남편", "emoji": "👨", "correct": true },
+        { "text": "샐리의 형제", "emoji": "👦", "correct": false },
+        { "text": "커스티의 형제", "emoji": "👦", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the family member with the word! 🖐️ Drag and drop!",
+        "pairs": [
+          { "emoji": "👩", "word": "mother" },
+          { "emoji": "👨", "word": "father" },
+          { "emoji": "👧", "word": "sister" },
+          { "emoji": "👦", "word": "brother" },
+          { "emoji": "👫", "word": "parents" },
+          { "emoji": "👧👦", "word": "children" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the father! 👨",
+        "target": "👨",
+        "options": ["👩", "👨", "👧", "👦"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "家族のメンバーと単語を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "pairs": [
+          { "emoji": "👩", "word": "母" },
+          { "emoji": "👨", "word": "父" },
+          { "emoji": "👧", "word": "姉" },
+          { "emoji": "👦", "word": "兄" },
+          { "emoji": "👫", "word": "両親" },
+          { "emoji": "👧👦", "word": "子供たち" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "父を見つけてください！ 👨",
+        "target": "👨",
+        "options": ["👩", "👨", "👧", "👦"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez le membre de la famille avec le mot ! 🖐️ Glissez-déposez !",
+        "pairs": [
+          { "emoji": "👩", "word": "mère" },
+          { "emoji": "👨", "word": "père" },
+          { "emoji": "👧", "word": "sœur" },
+          { "emoji": "👦", "word": "frère" },
+          { "emoji": "👫", "word": "parents" },
+          { "emoji": "👧👦", "word": "enfants" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouvez le père ! 👨",
+        "target": "👨",
+        "options": ["👩", "👨", "👧", "👦"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "가족 구성원과 단어를 맞춰보세요! 🖐️ 드래그해서 연결하세요!",
+        "pairs": [
+          { "emoji": "👩", "word": "어머니" },
+          { "emoji": "👨", "word": "아버지" },
+          { "emoji": "👧", "word": "언니/누나" },
+          { "emoji": "👦", "word": "오빠/형" },
+          { "emoji": "👫", "word": "부모님" },
+          { "emoji": "👧👦", "word": "자녀들" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "아버지를 찾아보세요! 👨",
+        "target": "👨",
+        "options": ["👩", "👨", "👧", "👦"]
+      }
+    ]
+  },
+  "alphabet": {
+    "en": [
+      { "letter": "A", "sound_group": "/eɪ/", "word": "ay" },
+      { "letter": "B", "sound_group": "/biː/", "word": "bee" },
+      { "letter": "C", "sound_group": "/siː/", "word": "see" },
+      { "letter": "D", "sound_group": "/diː/", "word": "dee" },
+      { "letter": "E", "sound_group": "/iː/", "word": "ee" },
+      { "letter": "F", "sound_group": "/ɛf/", "word": "ef" },
+      { "letter": "G", "sound_group": "/dʒiː/", "word": "gee" },
+      { "letter": "H", "sound_group": "/eɪtʃ/", "word": "aitch" },
+      { "letter": "I", "sound_group": "/aɪ/", "word": "eye" },
+      { "letter": "J", "sound_group": "/dʒeɪ/", "word": "jay" },
+      { "letter": "K", "sound_group": "/keɪ/", "word": "kay" },
+      { "letter": "L", "sound_group": "/ɛl/", "word": "el" },
+      { "letter": "M", "sound_group": "/ɛm/", "word": "em" },
+      { "letter": "N", "sound_group": "/ɛn/", "word": "en" },
+      { "letter": "O", "sound_group": "/oʊ/", "word": "oh" },
+      { "letter": "P", "sound_group": "/piː/", "word": "pee" },
+      { "letter": "Q", "sound_group": "/kjuː/", "word": "cue" },
+      { "letter": "R", "sound_group": "/ɑːr/", "word": "ar" },
+      { "letter": "S", "sound_group": "/ɛs/", "word": "ess" },
+      { "letter": "T", "sound_group": "/tiː/", "word": "tee" },
+      { "letter": "U", "sound_group": "/juː/", "word": "you" },
+      { "letter": "V", "sound_group": "/viː/", "word": "vee" },
+      { "letter": "W", "sound_group": "/ˈdʌbəljuː/", "word": "double u" },
+      { "letter": "X", "sound_group": "/ɛks/", "word": "ex" },
+      { "letter": "Y", "sound_group": "/waɪ/", "word": "why" },
+      { "letter": "Z", "sound_group": "/ziː/", "word": "zee" }
+    ],
+    "fr": [
+      { "letter": "A", "sound_group": "/a/", "word": "a" },
+      { "letter": "B", "sound_group": "/be/", "word": "bé" },
+      { "letter": "C", "sound_group": "/se/", "word": "cé" },
+      { "letter": "D", "sound_group": "/de/", "word": "dé" },
+      { "letter": "E", "sound_group": "/ə/", "word": "e" },
+      { "letter": "F", "sound_group": "/ɛf/", "word": "effe" },
+      { "letter": "G", "sound_group": "/ʒe/", "word": "gé" },
+      { "letter": "H", "sound_group": "/aʃ/", "word": "hache" },
+      { "letter": "I", "sound_group": "/i/", "word": "i" },
+      { "letter": "J", "sound_group": "/ʒi/", "word": "ji" },
+      { "letter": "K", "sound_group": "/ka/", "word": "ka" },
+      { "letter": "L", "sound_group": "/ɛl/", "word": "elle" },
+      { "letter": "M", "sound_group": "/ɛm/", "word": "emme" },
+      { "letter": "N", "sound_group": "/ɛn/", "word": "enne" },
+      { "letter": "O", "sound_group": "/o/", "word": "o" },
+      { "letter": "P", "sound_group": "/pe/", "word": "pé" },
+      { "letter": "Q", "sound_group": "/ky/", "word": "qu" },
+      { "letter": "R", "sound_group": "/ɛʁ/", "word": "erre" },
+      { "letter": "S", "sound_group": "/ɛs/", "word": "esse" },
+      { "letter": "T", "sound_group": "/te/", "word": "té" },
+      { "letter": "U", "sound_group": "/y/", "word": "u" },
+      { "letter": "V", "sound_group": "/ve/", "word": "vé" },
+      { "letter": "W", "sound_group": "/dubləve/", "word": "double vé" },
+      { "letter": "X", "sound_group": "/iks/", "word": "ixe" },
+      { "letter": "Y", "sound_group": "/iɡʁɛk/", "word": "i grec" },
+      { "letter": "Z", "sound_group": "/zɛd/", "word": "zède" }
+    ],
+    "ja": [
+  { "letter": "あ", "word": "あ" },
+  { "letter": "い", "word": "い" },
+  { "letter": "う", "word": "う" },
+  { "letter": "え", "word": "え" },
+  { "letter": "お", "word": "お" },
+  { "letter": "か", "word": "か" },
+  { "letter": "き", "word": "き" },
+  { "letter": "く", "word": "く" },
+  { "letter": "け", "word": "け" },
+  { "letter": "こ", "word": "こ" },
+  { "letter": "さ", "word": "さ" },
+  { "letter": "し", "word": "し" },
+  { "letter": "す", "word": "す" },
+  { "letter": "せ", "word": "せ" },
+  { "letter": "そ", "word": "そ" },
+  { "letter": "た", "word": "た" },
+  { "letter": "ち", "word": "ち" },
+  { "letter": "つ", "word": "つ" },
+  { "letter": "て", "word": "て" },
+  { "letter": "と", "word": "と" },
+  { "letter": "な", "word": "な" },
+  { "letter": "に", "word": "に" },
+  { "letter": "ぬ", "word": "ぬ" },
+  { "letter": "ね", "word": "ね" },
+  { "letter": "の", "word": "の" },
+  { "letter": "は", "word": "は" },
+  { "letter": "ひ", "word": "ひ" },
+  { "letter": "ふ", "word": "ふ" },
+  { "letter": "へ", "word": "へ" },
+  { "letter": "ほ", "word": "ほ" },
+  { "letter": "ま", "word": "ま" },
+  { "letter": "み", "word": "み" },
+  { "letter": "む", "word": "む" },
+  { "letter": "め", "word": "め" },
+  { "letter": "も", "word": "も" },
+  { "letter": "や", "word": "や" },
+  { "letter": "ゆ", "word": "ゆ" },
+  { "letter": "よ", "word": "よ" },
+  { "letter": "ら", "word": "ら" },
+  { "letter": "り", "word": "り" },
+  { "letter": "る", "word": "る" },
+  { "letter": "れ", "word": "れ" },
+  { "letter": "ろ", "word": "ろ" },
+  { "letter": "わ", "word": "わ" },
+  { "letter": "を", "word": "を" },
+  { "letter": "ん", "word": "ん" }
+],
+    "ko": [
+  { "letter": "ㄱ", "word": "기역" },
+  { "letter": "ㄴ", "word": "니은" },
+  { "letter": "ㄷ", "word": "디귿" },
+  { "letter": "ㄹ", "word": "리을" },
+  { "letter": "ㅁ", "word": "미음" },
+  { "letter": "ㅂ", "word": "비읍" },
+  { "letter": "ㅅ", "word": "시옷" },
+  { "letter": "ㅇ", "word": "이응" },
+  { "letter": "ㅈ", "word": "지읒" },
+  { "letter": "ㅊ", "word": "치읓" },
+  { "letter": "ㅋ", "word": "키읔" },
+  { "letter": "ㅌ", "word": "티읕" },
+  { "letter": "ㅍ", "word": "피읖" },
+  { "letter": "ㅎ", "word": "히읗" },
+  { "letter": "ㅏ", "word": "아" },
+  { "letter": "ㅑ", "word": "야" },
+  { "letter": "ㅓ", "word": "어" },
+  { "letter": "ㅕ", "word": "여" },
+  { "letter": "ㅗ", "word": "오" },
+  { "letter": "ㅛ", "word": "요" },
+  { "letter": "ㅜ", "word": "우" },
+  { "letter": "ㅠ", "word": "유" },
+  { "letter": "ㅡ", "word": "으" },
+  { "letter": "ㅣ", "word": "이" }
+]
+  },
+  "phone": {
+    "en": [
+      { "id": "ask_manager", "emoji": "🏨", "phrase": "The manager, please.", "sound": "The manager, please." },
+      { "id": "ask_name", "emoji": "❓", "phrase": "And your name is?", "sound": "And your name is?" },
+      { "id": "spell_surname", "emoji": "🔤", "phrase": "How do you spell your surname?", "sound": "How do you spell your surname?" },
+      { "id": "introduce_self", "emoji": "🙋", "phrase": "This is José Gonzalez.", "sound": "This is José Gonzalez." },
+      { "id": "ask_director", "emoji": "🏫", "phrase": "The director, please.", "sound": "The director, please." },
+      { "id": "not_in_office", "emoji": "🚫", "phrase": "She isn't in her office.", "sound": "She isn't in her office." },
+      { "id": "ask_phone", "emoji": "📱", "phrase": "What's your phone number?", "sound": "What's your phone number?" },
+      { "id": "thank_you", "emoji": "🙏", "phrase": "Thank you for telephoning.", "sound": "Thank you for telephoning." }
+    ],
+    "fr": [
+      { "id": "ask_manager", "emoji": "🏨", "phrase": "Le directeur, s'il vous plaît.", "sound": "Le directeur, s'il vous plaît." },
+      { "id": "ask_name", "emoji": "❓", "phrase": "Et votre nom ?", "sound": "Et votre nom ?" },
+      { "id": "spell_surname", "emoji": "🔤", "phrase": "Comment épelez-vous votre nom ?", "sound": "Comment épelez-vous votre nom ?" },
+      { "id": "introduce_self", "emoji": "🙋", "phrase": "Je suis José Gonzalez.", "sound": "Je suis José Gonzalez." },
+      { "id": "ask_director", "emoji": "🏫", "phrase": "La directrice, s'il vous plaît.", "sound": "La directrice, s'il vous plaît." },
+      { "id": "not_in_office", "emoji": "🚫", "phrase": "Elle n'est pas dans son bureau.", "sound": "Elle n'est pas dans son bureau." },
+      { "id": "ask_phone", "emoji": "📱", "phrase": "Quel est votre numéro de téléphone ?", "sound": "Quel est votre numéro de téléphone ?" },
+      { "id": "thank_you", "emoji": "🙏", "phrase": "Merci de votre appel.", "sound": "Merci de votre appel." }
+    ],
+    "ja": [
+      { "id": "ask_manager", "emoji": "🏨", "phrase": "支配人をお願いします。", "sound": "しはいにんをおねがいします。" },
+      { "id": "ask_name", "emoji": "❓", "phrase": "お名前は？", "sound": "おなまえは？" },
+      { "id": "spell_name", "emoji": "🔤", "phrase": "お名前のスペルを教えてください。", "sound": "おなまえのスペルをおしえてください。" },
+      { "id": "introduce_self", "emoji": "🙋", "phrase": "ホセ・ゴンザレスです。", "sound": "ホセ・ゴンザレスです。" },
+      { "id": "ask_director", "emoji": "🏫", "phrase": "ディレクターをお願いします。", "sound": "ディレクターをおねがいします。" },
+      { "id": "not_in_office", "emoji": "🚫", "phrase": "彼女はオフィスにいません。", "sound": "かのじょはオフィスにいません。" },
+      { "id": "ask_phone", "emoji": "📱", "phrase": "電話番号は？", "sound": "でんわばんごうは？" },
+      { "id": "thank_you", "emoji": "🙏", "phrase": "お電話ありがとうございます。", "sound": "おでんわありがとうございます。" }
+    ],
+    "ko": [
+      { "id": "ask_manager", "emoji": "🏨", "phrase": "지배인을 부탁드립니다.", "sound": "지배인을 부탁드립니다." },
+      { "id": "ask_name", "emoji": "❓", "phrase": "성함이 어떻게 되세요?", "sound": "성함이 어떻게 되세요?" },
+      { "id": "spell_name", "emoji": "🔤", "phrase": "이름 철자를 알려주세요.", "sound": "이름 철자를 알려주세요." },
+      { "id": "introduce_self", "emoji": "🙋", "phrase": "저는 호세 곤잘레스입니다.", "sound": "저는 호세 곤잘레스입니다." },
+      { "id": "ask_director", "emoji": "🏫", "phrase": "디렉터를 부탁드립니다.", "sound": "디렉터를 부탁드립니다." },
+      { "id": "not_in_office", "emoji": "🚫", "phrase": "그녀는 사무실에 없습니다.", "sound": "그녀는 사무실에 없습니다." },
+      { "id": "ask_phone", "emoji": "📱", "phrase": "전화번호가 어떻게 되세요?", "sound": "전화번호가 어떻게 되세요?" },
+      { "id": "thank_you", "emoji": "🙏", "phrase": "전화 주셔서 감사합니다.", "sound": "전화 주셔서 감사합니다." }
+    ]
+  }
+}

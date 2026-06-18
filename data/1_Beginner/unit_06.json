@@ -1,0 +1,449 @@
+{
+  "title": {
+    "en": "Every day",
+    "ja": "毎日",
+    "fr": "Tous les jours",
+    "ko": "매일"
+  },
+  "topic": {
+    "en": "The time, Present Simple (he/she/it), usually/sometimes/never, questions and negatives, words that go together, days of the week",
+    "ja": "時間、現在形（he/she/it）、usually/sometimes/never、疑問文と否定文、一緒に使う単語、曜日",
+    "fr": "L'heure, Présent Simple (he/she/it), usually/sometimes/never, questions et négations, mots qui vont ensemble, jours de la semaine",
+    "ko": "시간, 현재시제 (he/she/it), usually/sometimes/never, 의문문과 부정문, 함께 쓰는 단어들, 요일"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "get_up", "emoji": "🌅", "word": "get up", "hint": "I get up at 7.00", "sound": "get up" },
+      { "id": "have_breakfast", "emoji": "🍳", "word": "have breakfast", "hint": "I have breakfast at 8.00", "sound": "have breakfast" },
+      { "id": "go_to_school", "emoji": "🏫", "word": "go to school", "hint": "I go to school at 8.30", "sound": "go to school" },
+      { "id": "have_lunch", "emoji": "🥗", "word": "have lunch", "hint": "I have lunch at 12.30", "sound": "have lunch" },
+      { "id": "get_home", "emoji": "🏠", "word": "get home", "hint": "I get home at 4.30", "sound": "get home" },
+      { "id": "go_to_bed", "emoji": "😴", "word": "go to bed", "hint": "I go to bed at 11.00", "sound": "go to bed" },
+      { "id": "have_a_shower", "emoji": "🚿", "word": "have a shower", "hint": "I have a shower in the morning", "sound": "have a shower" },
+      { "id": "work", "emoji": "💼", "word": "work", "hint": "I work in an office", "sound": "work" },
+      { "id": "cook", "emoji": "👨‍🍳", "word": "cook", "hint": "I cook dinner", "sound": "cook" },
+      { "id": "watch_tv", "emoji": "📺", "word": "watch TV", "hint": "I watch TV in the evening", "sound": "watch TV" },
+      { "id": "listen_to_music", "emoji": "🎵", "word": "listen to music", "hint": "I listen to music", "sound": "listen to music" },
+      { "id": "play_the_piano", "emoji": "🎹", "word": "play the piano", "hint": "I play the piano", "sound": "play the piano" }
+    ],
+    "ja": [
+      { "id": "get_up", "emoji": "🌅", "word": "起きる", "hint": "7時に起きます", "sound": "おきる" },
+      { "id": "have_breakfast", "emoji": "🍳", "word": "朝ごはんを食べる", "hint": "8時に朝ごはんを食べます", "sound": "あさごはんをたべる" },
+      { "id": "go_to_school", "emoji": "🏫", "word": "学校に行く", "hint": "8時半に学校に行きます", "sound": "がっこうにいく" },
+      { "id": "have_lunch", "emoji": "🥗", "word": "昼ごはんを食べる", "hint": "12時半に昼ごはんを食べます", "sound": "ひるごはんをたべる" },
+      { "id": "get_home", "emoji": "🏠", "word": "家に帰る", "hint": "4時半に家に帰ります", "sound": "いえにかえる" },
+      { "id": "go_to_bed", "emoji": "😴", "word": "寝る", "hint": "11時に寝ます", "sound": "ねる" },
+      { "id": "have_a_shower", "emoji": "🚿", "word": "シャワーを浴びる", "hint": "朝にシャワーを浴びます", "sound": "シャワーをあびる" },
+      { "id": "work", "emoji": "💼", "word": "働く", "hint": "オフィスで働きます", "sound": "はたらく" },
+      { "id": "cook", "emoji": "👨‍🍳", "word": "料理する", "hint": "夕ごはんを作ります", "sound": "りょうりする" },
+      { "id": "watch_tv", "emoji": "📺", "word": "テレビを見る", "hint": "夕方にテレビを見ます", "sound": "テレビをみる" },
+      { "id": "listen_to_music", "emoji": "🎵", "word": "音楽を聴く", "hint": "音楽を聴きます", "sound": "おんがくをきく" },
+      { "id": "play_the_piano", "emoji": "🎹", "word": "ピアノを弾く", "hint": "ピアノを弾きます", "sound": "ピアノをひく" }
+    ],
+    "fr": [
+      { "id": "get_up", "emoji": "🌅", "word": "se lever", "hint": "Je me lève à 7h", "sound": "se lever" },
+      { "id": "have_breakfast", "emoji": "🍳", "word": "prendre le petit-déjeuner", "hint": "Je prends le petit-déjeuner à 8h", "sound": "prendre le petit-déjeuner" },
+      { "id": "go_to_school", "emoji": "🏫", "word": "aller à l'école", "hint": "Je vais à l'école à 8h30", "sound": "aller à l'école" },
+      { "id": "have_lunch", "emoji": "🥗", "word": "déjeuner", "hint": "Je déjeune à 12h30", "sound": "déjeuner" },
+      { "id": "get_home", "emoji": "🏠", "word": "rentrer à la maison", "hint": "Je rentre à la maison à 16h30", "sound": "rentrer à la maison" },
+      { "id": "go_to_bed", "emoji": "😴", "word": "aller au lit", "hint": "Je vais au lit à 23h", "sound": "aller au lit" },
+      { "id": "have_a_shower", "emoji": "🚿", "word": "prendre une douche", "hint": "Je prends une douche le matin", "sound": "prendre une douche" },
+      { "id": "work", "emoji": "💼", "word": "travailler", "hint": "Je travaille dans un bureau", "sound": "travailler" },
+      { "id": "cook", "emoji": "👨‍🍳", "word": "cuisiner", "hint": "Je cuisine le dîner", "sound": "cuisiner" },
+      { "id": "watch_tv", "emoji": "📺", "word": "regarder la télé", "hint": "Je regarde la télé le soir", "sound": "regarder la télé" },
+      { "id": "listen_to_music", "emoji": "🎵", "word": "écouter de la musique", "hint": "J'écoute de la musique", "sound": "écouter de la musique" },
+      { "id": "play_the_piano", "emoji": "🎹", "word": "jouer du piano", "hint": "Je joue du piano", "sound": "jouer du piano" }
+    ],
+    "ko": [
+      { "id": "get_up", "emoji": "🌅", "word": "일어나다", "hint": "7시에 일어납니다", "sound": "일어나다" },
+      { "id": "have_breakfast", "emoji": "🍳", "word": "아침을 먹다", "hint": "8시에 아침을 먹습니다", "sound": "아침을 먹다" },
+      { "id": "go_to_school", "emoji": "🏫", "word": "학교에 가다", "hint": "8시 30분에 학교에 갑니다", "sound": "학교에 가다" },
+      { "id": "have_lunch", "emoji": "🥗", "word": "점심을 먹다", "hint": "12시 30분에 점심을 먹습니다", "sound": "점심을 먹다" },
+      { "id": "get_home", "emoji": "🏠", "word": "집에 돌아오다", "hint": "4시 30분에 집에 돌아옵니다", "sound": "집에 돌아오다" },
+      { "id": "go_to_bed", "emoji": "😴", "word": "잠자리에 가다", "hint": "11시에 잠자리에 갑니다", "sound": "잠자리에 가다" },
+      { "id": "have_a_shower", "emoji": "🚿", "word": "샤워를 하다", "hint": "아침에 샤워를 합니다", "sound": "샤워를 하다" },
+      { "id": "work", "emoji": "💼", "word": "일하다", "hint": "사무실에서 일합니다", "sound": "일하다" },
+      { "id": "cook", "emoji": "👨‍🍳", "word": "요리하다", "hint": "저녁을 요리합니다", "sound": "요리하다" },
+      { "id": "watch_tv", "emoji": "📺", "word": "TV를 보다", "hint": "저녁에 TV를 봅니다", "sound": "TV를 보다" },
+      { "id": "listen_to_music", "emoji": "🎵", "word": "음악을 듣다", "hint": "음악을 듣습니다", "sound": "음악을 듣다" },
+      { "id": "play_the_piano", "emoji": "🎹", "word": "피아노를 치다", "hint": "피아노를 칩니다", "sound": "피아노를 치다" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "nine_oclock", "emoji": "🕘", "text": "It's nine o'clock.", "sound": "It's nine o'clock." },
+      { "id": "nine_thirty", "emoji": "🕤", "text": "It's nine thirty.", "sound": "It's nine thirty." },
+      { "id": "nine_fortyfive", "emoji": "🕥", "text": "It's nine forty-five.", "sound": "It's nine forty-five." },
+      { "id": "ten_oclock", "emoji": "🕙", "text": "It's ten o'clock.", "sound": "It's ten o'clock." },
+      { "id": "ten_fifteen", "emoji": "🕥", "text": "It's ten fifteen.", "sound": "It's ten fifteen." },
+      { "id": "what_time", "emoji": "❓", "text": "What time is it?", "sound": "What time is it?" },
+      { "id": "get_up_time", "emoji": "🌅", "text": "What time do you get up?", "sound": "What time do you get up?" },
+      { "id": "have_breakfast_time", "emoji": "🍳", "text": "What time do you have breakfast?", "sound": "What time do you have breakfast?" },
+      { "id": "go_to_bed_time", "emoji": "😴", "text": "What time do you go to bed?", "sound": "What time do you go to bed?" }
+    ],
+    "ja": [
+      { "id": "nine_oclock", "emoji": "🕘", "text": "9時です。", "sound": "くじです。" },
+      { "id": "nine_thirty", "emoji": "🕤", "text": "9時30分です。", "sound": "くじさんじゅっぷんです。" },
+      { "id": "nine_fortyfive", "emoji": "🕥", "text": "9時45分です。", "sound": "くじよんじゅうごふんです。" },
+      { "id": "ten_oclock", "emoji": "🕙", "text": "10時です。", "sound": "じゅうじです。" },
+      { "id": "ten_fifteen", "emoji": "🕥", "text": "10時15分です。", "sound": "じゅうじじゅうごふんです。" },
+      { "id": "what_time", "emoji": "❓", "text": "今何時ですか？", "sound": "いまなんじですか？" },
+      { "id": "get_up_time", "emoji": "🌅", "text": "何時に起きますか？", "sound": "なんじにおきますか？" },
+      { "id": "have_breakfast_time", "emoji": "🍳", "text": "何時に朝ごはんを食べますか？", "sound": "なんじにあさごはんをたべますか？" },
+      { "id": "go_to_bed_time", "emoji": "😴", "text": "何時に寝ますか？", "sound": "なんじにねますか？" }
+    ],
+    "fr": [
+      { "id": "nine_oclock", "emoji": "🕘", "text": "Il est neuf heures.", "sound": "Il est neuf heures." },
+      { "id": "nine_thirty", "emoji": "🕤", "text": "Il est neuf heures trente.", "sound": "Il est neuf heures trente." },
+      { "id": "nine_fortyfive", "emoji": "🕥", "text": "Il est neuf heures quarante-cinq.", "sound": "Il est neuf heures quarante-cinq." },
+      { "id": "ten_oclock", "emoji": "🕙", "text": "Il est dix heures.", "sound": "Il est dix heures." },
+      { "id": "ten_fifteen", "emoji": "🕥", "text": "Il est dix heures quinze.", "sound": "Il est dix heures quinze." },
+      { "id": "what_time", "emoji": "❓", "text": "Quelle heure est-il ?", "sound": "Quelle heure est-il ?" },
+      { "id": "get_up_time", "emoji": "🌅", "text": "À quelle heure te lèves-tu ?", "sound": "À quelle heure te lèves-tu ?" },
+      { "id": "have_breakfast_time", "emoji": "🍳", "text": "À quelle heure prends-tu le petit-déjeuner ?", "sound": "À quelle heure prends-tu le petit-déjeuner ?" },
+      { "id": "go_to_bed_time", "emoji": "😴", "text": "À quelle heure vas-tu au lit ?", "sound": "À quelle heure vas-tu au lit ?" }
+    ],
+    "ko": [
+      { "id": "nine_oclock", "emoji": "🕘", "text": "9시입니다.", "sound": "9시입니다." },
+      { "id": "nine_thirty", "emoji": "🕤", "text": "9시 30분입니다.", "sound": "9시 30분입니다." },
+      { "id": "nine_fortyfive", "emoji": "🕥", "text": "9시 45분입니다.", "sound": "9시 45분입니다." },
+      { "id": "ten_oclock", "emoji": "🕙", "text": "10시입니다.", "sound": "10시입니다." },
+      { "id": "ten_fifteen", "emoji": "🕥", "text": "10시 15분입니다.", "sound": "10시 15분입니다." },
+      { "id": "what_time", "emoji": "❓", "text": "지금 몇 시인가요?", "sound": "지금 몇 시인가요?" },
+      { "id": "get_up_time", "emoji": "🌅", "text": "몇 시에 일어나나요?", "sound": "몇 시에 일어나나요?" },
+      { "id": "have_breakfast_time", "emoji": "🍳", "text": "몇 시에 아침을 먹나요?", "sound": "몇 시에 아침을 먹나요?" },
+      { "id": "go_to_bed_time", "emoji": "😴", "text": "몇 시에 잠자리에 가나요?", "sound": "몇 시에 잠자리에 가나요?" }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "Karl's Day",
+      "content": "👨 Karl Wilk is 22 and he is a computer millionaire. 💻 He's the director of netstore24.com, a 24-hour shopping site on the Internet. 🌅 He gets up at six o'clock and he has a shower. 🍳 He has breakfast at 6.45. 🚕 He leaves home at 7.15 and he goes to work by taxi. 🥤 He has lunch (a Coca-Cola and a sandwich) in his office at 12.45. 💼 He usually works late. He leaves work at 7.30 in the evening. 🍕 He sometimes buys a pizza and eats it at home. He gets home at 8.15. 🖥️ He never goes out in the evening. He works at his computer from 9.15 to 11.30. 😴 He goes to bed at 11.45.",
+      "question": "What time does Karl get up?",
+      "options": [
+        { "text": "At 6.00", "emoji": "🌅", "correct": true },
+        { "text": "At 7.15", "emoji": "🚕", "correct": false },
+        { "text": "At 8.15", "emoji": "🏠", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "カールの一日",
+      "content": "👨 カール・ウィルクは22歳で、コンピューターの億万長者です。💻 彼はネットストア24のディレクターで、インターネット上の24時間ショッピングサイトです。🌅 彼は6時に起きてシャワーを浴びます。🍳 彼は6時45分に朝ごはんを食べます。🚕 彼は7時15分に家を出て、タクシーで仕事に行きます。🥤 彼は12時45分にオフィスで昼ごはん（コカコーラとサンドイッチ）を食べます。💼 彼はたいてい遅くまで働きます。夕方7時30分に仕事を終えます。🍕 彼は時々ピザを買って家で食べます。8時15分に家に着きます。🖥️ 彼は決して夜に出かけません。9時15分から11時30分までコンピューターで仕事をします。😴 彼は11時45分に寝ます。",
+      "question": "カールは何時に起きますか？",
+      "options": [
+        { "text": "6時", "emoji": "🌅", "correct": true },
+        { "text": "7時15分", "emoji": "🚕", "correct": false },
+        { "text": "8時15分", "emoji": "🏠", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "La journée de Karl",
+      "content": "👨 Karl Wilk a 22 ans et il est millionnaire dans l'informatique. 💻 Il est le directeur de netstore24.com, un site de shopping 24 heures sur 24 sur Internet. 🌅 Il se lève à six heures et il prend une douche. 🍳 Il prend le petit-déjeuner à 6h45. 🚕 Il quitte la maison à 7h15 et il va au travail en taxi. 🥤 Il déjeune (un Coca-Cola et un sandwich) dans son bureau à 12h45. 💼 Il travaille généralement tard. Il quitte le travail à 19h30. 🍕 Il achète parfois une pizza et la mange à la maison. Il rentre à la maison à 20h15. 🖥️ Il ne sort jamais le soir. Il travaille sur son ordinateur de 21h15 à 23h30. 😴 Il va au lit à 23h45.",
+      "question": "À quelle heure Karl se lève-t-il ?",
+      "options": [
+        { "text": "À 6h00", "emoji": "🌅", "correct": true },
+        { "text": "À 7h15", "emoji": "🚕", "correct": false },
+        { "text": "À 20h15", "emoji": "🏠", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "칼의 하루",
+      "content": "👨 칼 윌크는 22세이고 컴퓨터 백만장자입니다. 💻 그는 넷스토어24의 디렉터이며, 인터넷상의 24시간 쇼핑 사이트입니다. 🌅 그는 6시에 일어나서 샤워를 합니다. 🍳 그는 6시 45분에 아침을 먹습니다. 🚕 그는 7시 15분에 집을 나서서 택시로 출근합니다. 🥤 그는 12시 45분에 사무실에서 점심(코카콜라와 샌드위치)을 먹습니다. 💼 그는 보통 늦게까지 일합니다. 저녁 7시 30분에 퇴근합니다. 🍕 그는 가끔 피자를 사서 집에서 먹습니다. 8시 15분에 집에 도착합니다. 🖥️ 그는 절대 저녁에 외출하지 않습니다. 9시 15분부터 11시 30분까지 컴퓨터로 일합니다. 😴 그는 11시 45분에 잠자리에 갑니다.",
+      "question": "칼은 몇 시에 일어나나요?",
+      "options": [
+        { "text": "6시에", "emoji": "🌅", "correct": true },
+        { "text": "7시 15분에", "emoji": "🚕", "correct": false },
+        { "text": "8시 15분에", "emoji": "🏠", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the daily activity with the word! 🖐️ Drag and drop!",
+        "pairs": [
+          { "emoji": "🌅", "word": "get up" },
+          { "emoji": "🍳", "word": "have breakfast" },
+          { "emoji": "🏫", "word": "go to school" },
+          { "emoji": "😴", "word": "go to bed" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the person going to bed! 😴",
+        "target": "😴",
+        "options": ["🌅", "🍳", "😴", "🏫"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "毎日の活動と単語を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "pairs": [
+          { "emoji": "🌅", "word": "起きる" },
+          { "emoji": "🍳", "word": "朝ごはんを食べる" },
+          { "emoji": "🏫", "word": "学校に行く" },
+          { "emoji": "😴", "word": "寝る" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "寝ている人を見つけてください！ 😴",
+        "target": "😴",
+        "options": ["🌅", "🍳", "😴", "🏫"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez l'activité quotidienne avec le mot ! 🖐️ Glissez-déposez !",
+        "pairs": [
+          { "emoji": "🌅", "word": "se lever" },
+          { "emoji": "🍳", "word": "prendre le petit-déjeuner" },
+          { "emoji": "🏫", "word": "aller à l'école" },
+          { "emoji": "😴", "word": "aller au lit" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouvez la personne qui va au lit ! 😴",
+        "target": "😴",
+        "options": ["🌅", "🍳", "😴", "🏫"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "일상 활동과 단어를 맞춰보세요! 🖐️ 드래그해서 연결하세요!",
+        "pairs": [
+          { "emoji": "🌅", "word": "일어나다" },
+          { "emoji": "🍳", "word": "아침을 먹다" },
+          { "emoji": "🏫", "word": "학교에 가다" },
+          { "emoji": "😴", "word": "잠자리에 가다" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "잠자리에 가는 사람을 찾아보세요! 😴",
+        "target": "😴",
+        "options": ["🌅", "🍳", "😴", "🏫"]
+      }
+    ]
+  },
+  "grammar": {
+    "en": {
+      "title": "Grammar Spot",
+      "content": "• Positive: He gets up early.\n• Negative: He doesn't get up late.\n• Question: What time does he get up?\n• Short answer: Yes, he does. / No, he doesn't.\n• Adverbs: usually (90%), sometimes (40%), never (0%)\n• I work / He works / She works"
+    },
+    "ja": {
+      "title": "文法のポイント",
+      "content": "• 肯定文: He gets up early.（彼は早く起きます。）\n• 否定文: He doesn't get up late.（彼は遅く起きません。）\n• 疑問文: What time does he get up?（彼は何時に起きますか？）\n• 短い答え: Yes, he does. / No, he doesn't.\n• 頻度の副詞: usually（たいてい 90%）、sometimes（時々 40%）、never（決して〜ない 0%）\n• I work / He works / She works"
+    },
+    "fr": {
+      "title": "Point de Grammaire",
+      "content": "• Positif: He gets up early.\n• Négatif: He doesn't get up late.\n• Question: What time does he get up?\n• Réponse courte: Yes, he does. / No, he doesn't.\n• Adverbes: usually (90%), sometimes (40%), never (0%)\n• I work / He works / She works"
+    },
+    "ko": {
+      "title": "문법 포인트",
+      "content": "• 긍정문: He gets up early. (그는 일찍 일어납니다.)\n• 부정문: He doesn't get up late. (그는 늦게 일어나지 않습니다.)\n• 의문문: What time does he get up? (그는 몇 시에 일어나나요?)\n• 짧은 답변: Yes, he does. / No, he doesn't.\n• 빈도 부사: usually (보통 90%), sometimes (가끔 40%), never (절대 ~하지 않다 0%)\n• I work / He works / She works"
+    }
+  },
+  "practice_conversations": {
+    "en": [
+      {
+        "title": "Asking the Time",
+        "lines": [
+          { "speaker": "A", "text": "What time is it, please?" },
+          { "speaker": "B", "text": "It's nine o'clock." },
+          { "speaker": "A", "text": "Thank you very much." }
+        ]
+      },
+      {
+        "title": "Daily Routine",
+        "lines": [
+          { "speaker": "A", "text": "What time do you get up?" },
+          { "speaker": "B", "text": "I get up at 7.30." },
+          { "speaker": "A", "text": "What time do you have breakfast?" },
+          { "speaker": "B", "text": "I have breakfast at 8.00." }
+        ]
+      },
+      {
+        "title": "About Karl",
+        "lines": [
+          { "speaker": "A", "text": "What time does he get up?" },
+          { "speaker": "B", "text": "He gets up at 6.00." },
+          { "speaker": "A", "text": "Does he go to work by taxi?" },
+          { "speaker": "B", "text": "Yes, he does." },
+          { "speaker": "A", "text": "Does he have lunch in a restaurant?" },
+          { "speaker": "B", "text": "No, he doesn't." }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "時間を尋ねる",
+        "lines": [
+          { "speaker": "A", "text": "今何時ですか？" },
+          { "speaker": "B", "text": "9時です。" },
+          { "speaker": "A", "text": "ありがとうございます。" }
+        ]
+      },
+      {
+        "title": "毎日の習慣",
+        "lines": [
+          { "speaker": "A", "text": "何時に起きますか？" },
+          { "speaker": "B", "text": "7時30分に起きます。" },
+          { "speaker": "A", "text": "何時に朝ごはんを食べますか？" },
+          { "speaker": "B", "text": "8時に朝ごはんを食べます。" }
+        ]
+      },
+      {
+        "title": "カールについて",
+        "lines": [
+          { "speaker": "A", "text": "彼は何時に起きますか？" },
+          { "speaker": "B", "text": "彼は6時に起きます。" },
+          { "speaker": "A", "text": "彼はタクシーで仕事に行きますか？" },
+          { "speaker": "B", "text": "はい、行きます。" },
+          { "speaker": "A", "text": "彼はレストランで昼ごはんを食べますか？" },
+          { "speaker": "B", "text": "いいえ、食べません。" }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "Demander l'heure",
+        "lines": [
+          { "speaker": "A", "text": "Quelle heure est-il, s'il vous plaît ?" },
+          { "speaker": "B", "text": "Il est neuf heures." },
+          { "speaker": "A", "text": "Merci beaucoup." }
+        ]
+      },
+      {
+        "title": "Routine quotidienne",
+        "lines": [
+          { "speaker": "A", "text": "À quelle heure te lèves-tu ?" },
+          { "speaker": "B", "text": "Je me lève à 7h30." },
+          { "speaker": "A", "text": "À quelle heure prends-tu le petit-déjeuner ?" },
+          { "speaker": "B", "text": "Je prends le petit-déjeuner à 8h." }
+        ]
+      },
+      {
+        "title": "À propos de Karl",
+        "lines": [
+          { "speaker": "A", "text": "À quelle heure se lève-t-il ?" },
+          { "speaker": "B", "text": "Il se lève à 6h." },
+          { "speaker": "A", "text": "Va-t-il au travail en taxi ?" },
+          { "speaker": "B", "text": "Oui, il y va." },
+          { "speaker": "A", "text": "Déjeune-t-il dans un restaurant ?" },
+          { "speaker": "B", "text": "Non, il ne déjeune pas." }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "시간 묻기",
+        "lines": [
+          { "speaker": "A", "text": "지금 몇 시인가요?" },
+          { "speaker": "B", "text": "9시입니다." },
+          { "speaker": "A", "text": "정말 감사합니다." }
+        ]
+      },
+      {
+        "title": "일상 생활",
+        "lines": [
+          { "speaker": "A", "text": "몇 시에 일어나나요?" },
+          { "speaker": "B", "text": "7시 30분에 일어납니다." },
+          { "speaker": "A", "text": "몇 시에 아침을 먹나요?" },
+          { "speaker": "B", "text": "8시에 아침을 먹습니다." }
+        ]
+      },
+      {
+        "title": "칼에 대하여",
+        "lines": [
+          { "speaker": "A", "text": "그는 몇 시에 일어나나요?" },
+          { "speaker": "B", "text": "그는 6시에 일어납니다." },
+          { "speaker": "A", "text": "그는 택시로 출근하나요?" },
+          { "speaker": "B", "text": "네, 그렇습니다." },
+          { "speaker": "A", "text": "그는 레스토랑에서 점심을 먹나요?" },
+          { "speaker": "B", "text": "아니요, 그렇지 않아요." }
+        ]
+      }
+    ]
+  },
+  "social_expressions": {
+    "en": [
+      { "id": "what_time", "emoji": "🕐", "expression": "What time is it?", "hint": "asking the time", "response": "It's nine o'clock." },
+      { "id": "thank_you", "emoji": "🙏", "expression": "Thank you very much.", "hint": "thanking", "response": "You're welcome." }
+    ],
+    "ja": [
+      { "id": "what_time", "emoji": "🕐", "expression": "今何時ですか？", "hint": "時間を尋ねる", "response": "9時です。" },
+      { "id": "thank_you", "emoji": "🙏", "expression": "ありがとうございます。", "hint": "感謝", "response": "どういたしまして。" }
+    ],
+    "fr": [
+      { "id": "what_time", "emoji": "🕐", "expression": "Quelle heure est-il ?", "hint": "demander l'heure", "response": "Il est neuf heures." },
+      { "id": "thank_you", "emoji": "🙏", "expression": "Merci beaucoup.", "hint": "remercier", "response": "De rien." }
+    ],
+    "ko": [
+      { "id": "what_time", "emoji": "🕐", "expression": "지금 몇 시인가요?", "hint": "시간 묻기", "response": "9시입니다." },
+      { "id": "thank_you", "emoji": "🙏", "expression": "정말 감사합니다.", "hint": "감사 표현", "response": "천만에요." }
+    ]
+  },
+  "days_of_week": {
+    "en": [
+      { "day": "Monday", "emoji": "📅" },
+      { "day": "Tuesday", "emoji": "📅" },
+      { "day": "Wednesday", "emoji": "📅" },
+      { "day": "Thursday", "emoji": "📅" },
+      { "day": "Friday", "emoji": "📅" },
+      { "day": "Saturday", "emoji": "📅" },
+      { "day": "Sunday", "emoji": "📅" }
+    ],
+    "ja": [
+      { "day": "月曜日", "emoji": "📅" },
+      { "day": "火曜日", "emoji": "📅" },
+      { "day": "水曜日", "emoji": "📅" },
+      { "day": "木曜日", "emoji": "📅" },
+      { "day": "金曜日", "emoji": "📅" },
+      { "day": "土曜日", "emoji": "📅" },
+      { "day": "日曜日", "emoji": "📅" }
+    ],
+    "fr": [
+      { "day": "lundi", "emoji": "📅" },
+      { "day": "mardi", "emoji": "📅" },
+      { "day": "mercredi", "emoji": "📅" },
+      { "day": "jeudi", "emoji": "📅" },
+      { "day": "vendredi", "emoji": "📅" },
+      { "day": "samedi", "emoji": "📅" },
+      { "day": "dimanche", "emoji": "📅" }
+    ],
+    "ko": [
+      { "day": "월요일", "emoji": "📅" },
+      { "day": "화요일", "emoji": "📅" },
+      { "day": "수요일", "emoji": "📅" },
+      { "day": "목요일", "emoji": "📅" },
+      { "day": "금요일", "emoji": "📅" },
+      { "day": "토요일", "emoji": "📅" },
+      { "day": "일요일", "emoji": "📅" }
+    ]
+  },
+"time_prepositions": {
+  "en": {
+    "title": "Prepositions: in, on, at",
+    "content": "• at: at nine o'clock, at ten thirty, at the weekend\n• on: on Sunday, on Monday morning, on Saturday evening\n• in: in the morning, in the afternoon, in the evening"
+  },
+  "fr": {
+    "title": "Prépositions: à, le",
+    "content": "• à: à neuf heures, à dix heures trente, le week-end\n• le: le dimanche, le lundi matin, le samedi soir\n• le matin, l'après-midi, le soir"
+  },
+  "ja": {
+    "title": "助詞: に",
+    "content": "• 9時に、10時30分に、週末に\n• 日曜日に、月曜日の朝に、土曜日の夕方に\n• 午前に、午後に、夕方に"
+  },
+  "ko": {
+    "title": "조사: ∼에",
+    "content": "• 9시에, 10시 30분에, 주말에\n• 일요일에, 월요일 아침에, 토요일 저녁에\n• 아침에, 오후에, 저녁에"
+  }
+}
+  
+}

@@ -1,0 +1,525 @@
+{
+  "title": {
+    "en": "Places I like",
+    "ja": "好きな場所",
+    "fr": "Les endroits que j'aime",
+    "ko": "내가 좋아하는 장소"
+  },
+  "topic": {
+    "en": "Question words, it/them, this/that, adjectives, Can I...?",
+    "ja": "疑問詞、it/them、this/that、形容詞、Can I...?",
+    "fr": "Mots interrogatifs, it/them, this/that, adjectifs, Can I...?",
+    "ko": "의문사, it/them, this/that, 형용사, Can I...?"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "beautiful", "emoji": "🌺", "word": "beautiful", "hint": "A beautiful place", "sound": "beautiful" },
+      { "id": "big", "emoji": "🏙️", "word": "big", "hint": "A big city", "sound": "big" },
+      { "id": "small", "emoji": "🏠", "word": "small", "hint": "A small house", "sound": "small" },
+      { "id": "new", "emoji": "🆕", "word": "new", "hint": "A new car", "sound": "new" },
+      { "id": "old", "emoji": "🏛️", "word": "old", "hint": "An old building", "sound": "old" },
+      { "id": "expensive", "emoji": "💸", "word": "expensive", "hint": "Very expensive", "sound": "expensive" },
+      { "id": "cheap", "emoji": "💰", "word": "cheap", "hint": "Not expensive", "sound": "cheap" },
+      { "id": "lovely", "emoji": "💖", "word": "lovely", "hint": "Lovely weather", "sound": "lovely" },
+      { "id": "horrible", "emoji": "👎", "word": "horrible", "hint": "Horrible weather", "sound": "horrible" },
+      { "id": "hot", "emoji": "🔥", "word": "hot", "hint": "Hot coffee", "sound": "hot" },
+      { "id": "cold", "emoji": "❄️", "word": "cold", "hint": "Cold weather", "sound": "cold" },
+      { "id": "friendly", "emoji": "😊", "word": "friendly", "hint": "Friendly people", "sound": "friendly" },
+      { "id": "delicious", "emoji": "😋", "word": "delicious", "hint": "Delicious food", "sound": "delicious" },
+      { "id": "comfortable", "emoji": "🛋️", "word": "comfortable", "hint": "A comfortable hotel", "sound": "comfortable" }
+    ],
+    "ja": [
+      { "id": "beautiful", "emoji": "🌺", "word": "美しい", "hint": "美しい場所", "sound": "うつくしい" },
+      { "id": "big", "emoji": "🏙️", "word": "大きい", "hint": "大きい都市", "sound": "おおきい" },
+      { "id": "small", "emoji": "🏠", "word": "小さい", "hint": "小さい家", "sound": "ちいさい" },
+      { "id": "new", "emoji": "🆕", "word": "新しい", "hint": "新しい車", "sound": "あたらしい" },
+      { "id": "old", "emoji": "🏛️", "word": "古い", "hint": "古い建物", "sound": "ふるい" },
+      { "id": "expensive", "emoji": "💸", "word": "高い", "hint": "とても高い", "sound": "たかい" },
+      { "id": "cheap", "emoji": "💰", "word": "安い", "hint": "高くない", "sound": "やすい" },
+      { "id": "lovely", "emoji": "💖", "word": "素敵な", "hint": "素敵な天気", "sound": "すてきな" },
+      { "id": "horrible", "emoji": "👎", "word": "ひどい", "hint": "ひどい天気", "sound": "ひどい" },
+      { "id": "hot", "emoji": "🔥", "word": "暑い", "hint": "暑いコーヒー", "sound": "あつい" },
+      { "id": "cold", "emoji": "❄️", "word": "寒い", "hint": "寒い天気", "sound": "さむい" },
+      { "id": "friendly", "emoji": "😊", "word": "親切な", "hint": "親切な人々", "sound": "しんせつな" },
+      { "id": "delicious", "emoji": "😋", "word": "美味しい", "hint": "美味しい料理", "sound": "おいしい" },
+      { "id": "comfortable", "emoji": "🛋️", "word": "快適な", "hint": "快適なホテル", "sound": "かいてきな" }
+    ],
+    "fr": [
+      { "id": "beautiful", "emoji": "🌺", "word": "beau", "hint": "Un bel endroit", "sound": "beau" },
+      { "id": "big", "emoji": "🏙️", "word": "grand", "hint": "Une grande ville", "sound": "grand" },
+      { "id": "small", "emoji": "🏠", "word": "petit", "hint": "Une petite maison", "sound": "petit" },
+      { "id": "new", "emoji": "🆕", "word": "neuf", "hint": "Une nouvelle voiture", "sound": "neuf" },
+      { "id": "old", "emoji": "🏛️", "word": "vieux", "hint": "Un vieux bâtiment", "sound": "vieux" },
+      { "id": "expensive", "emoji": "💸", "word": "cher", "hint": "Très cher", "sound": "cher" },
+      { "id": "cheap", "emoji": "💰", "word": "bon marché", "hint": "Pas cher", "sound": "bon marché" },
+      { "id": "lovely", "emoji": "💖", "word": "magnifique", "hint": "Un temps magnifique", "sound": "magnifique" },
+      { "id": "horrible", "emoji": "👎", "word": "horrible", "hint": "Un temps horrible", "sound": "horrible" },
+      { "id": "hot", "emoji": "🔥", "word": "chaud", "hint": "Un café chaud", "sound": "chaud" },
+      { "id": "cold", "emoji": "❄️", "word": "froid", "hint": "Un temps froid", "sound": "froid" },
+      { "id": "friendly", "emoji": "😊", "word": "sympathique", "hint": "Des gens sympathiques", "sound": "sympathique" },
+      { "id": "delicious", "emoji": "😋", "word": "délicieux", "hint": "Une nourriture délicieuse", "sound": "délicieux" },
+      { "id": "comfortable", "emoji": "🛋️", "word": "confortable", "hint": "Un hôtel confortable", "sound": "confortable" }
+    ],
+    "ko": [
+      { "id": "beautiful", "emoji": "🌺", "word": "아름다운", "hint": "아름다운 장소", "sound": "아름다운" },
+      { "id": "big", "emoji": "🏙️", "word": "큰", "hint": "큰 도시", "sound": "큰" },
+      { "id": "small", "emoji": "🏠", "word": "작은", "hint": "작은 집", "sound": "작은" },
+      { "id": "new", "emoji": "🆕", "word": "새로운", "hint": "새로운 차", "sound": "새로운" },
+      { "id": "old", "emoji": "🏛️", "word": "오래된", "hint": "오래된 건물", "sound": "오래된" },
+      { "id": "expensive", "emoji": "💸", "word": "비싼", "hint": "매우 비싼", "sound": "비싼" },
+      { "id": "cheap", "emoji": "💰", "word": "싼", "hint": "비싸지 않은", "sound": "싼" },
+      { "id": "lovely", "emoji": "💖", "word": "사랑스러운", "hint": "사랑스러운 날씨", "sound": "사랑스러운" },
+      { "id": "horrible", "emoji": "👎", "word": "끔찍한", "hint": "끔찍한 날씨", "sound": "끔찍한" },
+      { "id": "hot", "emoji": "🔥", "word": "더운", "hint": "더운 커피", "sound": "더운" },
+      { "id": "cold", "emoji": "❄️", "word": "추운", "hint": "추운 날씨", "sound": "추운" },
+      { "id": "friendly", "emoji": "😊", "word": "친절한", "hint": "친절한 사람들", "sound": "친절한" },
+      { "id": "delicious", "emoji": "😋", "word": "맛있는", "hint": "맛있는 음식", "sound": "맛있는" },
+      { "id": "comfortable", "emoji": "🛋️", "word": "편안한", "hint": "편안한 호텔", "sound": "편안한" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "what_is_capital", "emoji": "❓", "text": "What is the capital of Australia?", "sound": "What is the capital of Australia?" },
+      { "id": "how_old", "emoji": "❓", "text": "How old are the Pyramids?", "sound": "How old are the Pyramids?" },
+      { "id": "where_does_president_live", "emoji": "❓", "text": "Where does the American President live?", "sound": "Where does the American President live?" },
+      { "id": "who_lives", "emoji": "❓", "text": "Who lives in Buckingham Palace?", "sound": "Who lives in Buckingham Palace?" },
+      { "id": "why_do_you_live", "emoji": "❓", "text": "Why do you live here?", "sound": "Why do you live here?" },
+      { "id": "this_is_beautiful", "emoji": "🏠", "text": "This is a very beautiful house.", "sound": "This is a very beautiful house." },
+      { "id": "i_like_it", "emoji": "❤️", "text": "I like it very much.", "sound": "I like it very much." },
+      { "id": "i_love_them", "emoji": "❤️", "text": "I love them!", "sound": "I love them!" }
+    ],
+    "ja": [
+      { "id": "what_is_capital", "emoji": "❓", "text": "オーストラリアの首都はどこですか？", "sound": "オーストラリアのしゅとはどこですか？" },
+      { "id": "how_old", "emoji": "❓", "text": "ピラミッドは何年前ですか？", "sound": "ピラミッドはなんねんまえですか？" },
+      { "id": "where_does_president_live", "emoji": "❓", "text": "アメリカ大統領はどこに住んでいますか？", "sound": "アメリカだいとうりょうはどこにすんでいますか？" },
+      { "id": "who_lives", "emoji": "❓", "text": "バッキンガム宮殿には誰が住んでいますか？", "sound": "バッキンガムきゅうでんにはだれがすんでいますか？" },
+      { "id": "why_do_you_live", "emoji": "❓", "text": "なぜここに住んでいるのですか？", "sound": "なぜここにすんでいるのですか？" },
+      { "id": "this_is_beautiful", "emoji": "🏠", "text": "これはとても美しい家です。", "sound": "これはとてもうつくしいいえです。" },
+      { "id": "i_like_it", "emoji": "❤️", "text": "とても気に入っています。", "sound": "とてもきにいっています。" },
+      { "id": "i_love_them", "emoji": "❤️", "text": "彼らが大好きです！", "sound": "かれらがだいすきです！" }
+    ],
+    "fr": [
+      { "id": "what_is_capital", "emoji": "❓", "text": "Quelle est la capitale de l'Australie ?", "sound": "Quelle est la capitale de l'Australie ?" },
+      { "id": "how_old", "emoji": "❓", "text": "Quel âge ont les Pyramides ?", "sound": "Quel âge ont les Pyramides ?" },
+      { "id": "where_does_president_live", "emoji": "❓", "text": "Où habite le président américain ?", "sound": "Où habite le président américain ?" },
+      { "id": "who_lives", "emoji": "❓", "text": "Qui habite au palais de Buckingham ?", "sound": "Qui habite au palais de Buckingham ?" },
+      { "id": "why_do_you_live", "emoji": "❓", "text": "Pourquoi habites-tu ici ?", "sound": "Pourquoi habites-tu ici ?" },
+      { "id": "this_is_beautiful", "emoji": "🏠", "text": "C'est une très belle maison.", "sound": "C'est une très belle maison." },
+      { "id": "i_like_it", "emoji": "❤️", "text": "Je l'aime beaucoup.", "sound": "Je l'aime beaucoup." },
+      { "id": "i_love_them", "emoji": "❤️", "text": "Je les adore !", "sound": "Je les adore !" }
+    ],
+    "ko": [
+      { "id": "what_is_capital", "emoji": "❓", "text": "호주의 수도는 어디인가요?", "sound": "호주의 수도는 어디인가요?" },
+      { "id": "how_old", "emoji": "❓", "text": "피라미드는 얼마나 오래되었나요?", "sound": "피라미드는 얼마나 오래되었나요?" },
+      { "id": "where_does_president_live", "emoji": "❓", "text": "미국 대통령은 어디에 살고 있나요?", "sound": "미국 대통령은 어디에 살고 있나요?" },
+      { "id": "who_lives", "emoji": "❓", "text": "버킹엄 궁전에는 누가 살고 있나요?", "sound": "버킹엄 궁전에는 누가 살고 있나요?" },
+      { "id": "why_do_you_live", "emoji": "❓", "text": "왜 여기에 살고 있나요?", "sound": "왜 여기에 살고 있나요?" },
+      { "id": "this_is_beautiful", "emoji": "🏠", "text": "이것은 매우 아름다운 집입니다.", "sound": "이것은 매우 아름다운 집입니다." },
+      { "id": "i_like_it", "emoji": "❤️", "text": "정말 마음에 듭니다.", "sound": "정말 마음에 듭니다." },
+      { "id": "i_love_them", "emoji": "❤️", "text": "그들이 정말 좋아요!", "sound": "그들이 정말 좋아요!" }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "Céline, the Famous Film Star",
+      "content": "👨‍💼 Guy: This is a very beautiful house.\n👩 Céline: Thank you. I like it very much, too.\n👨‍💼 Guy: Céline, you're American. Why do you live here in London?\n👩 Céline: Because I just love it here! The people are fantastic! I love them! And of course, my husband, Charles, is English, and I love him, too!\n👨‍💼 Guy: That's a very nice photo. Who are they?\n👩 Céline: My sons. That's Matt, and that's Jack. They go to school here. My daughter's at school in the US. Her name's Lisa-Marie.\n👨‍💼 Guy: Why does Lisa-Marie go to school in the US?\n👩 Céline: Because she lives with her father. My first husband, you know, the actor Dan Brat. I hate him and all his movies. I never watch them.\n👨‍💼 Guy: I see. And does Lisa-Marie visit you?\n👩 Céline: Oh, yes. She visits me every vacation. She's here with me now.\n👨‍💼 Guy: And is this a photo of you and Charles?\n👩 Céline: Oh yes. It's us in Hawaii. It's our wedding. We're so happy together!",
+      "question": "Why does Céline live in London?",
+      "options": [
+        { "text": "Because she loves it there", "emoji": "❤️", "correct": true },
+        { "text": "Because she hates the US", "emoji": "👎", "correct": false },
+        { "text": "Because she has a job there", "emoji": "💼", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "セリーヌ、有名な映画スター",
+      "content": "👨‍💼 ガイ: これはとても美しい家ですね。\n👩 セリーヌ: ありがとうございます。私もとても気に入っています。\n👨‍💼 ガイ: セリーヌ、あなたはアメリカ人ですね。なぜロンドンに住んでいるのですか？\n👩 セリーヌ: ここが大好きだからです！人々は素晴らしいです！彼らが大好きです！そしてもちろん、私の夫チャールズはイギリス人で、彼も愛しています！\n👨‍💼 ガイ: それはとても素敵な写真ですね。彼らは誰ですか？\n👩 セリーヌ: 私の息子たちです。あれがマットで、あれがジャックです。彼らはここで学校に通っています。娘はアメリカの学校に通っています。名前はリサ・マリーです。\n👨‍💼 ガイ: なぜリサ・マリーはアメリカで学校に通っているのですか？\n👩 セリーヌ: 父親と一緒に住んでいるからです。私の最初の夫、俳優のダン・ブラットです。彼と彼の映画は全部嫌いです。決して見ません。\n👨‍💼 ガイ: なるほど。リサ・マリーはあなたを訪ねてきますか？\n👩 セリーヌ: ええ、毎回の休暇に来てくれます。今もここに一緒にいます。\n👨‍💼 ガイ: これはあなたとチャールズの写真ですか？\n👩 セリーヌ: ええ、ハワイでの私たちです。結婚式です。私たちは一緒にいてとても幸せです！",
+      "question": "セリーヌはなぜロンドンに住んでいますか？",
+      "options": [
+        { "text": "そこが大好きだから", "emoji": "❤️", "correct": true },
+        { "text": "アメリカが嫌いだから", "emoji": "👎", "correct": false },
+        { "text": "そこに仕事があるから", "emoji": "💼", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "Céline, la célèbre star de cinéma",
+      "content": "👨‍💼 Guy: C'est une très belle maison.\n👩 Céline: Merci. Je l'aime beaucoup aussi.\n👨‍💼 Guy: Céline, vous êtes américaine. Pourquoi habitez-vous ici à Londres ?\n👩 Céline: Parce que j'adore cet endroit ! Les gens sont fantastiques ! Je les adore ! Et bien sûr, mon mari, Charles, est anglais, et je l'aime aussi !\n👨‍💼 Guy: C'est une très belle photo. Qui sont-ils ?\n👩 Céline: Mes fils. Voilà Matt, et voilà Jack. Ils vont à l'école ici. Ma fille va à l'école aux États-Unis. Elle s'appelle Lisa-Marie.\n👨‍💼 Guy: Pourquoi Lisa-Marie va-t-elle à l'école aux États-Unis ?\n👩 Céline: Parce qu'elle vit avec son père. Mon premier mari, vous savez, l'acteur Dan Brat. Je le déteste, lui et tous ses films. Je ne les regarde jamais.\n👨‍💼 Guy: Je vois. Et Lisa-Marie vous rend visite ?\n👩 Céline: Oh, oui. Elle me rend visite à chaque vacance. Elle est ici avec moi maintenant.\n👨‍💼 Guy: Et c'est une photo de vous et Charles ?\n👩 Céline: Oh oui. C'est nous à Hawaï. C'est notre mariage. Nous sommes si heureux ensemble !",
+      "question": "Pourquoi Céline habite-t-elle à Londres ?",
+      "options": [
+        { "text": "Parce qu'elle adore cet endroit", "emoji": "❤️", "correct": true },
+        { "text": "Parce qu'elle déteste les États-Unis", "emoji": "👎", "correct": false },
+        { "text": "Parce qu'elle a un travail là-bas", "emoji": "💼", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "셀린, 유명한 영화 스타",
+      "content": "👨‍💼 가이: 이것은 매우 아름다운 집이군요.\n👩 셀린: 감사합니다. 저도 정말 마음에 들어요.\n👨‍💼 가이: 셀린, 당신은 미국인이죠. 왜 런던에 살고 있나요?\n👩 셀린: 이곳이 정말 좋아서요! 사람들이 환상적이에요! 정말 좋아해요! 그리고 물론, 제 남편 찰스는 영국인이고, 그도 사랑해요!\n👨‍💼 가이: 정말 멋진 사진이네요. 그들은 누구인가요?\n👩 셀린: 제 아들들이에요. 저쪽은 맷이고, 저쪽은 잭이에요. 그들은 여기서 학교에 다녀요. 제 딸은 미국에서 학교에 다녀요. 이름은 리사-마리예요.\n👨‍💼 가이: 리사-마리는 왜 미국에서 학교에 다니나요?\n👩 셀린: 아버지와 함께 살기 때문이에요. 제 첫 남편, 배우 댄 브랫이에요. 그와 그의 영화는 모두 싫어요. 절대 보지 않아요.\n👨‍💼 가이: 알겠어요. 그리고 리사-마리가 당신을 방문하나요?\n👩 셀린: 네, 매번 방학마다 와요. 지금도 저와 함께 있어요.\n👨‍💼 가이: 이것은 당신과 찰스의 사진인가요?\n👩 셀린: 네, 하와이에서 찍은 우리예요. 우리 결혼식이었어요. 우리 함께 있어서 정말 행복해요!",
+      "question": "셀린은 왜 런던에 살고 있나요?",
+      "options": [
+        { "text": "그곳이 정말 좋아서", "emoji": "❤️", "correct": true },
+        { "text": "미국이 싫어서", "emoji": "👎", "correct": false },
+        { "text": "거기에 직장이 있어서", "emoji": "💼", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the question word with its use! 🖐️ Drag and drop!",
+        "pairs": [
+          { "emoji": "❓", "word": "What" },
+          { "emoji": "📍", "word": "Where" },
+          { "emoji": "👤", "word": "Who" },
+          { "emoji": "⏰", "word": "When" },
+          { "emoji": "❓", "word": "Why" },
+          { "emoji": "📏", "word": "How" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the question word for a person! 👤",
+        "target": "👤",
+        "options": ["❓", "📍", "👤", "⏰"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "疑問詞とその使い方を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "pairs": [
+          { "emoji": "❓", "word": "何" },
+          { "emoji": "📍", "word": "どこ" },
+          { "emoji": "👤", "word": "誰" },
+          { "emoji": "⏰", "word": "いつ" },
+          { "emoji": "❓", "word": "なぜ" },
+          { "emoji": "📏", "word": "どのように" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "人のための疑問詞を見つけてください！ 👤",
+        "target": "👤",
+        "options": ["❓", "📍", "👤", "⏰"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez le mot interrogatif avec son utilisation ! 🖐️ Glissez-déposez !",
+        "pairs": [
+          { "emoji": "❓", "word": "Quoi" },
+          { "emoji": "📍", "word": "Où" },
+          { "emoji": "👤", "word": "Qui" },
+          { "emoji": "⏰", "word": "Quand" },
+          { "emoji": "❓", "word": "Pourquoi" },
+          { "emoji": "📏", "word": "Comment" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouvez le mot interrogatif pour une personne ! 👤",
+        "target": "👤",
+        "options": ["❓", "📍", "👤", "⏰"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "의문사와 용도를 맞춰보세요! 🖐️ 드래그해서 연결하세요!",
+        "pairs": [
+          { "emoji": "❓", "word": "무엇" },
+          { "emoji": "📍", "word": "어디" },
+          { "emoji": "👤", "word": "누구" },
+          { "emoji": "⏰", "word": "언제" },
+          { "emoji": "❓", "word": "왜" },
+          { "emoji": "📏", "word": "어떻게" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "사람을 묻는 의문사를 찾아보세요! 👤",
+        "target": "👤",
+        "options": ["❓", "📍", "👤", "⏰"]
+      }
+    ]
+  },
+  "grammar": {
+    "en": {
+      "title": "Grammar Spot",
+      "content": "• Question words: What, Where, Who, When, Why, How\n• Object pronouns: me, you, him, her, it, us, them\n• this (near) / that (far)\n• Adjectives: beautiful, big, small, new, old, expensive, cheap, lovely, horrible, hot, cold, friendly, delicious, comfortable"
+    },
+    "ja": {
+      "title": "文法のポイント",
+      "content": "• 疑問詞: What, Where, Who, When, Why, How\n• 目的格代名詞: me, you, him, her, it, us, them\n• this（近く）/ that（遠く）\n• 形容詞: 美しい、大きい、小さい、新しい、古い、高い、安い、素敵な、ひどい、暑い、寒い、親切な、美味しい、快適な"
+    },
+    "fr": {
+      "title": "Point de Grammaire",
+      "content": "• Mots interrogatifs: What, Where, Who, When, Why, How\n• Pronoms objets: me, you, him, her, it, us, them\n• this (proche) / that (loin)\n• Adjectifs: beau, grand, petit, neuf, vieux, cher, bon marché, magnifique, horrible, chaud, froid, sympathique, délicieux, confortable"
+    },
+    "ko": {
+      "title": "문법 포인트",
+      "content": "• 의문사: What, Where, Who, When, Why, How\n• 목적격 대명사: me, you, him, her, it, us, them\n• this (가까운 것) / that (먼 것)\n• 형용사: 아름다운, 큰, 작은, 새로운, 오래된, 비싼, 싼, 사랑스러운, 끔찍한, 더운, 추운, 친절한, 맛있는, 편안한"
+    }
+  },
+  "practice_conversations": {
+    "en": [
+      {
+        "title": "Céline and the Journalist",
+        "lines": [
+          { "speaker": "Guy", "text": "This is a very beautiful house." },
+          { "speaker": "Céline", "text": "Thank you. I like it very much, too." },
+          { "speaker": "Guy", "text": "Why do you live here in London?" },
+          { "speaker": "Céline", "text": "Because I just love it here! The people are fantastic! I love them!" },
+          { "speaker": "Guy", "text": "That's a very nice photo. Who are they?" },
+          { "speaker": "Céline", "text": "My sons. That's Matt, and that's Jack." },
+          { "speaker": "Guy", "text": "Why does Lisa-Marie go to school in the US?" },
+          { "speaker": "Céline", "text": "Because she lives with her father." }
+        ]
+      },
+      {
+        "title": "Can I...? - At a Café",
+        "lines": [
+          { "speaker": "K", "text": "Can I have a ham sandwich, please?" },
+          { "speaker": "A", "text": "OK." },
+          { "speaker": "K", "text": "How much is that?" },
+          { "speaker": "A", "text": "Five ninety, please." },
+          { "speaker": "K", "text": "There you are." },
+          { "speaker": "A", "text": "Thanks very much." }
+        ]
+      },
+      {
+        "title": "Can I...? - At a Clothes Shop",
+        "lines": [
+          { "speaker": "K", "text": "Can I try on this jumper, please?" },
+          { "speaker": "B", "text": "Of course. The changing rooms are just here." }
+        ]
+      },
+      {
+        "title": "Can I...? - At a Railway Station",
+        "lines": [
+          { "speaker": "K", "text": "Can I have a return ticket to Oxford, please?" },
+          { "speaker": "E", "text": "Sure." },
+          { "speaker": "K", "text": "How much is that?" },
+          { "speaker": "E", "text": "Twenty-two pounds, please." },
+          { "speaker": "K", "text": "Thank you." },
+          { "speaker": "E", "text": "Twenty-five pounds. Here's your change." }
+        ]
+      }
+    ],
+    "ja": [
+      {
+        "title": "セリーヌとジャーナリスト",
+        "lines": [
+          { "speaker": "ガイ", "text": "これはとても美しい家ですね。" },
+          { "speaker": "セリーヌ", "text": "ありがとうございます。私もとても気に入っています。" },
+          { "speaker": "ガイ", "text": "なぜロンドンに住んでいるのですか？" },
+          { "speaker": "セリーヌ", "text": "ここが大好きだからです！人々は素晴らしいです！彼らが大好きです！" },
+          { "speaker": "ガイ", "text": "それはとても素敵な写真ですね。彼らは誰ですか？" },
+          { "speaker": "セリーヌ", "text": "私の息子たちです。あれがマットで、あれがジャックです。" },
+          { "speaker": "ガイ", "text": "なぜリサ・マリーはアメリカで学校に通っているのですか？" },
+          { "speaker": "セリーヌ", "text": "父親と一緒に住んでいるからです。" }
+        ]
+      },
+      {
+        "title": "Can I...? - カフェで",
+        "lines": [
+          { "speaker": "K", "text": "ハムサンドイッチをください。" },
+          { "speaker": "A", "text": "はい。" },
+          { "speaker": "K", "text": "いくらですか？" },
+          { "speaker": "A", "text": "5ポンド90ペンスです。" },
+          { "speaker": "K", "text": "どうぞ。" },
+          { "speaker": "A", "text": "ありがとうございます。" }
+        ]
+      },
+      {
+        "title": "Can I...? - 洋服店で",
+        "lines": [
+          { "speaker": "K", "text": "このセーターを試着してもいいですか？" },
+          { "speaker": "B", "text": "もちろんです。試着室はこちらです。" }
+        ]
+      },
+      {
+        "title": "Can I...? - 鉄道駅で",
+        "lines": [
+          { "speaker": "K", "text": "オックスフォードまでの往復券をください。" },
+          { "speaker": "E", "text": "はい。" },
+          { "speaker": "K", "text": "いくらですか？" },
+          { "speaker": "E", "text": "22ポンドです。" },
+          { "speaker": "K", "text": "ありがとうございます。" },
+          { "speaker": "E", "text": "25ポンドです。お釣りです。" }
+        ]
+      }
+    ],
+    "fr": [
+      {
+        "title": "Céline et le journaliste",
+        "lines": [
+          { "speaker": "Guy", "text": "C'est une très belle maison." },
+          { "speaker": "Céline", "text": "Merci. Je l'aime beaucoup aussi." },
+          { "speaker": "Guy", "text": "Pourquoi habitez-vous ici à Londres ?" },
+          { "speaker": "Céline", "text": "Parce que j'adore cet endroit ! Les gens sont fantastiques ! Je les adore !" },
+          { "speaker": "Guy", "text": "C'est une très belle photo. Qui sont-ils ?" },
+          { "speaker": "Céline", "text": "Mes fils. Voilà Matt, et voilà Jack." },
+          { "speaker": "Guy", "text": "Pourquoi Lisa-Marie va-t-elle à l'école aux États-Unis ?" },
+          { "speaker": "Céline", "text": "Parce qu'elle vit avec son père." }
+        ]
+      },
+      {
+        "title": "Can I...? - Au café",
+        "lines": [
+          { "speaker": "K", "text": "Je voudrais un sandwich au jambon, s'il vous plaît." },
+          { "speaker": "A", "text": "D'accord." },
+          { "speaker": "K", "text": "Combien ça coûte ?" },
+          { "speaker": "A", "text": "Cinq livres quatre-vingt-dix, s'il vous plaît." },
+          { "speaker": "K", "text": "Voilà." },
+          { "speaker": "A", "text": "Merci beaucoup." }
+        ]
+      },
+      {
+        "title": "Can I...? - Au magasin de vêtements",
+        "lines": [
+          { "speaker": "K", "text": "Puis-je essayer ce pull, s'il vous plaît ?" },
+          { "speaker": "B", "text": "Bien sûr. Les cabines d'essayage sont juste ici." }
+        ]
+      },
+      {
+        "title": "Can I...? - À la gare",
+        "lines": [
+          { "speaker": "K", "text": "Je voudrais un billet aller-retour pour Oxford, s'il vous plaît." },
+          { "speaker": "E", "text": "D'accord." },
+          { "speaker": "K", "text": "Combien ça coûte ?" },
+          { "speaker": "E", "text": "Vingt-deux livres, s'il vous plaît." },
+          { "speaker": "K", "text": "Merci." },
+          { "speaker": "E", "text": "Vingt-cinq livres. Voici votre monnaie." }
+        ]
+      }
+    ],
+    "ko": [
+      {
+        "title": "셀린과 기자",
+        "lines": [
+          { "speaker": "가이", "text": "이것은 매우 아름다운 집이군요." },
+          { "speaker": "셀린", "text": "감사합니다. 저도 정말 마음에 들어요." },
+          { "speaker": "가이", "text": "왜 런던에 살고 있나요?" },
+          { "speaker": "셀린", "text": "이곳이 정말 좋아서요! 사람들이 환상적이에요! 정말 좋아해요!" },
+          { "speaker": "가이", "text": "정말 멋진 사진이네요. 그들은 누구인가요?" },
+          { "speaker": "셀린", "text": "제 아들들이에요. 저쪽은 맷이고, 저쪽은 잭이에요." },
+          { "speaker": "가이", "text": "리사-마리는 왜 미국에서 학교에 다니나요?" },
+          { "speaker": "셀린", "text": "아버지와 함께 살기 때문이에요." }
+        ]
+      },
+      {
+        "title": "Can I...? - 카페에서",
+        "lines": [
+          { "speaker": "K", "text": "햄 샌드위치 하나 주세요." },
+          { "speaker": "A", "text": "네." },
+          { "speaker": "K", "text": "얼마인가요?" },
+          { "speaker": "A", "text": "5파운드 90펜스입니다." },
+          { "speaker": "K", "text": "여기 있습니다." },
+          { "speaker": "A", "text": "감사합니다." }
+        ]
+      },
+      {
+        "title": "Can I...? - 옷가게에서",
+        "lines": [
+          { "speaker": "K", "text": "이 스웨터를 입어봐도 될까요?" },
+          { "speaker": "B", "text": "물론이죠. 탈의실은 여기 있습니다." }
+        ]
+      },
+      {
+        "title": "Can I...? - 기차역에서",
+        "lines": [
+          { "speaker": "K", "text": "옥스퍼드까지 왕복표 하나 주세요." },
+          { "speaker": "E", "text": "네." },
+          { "speaker": "K", "text": "얼마인가요?" },
+          { "speaker": "E", "text": "22파운드입니다." },
+          { "speaker": "K", "text": "감사합니다." },
+          { "speaker": "E", "text": "25파운드입니다. 거스름돈입니다." }
+        ]
+      }
+    ]
+  },
+  "social_expressions": {
+    "en": [
+      { "id": "can_i_have", "emoji": "🙋", "expression": "Can I have...?", "hint": "asking for something", "response": "Sure. / Of course." },
+      { "id": "how_much", "emoji": "💰", "expression": "How much is that?", "hint": "asking price", "response": "It's £5.90." },
+      { "id": "thank_you", "emoji": "🙏", "expression": "Thank you very much.", "hint": "thanking", "response": "You're welcome." }
+    ],
+    "ja": [
+      { "id": "can_i_have", "emoji": "🙋", "expression": "〜をください。", "hint": "何かを頼む", "response": "はい。／もちろんです。" },
+      { "id": "how_much", "emoji": "💰", "expression": "いくらですか？", "hint": "値段を尋ねる", "response": "5ポンド90ペンスです。" },
+      { "id": "thank_you", "emoji": "🙏", "expression": "ありがとうございます。", "hint": "感謝", "response": "どういたしまして。" }
+    ],
+    "fr": [
+      { "id": "can_i_have", "emoji": "🙋", "expression": "Je voudrais...", "hint": "demander quelque chose", "response": "D'accord. / Bien sûr." },
+      { "id": "how_much", "emoji": "💰", "expression": "Combien ça coûte ?", "hint": "demander le prix", "response": "C'est 5,90 £." },
+      { "id": "thank_you", "emoji": "🙏", "expression": "Merci beaucoup.", "hint": "remercier", "response": "De rien." }
+    ],
+    "ko": [
+      { "id": "can_i_have", "emoji": "🙋", "expression": "~ 주세요.", "hint": "무언가 요청하기", "response": "네. / 물론이죠." },
+      { "id": "how_much", "emoji": "💰", "expression": "얼마인가요?", "hint": "가격 묻기", "response": "5파운드 90펜스입니다." },
+      { "id": "thank_you", "emoji": "🙏", "expression": "정말 감사합니다.", "hint": "감사 표현", "response": "천만에요." }
+    ]
+  },
+  "adjectives": {
+    "en": [
+      { "word": "new", "opposite": "old", "emoji": "🆕" },
+      { "word": "expensive", "opposite": "cheap", "emoji": "💸" },
+      { "word": "lovely", "opposite": "horrible", "emoji": "💖" },
+      { "word": "small", "opposite": "big", "emoji": "🏠" },
+      { "word": "cold", "opposite": "hot", "emoji": "❄️" }
+    ],
+    "ja": [
+      { "word": "新しい", "opposite": "古い", "emoji": "🆕" },
+      { "word": "高い", "opposite": "安い", "emoji": "💸" },
+      { "word": "素敵な", "opposite": "ひどい", "emoji": "💖" },
+      { "word": "小さい", "opposite": "大きい", "emoji": "🏠" },
+      { "word": "寒い", "opposite": "暑い", "emoji": "❄️" }
+    ],
+    "fr": [
+      { "word": "neuf", "opposite": "vieux", "emoji": "🆕" },
+      { "word": "cher", "opposite": "bon marché", "emoji": "💸" },
+      { "word": "magnifique", "opposite": "horrible", "emoji": "💖" },
+      { "word": "petit", "opposite": "grand", "emoji": "🏠" },
+      { "word": "froid", "opposite": "chaud", "emoji": "❄️" }
+    ],
+    "ko": [
+      { "word": "새로운", "opposite": "오래된", "emoji": "🆕" },
+      { "word": "비싼", "opposite": "싼", "emoji": "💸" },
+      { "word": "사랑스러운", "opposite": "끔찍한", "emoji": "💖" },
+      { "word": "작은", "opposite": "큰", "emoji": "🏠" },
+      { "word": "추운", "opposite": "더운", "emoji": "❄️" }
+    ]
+  },
+  "can_i_phrases": {
+    "en": [
+      { "id": "ham_sandwich", "emoji": "🥪", "phrase": "Can I have a ham sandwich?", "place": "café" },
+      { "id": "try_on_jumper", "emoji": "👕", "phrase": "Can I try on this jumper?", "place": "clothes shop" },
+      { "id": "return_ticket", "emoji": "🎫", "phrase": "Can I have a return ticket to Oxford?", "place": "railway station" },
+      { "id": "change_travellers_cheque", "emoji": "💵", "phrase": "Can I change this traveller's cheque?", "place": "bank" },
+      { "id": "send_email", "emoji": "📧", "phrase": "Can I send an email?", "place": "internet café" }
+    ],
+    "ja": [
+      { "id": "ham_sandwich", "emoji": "🥪", "phrase": "ハムサンドイッチをください。", "place": "カフェ" },
+      { "id": "try_on_jumper", "emoji": "👕", "phrase": "このセーターを試着してもいいですか？", "place": "洋服店" },
+      { "id": "return_ticket", "emoji": "🎫", "phrase": "オックスフォードまでの往復券をください。", "place": "鉄道駅" },
+      { "id": "change_travellers_cheque", "emoji": "💵", "phrase": "このトラベラーズチェックを換金できますか？", "place": "銀行" },
+      { "id": "send_email", "emoji": "📧", "phrase": "メールを送れますか？", "place": "インターネットカフェ" }
+    ],
+    "fr": [
+      { "id": "ham_sandwich", "emoji": "🥪", "phrase": "Je voudrais un sandwich au jambon.", "place": "café" },
+      { "id": "try_on_jumper", "emoji": "👕", "phrase": "Puis-je essayer ce pull ?", "place": "magasin de vêtements" },
+      { "id": "return_ticket", "emoji": "🎫", "phrase": "Je voudrais un billet aller-retour pour Oxford.", "place": "gare" },
+      { "id": "change_travellers_cheque", "emoji": "💵", "phrase": "Puis-je changer ce chèque de voyage ?", "place": "banque" },
+      { "id": "send_email", "emoji": "📧", "phrase": "Puis-je envoyer un e-mail ?", "place": "internet café" }
+    ],
+    "ko": [
+      { "id": "ham_sandwich", "emoji": "🥪", "phrase": "햄 샌드위치 하나 주세요.", "place": "카페" },
+      { "id": "try_on_jumper", "emoji": "👕", "phrase": "이 스웨터를 입어봐도 될까요?", "place": "옷가게" },
+      { "id": "return_ticket", "emoji": "🎫", "phrase": "옥스퍼드까지 왕복표 하나 주세요.", "place": "기차역" },
+      { "id": "change_travellers_cheque", "emoji": "💵", "phrase": "이 여행자 수표를 바꿀 수 있나요?", "place": "은행" },
+      { "id": "send_email", "emoji": "📧", "phrase": "이메일을 보낼 수 있나요?", "place": "인터넷 카페" }
+    ]
+  }
+  
+}
