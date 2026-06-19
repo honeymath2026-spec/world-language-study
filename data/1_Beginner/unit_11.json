@@ -1,0 +1,810 @@
+{
+  "title": {
+    "en": "Unit 11 - We can do it!",
+    "ja": "ユニット11 - 私たちはできる！",
+    "fr": "Unité 11 - Nous pouvons le faire !",
+    "ko": "유닛 11 - 우리는 할 수 있어요!"
+  },
+  "topic": {
+    "en": "can/can't · Requests and offers · Abilities · Problems",
+    "ja": "can/can't · 依頼と提案 · 能力 · 問題",
+    "fr": "can/can't · Demandes et offres · Capacités · Problèmes",
+    "ko": "can/can't · 요청과 제안 · 능력 · 문제"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "farmer", "emoji": "👨‍🌾", "word": "farmer", "hint": "I work on a farm", "sound": "farmer" },
+      { "id": "athlete", "emoji": "🏃", "word": "athlete", "hint": "I run fast", "sound": "athlete" },
+      { "id": "architect", "emoji": "🏗️", "word": "architect", "hint": "I design buildings", "sound": "architect" },
+      { "id": "interpreter", "emoji": "🗣️", "word": "interpreter", "hint": "I speak languages", "sound": "interpreter" },
+      { "id": "schoolboy", "emoji": "👦", "word": "schoolboy", "hint": "I go to school", "sound": "schoolboy" },
+      { "id": "grandmother", "emoji": "👵", "word": "grandmother", "hint": "I make cakes", "sound": "grandmother" },
+      { "id": "computer", "emoji": "💻", "word": "computer", "hint": "I use a computer", "sound": "computer" },
+      { "id": "tractor", "emoji": "🚜", "word": "tractor", "hint": "I drive a tractor", "sound": "tractor" },
+      { "id": "cake", "emoji": "🎂", "word": "cake", "hint": "I make cakes", "sound": "cake" },
+      { "id": "internet", "emoji": "🌐", "word": "internet", "hint": "I use the internet", "sound": "internet" }
+    ],
+    "ja": [
+      { "id": "farmer", "emoji": "👨‍🌾", "word": "農家", "hint": "農場で働きます", "sound": "nouka" },
+      { "id": "athlete", "emoji": "🏃", "word": "選手", "hint": "速く走ります", "sound": "senshu" },
+      { "id": "architect", "emoji": "🏗️", "word": "建築家", "hint": "建物を設計します", "sound": "kenchikuka" },
+      { "id": "interpreter", "emoji": "🗣️", "word": "通訳", "hint": "言語を話します", "sound": "tsuyaku" },
+      { "id": "schoolboy", "emoji": "👦", "word": "男子生徒", "hint": "学校に行きます", "sound": "danshi seito" },
+      { "id": "grandmother", "emoji": "👵", "word": "おばあさん", "hint": "ケーキを焼きます", "sound": "obaasan" },
+      { "id": "computer", "emoji": "💻", "word": "コンピュータ", "hint": "コンピュータを使います", "sound": "konpyuuta" },
+      { "id": "tractor", "emoji": "🚜", "word": "トラクター", "hint": "トラクターを運転します", "sound": "torakutaa" },
+      { "id": "cake", "emoji": "🎂", "word": "ケーキ", "hint": "ケーキを焼きます", "sound": "keeki" },
+      { "id": "internet", "emoji": "🌐", "word": "インターネット", "hint": "インターネットを使います", "sound": "intaanetto" }
+    ],
+    "fr": [
+      { "id": "farmer", "emoji": "👨‍🌾", "word": "agriculteur", "hint": "Je travaille à la ferme", "sound": "agriculteur" },
+      { "id": "athlete", "emoji": "🏃", "word": "athlète", "hint": "Je cours vite", "sound": "athlete" },
+      { "id": "architect", "emoji": "🏗️", "word": "architecte", "hint": "Je conçois des bâtiments", "sound": "architecte" },
+      { "id": "interpreter", "emoji": "🗣️", "word": "interprète", "hint": "Je parle des langues", "sound": "interprete" },
+      { "id": "schoolboy", "emoji": "👦", "word": "écolier", "hint": "Je vais à l'école", "sound": "ecolier" },
+      { "id": "grandmother", "emoji": "👵", "word": "grand-mère", "hint": "Je fais des gâteaux", "sound": "grand-mere" },
+      { "id": "computer", "emoji": "💻", "word": "ordinateur", "hint": "J'utilise un ordinateur", "sound": "ordinateur" },
+      { "id": "tractor", "emoji": "🚜", "word": "tracteur", "hint": "Je conduis un tracteur", "sound": "tracteur" },
+      { "id": "cake", "emoji": "🎂", "word": "gâteau", "hint": "Je fais des gâteaux", "sound": "gateau" },
+      { "id": "internet", "emoji": "🌐", "word": "internet", "hint": "J'utilise internet", "sound": "internet" }
+    ],
+    "ko": [
+      { "id": "farmer", "emoji": "👨‍🌾", "word": "농부", "hint": "농장에서 일해요", "sound": "nongbu" },
+      { "id": "athlete", "emoji": "🏃", "word": "운동선수", "hint": "빨리 달려요", "sound": "undongseonsu" },
+      { "id": "architect", "emoji": "🏗️", "word": "건축가", "hint": "건물을 설계해요", "sound": "geonchukga" },
+      { "id": "interpreter", "emoji": "🗣️", "word": "통역사", "hint": "언어를 말해요", "sound": "tongyeoksa" },
+      { "id": "schoolboy", "emoji": "👦", "word": "남학생", "hint": "학교에 가요", "sound": "namhaksaeng" },
+      { "id": "grandmother", "emoji": "👵", "word": "할머니", "hint": "케이크를 만들어요", "sound": "halmeoni" },
+      { "id": "computer", "emoji": "💻", "word": "컴퓨터", "hint": "컴퓨터를 사용해요", "sound": "keompyuteo" },
+      { "id": "tractor", "emoji": "🚜", "word": "트랙터", "hint": "트랙터를 운전해요", "sound": "teuraekteo" },
+      { "id": "cake", "emoji": "🎂", "word": "케이크", "hint": "케이크를 만들어요", "sound": "keikeu" },
+      { "id": "internet", "emoji": "🌐", "word": "인터넷", "hint": "인터넷을 사용해요", "sound": "inteonet" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "can_use_computer", "emoji": "💻", "text": "I can use a computer.", "sound": "I can use a computer." },
+      { "id": "can_speak_french", "emoji": "🗣️", "text": "I can speak French.", "sound": "I can speak French." },
+      { "id": "can_draw_well", "emoji": "🎨", "text": "I can draw well.", "sound": "I can draw well." },
+      { "id": "can_run_fast", "emoji": "🏃", "text": "I can run fast.", "sound": "I can run fast." },
+      { "id": "can_drive_tractor", "emoji": "🚜", "text": "I can drive a tractor.", "sound": "I can drive a tractor." },
+      { "id": "can_make_cakes", "emoji": "🎂", "text": "I can make cakes.", "sound": "I can make cakes." },
+      { "id": "cant_speak_german", "emoji": "❌", "text": "I can't speak German.", "sound": "I can't speak German." },
+      { "id": "cant_draw", "emoji": "❌", "text": "I can't draw at all.", "sound": "I can't draw at all." },
+      { "id": "can_you_help", "emoji": "🙋", "text": "Can you help me?", "sound": "Can you help me?" },
+      { "id": "can_tell_time", "emoji": "🕐", "text": "Can you tell me the time?", "sound": "Can you tell me the time?" }
+    ],
+    "ja": [
+      { "id": "can_use_computer", "emoji": "💻", "text": "コンピュータが使えます。", "sound": "Konpyuuta ga tsukaemasu." },
+      { "id": "can_speak_french", "emoji": "🗣️", "text": "フランス語が話せます。", "sound": "Furansugo ga hanasemasu." },
+      { "id": "can_draw_well", "emoji": "🎨", "text": "上手に絵が描けます。", "sound": "Jouzu ni e ga kAKemasu." },
+      { "id": "can_run_fast", "emoji": "🏃", "text": "速く走れます。", "sound": "Hayaku hashiremasu." },
+      { "id": "can_drive_tractor", "emoji": "🚜", "text": "トラクターを運転できます。", "sound": "Torakutaa wo unten dekimasu." },
+      { "id": "can_make_cakes", "emoji": "🎂", "text": "ケーキが作れます。", "sound": "Keeki ga tsukuremasu." },
+      { "id": "cant_speak_german", "emoji": "❌", "text": "ドイツ語が話せません。", "sound": "Doitsugo ga hanasemasen." },
+      { "id": "cant_draw", "emoji": "❌", "text": "絵が全然描けません。", "sound": "E ga zenzen kAKemasen." },
+      { "id": "can_you_help", "emoji": "🙋", "text": "手伝ってくれますか？", "sound": "Tetsudatte kuremasu ka?" },
+      { "id": "can_tell_time", "emoji": "🕐", "text": "今何時か教えてくれますか？", "sound": "Ima nanji ka oshiete kuremasu ka?" }
+    ],
+    "fr": [
+      { "id": "can_use_computer", "emoji": "💻", "text": "Je peux utiliser un ordinateur.", "sound": "Je peux utiliser un ordinateur." },
+      { "id": "can_speak_french", "emoji": "🗣️", "text": "Je peux parler français.", "sound": "Je peux parler français." },
+      { "id": "can_draw_well", "emoji": "🎨", "text": "Je peux bien dessiner.", "sound": "Je peux bien dessiner." },
+      { "id": "can_run_fast", "emoji": "🏃", "text": "Je peux courir vite.", "sound": "Je peux courir vite." },
+      { "id": "can_drive_tractor", "emoji": "🚜", "text": "Je peux conduire un tracteur.", "sound": "Je peux conduire un tracteur." },
+      { "id": "can_make_cakes", "emoji": "🎂", "text": "Je peux faire des gâteaux.", "sound": "Je peux faire des gâteaux." },
+      { "id": "cant_speak_german", "emoji": "❌", "text": "Je ne peux pas parler allemand.", "sound": "Je ne peux pas parler allemand." },
+      { "id": "cant_draw", "emoji": "❌", "text": "Je ne peux pas du tout dessiner.", "sound": "Je ne peux pas du tout dessiner." },
+      { "id": "can_you_help", "emoji": "🙋", "text": "Pouvez-vous m'aider ?", "sound": "Pouvez-vous m'aider ?" },
+      { "id": "can_tell_time", "emoji": "🕐", "text": "Pouvez-vous me donner l'heure ?", "sound": "Pouvez-vous me donner l'heure ?" }
+    ],
+    "ko": [
+      { "id": "can_use_computer", "emoji": "💻", "text": "컴퓨터를 사용할 수 있어요.", "sound": "Keompyuteoreul sayonghal su isseoyo." },
+      { "id": "can_speak_french", "emoji": "🗣️", "text": "프랑스어를 할 수 있어요.", "sound": "Peurangseueoreul hal su isseoyo." },
+      { "id": "can_draw_well", "emoji": "🎨", "text": "그림을 잘 그릴 수 있어요.", "sound": "Geurimeul jal geuril su isseoyo." },
+      { "id": "can_run_fast", "emoji": "🏃", "text": "빨리 달릴 수 있어요.", "sound": "Ppalli dallil su isseoyo." },
+      { "id": "can_drive_tractor", "emoji": "🚜", "text": "트랙터를 운전할 수 있어요.", "sound": "Teuraekteoreul unjeonhal su isseoyo." },
+      { "id": "can_make_cakes", "emoji": "🎂", "text": "케이크를 만들 수 있어요.", "sound": "Keikeureul mandeul su isseoyo." },
+      { "id": "cant_speak_german", "emoji": "❌", "text": "독일어를 할 수 없어요.", "sound": "Dogireoreul hal su eopseoyo." },
+      { "id": "cant_draw", "emoji": "❌", "text": "그림을 전혀 못 그려요.", "sound": "Geurimeul jeonhyeo mot geuryeoyo." },
+      { "id": "can_you_help", "emoji": "🙋", "text": "도와줄 수 있어요?", "sound": "Dowajul su isseoyo?" },
+      { "id": "can_tell_time", "emoji": "🕐", "text": "지금 몇 시인지 알려줄 수 있어요?", "sound": "Jigeum myeot siinji allyeojul su isseoyo?" }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "Josh and Tessa",
+      "content": "👦 Hi, Tessa! 🧑 Hi, Josh. What can you do? 💻 I can use a computer. 🎨 Can you draw? ❌ No, I can't. I can't draw at all! 🗣️ Can you speak French? ✅ Yes, I can. I can speak French very well. 🏃 Can you run fast? ❌ No, I can't, but I can play football. 🎂 Can you make cakes? ❌ No, I can't. My grandmother can make cakes!",
+      "question": "What can Josh do?",
+      "options": [
+        { "text": "He can use a computer", "emoji": "💻", "correct": true },
+        { "text": "He can draw", "emoji": "🎨", "correct": false },
+        { "text": "He can make cakes", "emoji": "🎂", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "ジョシュとテッサ",
+      "content": "👦 こんにちは、テッサ！ 🧑 こんにちは、ジョシュ。何ができるの？ 💻 コンピュータが使えるよ。 🎨 絵は描ける？ ❌ ううん、全然描けないよ。 🗣️ フランス語は話せる？ ✅ うん、とても上手に話せるよ。 🏃 速く走れる？ ❌ ううん、でもサッカーはできるよ。 🎂 ケーキは作れる？ ❌ ううん、できないよ。おばあさんがケーキを焼けるんだ！",
+      "question": "ジョシュは何ができますか？",
+      "options": [
+        { "text": "コンピュータが使えます", "emoji": "💻", "correct": true },
+        { "text": "絵が描けます", "emoji": "🎨", "correct": false },
+        { "text": "ケーキが作れます", "emoji": "🎂", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "Josh et Tessa",
+      "content": "👦 Salut, Tessa ! 🧑 Salut, Josh. Qu'est-ce que tu peux faire ? 💻 Je peux utiliser un ordinateur. 🎨 Tu peux dessiner ? ❌ Non, je ne peux pas du tout dessiner. 🗣️ Tu peux parler français ? ✅ Oui, je peux parler français très bien. 🏃 Tu peux courir vite ? ❌ Non, je ne peux pas, mais je peux jouer au football. 🎂 Tu peux faire des gâteaux ? ❌ Non, je ne peux pas. Ma grand-mère peut faire des gâteaux !",
+      "question": "Qu'est-ce que Josh peut faire ?",
+      "options": [
+        { "text": "Il peut utiliser un ordinateur", "emoji": "💻", "correct": true },
+        { "text": "Il peut dessiner", "emoji": "🎨", "correct": false },
+        { "text": "Il peut faire des gâteaux", "emoji": "🎂", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "조시와 테사",
+      "content": "👦 안녕, 테사! 🧑 안녕, 조시. 뭐 할 수 있어? 💻 컴퓨터를 사용할 수 있어. 🎨 그림 그릴 수 있어? ❌ 아니, 전혀 못 그려. 🗣️ 프랑스어 할 수 있어? ✅ 응, 아주 잘 할 수 있어. 🏃 빨리 달릴 수 있어? ❌ 아니, 못 하지만 축구는 할 수 있어. 🎂 케이크 만들 수 있어? ❌ 아니, 못 해. 우리 할머니가 케이크를 만드실 수 있어!",
+      "question": "조시는 무엇을 할 수 있나요?",
+      "options": [
+        { "text": "컴퓨터를 사용할 수 있어요", "emoji": "💻", "correct": true },
+        { "text": "그림을 그릴 수 있어요", "emoji": "🎨", "correct": false },
+        { "text": "케이크를 만들 수 있어요", "emoji": "🎂", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the person with their ability!",
+        "pairs": [
+          { "emoji": "👨‍🌾", "word": "drive a tractor" },
+          { "emoji": "🏃", "word": "run fast" },
+          { "emoji": "🗣️", "word": "speak languages" },
+          { "emoji": "👵", "word": "make cakes" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "Match the question with the answer!",
+        "pairs": [
+          { "emoji": "❓", "word": "Can you speak French?" },
+          { "emoji": "👍", "word": "Yes, I can." },
+          { "emoji": "👎", "word": "No, I can't." },
+          { "emoji": "🙋", "word": "Can you help me?" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the ability for 'athlete'! 🏃",
+        "target": "🏃",
+        "options": ["👨‍🌾", "🏃", "🗣️", "👵"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "人と能力を合わせましょう！",
+        "pairs": [
+          { "emoji": "👨‍🌾", "word": "トラクターを運転" },
+          { "emoji": "🏃", "word": "速く走る" },
+          { "emoji": "🗣️", "word": "言語を話す" },
+          { "emoji": "👵", "word": "ケーキを作る" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "質問と答えを合わせましょう！",
+        "pairs": [
+          { "emoji": "❓", "word": "フランス語が話せますか？" },
+          { "emoji": "👍", "word": "はい、話せます。" },
+          { "emoji": "👎", "word": "いいえ、話せません。" },
+          { "emoji": "🙋", "word": "手伝ってくれますか？" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "'選手'の能力を探しましょう！ 🏃",
+        "target": "🏃",
+        "options": ["👨‍🌾", "🏃", "🗣️", "👵"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez la personne avec sa capacité !",
+        "pairs": [
+          { "emoji": "👨‍🌾", "word": "conduire un tracteur" },
+          { "emoji": "🏃", "word": "courir vite" },
+          { "emoji": "🗣️", "word": "parler des langues" },
+          { "emoji": "👵", "word": "faire des gâteaux" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "Associez la question avec la réponse !",
+        "pairs": [
+          { "emoji": "❓", "word": "Tu peux parler français ?" },
+          { "emoji": "👍", "word": "Oui, je peux." },
+          { "emoji": "👎", "word": "Non, je ne peux pas." },
+          { "emoji": "🙋", "word": "Tu peux m'aider ?" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouvez la capacité de l'athlète ! 🏃",
+        "target": "🏃",
+        "options": ["👨‍🌾", "🏃", "🗣️", "👵"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "사람과 능력을 맞춰보세요!",
+        "pairs": [
+          { "emoji": "👨‍🌾", "word": "트랙터 운전" },
+          { "emoji": "🏃", "word": "빨리 달리기" },
+          { "emoji": "🗣️", "word": "언어 말하기" },
+          { "emoji": "👵", "word": "케이크 만들기" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "질문과 답변을 맞춰보세요!",
+        "pairs": [
+          { "emoji": "❓", "word": "프랑스어 할 수 있어요?" },
+          { "emoji": "👍", "word": "네, 할 수 있어요." },
+          { "emoji": "👎", "word": "아니요, 못 해요." },
+          { "emoji": "🙋", "word": "도와줄 수 있어요?" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "'운동선수'의 능력을 찾아보세요! 🏃",
+        "target": "🏃",
+        "options": ["👨‍🌾", "🏃", "🗣️", "👵"]
+      }
+    ]
+  },
+  "grammar_spot": {
+    "en": {
+      "title": "can / can't",
+      "rules": [
+        "can/can't have the same form for all persons.",
+        "There is no do/does in the question.",
+        "can = /kən/ in positive and questions, /kæn/ in short answers.",
+        "can't = /kɑːnt/ in British English."
+      ],
+      "examples": [
+        { "question": "I/You/He/She/It/We/They can draw.", "answer": "affirmative" },
+        { "question": "I/You/He/She/It/We/They can't draw.", "answer": "negative (can't = can not)" },
+        { "question": "Can you speak French?", "answer": "Yes, I can. / No, I can't." }
+      ],
+      "pronunciation": [
+        { "text": "He can /kən/ speak Spanish.", "note": "weak form" },
+        { "text": "They can't /kɑːnt/ speak Spanish.", "note": "strong form" },
+        { "text": "Can /kən/ you speak Spanish?", "note": "weak form" },
+        { "text": "Yes, I can /kæn/.", "note": "strong form" }
+      ]
+    },
+    "ja": {
+      "title": "can / can't",
+      "rules": [
+        "can/can't は全ての人称で同じ形です。",
+        "疑問文には do/does を使いません。",
+        "can は肯定文と疑問文で /kən/、短い答えで /kæn/ と発音します。",
+        "can't はイギリス英語で /kɑːnt/ と発音します。"
+      ],
+      "examples": [
+        { "question": "I/You/He/She/It/We/They can draw.（描けます）", "answer": "肯定" },
+        { "question": "I/You/He/She/It/We/They can't draw.（描けません）", "answer": "否定 (can't = can not)" },
+        { "question": "Can you speak French?（フランス語が話せますか？）", "answer": "Yes, I can. / No, I can't." }
+      ],
+      "pronunciation": [
+        { "text": "He can /kən/ speak Spanish.（彼はスペイン語が話せます）", "note": "弱形" },
+        { "text": "They can't /kɑːnt/ speak Spanish.（彼らはスペイン語が話せません）", "note": "強形" },
+        { "text": "Can /kən/ you speak Spanish?（スペイン語が話せますか？）", "note": "弱形" },
+        { "text": "Yes, I can /kæn/.（はい、話せます）", "note": "強形" }
+      ]
+    },
+    "fr": {
+      "title": "can / can't",
+      "rules": [
+        "can/can't ont la même forme pour toutes les personnes.",
+        "Il n'y a pas de do/does dans la question.",
+        "can se prononce /kən/ dans les phrases positives et les questions, /kæn/ dans les réponses courtes.",
+        "can't se prononce /kɑːnt/ en anglais britannique."
+      ],
+      "examples": [
+        { "question": "I/You/He/She/It/We/They can draw.（Je peux dessiner）", "answer": "affirmatif" },
+        { "question": "I/You/He/She/It/We/They can't draw.（Je ne peux pas dessiner）", "answer": "négatif (can't = can not)" },
+        { "question": "Can you speak French?（Tu peux parler français ?）", "answer": "Yes, I can. / No, I can't." }
+      ],
+      "pronunciation": [
+        { "text": "He can /kən/ speak Spanish.（Il peut parler espagnol）", "note": "forme faible" },
+        { "text": "They can't /kɑːnt/ speak Spanish.（Ils ne peuvent pas parler espagnol）", "note": "forme forte" },
+        { "text": "Can /kən/ you speak Spanish?（Tu peux parler espagnol ?）", "note": "forme faible" },
+        { "text": "Yes, I can /kæn/.（Oui, je peux）", "note": "forme forte" }
+      ]
+    },
+    "ko": {
+      "title": "can / can't",
+      "rules": [
+        "can/can't은 모든 인칭에서 같은 형태를 사용합니다.",
+        "의문문에 do/does를 사용하지 않습니다.",
+        "can은 긍정문과 의문문에서 /kən/, 짧은 답변에서 /kæn/으로 발음됩니다.",
+        "can't은 영국 영어에서 /kɑːnt/로 발음됩니다."
+      ],
+      "examples": [
+        { "question": "I/You/He/She/It/We/They can draw.（그릴 수 있어요）", "answer": "긍정" },
+        { "question": "I/You/He/She/It/We/They can't draw.（그릴 수 없어요）", "answer": "부정 (can't = can not)" },
+        { "question": "Can you speak French?（프랑스어를 할 수 있나요？）", "answer": "Yes, I can. / No, I can't." }
+      ],
+      "pronunciation": [
+        { "text": "He can /kən/ speak Spanish.（그는 스페인어를 할 수 있어요）", "note": "약형" },
+        { "text": "They can't /kɑːnt/ speak Spanish.（그들은 스페인어를 할 수 없어요）", "note": "강형" },
+        { "text": "Can /kən/ you speak Spanish?（스페인어를 할 수 있나요？）", "note": "약형" },
+        { "text": "Yes, I can /kæn/.（네, 할 수 있어요）", "note": "강형" }
+      ]
+    }
+  },
+  "requests_and_offers": {
+    "en": {
+      "title": "Requests and Offers",
+      "phrases": [
+        { "question": "Can you tell me the time, please?", "response": "It's about three thirty." },
+        { "question": "Can you speak more slowly, please?", "response": "I am sorry. Can you understand now?" },
+        { "question": "Can you come to your party?", "response": "I'm sorry. I can't. It's my grandma's birthday." },
+        { "question": "Can I help you?", "response": "Yes, please. I want to buy this postcard." },
+        { "question": "Can I have a cold drink, please?", "response": "Yes, of course. Do you want Coca-Cola or orange juice?" }
+      ]
+    },
+    "ja": {
+      "title": "依頼と提案",
+      "phrases": [
+        { "question": "今何時か教えてくれますか？", "response": "3時半ごろです。" },
+        { "question": "もう少しゆっくり話してくれますか？", "response": "ごめんなさい。今はわかりますか？" },
+        { "question": "あなたのパーティーに来られますか？", "response": "ごめんなさい。行けません。祖母の誕生日なんです。" },
+        { "question": "お手伝いしましょうか？", "response": "はい、お願いします。このはがきを買いたいんです。" },
+        { "question": "冷たい飲み物をいただけますか？", "response": "もちろんです。コーラとオレンジジュース、どちらがいいですか？" }
+      ]
+    },
+    "fr": {
+      "title": "Demandes et offres",
+      "phrases": [
+        { "question": "Pouvez-vous me donner l'heure, s'il vous plaît ?", "response": "Il est environ trois heures et demie." },
+        { "question": "Pouvez-vous parler plus lentement, s'il vous plaît ?", "response": "Je suis désolé. Vous comprenez maintenant ?" },
+        { "question": "Pouvez-vous venir à votre fête ?", "response": "Je suis désolé. Je ne peux pas. C'est l'anniversaire de ma grand-mère." },
+        { "question": "Puis-je vous aider ?", "response": "Oui, s'il vous plaît. Je veux acheter cette carte postale." },
+        { "question": "Puis-je avoir une boisson fraîche, s'il vous plaît ?", "response": "Oui, bien sûr. Vous voulez du Coca-Cola ou du jus d'orange ?" }
+      ]
+    },
+    "ko": {
+      "title": "요청과 제안",
+      "phrases": [
+        { "question": "지금 몇 시인지 알려주실 수 있나요?", "response": "3시 30분쯤이에요." },
+        { "question": "좀 더 천천히 말해주실 수 있나요?", "response": "죄송합니다. 이제 이해하시겠어요?" },
+        { "question": "파티에 오실 수 있나요?", "response": "죄송해요, 못 가요. 할머니 생신이거든요." },
+        { "question": "도와드릴까요?", "response": "네, 부탁드려요. 이 엽서를 사고 싶어요." },
+        { "question": "시원한 음료 좀 주실 수 있나요?", "response": "네, 물론이죠. 콜라와 오렌지 주스 중에 뭐가 좋으세요?" }
+      ]
+    }
+  },
+  "internet_vocabulary": {
+    "en": {
+      "title": "The Internet",
+      "verbs_nouns": [
+        { "verb": "listen to", "noun": "a CD" },
+        { "verb": "watch", "noun": "a video" },
+        { "verb": "play", "noun": "chess" },
+        { "verb": "read", "noun": "a magazine" },
+        { "verb": "chat to", "noun": "a friend" },
+        { "verb": "book", "noun": "a hotel" }
+      ],
+      "websites": [
+        "www.shopping.co.uk",
+        "www.bbc.co.uk",
+        "www.chatshop.com",
+        "www.weatherpage.vancouver.bc.ca"
+      ],
+      "uses": [
+        "get a weather forecast",
+        "buy a car or a house",
+        "book a holiday",
+        "watch a video",
+        "read a newspaper or magazine",
+        "buy books and CDs",
+        "play chess with a partner",
+        "chat to people from all over the world"
+      ]
+    },
+    "ja": {
+      "title": "インターネット",
+      "verbs_nouns": [
+        { "verb": "聴く", "noun": "CD" },
+        { "verb": "見る", "noun": "ビデオ" },
+        { "verb": "する", "noun": "チェス" },
+        { "verb": "読む", "noun": "雑誌" },
+        { "verb": "話す", "noun": "友達" },
+        { "verb": "予約する", "noun": "ホテル" }
+      ],
+      "websites": [
+        "www.shopping.co.uk",
+        "www.bbc.co.uk",
+        "www.chatshop.com",
+        "www.weatherpage.vancouver.bc.ca"
+      ],
+      "uses": [
+        "天気予報を得る",
+        "車や家を買う",
+        "休暇を予約する",
+        "ビデオを見る",
+        "新聞や雑誌を読む",
+        "本やCDを買う",
+        "相手とチェスをする",
+        "世界中の人と話す"
+      ]
+    },
+    "fr": {
+      "title": "Internet",
+      "verbs_nouns": [
+        { "verb": "écouter", "noun": "un CD" },
+        { "verb": "regarder", "noun": "une vidéo" },
+        { "verb": "jouer", "noun": "aux échecs" },
+        { "verb": "lire", "noun": "un magazine" },
+        { "verb": "discuter avec", "noun": "un ami" },
+        { "verb": "réserver", "noun": "un hôtel" }
+      ],
+      "websites": [
+        "www.shopping.co.uk",
+        "www.bbc.co.uk",
+        "www.chatshop.com",
+        "www.weatherpage.vancouver.bc.ca"
+      ],
+      "uses": [
+        "obtenir la météo",
+        "acheter une voiture ou une maison",
+        "réserver des vacances",
+        "regarder une vidéo",
+        "lire un journal ou un magazine",
+        "acheter des livres et des CD",
+        "jouer aux échecs avec un partenaire",
+        "discuter avec des gens du monde entier"
+      ]
+    },
+    "ko": {
+      "title": "인터넷",
+      "verbs_nouns": [
+        { "verb": "듣다", "noun": "CD" },
+        { "verb": "보다", "noun": "비디오" },
+        { "verb": "하다", "noun": "체스" },
+        { "verb": "읽다", "noun": "잡지" },
+        { "verb": "대화하다", "noun": "친구" },
+        { "verb": "예약하다", "noun": "호텔" }
+      ],
+      "websites": [
+        "www.shopping.co.uk",
+        "www.bbc.co.uk",
+        "www.chatshop.com",
+        "www.weatherpage.vancouver.bc.ca"
+      ],
+      "uses": [
+        "일기예보를 보다",
+        "차나 집을 사다",
+        "휴가를 예약하다",
+        "비디오를 보다",
+        "신문이나 잡지를 읽다",
+        "책과 CD를 사다",
+        "상대방과 체스를 하다",
+        "전 세계 사람들과 대화하다"
+      ]
+    }
+  },
+  "everyday_english": {
+    "en": {
+      "title": "What's the problem?",
+      "problems": [
+        "The TV's broken.",
+        "This ticket machine doesn't work.",
+        "I don't understand this word.",
+        "I'm lost.",
+        "I can't find my passport.",
+        "I forgot your birthday."
+      ],
+      "conversations": [
+        {
+          "context": "Airport",
+          "dialog": [
+            { "speaker": "A", "text": "Come on! It's time to go to the airport." },
+            { "speaker": "B", "text": "But I can't find my passport." },
+            { "speaker": "A", "text": "You put it in your bag." },
+            { "speaker": "B", "text": "Did I? Oh, yes. Here it is! Phew!" }
+          ]
+        },
+        {
+          "context": "Ticket machine",
+          "dialog": [
+            { "speaker": "A", "text": "Excuse me!" },
+            { "speaker": "B", "text": "Yes?" },
+            { "speaker": "A", "text": "This ticket machine doesn't work. I put in two pounds, but I didn't get a ticket." },
+            { "speaker": "B", "text": "Did you push this button?" },
+            { "speaker": "A", "text": "Oh! No, I didn't." },
+            { "speaker": "B", "text": "Ah, well. Here you are." },
+            { "speaker": "A", "text": "Thank you very much." }
+          ]
+        },
+        {
+          "context": "Lost",
+          "dialog": [
+            { "speaker": "A", "text": "Excuse me." },
+            { "speaker": "B", "text": "Yes?" },
+            { "speaker": "A", "text": "Can you help me? I'm lost." },
+            { "speaker": "B", "text": "Where do you want to go?" },
+            { "speaker": "A", "text": "To the railway station." },
+            { "speaker": "B", "text": "Go straight on. About two hundred metres. It's on your left." }
+          ]
+        },
+        {
+          "context": "Dictionary",
+          "dialog": [
+            { "speaker": "A", "text": "I don't understand this word." },
+            { "speaker": "B", "text": "Check it in your dictionary." },
+            { "speaker": "A", "text": "My dictionary's at home. Can I borrow yours?" },
+            { "speaker": "B", "text": "OK. No problem. Here you are." }
+          ]
+        },
+        {
+          "context": "TV broken",
+          "dialog": [
+            { "speaker": "A", "text": "Oh no!" },
+            { "speaker": "B", "text": "What's the matter?" },
+            { "speaker": "A", "text": "The TV's broken." },
+            { "speaker": "B", "text": "Good! Perhaps we can talk this evening." },
+            { "speaker": "A", "text": "But I want to watch a film." },
+            { "speaker": "B", "text": "Go to the cinema, then." }
+          ]
+        },
+        {
+          "context": "Forgotten birthday",
+          "dialog": [
+            { "speaker": "A", "text": "I'm really sorry. I forgot your birthday." },
+            { "speaker": "B", "text": "It doesn't matter." },
+            { "speaker": "A", "text": "It was on the tenth, wasn't it?" },
+            { "speaker": "B", "text": "Yes, it was." },
+            { "speaker": "A", "text": "Well, here are some flowers." },
+            { "speaker": "B", "text": "Oh, thank you very much. They're beautiful." }
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "title": "問題は何ですか？",
+      "problems": [
+        "テレビが壊れています。",
+        "この券売機が動きません。",
+        "この単語がわかりません。",
+        "道に迷いました。",
+        "パスポートが見つかりません。",
+        "あなたの誕生日を忘れました。"
+      ],
+      "conversations": [
+        {
+          "context": "空港",
+          "dialog": [
+            { "speaker": "A", "text": "さあ！空港に行く時間だよ。" },
+            { "speaker": "B", "text": "でもパスポートが見つからないんだ。" },
+            { "speaker": "A", "text": "鞄に入れたでしょ。" },
+            { "speaker": "B", "text": "そうだっけ？ああ、あった！よかった！" }
+          ]
+        },
+        {
+          "context": "券売機",
+          "dialog": [
+            { "speaker": "A", "text": "すみません！" },
+            { "speaker": "B", "text": "はい？" },
+            { "speaker": "A", "text": "この券売機が動きません。2ポンド入れたのに、チケットが出ませんでした。" },
+            { "speaker": "B", "text": "このボタンを押しましたか？" },
+            { "speaker": "A", "text": "あっ！いいえ、押しませんでした。" },
+            { "speaker": "B", "text": "ああ、そうですか。どうぞ。" },
+            { "speaker": "A", "text": "ありがとうございます。" }
+          ]
+        },
+        {
+          "context": "道に迷う",
+          "dialog": [
+            { "speaker": "A", "text": "すみません。" },
+            { "speaker": "B", "text": "はい？" },
+            { "speaker": "A", "text": "助けていただけますか？道に迷いました。" },
+            { "speaker": "B", "text": "どこに行きたいですか？" },
+            { "speaker": "A", "text": "鉄道駅です。" },
+            { "speaker": "B", "text": "まっすぐ行ってください。約200メートルです。左側にあります。" }
+          ]
+        },
+        {
+          "context": "辞書",
+          "dialog": [
+            { "speaker": "A", "text": "この単語がわかりません。" },
+            { "speaker": "B", "text": "辞書で調べてみて。" },
+            { "speaker": "A", "text": "辞書は家にあります。あなたのを借りてもいいですか？" },
+            { "speaker": "B", "text": "いいですよ。どうぞ。" }
+          ]
+        },
+        {
+          "context": "テレビ故障",
+          "dialog": [
+            { "speaker": "A", "text": "あらら！" },
+            { "speaker": "B", "text": "どうしたの？" },
+            { "speaker": "A", "text": "テレビが壊れているの。" },
+            { "speaker": "B", "text": "よかった！今夜は話ができるね。" },
+            { "speaker": "A", "text": "でも映画を見たいの。" },
+            { "speaker": "B", "text": "じゃあ、映画館に行こう。" }
+          ]
+        },
+        {
+          "context": "誕生日を忘れる",
+          "dialog": [
+            { "speaker": "A", "text": "本当にごめんなさい。あなたの誕生日を忘れてしまいました。" },
+            { "speaker": "B", "text": "気にしないで。" },
+            { "speaker": "A", "text": "10日だったよね？" },
+            { "speaker": "B", "text": "うん、そうだったよ。" },
+            { "speaker": "A", "text": "はい、花束です。" },
+            { "speaker": "B", "text": "わあ、ありがとう。きれいだね。" }
+          ]
+        }
+      ]
+    },
+    "fr": {
+      "title": "Quel est le problème ?",
+      "problems": [
+        "La télévision est cassée.",
+        "Ce distributeur de billets ne fonctionne pas.",
+        "Je ne comprends pas ce mot.",
+        "Je suis perdu.",
+        "Je ne trouve pas mon passeport.",
+        "J'ai oublié ton anniversaire."
+      ],
+      "conversations": [
+        {
+          "context": "Aéroport",
+          "dialog": [
+            { "speaker": "A", "text": "Allez ! Il est temps d'aller à l'aéroport." },
+            { "speaker": "B", "text": "Mais je ne trouve pas mon passeport." },
+            { "speaker": "A", "text": "Tu l'as mis dans ton sac." },
+            { "speaker": "B", "text": "Ah bon ? Oh, oui. Le voilà ! Ouf !" }
+          ]
+        },
+        {
+          "context": "Distributeur",
+          "dialog": [
+            { "speaker": "A", "text": "Excusez-moi !" },
+            { "speaker": "B", "text": "Oui ?" },
+            { "speaker": "A", "text": "Ce distributeur ne fonctionne pas. J'ai mis deux livres, mais je n'ai pas eu de billet." },
+            { "speaker": "B", "text": "Avez-vous appuyé sur ce bouton ?" },
+            { "speaker": "A", "text": "Oh ! Non, je ne l'ai pas fait." },
+            { "speaker": "B", "text": "Ah, bon. Voilà." },
+            { "speaker": "A", "text": "Merci beaucoup." }
+          ]
+        },
+        {
+          "context": "Perdu",
+          "dialog": [
+            { "speaker": "A", "text": "Excusez-moi." },
+            { "speaker": "B", "text": "Oui ?" },
+            { "speaker": "A", "text": "Pouvez-vous m'aider ? Je suis perdu." },
+            { "speaker": "B", "text": "Où voulez-vous aller ?" },
+            { "speaker": "A", "text": "À la gare." },
+            { "speaker": "B", "text": "Allez tout droit. Environ deux cents mètres. C'est sur votre gauche." }
+          ]
+        },
+        {
+          "context": "Dictionnaire",
+          "dialog": [
+            { "speaker": "A", "text": "Je ne comprends pas ce mot." },
+            { "speaker": "B", "text": "Regarde dans ton dictionnaire." },
+            { "speaker": "A", "text": "Mon dictionnaire est à la maison. Je peux emprunter le tien ?" },
+            { "speaker": "B", "text": "D'accord. Pas de problème. Tiens." }
+          ]
+        },
+        {
+          "context": "TV cassée",
+          "dialog": [
+            { "speaker": "A", "text": "Oh non !" },
+            { "speaker": "B", "text": "Qu'est-ce qu'il y a ?" },
+            { "speaker": "A", "text": "La télévision est cassée." },
+            { "speaker": "B", "text": "Bien ! Peut-être qu'on peut parler ce soir." },
+            { "speaker": "A", "text": "Mais je veux regarder un film." },
+            { "speaker": "B", "text": "Va au cinéma, alors." }
+          ]
+        },
+        {
+          "context": "Anniversaire oublié",
+          "dialog": [
+            { "speaker": "A", "text": "Je suis vraiment désolé. J'ai oublié ton anniversaire." },
+            { "speaker": "B", "text": "Ce n'est pas grave." },
+            { "speaker": "A", "text": "C'était le dix, non ?" },
+            { "speaker": "B", "text": "Oui, c'était le dix." },
+            { "speaker": "A", "text": "Voici des fleurs." },
+            { "speaker": "B", "text": "Oh, merci beaucoup. Elles sont magnifiques." }
+          ]
+        }
+      ]
+    },
+    "ko": {
+      "title": "무슨 문제예요?",
+      "problems": [
+        "TV가 고장 났어요.",
+        "이 자판기가 작동하지 않아요.",
+        "이 단어를 이해하지 못하겠어요.",
+        "길을 잃었어요.",
+        "여권을 찾을 수 없어요.",
+        "생일을 깜빡했어요."
+      ],
+      "conversations": [
+        {
+          "context": "공항",
+          "dialog": [
+            { "speaker": "A", "text": "자! 공항에 가야 할 시간이야." },
+            { "speaker": "B", "text": "그런데 여권을 찾을 수가 없어." },
+            { "speaker": "A", "text": "가방에 넣었잖아." },
+            { "speaker": "B", "text": "그랬나? 아, 맞아. 여기 있네! 휴!" }
+          ]
+        },
+        {
+          "context": "자판기",
+          "dialog": [
+            { "speaker": "A", "text": "실례합니다!" },
+            { "speaker": "B", "text": "네?" },
+            { "speaker": "A", "text": "이 자판기가 작동하지 않아요. 2파운드를 넣었는데 표가 안 나왔어요." },
+            { "speaker": "B", "text": "이 버튼을 누르셨나요?" },
+            { "speaker": "A", "text": "아! 아니요, 안 눌렀어요." },
+            { "speaker": "B", "text": "아, 그렇군요. 여기 있습니다." },
+            { "speaker": "A", "text": "정말 감사합니다." }
+          ]
+        },
+        {
+          "context": "길을 잃음",
+          "dialog": [
+            { "speaker": "A", "text": "실례합니다." },
+            { "speaker": "B", "text": "네?" },
+            { "speaker": "A", "text": "도와주실 수 있나요? 길을 잃었어요." },
+            { "speaker": "B", "text": "어디로 가고 싶으세요?" },
+            { "speaker": "A", "text": "기차역이요." },
+            { "speaker": "B", "text": "곧장 가세요. 약 200미터 정도에 왼쪽에 있어요." }
+          ]
+        },
+        {
+          "context": "사전",
+          "dialog": [
+            { "speaker": "A", "text": "이 단어를 이해하지 못하겠어요." },
+            { "speaker": "B", "text": "사전에서 찾아보세요." },
+            { "speaker": "A", "text": "사전이 집에 있어요. 당신 것 빌려도 될까요?" },
+            { "speaker": "B", "text": "네, 괜찮아요. 여기 있어요." }
+          ]
+        },
+        {
+          "context": "TV 고장",
+          "dialog": [
+            { "speaker": "A", "text": "어머나!" },
+            { "speaker": "B", "text": "왜 그래?" },
+            { "speaker": "A", "text": "TV가 고장 났어." },
+            { "speaker": "B", "text": "잘됐네! 오늘 저녁에 얘기할 수 있겠다." },
+            { "speaker": "A", "text": "그런데 영화 보고 싶었어." },
+            { "speaker": "B", "text": "그럼 영화관에 가자." }
+          ]
+        },
+        {
+          "context": "생일을 깜빡함",
+          "dialog": [
+            { "speaker": "A", "text": "정말 미안해요. 생일을 깜빡했어요." },
+            { "speaker": "B", "text": "괜찮아요." },
+            { "speaker": "A", "text": "10일이었죠?" },
+            { "speaker": "B", "text": "네, 맞아요." },
+            { "speaker": "A", "text": "여기 꽃이에요." },
+            { "speaker": "B", "text": "와, 정말 고마워요. 아름답네요." }
+          ]
+        }
+      ]
+    }
+  }
+}

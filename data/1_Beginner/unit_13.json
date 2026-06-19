@@ -1,0 +1,564 @@
+{
+  "title": {
+    "en": "Unit 13 - Here and now",
+    "ja": "ユニット13 - 今ここに",
+    "fr": "Unité 13 - Ici et maintenant",
+    "ko": "유닛 13 - 지금 여기에서"
+  },
+  "topic": {
+    "en": "Colours and clothes · Present Continuous · Questions and negatives · What's the matter?",
+    "ja": "色と服 · 現在進行形 · 疑問文と否定文 · どうしたの？",
+    "fr": "Couleurs et vêtements · Présent continu · Questions et négations · Qu'est-ce qui ne va pas ?",
+    "ko": "색상과 옷 · 현재진행형 · 의문문과 부정문 · 무슨 일이야?"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "shirt", "emoji": "👔", "word": "shirt", "hint": "I wear a shirt", "sound": "shirt" },
+      { "id": "trousers", "emoji": "👖", "word": "trousers", "hint": "I wear trousers", "sound": "trousers" },
+      { "id": "jacket", "emoji": "🧥", "word": "jacket", "hint": "I wear a jacket", "sound": "jacket" },
+      { "id": "shoes", "emoji": "👟", "word": "shoes", "hint": "I wear shoes", "sound": "shoes" },
+      { "id": "dress", "emoji": "👗", "word": "dress", "hint": "I wear a dress", "sound": "dress" },
+      { "id": "skirt", "emoji": "👘", "word": "skirt", "hint": "I wear a skirt", "sound": "skirt" },
+      { "id": "jumper", "emoji": "🧶", "word": "jumper", "hint": "I wear a jumper", "sound": "jumper" },
+      { "id": "hat", "emoji": "🧢", "word": "hat", "hint": "I wear a hat", "sound": "hat" },
+      { "id": "boots", "emoji": "🥾", "word": "boots", "hint": "I wear boots", "sound": "boots" },
+      { "id": "tie", "emoji": "🎀", "word": "tie", "hint": "I wear a tie", "sound": "tie" }
+    ],
+    "ja": [
+      { "id": "shirt", "emoji": "👔", "word": "シャツ", "hint": "シャツを着ます", "sound": "shatsu" },
+      { "id": "trousers", "emoji": "👖", "word": "ズボン", "hint": "ズボンを履きます", "sound": "zubon" },
+      { "id": "jacket", "emoji": "🧥", "word": "ジャケット", "hint": "ジャケットを着ます", "sound": "jaketto" },
+      { "id": "shoes", "emoji": "👟", "word": "靴", "hint": "靴を履きます", "sound": "kutsu" },
+      { "id": "dress", "emoji": "👗", "word": "ドレス", "hint": "ドレスを着ます", "sound": "doresu" },
+      { "id": "skirt", "emoji": "👘", "word": "スカート", "hint": "スカートを履きます", "sound": "sukaato" },
+      { "id": "jumper", "emoji": "🧶", "word": "セーター", "hint": "セーターを着ます", "sound": "seetaa" },
+      { "id": "hat", "emoji": "🧢", "word": "帽子", "hint": "帽子を被ります", "sound": "boushi" },
+      { "id": "boots", "emoji": "🥾", "word": "ブーツ", "hint": "ブーツを履きます", "sound": "buutsu" },
+      { "id": "tie", "emoji": "🎀", "word": "ネクタイ", "hint": "ネクタイを締めます", "sound": "nekutai" }
+    ],
+    "fr": [
+      { "id": "shirt", "emoji": "👔", "word": "chemise", "hint": "Je porte une chemise", "sound": "chemise" },
+      { "id": "trousers", "emoji": "👖", "word": "pantalon", "hint": "Je porte un pantalon", "sound": "pantalon" },
+      { "id": "jacket", "emoji": "🧥", "word": "veste", "hint": "Je porte une veste", "sound": "veste" },
+      { "id": "shoes", "emoji": "👟", "word": "chaussures", "hint": "Je porte des chaussures", "sound": "chaussures" },
+      { "id": "dress", "emoji": "👗", "word": "robe", "hint": "Je porte une robe", "sound": "robe" },
+      { "id": "skirt", "emoji": "👘", "word": "jupe", "hint": "Je porte une jupe", "sound": "jupe" },
+      { "id": "jumper", "emoji": "🧶", "word": "pull", "hint": "Je porte un pull", "sound": "pull" },
+      { "id": "hat", "emoji": "🧢", "word": "chapeau", "hint": "Je porte un chapeau", "sound": "chapeau" },
+      { "id": "boots", "emoji": "🥾", "word": "bottes", "hint": "Je porte des bottes", "sound": "bottes" },
+      { "id": "tie", "emoji": "🎀", "word": "cravate", "hint": "Je porte une cravate", "sound": "cravate" }
+    ],
+    "ko": [
+      { "id": "shirt", "emoji": "👔", "word": "셔츠", "hint": "셔츠를 입어요", "sound": "syeocheu" },
+      { "id": "trousers", "emoji": "👖", "word": "바지", "hint": "바지를 입어요", "sound": "baji" },
+      { "id": "jacket", "emoji": "🧥", "word": "자켓", "hint": "자켓을 입어요", "sound": "jaket" },
+      { "id": "shoes", "emoji": "👟", "word": "신발", "hint": "신발을 신어요", "sound": "sinbal" },
+      { "id": "dress", "emoji": "👗", "word": "원피스", "hint": "원피스를 입어요", "sound": "wonpiseu" },
+      { "id": "skirt", "emoji": "👘", "word": "치마", "hint": "치마를 입어요", "sound": "chima" },
+      { "id": "jumper", "emoji": "🧶", "word": "스웨터", "hint": "스웨터를 입어요", "sound": "seuweteo" },
+      { "id": "hat", "emoji": "🧢", "word": "모자", "hint": "모자를 써요", "sound": "moja" },
+      { "id": "boots", "emoji": "🥾", "word": "부츠", "hint": "부츠를 신어요", "sound": "bucheu" },
+      { "id": "tie", "emoji": "🎀", "word": "넥타이", "hint": "넥타이를 매요", "sound": "nektai" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "wearing_tshirt", "emoji": "👕", "text": "He's wearing a T-shirt.", "sound": "He is wearing a T-shirt." },
+      { "id": "reading_book", "emoji": "📖", "text": "She's reading a book.", "sound": "She is reading a book." },
+      { "id": "having_lunch", "emoji": "🍽️", "text": "They're having lunch.", "sound": "They are having lunch." },
+      { "id": "great_holiday", "emoji": "🌴", "text": "We're having a great holiday.", "sound": "We are having a great holiday." },
+      { "id": "what_doing", "emoji": "❓", "text": "What are you doing?", "sound": "What are you doing?" },
+      { "id": "im_working", "emoji": "💼", "text": "I'm working.", "sound": "I am working." },
+      { "id": "staying_hotel", "emoji": "🏨", "text": "Are you staying in a hotel?", "sound": "Are you staying in a hotel?" },
+      { "id": "not_staying", "emoji": "🏠", "text": "No, I'm not staying in a hotel.", "sound": "No, I am not staying in a hotel." },
+      { "id": "wearing_jeans", "emoji": "👖", "text": "I'm wearing jeans and a T-shirt.", "sound": "I am wearing jeans and a T-shirt." },
+      { "id": "good_time", "emoji": "😊", "text": "Are you having a good time?", "sound": "Are you having a good time?" }
+    ],
+    "ja": [
+      { "id": "wearing_tshirt", "emoji": "👕", "text": "彼はTシャツを着ています。", "sound": "Kare wa T-shatsu wo kite imasu." },
+      { "id": "reading_book", "emoji": "📖", "text": "彼女は本を読んでいます。", "sound": "Kanojo wa hon wo yonde imasu." },
+      { "id": "having_lunch", "emoji": "🍽️", "text": "彼らは昼食を食べています。", "sound": "Karera wa chushoku wo tabete imasu." },
+      { "id": "great_holiday", "emoji": "🌴", "text": "私たちは素晴らしい休暇を過ごしています。", "sound": "Watashitachi wa subarashii kyuka wo sugoshite imasu." },
+      { "id": "what_doing", "emoji": "❓", "text": "何をしていますか？", "sound": "Nani wo shite imasu ka?" },
+      { "id": "im_working", "emoji": "💼", "text": "仕事をしています。", "sound": "Shigoto wo shite imasu." },
+      { "id": "staying_hotel", "emoji": "🏨", "text": "ホテルに泊まっていますか？", "sound": "Hoteru ni tomatte imasu ka?" },
+      { "id": "not_staying", "emoji": "🏠", "text": "いいえ、ホテルには泊まっていません。", "sound": "Iie, hoteru ni wa tomatte imasen." },
+      { "id": "wearing_jeans", "emoji": "👖", "text": "ジーンズとTシャツを着ています。", "sound": "Jiinzu to T-shatsu wo kite imasu." },
+      { "id": "good_time", "emoji": "😊", "text": "楽しく過ごしていますか？", "sound": "Tanoshiku sugoshite imasu ka?" }
+    ],
+    "fr": [
+      { "id": "wearing_tshirt", "emoji": "👕", "text": "Il porte un T-shirt.", "sound": "Il porte un T-shirt." },
+      { "id": "reading_book", "emoji": "📖", "text": "Elle lit un livre.", "sound": "Elle lit un livre." },
+      { "id": "having_lunch", "emoji": "🍽️", "text": "Ils déjeunent.", "sound": "Ils déjeunent." },
+      { "id": "great_holiday", "emoji": "🌴", "text": "Nous passons de bonnes vacances.", "sound": "Nous passons de bonnes vacances." },
+      { "id": "what_doing", "emoji": "❓", "text": "Qu'est-ce que tu fais ?", "sound": "Qu'est-ce que tu fais ?" },
+      { "id": "im_working", "emoji": "💼", "text": "Je travaille.", "sound": "Je travaille." },
+      { "id": "staying_hotel", "emoji": "🏨", "text": "Tu restes à l'hôtel ?", "sound": "Tu restes à l'hôtel ?" },
+      { "id": "not_staying", "emoji": "🏠", "text": "Non, je ne reste pas à l'hôtel.", "sound": "Non, je ne reste pas à l'hôtel." },
+      { "id": "wearing_jeans", "emoji": "👖", "text": "Je porte un jean et un T-shirt.", "sound": "Je porte un jean et un T-shirt." },
+      { "id": "good_time", "emoji": "😊", "text": "Tu passes un bon moment ?", "sound": "Tu passes un bon moment ?" }
+    ],
+    "ko": [
+      { "id": "wearing_tshirt", "emoji": "👕", "text": "그는 티셔츠를 입고 있어요.", "sound": "Geuneun T-syeocheureul ipgo isseoyo." },
+      { "id": "reading_book", "emoji": "📖", "text": "그녀는 책을 읽고 있어요.", "sound": "Geunyeoneun chaekeul ikgo isseoyo." },
+      { "id": "having_lunch", "emoji": "🍽️", "text": "그들은 점심을 먹고 있어요.", "sound": "Geudeureun jeomsimeul meokgo isseoyo." },
+      { "id": "great_holiday", "emoji": "🌴", "text": "우리는 멋진 휴가를 보내고 있어요.", "sound": "Urineun meotjin hyugareul bonaego isseoyo." },
+      { "id": "what_doing", "emoji": "❓", "text": "뭐 하고 있어요?", "sound": "Mwo hago isseoyo?" },
+      { "id": "im_working", "emoji": "💼", "text": "일하고 있어요.", "sound": "Ilhago isseoyo." },
+      { "id": "staying_hotel", "emoji": "🏨", "text": "호텔에 묵고 있어요?", "sound": "Hotere mukgo isseoyo?" },
+      { "id": "not_staying", "emoji": "🏠", "text": "아니요, 호텔에 묵고 있지 않아요.", "sound": "Aniyo, hotere mukgo itji anayo." },
+      { "id": "wearing_jeans", "emoji": "👖", "text": "청바지와 티셔츠를 입고 있어요.", "sound": "Cheongbajiwa T-syeocheureul ipgo isseoyo." },
+      { "id": "good_time", "emoji": "😊", "text": "즐거운 시간 보내고 있어요?", "sound": "Jeulgeoun sigan bonaego isseoyo?" }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "George on Holiday",
+      "content": "👨 George is on holiday in Thailand with his wife. 👕 He's wearing a white T-shirt. 📖 His wife is reading a book. 🍽️ They're having lunch. 🌴 'We're having a great holiday,' says George. 👩 Sadie is in Milan. 💼 She's working at a fashion show. 🏨 'Are you staying in a hotel?' 'No, I'm not. I'm staying with friends.' 👖 'What are you wearing?' 'I'm wearing jeans and a T-shirt.'",
+      "question": "What is George wearing?",
+      "options": [
+        { "text": "A white T-shirt", "emoji": "👕", "correct": true },
+        { "text": "A black jacket", "emoji": "🧥", "correct": false },
+        { "text": "Jeans", "emoji": "👖", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "休暇中のジョージ",
+      "content": "👨 ジョージは妻とタイで休暇を過ごしています。 👕 彼は白いTシャツを着ています。 📖 妻は本を読んでいます。 🍽️ 彼らは昼食を食べています。 🌴 「素晴らしい休暇を過ごしています」とジョージは言います。 👩 サディはミラノにいます。 💼 彼女はファッションショーで働いています。 🏨 「ホテルに泊まっていますか？」「いいえ、ホテルには泊まっていません。友達の家に泊まっています。」 👖 「何を着ていますか？」「ジーンズとTシャツを着ています。」",
+      "question": "ジョージは何を着ていますか？",
+      "options": [
+        { "text": "白いTシャツ", "emoji": "👕", "correct": true },
+        { "text": "黒いジャケット", "emoji": "🧥", "correct": false },
+        { "text": "ジーンズ", "emoji": "👖", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "George en vacances",
+      "content": "👨 George est en vacances en Thaïlande avec sa femme. 👕 Il porte un T-shirt blanc. 📖 Sa femme lit un livre. 🍽️ Ils déjeunent. 🌴 « Nous passons de bonnes vacances », dit George. 👩 Sadie est à Milan. 💼 Elle travaille à un défilé de mode. 🏨 « Tu restes à l'hôtel ? » « Non, je ne reste pas à l'hôtel. Je reste chez des amis. » 👖 « Qu'est-ce que tu portes ? » « Je porte un jean et un T-shirt. »",
+      "question": "Que porte George ?",
+      "options": [
+        { "text": "Un T-shirt blanc", "emoji": "👕", "correct": true },
+        { "text": "Une veste noire", "emoji": "🧥", "correct": false },
+        { "text": "Un jean", "emoji": "👖", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "휴가 중인 조지",
+      "content": "👨 조지는 아내와 함께 태국에서 휴가를 보내고 있어요. 👕 그는 흰색 티셔츠를 입고 있어요. 📖 그의 아내는 책을 읽고 있어요. 🍽️ 그들은 점심을 먹고 있어요. 🌴 '우리는 멋진 휴가를 보내고 있어요.'라고 조지가 말해요. 👩 세이디는 밀라노에 있어요. 💼 그녀는 패션쇼에서 일하고 있어요. 🏨 '호텔에 묵고 있어요?' '아니요, 호텔에 묵고 있지 않아요. 친구 집에 묵고 있어요.' 👖 '뭐 입고 있어요?' '청바지와 티셔츠를 입고 있어요.'",
+      "question": "조지는 무엇을 입고 있나요?",
+      "options": [
+        { "text": "흰색 티셔츠", "emoji": "👕", "correct": true },
+        { "text": "검은색 자켓", "emoji": "🧥", "correct": false },
+        { "text": "청바지", "emoji": "👖", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the colour with the word!",
+        "pairs": [
+          { "emoji": "⬛", "word": "black" },
+          { "emoji": "⬜", "word": "white" },
+          { "emoji": "🟥", "word": "red" },
+          { "emoji": "🟦", "word": "blue" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "Match the question with the answer!",
+        "pairs": [
+          { "emoji": "❓", "word": "What are you doing?" },
+          { "emoji": "💼", "word": "I'm working." },
+          { "emoji": "🏨", "word": "Are you staying in a hotel?" },
+          { "emoji": "👖", "word": "What are you wearing?" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the colour! 🟥",
+        "target": "🟥",
+        "options": ["⬛", "🟥", "🟦", "⬜"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "色と単語を合わせましょう！",
+        "pairs": [
+          { "emoji": "⬛", "word": "黒" },
+          { "emoji": "⬜", "word": "白" },
+          { "emoji": "🟥", "word": "赤" },
+          { "emoji": "🟦", "word": "青" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "質問と答えを合わせましょう！",
+        "pairs": [
+          { "emoji": "❓", "word": "何をしていますか？" },
+          { "emoji": "💼", "word": "仕事をしています。" },
+          { "emoji": "🏨", "word": "ホテルに泊まっていますか？" },
+          { "emoji": "👖", "word": "何を着ていますか？" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "色を探しましょう！ 🟥",
+        "target": "🟥",
+        "options": ["⬛", "🟥", "🟦", "⬜"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez la couleur avec le mot !",
+        "pairs": [
+          { "emoji": "⬛", "word": "noir" },
+          { "emoji": "⬜", "word": "blanc" },
+          { "emoji": "🟥", "word": "rouge" },
+          { "emoji": "🟦", "word": "bleu" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "Associez la question avec la réponse !",
+        "pairs": [
+          { "emoji": "❓", "word": "Qu'est-ce que tu fais ?" },
+          { "emoji": "💼", "word": "Je travaille." },
+          { "emoji": "🏨", "word": "Tu restes à l'hôtel ?" },
+          { "emoji": "👖", "word": "Qu'est-ce que tu portes ?" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouvez la couleur ! 🟥",
+        "target": "🟥",
+        "options": ["⬛", "🟥", "🟦", "⬜"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "색상과 단어를 맞춰보세요!",
+        "pairs": [
+          { "emoji": "⬛", "word": "검정색" },
+          { "emoji": "⬜", "word": "흰색" },
+          { "emoji": "🟥", "word": "빨간색" },
+          { "emoji": "🟦", "word": "파란색" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "질문과 답변을 맞춰보세요!",
+        "pairs": [
+          { "emoji": "❓", "word": "뭐 하고 있어요?" },
+          { "emoji": "💼", "word": "일하고 있어요." },
+          { "emoji": "🏨", "word": "호텔에 묵고 있어요?" },
+          { "emoji": "👖", "word": "뭐 입고 있어요?" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "색상을 찾아보세요! 🟥",
+        "target": "🟥",
+        "options": ["⬛", "🟥", "🟦", "⬜"]
+      }
+    ]
+  },
+  "grammar_spot": {
+    "en": {
+      "title": "Present Continuous",
+      "rules": [
+        "We use the Present Continuous to say what is happening now.",
+        "We make the Present Continuous with am/are/is + verb + -ing.",
+        "Questions: put am/are/is before the subject.",
+        "Negatives: add not after am/are/is.",
+        "Short answers: Yes, I am. / No, I'm not."
+      ],
+      "examples": [
+        { "question": "I am studying English.", "answer": "affirmative" },
+        { "question": "You are wearing jeans.", "answer": "affirmative" },
+        { "question": "She is reading a book.", "answer": "affirmative" },
+        { "question": "We are working in class.", "answer": "affirmative" },
+        { "question": "They are having lunch.", "answer": "affirmative" },
+        { "question": "I'm not staying in a hotel.", "answer": "negative" },
+        { "question": "He isn't working.", "answer": "negative" },
+        { "question": "We aren't having breakfast.", "answer": "negative" },
+        { "question": "What are you wearing?", "answer": "question" },
+        { "question": "Where's she staying?", "answer": "question" }
+      ]
+    },
+    "ja": {
+      "title": "現在進行形",
+      "rules": [
+        "現在進行形は、今まさに起こっていることを表します。",
+        "現在進行形は am/are/is + 動詞の-ing 形で作ります。",
+        "疑問文は am/are/is を主語の前に置きます。",
+        "否定文は am/are/is の後に not を付けます。",
+        "短い答え：Yes, I am. / No, I'm not."
+      ],
+      "examples": [
+        { "question": "私は英語を勉強しています。", "answer": "肯定" },
+        { "question": "あなたはジーンズを履いています。", "answer": "肯定" },
+        { "question": "彼女は本を読んでいます。", "answer": "肯定" },
+        { "question": "私たちは教室で勉強しています。", "answer": "肯定" },
+        { "question": "彼らは昼食を食べています。", "answer": "肯定" },
+        { "question": "私はホテルに泊まっていません。", "answer": "否定" },
+        { "question": "彼は働いていません。", "answer": "否定" },
+        { "question": "私たちは朝食を食べていません。", "answer": "否定" },
+        { "question": "何を着ていますか？", "answer": "疑問" },
+        { "question": "彼女はどこに泊まっていますか？", "answer": "疑問" }
+      ]
+    },
+    "fr": {
+      "title": "Présent continu",
+      "rules": [
+        "On utilise le présent continu pour dire ce qui se passe maintenant.",
+        "On forme le présent continu avec am/are/is + verbe + -ing.",
+        "Questions : placez am/are/is avant le sujet.",
+        "Négations : ajoutez not après am/are/is.",
+        "Réponses courtes : Yes, I am. / No, I'm not."
+      ],
+      "examples": [
+        { "question": "Je suis en train d'étudier l'anglais.", "answer": "affirmatif" },
+        { "question": "Tu portes un jean.", "answer": "affirmatif" },
+        { "question": "Elle lit un livre.", "answer": "affirmatif" },
+        { "question": "Nous travaillons en classe.", "answer": "affirmatif" },
+        { "question": "Ils déjeunent.", "answer": "affirmatif" },
+        { "question": "Je ne reste pas à l'hôtel.", "answer": "négatif" },
+        { "question": "Il ne travaille pas.", "answer": "négatif" },
+        { "question": "Nous ne prenons pas le petit-déjeuner.", "answer": "négatif" },
+        { "question": "Qu'est-ce que tu portes ?", "answer": "question" },
+        { "question": "Où est-ce qu'elle reste ?", "answer": "question" }
+      ]
+    },
+    "ko": {
+      "title": "현재진행형",
+      "rules": [
+        "현재진행형은 지금 일어나고 있는 일을 말할 때 사용합니다.",
+        "현재진행형은 am/are/is + 동사-ing 형태로 만듭니다.",
+        "의문문은 am/are/is를 주어 앞에 놓습니다.",
+        "부정문은 am/are/is 뒤에 not을 붙입니다.",
+        "짧은 답변: Yes, I am. / No, I'm not."
+      ],
+      "examples": [
+        { "question": "나는 영어를 공부하고 있어요.", "answer": "긍정" },
+        { "question": "당신은 청바지를 입고 있어요.", "answer": "긍정" },
+        { "question": "그녀는 책을 읽고 있어요.", "answer": "긍정" },
+        { "question": "우리는 교실에서 공부하고 있어요.", "answer": "긍정" },
+        { "question": "그들은 점심을 먹고 있어요.", "answer": "긍정" },
+        { "question": "나는 호텔에 묵고 있지 않아요.", "answer": "부정" },
+        { "question": "그는 일하고 있지 않아요.", "answer": "부정" },
+        { "question": "우리는 아침을 먹고 있지 않아요.", "answer": "부정" },
+        { "question": "뭐 입고 있어요?", "answer": "의문" },
+        { "question": "그녀는 어디에 묵고 있어요?", "answer": "의문" }
+      ]
+    }
+  },
+  "clothes_vocabulary": {
+    "en": {
+      "title": "Clothes",
+      "items": [
+        { "word": "a shirt", "emoji": "👔" },
+        { "word": "a jumper", "emoji": "🧶" },
+        { "word": "trousers", "emoji": "👖" },
+        { "word": "jeans", "emoji": "👖" },
+        { "word": "a skirt", "emoji": "👘" },
+        { "word": "a dress", "emoji": "👗" },
+        { "word": "a jacket", "emoji": "🧥" },
+        { "word": "a coat", "emoji": "🧥" },
+        { "word": "shoes", "emoji": "👟" },
+        { "word": "boots", "emoji": "🥾" },
+        { "word": "sandals", "emoji": "👡" },
+        { "word": "trainers", "emoji": "👟" },
+        { "word": "socks", "emoji": "🧦" },
+        { "word": "a hat", "emoji": "🧢" },
+        { "word": "a tie", "emoji": "🎀" },
+        { "word": "shorts", "emoji": "🩳" }
+      ],
+      "colours": ["black", "white", "red", "blue", "green", "grey", "yellow", "brown"]
+    },
+    "ja": {
+      "title": "服",
+      "items": [
+        { "word": "シャツ", "emoji": "👔" },
+        { "word": "セーター", "emoji": "🧶" },
+        { "word": "ズボン", "emoji": "👖" },
+        { "word": "ジーンズ", "emoji": "👖" },
+        { "word": "スカート", "emoji": "👘" },
+        { "word": "ドレス", "emoji": "👗" },
+        { "word": "ジャケット", "emoji": "🧥" },
+        { "word": "コート", "emoji": "🧥" },
+        { "word": "靴", "emoji": "👟" },
+        { "word": "ブーツ", "emoji": "🥾" },
+        { "word": "サンダル", "emoji": "👡" },
+        { "word": "スニーカー", "emoji": "👟" },
+        { "word": "靴下", "emoji": "🧦" },
+        { "word": "帽子", "emoji": "🧢" },
+        { "word": "ネクタイ", "emoji": "🎀" },
+        { "word": "半ズボン", "emoji": "🩳" }
+      ],
+      "colours": ["黒", "白", "赤", "青", "緑", "灰色", "黄色", "茶色"]
+    },
+    "fr": {
+      "title": "Vêtements",
+      "items": [
+        { "word": "une chemise", "emoji": "👔" },
+        { "word": "un pull", "emoji": "🧶" },
+        { "word": "un pantalon", "emoji": "👖" },
+        { "word": "un jean", "emoji": "👖" },
+        { "word": "une jupe", "emoji": "👘" },
+        { "word": "une robe", "emoji": "👗" },
+        { "word": "une veste", "emoji": "🧥" },
+        { "word": "un manteau", "emoji": "🧥" },
+        { "word": "des chaussures", "emoji": "👟" },
+        { "word": "des bottes", "emoji": "🥾" },
+        { "word": "des sandales", "emoji": "👡" },
+        { "word": "des baskets", "emoji": "👟" },
+        { "word": "des chaussettes", "emoji": "🧦" },
+        { "word": "un chapeau", "emoji": "🧢" },
+        { "word": "une cravate", "emoji": "🎀" },
+        { "word": "un short", "emoji": "🩳" }
+      ],
+      "colours": ["noir", "blanc", "rouge", "bleu", "vert", "gris", "jaune", "marron"]
+    },
+    "ko": {
+      "title": "옷",
+      "items": [
+        { "word": "셔츠", "emoji": "👔" },
+        { "word": "스웨터", "emoji": "🧶" },
+        { "word": "바지", "emoji": "👖" },
+        { "word": "청바지", "emoji": "👖" },
+        { "word": "치마", "emoji": "👘" },
+        { "word": "원피스", "emoji": "👗" },
+        { "word": "자켓", "emoji": "🧥" },
+        { "word": "코트", "emoji": "🧥" },
+        { "word": "신발", "emoji": "👟" },
+        { "word": "부츠", "emoji": "🥾" },
+        { "word": "샌들", "emoji": "👡" },
+        { "word": "운동화", "emoji": "👟" },
+        { "word": "양말", "emoji": "🧦" },
+        { "word": "모자", "emoji": "🧢" },
+        { "word": "넥타이", "emoji": "🎀" },
+        { "word": "반바지", "emoji": "🩳" }
+      ],
+      "colours": ["검정색", "흰색", "빨간색", "파란색", "초록색", "회색", "노란색", "갈색"]
+    }
+  },
+  "everyday_english": {
+    "en": {
+      "title": "What's the matter?",
+      "problems": [
+        { "id": "cold", "emoji": "🥶", "word": "cold" },
+        { "id": "hot", "emoji": "🥵", "word": "hot" },
+        { "id": "hungry", "emoji": "🍽️", "word": "hungry" },
+        { "id": "thirsty", "emoji": "🥤", "word": "thirsty" },
+        { "id": "tired", "emoji": "😴", "word": "tired" },
+        { "id": "bored", "emoji": "😒", "word": "bored" }
+      ],
+      "suggestions": [
+        { "problem": "I'm tired.", "suggestion": "Why don't you go to bed early?" },
+        { "problem": "I'm thirsty.", "suggestion": "Why don't you have a cold drink?" },
+        { "problem": "I'm tired.", "suggestion": "Why don't you sit down and relax?" },
+        { "problem": "I'm cold.", "suggestion": "Why don't you put on a jumper?" },
+        { "problem": "I'm hot.", "suggestion": "Why don't you go for a swim?" },
+        { "problem": "I'm bored.", "suggestion": "Why don't you go to the cinema?" },
+        { "problem": "I'm hungry.", "suggestion": "Why don't you have a sandwich?" },
+        { "problem": "I'm bored.", "suggestion": "Why don't you watch a video?" },
+        { "problem": "I'm hot.", "suggestion": "Why don't you have a shower?" }
+      ],
+      "conversation": [
+        { "speaker": "A", "text": "What's the matter?" },
+        { "speaker": "B", "text": "I'm tired and thirsty." },
+        { "speaker": "A", "text": "Why don't you have a cup of tea?" },
+        { "speaker": "B", "text": "That's a good idea." }
+      ]
+    },
+    "ja": {
+      "title": "どうしたの？",
+      "problems": [
+        { "id": "cold", "emoji": "🥶", "word": "寒い" },
+        { "id": "hot", "emoji": "🥵", "word": "暑い" },
+        { "id": "hungry", "emoji": "🍽️", "word": "お腹が空いた" },
+        { "id": "thirsty", "emoji": "🥤", "word": "喉が渇いた" },
+        { "id": "tired", "emoji": "😴", "word": "疲れた" },
+        { "id": "bored", "emoji": "😒", "word": "退屈した" }
+      ],
+      "suggestions": [
+        { "problem": "疲れた。", "suggestion": "早く寝たら？" },
+        { "problem": "喉が渇いた。", "suggestion": "冷たい飲み物を飲んだら？" },
+        { "problem": "疲れた。", "suggestion": "座ってリラックスしたら？" },
+        { "problem": "寒い。", "suggestion": "セーターを着たら？" },
+        { "problem": "暑い。", "suggestion": "泳ぎに行ったら？" },
+        { "problem": "退屈した。", "suggestion": "映画に行ったら？" },
+        { "problem": "お腹が空いた。", "suggestion": "サンドイッチを食べたら？" },
+        { "problem": "退屈した。", "suggestion": "ビデオを見たら？" },
+        { "problem": "暑い。", "suggestion": "シャワーを浴びたら？" }
+      ],
+      "conversation": [
+        { "speaker": "A", "text": "どうしたの？" },
+        { "speaker": "B", "text": "疲れて喉が渇いた。" },
+        { "speaker": "A", "text": "お茶を飲んだら？" },
+        { "speaker": "B", "text": "いいアイデアだね。" }
+      ]
+    },
+    "fr": {
+      "title": "Qu'est-ce qui ne va pas ?",
+      "problems": [
+        { "id": "cold", "emoji": "🥶", "word": "froid" },
+        { "id": "hot", "emoji": "🥵", "word": "chaud" },
+        { "id": "hungry", "emoji": "🍽️", "word": "faim" },
+        { "id": "thirsty", "emoji": "🥤", "word": "soif" },
+        { "id": "tired", "emoji": "😴", "word": "fatigué" },
+        { "id": "bored", "emoji": "😒", "word": "ennuyé" }
+      ],
+      "suggestions": [
+        { "problem": "Je suis fatigué.", "suggestion": "Pourquoi ne vas-tu pas te coucher tôt ?" },
+        { "problem": "J'ai soif.", "suggestion": "Pourquoi ne prends-tu pas une boisson fraîche ?" },
+        { "problem": "Je suis fatigué.", "suggestion": "Pourquoi ne t'assois-tu pas pour te détendre ?" },
+        { "problem": "J'ai froid.", "suggestion": "Pourquoi ne mets-tu pas un pull ?" },
+        { "problem": "J'ai chaud.", "suggestion": "Pourquoi ne vas-tu pas nager ?" },
+        { "problem": "Je m'ennuie.", "suggestion": "Pourquoi ne vas-tu pas au cinéma ?" },
+        { "problem": "J'ai faim.", "suggestion": "Pourquoi ne prends-tu pas un sandwich ?" },
+        { "problem": "Je m'ennuie.", "suggestion": "Pourquoi ne regardes-tu pas une vidéo ?" },
+        { "problem": "J'ai chaud.", "suggestion": "Pourquoi ne prends-tu pas une douche ?" }
+      ],
+      "conversation": [
+        { "speaker": "A", "text": "Qu'est-ce qui ne va pas ?" },
+        { "speaker": "B", "text": "Je suis fatigué et j'ai soif." },
+        { "speaker": "A", "text": "Pourquoi ne prends-tu pas une tasse de thé ?" },
+        { "speaker": "B", "text": "Bonne idée." }
+      ]
+    },
+    "ko": {
+      "title": "무슨 일이야?",
+      "problems": [
+        { "id": "cold", "emoji": "🥶", "word": "추워요" },
+        { "id": "hot", "emoji": "🥵", "word": "더워요" },
+        { "id": "hungry", "emoji": "🍽️", "word": "배고파요" },
+        { "id": "thirsty", "emoji": "🥤", "word": "목말라요" },
+        { "id": "tired", "emoji": "😴", "word": "피곤해요" },
+        { "id": "bored", "emoji": "😒", "word": "심심해요" }
+      ],
+      "suggestions": [
+        { "problem": "피곤해요.", "suggestion": "일찍 자는 게 어때요?" },
+        { "problem": "목말라요.", "suggestion": "시원한 음료 마시는 게 어때요?" },
+        { "problem": "피곤해요.", "suggestion": "앉아서 쉬는 게 어때요?" },
+        { "problem": "추워요.", "suggestion": "스웨터 입는 게 어때요?" },
+        { "problem": "더워요.", "suggestion": "수영하러 가는 게 어때요?" },
+        { "problem": "심심해요.", "suggestion": "영화 보러 가는 게 어때요?" },
+        { "problem": "배고파요.", "suggestion": "샌드위치 먹는 게 어때요?" },
+        { "problem": "심심해요.", "suggestion": "비디오 보는 게 어때요?" },
+        { "problem": "더워요.", "suggestion": "샤워하는 게 어때요?" }
+      ],
+      "conversation": [
+        { "speaker": "A", "text": "무슨 일이야?" },
+        { "speaker": "B", "text": "피곤하고 목말라." },
+        { "speaker": "A", "text": "차 한 잔 마시는 게 어때?" },
+        { "speaker": "B", "text": "좋은 생각이야." }
+      ]
+    }
+  }
+}

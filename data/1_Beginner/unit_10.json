@@ -1,0 +1,468 @@
+{
+  "title": {
+    "en": "Unit 10 - We had a good time!",
+    "ja": "ユニット10 - 素晴らしい時間を過ごしました！",
+    "fr": "Unité 10 - Nous avons passé un bon moment !",
+    "ko": "유닛 10 - 우리는 좋은 시간을 보냈어요!"
+  },
+  "topic": {
+    "en": "Past Simple: Questions, Negatives, and Weekend Activities",
+    "ja": "過去形：疑問文・否定文と週末の活動",
+    "fr": "Passé simple : questions, négations et activités du week-end",
+    "ko": "과거시제: 의문문, 부정문, 그리고 주말 활동"
+  },
+  "picture_dictionary": {
+    "en": [
+      { "id": "tennis", "emoji": "🎾", "word": "tennis", "hint": "I play tennis", "sound": "tennis" },
+      { "id": "skiing", "emoji": "⛷️", "word": "skiing", "hint": "I go skiing", "sound": "skiing" },
+      { "id": "football", "emoji": "⚽", "word": "football", "hint": "I play football", "sound": "football" },
+      { "id": "golf", "emoji": "⛳", "word": "golf", "hint": "I play golf", "sound": "golf" },
+      { "id": "sailing", "emoji": "⛵", "word": "sailing", "hint": "I go sailing", "sound": "sailing" },
+      { "id": "swimming", "emoji": "🏊", "word": "swimming", "hint": "I go swimming", "sound": "swimming" },
+      { "id": "restaurant", "emoji": "🍽️", "word": "restaurant", "hint": "I eat in a restaurant", "sound": "restaurant" },
+      { "id": "cinema", "emoji": "🎬", "word": "cinema", "hint": "I go to the cinema", "sound": "cinema" },
+      { "id": "computer", "emoji": "💻", "word": "computer", "hint": "I work on my computer", "sound": "computer" },
+      { "id": "breakfast", "emoji": "🍳", "word": "breakfast", "hint": "I have breakfast", "sound": "breakfast" }
+    ],
+    "ja": [
+      { "id": "tennis", "emoji": "🎾", "word": "テニス", "hint": "テニスをします", "sound": "tenisu" },
+      { "id": "skiing", "emoji": "⛷️", "word": "スキー", "hint": "スキーに行きます", "sound": "sukii" },
+      { "id": "football", "emoji": "⚽", "word": "サッカー", "hint": "サッカーをします", "sound": "sakkaa" },
+      { "id": "golf", "emoji": "⛳", "word": "ゴルフ", "hint": "ゴルフをします", "sound": "gorufu" },
+      { "id": "sailing", "emoji": "⛵", "word": "セーリング", "hint": "セーリングに行きます", "sound": "seeringu" },
+      { "id": "swimming", "emoji": "🏊", "word": "水泳", "hint": "泳ぎに行きます", "sound": "suiei" },
+      { "id": "restaurant", "emoji": "🍽️", "word": "レストラン", "hint": "レストランで食事をします", "sound": "resutoran" },
+      { "id": "cinema", "emoji": "🎬", "word": "映画館", "hint": "映画館に行きます", "sound": "eigakan" },
+      { "id": "computer", "emoji": "💻", "word": "コンピュータ", "hint": "コンピュータで作業します", "sound": "konpyuuta" },
+      { "id": "breakfast", "emoji": "🍳", "word": "朝ごはん", "hint": "朝ごはんを食べます", "sound": "asagohan" }
+    ],
+    "fr": [
+      { "id": "tennis", "emoji": "🎾", "word": "tennis", "hint": "Je joue au tennis", "sound": "tennis" },
+      { "id": "skiing", "emoji": "⛷️", "word": "ski", "hint": "Je fais du ski", "sound": "ski" },
+      { "id": "football", "emoji": "⚽", "word": "football", "hint": "Je joue au football", "sound": "football" },
+      { "id": "golf", "emoji": "⛳", "word": "golf", "hint": "Je joue au golf", "sound": "golf" },
+      { "id": "sailing", "emoji": "⛵", "word": "voile", "hint": "Je fais de la voile", "sound": "voile" },
+      { "id": "swimming", "emoji": "🏊", "word": "natation", "hint": "Je vais nager", "sound": "natation" },
+      { "id": "restaurant", "emoji": "🍽️", "word": "restaurant", "hint": "Je mange au restaurant", "sound": "restaurant" },
+      { "id": "cinema", "emoji": "🎬", "word": "cinéma", "hint": "Je vais au cinéma", "sound": "cinema" },
+      { "id": "computer", "emoji": "💻", "word": "ordinateur", "hint": "Je travaille sur l'ordinateur", "sound": "ordinateur" },
+      { "id": "breakfast", "emoji": "🍳", "word": "petit-déjeuner", "hint": "Je prends le petit-déjeuner", "sound": "petit-dejeuner" }
+    ],
+    "ko": [
+      { "id": "tennis", "emoji": "🎾", "word": "테니스", "hint": "테니스를 쳐요", "sound": "teniseu" },
+      { "id": "skiing", "emoji": "⛷️", "word": "스키", "hint": "스키를 타러 가요", "sound": "seuki" },
+      { "id": "football", "emoji": "⚽", "word": "축구", "hint": "축구를 해요", "sound": "chukgu" },
+      { "id": "golf", "emoji": "⛳", "word": "골프", "hint": "골프를 쳐요", "sound": "golpeu" },
+      { "id": "sailing", "emoji": "⛵", "word": "세일링", "hint": "세일링을 하러 가요", "sound": "seilling" },
+      { "id": "swimming", "emoji": "🏊", "word": "수영", "hint": "수영을 하러 가요", "sound": "suyeong" },
+      { "id": "restaurant", "emoji": "🍽️", "word": "레스토랑", "hint": "레스토랑에서 식사해요", "sound": "reseutorang" },
+      { "id": "cinema", "emoji": "🎬", "word": "영화관", "hint": "영화관에 가요", "sound": "yeonghwagwan" },
+      { "id": "computer", "emoji": "💻", "word": "컴퓨터", "hint": "컴퓨터로 일해요", "sound": "keompyuteo" },
+      { "id": "breakfast", "emoji": "🍳", "word": "아침식사", "hint": "아침식사를 해요", "sound": "achim siksa" }
+    ]
+  },
+  "listen_repeat": {
+    "en": [
+      { "id": "did_you_weekend", "emoji": "❓", "text": "Did you have a good weekend?", "sound": "Did you have a good weekend?" },
+      { "id": "yes_i_did", "emoji": "👍", "text": "Yes, I did.", "sound": "Yes, I did." },
+      { "id": "no_i_didnt", "emoji": "👎", "text": "No, I didn't.", "sound": "No, I didn't." },
+      { "id": "what_did_you_do", "emoji": "🤔", "text": "What did you do yesterday?", "sound": "What did you do yesterday?" },
+      { "id": "i_played_tennis", "emoji": "🎾", "text": "I played tennis.", "sound": "I played tennis." },
+      { "id": "i_stayed_home", "emoji": "🏠", "text": "I stayed at home.", "sound": "I stayed at home." },
+      { "id": "i_watched_tv", "emoji": "📺", "text": "I watched TV.", "sound": "I watched TV." },
+      { "id": "i_worked_computer", "emoji": "💻", "text": "I worked on my computer.", "sound": "I worked on my computer." },
+      { "id": "did_you_go_out", "emoji": "🚶", "text": "Did you go out yesterday afternoon?", "sound": "Did you go out yesterday afternoon?" },
+      { "id": "didnt_go_to_bed", "emoji": "🛏️", "text": "I didn't go to bed late.", "sound": "I didn't go to bed late." }
+    ],
+    "ja": [
+      { "id": "did_you_weekend", "emoji": "❓", "text": "良い週末を過ごしましたか？", "sound": "Yoi shuumatsu wo sugoshimashita ka?" },
+      { "id": "yes_i_did", "emoji": "👍", "text": "はい、過ごしました。", "sound": "Hai, sugoshimashita." },
+      { "id": "no_i_didnt", "emoji": "👎", "text": "いいえ、過ごしませんでした。", "sound": "Iie, sugoshimasen deshita." },
+      { "id": "what_did_you_do", "emoji": "🤔", "text": "昨日何をしましたか？", "sound": "Kinou nani wo shimashita ka?" },
+      { "id": "i_played_tennis", "emoji": "🎾", "text": "テニスをしました。", "sound": "Tenisu wo shimashita." },
+      { "id": "i_stayed_home", "emoji": "🏠", "text": "家にいました。", "sound": "Ie ni imashita." },
+      { "id": "i_watched_tv", "emoji": "📺", "text": "テレビを見ました。", "sound": "Terebi wo mimashita." },
+      { "id": "i_worked_computer", "emoji": "💻", "text": "コンピュータで作業しました。", "sound": "Konpyuuta de sagyou shimashita." },
+      { "id": "did_you_go_out", "emoji": "🚶", "text": "昨日の午後、出かけましたか？", "sound": "Kinou no gogo, dekakemashita ka?" },
+      { "id": "didnt_go_to_bed", "emoji": "🛏️", "text": "遅く寝ませんでした。", "sound": "Osoku nemasen deshita." }
+    ],
+    "fr": [
+      { "id": "did_you_weekend", "emoji": "❓", "text": "As-tu passé un bon week-end ?", "sound": "As-tu passé un bon week-end ?" },
+      { "id": "yes_i_did", "emoji": "👍", "text": "Oui, j'ai passé.", "sound": "Oui, j'ai passé." },
+      { "id": "no_i_didnt", "emoji": "👎", "text": "Non, je n'ai pas passé.", "sound": "Non, je n'ai pas passé." },
+      { "id": "what_did_you_do", "emoji": "🤔", "text": "Qu'est-ce que tu as fait hier ?", "sound": "Qu'est-ce que tu as fait hier ?" },
+      { "id": "i_played_tennis", "emoji": "🎾", "text": "J'ai joué au tennis.", "sound": "J'ai joué au tennis." },
+      { "id": "i_stayed_home", "emoji": "🏠", "text": "Je suis resté à la maison.", "sound": "Je suis resté à la maison." },
+      { "id": "i_watched_tv", "emoji": "📺", "text": "J'ai regardé la télé.", "sound": "J'ai regardé la télé." },
+      { "id": "i_worked_computer", "emoji": "💻", "text": "J'ai travaillé sur l'ordinateur.", "sound": "J'ai travaillé sur l'ordinateur." },
+      { "id": "did_you_go_out", "emoji": "🚶", "text": "Es-tu sorti hier après-midi ?", "sound": "Es-tu sorti hier après-midi ?" },
+      { "id": "didnt_go_to_bed", "emoji": "🛏️", "text": "Je ne me suis pas couché tard.", "sound": "Je ne me suis pas couché tard." }
+    ],
+    "ko": [
+      { "id": "did_you_weekend", "emoji": "❓", "text": "주말 잘 보냈어요?", "sound": "Jumal jal bonaesseoyo?" },
+      { "id": "yes_i_did", "emoji": "👍", "text": "네, 잘 보냈어요.", "sound": "Ne, jal bonaesseoyo." },
+      { "id": "no_i_didnt", "emoji": "👎", "text": "아니요, 못 보냈어요.", "sound": "Aniyo, mot bonaesseoyo." },
+      { "id": "what_did_you_do", "emoji": "🤔", "text": "어제 뭐 했어요?", "sound": "Eoje mwo haesseoyo?" },
+      { "id": "i_played_tennis", "emoji": "🎾", "text": "테니스를 쳤어요.", "sound": "Teniseureul chyeosseoyo." },
+      { "id": "i_stayed_home", "emoji": "🏠", "text": "집에 있었어요.", "sound": "Jibe isseosseoyo." },
+      { "id": "i_watched_tv", "emoji": "📺", "text": "TV를 봤어요.", "sound": "TVreul bwasseoyo." },
+      { "id": "i_worked_computer", "emoji": "💻", "text": "컴퓨터로 일했어요.", "sound": "Keompyuteoro ilhaesseoyo." },
+      { "id": "did_you_go_out", "emoji": "🚶", "text": "어제 오후에 나갔어요?", "sound": "Eoje ohue nagasseoyo?" },
+      { "id": "didnt_go_to_bed", "emoji": "🛏️", "text": "늦게 안 잤어요.", "sound": "Neutge an jasseoyo." }
+    ]
+  },
+  "story_time": {
+    "en": {
+      "title": "Dan's Weekend",
+      "content": "👋 Hi, Dan. Did you have a good weekend? 🙋 Yes, I did, thanks. 🤔 What did you do yesterday? 🎾 Yesterday morning I got up early and I played tennis with some friends. 😮 You got up early on Sunday! 😅 I know, I know. I don't usually get up early on Sunday. 🚶 Did you go out yesterday afternoon? 👎 No, I didn't. I just stayed at home. I watched the football on TV. 😫 Ugh, football! 🤔 What did you do yesterday evening? 💻 Oh, I didn't do much. I worked a bit at my computer. I didn't go to bed late. About 11.00.",
+      "question": "What did Dan do yesterday morning?",
+      "options": [
+        { "text": "He played tennis", "emoji": "🎾", "correct": true },
+        { "text": "He watched football", "emoji": "⚽", "correct": false },
+        { "text": "He worked on his computer", "emoji": "💻", "correct": false }
+      ]
+    },
+    "ja": {
+      "title": "ダンの週末",
+      "content": "👋 こんにちは、ダン。良い週末を過ごしましたか？ 🙋 はい、過ごしました、ありがとう。 🤔 昨日何をしましたか？ 🎾 昨日の朝、早く起きて友達とテニスをしました。 😮 日曜日に早く起きたんだ！ 😅 わかってる、わかってる。普段は日曜日に早く起きないんだ。 🚶 昨日の午後は出かけましたか？ 👎 いいえ、出かけませんでした。ただ家にいました。テレビでサッカーを見ました。 😫 うわっ、サッカー！ 🤔 昨日の夕方は何をしましたか？ 💻 ああ、あまり何もしていません。コンピュータで少し作業しました。遅く寝ませんでした。11時ごろです。",
+      "question": "ダンは昨日の朝、何をしましたか？",
+      "options": [
+        { "text": "テニスをしました", "emoji": "🎾", "correct": true },
+        { "text": "サッカーを見ました", "emoji": "⚽", "correct": false },
+        { "text": "コンピュータで作業しました", "emoji": "💻", "correct": false }
+      ]
+    },
+    "fr": {
+      "title": "Le week-end de Dan",
+      "content": "👋 Salut, Dan. As-tu passé un bon week-end ? 🙋 Oui, j'ai passé, merci. 🤔 Qu'est-ce que tu as fait hier ? 🎾 Hier matin, je me suis levé tôt et j'ai joué au tennis avec des amis. 😮 Tu t'es levé tôt dimanche ! 😅 Je sais, je sais. Je ne me lève pas habituellement tôt le dimanche. 🚶 Es-tu sorti hier après-midi ? 👎 Non, je ne suis pas sorti. Je suis resté à la maison. J'ai regardé le football à la télé. 😫 Pouah, le football ! 🤔 Qu'est-ce que tu as fait hier soir ? 💻 Oh, je n'ai pas fait grand-chose. J'ai un peu travaillé sur l'ordinateur. Je ne me suis pas couché tard. Vers 11h00.",
+      "question": "Qu'est-ce que Dan a fait hier matin ?",
+      "options": [
+        { "text": "Il a joué au tennis", "emoji": "🎾", "correct": true },
+        { "text": "Il a regardé le football", "emoji": "⚽", "correct": false },
+        { "text": "Il a travaillé sur l'ordinateur", "emoji": "💻", "correct": false }
+      ]
+    },
+    "ko": {
+      "title": "댄의 주말",
+      "content": "👋 안녕, 댄. 주말 잘 보냈어? 🙋 응, 잘 보냈어, 고마워. 🤔 어제 뭐 했어? 🎾 어제 아침에 일찍 일어나서 친구들이랑 테니스를 쳤어. 😮 일요일에 일찍 일어났네! 😅 알아, 알아. 나 보통 일요일에 일찍 안 일어나. 🚶 어제 오후에 나갔어? 👎 아니, 안 나갔어. 그냥 집에 있었어. TV에서 축구 봤어. 😫 아, 축구! 🤔 어제 저녁에는 뭐 했어? 💻 음, 별로 한 게 없어. 컴퓨터로 좀 일했어. 늦게 안 잤어. 11시쯤에 잤어.",
+      "question": "댄은 어제 아침에 무엇을 했나요?",
+      "options": [
+        { "text": "테니스를 쳤어요", "emoji": "🎾", "correct": true },
+        { "text": "축구를 봤어요", "emoji": "⚽", "correct": false },
+        { "text": "컴퓨터로 일했어요", "emoji": "💻", "correct": false }
+      ]
+    }
+  },
+  "fun_activities": {
+    "en": [
+      {
+        "type": "match",
+        "instruction": "Match the activity with the picture!",
+        "pairs": [
+          { "emoji": "🎾", "word": "tennis" },
+          { "emoji": "⛷️", "word": "skiing" },
+          { "emoji": "⚽", "word": "football" },
+          { "emoji": "⛵", "word": "sailing" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "Match the question with the answer!",
+        "pairs": [
+          { "emoji": "❓", "word": "Did you go out?" },
+          { "emoji": "👍", "word": "Yes, I did." },
+          { "emoji": "👎", "word": "No, I didn't." },
+          { "emoji": "🤔", "word": "What did you do?" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Find the activity for 'I play'! 🎾",
+        "target": "🎾",
+        "options": ["⛷️", "🎾", "⛵", "⚽"]
+      }
+    ],
+    "ja": [
+      {
+        "type": "match",
+        "instruction": "アクティビティと絵を合わせましょう！",
+        "pairs": [
+          { "emoji": "🎾", "word": "テニス" },
+          { "emoji": "⛷️", "word": "スキー" },
+          { "emoji": "⚽", "word": "サッカー" },
+          { "emoji": "⛵", "word": "セーリング" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "質問と答えを合わせましょう！",
+        "pairs": [
+          { "emoji": "❓", "word": "出かけましたか？" },
+          { "emoji": "👍", "word": "はい、出かけました。" },
+          { "emoji": "👎", "word": "いいえ、出かけませんでした。" },
+          { "emoji": "🤔", "word": "何をしましたか？" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "'私は〜をします'のアクティビティを探しましょう！ 🎾",
+        "target": "🎾",
+        "options": ["⛷️", "🎾", "⛵", "⚽"]
+      }
+    ],
+    "fr": [
+      {
+        "type": "match",
+        "instruction": "Associez l'activité avec l'image !",
+        "pairs": [
+          { "emoji": "🎾", "word": "tennis" },
+          { "emoji": "⛷️", "word": "ski" },
+          { "emoji": "⚽", "word": "football" },
+          { "emoji": "⛵", "word": "voile" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "Associez la question avec la réponse !",
+        "pairs": [
+          { "emoji": "❓", "word": "Es-tu sorti ?" },
+          { "emoji": "👍", "word": "Oui, je suis sorti." },
+          { "emoji": "👎", "word": "Non, je ne suis pas sorti." },
+          { "emoji": "🤔", "word": "Qu'est-ce que tu as fait ?" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "Trouvez l'activité pour 'Je joue' ! 🎾",
+        "target": "🎾",
+        "options": ["⛷️", "🎾", "⛵", "⚽"]
+      }
+    ],
+    "ko": [
+      {
+        "type": "match",
+        "instruction": "활동과 그림을 맞춰보세요!",
+        "pairs": [
+          { "emoji": "🎾", "word": "테니스" },
+          { "emoji": "⛷️", "word": "스키" },
+          { "emoji": "⚽", "word": "축구" },
+          { "emoji": "⛵", "word": "세일링" }
+        ]
+      },
+      {
+        "type": "match",
+        "instruction": "질문과 답변을 맞춰보세요!",
+        "pairs": [
+          { "emoji": "❓", "word": "나갔어요?" },
+          { "emoji": "👍", "word": "네, 나갔어요." },
+          { "emoji": "👎", "word": "아니요, 안 나갔어요." },
+          { "emoji": "🤔", "word": "뭐 했어요?" }
+        ]
+      },
+      {
+        "type": "find",
+        "question": "'나는 ~을 해요' 활동을 찾아보세요! 🎾",
+        "target": "🎾",
+        "options": ["⛷️", "🎾", "⛵", "⚽"]
+      }
+    ]
+  },
+  "grammar_spot": {
+    "en": {
+      "title": "Past Simple Questions and Negatives",
+      "rules": [
+        "We make questions with 'did' for all persons.",
+        "We make negatives with 'did not' or 'didn't' for all persons.",
+        "The main verb stays in the base form (infinitive without 'to').",
+        "We use 'did' in Past Simple and 'do/does' in Present Simple."
+      ],
+      "examples": [
+        { "question": "Did you get up early?", "answer": "Yes, I did." },
+        { "question": "Did she get up early?", "answer": "No, she didn't." },
+        { "question": "We didn't go to work.", "answer": "didn't = did not" },
+        { "question": "They didn't go to work.", "answer": "" }
+      ],
+      "comparison": [
+        { "present": "What do you do every morning?", "past": "What did you do yesterday morning?" },
+        { "present": "She doesn't play tennis every Sunday.", "past": "She didn't play tennis last Sunday." }
+      ],
+      "short_answers": [
+        { "question": "Do you work in New York?", "answer": "Yes, I do. / No, I don't." },
+        { "question": "Did she like the film?", "answer": "Yes, she did. / No, she didn't." },
+        { "question": "Does he watch TV every evening?", "answer": "Yes, he does. / No, he doesn't." }
+      ]
+    },
+    "ja": {
+      "title": "過去形の疑問文と否定文",
+      "rules": [
+        "疑問文はすべての人称で 'did' を使って作ります。",
+        "否定文はすべての人称で 'did not' または 'didn't' を使って作ります。",
+        "動詞は原形（to なしの不定詞）のままです。",
+        "過去形では 'did' を、現在形では 'do/does' を使います。"
+      ],
+      "examples": [
+        { "question": "早く起きましたか？", "answer": "はい、起きました。" },
+        { "question": "彼女は早く起きましたか？", "answer": "いいえ、起きませんでした。" },
+        { "question": "私たちは仕事に行きませんでした。", "answer": "didn't = did not" },
+        { "question": "彼らは仕事に行きませんでした。", "answer": "" }
+      ],
+      "comparison": [
+        { "present": "毎朝何をしますか？", "past": "昨日の朝は何をしましたか？" },
+        { "present": "彼女は毎日曜日にテニスをしません。", "past": "彼女は先週の日曜日にテニスをしませんでした。" }
+      ],
+      "short_answers": [
+        { "question": "ニューヨークで働いていますか？", "answer": "はい、働いています。／いいえ、働いていません。" },
+        { "question": "彼女はその映画が好きでしたか？", "answer": "はい、好きでした。／いいえ、好きではありませんでした。" },
+        { "question": "彼は毎晩テレビを見ますか？", "answer": "はい、見ます。／いいえ、見ません。" }
+      ]
+    },
+    "fr": {
+      "title": "Questions et négations au passé simple",
+      "rules": [
+        "On forme les questions avec 'did' pour toutes les personnes.",
+        "On forme les négations avec 'did not' ou 'didn't' pour toutes les personnes.",
+        "Le verbe principal reste à la forme de base (infinitif sans 'to').",
+        "On utilise 'did' au passé simple et 'do/does' au présent simple."
+      ],
+      "examples": [
+        { "question": "T'es-tu levé tôt ?", "answer": "Oui, je me suis levé." },
+        { "question": "S'est-elle levée tôt ?", "answer": "Non, elle ne s'est pas levée." },
+        { "question": "Nous ne sommes pas allés travailler.", "answer": "didn't = did not" },
+        { "question": "Ils ne sont pas allés travailler.", "answer": "" }
+      ],
+      "comparison": [
+        { "present": "Que fais-tu tous les matins ?", "past": "Qu'as-tu fait hier matin ?" },
+        { "present": "Elle ne joue pas au tennis tous les dimanches.", "past": "Elle n'a pas joué au tennis dimanche dernier." }
+      ],
+      "short_answers": [
+        { "question": "Travailles-tu à New York ?", "answer": "Oui, je travaille. / Non, je ne travaille pas." },
+        { "question": "A-t-elle aimé le film ?", "answer": "Oui, elle a aimé. / Non, elle n'a pas aimé." },
+        { "question": "Regarde-t-il la télé tous les soirs ?", "answer": "Oui, il regarde. / Non, il ne regarde pas." }
+      ]
+    },
+    "ko": {
+      "title": "과거시제 의문문과 부정문",
+      "rules": [
+        "모든 인칭에서 'did'를 사용하여 의문문을 만듭니다.",
+        "모든 인칭에서 'did not' 또는 'didn't'를 사용하여 부정문을 만듭니다.",
+        "동사는 원형(to가 없는 부정사) 그대로 사용합니다.",
+        "과거시제에는 'did'를, 현재시제에는 'do/does'를 사용합니다."
+      ],
+      "examples": [
+        { "question": "일찍 일어났어요?", "answer": "네, 일어났어요." },
+        { "question": "그녀는 일찍 일어났어요?", "answer": "아니요, 일어나지 않았어요." },
+        { "question": "우리는 일하러 가지 않았어요.", "answer": "didn't = did not" },
+        { "question": "그들은 일하러 가지 않았어요.", "answer": "" }
+      ],
+      "comparison": [
+        { "present": "매일 아침 무엇을 하나요?", "past": "어제 아침에는 무엇을 했나요?" },
+        { "present": "그녀는 매주 일요일마다 테니스를 치지 않아요.", "past": "그녀는 지난주 일요일에 테니스를 치지 않았어요." }
+      ],
+      "short_answers": [
+        { "question": "뉴욕에서 일하나요?", "answer": "네, 일해요. / 아니요, 일하지 않아요." },
+        { "question": "그녀는 그 영화를 좋아했나요?", "answer": "네, 좋아했어요. / 아니요, 좋아하지 않았어요." },
+        { "question": "그는 매일 저녁 TV를 보나요?", "answer": "네, 봐요. / 아니요, 보지 않아요." }
+      ]
+    }
+  },
+  "holiday_vocabulary": {
+      "en": {
+    "title": "Holidays",
+    "seasons": ["spring", "summer", "autumn", "winter"],
+    "places": ["France", "Spain", "Switzerland", "the US"],
+    "accommodation": ["hotel", "house", "chalet"],
+    "activities": ["swimming", "sailing", "tennis", "golf", "skiing", "ice-skating", "walking", "cards", "ice hockey"],
+    "dining": ["eat in restaurants", "cook own meals", "eat in the hotel"]
+  },
+  "ja": {
+    "title": "休暇",
+    "seasons": ["春", "夏", "秋", "冬"],
+    "places": ["フランス", "スペイン", "スイス", "アメリカ"],
+    "accommodation": ["ホテル", "民泊", "シャレー"],
+    "activities": ["水泳", "セーリング", "テニス", "ゴルフ", "スキー", "アイススケート", "散歩", "カードゲーム", "アイスホッケー"],
+    "dining": ["レストランで食事", "自炊", "ホテルで食事"]
+  },
+  "fr": {
+    "title": "Vacances",
+    "seasons": ["printemps", "été", "automne", "hiver"],
+    "places": ["France", "Espagne", "Suisse", "les États-Unis"],
+    "accommodation": ["hôtel", "maison", "chalet"],
+    "activities": ["natation", "voile", "tennis", "golf", "ski", "patinage sur glace", "marche", "cartes", "hockey sur glace"],
+    "dining": ["manger au restaurant", "cuisiner soi-même", "manger à l'hôtel"]
+  },
+  "ko": {
+    "title": "휴가",
+    "seasons": ["봄", "여름", "가을", "겨울"],
+    "places": ["프랑스", "스페인", "스위스", "미국"],
+    "accommodation": ["호텔", "민박집", "산장"],
+    "activities": ["수영", "요트", "테니스", "골프", "스키", "아이스스케이팅", "산책", "카드놀이", "아이스하키"],
+    "dining": ["레스토랑에서 식사", "직접 요리", "호텔에서 식사"]
+    }
+  },
+  "form_filling": {
+    "en": {
+    "title": "Filling in Forms",
+    "fields": {
+      "title_mr_mrs_miss_ms": "Mr/Mrs/Miss/Ms (please circle)",
+      "full_name": "Full name",
+      "address": "Address",
+      "postcode": "Postcode",
+      "date_of_birth": "Date of birth",
+      "telephone": "Telephone number",
+      "nationality": "Nationality",
+      "signature": "Signature",
+      "date": "Date",
+      "sports_interested": "What sports are you interested in? (please tick)",
+      "sports": ["swimming", "golf", "athletics", "tennis", "squash", "fitness training"]
+    }
+  },
+  "ja": {
+    "title": "フォームの記入",
+    "fields": {
+      "title_mr_mrs_miss_ms": "Mr/Mrs/Miss/Ms（丸で囲んでください）",
+      "full_name": "フルネーム",
+      "address": "住所",
+      "postcode": "郵便番号",
+      "date_of_birth": "生年月日",
+      "telephone": "電話番号",
+      "nationality": "国籍",
+      "signature": "署名",
+      "date": "日付",
+      "sports_interested": "興味のあるスポーツは何ですか？（チェックしてください）",
+      "sports": ["水泳", "ゴルフ", "陸上競技", "テニス", "スカッシュ", "フィットネストレーニング"]
+    }
+  },
+  "fr": {
+    "title": "Remplir des formulaires",
+    "fields": {
+      "title_mr_mrs_miss_ms": "M/Mme/Mlle/Ms (veuillez entourer)",
+      "full_name": "Nom complet",
+      "address": "Adresse",
+      "postcode": "Code postal",
+      "date_of_birth": "Date de naissance",
+      "telephone": "Numéro de téléphone",
+      "nationality": "Nationalité",
+      "signature": "Signature",
+      "date": "Date",
+      "sports_interested": "Quels sports vous intéressent ? (veuillez cocher)",
+      "sports": ["natation", "golf", "athlétisme", "tennis", "squash", "entraînement physique"]
+    }
+  },
+  "ko": {
+    "title": "양식 작성하기",
+    "fields": {
+      "title_mr_mrs_miss_ms": "Mr/Mrs/Miss/Ms (동그라미 표시)",
+      "full_name": "성명",
+      "address": "주소",
+      "postcode": "우편번호",
+      "date_of_birth": "생년월일",
+      "telephone": "전화번호",
+      "nationality": "국적",
+      "signature": "서명",
+      "date": "날짜",
+      "sports_interested": "관심 있는 스포츠는 무엇인가요? (체크 표시)",
+      "sports": ["수영", "골프", "육상", "테니스", "스쿼시", "피트니스 트레이닝"]
+      }
+    }
+  }
+}

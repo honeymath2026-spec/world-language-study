@@ -1372,6 +1372,15 @@ function renderPage(unit) {
     const can_i_phrases = unit.can_i_phrases?.[lang] || unit.can_i_phrases?.['en'] || [];
     const prepositions = unit.prepositions?.[lang] || unit.prepositions?.['en'] || [];
     const directions = unit.directions?.[lang] || unit.directions?.['en'] || [];
+    const holiday_vocabulary = unit.holiday_vocabulary?.[lang] || unit.holiday_vocabulary?.['en'] || null;
+    const form_filling = unit.form_filling?.[lang] || unit.form_filling?.['en'] || null;
+    const requests = unit.requests_and_offers?.[lang] || unit.requests_and_offers?.['en'] || {};
+    const internet_vocab = unit.internet_vocabulary?.[lang] || unit.internet_vocabulary?.['en'] || {};
+    const everydayData = unit.everyday_english?.[lang] || unit.everyday_english?.['en'] || null;
+    const restaurant_menu = unit.restaurant_menu?.[lang] || unit.restaurant_menu?.['en'] || null;
+    const clothes_vocab = unit.clothes_vocabulary?.[lang] || unit.clothes_vocabulary?.['en'] || null;
+    const transport_vocab = unit.transport_vocabulary?.[lang] || unit.transport_vocabulary?.['en'] || null;
+
 
 
     const title = unit.title?.[lang] || unit.title?.['en'] || `Unit ${unitNum}`;
@@ -1389,15 +1398,16 @@ function renderPage(unit) {
     if (story.content) mainNav.push({ id: 'story', label: '📚 Story Time' });
     if (activities.length > 0) mainNav.push({ id: 'activities', label: '🎮 Fun Activities' });
     if (grammar.title) mainNav.push({ id: 'grammar', label: '📝 Grammar' });
-    if (conversations.length > 0) mainNav.push({ id: 'practice', label: '💬 Practice' });
+    
 
     // 참고 섹션 (있는 경우만 표시)
     const refNav = [];
     if (numbers.length > 0) refNav.push({ id: 'numbers', label: '🔢 Numbers' });
     if (social.length > 0) refNav.push({ id: 'social', label: '💬 Social' });
     if (family.length > 0) refNav.push({ id: 'family', label: '👨‍👩‍👦 Family' });
-    if (alphabet.length > 0) mainNav.push({ id: 'alphabet', label: '🔤 Alphabet' });
-    if (phone.length > 0) mainNav.push({ id: 'phone', label: '📞 Phone' });
+    if (conversations.length > 0) refNav.push({ id: 'practice', label: '💬 Practice' });
+    if (alphabet.length > 0) refNav.push({ id: 'alphabet', label: '🔤 Alphabet' });  // ✅ refNav로 이동
+    if (phone.length > 0) refNav.push({ id: 'phone', label: '📞 Phone' });          // ✅ refNav로 이동
     if (prices.length > 0) refNav.push({ id: 'prices', label: '💰 Prices' });
     if (days_of_week.length > 0) refNav.push({ id: 'days', label: '📅 Days' });
     if (time_prepositions.title) refNav.push({ id: 'prepositions', label: '⏰ Prepositions' });
@@ -1405,6 +1415,17 @@ function renderPage(unit) {
     if (can_i_phrases.length > 0) refNav.push({ id: 'can_i', label: '🙋 Can I...?' });
     if (prepositions.length > 0) refNav.push({ id: 'prepositions', label: '📍 Prepositions' });  // ✅ 추가
     if (directions.length > 0) refNav.push({ id: 'directions', label: '🧭 Directions' });        // ✅ 추가
+    if (holiday_vocabulary) refNav.push({ id: 'holiday-vocab', label: '🌴 Holidays' });
+    if (form_filling) refNav.push({ id: 'form-filling', label: '📝 Forms' });
+    if (requests.title) refNav.push({ id: 'requests', label: '🙋 Requests & Offers' });
+    if (internet_vocab.title) refNav.push({ id: 'internet', label: '🌐 Internet' });
+    if (clothes_vocab) refNav.push({ id: 'clothes', label: '👕 Clothes' });
+    if (restaurant_menu) refNav.push({ id: 'restaurant', label: '🍽️ Restaurant' });
+    if (transport_vocab) refNav.push({ id: 'transport', label: '🚗 Transport' });
+    if (everydayData && (everydayData.title || everydayData.phrases || everydayData.conversations || everydayData.problems || everydayData.conversation)) {
+    refNav.push({ id: 'everyday', label: '💬 Everyday English' });
+}
+
 
     // 네비게이션 HTML 생성
     let navHtml = mainNav.map(item => 
@@ -1662,26 +1683,7 @@ function renderPage(unit) {
         </section>`;
     }
 
-    // ---------- PRACTICE CONVERSATIONS ----------
-    if (conversations.length > 0) {
-        html += `<section id="practice"><h2>💬 Practice Conversations</h2>`;
-        conversations.forEach(function(conv, idx) {
-            html += `<div style="background:#f8f9fa;padding:15px 20px;border-radius:15px;margin-bottom:15px;border-left:5px solid #9b59b6;">
-                <h4 style="color:#9b59b6;margin-bottom:12px;">${conv.title}</h4>`;
-            conv.lines.forEach(function(line) {
-                var safeText = line.text.replace(/'/g, "\\'");
-                html += `
-                    <div style="padding:6px 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
-                        <strong style="color:#3498db;min-width:35px;">${line.speaker}:</strong>
-                        <span style="flex:1;">${line.text}</span>
-                        <button class="listen-btn" style="padding:4px 14px;font-size:0.8rem;" onclick="speakText('${safeText}')">🔊</button>
-                    </div>
-                `;
-            });
-            html += `</div>`;
-        });
-        html += `</section>`;
-    }
+    
 
     // ============================================================
     // 📚 REFERENCE SECTIONS (참고 섹션 - 하단에 표시)
@@ -1719,6 +1721,29 @@ function renderPage(unit) {
         html += `</div></section>`;
     }
 
+
+    // ---------- PRACTICE CONVERSATIONS ----------
+    if (conversations.length > 0) {
+        html += `<section id="practice"><h2>💬 Practice Conversations</h2>`;
+        conversations.forEach(function(conv, idx) {
+            html += `<div style="background:#f8f9fa;padding:15px 20px;border-radius:15px;margin-bottom:15px;border-left:5px solid #9b59b6;">
+                <h4 style="color:#9b59b6;margin-bottom:12px;">${conv.title}</h4>`;
+            conv.lines.forEach(function(line) {
+                var safeText = line.text.replace(/'/g, "\\'");
+                html += `
+                    <div style="padding:6px 0;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+                        <strong style="color:#3498db;min-width:35px;">${line.speaker}:</strong>
+                        <span style="flex:1;">${line.text}</span>
+                        <button class="listen-btn" style="padding:4px 14px;font-size:0.8rem;" onclick="speakText('${safeText}')">🔊</button>
+                    </div>
+                `;
+            });
+            html += `</div>`;
+        });
+        html += `</section>`;
+    }
+
+    
     // ---------- SOCIAL EXPRESSIONS (참고) ----------
     if (social.length > 0) {
         html += `<section id="social" class="reference"><h2>💬 Social Expressions</h2><div class="picture-grid">`;
@@ -1737,6 +1762,8 @@ function renderPage(unit) {
         html += `</div></section>`;
     }
 
+
+    
     // ============================================================
     // 🔤 ALPHABET - 언어별 특성에 맞게
     // ============================================================
@@ -1878,6 +1905,35 @@ function renderPage(unit) {
     }
 
 
+    // ---------- CAN I...? PHRASES (추가) ----------
+if (can_i_phrases && can_i_phrases.length > 0) {
+    const canILabels = {
+        en: { title: '🙋 Can I...?', place: '📍 Place' },
+        ja: { title: '🙋 ～してもいいですか？', place: '📍 場所' },
+        fr: { title: '🙋 Puis-je...?', place: '📍 Lieu' },
+        ko: { title: '🙋 ~해도 될까요?', place: '📍 장소' }
+    };
+    const labels = canILabels[lang] || canILabels.en;
+
+    html += `<section id="can_i" class="reference"><h2>${labels.title}</h2>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">`;
+
+    can_i_phrases.forEach(item => {
+        html += `<div style="background:#f8f4fc;border-radius:15px;padding:15px;border:2px solid #e8d5f5;display:flex;flex-direction:column;gap:6px;">
+            <div style="display:flex;align-items:center;gap:10px;">
+                <span style="font-size:2rem;">${item.emoji || '🙋'}</span>
+                <span style="font-weight:600;font-size:1.05rem;color:#8e44ad;">${item.phrase}</span>
+            </div>
+            <div style="font-size:0.85rem;color:#7f8c8d;background:#f0e6f6;padding:4px 12px;border-radius:20px;display:inline-block;align-self:flex-start;">
+                ${labels.place}: ${item.place}
+            </div>
+        </div>`;
+    });
+
+    html += `</div></section>`;
+}
+
+
     // ---------- PREPOSITIONS (위치 전치사 - 참고) ----------
     if (prepositions.length > 0) {
         var prepTitle = (lang === 'ko') ? '📍 위치 전치사' : (lang === 'ja') ? '📍 場所の前置詞' : (lang === 'fr') ? '📍 Prépositions de lieu' : '📍 Prepositions of Place';
@@ -1925,6 +1981,611 @@ function renderPage(unit) {
         html += `</div></section>`;
     }
 
+// ---------- HOLIDAY VOCABULARY (참고) ----------
+if (unit.holiday_vocabulary) {
+    const holidayData = unit.holiday_vocabulary[lang] || unit.holiday_vocabulary['en'];
+    if (holidayData) {
+        const tHoliday = {
+            en: { title: '🌴 Holidays', seasons: 'Seasons', places: 'Places', accommodation: 'Accommodation', activities: 'Activities', dining: 'Dining' },
+            ja: { title: '🌴 休暇', seasons: '季節', places: '場所', accommodation: '宿泊', activities: 'アクティビティ', dining: '食事' },
+            fr: { title: '🌴 Vacances', seasons: 'Saisons', places: 'Lieux', accommodation: 'Hébergement', activities: 'Activités', dining: 'Restauration' },
+            ko: { title: '🌴 휴가', seasons: '계절', places: '장소', accommodation: '숙소', activities: '액티비티', dining: '식사' }
+        };
+        const labels = tHoliday[lang] || tHoliday.en;
+
+        html += `<section id="holiday-vocab" class="reference"><h2>${labels.title}</h2>
+            <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px;">`;
+
+        // Seasons
+        if (holidayData.seasons && holidayData.seasons.length > 0) {
+            html += `<div style="background:#f8f4ec;border-radius:15px;padding:15px;">
+                <h3 style="color:#e67e22;font-size:1.1rem;margin-bottom:10px;">🌸 ${labels.seasons}</h3>
+                <div style="display:flex;flex-wrap:wrap;gap:8px;">`;
+            holidayData.seasons.forEach(item => {
+                html += `<span style="background:white;padding:6px 14px;border-radius:20px;font-size:0.95rem;border:2px solid #f0e6d3;">${item}</span>`;
+            });
+            html += `</div></div>`;
+        }
+
+        // Places
+        if (holidayData.places && holidayData.places.length > 0) {
+            html += `<div style="background:#f0f7ff;border-radius:15px;padding:15px;">
+                <h3 style="color:#2980b9;font-size:1.1rem;margin-bottom:10px;">📍 ${labels.places}</h3>
+                <div style="display:flex;flex-wrap:wrap;gap:8px;">`;
+            holidayData.places.forEach(item => {
+                html += `<span style="background:white;padding:6px 14px;border-radius:20px;font-size:0.95rem;border:2px solid #d4e6f7;">${item}</span>`;
+            });
+            html += `</div></div>`;
+        }
+
+        // Accommodation
+        if (holidayData.accommodation && holidayData.accommodation.length > 0) {
+            html += `<div style="background:#f0faf0;border-radius:15px;padding:15px;">
+                <h3 style="color:#27ae60;font-size:1.1rem;margin-bottom:10px;">🏠 ${labels.accommodation}</h3>
+                <div style="display:flex;flex-wrap:wrap;gap:8px;">`;
+            holidayData.accommodation.forEach(item => {
+                html += `<span style="background:white;padding:6px 14px;border-radius:20px;font-size:0.95rem;border:2px solid #d5f5e3;">${item}</span>`;
+            });
+            html += `</div></div>`;
+        }
+
+        // Activities
+        if (holidayData.activities && holidayData.activities.length > 0) {
+            html += `<div style="background:#fef9ef;border-radius:15px;padding:15px;">
+                <h3 style="color:#f39c12;font-size:1.1rem;margin-bottom:10px;">🎯 ${labels.activities}</h3>
+                <div style="display:flex;flex-wrap:wrap;gap:8px;">`;
+            holidayData.activities.forEach(item => {
+                html += `<span style="background:white;padding:6px 14px;border-radius:20px;font-size:0.95rem;border:2px solid #fdebd0;">${item}</span>`;
+            });
+            html += `</div></div>`;
+        }
+
+        // Dining
+        if (holidayData.dining && holidayData.dining.length > 0) {
+            html += `<div style="background:#fef0f0;border-radius:15px;padding:15px;">
+                <h3 style="color:#e74c3c;font-size:1.1rem;margin-bottom:10px;">🍽️ ${labels.dining}</h3>
+                <div style="display:flex;flex-wrap:wrap;gap:8px;">`;
+            holidayData.dining.forEach(item => {
+                html += `<span style="background:white;padding:6px 14px;border-radius:20px;font-size:0.95rem;border:2px solid #fadbd8;">${item}</span>`;
+            });
+            html += `</div></div>`;
+        }
+
+        html += `</div></section>`;
+    }
+}
+
+// ---------- FORM FILLING (참고) ----------
+if (unit.form_filling) {
+    const formData = unit.form_filling[lang] || unit.form_filling['en'];
+    if (formData) {
+        const tForm = {
+            en: { title: '📝 Sports Centre Application Form', personal: 'Personal Information', sports: 'Sports Interested In', submit: 'Submit Application' },
+            ja: { title: '📝 スポーツセンター申込書', personal: '個人情報', sports: '興味のあるスポーツ', submit: '申込む' },
+            fr: { title: "📝 Formulaire d'inscription au Centre Sportif", personal: 'Informations personnelles', sports: 'Sports intéressés', submit: 'Soumettre' },
+            ko: { title: '📝 스포츠센터 신청서', personal: '개인 정보', sports: '관심 스포츠', submit: '제출하기' }
+        };
+        const labels = tForm[lang] || tForm.en;
+        const fields = formData.fields || {};
+        const sportsList = fields.sports || ['swimming', 'golf', 'athletics', 'tennis', 'squash', 'fitness training'];
+        
+        // ✅ 모든 언어의 스포츠 이름에 대한 이모티콘 매핑 (정확히 일치해야 함)
+        const sportEmojis = {
+            // 영어
+            'swimming': '🏊',
+            'golf': '⛳',
+            'athletics': '🏃',
+            'tennis': '🎾',
+            'squash': '🏸',
+            'fitness training': '💪',
+            // 일본어
+            '水泳': '🏊',
+            'ゴルフ': '⛳',
+            '陸上競技': '🏃',
+            'テニス': '🎾',
+            'スカッシュ': '🏸',
+            'フィットネストレーニング': '💪',
+            // 프랑스어
+            'natation': '🏊',
+            'athlétisme': '🏃',
+            'entraînement physique': '💪',
+            // 한국어 - 정확히 일치해야 함!!!
+            '수영': '🏊',
+            '골프': '⛳',
+            '육상': '🏃',
+            '테니스': '🎾',
+            '스쿼시': '🏸',
+            '피트니스 트레이닝': '💪'  // ← 여기 정확히 확인!
+        };
+
+        html += `<section id="form-filling" class="reference"><h2>${labels.title}</h2>
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:30px;">`;
+
+        // Personal Information
+        html += `<div style="background:#f8f4fc;border-radius:15px;padding:20px;border:2px solid #e8d5f5;">
+            <h3 style="color:#8e44ad;font-size:1.2rem;margin-bottom:15px;">👤 ${labels.personal}</h3>
+            <div style="display:flex;flex-direction:column;gap:12px;">`;
+
+        // Title
+        html += `<div><label style="font-weight:600;font-size:0.9rem;color:#555;display:block;margin-bottom:3px;">${fields.title_mr_mrs_miss_ms || 'Title'}</label>
+            <div style="display:flex;gap:12px;flex-wrap:wrap;">
+                ${['Mr','Mrs','Miss','Ms'].map(t => `<label style="display:flex;align-items:center;gap:4px;font-size:0.95rem;cursor:pointer;"><input type="radio" name="title" value="${t}"> ${t}</label>`).join('')}
+            </div></div>`;
+
+        // Full Name
+        html += `<div><label style="font-weight:600;font-size:0.9rem;color:#555;display:block;margin-bottom:3px;">${fields.full_name || 'Full Name'}</label>
+            <input type="text" placeholder="Jennifer Alice Cottrell" style="width:100%;padding:10px 14px;border:2px solid #ddd;border-radius:10px;font-size:1rem;"></div>`;
+
+        // Address
+        html += `<div><label style="font-weight:600;font-size:0.9rem;color:#555;display:block;margin-bottom:3px;">${fields.address || 'Address'}</label>
+            <input type="text" placeholder="16, Latimer Road, Chesham" style="width:100%;padding:10px 14px;border:2px solid #ddd;border-radius:10px;font-size:1rem;"></div>`;
+
+        // Postcode
+        html += `<div><label style="font-weight:600;font-size:0.9rem;color:#555;display:block;margin-bottom:3px;">${fields.postcode || 'Postcode'}</label>
+            <input type="text" placeholder="HP7 1UT" style="width:100%;padding:10px 14px;border:2px solid #ddd;border-radius:10px;font-size:1rem;"></div>`;
+
+        // Date of Birth
+        html += `<div><label style="font-weight:600;font-size:0.9rem;color:#555;display:block;margin-bottom:3px;">${fields.date_of_birth || 'Date of Birth'}</label>
+            <div style="display:flex;gap:8px;">
+                <input type="text" placeholder="DD" style="width:50px;padding:10px;border:2px solid #ddd;border-radius:10px;text-align:center;font-size:1rem;">
+                <span style="font-size:1.5rem;color:#999;">/</span>
+                <input type="text" placeholder="MM" style="width:50px;padding:10px;border:2px solid #ddd;border-radius:10px;text-align:center;font-size:1rem;">
+                <span style="font-size:1.5rem;color:#999;">/</span>
+                <input type="text" placeholder="YYYY" style="width:80px;padding:10px;border:2px solid #ddd;border-radius:10px;text-align:center;font-size:1rem;">
+            </div></div>`;
+
+        // Telephone
+        html += `<div><label style="font-weight:600;font-size:0.9rem;color:#555;display:block;margin-bottom:3px;">${fields.telephone || 'Telephone'}</label>
+            <input type="tel" placeholder="01494 765329" style="width:100%;padding:10px 14px;border:2px solid #ddd;border-radius:10px;font-size:1rem;"></div>`;
+
+        // Nationality
+        html += `<div><label style="font-weight:600;font-size:0.9rem;color:#555;display:block;margin-bottom:3px;">${fields.nationality || 'Nationality'}</label>
+            <input type="text" placeholder="Canadian" style="width:100%;padding:10px 14px;border:2px solid #ddd;border-radius:10px;font-size:1rem;"></div>`;
+
+        // Signature
+        html += `<div><label style="font-weight:600;font-size:0.9rem;color:#555;display:block;margin-bottom:3px;">${fields.signature || 'Signature'}</label>
+            <input type="text" placeholder="J O Cottrell" style="width:100%;padding:10px 14px;border:2px solid #ddd;border-radius:10px;font-size:1rem;font-family:'Brush Script MT',cursive;"></div>`;
+
+        // Date
+        html += `<div><label style="font-weight:600;font-size:0.9rem;color:#555;display:block;margin-bottom:3px;">${fields.date || 'Date'}</label>
+            <input type="text" placeholder="4th February 2002" style="width:100%;padding:10px 14px;border:2px solid #ddd;border-radius:10px;font-size:1rem;"></div>`;
+
+        html += `</div></div>`;
+
+        // Sports Interested In
+        html += `<div style="background:#f4f8fc;border-radius:15px;padding:20px;border:2px solid #d4e6f7;">
+            <h3 style="color:#2980b9;font-size:1.2rem;margin-bottom:15px;">🏅 ${labels.sports}</h3>
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">`;
+
+        // 🔍 디버깅: console.log로 확인
+        console.log('sportsList:', sportsList);
+        console.log('sportEmojis keys:', Object.keys(sportEmojis));
+
+        sportsList.forEach(sport => {
+            // ✅ sport 그대로 매핑
+            const emoji = sportEmojis[sport];
+            console.log(`sport: "${sport}", emoji: "${emoji}"`);  // 디버깅용
+            
+            // 만약 emoji가 undefined면 기본값 ⚽ 사용
+            const finalEmoji = emoji || '⚽';
+            
+            html += `<label style="display:flex;align-items:center;gap:10px;background:white;padding:10px 14px;border-radius:10px;border:2px solid #e8f0f8;cursor:pointer;transition:0.2s;"
+                    onmouseover="this.style.borderColor='#3498db'"
+                    onmouseout="this.style.borderColor='#e8f0f8'">
+                <input type="checkbox" style="width:18px;height:18px;accent-color:#3498db;">
+                <span style="font-size:1.4rem;">${finalEmoji}</span>
+                <span style="font-weight:500;font-size:1rem;">${sport}</span>
+            </label>`;
+        });
+
+        html += `</div>
+            <button style="margin-top:20px;width:100%;padding:14px;background:linear-gradient(135deg,#9b59b6,#8e44ad);color:white;border:none;border-radius:12px;font-size:1.2rem;font-weight:700;cursor:pointer;transition:0.3s;"
+                    onmouseover="this.style.transform='scale(1.02)';this.style.boxShadow='0 4px 15px rgba(155,89,182,0.4)';"
+                    onmouseout="this.style.transform='none';this.style.boxShadow='none';">
+                📤 ${labels.submit}
+            </button>
+        </div>`;
+
+        html += `</div></section>`;
+    }
+}
+
+// ---------- REQUESTS AND OFFERS ----------
+if (requests.title && requests.phrases) {
+    html += `<section id="requests" class="reference"><h2>🙋 ${requests.title}</h2>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">`;
+    requests.phrases.forEach(p => {
+        html += `<div style="background:#f8f4fc;border-radius:15px;padding:15px;border:2px solid #e8d5f5;">
+            <div style="font-weight:600;font-size:1.1rem;color:#8e44ad;">❓ ${p.question}</div>
+            <div style="color:#27ae60;margin-top:8px;">💬 ${p.response}</div>
+        </div>`;
+    });
+    html += `</div></section>`;
+}
+
+// ---------- INTERNET VOCABULARY ----------
+if (internet_vocab.title) {
+    // 언어별 제목 매핑
+    const internetLabels = {
+        en: { verbNoun: '🔗 Verb + Noun', uses: '💻 What can you do?' },
+        ja: { verbNoun: '🔗 名詞 + 動詞', uses: '💻 何ができますか？' },
+        fr: { verbNoun: '🔗 Verbe + Nom', uses: '💻 Que pouvez-vous faire ?' },
+        ko: { verbNoun: '🔗 명사 + 동사', uses: '💻 무엇을 할 수 있나요?' }
+    };
+    const labels = internetLabels[lang] || internetLabels.en;
+
+    html += `<section id="internet" class="reference"><h2>🌐 ${internet_vocab.title}</h2>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">`;
+    
+    if (internet_vocab.verbs_nouns && internet_vocab.verbs_nouns.length > 0) {
+        html += `<div style="background:#f0f7ff;border-radius:15px;padding:15px;border:2px solid #d4e6f7;">
+            <h3 style="color:#2980b9;">${labels.verbNoun}</h3>`;
+        
+        // 언어별로 다른 형식으로 표시
+        if (lang === 'ko') {
+            // 한국어: 명사 + 동사 (CD를 듣다)
+            internet_vocab.verbs_nouns.forEach(item => {
+                html += `<div style="display:flex;align-items:center;gap:8px;padding:4px 0;border-bottom:1px solid #e8f0f8;">
+                    <span style="font-weight:600;">${item.noun}</span>
+                    <span style="color:#7f8c8d;">를</span>
+                    <span>${item.verb}</span>
+                </div>`;
+            });
+        } else if (lang === 'ja') {
+            // 일본어: 名詞 + を + 動詞 (CDを聴く)
+            internet_vocab.verbs_nouns.forEach(item => {
+                html += `<div style="display:flex;align-items:center;gap:8px;padding:4px 0;border-bottom:1px solid #e8f0f8;">
+                    <span style="font-weight:600;">${item.noun}</span>
+                    <span style="color:#7f8c8d;">を</span>
+                    <span>${item.verb}</span>
+                </div>`;
+            });
+        } else {
+            // 영어, 프랑스어: 동사 + 명사
+            internet_vocab.verbs_nouns.forEach(item => {
+                html += `<div style="display:flex;align-items:center;gap:8px;padding:4px 0;border-bottom:1px solid #e8f0f8;">
+                    <span style="font-weight:600;">${item.verb}</span>
+                    <span style="color:#7f8c8d;">→</span>
+                    <span>${item.noun}</span>
+                </div>`;
+            });
+        }
+        html += `</div>`;
+    }
+    
+    // Uses 부분
+    if (internet_vocab.uses && internet_vocab.uses.length > 0) {
+        html += `<div style="background:#fef9ef;border-radius:15px;padding:15px;border:2px solid #fdebd0;">
+            <h3 style="color:#f39c12;">${labels.uses}</h3>
+            <ul style="font-size:1rem;line-height:2;padding-left:20px;">`;
+        internet_vocab.uses.forEach(use => {
+            html += `<li>${use}</li>`;
+        });
+        html += `</ul></div>`;
+    }
+    
+    html += `</div></section>`;
+}
+
+
+
+// ---------- RESTAURANT MENU ----------
+if (restaurant_menu && restaurant_menu.title) {
+    const menuLabels = {
+        en: { starters: '🍤 Starters', burgers: '🍔 Burgers', sandwiches: '🥪 Sandwiches', meat: '🥩 Meat', side_orders: '🍟 Side Orders', desserts: '🍰 Desserts', drinks: '🥤 Drinks' },
+        ja: { starters: '🍤 前菜', burgers: '🍔 バーガー', sandwiches: '🥪 サンドイッチ', meat: '🥩 肉料理', side_orders: '🍟 サイドメニュー', desserts: '🍰 デザート', drinks: '🥤 ドリンク' },
+        fr: { starters: '🍤 Entrées', burgers: '🍔 Burgers', sandwiches: '🥪 Sandwiches', meat: '🥩 Viandes', side_orders: '🍟 Accompagnements', desserts: '🍰 Desserts', drinks: '🥤 Boissons' },
+        ko: { starters: '🍤 에피타이저', burgers: '🍔 버거', sandwiches: '🥪 샌드위치', meat: '🥩 고기 요리', side_orders: '🍟 사이드 메뉴', desserts: '🍰 디저트', drinks: '🥤 음료' }
+    };
+    const labels = menuLabels[lang] || menuLabels.en;
+
+    html += `<section id="restaurant" class="reference"><h2>🍽️ ${restaurant_menu.title}</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;">`;
+
+    // Starters
+    if (restaurant_menu.starters && restaurant_menu.starters.length > 0) {
+        html += `<div style="background:#fef9ef;border-radius:15px;padding:15px;border:2px solid #fdebd0;">
+            <h3 style="color:#e67e22;font-size:1rem;margin-bottom:8px;">${labels.starters}</h3>
+            <ul style="list-style:none;padding:0;font-size:0.95rem;line-height:1.8;">`;
+        restaurant_menu.starters.forEach(item => {
+            html += `<li>• ${item}</li>`;
+        });
+        html += `</ul></div>`;
+    }
+
+    // Burgers
+    if (restaurant_menu.burgers && restaurant_menu.burgers.length > 0) {
+        html += `<div style="background:#fef0e6;border-radius:15px;padding:15px;border:2px solid #fadbd8;">
+            <h3 style="color:#d35400;font-size:1rem;margin-bottom:8px;">${labels.burgers}</h3>
+            <ul style="list-style:none;padding:0;font-size:0.95rem;line-height:1.8;">`;
+        restaurant_menu.burgers.forEach(item => {
+            html += `<li>• ${item}</li>`;
+        });
+        html += `</ul></div>`;
+    }
+
+    // Sandwiches
+    if (restaurant_menu.sandwiches && restaurant_menu.sandwiches.length > 0) {
+        html += `<div style="background:#f0faf0;border-radius:15px;padding:15px;border:2px solid #d5f5e3;">
+            <h3 style="color:#27ae60;font-size:1rem;margin-bottom:8px;">${labels.sandwiches}</h3>
+            <ul style="list-style:none;padding:0;font-size:0.95rem;line-height:1.8;">`;
+        restaurant_menu.sandwiches.forEach(item => {
+            html += `<li>• ${item}</li>`;
+        });
+        html += `</ul></div>`;
+    }
+
+    // Meat
+    if (restaurant_menu.meat && restaurant_menu.meat.length > 0) {
+        html += `<div style="background:#f0e6f6;border-radius:15px;padding:15px;border:2px solid #e8d5f5;">
+            <h3 style="color:#8e44ad;font-size:1rem;margin-bottom:8px;">${labels.meat}</h3>
+            <ul style="list-style:none;padding:0;font-size:0.95rem;line-height:1.8;">`;
+        restaurant_menu.meat.forEach(item => {
+            html += `<li>• ${item}</li>`;
+        });
+        html += `</ul></div>`;
+    }
+
+    // Side Orders
+    if (restaurant_menu.side_orders && restaurant_menu.side_orders.length > 0) {
+        html += `<div style="background:#f0f7ff;border-radius:15px;padding:15px;border:2px solid #d4e6f7;">
+            <h3 style="color:#2980b9;font-size:1rem;margin-bottom:8px;">${labels.side_orders}</h3>
+            <ul style="list-style:none;padding:0;font-size:0.95rem;line-height:1.8;">`;
+        restaurant_menu.side_orders.forEach(item => {
+            html += `<li>• ${item}</li>`;
+        });
+        html += `</ul></div>`;
+    }
+
+    // Desserts
+    if (restaurant_menu.desserts && restaurant_menu.desserts.length > 0) {
+        html += `<div style="background:#fef0f0;border-radius:15px;padding:15px;border:2px solid #fadbd8;">
+            <h3 style="color:#e74c3c;font-size:1rem;margin-bottom:8px;">${labels.desserts}</h3>
+            <ul style="list-style:none;padding:0;font-size:0.95rem;line-height:1.8;">`;
+        restaurant_menu.desserts.forEach(item => {
+            html += `<li>• ${item}</li>`;
+        });
+        html += `</ul></div>`;
+    }
+
+    // Drinks
+    if (restaurant_menu.drinks && restaurant_menu.drinks.length > 0) {
+        html += `<div style="background:#f0faf0;border-radius:15px;padding:15px;border:2px solid #d5f5e3;">
+            <h3 style="color:#1a8a4a;font-size:1rem;margin-bottom:8px;">${labels.drinks}</h3>
+            <ul style="list-style:none;padding:0;font-size:0.95rem;line-height:1.8;">`;
+        restaurant_menu.drinks.forEach(item => {
+            html += `<li>• ${item}</li>`;
+        });
+        html += `</ul></div>`;
+    }
+
+    html += `</div></section>`;
+}
+
+
+
+// ---------- CLOTHES VOCABULARY ----------
+if (clothes_vocab && clothes_vocab.title) {
+    const clothesLabels = {
+        en: { title: '👕 Clothes', colours: '🎨 Colours', items: '👗 Items' },
+        ja: { title: '👕 服', colours: '🎨 色', items: '👗 アイテム' },
+        fr: { title: '👕 Vêtements', colours: '🎨 Couleurs', items: '👗 Articles' },
+        ko: { title: '👕 옷', colours: '🎨 색상', items: '👗 아이템' }
+    };
+    const labels = clothesLabels[lang] || clothesLabels.en;
+
+    html += `<section id="clothes" class="reference"><h2>${labels.title}</h2>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">`;
+
+    // Colours
+    if (clothes_vocab.colours && clothes_vocab.colours.length > 0) {
+        html += `<div style="background:#f8f4ec;border-radius:15px;padding:15px;border:2px solid #f0e6d3;">
+            <h3 style="color:#e67e22;font-size:1.1rem;margin-bottom:10px;">${labels.colours}</h3>
+            <div style="display:flex;flex-wrap:wrap;gap:8px;">`;
+        clothes_vocab.colours.forEach(colour => {
+            html += `<span style="background:white;padding:6px 14px;border-radius:20px;font-size:0.95rem;border:2px solid #f0e6d3;">${colour}</span>`;
+        });
+        html += `</div></div>`;
+    }
+
+    // Clothing Items
+    if (clothes_vocab.items && clothes_vocab.items.length > 0) {
+        html += `<div style="background:#f0f7ff;border-radius:15px;padding:15px;border:2px solid #d4e6f7;">
+            <h3 style="color:#2980b9;font-size:1.1rem;margin-bottom:10px;">${labels.items}</h3>
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">`;
+        clothes_vocab.items.forEach(item => {
+            html += `<div style="display:flex;align-items:center;gap:8px;background:white;padding:6px 12px;border-radius:20px;border:1px solid #e8f0f8;">
+                <span style="font-size:1.4rem;">${item.emoji || '👕'}</span>
+                <span style="font-size:0.95rem;">${item.word}</span>
+            </div>`;
+        });
+        html += `</div></div>`;
+    }
+
+    html += `</div></section>`;
+}
+
+
+
+// ---------- TRANSPORT VOCABULARY ----------
+if (transport_vocab && transport_vocab.title) {
+    const transportLabels = {
+        en: { title: '🚗 Transport and Travel', transport: '🚌 Transport', verbs: '🔗 Verbs + Nouns' },
+        ja: { title: '🚗 交通と旅行', transport: '🚌 交通機関', verbs: '🔗 動詞 + 名詞' },
+        fr: { title: '🚗 Transport et voyage', transport: '🚌 Transports', verbs: '🔗 Verbes + Noms' },
+        ko: { title: '🚗 교통과 여행', transport: '🚌 교통수단', verbs: '🔗 동사 + 명사' }
+    };
+    const labels = transportLabels[lang] || transportLabels.en;
+
+    html += `<section id="transport" class="reference"><h2>${labels.title}</h2>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">`;
+
+    // Transport
+    if (transport_vocab.transport && transport_vocab.transport.length > 0) {
+        html += `<div style="background:#f0f7ff;border-radius:15px;padding:15px;border:2px solid #d4e6f7;">
+            <h3 style="color:#2980b9;font-size:1.1rem;margin-bottom:10px;">${labels.transport}</h3>
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">`;
+        transport_vocab.transport.forEach(item => {
+            html += `<div style="display:flex;align-items:center;gap:8px;background:white;padding:6px 12px;border-radius:20px;border:1px solid #e8f0f8;">
+                <span style="font-size:1.4rem;">${item.emoji || '🚗'}</span>
+                <span style="font-size:0.95rem;">${item.word}</span>
+            </div>`;
+        });
+        html += `</div></div>`;
+    }
+
+    // Verbs + Nouns
+    if (transport_vocab.verbs && transport_vocab.verbs.length > 0) {
+        html += `<div style="background:#fef9ef;border-radius:15px;padding:15px;border:2px solid #fdebd0;">
+            <h3 style="color:#e67e22;font-size:1.1rem;margin-bottom:10px;">${labels.verbs}</h3>
+            <div style="display:flex;flex-direction:column;gap:6px;">`;
+        transport_vocab.verbs.forEach(item => {
+            html += `<div style="display:flex;align-items:center;gap:8px;background:white;padding:8px 14px;border-radius:10px;border:1px solid #fdebd0;font-size:0.95rem;">
+                <span style="font-weight:600;">${item.verb}</span>
+                <span style="color:#7f8c8d;">→</span>
+                <span>${item.example}</span>
+            </div>`;
+        });
+        html += `</div></div>`;
+    }
+
+    html += `</div></section>`;
+}
+
+// ---------- EVERYDAY ENGLISH (통합 - 모든 유닛 지원) ----------
+if (everydayData && everydayData.title) {
+    const everydayLabels = {
+        en: { 
+            title: '💬 Everyday English', 
+            problems: '⚠️ Problems', 
+            suggestions: '💡 Suggestions', 
+            conversation: '💬 Conversation', 
+            phrases: '💬 Useful Phrases',
+            conversations: '💬 Conversations',
+            context: '📌'
+        },
+        ja: { 
+            title: '💬 日常英語', 
+            problems: '⚠️ 問題', 
+            suggestions: '💡 提案', 
+            conversation: '💬 会話', 
+            phrases: '💬 便利なフレーズ',
+            conversations: '💬 会話',
+            context: '📌'
+        },
+        fr: { 
+            title: '💬 Anglais quotidien', 
+            problems: '⚠️ Problèmes', 
+            suggestions: '💡 Suggestions', 
+            conversation: '💬 Conversation', 
+            phrases: '💬 Phrases utiles',
+            conversations: '💬 Conversations',
+            context: '📌'
+        },
+        ko: { 
+            title: '💬 일상 영어', 
+            problems: '⚠️ 문제', 
+            suggestions: '💡 제안', 
+            conversation: '💬 대화', 
+            phrases: '💬 유용한 표현',
+            conversations: '💬 대화',
+            context: '📌'
+        }
+    };
+    const labels = everydayLabels[lang] || everydayLabels.en;
+
+    html += `<section id="everyday" class="reference"><h2>${labels.title}</h2>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;">`;
+
+    // 1️⃣ Problems (Unit 11, 13)
+    if (everydayData.problems && everydayData.problems.length > 0) {
+        html += `<div style="background:#fef0f0;border-radius:15px;padding:15px;border:2px solid #fadbd8;">
+            <h3 style="color:#e74c3c;font-size:1.1rem;margin-bottom:10px;">${labels.problems}</h3>
+            <div style="display:flex;flex-wrap:wrap;gap:8px;">`;
+        everydayData.problems.forEach(p => {
+            const word = typeof p === 'string' ? p : (p.word || p);
+            const emoji = p.emoji || '⚠️';
+            html += `<span style="background:white;padding:6px 14px;border-radius:20px;font-size:0.95rem;border:2px solid #fadbd8;">
+                ${emoji} ${word}
+            </span>`;
+        });
+        html += `</div></div>`;
+    }
+
+    // 2️⃣ Suggestions (Unit 13)
+    if (everydayData.suggestions && everydayData.suggestions.length > 0) {
+        html += `<div style="background:#f0faf0;border-radius:15px;padding:15px;border:2px solid #d5f5e3;">
+            <h3 style="color:#27ae60;font-size:1.1rem;margin-bottom:10px;">${labels.suggestions}</h3>
+            <div style="display:flex;flex-direction:column;gap:6px;">`;
+        everydayData.suggestions.forEach(s => {
+            const problem = typeof s === 'string' ? s : (s.problem || '');
+            const suggestion = typeof s === 'string' ? '' : (s.suggestion || '');
+            html += `<div style="background:white;padding:8px 14px;border-radius:10px;border:1px solid #d5f5e3;font-size:0.95rem;">
+                <span style="font-weight:600;">${problem}</span>
+                ${suggestion ? `<span style="color:#7f8c8d;"> → </span><span>${suggestion}</span>` : ''}
+            </div>`;
+        });
+        html += `</div></div>`;
+    }
+
+    // 3️⃣ Conversation (Unit 13)
+    if (everydayData.conversation && everydayData.conversation.length > 0) {
+        html += `<div style="background:#f0f7ff;border-radius:15px;padding:15px;border:2px solid #d4e6f7;grid-column:1/-1;">
+            <h3 style="color:#2980b9;font-size:1.1rem;margin-bottom:10px;">${labels.conversation}</h3>
+            <div style="background:white;border-radius:10px;padding:15px;border:1px solid #d4e6f7;">`;
+        everydayData.conversation.forEach(line => {
+            html += `<div style="display:flex;gap:8px;padding:4px 0;font-size:1rem;">
+                <strong style="color:#3498db;min-width:20px;">${line.speaker}:</strong>
+                <span>${line.text}</span>
+            </div>`;
+        });
+        html += `</div></div>`;
+    }
+
+    // 4️⃣ Shopping Phrases (Unit 12)
+    if (everydayData.phrases && everydayData.phrases.length > 0) {
+        html += `<div style="background:#f0f7ff;border-radius:15px;padding:15px;border:2px solid #d4e6f7;grid-column:1/-1;margin-top:10px;">
+            <h3 style="color:#2980b9;font-size:1.1rem;margin-bottom:12px;">${labels.phrases}</h3>`;
+        everydayData.phrases.forEach((p) => {
+            const question = typeof p === 'string' ? p : (p.question || '');
+            const response = typeof p === 'string' ? '' : (p.response || '');
+            html += `<div style="background:white;border-radius:10px;padding:12px 15px;margin-bottom:8px;border:1px solid #e8e8e8;">
+                <div style="font-weight:600;color:#2c3e50;font-size:1rem;">❓ ${question}</div>
+                ${response ? `<div style="color:#27ae60;margin-top:4px;font-size:0.95rem;">💬 ${response}</div>` : ''}
+            </div>`;
+        });
+        html += `</div>`;
+    }
+
+    // 5️⃣ Conversations (Unit 11, 14) - ✅ 수정됨
+    if (everydayData.conversations && everydayData.conversations.length > 0) {
+        html += `<div style="background:#f0f7ff;border-radius:15px;padding:15px;border:2px solid #d4e6f7;grid-column:1/-1;margin-top:10px;">
+            <h3 style="color:#2980b9;font-size:1.1rem;margin-bottom:12px;">${labels.conversations}</h3>`;
+        
+        everydayData.conversations.forEach((conv) => {
+            // context가 있으면 표시 (Unit 11), 없으면 생략 (Unit 14)
+            if (conv.context) {
+                html += `<div style="font-size:0.8rem;color:#7f8c8d;margin:4px 0 8px 0;">${labels.context} ${conv.context}</div>`;
+            }
+            
+            // ✅ lines 또는 dialog 모두 지원
+            const lines = conv.lines || conv.dialog || [];
+            if (lines.length > 0) {
+                html += `<div style="background:white;border-radius:10px;padding:12px 15px;margin-bottom:8px;border:1px solid #e8e8e8;">`;
+                lines.forEach(line => {
+                    html += `<div style="display:flex;gap:8px;padding:2px 0;font-size:0.95rem;">
+                        <strong style="color:#3498db;min-width:20px;">${line.speaker}:</strong>
+                        <span>${line.text}</span>
+                    </div>`;
+                });
+                html += `</div>`;
+            }
+        });
+        html += `</div>`;
+    }
+
+    html += `</div></section>`;
+}
 
 
 
@@ -1933,6 +2594,8 @@ function renderPage(unit) {
     if (loadingEl) loadingEl.style.display = 'none';
     buildUnitSelector();
 }
+
+
 
 
 // ---------- 유닛 선택기 ----------
