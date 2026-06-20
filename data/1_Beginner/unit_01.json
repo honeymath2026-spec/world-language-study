@@ -7,7 +7,7 @@
   },
   "topic": {
     "en": "Greetings · Introductions · am/are/is · my/your · Numbers 1-10 · Plurals",
-    "ja": "挨拶 · 自己紹介 · am/are/is · my/your · 数字1-10 · 複数形",
+    "ja": "あいさつ · じこしょうかい · am/are/is · my/your · すうじ 1-10 · ふくすうけい",
     "fr": "Salutations · Présentations · am/are/is · my/your · Nombres 1-10 · Pluriels",
     "ko": "인사 · 자기소개 · am/are/is · my/your · 숫자 1-10 · 복수형"
   },
@@ -25,16 +25,16 @@
       { "id": "house", "emoji": "🏠", "word": "house", "hint": "I live in a house", "sound": "house" }
     ],
     "ja": [
-      { "id": "book", "emoji": "📕", "word": "本", "hint": "本を読みます", "sound": "ほん" },
-      { "id": "camera", "emoji": "📷", "word": "カメラ", "hint": "写真を撮ります", "sound": "かめら" },
-      { "id": "car", "emoji": "🚗", "word": "車", "hint": "車を運転します", "sound": "くるま" },
-      { "id": "photograph", "emoji": "🖼️", "word": "写真", "hint": "絵や写真", "sound": "しゃしん" },
-      { "id": "computer", "emoji": "💻", "word": "コンピュータ", "hint": "コンピュータを使う", "sound": "こんぴゅーた" },
-      { "id": "bag", "emoji": "👜", "word": "かばん", "hint": "学校のかばん", "sound": "かばん" },
-      { "id": "hamburger", "emoji": "🍔", "word": "ハンバーガー", "hint": "ハンバーガーを食べる", "sound": "はんばーがー" },
-      { "id": "television", "emoji": "📺", "word": "テレビ", "hint": "テレビを見る", "sound": "てれび" },
-      { "id": "sandwich", "emoji": "🥪", "word": "サンドイッチ", "hint": "サンドイッチを食べる", "sound": "さんどいっち" },
-      { "id": "house", "emoji": "🏠", "word": "家", "hint": "家に住む", "sound": "いえ" }
+      { "id": "book", "emoji": "📕", "word": "ほん", "hint": "ほんをよみます", "sound": "ほん" },
+      { "id": "camera", "emoji": "📷", "word": "カメラ", "hint": "しゃしんをとります", "sound": "かめら" },
+      { "id": "car", "emoji": "🚗", "word": "くるま", "hint": "くるまをうんてんします", "sound": "くるま" },
+      { "id": "photograph", "emoji": "🖼️", "word": "しゃしん", "hint": "えやしゃしん", "sound": "しゃしん" },
+      { "id": "computer", "emoji": "💻", "word": "コンピュータ", "hint": "コンピュータをつかう", "sound": "こんぴゅーた" },
+      { "id": "bag", "emoji": "👜", "word": "かばん", "hint": "がっこうのかばん", "sound": "かばん" },
+      { "id": "hamburger", "emoji": "🍔", "word": "ハンバーガー", "hint": "ハンバーガーをたべる", "sound": "はんばーがー" },
+      { "id": "television", "emoji": "📺", "word": "テレビ", "hint": "テレビをみる", "sound": "てれび" },
+      { "id": "sandwich", "emoji": "🥪", "word": "サンドイッチ", "hint": "サンドイッチをたべる", "sound": "さんどいっち" },
+      { "id": "house", "emoji": "🏠", "word": "いえ", "hint": "いえにすむ", "sound": "いえ" }
     ],
     "fr": [
       { "id": "book", "emoji": "📕", "word": "livre", "hint": "Je lis un livre", "sound": "livre" },
@@ -73,14 +73,14 @@
       { "id": "im_ok", "emoji": "😄", "text": "I'm OK, thanks.", "sound": "I am OK, thanks." }
     ],
     "ja": [
-      { "id": "hello", "emoji": "👋", "text": "こんにちは。私はサンドラです。", "sound": "こんにちは。わたしはサンドラです。" },
-      { "id": "whats_your_name", "emoji": "❓", "text": "お名前は何ですか？", "sound": "おなまえはなんですか？" },
-      { "id": "my_name_is", "emoji": "🙋", "text": "私の名前はヒロです。", "sound": "わたしのなまえはヒロです。" },
+      { "id": "hello", "emoji": "👋", "text": "こんにちは。わたしはサンドラです。", "sound": "こんにちは。わたしはサンドラです。" },
+      { "id": "whats_your_name", "emoji": "❓", "text": "おなまえはなんですか？", "sound": "おなまえはなんですか？" },
+      { "id": "my_name_is", "emoji": "🙋", "text": "わたしのなまえはヒロです。", "sound": "わたしのなまえはヒロです。" },
       { "id": "this_is", "emoji": "👥", "text": "こちらはジョンです。", "sound": "こちらはジョンです。" },
-      { "id": "how_are_you", "emoji": "😊", "text": "お元気ですか？", "sound": "おげんきですか？" },
-      { "id": "fine_thanks", "emoji": "👍", "text": "元気です。ありがとう。あなたは？", "sound": "げんきです。ありがとう。あなたは？" },
-      { "id": "very_well", "emoji": "✨", "text": "とても元気です。ありがとう。", "sound": "とてもげんきです。ありがとう。" },
-      { "id": "im_ok", "emoji": "😄", "text": "元気です。ありがとう。", "sound": "げんきです。ありがとう。" }
+      { "id": "how_are_you", "emoji": "😊", "text": "おげんきですか？", "sound": "おげんきですか？" },
+      { "id": "fine_thanks", "emoji": "👍", "text": "げんきです。ありがとう。あなたは？", "sound": "げんきです。ありがとう。あなたは？" },
+      { "id": "very_well", "emoji": "✨", "text": "とてもげんきです。ありがとう。", "sound": "とてもげんきです。ありがとう。" },
+      { "id": "im_ok", "emoji": "😄", "text": "げんきです。ありがとう。", "sound": "げんきです。ありがとう。" }
     ],
     "fr": [
       { "id": "hello", "emoji": "👋", "text": "Bonjour. Je suis Sandra.", "sound": "Bonjour. Je suis Sandra." },
@@ -116,8 +116,8 @@
     },
     "ja": {
       "title": "こんにちは！",
-      "content": "👋 こんにちは。私はサンドラです。お名前は何ですか？ 🙋 私の名前はヒロです。 👥 サンドラ、こちらはジョンです。ジョン、こちらはヒロです。 😊 こんにちは、ジョン。こんにちは、ヒロ。お元気ですか？ 👍 元気です。ありがとう。あなたは？ ✨ とても元気です。ありがとう。",
-      "question": "男の子の名前は何ですか？",
+      "content": "👋 こんにちは。わたしはサンドラです。おなまえはなんですか？ 🙋 わたしのなまえはヒロです。 👥 サンドラ、こちらはジョンです。ジョン、こちらはヒロです。 😊 こんにちは、ジョン。こんにちは、ヒロ。おげんきですか？ 👍 げんきです。ありがとう。あなたは？ ✨ とてもげんきです。ありがとう。",
+      "question": "おとこのこのなまえはなんですか？",
       "options": [
         { "text": "ヒロ", "emoji": "🙋", "correct": true },
         { "text": "ジョン", "emoji": "👥", "correct": false },
@@ -167,17 +167,17 @@
     "ja": [
       {
         "type": "match",
-        "instruction": "絵と単語をマッチさせよう！",
+        "instruction": "えとたんごをマッチさせよう！",
         "pairs": [
-          { "emoji": "📕", "word": "本" },
+          { "emoji": "📕", "word": "ほん" },
           { "emoji": "📷", "word": "カメラ" },
-          { "emoji": "🚗", "word": "車" },
-          { "emoji": "🖼️", "word": "写真" }
+          { "emoji": "🚗", "word": "くるま" },
+          { "emoji": "🖼️", "word": "しゃしん" }
         ]
       },
       {
         "type": "find",
-        "question": "カメラを探そう！📷",
+        "question": "カメラをさがそう！📷",
         "target": "📷",
         "options": ["📕", "📷", "🚗", "🖼️"]
       }
@@ -270,135 +270,150 @@
     ]
   },
   "grammar": {
-  "en": { "title": "Grammar Spot", "content": "⭐ I'm = I am\n⭐ My name's = My name is\n⭐ What's = What is\n⭐ It's = It is\n📌 Use am when talking about yourself.\n📌 Use is when talking about one person, one thing, or a name.\n📌 Use This is ... to introduce a person or thing.\n📌 Use my for things that belong to you.\n📌 Use your when talking about another person's things.\n💬 How are you? / I'm fine, thanks.\n🗣️ Practice speaking" }, "ja": { "title": "文法ポイント", "content": "⭐ 「わたしです」と言うときは「〜です」を使います。\n⭐ 名前を言うときは「わたしの名前は〜です」を使います。\n⭐ 相手の名前を聞くときは「お名前は何ですか」を使います。\n⭐ 人や物を紹介するときは「これは〜です」を使います。\n📌 「わたしの」は自分のものを表します。\n📌 「あなたの」は相手のものを表します。\n💬 「お元気ですか」\n💬 「元気です。ありがとう。」\n🗣️ 話してみましょう" }, "fr": { "title": "Grammaire", "content": "⭐ « Je suis » permet de parler de soi.\n⭐ « Mon nom est » sert à dire son nom.\n⭐ « Comment t'appelles-tu ? » sert à demander le nom de quelqu'un.\n⭐ « Voici » sert à présenter une personne ou une chose.\n📌 « Mon / ma » indique ce qui m'appartient.\n📌 « Ton / ta » indique ce qui appartient à l'autre personne.\n💬 « Comment ça va ? »\n💬 « Ça va bien, merci. »\n🗣️ Entraîne-toi à parler" }, "ko": { "title": "문법 포인트", "content": "⭐ 자신을 소개할 때는 ‘저는 ~예요/이에요’를 사용해요.\n⭐ 이름을 말할 때는 ‘제 이름은 ~예요’라고 해요.\n⭐ 상대의 이름을 물을 때는 ‘이름이 뭐예요?’라고 해요.\n⭐ 사람이나 사물을 소개할 때는 ‘이 사람은 ~예요’, ‘이것은 ~예요’를 사용해요.\n📌 ‘내’는 나의 것을 나타내요.\n📌 ‘네’는 상대방의 것을 나타내요.\n💬 잘 지내요?\n💬 네, 잘 지내요. 고마워요.\n🗣️ 말해보기" }
+    "en": {
+      "title": "Grammar Spot",
+      "content": "Let's learn 4 grammar points today!\n\n【1. Introducing Yourself】\nUse 'I'm' (I am) to talk about yourself.\nExample: I'm Sandra.\nExample: I'm a boy.\n\n【2. Asking and Answering Names】\nAsk 'What's your name?' and answer with 'My name is ~'.\nExample: My name is Hiro.\n\n【3. Introducing Others】\nUse 'This is ~' to introduce a friend.\nExample: This is John.\nExample: This is my friend.\n\n【4. One and Many (Plurals)】\nAdd '-s' to make plurals for most words.\nExample: one book, two books\nExample: one car, three cars\nExample: one hamburger, four hamburgers\n\nLet's count together! one, two, three, four, five, six, seven, eight, nine, ten."
+    },
+        "ja": {
+      "title": "ぶんぽうポイント",
+      "content": "きょうは4つのぶんぽうをまなびましょう！\n\n【1. じこしょうかい】\n「わたしは〜です」でじぶんのことをいえます。\nれい: わたしはサンドラです。\nれい: わたしはおとこのこです。\n\n【2. なまえをきく・こたえる】\n「おなまえはなんですか？」ときいて、「わたしのなまえは〜です」とこたえましょう。\nれい: わたしのなまえはヒロです。\n\n【3. ほかのひとをしょうかいする】\n「こちらは〜です」でともだちをしょうかいできます。\nれい: こちらはジョンです。\nれい: こちらはわたしのともだちです。\n\n【4. ひとつとふくすう】\nえいごではふくすうけいをつくるときに「-s」をつけます。\nれい: ほんいっさつ、ほんにさつ\nれい: くるまいちだい、くるまさんだい\nれい: ハンバーガーひとつ、ハンバーガーよっつ\n\nすうじもおぼえよう！いち、に、さん、よん、ご、ろく、なな、はち、きゅう、じゅう。"
+    },
+    "fr": {
+      "title": "Grammaire",
+      "content": "Apprenons 4 points de grammaire aujourd'hui !\n\n【1. Se présenter】\nUtilisez 'Je suis' pour parler de vous.\nExemple: Je suis Sandra.\nExemple: Je suis un garçon.\n\n【2. Demander et donner son nom】\nDemandez 'Comment vous appelez-vous ?' et répondez avec 'Je m'appelle ~'.\nExemple: Je m'appelle Hiro.\n\n【3. Présenter quelqu'un】\nUtilisez 'Voici ~' pour présenter un ami.\nExemple: Voici John.\nExemple: Voici mon ami.\n\n【4. Un et plusieurs (pluriel)】\nAjoutez '-s' pour former le pluriel de la plupart des mots.\nExemple: un livre, deux livres\nExemple: une voiture, trois voitures\nExemple: un hamburger, quatre hamburgers\n\nComptons ensemble ! un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix."
+    },
+    "ko": {
+      "title": "문법 포인트",
+      "content": "이번 시간에 배울 문법은 4가지예요.\n\n【1. 자기소개하기】\n'저는 ~입니다'라고 말하면 나를 소개할 수 있어요.\n예: 저는 샌드라입니다.\n예: 저는 남자아이입니다.\n\n【2. 이름 묻고 답하기】\n'이름이 무엇인가요?'라고 묻고, '제 이름은 ~입니다'라고 답해요.\n예: 제 이름은 히로입니다.\n\n【3. 다른 사람 소개하기】\n'이분은 ~입니다'라고 말하면 친구를 소개할 수 있어요.\n예: 이분은 존입니다.\n예: 이분은 제 친구입니다.\n\n【4. 하나와 여러 개】\n하나일 때는 '책 한 권', 두 개 이상일 때는 '책 두 권'처럼 수량 단위(권, 대, 개)를 붙여요.\n예: 책 한 권, 책 두 권\n예: 자동차 한 대, 자동차 세 대\n예: 햄버거 하나, 햄버거 네 개\n\n숫자도 함께 외워볼까요? 하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열."
+    }
   },
   "practice_conversations": {
     "en": [
-      {
-        "title": "Conversation 1",
-        "lines": [
-          { "speaker": "A", "text": "Hello. My name's Anna. What's your name?" },
-          { "speaker": "B", "text": "Ben." }
-        ]
-      },
-      {
-        "title": "Conversation 2",
-        "lines": [
-          { "speaker": "C", "text": "Hello. My name's Carla. What's your name?" },
-          { "speaker": "D", "text": "My name's David." }
-        ]
-      },
-      {
-        "title": "Conversation 3",
-        "lines": [
-          { "speaker": "B", "text": "Hello, Anna. How are you?" },
-          { "speaker": "A", "text": "Fine, thanks, Ben. And you?" },
-          { "speaker": "B", "text": "Very well, thanks." }
-        ]
-      },
-      {
-        "title": "Conversation 4",
-        "lines": [
-          { "speaker": "D", "text": "Hi, Carla. How are you?" },
-          { "speaker": "C", "text": "Fine, thanks. And you?" },
-          { "speaker": "D", "text": "OK, thanks." }
-        ]
+    {
+      "title": "Conversation 1",
+      "lines": [
+        { "speaker": "A", "text": "Hello. My name's Anna. What's your name?" },
+        { "speaker": "B", "text": "Ben." }
+      ]
+    },
+    {
+      "title": "Conversation 2",
+      "lines": [
+        { "speaker": "C", "text": "Hello. My name's Carla. What's your name?" },
+        { "speaker": "D", "text": "My name's David." }
+      ]
+    },
+    {
+      "title": "Conversation 3",
+      "lines": [
+        { "speaker": "B", "text": "Hello, Anna. How are you?" },
+        { "speaker": "A", "text": "Fine, thanks, Ben. And you?" },
+        { "speaker": "B", "text": "Very well, thanks." }
+      ]
+    },
+    {
+      "title": "Conversation 4",
+      "lines": [
+        { "speaker": "D", "text": "Hi, Carla. How are you?" },
+        { "speaker": "C", "text": "Fine, thanks. And you?" },
+        { "speaker": "D", "text": "OK, thanks." }
+      ]
       }
     ],
-    "ja": [
-      {
-        "title": "会話 1",
-        "lines": [
-          { "speaker": "A", "text": "こんにちは。私の名前はアンナです。あなたの名前は何ですか？" },
-          { "speaker": "B", "text": "ベンです。" }
-        ]
-      },
-      {
-        "title": "会話 2",
-        "lines": [
-          { "speaker": "C", "text": "こんにちは。私の名前はカーラです。あなたの名前は何ですか？" },
-          { "speaker": "D", "text": "私の名前はデイビッドです。" }
-        ]
-      },
-      {
-        "title": "会話 3",
-        "lines": [
-          { "speaker": "B", "text": "こんにちは、アンナ。お元気ですか？" },
-          { "speaker": "A", "text": "元気です、ベン。ありがとう。あなたは？" },
-          { "speaker": "B", "text": "とても元気です。ありがとう。" }
-        ]
-      },
-      {
-        "title": "会話 4",
-        "lines": [
-          { "speaker": "D", "text": "こんにちは、カーラ。お元気ですか？" },
-          { "speaker": "C", "text": "元気です。ありがとう。あなたは？" },
-          { "speaker": "D", "text": "元気です。ありがとう。" }
-        ]
+      "ja": [
+    {
+      "title": "かいわ 1",
+      "lines": [
+        { "speaker": "A", "text": "こんにちは。わたしのなまえはアンナです。あなたのなまえはなんですか？" },
+        { "speaker": "B", "text": "ベンです。" }
+      ]
+    },
+    {
+      "title": "かいわ 2",
+      "lines": [
+        { "speaker": "C", "text": "こんにちは。わたしのなまえはカーラです。あなたのなまえはなんですか？" },
+        { "speaker": "D", "text": "わたしのなまえはデイビッドです。" }
+      ]
+    },
+    {
+      "title": "かいわ 3",
+      "lines": [
+        { "speaker": "B", "text": "こんにちは、アンナ。おげんきですか？" },
+        { "speaker": "A", "text": "げんきです、ベン。ありがとう。あなたは？" },
+        { "speaker": "B", "text": "とてもげんきです。ありがとう。" }
+      ]
+    },
+    {
+      "title": "かいわ 4",
+      "lines": [
+        { "speaker": "D", "text": "こんにちは、カーラ。おげんきですか？" },
+        { "speaker": "C", "text": "げんきです。ありがとう。あなたは？" },
+        { "speaker": "D", "text": "げんきです。ありがとう。" }
+      ]
       }
     ],
-    "fr": [
-      {
-        "title": "Conversation 1",
-        "lines": [
-          { "speaker": "A", "text": "Bonjour. Je m'appelle Anna. Comment vous appelez-vous ?" },
-          { "speaker": "B", "text": "Ben." }
-        ]
-      },
-      {
-        "title": "Conversation 2",
-        "lines": [
-          { "speaker": "C", "text": "Bonjour. Je m'appelle Carla. Comment vous appelez-vous ?" },
-          { "speaker": "D", "text": "Je m'appelle David." }
-        ]
-      },
-      {
-        "title": "Conversation 3",
-        "lines": [
-          { "speaker": "B", "text": "Bonjour, Anna. Comment allez-vous ?" },
-          { "speaker": "A", "text": "Bien, merci, Ben. Et vous ?" },
-          { "speaker": "B", "text": "Très bien, merci." }
-        ]
-      },
-      {
-        "title": "Conversation 4",
-        "lines": [
-          { "speaker": "D", "text": "Bonjour, Carla. Comment allez-vous ?" },
-          { "speaker": "C", "text": "Bien, merci. Et vous ?" },
-          { "speaker": "D", "text": "Bien, merci." }
-        ]
+      "fr": [
+    {
+      "title": "Conversation 1",
+      "lines": [
+        { "speaker": "A", "text": "Bonjour. Je m'appelle Anna. Comment vous appelez-vous ?" },
+        { "speaker": "B", "text": "Ben." }
+      ]
+    },
+    {
+      "title": "Conversation 2",
+      "lines": [
+        { "speaker": "C", "text": "Bonjour. Je m'appelle Carla. Comment vous appelez-vous ?" },
+        { "speaker": "D", "text": "Je m'appelle David." }
+      ]
+    },
+    {
+      "title": "Conversation 3",
+      "lines": [
+        { "speaker": "B", "text": "Bonjour, Anna. Comment allez-vous ?" },
+        { "speaker": "A", "text": "Bien, merci, Ben. Et vous ?" },
+        { "speaker": "B", "text": "Très bien, merci." }
+      ]
+    },
+    {
+      "title": "Conversation 4",
+      "lines": [
+        { "speaker": "D", "text": "Bonjour, Carla. Comment allez-vous ?" },
+        { "speaker": "C", "text": "Bien, merci. Et vous ?" },
+        { "speaker": "D", "text": "Bien, merci." }
+      ]
       }
     ],
-    "ko": [
-      {
-        "title": "대화 1",
-        "lines": [
-          { "speaker": "A", "text": "안녕하세요. 제 이름은 안나입니다. 당신의 이름은 무엇인가요?" },
-          { "speaker": "B", "text": "벤입니다." }
-        ]
-      },
-      {
-        "title": "대화 2",
-        "lines": [
-          { "speaker": "C", "text": "안녕하세요. 제 이름은 칼라입니다. 당신의 이름은 무엇인가요?" },
-          { "speaker": "D", "text": "제 이름은 데이비드입니다." }
-        ]
-      },
-      {
-        "title": "대화 3",
-        "lines": [
-          { "speaker": "B", "text": "안녕하세요, 안나. 어떻게 지내세요?" },
-          { "speaker": "A", "text": "잘 지내요, 벤. 감사합니다. 당신은요?" },
-          { "speaker": "B", "text": "아주 잘 지내요. 감사합니다." }
-        ]
-      },
-      {
-        "title": "대화 4",
-        "lines": [
-          { "speaker": "D", "text": "안녕하세요, 칼라. 어떻게 지내세요?" },
-          { "speaker": "C", "text": "잘 지내요. 감사합니다. 당신은요?" },
-          { "speaker": "D", "text": "잘 지내요. 감사합니다." }
-        ]
+      "ko": [
+    {
+      "title": "대화 1",
+      "lines": [
+        { "speaker": "A", "text": "안녕하세요. 제 이름은 안나입니다. 당신의 이름은 무엇인가요?" },
+        { "speaker": "B", "text": "벤입니다." }
+      ]
+    },
+    {
+      "title": "대화 2",
+      "lines": [
+        { "speaker": "C", "text": "안녕하세요. 제 이름은 칼라입니다. 당신의 이름은 무엇인가요?" },
+        { "speaker": "D", "text": "제 이름은 데이비드입니다." }
+      ]
+    },
+    {
+      "title": "대화 3",
+      "lines": [
+        { "speaker": "B", "text": "안녕하세요, 안나. 어떻게 지내세요?" },
+        { "speaker": "A", "text": "잘 지내요, 벤. 감사합니다. 당신은요?" },
+        { "speaker": "B", "text": "아주 잘 지내요. 감사합니다." }
+      ]
+    },
+    {
+      "title": "대화 4",
+      "lines": [
+        { "speaker": "D", "text": "안녕하세요, 칼라. 어떻게 지내세요?" },
+        { "speaker": "C", "text": "잘 지내요. 감사합니다. 당신은요?" },
+        { "speaker": "D", "text": "잘 지내요. 감사합니다." }
+      ]
       }
     ]
   }

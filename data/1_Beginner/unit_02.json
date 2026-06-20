@@ -219,6 +219,7 @@
       }
     ]
   },
+
   "numbers": {
     "en": [
       { "number": 11, "word": "eleven", "emoji": "1️⃣1️⃣" },
@@ -309,6 +310,25 @@
       { "number": 30, "word": "삼십", "emoji": "3️⃣0️⃣" }
     ]
 
-  }
+  },
 
+
+"grammar": {
+    "en": {
+      "title": "Grammar Spot",
+      "content": "Let's learn 4 grammar points today!\n\n【1. His and Her】\nUse 'his' for a boy or man. Use 'her' for a girl or woman.\nExample: His name is Rick.\nExample: Her name is Sandra.\n\n【2. He's and She's】\nUse 'he's' (he is) for a boy or man. Use 'she's' (she is) for a girl or woman.\nExample: He's from the United States.\nExample: She's from Spain.\n\n【3. Asking about someone's name】\nAsk 'What's his name?' for a boy or man.\nAsk 'What's her name?' for a girl or woman.\nExample: What's his name? → His name is Rick.\nExample: What's her name? → Her name is Sandra.\n\n【4. Asking where someone is from】\nAsk 'Where's he from?' for a boy or man.\nAsk 'Where's she from?' for a girl or woman.\nExample: Where's he from? → He's from the United States.\nExample: Where's she from? → She's from Spain.\n\nLet's count together! eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty."
+    },
+    "ja": {
+      "title": "文法ポイント",
+      "content": "今日は4つの文法を学びましょう！\n\n【1. 彼のと彼女の】\n男の子や男性には「彼の」、女の子や女性には「彼女の」を使います。\n例: 彼の名前はリックです。\n例: 彼女の名前はサンドラです。\n\n【2. 彼はと彼女は】\n男の子や男性には「彼は」、女の子や女性には「彼女は」を使います。\n例: 彼はアメリカ合衆国出身です。\n例: 彼女はスペイン出身です。\n\n【3. 誰かの名前を尋ねる】\n男の子や男性の名前は「彼の名前は何ですか？」と聞きます。\n女の子や女性の名前は「彼女の名前は何ですか？」と聞きます。\n例: 彼の名前は何ですか？ → 彼の名前はリックです。\n例: 彼女の名前は何ですか？ → 彼女の名前はサンドラです。\n\n【4. 出身地を尋ねる】\n男の子や男性には「彼はどこ出身ですか？」と聞きます。\n女の子や女性には「彼女はどこ出身ですか？」と聞きます。\n例: 彼はどこ出身ですか？ → 彼はアメリカ合衆国出身です。\n例: 彼女はどこ出身ですか？ → 彼女はスペイン出身です。\n\n数字も覚えよう！十一、十二、十三、十四、十五、十六、十七、十八、十九、二十。"
+    },
+    "fr": {
+      "title": "Grammaire",
+      "content": "Apprenons 4 points de grammaire aujourd'hui !\n\n【1. Son et Sa】\nUtilisez 'son' pour un garçon ou un homme. Utilisez 'sa' pour une fille ou une femme.\nExemple: Il s'appelle Rick.\nExemple: Elle s'appelle Sandra.\n\n【2. Il est et Elle est】\nUtilisez 'il est' pour un garçon ou un homme. Utilisez 'elle est' pour une fille ou une femme.\nExemple: Il vient des États-Unis.\nExemple: Elle vient d'Espagne.\n\n【3. Demander le nom de quelqu'un】\nDemandez 'Comment s'appelle-t-il ?' pour un garçon ou un homme.\nDemandez 'Comment s'appelle-t-elle ?' pour une fille ou une femme.\nExemple: Comment s'appelle-t-il ? → Il s'appelle Rick.\nExemple: Comment s'appelle-t-elle ? → Elle s'appelle Sandra.\n\n【4. Demander d'où vient quelqu'un】\nDemandez 'D'où vient-il ?' pour un garçon ou un homme.\nDemandez 'D'où vient-elle ?' pour une fille ou une femme.\nExemple: D'où vient-il ? → Il vient des États-Unis.\nExemple: D'où vient-elle ? → Elle vient d'Espagne.\n\nComptons ensemble ! onze, douze, treize, quatorze, quinze, seize, dix-sept, dix-huit, dix-neuf, vingt."
+    },
+    "ko": {
+      "title": "문법 포인트",
+      "content": "이번 시간에 배울 문법은 4가지예요.\n\n【1. 그의와 그녀의】\n남자아이나 남성에게는 '그의'를, 여자아이나 여성에게는 '그녀의'를 사용해요.\n예: 그의 이름은 릭이에요.\n예: 그녀의 이름은 산드라예요.\n\n【2. 그는과 그녀는】\n남자아이나 남성에게는 '그는'을, 여자아이나 여성에게는 '그녀는'을 사용해요.\n예: 그는 미국 출신이에요.\n예: 그녀는 스페인 출신이에요.\n\n【3. 누군가의 이름 묻기】\n남자아이나 남성의 이름은 '그의 이름은 무엇인가요?'라고 묻고,\n여자아이나 여성의 이름은 '그녀의 이름은 무엇인가요?'라고 물어요.\n예: 그의 이름은 무엇인가요? → 그의 이름은 릭이에요.\n예: 그녀의 이름은 무엇인가요? → 그녀의 이름은 산드라예요.\n\n【4. 출신지 묻기】\n남자아이나 남성에게는 '그는 어디 출신인가요?'라고 묻고,\n여자아이나 여성에게는 '그녀는 어디 출신인가요?'라고 물어요.\n예: 그는 어디 출신인가요? → 그는 미국 출신이에요.\n예: 그녀는 어디 출신인가요? → 그녀는 스페인 출신이에요.\n\n숫자도 함께 외워볼까요? 십일, 십이, 십삼, 십사, 십오, 십육, 십칠, 십팔, 십구, 이십."
+    }
 }
+  }
