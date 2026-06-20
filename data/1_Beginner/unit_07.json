@@ -1,13 +1,13 @@
 {
   "title": {
     "en": "Places I like",
-    "ja": "好きな場所",
+    "ja": "すきなばしょ",
     "fr": "Les endroits que j'aime",
     "ko": "내가 좋아하는 장소"
   },
   "topic": {
     "en": "Question words, it/them, this/that, adjectives, Can I...?",
-    "ja": "疑問詞、it/them、this/that、形容詞、Can I...?",
+    "ja": "ぎもんし、いっと/ぜん、じす/ざっと、けいようし、キャンアイ",
     "fr": "Mots interrogatifs, it/them, this/that, adjectifs, Can I...?",
     "ko": "의문사, it/them, this/that, 형용사, Can I...?"
   },
@@ -29,20 +29,20 @@
       { "id": "comfortable", "emoji": "🛋️", "word": "comfortable", "hint": "A comfortable hotel", "sound": "comfortable" }
     ],
     "ja": [
-      { "id": "beautiful", "emoji": "🌺", "word": "美しい", "hint": "美しい場所", "sound": "うつくしい" },
-      { "id": "big", "emoji": "🏙️", "word": "大きい", "hint": "大きい都市", "sound": "おおきい" },
-      { "id": "small", "emoji": "🏠", "word": "小さい", "hint": "小さい家", "sound": "ちいさい" },
-      { "id": "new", "emoji": "🆕", "word": "新しい", "hint": "新しい車", "sound": "あたらしい" },
-      { "id": "old", "emoji": "🏛️", "word": "古い", "hint": "古い建物", "sound": "ふるい" },
-      { "id": "expensive", "emoji": "💸", "word": "高い", "hint": "とても高い", "sound": "たかい" },
-      { "id": "cheap", "emoji": "💰", "word": "安い", "hint": "高くない", "sound": "やすい" },
-      { "id": "lovely", "emoji": "💖", "word": "素敵な", "hint": "素敵な天気", "sound": "すてきな" },
-      { "id": "horrible", "emoji": "👎", "word": "ひどい", "hint": "ひどい天気", "sound": "ひどい" },
-      { "id": "hot", "emoji": "🔥", "word": "暑い", "hint": "暑いコーヒー", "sound": "あつい" },
-      { "id": "cold", "emoji": "❄️", "word": "寒い", "hint": "寒い天気", "sound": "さむい" },
-      { "id": "friendly", "emoji": "😊", "word": "親切な", "hint": "親切な人々", "sound": "しんせつな" },
-      { "id": "delicious", "emoji": "😋", "word": "美味しい", "hint": "美味しい料理", "sound": "おいしい" },
-      { "id": "comfortable", "emoji": "🛋️", "word": "快適な", "hint": "快適なホテル", "sound": "かいてきな" }
+      { "id": "beautiful", "emoji": "🌺", "word": "うつくしい", "hint": "うつくしいばしょ", "sound": "うつくしい" },
+      { "id": "big", "emoji": "🏙️", "word": "おおきい", "hint": "おおきなまち", "sound": "おおきい" },
+      { "id": "small", "emoji": "🏠", "word": "ちいさい", "hint": "ちいさいいえ", "sound": "ちいさい" },
+      { "id": "new", "emoji": "🆕", "word": "あたらしい", "hint": "あたらしいくるま", "sound": "あたらしい" },
+      { "id": "old", "emoji": "🏛️", "word": "ふるい", "hint": "ふるいたてもの", "sound": "ふるい" },
+      { "id": "expensive", "emoji": "💸", "word": "たかい", "hint": "とてもたかい", "sound": "たかい" },
+      { "id": "cheap", "emoji": "💰", "word": "やすい", "hint": "たかくない", "sound": "やすい" },
+      { "id": "lovely", "emoji": "💖", "word": "すてきな", "hint": "すてきなてんき", "sound": "すてきな" },
+      { "id": "horrible", "emoji": "👎", "word": "ひどい", "hint": "ひどいてんき", "sound": "ひどい" },
+      { "id": "hot", "emoji": "🔥", "word": "あつい", "hint": "あついコーヒー", "sound": "あつい" },
+      { "id": "cold", "emoji": "❄️", "word": "さむい", "hint": "さむいてんき", "sound": "さむい" },
+      { "id": "friendly", "emoji": "😊", "word": "しんせつな", "hint": "しんせつなひとびと", "sound": "しんせつな" },
+      { "id": "delicious", "emoji": "😋", "word": "おいしい", "hint": "おいしいりょうり", "sound": "おいしい" },
+      { "id": "comfortable", "emoji": "🛋️", "word": "かいてきな", "hint": "かいてきなホテル", "sound": "かいてきな" }
     ],
     "fr": [
       { "id": "beautiful", "emoji": "🌺", "word": "beau", "hint": "Un bel endroit", "sound": "beau" },
@@ -89,14 +89,14 @@
       { "id": "i_love_them", "emoji": "❤️", "text": "I love them!", "sound": "I love them!" }
     ],
     "ja": [
-      { "id": "what_is_capital", "emoji": "❓", "text": "オーストラリアの首都はどこですか？", "sound": "オーストラリアのしゅとはどこですか？" },
-      { "id": "how_old", "emoji": "❓", "text": "ピラミッドは何年前ですか？", "sound": "ピラミッドはなんねんまえですか？" },
-      { "id": "where_does_president_live", "emoji": "❓", "text": "アメリカ大統領はどこに住んでいますか？", "sound": "アメリカだいとうりょうはどこにすんでいますか？" },
-      { "id": "who_lives", "emoji": "❓", "text": "バッキンガム宮殿には誰が住んでいますか？", "sound": "バッキンガムきゅうでんにはだれがすんでいますか？" },
-      { "id": "why_do_you_live", "emoji": "❓", "text": "なぜここに住んでいるのですか？", "sound": "なぜここにすんでいるのですか？" },
-      { "id": "this_is_beautiful", "emoji": "🏠", "text": "これはとても美しい家です。", "sound": "これはとてもうつくしいいえです。" },
-      { "id": "i_like_it", "emoji": "❤️", "text": "とても気に入っています。", "sound": "とてもきにいっています。" },
-      { "id": "i_love_them", "emoji": "❤️", "text": "彼らが大好きです！", "sound": "かれらがだいすきです！" }
+      { "id": "what_is_capital", "emoji": "❓", "text": "オーストラリアのしゅとはどこですか？", "sound": "オーストラリアのしゅとはどこですか？" },
+      { "id": "how_old", "emoji": "❓", "text": "ピラミッドはなんねんまえですか？", "sound": "ピラミッドはなんねんまえですか？" },
+      { "id": "where_does_president_live", "emoji": "❓", "text": "アメリカだいとうりょうはどこにすんでいますか？", "sound": "アメリカだいとうりょうはどこにすんでいますか？" },
+      { "id": "who_lives", "emoji": "❓", "text": "バッキンガムきゅうでんにはだれがすんでいますか？", "sound": "バッキンガムきゅうでんにはだれがすんでいますか？" },
+      { "id": "why_do_you_live", "emoji": "❓", "text": "なぜここにすんでいるのですか？", "sound": "なぜここにすんでいるのですか？" },
+      { "id": "this_is_beautiful", "emoji": "🏠", "text": "これはとてもうつくしいいえです。", "sound": "これはとてもうつくしいいえです。" },
+      { "id": "i_like_it", "emoji": "❤️", "text": "とてもきにいっています。", "sound": "とてもきにいっています。" },
+      { "id": "i_love_them", "emoji": "❤️", "text": "かれらがだいすきです！", "sound": "かれらがだいすきです！" }
     ],
     "fr": [
       { "id": "what_is_capital", "emoji": "❓", "text": "Quelle est la capitale de l'Australie ?", "sound": "Quelle est la capitale de l'Australie ?" },
@@ -131,13 +131,13 @@
       ]
     },
     "ja": {
-      "title": "セリーヌ、有名な映画スター",
-      "content": "👨‍💼 ガイ: これはとても美しい家ですね。\n👩 セリーヌ: ありがとうございます。私もとても気に入っています。\n👨‍💼 ガイ: セリーヌ、あなたはアメリカ人ですね。なぜロンドンに住んでいるのですか？\n👩 セリーヌ: ここが大好きだからです！人々は素晴らしいです！彼らが大好きです！そしてもちろん、私の夫チャールズはイギリス人で、彼も愛しています！\n👨‍💼 ガイ: それはとても素敵な写真ですね。彼らは誰ですか？\n👩 セリーヌ: 私の息子たちです。あれがマットで、あれがジャックです。彼らはここで学校に通っています。娘はアメリカの学校に通っています。名前はリサ・マリーです。\n👨‍💼 ガイ: なぜリサ・マリーはアメリカで学校に通っているのですか？\n👩 セリーヌ: 父親と一緒に住んでいるからです。私の最初の夫、俳優のダン・ブラットです。彼と彼の映画は全部嫌いです。決して見ません。\n👨‍💼 ガイ: なるほど。リサ・マリーはあなたを訪ねてきますか？\n👩 セリーヌ: ええ、毎回の休暇に来てくれます。今もここに一緒にいます。\n👨‍💼 ガイ: これはあなたとチャールズの写真ですか？\n👩 セリーヌ: ええ、ハワイでの私たちです。結婚式です。私たちは一緒にいてとても幸せです！",
-      "question": "セリーヌはなぜロンドンに住んでいますか？",
+      "title": "セリーヌ、ゆうめいなえいがスター",
+      "content": "👨‍💼 ガイ: これはとてもうつくしいいえですね。\n👩 セリーヌ: ありがとうございます。わたしもとてもきにいっています。\n👨‍💼 ガイ: セリーヌ、あなたはアメリカじんですね。なぜロンドンにすんでいるのですか？\n👩 セリーヌ: ここがだいすきだからです！ひとびとはすばらしいです！かれらがだいすきです！そしてもちろん、わたしのおっとチャールズはイギリスじんで、かれもあいしています！\n👨‍💼 ガイ: それはとてもすてきなしゃしんですね。かれらはだれですか？\n👩 セリーヌ: わたしのむすこたちです。あれがマットで、あれがジャックです。かれらはここでがっこうにいっています。むすめはアメリカのがっこうにいっています。なまえはリサ・マリーです。\n👨‍💼 ガイ: なぜリサ・マリーはアメリカでがっこうにいっているのですか？\n👩 セリーヌ: ちちおやといっしょにすんでいるからです。わたしのさいしょのおっと、はいゆうのダン・ブラットです。かれとかれのえいがはぜんぶきらいです。ぜったいにみません。\n👨‍💼 ガイ: なるほど。リサ・マリーはあなたをたずねてきますか？\n👩 セリーヌ: ええ、まいかいのきゅうかにきてくれます。いまもここにいっしょにいます。\n👨‍💼 ガイ: これはあなたとチャールズのしゃしんですか？\n👩 セリーヌ: ええ、ハワイでのわたしたちです。けっこんしきです。わたしたちはいっしょにいてとてもしあわせです！",
+      "question": "セリーヌはなぜロンドンにすんでいますか？",
       "options": [
-        { "text": "そこが大好きだから", "emoji": "❤️", "correct": true },
-        { "text": "アメリカが嫌いだから", "emoji": "👎", "correct": false },
-        { "text": "そこに仕事があるから", "emoji": "💼", "correct": false }
+        { "text": "そこがだいすきだから", "emoji": "❤️", "correct": true },
+        { "text": "アメリカがきらいだから", "emoji": "👎", "correct": false },
+        { "text": "そこにしごとがあるから", "emoji": "💼", "correct": false }
       ]
     },
     "fr": {
@@ -185,19 +185,19 @@
     "ja": [
       {
         "type": "match",
-        "instruction": "疑問詞とその使い方を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "instruction": "ぎもんしとつかいかたをあわせましょう！ 🖐️ どらっぐ＆どろっぷ！",
         "pairs": [
-          { "emoji": "❓", "word": "何" },
+          { "emoji": "❓", "word": "なに" },
           { "emoji": "📍", "word": "どこ" },
-          { "emoji": "👤", "word": "誰" },
+          { "emoji": "👤", "word": "だれ" },
           { "emoji": "⏰", "word": "いつ" },
           { "emoji": "❓", "word": "なぜ" },
-          { "emoji": "📏", "word": "どのように" }
+          { "emoji": "📏", "word": "どう" }
         ]
       },
       {
         "type": "find",
-        "question": "人のための疑問詞を見つけてください！ 👤",
+        "question": "ひとのためのぎもんしをみつけてください！ 👤",
         "target": "👤",
         "options": ["❓", "📍", "👤", "⏰"]
       }
@@ -246,19 +246,19 @@
   "grammar": {
     "en": {
       "title": "Grammar Spot",
-      "content": "• Question words: What, Where, Who, When, Why, How\n• Object pronouns: me, you, him, her, it, us, them\n• this (near) / that (far)\n• Adjectives: beautiful, big, small, new, old, expensive, cheap, lovely, horrible, hot, cold, friendly, delicious, comfortable"
+      "content": "Let's learn 5 grammar points today!\n\n【1. Question Words】\nUse question words to ask for information.\nWhat → for things (What's your name?)\nWhere → for places (Where do you live?)\nWho → for people (Who is that?)\nWhen → for time (When is your birthday?)\nWhy → for reasons (Why do you like it?)\nHow → for manner or quantity (How are you? / How many?)\n\n【2. This and That】\nUse 'this' for something near you. Use 'that' for something far away.\nExample: This is my house. (near)\nExample: That is your car. (far)\n\n【3. It and Them】\nUse 'it' for one thing. Use 'them' for more than one thing.\nExample: I like it. (one thing)\nExample: I like them. (many things)\n\n【4. Adjectives】\nAdjectives describe nouns. They come before the noun.\nExample: a beautiful house\nExample: big cities\nExample: friendly people\n\n【5. Can I...?】\nUse 'Can I...?' to ask for permission.\nExample: Can I have a drink?\nExample: Can I sit here?"
     },
     "ja": {
-      "title": "文法のポイント",
-      "content": "• 疑問詞: What, Where, Who, When, Why, How\n• 目的格代名詞: me, you, him, her, it, us, them\n• this（近く）/ that（遠く）\n• 形容詞: 美しい、大きい、小さい、新しい、古い、高い、安い、素敵な、ひどい、暑い、寒い、親切な、美味しい、快適な"
+      "title": "ぶんぽう ぽいんと",
+      "content": "きょうは ５つの ぶんぽうを まなびましょう！\n\n【１．ぎもんし】\nぎもんしを つかって しつもんを します。\nなに → ものごと (なまえは なんですか？)\nどこ → ばしょ (どこに すんでいますか？)\nだれ → ひと (あのひとは だれですか？)\nいつ → じかん (たんじょうびは いつですか？)\nなぜ → りゆう (なぜ すきですか？)\nどう → ようす または かず (おげんきですか？ / いくつ？)\n\n【２．『これ』と『あれ』】\nちかくの もの には 『これ』 を、とおくの もの には 『あれ』 を つかいます。\nれい： これは わたしの いえです。(ちかく)\nれい： あれは あなたの くるまです。(とおく)\n\n【３．『それ』と『それら』】\nひとつの もの には 『それ』 を、ふたつ いじょうの もの には 『それら』 を つかいます。\nれい： それが すきです。(ひとつ)\nれい： それらが すきです。(たくさん)\n\n【４．けいようし】\nけいようしは めいしを せつめいします。めいしの まえに おきます。\nれい： うつくしい いえ\nれい： おおきな まち\nれい： しんせつな ひとびと\n\n【５．『～しても いいですか？』】\n『～しても いいですか？』 で きょか を もとめます。\nれい： のみものを もらっても いいですか？\nれい： ここに すわっても いいですか？"
     },
     "fr": {
-      "title": "Point de Grammaire",
-      "content": "• Mots interrogatifs: What, Where, Who, When, Why, How\n• Pronoms objets: me, you, him, her, it, us, them\n• this (proche) / that (loin)\n• Adjectifs: beau, grand, petit, neuf, vieux, cher, bon marché, magnifique, horrible, chaud, froid, sympathique, délicieux, confortable"
+      "title": "Point de grammaire",
+      "content": "Apprenons 5 points de grammaire aujourd'hui !\n\n【1. Mots interrogatifs】\nUtilisez les mots interrogatifs pour poser des questions.\nQuoi → pour les choses (Quel est ton nom ?)\nOù → pour les lieux (Où habites-tu ?)\nQui → pour les personnes (Qui est-ce ?)\nQuand → pour le temps (Quand est ton anniversaire ?)\nPourquoi → pour les raisons (Pourquoi aimes-tu ça ?)\nComment → pour la manière ou la quantité (Comment vas-tu ? / Combien ?)\n\n【2. Ceci et Cela】\nUtilisez 'ceci' pour quelque chose de proche. Utilisez 'cela' pour quelque chose de loin.\nExemple : Ceci est ma maison. (proche)\nExemple : Cela est ta voiture. (loin)\n\n【3. Le et Les】\nUtilisez 'le' pour une chose. Utilisez 'les' pour plusieurs choses.\nExemple : Je l'aime. (une chose)\nExemple : Je les aime. (plusieurs choses)\n\n【4. Adjectifs】\nLes adjectifs décrivent les noms. Ils se placent avant le nom.\nExemple : une belle maison\nExemple : de grandes villes\nExemple : des gens sympathiques\n\n【5. Puis-je...?】\nUtilisez 'Puis-je...?' pour demander la permission.\nExemple : Puis-je avoir un verre ?\nExemple : Puis-je m'asseoir ici ?"
     },
     "ko": {
       "title": "문법 포인트",
-      "content": "• 의문사: What, Where, Who, When, Why, How\n• 목적격 대명사: me, you, him, her, it, us, them\n• this (가까운 것) / that (먼 것)\n• 형용사: 아름다운, 큰, 작은, 새로운, 오래된, 비싼, 싼, 사랑스러운, 끔찍한, 더운, 추운, 친절한, 맛있는, 편안한"
+      "content": "오늘은 5개의 문법을 배워볼게요!\n\n【1. 의문사】\n의문사로 정보를 물어봐요.\n무엇 → 사물 (이름이 무엇인가요?)\n어디 → 장소 (어디에 살아요?)\n누구 → 사람 (저 사람은 누구인가요?)\n언제 → 시간 (생일이 언제인가요?)\n왜 → 이유 (왜 좋아해요?)\n어떻게 → 방법 또는 양 (어떻게 지내요? / 몇 개?)\n\n【2. '이것'과 '저것'】\n가까운 것에는 '이것'을, 먼 것에는 '저것'을 사용해요.\n예: 이것은 제 집이에요. (가까움)\n예: 저것은 당신의 차예요. (먼)\n\n【3. '그것'과 '그것들'】\n하나의 것에는 '그것'을, 두 개 이상의 것에는 '그것들'을 사용해요.\n예: 그것을 좋아해요. (하나)\n예: 그것들을 좋아해요. (여러 개)\n\n【4. 형용사】\n형용사는 명사를 설명해요. 명사 앞에 와요.\n예: 아름다운 집\n예: 큰 도시들\n예: 친절한 사람들\n\n【5. '~해도 될까요?'】\n'~해도 될까요?'로 허락을 구해요.\n예: 음료를 마셔도 될까요?\n예: 여기에 앉아도 될까요?"
     }
   },
   "practice_conversations": {
@@ -310,18 +310,18 @@
       {
         "title": "セリーヌとジャーナリスト",
         "lines": [
-          { "speaker": "ガイ", "text": "これはとても美しい家ですね。" },
-          { "speaker": "セリーヌ", "text": "ありがとうございます。私もとても気に入っています。" },
-          { "speaker": "ガイ", "text": "なぜロンドンに住んでいるのですか？" },
-          { "speaker": "セリーヌ", "text": "ここが大好きだからです！人々は素晴らしいです！彼らが大好きです！" },
-          { "speaker": "ガイ", "text": "それはとても素敵な写真ですね。彼らは誰ですか？" },
-          { "speaker": "セリーヌ", "text": "私の息子たちです。あれがマットで、あれがジャックです。" },
-          { "speaker": "ガイ", "text": "なぜリサ・マリーはアメリカで学校に通っているのですか？" },
-          { "speaker": "セリーヌ", "text": "父親と一緒に住んでいるからです。" }
+          { "speaker": "ガイ", "text": "これはとてもうつくしいいえですね。" },
+          { "speaker": "セリーヌ", "text": "ありがとうございます。わたしもとてもきにいっています。" },
+          { "speaker": "ガイ", "text": "なぜロンドンにすんでいるのですか？" },
+          { "speaker": "セリーヌ", "text": "ここがだいすきだからです！ひとびとはすばらしいです！かれらがだいすきです！" },
+          { "speaker": "ガイ", "text": "それはとてもすてきなしゃしんですね。かれらはだれですか？" },
+          { "speaker": "セリーヌ", "text": "わたしのむすこたちです。あれがマットで、あれがジャックです。" },
+          { "speaker": "ガイ", "text": "なぜリサ・マリーはアメリカでがっこうにいっているのですか？" },
+          { "speaker": "セリーヌ", "text": "ちちおやといっしょにすんでいるからです。" }
         ]
       },
       {
-        "title": "Can I...? - カフェで",
+        "title": "キャンアイ？ - カフェで",
         "lines": [
           { "speaker": "K", "text": "ハムサンドイッチをください。" },
           { "speaker": "A", "text": "はい。" },
@@ -332,21 +332,21 @@
         ]
       },
       {
-        "title": "Can I...? - 洋服店で",
+        "title": "キャンアイ？ - ようふくてんで",
         "lines": [
-          { "speaker": "K", "text": "このセーターを試着してもいいですか？" },
-          { "speaker": "B", "text": "もちろんです。試着室はこちらです。" }
+          { "speaker": "K", "text": "このセーターをしちゃくしてもいいですか？" },
+          { "speaker": "B", "text": "もちろんです。しちゃくしつはこちらです。" }
         ]
       },
       {
-        "title": "Can I...? - 鉄道駅で",
+        "title": "キャンアイ？ - てつどうえきで",
         "lines": [
-          { "speaker": "K", "text": "オックスフォードまでの往復券をください。" },
+          { "speaker": "K", "text": "オックスフォードまでのおうふくけんをください。" },
           { "speaker": "E", "text": "はい。" },
           { "speaker": "K", "text": "いくらですか？" },
           { "speaker": "E", "text": "22ポンドです。" },
           { "speaker": "K", "text": "ありがとうございます。" },
-          { "speaker": "E", "text": "25ポンドです。お釣りです。" }
+          { "speaker": "E", "text": "25ポンドです。おつりです。" }
         ]
       }
     ],
@@ -365,7 +365,7 @@
         ]
       },
       {
-        "title": "Can I...? - Au café",
+        "title": "Puis-je...? - Au café",
         "lines": [
           { "speaker": "K", "text": "Je voudrais un sandwich au jambon, s'il vous plaît." },
           { "speaker": "A", "text": "D'accord." },
@@ -376,14 +376,14 @@
         ]
       },
       {
-        "title": "Can I...? - Au magasin de vêtements",
+        "title": "Puis-je...? - Au magasin de vêtements",
         "lines": [
           { "speaker": "K", "text": "Puis-je essayer ce pull, s'il vous plaît ?" },
           { "speaker": "B", "text": "Bien sûr. Les cabines d'essayage sont juste ici." }
         ]
       },
       {
-        "title": "Can I...? - À la gare",
+        "title": "Puis-je...? - À la gare",
         "lines": [
           { "speaker": "K", "text": "Je voudrais un billet aller-retour pour Oxford, s'il vous plaît." },
           { "speaker": "E", "text": "D'accord." },
@@ -409,7 +409,7 @@
         ]
       },
       {
-        "title": "Can I...? - 카페에서",
+        "title": "~해도 될까요? - 카페에서",
         "lines": [
           { "speaker": "K", "text": "햄 샌드위치 하나 주세요." },
           { "speaker": "A", "text": "네." },
@@ -420,14 +420,14 @@
         ]
       },
       {
-        "title": "Can I...? - 옷가게에서",
+        "title": "~해도 될까요? - 옷가게에서",
         "lines": [
           { "speaker": "K", "text": "이 스웨터를 입어봐도 될까요?" },
           { "speaker": "B", "text": "물론이죠. 탈의실은 여기 있습니다." }
         ]
       },
       {
-        "title": "Can I...? - 기차역에서",
+        "title": "~해도 될까요? - 기차역에서",
         "lines": [
           { "speaker": "K", "text": "옥스퍼드까지 왕복표 하나 주세요." },
           { "speaker": "E", "text": "네." },
@@ -446,9 +446,9 @@
       { "id": "thank_you", "emoji": "🙏", "expression": "Thank you very much.", "hint": "thanking", "response": "You're welcome." }
     ],
     "ja": [
-      { "id": "can_i_have", "emoji": "🙋", "expression": "〜をください。", "hint": "何かを頼む", "response": "はい。／もちろんです。" },
-      { "id": "how_much", "emoji": "💰", "expression": "いくらですか？", "hint": "値段を尋ねる", "response": "5ポンド90ペンスです。" },
-      { "id": "thank_you", "emoji": "🙏", "expression": "ありがとうございます。", "hint": "感謝", "response": "どういたしまして。" }
+      { "id": "can_i_have", "emoji": "🙋", "expression": "〜をください。", "hint": "なにかをたのむ", "response": "はい。／もちろんです。" },
+      { "id": "how_much", "emoji": "💰", "expression": "いくらですか？", "hint": "ねだんをたずねる", "response": "5ポンド90ペンスです。" },
+      { "id": "thank_you", "emoji": "🙏", "expression": "ありがとうございます。", "hint": "かんしゃ", "response": "どういたしまして。" }
     ],
     "fr": [
       { "id": "can_i_have", "emoji": "🙋", "expression": "Je voudrais...", "hint": "demander quelque chose", "response": "D'accord. / Bien sûr." },
@@ -470,11 +470,11 @@
       { "word": "cold", "opposite": "hot", "emoji": "❄️" }
     ],
     "ja": [
-      { "word": "新しい", "opposite": "古い", "emoji": "🆕" },
-      { "word": "高い", "opposite": "安い", "emoji": "💸" },
-      { "word": "素敵な", "opposite": "ひどい", "emoji": "💖" },
-      { "word": "小さい", "opposite": "大きい", "emoji": "🏠" },
-      { "word": "寒い", "opposite": "暑い", "emoji": "❄️" }
+      { "word": "あたらしい", "opposite": "ふるい", "emoji": "🆕" },
+      { "word": "たかい", "opposite": "やすい", "emoji": "💸" },
+      { "word": "すてきな", "opposite": "ひどい", "emoji": "💖" },
+      { "word": "ちいさい", "opposite": "おおきい", "emoji": "🏠" },
+      { "word": "さむい", "opposite": "あつい", "emoji": "❄️" }
     ],
     "fr": [
       { "word": "neuf", "opposite": "vieux", "emoji": "🆕" },
@@ -501,10 +501,10 @@
     ],
     "ja": [
       { "id": "ham_sandwich", "emoji": "🥪", "phrase": "ハムサンドイッチをください。", "place": "カフェ" },
-      { "id": "try_on_jumper", "emoji": "👕", "phrase": "このセーターを試着してもいいですか？", "place": "洋服店" },
-      { "id": "return_ticket", "emoji": "🎫", "phrase": "オックスフォードまでの往復券をください。", "place": "鉄道駅" },
-      { "id": "change_travellers_cheque", "emoji": "💵", "phrase": "このトラベラーズチェックを換金できますか？", "place": "銀行" },
-      { "id": "send_email", "emoji": "📧", "phrase": "メールを送れますか？", "place": "インターネットカフェ" }
+      { "id": "try_on_jumper", "emoji": "👕", "phrase": "このセーターをしちゃくしてもいいですか？", "place": "ようふくてん" },
+      { "id": "return_ticket", "emoji": "🎫", "phrase": "オックスフォードまでのおうふくけんをください。", "place": "てつどうえき" },
+      { "id": "change_travellers_cheque", "emoji": "💵", "phrase": "このトラベラーズチェックをかんきんできますか？", "place": "ぎんこう" },
+      { "id": "send_email", "emoji": "📧", "phrase": "メールをおくれますか？", "place": "インターネットカフェ" }
     ],
     "fr": [
       { "id": "ham_sandwich", "emoji": "🥪", "phrase": "Je voudrais un sandwich au jambon.", "place": "café" },
@@ -521,5 +521,4 @@
       { "id": "send_email", "emoji": "📧", "phrase": "이메일을 보낼 수 있나요?", "place": "인터넷 카페" }
     ]
   }
-  
 }

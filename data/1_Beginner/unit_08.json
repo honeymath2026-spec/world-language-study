@@ -1,13 +1,13 @@
 {
   "title": {
     "en": "Where I live",
-    "ja": "私の住んでいる場所",
+    "ja": "わたしのすんでいるばしょ",
     "fr": "Où j'habite",
     "ko": "내가 사는 곳"
   },
   "topic": {
     "en": "Rooms and furniture, There is/are, any, Prepositions, Directions",
-    "ja": "部屋と家具、There is/are、any、前置詞、道案内",
+    "ja": "へやとかぐ、ぜんちし、みちあんない",
     "fr": "Pièces et meubles, There is/are, any, Prépositions, Indications",
     "ko": "방과 가구, There is/are, any, 전치사, 길 안내"
   },
@@ -32,23 +32,23 @@
       { "id": "video_recorder", "emoji": "📼", "word": "video recorder", "hint": "I watch videos", "sound": "video recorder" }
     ],
     "ja": [
-      { "id": "living_room", "emoji": "🛋️", "word": "リビングルーム", "hint": "リビングでテレビを見ます", "sound": "リビングルーム" },
-      { "id": "bedroom", "emoji": "🛏️", "word": "寝室", "hint": "寝室で寝ます", "sound": "しんしつ" },
-      { "id": "kitchen", "emoji": "🍳", "word": "キッチン", "hint": "キッチンで料理をします", "sound": "キッチン" },
-      { "id": "bathroom", "emoji": "🚿", "word": "バスルーム", "hint": "バスルームでシャワーを浴びます", "sound": "バスルーム" },
-      { "id": "dining_room", "emoji": "🍽️", "word": "ダイニングルーム", "hint": "ダイニングで食事をします", "sound": "ダイニングルーム" },
+      { "id": "living_room", "emoji": "🛋️", "word": "リビング", "hint": "リビングでテレビをみます", "sound": "リビング" },
+      { "id": "bedroom", "emoji": "🛏️", "word": "しんしつ", "hint": "しんしつでねます", "sound": "しんしつ" },
+      { "id": "kitchen", "emoji": "🍳", "word": "キッチン", "hint": "キッチンでりょうりをします", "sound": "キッチン" },
+      { "id": "bathroom", "emoji": "🚿", "word": "バスルーム", "hint": "バスルームでシャワーをあびます", "sound": "バスルーム" },
+      { "id": "dining_room", "emoji": "🍽️", "word": "ダイニング", "hint": "ダイニングでしょくじをします", "sound": "ダイニング" },
       { "id": "toilet", "emoji": "🚽", "word": "トイレ", "hint": "トイレはここです", "sound": "トイレ" },
-      { "id": "sofa", "emoji": "🛋️", "word": "ソファ", "hint": "ソファに座ります", "sound": "ソファ" },
-      { "id": "armchair", "emoji": "🪑", "word": "アームチェア", "hint": "アームチェアに座ります", "sound": "アームチェア" },
-      { "id": "bed", "emoji": "🛏️", "word": "ベッド", "hint": "ベッドで寝ます", "sound": "ベッド" },
-      { "id": "table", "emoji": "🪑", "word": "テーブル", "hint": "テーブルで食事をします", "sound": "テーブル" },
-      { "id": "cooker", "emoji": "🍳", "word": "コンロ", "hint": "コンロで料理をします", "sound": "コンロ" },
-      { "id": "television", "emoji": "📺", "word": "テレビ", "hint": "テレビを見ます", "sound": "テレビ" },
+      { "id": "sofa", "emoji": "🛋️", "word": "ソファ", "hint": "ソファにすわります", "sound": "ソファ" },
+      { "id": "armchair", "emoji": "🪑", "word": "アームチェア", "hint": "アームチェアにすわります", "sound": "アームチェア" },
+      { "id": "bed", "emoji": "🛏️", "word": "ベッド", "hint": "ベッドでねます", "sound": "ベッド" },
+      { "id": "table", "emoji": "🪑", "word": "テーブル", "hint": "テーブルでしょくじをします", "sound": "テーブル" },
+      { "id": "cooker", "emoji": "🍳", "word": "コンロ", "hint": "コンロでりょうりをします", "sound": "コンロ" },
+      { "id": "television", "emoji": "📺", "word": "テレビ", "hint": "テレビをみます", "sound": "テレビ" },
       { "id": "lamp", "emoji": "💡", "word": "ランプ", "hint": "ランプがあります", "sound": "ランプ" },
-      { "id": "picture", "emoji": "🖼️", "word": "絵", "hint": "壁に絵があります", "sound": "え" },
-      { "id": "magazine", "emoji": "📰", "word": "雑誌", "hint": "雑誌を読みます", "sound": "ざっし" },
+      { "id": "picture", "emoji": "🖼️", "word": "え", "hint": "かべにえがあります", "sound": "え" },
+      { "id": "magazine", "emoji": "📰", "word": "ざっし", "hint": "ざっしをよみます", "sound": "ざっし" },
       { "id": "cd_player", "emoji": "💿", "word": "CDプレーヤー", "hint": "CDをかけます", "sound": "CDプレーヤー" },
-      { "id": "video_recorder", "emoji": "📼", "word": "ビデオレコーダー", "hint": "ビデオを見ます", "sound": "ビデオレコーダー" }
+      { "id": "video_recorder", "emoji": "📼", "word": "ビデオレコーダー", "hint": "ビデオをみます", "sound": "ビデオレコーダー" }
     ],
     "fr": [
       { "id": "living_room", "emoji": "🛋️", "word": "salon", "hint": "Je regarde la télé dans le salon", "sound": "salon" },
@@ -104,15 +104,15 @@
     ],
     "ja": [
       { "id": "there_is_a_sofa", "emoji": "🛋️", "text": "ソファがあります。", "sound": "ソファがあります。" },
-      { "id": "there_are_armchairs", "emoji": "🪑", "text": "アームチェアが二つあります。", "sound": "アームチェアがふたつあります。" },
+      { "id": "there_are_armchairs", "emoji": "🪑", "text": "アームチェアがふたつあります。", "sound": "アームチェアがふたつあります。" },
       { "id": "is_there_a_tv", "emoji": "📺", "text": "テレビはありますか？", "sound": "テレビはありますか？" },
-      { "id": "are_there_any_pictures", "emoji": "🖼️", "text": "絵はありますか？", "sound": "えはありますか？" },
+      { "id": "are_there_any_pictures", "emoji": "🖼️", "text": "えはありますか？", "sound": "えはありますか？" },
       { "id": "yes_there_is", "emoji": "✅", "text": "はい、あります。", "sound": "はい、あります。" },
       { "id": "no_there_isnt", "emoji": "❌", "text": "いいえ、ありません。", "sound": "いいえ、ありません。" },
       { "id": "yes_there_are", "emoji": "✅", "text": "はい、あります。", "sound": "はい、あります。" },
       { "id": "no_there_arent", "emoji": "❌", "text": "いいえ、ありません。", "sound": "いいえ、ありません。" },
       { "id": "where_is_cd_player", "emoji": "💿", "text": "CDプレーヤーはどこにありますか？", "sound": "CDプレーヤーはどこにありますか？" },
-      { "id": "on_the_floor", "emoji": "⬇️", "text": "床の上にあります。", "sound": "ゆかのうえにあります。" }
+      { "id": "on_the_floor", "emoji": "⬇️", "text": "ゆかのうえにあります。", "sound": "ゆかのうえにあります。" }
     ],
     "fr": [
       { "id": "there_is_a_sofa", "emoji": "🛋️", "text": "Il y a un canapé.", "sound": "Il y a un canapé." },
@@ -151,13 +151,13 @@
       ]
     },
     "ja": {
-      "title": "ニコールのリビングルーム",
-      "content": "🛋️ 私のリビングルームはとても大きくありませんが、大好きです。ソファがあり、アームチェアが二つあります。📺 テレビが置いてある小さなテーブルがあり、たくさんの本があります。💿 CDプレーヤーがあり、何枚かのCDがあります。🖼️ 壁に絵があり、ランプが二つあります。とても居心地のいい部屋です。",
+      "title": "ニコールのリビング",
+      "content": "🛋️ わたしのリビングはとてもおおきくありませんが、だいすきです。ソファがあり、アームチェアがふたつあります。📺 テレビがおいてあるちいさなテーブルがあり、たくさんのほんがあります。💿 CDプレーヤーがあり、なんまいかのCDがあります。🖼️ かべにえがあり、ランプがふたつあります。とてもくつろげるへやです。",
       "question": "アームチェアはいくつありますか？",
       "options": [
-        { "text": "二つ", "emoji": "🪑", "correct": true },
-        { "text": "一つ", "emoji": "🛋️", "correct": false },
-        { "text": "三つ", "emoji": "🪑🪑🪑", "correct": false }
+        { "text": "ふたつ", "emoji": "🪑", "correct": true },
+        { "text": "ひとつ", "emoji": "🛋️", "correct": false },
+        { "text": "みっつ", "emoji": "🪑🪑🪑", "correct": false }
       ]
     },
     "fr": {
@@ -203,17 +203,17 @@
     "ja": [
       {
         "type": "match",
-        "instruction": "部屋と単語を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "instruction": "へやとたんごをあわせましょう！ 🖐️ ドラッグ＆ドロップ！",
         "pairs": [
-          { "emoji": "🛋️", "word": "リビングルーム" },
-          { "emoji": "🛏️", "word": "寝室" },
+          { "emoji": "🛋️", "word": "リビング" },
+          { "emoji": "🛏️", "word": "しんしつ" },
           { "emoji": "🍳", "word": "キッチン" },
           { "emoji": "🚿", "word": "バスルーム" }
         ]
       },
       {
         "type": "find",
-        "question": "ベッドを見つけてください！ 🛏️",
+        "question": "ベッドをみつけてください！ 🛏️",
         "target": "🛏️",
         "options": ["🛋️", "🛏️", "🍳", "🚿"]
       }
@@ -258,46 +258,46 @@
   "grammar": {
     "en": {
       "title": "Grammar Spot",
-      "content": "• Positive: There's a sofa. / There are two armchairs.\n• Question: Is there a TV? / Are there any pictures?\n• Negative: There isn't a computer. / There aren't any photographs.\n• Prepositions: in, on, under, next to"
+      "content": "Let's learn 4 grammar points today!\n\n【1. There is / There are】\nUse 'There is' for one thing. Use 'There are' for more than one thing.\nExample: There is a sofa.\nExample: There are two armchairs.\n\n【2. Is there...? / Are there...?】\nUse 'Is there...?' to ask about one thing. Use 'Are there...?' to ask about more than one thing.\nExample: Is there a TV? → Yes, there is. / No, there isn't.\nExample: Are there any pictures? → Yes, there are. / No, there aren't.\n\n【3. Prepositions of place】\nPrepositions show where something is.\non → on the wall, on the floor\nin → in the kitchen, in the bedroom\nunder → under the table\nnext to → next to the sofa\nbehind → behind the door\nin front of → in front of the TV\n\n【4. Asking about location】\nUse 'Where' to ask about location.\nWhere is the CD player? → It's on the floor.\nWhere are the books? → They're on the table."
     },
     "ja": {
-      "title": "文法のポイント",
-      "content": "• 肯定文: There's a sofa.（ソファがあります。） / There are two armchairs.（アームチェアが二つあります。）\n• 疑問文: Is there a TV?（テレビはありますか？） / Are there any pictures?（絵はありますか？）\n• 否定文: There isn't a computer.（コンピューターはありません。） / There aren't any photographs.（写真はありません。）\n• 前置詞: in（～の中に）, on（～の上に）, under（～の下に）, next to（～の隣に）"
+      "title": "ぶんぽう ぽいんと",
+      "content": "きょうは ４つの ぶんぽうを まなびましょう！\n\n【１．『あります』と『あります』】\nひとつの もの には 『あります』 を、ふたつ いじょうの もの には 『あります』 を つかいます。\nれい： ソファが あります。\nれい： アームチェアが ふたつ あります。\n\n【２．『ありますか？』と『ありますか？』】\nひとつの もの を きく とき は 『ありますか？』 と、ふたつ いじょうの もの を きく とき は 『ありますか？』 と ききます。\nれい： テレビは ありますか？ → はい、あります。／いいえ、ありません。\nれい： えは ありますか？ → はい、あります。／いいえ、ありません。\n\n【３．ばしょの ぜんちし】\nぜんちしは ものが どこに あるか を しめします。\nうえ → かべの うえ、ゆかの うえ\nなか → キッチンの なか、しんしつの なか\nした → テーブルの した\nとなり → ソファの となり\nうしろ → ドアの うしろ\nまえ → テレビの まえ\n\n【４．ばしょを きく】\nばしょを きく とき は 『どこ』 を つかいます。\nCDプレーヤーは どこに ありますか？ → ゆかの うえに あります。\nほんは どこに ありますか？ → テーブルの うえに あります。"
     },
     "fr": {
-      "title": "Point de Grammaire",
-      "content": "• Positif: There's a sofa. / There are two armchairs.\n• Question: Is there a TV? / Are there any pictures?\n• Négatif: There isn't a computer. / There aren't any photographs.\n• Prépositions: in, on, under, next to"
+      "title": "Point de grammaire",
+      "content": "Apprenons 4 points de grammaire aujourd'hui !\n\n【1. Il y a】\nUtilisez 'Il y a' pour une chose ou plusieurs choses.\nExemple : Il y a un canapé.\nExemple : Il y a deux fauteuils.\n\n【2. Y a-t-il...?】\nUtilisez 'Y a-t-il...?' pour poser une question.\nExemple : Y a-t-il une télé ? → Oui, il y en a. / Non, il n'y en a pas.\nExemple : Y a-t-il des tableaux ? → Oui, il y en a. / Non, il n'y en a pas.\n\n【3. Prépositions de lieu】\nLes prépositions montrent où se trouve quelque chose.\nsur → sur le mur, par terre\ndans → dans la cuisine, dans la chambre\nsous → sous la table\nà côté de → à côté du canapé\nderrière → derrière la porte\ndevant → devant la télé\n\n【4. Demander l'emplacement】\nUtilisez 'Où' pour demander l'emplacement.\nOù est le lecteur CD ? → Il est par terre.\nOù sont les livres ? → Ils sont sur la table."
     },
     "ko": {
       "title": "문법 포인트",
-      "content": "• 긍정문: There's a sofa. (소파가 있습니다.) / There are two armchairs. (안락의자가 두 개 있습니다.)\n• 의문문: Is there a TV? (TV가 있나요?) / Are there any pictures? (그림이 있나요?)\n• 부정문: There isn't a computer. (컴퓨터가 없습니다.) / There aren't any photographs. (사진이 없습니다.)\n• 전치사: in (~ 안에), on (~ 위에), under (~ 아래에), next to (~ 옆에)"
+      "content": "오늘은 4개의 문법을 배워볼게요!\n\n【1. '~이/가 있어요'】\n하나의 것에는 '~이/가 있어요'를, 두 개 이상의 것에는 '~이/가 있어요'를 사용해요.\n예: 소파가 있어요.\n예: 안락의자가 두 개 있어요.\n\n【2. '~이/가 있나요?'】\n하나의 것을 물을 때는 '~이/가 있나요?'를, 두 개 이상의 것을 물을 때는 '~이/가 있나요?'를 사용해요.\n예: TV가 있나요? → 네, 있어요. / 아니요, 없어요.\n예: 그림이 있나요? → 네, 있어요. / 아니요, 없어요.\n\n【3. 위치 전치사】\n전치사는 물건이 어디에 있는지 알려줘요.\n위에 → 벽 위에, 바닥 위에\n안에 → 부엌 안에, 침실 안에\n아래에 → 테이블 아래에\n옆에 → 소파 옆에\n뒤에 → 문 뒤에\n앞에 → TV 앞에\n\n【4. 위치 묻기】\n위치를 물을 때는 '어디'를 사용해요.\nCD 플레이어는 어디에 있나요? → 바닥 위에 있어요.\n책들은 어디에 있나요? → 테이블 위에 있어요."
     }
   },
   "prepositions": {
-      "en": [
-    { "preposition": "in", "emoji": "📦", "example": "in the drawer", "meaning": "inside" },
-    { "preposition": "on", "emoji": "⬆️", "example": "on the bed", "meaning": "on top of" },
-    { "preposition": "under", "emoji": "⬇️", "example": "under the table", "meaning": "below" },
-    { "preposition": "next to", "emoji": "↔️", "example": "next to the bed", "meaning": "beside" }
-  ],
-  "fr": [
-    { "preposition": "dans", "emoji": "📦", "example": "dans le tiroir", "meaning": "à l'intérieur" },
-    { "preposition": "sur", "emoji": "⬆️", "example": "sur le lit", "meaning": "au-dessus" },
-    { "preposition": "sous", "emoji": "⬇️", "example": "sous la table", "meaning": "en dessous" },
-    { "preposition": "à côté de", "emoji": "↔️", "example": "à côté du lit", "meaning": "à côté" }
-  ],
-  "ja": [
-    { "preposition": "に", "emoji": "📦", "example": "引き出しの中に", "meaning": "～の中に" },
-    { "preposition": "に", "emoji": "⬆️", "example": "ベッドの上に", "meaning": "～の上に" },
-    { "preposition": "に", "emoji": "⬇️", "example": "テーブルの下に", "meaning": "～の下に" },
-    { "preposition": "に", "emoji": "↔️", "example": "ベッドの隣に", "meaning": "～の隣に" }
-  ],
-  "ko": [
-    { "preposition": "~안에", "emoji": "📦", "example": "서랍 안에", "meaning": "~ 안에" },
-    { "preposition": "~위에", "emoji": "⬆️", "example": "침대 위에", "meaning": "~ 위에" },
-    { "preposition": "~아래에", "emoji": "⬇️", "example": "테이블 아래에", "meaning": "~ 아래에" },
-    { "preposition": "~옆에", "emoji": "↔️", "example": "침대 옆에", "meaning": "~ 옆에" }
-  ]
+    "en": [
+      { "preposition": "in", "emoji": "📦", "example": "in the drawer", "meaning": "inside" },
+      { "preposition": "on", "emoji": "⬆️", "example": "on the bed", "meaning": "on top of" },
+      { "preposition": "under", "emoji": "⬇️", "example": "under the table", "meaning": "below" },
+      { "preposition": "next to", "emoji": "↔️", "example": "next to the bed", "meaning": "beside" }
+    ],
+    "fr": [
+      { "preposition": "dans", "emoji": "📦", "example": "dans le tiroir", "meaning": "à l'intérieur" },
+      { "preposition": "sur", "emoji": "⬆️", "example": "sur le lit", "meaning": "au-dessus" },
+      { "preposition": "sous", "emoji": "⬇️", "example": "sous la table", "meaning": "en dessous" },
+      { "preposition": "à côté de", "emoji": "↔️", "example": "à côté du lit", "meaning": "à côté" }
+    ],
+    "ja": [
+      { "preposition": "なか", "emoji": "📦", "example": "ひきだしのなか", "meaning": "～のなか" },
+      { "preposition": "うえ", "emoji": "⬆️", "example": "ベッドのうえ", "meaning": "～のうえ" },
+      { "preposition": "した", "emoji": "⬇️", "example": "テーブルのした", "meaning": "～のした" },
+      { "preposition": "となり", "emoji": "↔️", "example": "ベッドのとなり", "meaning": "～のとなり" }
+    ],
+    "ko": [
+      { "preposition": "~안에", "emoji": "📦", "example": "서랍 안에", "meaning": "~ 안에" },
+      { "preposition": "~위에", "emoji": "⬆️", "example": "침대 위에", "meaning": "~ 위에" },
+      { "preposition": "~아래에", "emoji": "⬇️", "example": "테이블 아래에", "meaning": "~ 아래에" },
+      { "preposition": "~옆에", "emoji": "↔️", "example": "침대 옆에", "meaning": "~ 옆에" }
+    ]
   },
   "directions": {
     "en": [
@@ -306,9 +306,9 @@
       { "direction": "turn left", "emoji": "⬅️", "meaning": "go left" }
     ],
     "ja": [
-      { "direction": "まっすぐ行く", "emoji": "⬆️", "meaning": "直進する" },
-      { "direction": "右に曲がる", "emoji": "➡️", "meaning": "右へ進む" },
-      { "direction": "左に曲がる", "emoji": "⬅️", "meaning": "左へ進む" }
+      { "direction": "まっすぐいく", "emoji": "⬆️", "meaning": "ちょくしんする" },
+      { "direction": "みぎにまがる", "emoji": "➡️", "meaning": "みぎへすすむ" },
+      { "direction": "ひだりにまがる", "emoji": "⬅️", "meaning": "ひだりへすすむ" }
     ],
     "fr": [
       { "direction": "tout droit", "emoji": "⬆️", "meaning": "aller tout droit" },
@@ -357,13 +357,13 @@
     ],
     "ja": [
       {
-        "title": "ニコールのリビングルーム",
+        "title": "ニコールのリビング",
         "lines": [
           { "speaker": "A", "text": "テレビはありますか？" },
           { "speaker": "B", "text": "はい、あります。" },
-          { "speaker": "A", "text": "絵はありますか？" },
+          { "speaker": "A", "text": "えはありますか？" },
           { "speaker": "B", "text": "はい、あります。" },
-          { "speaker": "A", "text": "電話はありますか？" },
+          { "speaker": "A", "text": "でんわはありますか？" },
           { "speaker": "B", "text": "いいえ、ありません。" }
         ]
       },
@@ -371,20 +371,20 @@
         "title": "ニコールのものはどこにありますか？",
         "lines": [
           { "speaker": "A", "text": "CDプレーヤーはどこにありますか？" },
-          { "speaker": "B", "text": "ベッドの隣の床の上にあります。" },
-          { "speaker": "A", "text": "彼女の車の鍵はどこにありますか？" },
-          { "speaker": "B", "text": "引き出しの中にあります。" },
-          { "speaker": "A", "text": "彼女のバッグはどこにありますか？" },
-          { "speaker": "B", "text": "椅子の隣の床の上にあります。" }
+          { "speaker": "B", "text": "ベッドのとなりゆかのうえにあります。" },
+          { "speaker": "A", "text": "かのじょのくるまのかぎはどこにありますか？" },
+          { "speaker": "B", "text": "ひきだしのなかにあります。" },
+          { "speaker": "A", "text": "かのじょのバッグはどこにありますか？" },
+          { "speaker": "B", "text": "いすのとなりゆかのうえにあります。" }
         ]
       },
       {
-        "title": "道を尋ねる",
+        "title": "みちをたずねる",
         "lines": [
-          { "speaker": "A", "text": "バス停にはどうやって行きますか？" },
-          { "speaker": "B", "text": "学校を出て右に曲がってください。" },
-          { "speaker": "A", "text": "遠いですか？" },
-          { "speaker": "B", "text": "約10分です。" }
+          { "speaker": "A", "text": "バスていにはどうやってきますか？" },
+          { "speaker": "B", "text": "がっこうをでてみぎにまがってください。" },
+          { "speaker": "A", "text": "とおいですか？" },
+          { "speaker": "B", "text": "やくじゅっぷんです。" }
         ]
       }
     ],
@@ -462,9 +462,9 @@
       { "id": "where_is", "emoji": "📍", "expression": "Where is the...?", "hint": "asking location", "response": "It's in/on/under/next to..." }
     ],
     "ja": [
-      { "id": "is_there", "emoji": "❓", "expression": "〜はありますか？（単数）", "hint": "単数のものを尋ねる", "response": "はい、あります。／いいえ、ありません。" },
-      { "id": "are_there", "emoji": "❓", "expression": "〜はありますか？（複数）", "hint": "複数のものを尋ねる", "response": "はい、あります。／いいえ、ありません。" },
-      { "id": "where_is", "emoji": "📍", "expression": "〜はどこにありますか？", "hint": "場所を尋ねる", "response": "〜の中に／上に／下に／隣にあります。" }
+      { "id": "is_there", "emoji": "❓", "expression": "〜はありますか？", "hint": "ひとつのものをたずねる", "response": "はい、あります。／いいえ、ありません。" },
+      { "id": "are_there", "emoji": "❓", "expression": "〜はありますか？", "hint": "ふたついじょうのものをたずねる", "response": "はい、あります。／いいえ、ありません。" },
+      { "id": "where_is", "emoji": "📍", "expression": "〜はどこにありますか？", "hint": "ばしょをたずねる", "response": "〜のなか／うえ／した／となりにあります。" }
     ],
     "fr": [
       { "id": "is_there", "emoji": "❓", "expression": "Est-ce qu'il y a... ?", "hint": "demander au singulier", "response": "Oui, il y en a. / Non, il n'y en a pas." },

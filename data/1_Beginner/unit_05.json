@@ -1,13 +1,13 @@
 {
   "title": {
     "en": "It's my life!",
-    "ja": "それが私の人生！",
+    "ja": "それがわたしのじんせい！",
     "fr": "C'est ma vie !",
     "ko": "그것이 내 인생이야!"
   },
   "topic": {
     "en": "Sports, food, drinks, Present Simple (I/you/they), a/an, languages and nationalities, numbers and prices",
-    "ja": "スポーツ、食べ物、飲み物、現在形（I/you/they）、a/an、言語と国籍、数字と価格",
+    "ja": "すぽーつ、たべもの、のみもの、げんざいけい（I/you/they）、ある/あん、げんごとこくせき、すうじとかかく",
     "fr": "Sports, nourriture, boissons, Présent Simple (I/you/they), a/an, langues et nationalités, nombres et prix",
     "ko": "스포츠, 음식, 음료, 현재시제 (I/you/they), a/an, 언어와 국적, 숫자와 가격"
   },
@@ -32,19 +32,19 @@
     "ja": [
       { "id": "tennis", "emoji": "🎾", "word": "テニス", "hint": "テニスをします", "sound": "テニス" },
       { "id": "football", "emoji": "⚽", "word": "サッカー", "hint": "サッカーをします", "sound": "サッカー" },
-      { "id": "swimming", "emoji": "🏊", "word": "水泳", "hint": "泳ぎに行きます", "sound": "すいえい" },
-      { "id": "skiing", "emoji": "⛷️", "word": "スキー", "hint": "スキーに行きます", "sound": "スキー" },
-      { "id": "pizza", "emoji": "🍕", "word": "ピザ", "hint": "ピザを食べます", "sound": "ピザ" },
-      { "id": "hamburger", "emoji": "🍔", "word": "ハンバーガー", "hint": "ハンバーガーを食べます", "sound": "ハンバーガー" },
-      { "id": "orange", "emoji": "🍊", "word": "オレンジ", "hint": "オレンジを食べます", "sound": "オレンジ" },
-      { "id": "ice_cream", "emoji": "🍦", "word": "アイスクリーム", "hint": "アイスクリームを食べます", "sound": "アイスクリーム" },
-      { "id": "tea", "emoji": "🍵", "word": "お茶", "hint": "お茶を飲みます", "sound": "おちゃ" },
-      { "id": "coffee", "emoji": "☕", "word": "コーヒー", "hint": "コーヒーを飲みます", "sound": "コーヒー" },
-      { "id": "coca_cola", "emoji": "🥤", "word": "コカコーラ", "hint": "コカコーラを飲みます", "sound": "コカコーラ" },
-      { "id": "beer", "emoji": "🍺", "word": "ビール", "hint": "ビールを飲みます", "sound": "ビール" },
-      { "id": "wine", "emoji": "🍷", "word": "ワイン", "hint": "ワインを飲みます", "sound": "ワイン" },
-      { "id": "italian_food", "emoji": "🍝", "word": "イタリア料理", "hint": "イタリア料理が好きです", "sound": "イタリアりょうり" },
-      { "id": "chinese_food", "emoji": "🥢", "word": "中華料理", "hint": "中華料理が好きです", "sound": "ちゅうかりょうり" }
+      { "id": "swimming", "emoji": "🏊", "word": "すいえい", "hint": "およぎにいきます", "sound": "すいえい" },
+      { "id": "skiing", "emoji": "⛷️", "word": "スキー", "hint": "スキーにいきます", "sound": "スキー" },
+      { "id": "pizza", "emoji": "🍕", "word": "ピザ", "hint": "ピザをたべます", "sound": "ピザ" },
+      { "id": "hamburger", "emoji": "🍔", "word": "ハンバーガー", "hint": "ハンバーガーをたべます", "sound": "ハンバーガー" },
+      { "id": "orange", "emoji": "🍊", "word": "オレンジ", "hint": "オレンジをたべます", "sound": "オレンジ" },
+      { "id": "ice_cream", "emoji": "🍦", "word": "アイスクリーム", "hint": "アイスクリームをたべます", "sound": "アイスクリーム" },
+      { "id": "tea", "emoji": "🍵", "word": "おちゃ", "hint": "おちゃをのみます", "sound": "おちゃ" },
+      { "id": "coffee", "emoji": "☕", "word": "コーヒー", "hint": "コーヒーをのみます", "sound": "コーヒー" },
+      { "id": "coca_cola", "emoji": "🥤", "word": "コカコーラ", "hint": "コカコーラをのみます", "sound": "コカコーラ" },
+      { "id": "beer", "emoji": "🍺", "word": "ビール", "hint": "ビールをのみます", "sound": "ビール" },
+      { "id": "wine", "emoji": "🍷", "word": "ワイン", "hint": "ワインをのみます", "sound": "ワイン" },
+      { "id": "italian_food", "emoji": "🍝", "word": "イタリアりょうり", "hint": "イタリアりょうりがすきです", "sound": "イタリアりょうり" },
+      { "id": "chinese_food", "emoji": "🥢", "word": "ちゅうかりょうり", "hint": "ちゅうかりょうりがすきです", "sound": "ちゅうかりょうり" }
     ],
     "fr": [
       { "id": "tennis", "emoji": "🎾", "word": "tennis", "hint": "Je joue au tennis", "sound": "tennis" },
@@ -94,15 +94,15 @@
       { "id": "im_a_waiter", "emoji": "🍽️", "text": "I'm a waiter.", "sound": "I am a waiter." }
     ],
     "ja": [
-      { "id": "i_like_tennis", "emoji": "👍", "text": "テニスが好きです。", "sound": "テニスがすきです。" },
-      { "id": "i_dont_like_football", "emoji": "👎", "text": "サッカーは好きじゃありません。", "sound": "サッカーはすきじゃありません。" },
-      { "id": "do_you_like_tennis", "emoji": "❓", "text": "テニスは好きですか？", "sound": "テニスはすきですか？" },
-      { "id": "yes_i_do", "emoji": "✅", "text": "はい、好きです。", "sound": "はい、すきです。" },
-      { "id": "no_i_dont", "emoji": "❌", "text": "いいえ、好きじゃありません。", "sound": "いいえ、すきじゃありません。" },
-      { "id": "where_do_you_live", "emoji": "🏠", "text": "どこに住んでいますか？", "sound": "どこにすんでいますか？" },
-      { "id": "i_live_in_london", "emoji": "🏙️", "text": "ロンドンに住んでいます。", "sound": "ロンドンにすんでいます。" },
-      { "id": "whats_your_job", "emoji": "💼", "text": "仕事は何ですか？", "sound": "しごとはなんですか？" },
-      { "id": "im_a_waiter", "emoji": "🍽️", "text": "私はウェイターです。", "sound": "わたしはウェイターです。" }
+      { "id": "i_like_tennis", "emoji": "👍", "text": "テニスがすきです。", "sound": "テニスがすきです。" },
+      { "id": "i_dont_like_football", "emoji": "👎", "text": "サッカーはすきじゃありません。", "sound": "サッカーはすきじゃありません。" },
+      { "id": "do_you_like_tennis", "emoji": "❓", "text": "テニスはすきですか？", "sound": "テニスはすきですか？" },
+      { "id": "yes_i_do", "emoji": "✅", "text": "はい、すきです。", "sound": "はい、すきです。" },
+      { "id": "no_i_dont", "emoji": "❌", "text": "いいえ、すきじゃありません。", "sound": "いいえ、すきじゃありません。" },
+      { "id": "where_do_you_live", "emoji": "🏠", "text": "どこにすんでいますか？", "sound": "どこにすんでいますか？" },
+      { "id": "i_live_in_london", "emoji": "🏙️", "text": "ロンドンにすんでいます。", "sound": "ロンドンにすんでいます。" },
+      { "id": "whats_your_job", "emoji": "💼", "text": "しごとはなんですか？", "sound": "しごとはなんですか？" },
+      { "id": "im_a_waiter", "emoji": "🍽️", "text": "わたしはウェイターです。", "sound": "わたしはウェイターです。" }
     ],
     "fr": [
       { "id": "i_like_tennis", "emoji": "👍", "text": "J'aime le tennis.", "sound": "J'aime le tennis." },
@@ -140,12 +140,12 @@
     },
     "ja": {
       "title": "ゴードン・ウィルソン",
-      "content": "👨 こんにちは！私の名前はゴードン・ウィルソンです。🏴 私はスコットランドのアバディーン出身ですが、今はロンドンに住んで働いています。🏠 私は中心部の近くにとても小さなアパートを持っています。🍽️ 私はウェイターで、同時に演劇の学生でもあります。🇮🇹 私はイタリア料理店で働いています。🍝 イタリア料理を食べ、イタリアとフランスのワインを飲みます。🍺 ビールは飲みません。好きじゃないからです。⚽ そしてスポーツはしません。🗣️ 私は三つの言語を話します – 英語、フランス語、そして少しイタリア語です。🎭 私は俳優になりたいです。",
-      "question": "ゴードンの仕事は何ですか？",
+      "content": "👨 こんにちは！わたしのなまえはゴードン・ウィルソンです。🏴 わたしはスコットランドのアバディーンしゅっしんですが、いまはロンドンにすんではたらいています。🏠 わたしはちゅうしんぶのちかくにとてもちいさなアパートをもっています。🍽️ わたしはウェイターで、どうじにえんげきのがくせいでもあります。🇮🇹 わたしはイタリアりょうりてんではたらいています。🍝 イタリアりょうりをたべ、イタリアとフランスのワインをのみます。🍺 ビールはのみません。すきじゃないからです。⚽ そしてすぽーつはしません。🗣️ わたしはみっつのげんごをはなします – えいご、フランスご、そしてすこしイタリアごです。🎭 わたしははいゆうになりたいです。",
+      "question": "ゴードンのしごとはなんですか？",
       "options": [
         { "text": "ウェイター", "emoji": "🍽️", "correct": true },
-        { "text": "医者", "emoji": "👨‍⚕️", "correct": false },
-        { "text": "先生", "emoji": "👨‍🏫", "correct": false }
+        { "text": "いしゃ", "emoji": "👨‍⚕️", "correct": false },
+        { "text": "せんせい", "emoji": "👨‍🏫", "correct": false }
       ]
     },
     "fr": {
@@ -191,17 +191,17 @@
     "ja": [
       {
         "type": "match",
-        "instruction": "スポーツと単語を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "instruction": "すぽーつとたんごをあわせましょう！ 🖐️ どらっぐ＆どろっぷ！",
         "pairs": [
           { "emoji": "🎾", "word": "テニス" },
           { "emoji": "⚽", "word": "サッカー" },
-          { "emoji": "🏊", "word": "水泳" },
+          { "emoji": "🏊", "word": "すいえい" },
           { "emoji": "⛷️", "word": "スキー" }
         ]
       },
       {
         "type": "find",
-        "question": "テニスボールを見つけてください！ 🎾",
+        "question": "テニスボールをみつけてください！ 🎾",
         "target": "🎾",
         "options": ["🎾", "⚽", "🏊", "⛷️"]
       }
@@ -246,19 +246,19 @@
   "grammar": {
     "en": {
       "title": "Grammar Spot",
-      "content": "• Positive: I like tennis.\n• Negative: I don't like football.\n• don't = do not\n• Question: Do you like tennis?\n• Short answer: Yes, I do. / No, I don't.\n• a small flat / an actor / a waiter / an Italian restaurant"
+      "content": "Let's learn 5 grammar points today!\n\n【1. I like / I don't like】\nUse 'I like' for things you enjoy. Use 'I don't like' for things you don't enjoy.\nExample: I like tennis.\nExample: I don't like football.\n\n【2. Do you like...?】\nAsk 'Do you like...?' to ask about someone's likes.\nExample: Do you like tennis? → Yes, I do. / No, I don't.\n\n【3. I live / I work】\nUse 'I live' to talk about where you live. Use 'I work' to talk about your job.\nExample: I live in London.\nExample: I work in a restaurant.\n\n【4. a / an】\nUse 'a' before words that start with a consonant sound. Use 'an' before words that start with a vowel sound.\nExample: I'm a waiter. (waiter starts with 'w')\nExample: I'm an actor. (actor starts with 'a')\n\n【5. I speak / I eat / I drink】\nUse 'I speak' for languages. Use 'I eat' for food. Use 'I drink' for drinks.\nExample: I speak English.\nExample: I eat pizza.\nExample: I drink tea."
     },
     "ja": {
-      "title": "文法のポイント",
-      "content": "• 肯定文: I like tennis.（テニスが好きです。）\n• 否定文: I don't like football.（サッカーは好きじゃありません。）\n• don't = do not\n• 疑問文: Do you like tennis?（テニスは好きですか？）\n• 短い答え: Yes, I do. / No, I don't.\n• a small flat（小さなアパート）/ an actor（俳優）/ a waiter（ウェイター）/ an Italian restaurant（イタリア料理店）"
+      "title": "ぶんぽう ぽいんと",
+      "content": "きょうは ４つの ぶんぽうを まなびましょう！\n\n【１．『すきです』と『すきじゃありません』】\nすきな もの には 『すきです』 を、すきじゃない もの には 『すきじゃありません』 を つかいます。\nれい： テニスが すきです。\nれい： サッカーは すきじゃありません。\n\n【２．『～は すきですか？』】\nだれかの すきな ものを きく とき は 『～は すきですか？』 と ききます。\nれい： テニスは すきですか？ → はい、すきです。／いいえ、すきじゃありません。\n\n【３．『すんでいます』と『はたらいています』】\nすんでいる ばしょ を はなす とき は 『すんでいます』 を、しごと を はなす とき は 『はたらいています』 を つかいます。\nれい： ロンドンに すんでいます。\nれい： レストランで はたらいています。\n\n【４．『はなします』『たべます』『のみます』】\nげんご には 『はなします』 を、たべもの には 『たべます』 を、のみもの には 『のみます』 を つかいます。\nれい： えいごを はなします。\nれい： ピザを たべます。\nれい： おちゃを のみます。"
     },
     "fr": {
-      "title": "Point de Grammaire",
-      "content": "• Positif: I like tennis.\n• Négatif: I don't like football.\n• don't = do not\n• Question: Do you like tennis?\n• Réponse courte: Yes, I do. / No, I don't.\n• a small flat / an actor / a waiter / an Italian restaurant"
+      "title": "Point de grammaire",
+      "content": "Apprenons 5 points de grammaire aujourd'hui !\n\n【1. J'aime / Je n'aime pas】\nUtilisez 'j'aime' pour les choses que vous aimez. Utilisez 'je n'aime pas' pour les choses que vous n'aimez pas.\nExemple : J'aime le tennis.\nExemple : Je n'aime pas le football.\n\n【2. Tu aimes... ?】\nDemandez 'Tu aimes... ?' pour savoir ce que quelqu'un aime.\nExemple : Tu aimes le tennis ? → Oui, j'aime. / Non, je n'aime pas.\n\n【3. J'habite / Je travaille】\nUtilisez 'j'habite' pour parler de votre lieu d'habitation. Utilisez 'je travaille' pour parler de votre métier.\nExemple : J'habite à Londres.\nExemple : Je travaille dans un restaurant.\n\n【4. Un / Une】\nUtilisez 'un' pour les noms masculins. Utilisez 'une' pour les noms féminins.\nExemple : Je suis un serveur. (serveur est masculin)\nExemple : Je suis une actrice. (actrice est féminin)\n\n【5. Je parle / Je mange / Je bois】\nUtilisez 'je parle' pour les langues. Utilisez 'je mange' pour la nourriture. Utilisez 'je bois' pour les boissons.\nExemple : Je parle anglais.\nExemple : Je mange de la pizza.\nExemple : Je bois du thé."
     },
     "ko": {
       "title": "문법 포인트",
-      "content": "• 긍정문: I like tennis. (나는 테니스를 좋아합니다.)\n• 부정문: I don't like football. (나는 축구를 좋아하지 않습니다.)\n• don't = do not\n• 의문문: Do you like tennis? (테니스를 좋아하세요?)\n• 짧은 답변: Yes, I do. / No, I don't.\n• a small flat (작은 아파트) / an actor (배우) / a waiter (웨이터) / an Italian restaurant (이탈리아 레스토랑)"
+      "content": "오늘은 4개의 문법을 배워볼게요!\n\n【1. '좋아합니다'와 '좋아하지 않습니다'】\n좋아하는 것에는 '좋아합니다'를, 좋아하지 않는 것에는 '좋아하지 않습니다'를 사용해요.\n예: 테니스를 좋아합니다.\n예: 축구를 좋아하지 않습니다.\n\n【2. '~을 좋아하세요?'】\n다른 사람이 무엇을 좋아하는지 물을 때는 '~을 좋아하세요?'라고 물어요.\n예: 테니스를 좋아하세요? → 네, 좋아합니다. / 아니요, 좋아하지 않습니다.\n\n【3. '삽니다'와 '일합니다'】\n사는 곳을 말할 때는 '삽니다'를, 직업을 말할 때는 '일합니다'를 사용해요.\n예: 런던에 삽니다.\n예: 레스토랑에서 일합니다.\n\n【4. '말합니다' '먹습니다' '마십니다'】\n언어에는 '말합니다'를, 음식에는 '먹습니다'를, 음료에는 '마십니다'를 사용해요.\n예: 영어를 말합니다.\n예: 피자를 먹습니다.\n예: 차를 마십니다."
     }
   },
   "practice_conversations": {
@@ -296,29 +296,29 @@
       {
         "title": "ゴードン・ウィルソンについて",
         "lines": [
-          { "speaker": "A", "text": "スコットランド出身ですか？" },
+          { "speaker": "A", "text": "スコットランドしゅっしんですか？" },
           { "speaker": "B", "text": "はい、そうです。" },
-          { "speaker": "A", "text": "アバディーンに住んでいますか？" },
-          { "speaker": "B", "text": "いいえ、違います。ロンドンに住んでいます。" },
-          { "speaker": "A", "text": "中華料理店で働いていますか？" },
-          { "speaker": "B", "text": "いいえ、違います。イタリア料理店で働いています。" },
-          { "speaker": "A", "text": "ビールを飲みますか？" },
-          { "speaker": "B", "text": "いいえ、飲みません。ビールは好きじゃありません。" }
+          { "speaker": "A", "text": "アバディーンにすんでいますか？" },
+          { "speaker": "B", "text": "いいえ、ちがいます。ロンドンにすんでいます。" },
+          { "speaker": "A", "text": "ちゅうかりょうりてんではたらいていますか？" },
+          { "speaker": "B", "text": "いいえ、ちがいます。イタリアりょうりてんではたらいています。" },
+          { "speaker": "A", "text": "ビールをのみますか？" },
+          { "speaker": "B", "text": "いいえ、のみません。ビールはすきじゃありません。" }
         ]
       },
       {
-        "title": "パーティーで",
+        "title": "ぱーてぃーで",
         "lines": [
-          { "speaker": "A", "text": "ロンドンで働いていますか？" },
-          { "speaker": "B", "text": "はい、働いています。" },
-          { "speaker": "A", "text": "ロンドンに住んでいますか？" },
-          { "speaker": "B", "text": "はい、住んでいます。" },
-          { "speaker": "A", "text": "俳優ですか？" },
+          { "speaker": "A", "text": "ロンドンではたらいていますか？" },
+          { "speaker": "B", "text": "はい、はたらいています。" },
+          { "speaker": "A", "text": "ロンドンにすんでいますか？" },
+          { "speaker": "B", "text": "はい、すんでいます。" },
+          { "speaker": "A", "text": "はいゆうですか？" },
           { "speaker": "B", "text": "はい、そうです。" },
-          { "speaker": "A", "text": "英語がとても上手ですね。" },
+          { "speaker": "A", "text": "えいごがとてもじょうずですね。" },
           { "speaker": "B", "text": "ありがとうございます！" },
-          { "speaker": "A", "text": "イタリアは好きですか？" },
-          { "speaker": "B", "text": "はい、イタリアが大好きです！" }
+          { "speaker": "A", "text": "イタリアはすきですか？" },
+          { "speaker": "B", "text": "はい、イタリアがだいすきです！" }
         ]
       }
     ],
@@ -390,9 +390,9 @@
       { "id": "do_you_like", "emoji": "❓", "expression": "Do you like...?", "hint": "asking", "response": "Yes, I do. / No, I don't." }
     ],
     "ja": [
-      { "id": "i_like", "emoji": "👍", "expression": "好きです", "hint": "肯定", "response": "私も！" },
-      { "id": "i_dont_like", "emoji": "👎", "expression": "好きじゃありません", "hint": "否定", "response": "あ、そうですか？" },
-      { "id": "do_you_like", "emoji": "❓", "expression": "〜は好きですか？", "hint": "質問", "response": "はい、好きです。／いいえ、好きじゃありません。" }
+      { "id": "i_like", "emoji": "👍", "expression": "すきです", "hint": "こうてい", "response": "わたしも！" },
+      { "id": "i_dont_like", "emoji": "👎", "expression": "すきじゃありません", "hint": "ひてい", "response": "あ、そうですか？" },
+      { "id": "do_you_like", "emoji": "❓", "expression": "〜はすきですか？", "hint": "しつもん", "response": "はい、すきです。／いいえ、すきじゃありません。" }
     ],
     "fr": [
       { "id": "i_like", "emoji": "👍", "expression": "J'aime ça", "hint": "positif", "response": "Moi aussi !" },
@@ -493,48 +493,48 @@
   },
   "prices": {
     "en": [
-    { "price": "30p", "word": "thirty p", "emoji": "🪙" },
-    { "price": "50p", "word": "fifty p", "emoji": "🪙" },
-    { "price": "75p", "word": "seventy-five p", "emoji": "🪙" },
-    { "price": "£1", "word": "one pound", "emoji": "💷" },
-    { "price": "£20", "word": "twenty pounds", "emoji": "💷" },
-    { "price": "£75", "word": "seventy-five pounds", "emoji": "💷" },
-    { "price": "£1.60", "word": "one pound sixty", "emoji": "💷" },
-    { "price": "£3.45", "word": "three pounds forty-five", "emoji": "💷" },
-    { "price": "£22.80", "word": "twenty-two pounds eighty", "emoji": "💷" }
-  ],
-  "fr": [
-    { "price": "0,30€", "word": "trente centimes", "emoji": "🪙" },
-    { "price": "0,50€", "word": "cinquante centimes", "emoji": "🪙" },
-    { "price": "0,75€", "word": "soixante-quinze centimes", "emoji": "🪙" },
-    { "price": "1€", "word": "un euro", "emoji": "💶" },
-    { "price": "20€", "word": "vingt euros", "emoji": "💶" },
-    { "price": "75€", "word": "soixante-quinze euros", "emoji": "💶" },
-    { "price": "1,60€", "word": "un euro soixante", "emoji": "💶" },
-    { "price": "3,45€", "word": "trois euros quarante-cinq", "emoji": "💶" },
-    { "price": "22,80€", "word": "vingt-deux euros quatre-vingts", "emoji": "💶" }
-  ],
-  "ja": [
-    { "price": "30円", "word": "さんじゅうえん", "emoji": "🪙" },
-    { "price": "50円", "word": "ごじゅうえん", "emoji": "🪙" },
-    { "price": "75円", "word": "ななじゅうごえん", "emoji": "🪙" },
-    { "price": "100円", "word": "ひゃくえん", "emoji": "💴" },
-    { "price": "2000円", "word": "にせんえん", "emoji": "💴" },
-    { "price": "7500円", "word": "ななせんごひゃくえん", "emoji": "💴" },
-    { "price": "160円", "word": "ひゃくろくじゅうえん", "emoji": "💴" },
-    { "price": "345円", "word": "さんびゃくよんじゅうごえん", "emoji": "💴" },
-    { "price": "2280円", "word": "にせんにひゃくはちじゅうえん", "emoji": "💴" }
-  ],
-  "ko": [
-  { "price": "30원", "word": "삼십 원", "emoji": "🪙" },
-  { "price": "50원", "word": "오십 원", "emoji": "🪙" },
-  { "price": "75원", "word": "칠십오 원", "emoji": "🪙" },
-  { "price": "1,000원", "word": "천 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
-  { "price": "20,000원", "word": "이만 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
-  { "price": "75,000원", "word": "칠만오천 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
-  { "price": "1,600원", "word": "천육백 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
-  { "price": "3,450원", "word": "삼천사백오십 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
-  { "price": "22,800원", "word": "이만이천팔백 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" }
-]
+      { "price": "30p", "word": "thirty p", "emoji": "🪙" },
+      { "price": "50p", "word": "fifty p", "emoji": "🪙" },
+      { "price": "75p", "word": "seventy-five p", "emoji": "🪙" },
+      { "price": "£1", "word": "one pound", "emoji": "💷" },
+      { "price": "£20", "word": "twenty pounds", "emoji": "💷" },
+      { "price": "£75", "word": "seventy-five pounds", "emoji": "💷" },
+      { "price": "£1.60", "word": "one pound sixty", "emoji": "💷" },
+      { "price": "£3.45", "word": "three pounds forty-five", "emoji": "💷" },
+      { "price": "£22.80", "word": "twenty-two pounds eighty", "emoji": "💷" }
+    ],
+    "fr": [
+      { "price": "0,30€", "word": "trente centimes", "emoji": "🪙" },
+      { "price": "0,50€", "word": "cinquante centimes", "emoji": "🪙" },
+      { "price": "0,75€", "word": "soixante-quinze centimes", "emoji": "🪙" },
+      { "price": "1€", "word": "un euro", "emoji": "💶" },
+      { "price": "20€", "word": "vingt euros", "emoji": "💶" },
+      { "price": "75€", "word": "soixante-quinze euros", "emoji": "💶" },
+      { "price": "1,60€", "word": "un euro soixante", "emoji": "💶" },
+      { "price": "3,45€", "word": "trois euros quarante-cinq", "emoji": "💶" },
+      { "price": "22,80€", "word": "vingt-deux euros quatre-vingts", "emoji": "💶" }
+    ],
+    "ja": [
+      { "price": "30えん", "word": "さんじゅうえん", "emoji": "🪙" },
+      { "price": "50えん", "word": "ごじゅうえん", "emoji": "🪙" },
+      { "price": "75えん", "word": "ななじゅうごえん", "emoji": "🪙" },
+      { "price": "100えん", "word": "ひゃくえん", "emoji": "💴" },
+      { "price": "2000えん", "word": "にせんえん", "emoji": "💴" },
+      { "price": "7500えん", "word": "ななせんごひゃくえん", "emoji": "💴" },
+      { "price": "160えん", "word": "ひゃくろくじゅうえん", "emoji": "💴" },
+      { "price": "345えん", "word": "さんびゃくよんじゅうごえん", "emoji": "💴" },
+      { "price": "2280えん", "word": "にせんにひゃくはちじゅうえん", "emoji": "💴" }
+    ],
+    "ko": [
+      { "price": "30원", "word": "삼십 원", "emoji": "🪙" },
+      { "price": "50원", "word": "오십 원", "emoji": "🪙" },
+      { "price": "75원", "word": "칠십오 원", "emoji": "🪙" },
+      { "price": "1,000원", "word": "천 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
+      { "price": "20,000원", "word": "이만 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
+      { "price": "75,000원", "word": "칠만오천 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
+      { "price": "1,600원", "word": "천육백 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
+      { "price": "3,450원", "word": "삼천사백오십 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" },
+      { "price": "22,800원", "word": "이만이천팔백 원", "svg": "<svg width='40' height='40' viewBox='0 0 40 40'><rect x='4' y='6' width='32' height='28' rx='4' fill='#27ae60' stroke='#1e8449' stroke-width='1.5'/><rect x='7' y='9' width='26' height='22' rx='2' fill='none' stroke='rgba(255,255,255,0.3)' stroke-width='1'/><text x='12' y='26' text-anchor='middle' font-size='18' font-weight='bold' font-family='Arial, sans-serif' fill='#ffffff'>₩</text><text x='20' y='10' text-anchor='middle' font-size='6' fill='rgba(255,255,255,0.4)'>★</text></svg>" }
+    ]
   }
 }

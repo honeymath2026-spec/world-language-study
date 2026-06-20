@@ -246,7 +246,7 @@
     }
   },
   "irregular_verbs": {
-    "en": [
+        "en": [
       { "infinitive": "go", "past": "went", "emoji": "🏃" },
       { "infinitive": "see", "past": "saw", "emoji": "👀" },
       { "infinitive": "buy", "past": "bought", "emoji": "🛒" },
@@ -256,89 +256,89 @@
       { "infinitive": "think", "past": "thought", "emoji": "💭" }
     ],
     "ja": [
-      { "infinitive": "go", "past": "went", "emoji": "🏃" },
-      { "infinitive": "see", "past": "saw", "emoji": "👀" },
-      { "infinitive": "buy", "past": "bought", "emoji": "🛒" },
-      { "infinitive": "take", "past": "took", "emoji": "🤲" },
-      { "infinitive": "say", "past": "said", "emoji": "💬" },
-      { "infinitive": "sell", "past": "sold", "emoji": "💰" },
-      { "infinitive": "think", "past": "thought", "emoji": "💭" }
+      { "infinitive": "行く", "past": "行った", "emoji": "🏃" },
+      { "infinitive": "見る", "past": "見た", "emoji": "👀" },
+      { "infinitive": "買う", "past": "買った", "emoji": "🛒" },
+      { "infinitive": "取る", "past": "取った", "emoji": "🤲" },
+      { "infinitive": "言う", "past": "言った", "emoji": "💬" },
+      { "infinitive": "売る", "past": "売った", "emoji": "💰" },
+      { "infinitive": "思う", "past": "思った", "emoji": "💭" }
     ],
     "fr": [
-      { "infinitive": "go", "past": "went", "emoji": "🏃" },
-      { "infinitive": "see", "past": "saw", "emoji": "👀" },
-      { "infinitive": "buy", "past": "bought", "emoji": "🛒" },
-      { "infinitive": "take", "past": "took", "emoji": "🤲" },
-      { "infinitive": "say", "past": "said", "emoji": "💬" },
-      { "infinitive": "sell", "past": "sold", "emoji": "💰" },
-      { "infinitive": "think", "past": "thought", "emoji": "💭" }
+      { "infinitive": "aller", "past": "allé", "emoji": "🏃" },
+      { "infinitive": "voir", "past": "vu", "emoji": "👀" },
+      { "infinitive": "acheter", "past": "acheté", "emoji": "🛒" },
+      { "infinitive": "prendre", "past": "pris", "emoji": "🤲" },
+      { "infinitive": "dire", "past": "dit", "emoji": "💬" },
+      { "infinitive": "vendre", "past": "vendu", "emoji": "💰" },
+      { "infinitive": "penser", "past": "pensé", "emoji": "💭" }
     ],
     "ko": [
-      { "infinitive": "go", "past": "went", "emoji": "🏃" },
-      { "infinitive": "see", "past": "saw", "emoji": "👀" },
-      { "infinitive": "buy", "past": "bought", "emoji": "🛒" },
-      { "infinitive": "take", "past": "took", "emoji": "🤲" },
-      { "infinitive": "say", "past": "said", "emoji": "💬" },
-      { "infinitive": "sell", "past": "sold", "emoji": "💰" },
-      { "infinitive": "think", "past": "thought", "emoji": "💭" }
+      { "infinitive": "가다", "past": "갔다", "emoji": "🏃" },
+      { "infinitive": "보다", "past": "봤다", "emoji": "👀" },
+      { "infinitive": "사다", "past": "샀다", "emoji": "🛒" },
+      { "infinitive": "가지다", "past": "가졌다", "emoji": "🤲" },
+      { "infinitive": "말하다", "past": "말했다", "emoji": "💬" },
+      { "infinitive": "팔다", "past": "팔았다", "emoji": "💰" },
+      { "infinitive": "생각하다", "past": "생각했다", "emoji": "💭" }
     ]
   },
   "months": {
-    "en": [
-      { "month": "January", "emoji": "📅", "number": 1 },
-      { "month": "February", "emoji": "📅", "number": 2 },
-      { "month": "March", "emoji": "📅", "number": 3 },
-      { "month": "April", "emoji": "📅", "number": 4 },
-      { "month": "May", "emoji": "📅", "number": 5 },
-      { "month": "June", "emoji": "📅", "number": 6 },
-      { "month": "July", "emoji": "📅", "number": 7 },
-      { "month": "August", "emoji": "📅", "number": 8 },
-      { "month": "September", "emoji": "📅", "number": 9 },
-      { "month": "October", "emoji": "📅", "number": 10 },
-      { "month": "November", "emoji": "📅", "number": 11 },
-      { "month": "December", "emoji": "📅", "number": 12 }
+        "en": [
+      { "month": "January", "emoji": "🗓️", "number": 1 },
+      { "month": "February", "emoji": "🗓️", "number": 2 },
+      { "month": "March", "emoji": "🗓️", "number": 3 },
+      { "month": "April", "emoji": "🗓️", "number": 4 },
+      { "month": "May", "emoji": "🗓️", "number": 5 },
+      { "month": "June", "emoji": "🗓️", "number": 6 },
+      { "month": "July", "emoji": "🗓️", "number": 7 },
+      { "month": "August", "emoji": "🗓️", "number": 8 },
+      { "month": "September", "emoji": "🗓️", "number": 9 },
+      { "month": "October", "emoji": "🗓️", "number": 10 },
+      { "month": "November", "emoji": "🗓️", "number": 11 },
+      { "month": "December", "emoji": "🗓️", "number": 12 }
     ],
     "ja": [
-      { "month": "1月", "emoji": "📅", "number": 1 },
-      { "month": "2月", "emoji": "📅", "number": 2 },
-      { "month": "3月", "emoji": "📅", "number": 3 },
-      { "month": "4月", "emoji": "📅", "number": 4 },
-      { "month": "5月", "emoji": "📅", "number": 5 },
-      { "month": "6月", "emoji": "📅", "number": 6 },
-      { "month": "7月", "emoji": "📅", "number": 7 },
-      { "month": "8月", "emoji": "📅", "number": 8 },
-      { "month": "9月", "emoji": "📅", "number": 9 },
-      { "month": "10月", "emoji": "📅", "number": 10 },
-      { "month": "11月", "emoji": "📅", "number": 11 },
-      { "month": "12月", "emoji": "📅", "number": 12 }
+      { "month": "1月", "emoji": "🗓️", "number": 1 },
+      { "month": "2月", "emoji": "🗓️", "number": 2 },
+      { "month": "3月", "emoji": "🗓️", "number": 3 },
+      { "month": "4月", "emoji": "🗓️", "number": 4 },
+      { "month": "5月", "emoji": "🗓️", "number": 5 },
+      { "month": "6月", "emoji": "🗓️", "number": 6 },
+      { "month": "7月", "emoji": "🗓️", "number": 7 },
+      { "month": "8月", "emoji": "🗓️", "number": 8 },
+      { "month": "9月", "emoji": "🗓️", "number": 9 },
+      { "month": "10月", "emoji": "🗓️", "number": 10 },
+      { "month": "11月", "emoji": "🗓️", "number": 11 },
+      { "month": "12月", "emoji": "🗓️", "number": 12 }
     ],
     "fr": [
-      { "month": "janvier", "emoji": "📅", "number": 1 },
-      { "month": "février", "emoji": "📅", "number": 2 },
-      { "month": "mars", "emoji": "📅", "number": 3 },
-      { "month": "avril", "emoji": "📅", "number": 4 },
-      { "month": "mai", "emoji": "📅", "number": 5 },
-      { "month": "juin", "emoji": "📅", "number": 6 },
-      { "month": "juillet", "emoji": "📅", "number": 7 },
-      { "month": "août", "emoji": "📅", "number": 8 },
-      { "month": "septembre", "emoji": "📅", "number": 9 },
-      { "month": "octobre", "emoji": "📅", "number": 10 },
-      { "month": "novembre", "emoji": "📅", "number": 11 },
-      { "month": "décembre", "emoji": "📅", "number": 12 }
+      { "month": "janvier", "emoji": "🗓️", "number": 1 },
+      { "month": "février", "emoji": "🗓️", "number": 2 },
+      { "month": "mars", "emoji": "🗓️", "number": 3 },
+      { "month": "avril", "emoji": "🗓️", "number": 4 },
+      { "month": "mai", "emoji": "🗓️", "number": 5 },
+      { "month": "juin", "emoji": "🗓️", "number": 6 },
+      { "month": "juillet", "emoji": "🗓️", "number": 7 },
+      { "month": "août", "emoji": "🗓️", "number": 8 },
+      { "month": "septembre", "emoji": "🗓️", "number": 9 },
+      { "month": "octobre", "emoji": "🗓️", "number": 10 },
+      { "month": "novembre", "emoji": "🗓️", "number": 11 },
+      { "month": "décembre", "emoji": "🗓️", "number": 12 }
     ],
     "ko": [
-      { "month": "1월", "emoji": "📅", "number": 1 },
-      { "month": "2월", "emoji": "📅", "number": 2 },
-      { "month": "3월", "emoji": "📅", "number": 3 },
-      { "month": "4월", "emoji": "📅", "number": 4 },
-      { "month": "5월", "emoji": "📅", "number": 5 },
-      { "month": "6월", "emoji": "📅", "number": 6 },
-      { "month": "7월", "emoji": "📅", "number": 7 },
-      { "month": "8월", "emoji": "📅", "number": 8 },
-      { "month": "9월", "emoji": "📅", "number": 9 },
-      { "month": "10월", "emoji": "📅", "number": 10 },
-      { "month": "11월", "emoji": "📅", "number": 11 },
-      { "month": "12월", "emoji": "📅", "number": 12 }
+      { "month": "1월", "emoji": "🗓️", "number": 1 },
+      { "month": "2월", "emoji": "🗓️", "number": 2 },
+      { "month": "3월", "emoji": "🗓️", "number": 3 },
+      { "month": "4월", "emoji": "🗓️", "number": 4 },
+      { "month": "5월", "emoji": "🗓️", "number": 5 },
+      { "month": "6월", "emoji": "🗓️", "number": 6 },
+      { "month": "7월", "emoji": "🗓️", "number": 7 },
+      { "month": "8월", "emoji": "🗓️", "number": 8 },
+      { "month": "9월", "emoji": "🗓️", "number": 9 },
+      { "month": "10월", "emoji": "🗓️", "number": 10 },
+      { "month": "11월", "emoji": "🗓️", "number": 11 },
+      { "month": "12월", "emoji": "🗓️", "number": 12 }
     ]
   },
   "ordinal_numbers": {

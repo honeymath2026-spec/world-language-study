@@ -115,8 +115,17 @@
             margin: 20px 0;
         }
         /* Picture Dictionary 카드 스타일 수정 */
+
+        .picture-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
 .picture-card {
     background: #ffffff;
+    width: 220px;
+    flex-shrink: 0;
     border-radius: 40px;
     padding: 25px 15px 20px;
     text-align: center;
@@ -571,6 +580,7 @@ section.reference .picture-word {
     display: inline-block;
 }
 
+
 /* 질문 박스 */
 .story-question {
     background: #ffffff;
@@ -938,6 +948,19 @@ section.reference .picture-word {
     height: 60px;
 }
 
+/* 가격 그리드 - 카드가 겹치지 않도록 */
+#prices .picture-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 20px;
+}
+
+/* 가격 카드 - 너비 고정 해제 */
+#prices .picture-card {
+    width: 100%;
+    margin: 0;
+}
+
 
 
         @media (max-width: 768px) {
@@ -1136,10 +1159,28 @@ function getNavLabels(lang) {
             practice: '💬 Practice Conversations',
             family: '👨‍👩‍👦 Family',
             social: '💬 Social',
-            phone_title: '📞 On the Phone',
+            phone: '📞 On the Phone',
             alphabet: '🔤 Alphabet',
             directions: '🧭 Directions',
+            prices: '💰 Prices',
+            days: '📅 Days of the Week',
+            time_prepositions: '⏰ Prepositions',
+            adjectives: '📝 Adjectives',
+            can_i: '🙋 Can I...?',
+            prepositions: '📍 Prepositions',
+            holiday: '🌴 Holidays',
+            forms: '📝 Forms',
+            requests: '🙋 Requests & Offers',
+            internet: '🌐 Internet',
+            clothes: '👕 Clothes',
+            restaurant: '🍽️ Restaurant',
+            transport: '🚗 Transport',
+            everyday: '💬 Everyday English',
+            irregular_verbs: '📝 Irregular Verbs',
+            months: '🗓️ Months',
+            ordinal_numbers: '🔢 Ordinal Numbers',
             reference: '📚 Reference'
+            
             
         },
         ja: {
@@ -1152,9 +1193,26 @@ function getNavLabels(lang) {
             practice: '💬 れんしゅうかいわ',
             family: '👨‍👩‍👦 かぞく',
             social: '💬 かいわ',
-            phone_title: '📞 でんわ',
-            alphabet: '🔤 アルファベット',
+            phone: '📞 でんわ',
+            alphabet: '🔤 ごじゅうおん',
             directions: '🧭 道案内',
+            prices: '💰 かかく',
+            days: '📅 ようび',
+            time_prepositions: '⏰ じょし',
+            adjectives: '📝 けいようし',
+            can_i: '🙋 ～してもいい？',
+            prepositions: '📍 いち',
+            holiday: '🌴 きゅうか',
+            forms: '📝 しんせいしょ',
+            requests: '🙋 いらい＆ていあん',
+            internet: '🌐 インターネット',
+            clothes: '👕 ふく',
+            restaurant: '🍽️ レストラン',
+            transport: '🚗 こうつう',
+            everyday: '💬 にちじょうえいご',
+            irregular_verbs: '📝 不規則動詞',
+            months: '🗓️ 月',
+            ordinal_numbers: '🔢 序数',
             reference: '📚 さんこう'
         },
         fr: {
@@ -1167,10 +1225,28 @@ function getNavLabels(lang) {
             practice: '💬 Conversations pratiques',
             family: '👨‍👩‍👦 Famille',
             social: '💬 Social',
-            phone_title: '📞 Au téléphone',
+            phone: '📞 Au téléphone',
             alphabet: '🔤 Alphabet',
             directions: '🧭 Indications',
+            prices: '💰 Prix',
+            days: '📅 Jours de la semaine',
+            time_prepositions: '⏰ Prépositions',
+            adjectives: '📝 Adjectifs',
+            can_i: '🙋 Puis-je...?',
+            prepositions: '📍 Prépositions',
+            holiday: '🌴 Vacances',
+            forms: '📝 Formulaires',
+            requests: '🙋 Demandes & Offres',
+            internet: '🌐 Internet',
+            clothes: '👕 Vêtements',
+            restaurant: '🍽️ Restaurant',
+            transport: '🚗 Transport',
+            everyday: '💬 Anglais quotidien',
+            irregular_verbs: '📝 Verbes irréguliers',
+            months: '🗓️ Mois',
+            ordinal_numbers: '🔢 Nombres ordinaux',
             reference: '📚 Référence'
+            
         },
         ko: {
             dictionary: '📖 그림 사전',
@@ -1182,9 +1258,26 @@ function getNavLabels(lang) {
             practice: '💬 대화 연습',
             family: '👨‍👩‍👦 가족',
             social: '💬 사회적 표현',
-            phone_title: '📞 전화',
-            alphabet: '🔤 알파벳', 
+            phone: '📞 전화',
+            alphabet: '🔤 한글 자모음', 
             directions: '🧭 길 안내',
+            prices: '💰 가격',
+            days: '📅 요일',
+            time_prepositions: '⏰ 시간 전치사',
+            adjectives: '📝 형용사',
+            can_i: '🙋 ~해도 될까요?',
+            prepositions: '📍 위치 전치사',
+            holiday: '🌴 휴가',
+            forms: '📝 신청서',
+            requests: '🙋 요청과 제안',
+            internet: '🌐 인터넷',
+            clothes: '👕 옷',
+            restaurant: '🍽️ 레스토랑',
+            transport: '🚗 교통',
+            everyday: '💬 일상 영어',
+            irregular_verbs: '📝 불규칙 동사',
+            months: '🗓️ 월',
+            ordinal_numbers: '🔢 서수',
             reference: '📚 참고'
         }
     };
@@ -1507,6 +1600,9 @@ function renderPage(unit) {
     const restaurant_menu = unit.restaurant_menu?.[lang] || unit.restaurant_menu?.['en'] || null;
     const clothes_vocab = unit.clothes_vocabulary?.[lang] || unit.clothes_vocabulary?.['en'] || null;
     const transport_vocab = unit.transport_vocabulary?.[lang] || unit.transport_vocabulary?.['en'] || null;
+    const irregular_verbs = unit.irregular_verbs?.[lang] || unit.irregular_verbs?.['en'] || [];
+    const months = unit.months?.[lang] || unit.months?.['en'] || [];
+    const ordinal_numbers = unit.ordinal_numbers?.[lang] || unit.ordinal_numbers?.['en'] || [];
 
 
 
@@ -1554,6 +1650,10 @@ if (transport_vocab) refNav.push({ id: 'transport', label: navLabels.transport }
 if (everydayData && (everydayData.title || everydayData.phrases || everydayData.conversations || everydayData.problems || everydayData.conversation)) {
     refNav.push({ id: 'everyday', label: navLabels.everyday });
 }
+if (irregular_verbs.length > 0) refNav.push({ id: 'irregular-verbs', label: navLabels.irregular_verbs });
+if (months.length > 0) refNav.push({ id: 'months', label: navLabels.months });
+if (ordinal_numbers.length > 0) refNav.push({ id: 'ordinal-numbers', label: navLabels.ordinal_numbers });
+
 
     // 네비게이션 HTML 생성
     let navHtml = mainNav.map(item => 
@@ -1786,13 +1886,13 @@ if (grammar.title && grammar.content) {
             currentExamples.push(text);
         } 
         // 그 외는 설명 (포인트 안에 있을 때)
-        else if (inPoint) {
-            if (currentDesc) {
-                currentDesc += ' ' + text;
-            } else {
-                currentDesc = text;
-            }
-        }
+else if (inPoint) {
+    if (currentDesc) {
+        currentDesc += '\n' + text;  // ✅ 공백 대신 \n 추가
+    } else {
+        currentDesc = text;
+    }
+}
         // 포인트가 아닌 일반 텍스트
         else {
             itemsHtml += `<div class="grammar-item" style="justify-content:center;background:#f8f4ec;border-style:dashed;">
@@ -1807,32 +1907,33 @@ if (grammar.title && grammar.content) {
     }
     
     // 포인트 빌드 함수 (기존 CSS 클래스 사용)
-    function buildGrammarPoint(title, desc, examples) {
-        var html = `<div class="grammar-item" style="flex-direction:column;align-items:flex-start;gap:8px;padding:20px 28px;">`;
-        
-        // 제목
-        html += `<div style="font-size:2rem;font-weight:800;color:#e67e22;display:flex;align-items:center;gap:10px;">
-            <span>⭐</span>
-            <span>${title}</span>
-        </div>`;
-        
-        // 설명
-        if (desc) {
-            html += `<div class="g-text" style="font-size:1.6rem;font-weight:500;padding-left:0;">${desc}</div>`;
-        }
-        
-        // 예문들
-        if (examples.length > 0) {
-            html += `<div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:4px;">`;
-            examples.forEach(function(ex) {
-                html += `<span class="g-example" style="font-size:1.5rem;">${ex}</span>`;
-            });
-            html += `</div>`;
-        }
-        
-        html += `</div>`;
-        return html;
+function buildGrammarPoint(title, desc, examples) {
+    var html = `<div class="grammar-item" style="flex-direction:column;align-items:flex-start;gap:8px;padding:20px 28px;">`;
+    
+    // 제목
+    html += `<div style="font-size:2rem;font-weight:800;color:#e67e22;display:flex;align-items:center;gap:10px;">
+        <span>⭐</span>
+        <span>${title}</span>
+    </div>`;
+    
+    // 설명 - ✅ \n을 <br>로 변환
+    if (desc) {
+        var descHtml = desc.replace(/\n/g, '<br>');
+        html += `<div class="g-text" style="font-size:1.6rem;font-weight:500;padding-left:0;">${descHtml}</div>`;
     }
+    
+    // 예문들
+    if (examples.length > 0) {
+        html += `<div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:4px;">`;
+        examples.forEach(function(ex) {
+            html += `<span class="g-example" style="font-size:1.5rem;">${ex}</span>`;
+        });
+        html += `</div>`;
+    }
+    
+    html += `</div>`;
+    return html;
+}
     
     html += `<section id="grammar">
         <h2>📝 ${grammar.title}</h2>
@@ -1973,61 +2074,69 @@ if (phone.length > 0) {
 }
 
 
-                // ---------- PRICES (참고) ----------
-    if (prices.length > 0) {
-        //var priceTitle = (lang === 'ko') ? '💰 가격' : (lang === 'ja') ? '💰 価格' : (lang === 'fr') ? '💰 Prix' : '💰 Prices';
-        html += `<section id="prices" class="reference"><h2>${navLabels.prices}</h2>';
-            <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px;">`;
-        prices.forEach(function(item) {
-            var safeWord = item.word.replace(/'/g, "\\'");
-            
-            // SVG 또는 이모지 표시
-            var iconHtml = '';
-            if (item.svg) {
-                iconHtml = `<div class="price-svg-wrapper">${item.svg}</div>`;
-            } else if (item.emoji) {
-                iconHtml = `<span style="font-size:3rem;">${item.emoji}</span>`;
-            } else {
-                iconHtml = `<span style="font-size:3rem;">💰</span>`;
-            }
-            
-            html += `
-                <div class="picture-card" onclick="speakText('${safeWord}')">
-                    <div style="display:flex;justify-content:center;align-items:center;height:60px;">
-                        ${iconHtml}
-                    </div>
-                    <span class="picture-word" style="font-size:1.4rem;">${item.price}</span>
-                    <span class="picture-hint">${item.word}</span>
+    // ---------- PRICES (참고) ----------
+if (prices.length > 0) {
+    // ✅ 따옴표 오류 수정 (작은따옴표 제거)
+    html += `<section id="prices" class="reference"><h2>${navLabels.prices}</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:16px;">`;
+    prices.forEach(function(item) {
+        var safeWord = item.word.replace(/'/g, "\\'");
+        
+        // SVG 또는 이모지 표시
+        var iconHtml = '';
+        if (item.svg) {
+            iconHtml = `<div class="price-svg-wrapper">${item.svg}</div>`;
+        } else if (item.emoji) {
+            iconHtml = `<span style="font-size:3rem;">${item.emoji}</span>`;
+        } else {
+            iconHtml = `<span style="font-size:3rem;">💰</span>`;
+        }
+        
+        html += `
+            <div class="picture-card" onclick="speakText('${safeWord}')">
+                <div style="display:flex;justify-content:center;align-items:center;height:60px;">
+                    ${iconHtml}
                 </div>
-            `;
-        });
-        html += `</div></section>`;
-    }
+                <span class="picture-word" style="font-size:1.4rem;">${item.price}</span>
+                <span class="picture-hint">${item.word}</span>
+            </div>
+        `;
+    });
+    html += `</div></section>`;
+}
 
 
     
         // ---------- DAYS OF THE WEEK (참고) ----------
-    if (days_of_week.length > 0) {
-        //var daysTitle = (lang === 'ko') ? '📅 요일' : (lang === 'ja') ? '📅 曜日' : (lang === 'fr') ? '📅 Jours de la semaine' : '📅 Days of the Week';
-        html += `<section id="days" class="reference"><h2>${navLabels.days}</h2>';
-            <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:16px;">`;
-        days_of_week.forEach(function(item) {
-            var safeDay = item.day.replace(/'/g, "\\'");
-            html += `
-                <div class="picture-card" onclick="speakText('${safeDay}')">
-                    <span class="picture-emoji" style="font-size:3rem;">${item.emoji || '📅'}</span>
-                    <span class="picture-word" style="font-size:1.4rem;">${item.day}</span>
-                </div>
-            `;
-        });
-        html += `</div></section>`;
-    }
+if (days_of_week.length > 0) {
+    html += `<section id="days" class="reference"><h2>${navLabels.days}</h2>
+        <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">`;
+    days_of_week.forEach(function(item) {
+        var safeDay = item.day.replace(/'/g, "\\'");
+        var iconHtml = '';
+        if (item.svg) {
+            iconHtml = `<div style="display:flex;justify-content:center;align-items:center;height:60px;">${item.svg}</div>`;
+        } else if (item.emoji) {
+            iconHtml = `<span style="font-size:3rem;">${item.emoji}</span>`;
+        } else {
+            iconHtml = `<span style="font-size:3rem;">📅</span>`;
+        }
+        
+        html += `
+            <div class="picture-card" onclick="speakText('${safeDay}')" style="width:120px; flex-shrink:0;">
+                ${iconHtml}
+                <span class="picture-word" style="font-size:1.2rem;">${item.day}</span>
+            </div>
+        `;
+    });
+    html += `</div></section>`;
+}
 
                 // ---------- TIME PREPOSITIONS (참고) ----------
     if (time_prepositions.title && time_prepositions.content) {
         // ✅ 언어별 제목 설정
                
-        html += `<section id="prepositions" class="reference"><h2>${navLabels.time_prepositions}</h2>';
+        html += `<section id="prepositions" class="reference"><h2>${navLabels.time_prepositions}</h2>
             <div style="background:#f8f9fa;border-radius:30px;padding:1.5rem 2rem;border:2px solid #e8e0d6;">
                 <div style="font-size:1.6rem;line-height:2.8;white-space:pre-line;">${time_prepositions.content}</div>
             </div>
@@ -2036,23 +2145,22 @@ if (phone.length > 0) {
 
 
     // ---------- ADJECTIVES (참고) ----------
-    if (adjectives.length > 0) {
-        //var adjTitle = (lang === 'ko') ? '📝 형용사' : (lang === 'ja') ? '📝 形容詞' : (lang === 'fr') ? '📝 Adjectifs' : '📝 Adjectives';
-        html += `<section id="adjectives" class="reference"><h2>${navLabels.adjectives}</h2>';
-            <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:16px;">`;
-        adjectives.forEach(function(item) {
-            var safeWord = item.word.replace(/'/g, "\\'");
-            var safeOpposite = item.opposite.replace(/'/g, "\\'");
-            html += `
-                <div class="picture-card" onclick="speakText('${safeWord}')">
-                    <span class="picture-emoji" style="font-size:3rem;">${item.emoji || '📝'}</span>
-                    <span class="picture-word" style="font-size:1.4rem;">${item.word}</span>
-                    <span class="picture-hint">↔ ${item.opposite}</span>
-                </div>
-            `;
-        });
-        html += `</div></section>`;
-    }
+if (adjectives.length > 0) {
+    html += `<section id="adjectives" class="reference"><h2>${navLabels.adjectives}</h2>
+        <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">`;
+    adjectives.forEach(function(item) {
+        var safeWord = item.word.replace(/'/g, "\\'");
+        var safeOpposite = item.opposite.replace(/'/g, "\\'");
+        html += `
+            <div class="picture-card" onclick="speakText('${safeWord}')" style="width:180px; flex-shrink:0;">
+                <span class="picture-emoji" style="font-size:3rem;">${item.emoji || '📝'}</span>
+                <span class="picture-word" style="font-size:1.4rem;">${item.word}</span>
+                <span class="picture-hint">↔ ${item.opposite}</span>
+            </div>
+        `;
+    });
+    html += `</div></section>`;
+}
 
 
     // ---------- CAN I...? PHRASES (추가) ----------
@@ -2087,7 +2195,7 @@ if (can_i_phrases && can_i_phrases.length > 0) {
     // ---------- PREPOSITIONS (위치 전치사 - 참고) ----------
     if (prepositions.length > 0) {
         //var prepTitle = (lang === 'ko') ? '📍 위치 전치사' : (lang === 'ja') ? '📍 場所の前置詞' : (lang === 'fr') ? '📍 Prépositions de lieu' : '📍 Prepositions of Place';
-        html += `<section id="prepositions" class="reference"><h2>${navLabels.prepositions}</h2>';
+        html += `<section id="prepositions" class="reference"><h2>${navLabels.prepositions}</h2>
             <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:16px;">`;
         prepositions.forEach(function(item) {
             var safeExample = item.example.replace(/'/g, "\\'");
@@ -2734,6 +2842,65 @@ if (everydayData && everydayData.title) {
         html += `</div>`;
     }
 
+    html += `</div></section>`;
+}
+
+
+// ---------- IRREGULAR VERBS ----------
+if (irregular_verbs.length > 0) {
+    html += `<section id="irregular-verbs" class="reference"><h2>${navLabels.irregular_verbs}</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:16px;">`;
+    irregular_verbs.forEach(function(item) {
+        var safeInfinitive = item.infinitive.replace(/'/g, "\\'");
+        var safePast = item.past.replace(/'/g, "\\'");
+        html += `
+            <div class="picture-card" onclick="speakText('${safeInfinitive}')" style="text-align:left;padding:16px 20px;">
+                <div style="display:flex;align-items:center;gap:12px;width:100%;">
+                    <span style="font-size:2.5rem;">${item.emoji || '📝'}</span>
+                    <div style="flex:1;">
+                        <div style="font-weight:700;font-size:1.2rem;color:#2c3e50;">${item.infinitive}</div>
+                        <div style="font-size:0.95rem;color:#27ae60;">→ ${item.past}</div>
+                    </div>
+                </div>
+            </div>
+        `;
+    });
+    html += `</div></section>`;
+}
+
+
+// ---------- MONTHS ----------
+if (months.length > 0) {
+    html += `<section id="months" class="reference"><h2>${navLabels.months}</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:16px;">`;
+    months.forEach(function(item) {
+        var safeMonth = item.month.replace(/'/g, "\\'");
+        html += `
+            <div class="picture-card" onclick="speakText('${safeMonth}')">
+                <span class="picture-emoji" style="font-size:3rem;">${item.emoji || '📅'}</span>
+                <span class="picture-word" style="font-size:1.4rem;">${item.month}</span>
+                <span class="picture-hint">${item.number}</span>
+            </div>
+        `;
+    });
+    html += `</div></section>`;
+}
+
+
+// ---------- ORDINAL NUMBERS ----------
+if (ordinal_numbers.length > 0) {
+    html += `<section id="ordinal-numbers" class="reference"><h2>${navLabels.ordinal_numbers}</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fill, minmax(200px, 1fr));gap:16px;">`;
+    ordinal_numbers.forEach(function(item) {
+        var safeWord = item.word.replace(/'/g, "\\'");
+        html += `
+            <div class="picture-card" onclick="speakText('${safeWord}')">
+                <span class="picture-emoji" style="font-size:3rem;">${item.emoji || '🔢'}</span>
+                <span class="picture-word" style="font-size:1.2rem;">${item.symbol}</span>
+                <span class="picture-hint">${item.word}</span>
+            </div>
+        `;
+    });
     html += `</div></section>`;
 }
 

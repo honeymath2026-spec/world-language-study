@@ -1,13 +1,13 @@
 {
   "title": {
     "en": "Personal Information",
-    "ja": "個人情報",
+    "ja": "こじんじょうほう",
     "fr": "Renseignements personnels",
     "ko": "개인 정보"
   },
   "topic": {
     "en": "Jobs - verb be (negatives and questions) - Address, phone number - Social expressions",
-    "ja": "仕事 - be動詞（否定文と疑問文） - 住所、電話番号 - 社交表現",
+    "ja": "しごと - びどうし（ひていぶんとぎもんぶん） - じゅうしょ、でんわばんごう - しゃこうひょうげん",
     "fr": "Métiers - verbe be (négations et questions) - Adresse, numéro de téléphone - Expressions sociales",
     "ko": "직업 - be동사 (부정문과 의문문) - 주소, 전화번호 - 사교 표현"
   },
@@ -23,14 +23,14 @@
       { "id": "doctor", "emoji": "👨‍⚕️", "word": "doctor", "hint": "She helps sick people", "sound": "doctor" }
     ],
     "ja": [
-      { "id": "police_officer", "emoji": "👮", "word": "警察官", "hint": "人々を助けます", "sound": "けいさつかん" },
-      { "id": "nurse", "emoji": "👩‍⚕️", "word": "看護師", "hint": "病院で働きます", "sound": "かんごし" },
-      { "id": "student", "emoji": "🎓", "word": "学生", "hint": "学校で勉強します", "sound": "がくせい" },
-      { "id": "teacher", "emoji": "👨‍🏫", "word": "先生", "hint": "生徒に教えます", "sound": "せんせい" },
-      { "id": "shop_assistant", "emoji": "🛒", "word": "店員", "hint": "店で働きます", "sound": "てんいん" },
-      { "id": "taxi_driver", "emoji": "🚕", "word": "タクシー運転手", "hint": "タクシーを運転します", "sound": "たくしーうんてんしゅ" },
-      { "id": "businessman", "emoji": "💼", "word": "ビジネスマン", "hint": "オフィスで働きます", "sound": "びじねすまん" },
-      { "id": "doctor", "emoji": "👨‍⚕️", "word": "医者", "hint": "病人を助けます", "sound": "いしゃ" }
+      { "id": "police_officer", "emoji": "👮", "word": "けいさつかん", "hint": "ひとびとをたすけます", "sound": "けいさつかん" },
+      { "id": "nurse", "emoji": "👩‍⚕️", "word": "かんごし", "hint": "びょういんではたらきます", "sound": "かんごし" },
+      { "id": "student", "emoji": "🎓", "word": "がくせい", "hint": "がっこうでべんきょうします", "sound": "がくせい" },
+      { "id": "teacher", "emoji": "👨‍🏫", "word": "せんせい", "hint": "せいとにおしえます", "sound": "せんせい" },
+      { "id": "shop_assistant", "emoji": "🛒", "word": "てんいん", "hint": "みせではたらきます", "sound": "てんいん" },
+      { "id": "taxi_driver", "emoji": "🚕", "word": "タクシーうんてんしゅ", "hint": "タクシーをうんてんします", "sound": "タクシーうんてんしゅ" },
+      { "id": "businessman", "emoji": "💼", "word": "ビジネスマン", "hint": "オフィスではたらきます", "sound": "ビジネスマン" },
+      { "id": "doctor", "emoji": "👨‍⚕️", "word": "いしゃ", "hint": "びょうにんをたすけます", "sound": "いしゃ" }
     ],
     "fr": [
       { "id": "police_officer", "emoji": "👮", "word": "policier", "hint": "Il aide les gens", "sound": "policier" },
@@ -64,15 +64,15 @@
       { "id": "are_you_from", "emoji": "🌍", "text": "Are you from England? Yes, I am.", "sound": "Are you from England? Yes, I am." },
       { "id": "im_not", "emoji": "🚫", "text": "I'm not from England. I'm from Houston.", "sound": "I am not from England. I am from Houston." }
     ],
-    "ja": [
-      { "id": "whats_his_job", "emoji": "👨", "text": "彼の仕事は何ですか？彼は先生です。", "sound": "かれのしごとはなんですか？かれはせんせいです。" },
-      { "id": "whats_her_job", "emoji": "👩", "text": "彼女の仕事は何ですか？彼女は医者です。", "sound": "かのじょのしごとはなんですか？かのじょはいしゃです。" },
-      { "id": "he_isnt", "emoji": "🚫", "text": "彼は学生ではありません。彼は先生です。", "sound": "かれはがくせいではありません。かれはせんせいです。" },
-      { "id": "she_isnt", "emoji": "🚫", "text": "彼女は看護師ではありません。彼女は医者です。", "sound": "かのじょはかんごしではありません。かのじょはいしゃです。" },
-      { "id": "is_amy_from", "emoji": "❓", "text": "エイミーはアメリカ出身ですか？いいえ、違います。", "sound": "えいみーはあめりかしゅっしんですか？いいえ、ちがいます。" },
-      { "id": "is_she_married", "emoji": "💍", "text": "彼女は結婚していますか？いいえ、していません。", "sound": "かのじょはけっこんしていますか？いいえ、していません。" },
-      { "id": "are_you_from", "emoji": "🌍", "text": "あなたはイギリス出身ですか？はい、そうです。", "sound": "あなたはいぎりすしゅっしんですか？はい、そうです。" },
-      { "id": "im_not", "emoji": "🚫", "text": "私はイギリス出身ではありません。ヒューストン出身です。", "sound": "わたしはいぎりすしゅっしんではありません。ひゅーすとんしゅっしんです。" }
+        "ja": [
+      { "id": "whats_his_job", "emoji": "👨", "text": "かれのしごとはなんですか？ かれはせんせいです。", "sound": "かれのしごとはなんですか？ かれはせんせいです。" },
+      { "id": "whats_her_job", "emoji": "👩", "text": "かのじょのしごとはなんですか？ かのじょはいしゃです。", "sound": "かのじょのしごとはなんですか？ かのじょはいしゃです。" },
+      { "id": "he_isnt", "emoji": "🚫", "text": "かれはがくせいではありません。 かれはせんせいです。", "sound": "かれはがくせいではありません。 かれはせんせいです。" },
+      { "id": "she_isnt", "emoji": "🚫", "text": "かのじょはかんごしではありません。 かのじょはいしゃです。", "sound": "かのじょはかんごしではありません。 かのじょはいしゃです。" },
+      { "id": "is_amy_from", "emoji": "❓", "text": "エイミーはアメリカしゅっしんですか？ いいえ、ちがいます。", "sound": "エイミーはアメリカしゅっしんですか？ いいえ、ちがいます。" },
+      { "id": "is_she_married", "emoji": "💍", "text": "かのじょはけっこんしていますか？ いいえ、していません。", "sound": "かのじょはけっこんしていますか？ いいえ、していません。" },
+      { "id": "are_you_from", "emoji": "🌍", "text": "あなたはイギリスしゅっしんですか？ はい、そうです。", "sound": "あなたはイギリスしゅっしんですか？ はい、そうです。" },
+      { "id": "im_not", "emoji": "🚫", "text": "わたしはイギリスしゅっしんではありません。 ヒューストンしゅっしんです。", "sound": "わたしはイギリスしゅっしんではありません。 ヒューストンしゅっしんです。" }
     ],
     "fr": [
       { "id": "whats_his_job", "emoji": "👨", "text": "Quel est son métier ? Il est professeur.", "sound": "Quel est son métier ? Il est professeur." },
@@ -96,9 +96,9 @@
     ]
   },
   "story_time": {
-    "en": {
+        "en": {
       "title": "A Pop Group",
-      "content": "This is the pop group 4 x 4 (Four by Four). Melanie Ryan is from Australia. Yves Lacoste is from France. Cath and George Walters are from England. They're on tour in the United States.\n'We're in New York. We're at the Radio City Music Hall. It's great!'\nWho is married in 4x4? Yves: 'I'm not married.' George and Cath: 'We aren't married!' Melanie: 'I am!'",
+      "content": "This is the pop group 4 x 4 (Four by Four). Melanie Ryan is from Australia. Yves Lacoste is from France. Cath and George Walters are from England. They're on tour in the United States.\n'We're in New York. We're at the Radio City Music Hall. It's great!'\nWho is married in 4x4?\nYves: 'I'm not married.'\nGeorge and Cath: 'We aren't married!'\nMelanie: 'I am!'",
       "question": "Who is married in the group?",
       "options": [
         { "text": "Melanie", "emoji": "👩", "correct": true },
@@ -106,10 +106,10 @@
         { "text": "Cath and George", "emoji": "👫", "correct": false }
       ]
     },
-    "ja": {
+        "ja": {
       "title": "ポップグループ",
-      "content": "これはポップグループ「4 x 4」（フォー・バイ・フォー）です。メラニー・ライアンはオーストラリア出身です。イヴ・ラコストはフランス出身です。キャスとジョージ・ウォルターズはイギリス出身です。彼らはアメリカでツアー中です。\n「私たちはニューヨークにいます。ラジオシティ・ミュージックホールにいます。最高です！」\n4x4で結婚しているのは誰ですか？イヴ：「私は結婚していません。」ジョージとキャス：「私たちは結婚していません！」メラニー：「私はしています！」",
-      "question": "グループで結婚しているのは誰ですか？",
+      "content": "これはポップグループ「フォー・バイ・フォー」です。メラニー・ライアンはオーストラリアしゅっしんです。イヴ・ラコストはフランスしゅっしんです。キャスとジョージ・ウォルターズはイギリスしゅっしんです。かれらはアメリカでツアーちゅうです。\n「わたしたちはニューヨークにいます。ラジオシティ・ミュージックホールにいます。さいこうです！」\nフォー・バイ・フォーでけっこんしているのはだれですか？\nイヴ：「わたしはけっこんしていません。」\nジョージとキャス：「わたしたちはけっこんしていません！」\nメラニー：「わたしはしています！」",
+      "question": "グループでけっこんしているのはだれですか？",
       "options": [
         { "text": "メラニー", "emoji": "👩", "correct": true },
         { "text": "イヴ", "emoji": "👨", "correct": false },
@@ -118,7 +118,7 @@
     },
     "fr": {
       "title": "Un groupe de pop",
-      "content": "Voici le groupe de pop 4 x 4 (Four by Four). Melanie Ryan est d'Australie. Yves Lacoste est de France. Cath et George Walters sont d'Angleterre. Ils sont en tournée aux États-Unis.\n« Nous sommes à New York. Nous sommes au Radio City Music Hall. C'est génial ! »\nQui est marié dans 4x4 ? Yves : « Je ne suis pas marié. » George et Cath : « Nous ne sommes pas mariés ! » Melanie : « Je le suis ! »",
+      "content": "Voici le groupe de pop 4 x 4 (Four by Four). Melanie Ryan est d'Australie. Yves Lacoste est de France. Cath et George Walters sont d'Angleterre. Ils sont en tournée aux États-Unis.\n« Nous sommes à New York. Nous sommes au Radio City Music Hall. C'est génial ! »\nQui est marié dans 4x4 ?\nYves : « Je ne suis pas marié. »\nGeorge et Cath : « Nous ne sommes pas mariés ! »\nMelanie : « Je le suis ! »",
       "question": "Qui est marié dans le groupe ?",
       "options": [
         { "text": "Melanie", "emoji": "👩", "correct": true },
@@ -128,7 +128,7 @@
     },
     "ko": {
       "title": "팝 그룹",
-      "content": "이들은 팝 그룹 '4 x 4'(포 바이 포)입니다. 멜라니 라이언은 호주 출신입니다. 이브 라코스트는 프랑스 출신입니다. 캐스와 조지 월터스는 영국 출신입니다. 그들은 미국에서 투어 중입니다.\n'우리는 뉴욕에 있습니다. 라디오 시티 뮤직 홀에 있어요. 정말 멋져요!'\n4x4에서 결혼한 사람은 누구인가요? 이브: '저는 결혼하지 않았어요.' 조지와 캐스: '우리는 결혼하지 않았어요!' 멜라니: '저는 결혼했어요!'",
+      "content": "이들은 팝 그룹 '4 x 4'(포 바이 포)입니다. 멜라니 라이언은 호주 출신입니다. 이브 라코스트는 프랑스 출신입니다. 캐스와 조지 월터스는 영국 출신입니다. 그들은 미국에서 투어 중입니다.\n'우리는 뉴욕에 있습니다. 라디오 시티 뮤직 홀에 있어요. 정말 멋져요!'\n4x4에서 결혼한 사람은 누구인가요?\n이브: '저는 결혼하지 않았어요.'\n조지와 캐스: '우리는 결혼하지 않았어요!'\n멜라니: '저는 결혼했어요!'",
       "question": "그룹에서 결혼한 사람은 누구인가요?",
       "options": [
         { "text": "멜라니", "emoji": "👩", "correct": true },
@@ -159,17 +159,17 @@
     "ja": [
       {
         "type": "match",
-        "instruction": "職業と絵を合わせましょう！",
+        "instruction": "しょくぎょうとえをあわせましょう！",
         "pairs": [
-          { "emoji": "👮", "word": "警察官" },
-          { "emoji": "👩‍⚕️", "word": "看護師" },
-          { "emoji": "🎓", "word": "学生" },
-          { "emoji": "👨‍🏫", "word": "先生" }
+          { "emoji": "👮", "word": "けいさつかん" },
+          { "emoji": "👩‍⚕️", "word": "かんごし" },
+          { "emoji": "🎓", "word": "がくせい" },
+          { "emoji": "👨‍🏫", "word": "せんせい" }
         ]
       },
       {
         "type": "find",
-        "question": "医者を見つけてください！👨‍⚕️",
+        "question": "いしゃをみつけてください！👨‍⚕️",
         "target": "👨‍⚕️",
         "options": ["👮", "👩‍⚕️", "🎓", "👨‍⚕️"]
       }
@@ -211,6 +211,26 @@
       }
     ]
   },
+
+  "grammar": {
+    "en": {
+      "title": "Grammar Spot",
+      "content": "Let's learn 4 grammar points today!\n\n【1. Verb 'be' - Negative Sentences】\nWe add 'not' after the verb 'be' to make a negative sentence.\nHe is not a student. → He isn't a student.\nShe is not a nurse. → She isn't a nurse.\nI am not from England. → I'm not from England.\nThey are not married. → They aren't married.\n\n【2. Verb 'be' - Yes/No Questions】\nWe put the verb 'be' at the beginning to ask a question.\nIs he a teacher? → Yes, he is. / No, he isn't.\nIs she from America? → No, she isn't.\nAre you from England? → Yes, I am.\nAre they married? → No, they aren't.\n\n【3. Short Answers】\nWe use short answers to reply quickly.\nYes, I am. / No, I'm not.\nYes, he is. / No, he isn't.\nYes, she is. / No, she isn't.\nYes, we are. / No, we aren't.\nYes, they are. / No, they aren't.\n\n【4. Wh- Questions】\nWe use question words to ask for information.\nWhat's his job? → He's a teacher.\nWhere is she from? → She's from Australia.\nWho is married? → Melanie is.\n\nRemember: Use 'm for I, 's for he/she/it, 're for you/we/they."
+    },
+    "ja": {
+      "title": "ぶんぽう ぽいんと",
+      "content": "きょうは ４つの ぶんぽうを まなびましょう！\n\n【１．ひていぶん の つくりかた】\n'〜では ありません' と いうときは、どうし の うしろに 'ない' を つけます。\nかれ は がくせい では ありません。 → かれ は がくせい じゃ ない です。\nかのじょ は かんごし では ありません。 → かのじょ は かんごし じゃ ない です。\nわたし は いぎりす しゅっしん では ありません。 → わたし は いぎりす しゅっしん じゃ ない です。\nかれら は けっこん して いません。 → かれら は けっこん して いない です。\n\n【２．はい/いいえ ぎもんぶん の つくりかた】\nしつもん する ときは、どうし を ぶんの さいしょ に おきます。\nかれ は せんせい です か？ → はい、そうです。 / いいえ、ちがいます。\nかのじょ は あめりか しゅっしん です か？ → いいえ、ちがいます。\nあなた は いぎりす しゅっしん です か？ → はい、そうです。\nかれら は けっこん して います か？ → いいえ、して いません。\n\n【３．みじかい こたえかた】\nはやく こたえる ときは、'はい、そうです' または 'いいえ、ちがいます' と みじかく こたえます。\n\n【４．なに/どこ/だれ を きく とき】\n'なに' 'どこ' 'だれ' を つかって じょうほう を ききます。\nかれの しごと は なん です か？ → かれ は せんせい です。\nかのじょ は どこ しゅっしん です か？ → かのじょ は おーすとらりあ しゅっしん です。\nだれ が けっこん して います か？ → めらにー です。\n\nおぼえよう：'む' は 'わたし'、'ず' は 'かれ/かのじょ/それ'、'あ' は 'あなた/わたしたち/かれら' に つけます。"
+    },
+    "fr": {
+      "title": "Grammaire",
+      "content": "Apprenons 4 points de grammaire aujourd'hui !\n\n【1. Comment faire une phrase négative】\nPour dire 'ne pas', on ajoute 'pas' après le verbe.\nIl n'est pas étudiant. → Il n'est pas étudiant.\nElle n'est pas infirmière. → Elle n'est pas infirmière.\nJe ne viens pas d'Angleterre. → Je ne viens pas d'Angleterre.\nIls ne sont pas mariés. → Ils ne sont pas mariés.\n\n【2. Comment poser une question oui/non】\nPour poser une question, on met le verbe au début.\nEst-il professeur ? → Oui, il l'est. / Non, il ne l'est pas.\nEst-elle américaine ? → Non, elle ne l'est pas.\nViens-tu d'Angleterre ? → Oui, je viens.\nSont-ils mariés ? → Non, ils ne le sont pas.\n\n【3. Comment répondre brièvement】\nPour répondre vite, on répond par 'Oui' ou 'Non'.\n\n【4. Comment demander avec quoi/où/qui】\nOn utilise 'quoi', 'où', 'qui' pour demander des informations.\nQuel est son métier ? → Il est professeur.\nD'où vient-elle ? → Elle vient d'Australie.\nQui est marié ? → Melanie l'est.\n\nRappelez-vous : 'm' pour 'je', 's' pour 'il/elle/on', 're' pour 'vous/nous/ils/elles'."
+    },
+    "ko": {
+      "title": "문법 포인트",
+      "content": "오늘은 4가지 문법을 배워볼게요!\n\n【1. 부정문 만드는 법】\n'~이/가 아니다'라고 말할 때는 동사 뒤에 '않'을 붙여요.\n그는 학생이 아닙니다. → 그는 학생이 아니에요.\n그녀는 간호사가 아닙니다. → 그녀는 간호사가 아니에요.\n저는 영국 출신이 아닙니다. → 저는 영국 출신이 아니에요.\n그들은 결혼하지 않았습니다. → 그들은 결혼하지 않았어요.\n\n【2. 예/아니오 질문하는 법】\n질문할 때는 동사를 문장 맨 앞에 놓아요.\n그는 선생님인가요? → 네, 맞아요. / 아니요, 아니에요.\n그녀는 미국 출신인가요? → 아니요, 아니에요.\n당신은 영국 출신인가요? → 네, 맞아요.\n그들은 결혼했나요? → 아니요, 안 했어요.\n\n【3. 짧게 대답하는 법】\n빠르게 대답할 때는 '네' 또는 '아니요'로 짧게 말해요.\n\n【4. 무엇/어디/누구 묻는 법】\n'무엇', '어디', '누구'로 정보를 물어봐요.\n그의 직업은 무엇인가요? → 그는 선생님이에요.\n그녀는 어디 출신인가요? → 그녀는 호주 출신이에요.\n누가 결혼했나요? → 멜라니가 결혼했어요.\n\n기억하세요: '나는'은 '난'으로, '그는/그녀는/그것은'은 '그/그녀/그건'으로, '우리는/당신은/그들은'은 '우린/당신은/그들은'으로 줄여 써요."
+    }
+  },
+  
   "social_expressions": {
     "en": [
       { "id": "good_morning", "emoji": "🌅", "expression": "Good morning", "response": "Good morning", "hint": "Say this in the morning" },
@@ -223,14 +243,14 @@
       { "id": "thank_you", "emoji": "🙏", "expression": "Thank you", "response": "You're welcome", "hint": "Say this when you receive something" }
     ],
     "ja": [
-      { "id": "good_morning", "emoji": "🌅", "expression": "おはようございます", "response": "おはようございます", "hint": "朝のあいさつ" },
-      { "id": "good_afternoon", "emoji": "☀️", "expression": "こんにちは", "response": "こんにちは", "hint": "昼間のあいさつ" },
-      { "id": "good_evening", "emoji": "🌆", "expression": "こんばんは", "response": "こんばんは", "hint": "夕方のあいさつ" },
-      { "id": "good_night", "emoji": "🌙", "expression": "おやすみなさい", "response": "おやすみなさい", "hint": "寝る前のあいさつ" },
-      { "id": "goodbye", "emoji": "👋", "expression": "さようなら", "response": "さようなら！いい旅を！", "hint": "別れのあいさつ" },
-      { "id": "pardon", "emoji": "🙉", "expression": "すみません、もう一度お願いします", "response": "〜と言いました", "hint": "聞き取れなかった時に" },
-      { "id": "sorry", "emoji": "😅", "expression": "ごめんなさい", "response": "いいですよ", "hint": "謝るとき" },
-      { "id": "thank_you", "emoji": "🙏", "expression": "ありがとうございます", "response": "どういたしまして", "hint": "感謝を伝えるとき" }
+      { "id": "good_morning", "emoji": "🌅", "expression": "おはようございます", "response": "おはようございます", "hint": "あさのあいさつ" },
+      { "id": "good_afternoon", "emoji": "☀️", "expression": "こんにちは", "response": "こんにちは", "hint": "ひるまのあいさつ" },
+      { "id": "good_evening", "emoji": "🌆", "expression": "こんばんは", "response": "こんばんは", "hint": "ゆうがたのあいさつ" },
+      { "id": "good_night", "emoji": "🌙", "expression": "おやすみなさい", "response": "おやすみなさい", "hint": "ねるまえのあいさつ" },
+      { "id": "goodbye", "emoji": "👋", "expression": "さようなら", "response": "さようなら！ いいたびを！", "hint": "わかれのあいさつ" },
+      { "id": "pardon", "emoji": "🙉", "expression": "すみません、もういちどおねがいします", "response": "〜といいました", "hint": "ききとれなかったときに" },
+      { "id": "sorry", "emoji": "😅", "expression": "ごめんなさい", "response": "いいですよ", "hint": "あやまるとき" },
+      { "id": "thank_you", "emoji": "🙏", "expression": "ありがとうございます", "response": "どういたしまして", "hint": "かんしゃをつたえるとき" }
     ],
     "fr": [
       { "id": "good_morning", "emoji": "🌅", "expression": "Bonjour", "response": "Bonjour", "hint": "Le matin" },
@@ -252,6 +272,150 @@
       { "id": "sorry", "emoji": "😅", "expression": "죄송합니다", "response": "괜찮아요", "hint": "실수했을 때" },
       { "id": "thank_you", "emoji": "🙏", "expression": "감사합니다", "response": "천만에요", "hint": "감사를 표현할 때" }
     ]
+  },
+  "alphabet": {
+    "en": [
+      { "letter": "A", "sound_group": "/eɪ/", "word": "ay" },
+      { "letter": "B", "sound_group": "/biː/", "word": "bee" },
+      { "letter": "C", "sound_group": "/siː/", "word": "see" },
+      { "letter": "D", "sound_group": "/diː/", "word": "dee" },
+      { "letter": "E", "sound_group": "/iː/", "word": "ee" },
+      { "letter": "F", "sound_group": "/ɛf/", "word": "ef" },
+      { "letter": "G", "sound_group": "/dʒiː/", "word": "gee" },
+      { "letter": "H", "sound_group": "/eɪtʃ/", "word": "aitch" },
+      { "letter": "I", "sound_group": "/aɪ/", "word": "eye" },
+      { "letter": "J", "sound_group": "/dʒeɪ/", "word": "jay" },
+      { "letter": "K", "sound_group": "/keɪ/", "word": "kay" },
+      { "letter": "L", "sound_group": "/ɛl/", "word": "el" },
+      { "letter": "M", "sound_group": "/ɛm/", "word": "em" },
+      { "letter": "N", "sound_group": "/ɛn/", "word": "en" },
+      { "letter": "O", "sound_group": "/oʊ/", "word": "oh" },
+      { "letter": "P", "sound_group": "/piː/", "word": "pee" },
+      { "letter": "Q", "sound_group": "/kjuː/", "word": "cue" },
+      { "letter": "R", "sound_group": "/ɑːr/", "word": "ar" },
+      { "letter": "S", "sound_group": "/ɛs/", "word": "ess" },
+      { "letter": "T", "sound_group": "/tiː/", "word": "tee" },
+      { "letter": "U", "sound_group": "/juː/", "word": "you" },
+      { "letter": "V", "sound_group": "/viː/", "word": "vee" },
+      { "letter": "W", "sound_group": "/ˈdʌbəljuː/", "word": "double u" },
+      { "letter": "X", "sound_group": "/ɛks/", "word": "ex" },
+      { "letter": "Y", "sound_group": "/waɪ/", "word": "why" },
+      { "letter": "Z", "sound_group": "/ziː/", "word": "zee" }
+    ],
+    "fr": [
+  { "letter": "A", "sound_group": "/a/", "word": "a" },
+  { "letter": "B", "sound_group": "/be/", "word": "bé" },
+  { "letter": "C", "sound_group": "/se/", "word": "cé" },
+  { "letter": "D", "sound_group": "/de/", "word": "dé" },
+  { "letter": "E", "sound_group": "/ə/", "word": "e" },
+  { "letter": "F", "sound_group": "/ɛf/", "word": "effe" },
+  { "letter": "G", "sound_group": "/ʒe/", "word": "gé" },
+  { "letter": "H", "sound_group": "/aʃ/", "word": "hache" },
+  { "letter": "I", "sound_group": "/i/", "word": "i" },
+  { "letter": "J", "sound_group": "/ʒi/", "word": "ji" },
+  { "letter": "K", "sound_group": "/ka/", "word": "ka" },
+  { "letter": "L", "sound_group": "/ɛl/", "word": "elle" },
+  { "letter": "M", "sound_group": "/ɛm/", "word": "emme" },
+  { "letter": "N", "sound_group": "/ɛn/", "word": "enne" },
+  { "letter": "O", "sound_group": "/o/", "word": "o" },
+  { "letter": "P", "sound_group": "/pe/", "word": "pé" },
+  { "letter": "Q", "sound_group": "/ky/", "word": "qu" },
+  { "letter": "R", "sound_group": "/ɛʁ/", "word": "erre" },
+  { "letter": "S", "sound_group": "/ɛs/", "word": "esse" },
+  { "letter": "T", "sound_group": "/te/", "word": "té" },
+  { "letter": "U", "sound_group": "/y/", "word": "u" },
+  { "letter": "V", "sound_group": "/ve/", "word": "vé" },
+  { "letter": "W", "sound_group": "/dubləve/", "word": "double vé" },
+  { "letter": "X", "sound_group": "/iks/", "word": "ixe" },
+  { "letter": "Y", "sound_group": "/iɡʁɛk/", "word": "i grec" },
+  { "letter": "Z", "sound_group": "/zɛd/", "word": "zède" },
+  { "letter": "É", "sound_group": "/e/", "word": "e" },
+  { "letter": "È", "sound_group": "/ɛ/", "word": "è" },
+  { "letter": "Ê", "sound_group": "/ɛ/", "word": "ê" },
+  { "letter": "Ë", "sound_group": "/ɛ/", "word": "e" },
+  { "letter": "À", "sound_group": "/a/", "word": "a" },
+  { "letter": "Â", "sound_group": "/ɑ/", "word": "â" },
+  { "letter": "Î", "sound_group": "/i/", "word": "î" },
+  { "letter": "Ï", "sound_group": "/i/", "word": "ï" },
+  { "letter": "Ô", "sound_group": "/o/", "word": "o" },
+  { "letter": "Û", "sound_group": "/y/", "word": "û" },
+  { "letter": "Ù", "sound_group": "/y/", "word": "ù" },
+  { "letter": "Ç", "sound_group": "/s/", "word": "ç" }
+],
+    "ja": [
+  { "letter": "あ", "word": "あ" },
+  { "letter": "い", "word": "い" },
+  { "letter": "う", "word": "う" },
+  { "letter": "え", "word": "え" },
+  { "letter": "お", "word": "お" },
+  { "letter": "か", "word": "か" },
+  { "letter": "き", "word": "き" },
+  { "letter": "く", "word": "く" },
+  { "letter": "け", "word": "け" },
+  { "letter": "こ", "word": "こ" },
+  { "letter": "さ", "word": "さ" },
+  { "letter": "し", "word": "し" },
+  { "letter": "す", "word": "す" },
+  { "letter": "せ", "word": "せ" },
+  { "letter": "そ", "word": "そ" },
+  { "letter": "た", "word": "た" },
+  { "letter": "ち", "word": "ち" },
+  { "letter": "つ", "word": "つ" },
+  { "letter": "て", "word": "て" },
+  { "letter": "と", "word": "と" },
+  { "letter": "な", "word": "な" },
+  { "letter": "に", "word": "に" },
+  { "letter": "ぬ", "word": "ぬ" },
+  { "letter": "ね", "word": "ね" },
+  { "letter": "の", "word": "の" },
+  { "letter": "は", "word": "は" },
+  { "letter": "ひ", "word": "ひ" },
+  { "letter": "ふ", "word": "ふ" },
+  { "letter": "へ", "word": "へ" },
+  { "letter": "ほ", "word": "ほ" },
+  { "letter": "ま", "word": "ま" },
+  { "letter": "み", "word": "み" },
+  { "letter": "む", "word": "む" },
+  { "letter": "め", "word": "め" },
+  { "letter": "も", "word": "も" },
+  { "letter": "や", "word": "や" },
+  { "letter": "ゆ", "word": "ゆ" },
+  { "letter": "よ", "word": "よ" },
+  { "letter": "ら", "word": "ら" },
+  { "letter": "り", "word": "り" },
+  { "letter": "る", "word": "る" },
+  { "letter": "れ", "word": "れ" },
+  { "letter": "ろ", "word": "ろ" },
+  { "letter": "わ", "word": "わ" },
+  { "letter": "を", "word": "を" },
+  { "letter": "ん", "word": "ん" }
+],
+    "ko": [
+  { "letter": "ㄱ", "word": "기역" },
+  { "letter": "ㄴ", "word": "니은" },
+  { "letter": "ㄷ", "word": "디귿" },
+  { "letter": "ㄹ", "word": "리을" },
+  { "letter": "ㅁ", "word": "미음" },
+  { "letter": "ㅂ", "word": "비읍" },
+  { "letter": "ㅅ", "word": "시옷" },
+  { "letter": "ㅇ", "word": "이응" },
+  { "letter": "ㅈ", "word": "지읒" },
+  { "letter": "ㅊ", "word": "치읓" },
+  { "letter": "ㅋ", "word": "키읔" },
+  { "letter": "ㅌ", "word": "티읕" },
+  { "letter": "ㅍ", "word": "피읖" },
+  { "letter": "ㅎ", "word": "히읗" },
+  { "letter": "ㅏ", "word": "아" },
+  { "letter": "ㅑ", "word": "야" },
+  { "letter": "ㅓ", "word": "어" },
+  { "letter": "ㅕ", "word": "여" },
+  { "letter": "ㅗ", "word": "오" },
+  { "letter": "ㅛ", "word": "요" },
+  { "letter": "ㅜ", "word": "우" },
+  { "letter": "ㅠ", "word": "유" },
+  { "letter": "ㅡ", "word": "으" },
+  { "letter": "ㅣ", "word": "이" }
+]
   }
   
 }
