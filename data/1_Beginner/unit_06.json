@@ -1,15 +1,15 @@
 {
   "title": {
     "en": "Every day",
-    "ja": "毎日",
+    "ja": "まいにち",
     "fr": "Tous les jours",
     "ko": "매일"
   },
   "topic": {
     "en": "The time, Present Simple (he/she/it), usually/sometimes/never, questions and negatives, words that go together, days of the week",
-    "ja": "時間、現在形（he/she/it）、usually/sometimes/never、疑問文と否定文、一緒に使う単語、曜日",
+    "ja": "じかん、げんざいけい、ぎもんぶんとひていぶん、いっしょにつかうたんご、ようび",
     "fr": "L'heure, Présent Simple (he/she/it), usually/sometimes/never, questions et négations, mots qui vont ensemble, jours de la semaine",
-    "ko": "시간, 현재시제 (he/she/it), usually/sometimes/never, 의문문과 부정문, 함께 쓰는 단어들, 요일"
+    "ko": "시간, 현재시제, 의문문과 부정문, 함께 쓰는 단어들, 요일"
   },
   "picture_dictionary": {
     "en": [
@@ -27,18 +27,18 @@
       { "id": "play_the_piano", "emoji": "🎹", "word": "play the piano", "hint": "I play the piano", "sound": "play the piano" }
     ],
     "ja": [
-      { "id": "get_up", "emoji": "🌅", "word": "起きる", "hint": "7時に起きます", "sound": "おきる" },
-      { "id": "have_breakfast", "emoji": "🍳", "word": "朝ごはんを食べる", "hint": "8時に朝ごはんを食べます", "sound": "あさごはんをたべる" },
-      { "id": "go_to_school", "emoji": "🏫", "word": "学校に行く", "hint": "8時半に学校に行きます", "sound": "がっこうにいく" },
-      { "id": "have_lunch", "emoji": "🥗", "word": "昼ごはんを食べる", "hint": "12時半に昼ごはんを食べます", "sound": "ひるごはんをたべる" },
-      { "id": "get_home", "emoji": "🏠", "word": "家に帰る", "hint": "4時半に家に帰ります", "sound": "いえにかえる" },
-      { "id": "go_to_bed", "emoji": "😴", "word": "寝る", "hint": "11時に寝ます", "sound": "ねる" },
-      { "id": "have_a_shower", "emoji": "🚿", "word": "シャワーを浴びる", "hint": "朝にシャワーを浴びます", "sound": "シャワーをあびる" },
-      { "id": "work", "emoji": "💼", "word": "働く", "hint": "オフィスで働きます", "sound": "はたらく" },
-      { "id": "cook", "emoji": "👨‍🍳", "word": "料理する", "hint": "夕ごはんを作ります", "sound": "りょうりする" },
-      { "id": "watch_tv", "emoji": "📺", "word": "テレビを見る", "hint": "夕方にテレビを見ます", "sound": "テレビをみる" },
-      { "id": "listen_to_music", "emoji": "🎵", "word": "音楽を聴く", "hint": "音楽を聴きます", "sound": "おんがくをきく" },
-      { "id": "play_the_piano", "emoji": "🎹", "word": "ピアノを弾く", "hint": "ピアノを弾きます", "sound": "ピアノをひく" }
+      { "id": "get_up", "emoji": "🌅", "word": "おきる", "hint": "７じにおきます", "sound": "おきる" },
+      { "id": "have_breakfast", "emoji": "🍳", "word": "あさごはんをたべる", "hint": "８じにあさごはんをたべます", "sound": "あさごはんをたべる" },
+      { "id": "go_to_school", "emoji": "🏫", "word": "がっこうにいく", "hint": "８じはんにがっこうにいきます", "sound": "がっこうにいく" },
+      { "id": "have_lunch", "emoji": "🥗", "word": "ひるごはんをたべる", "hint": "１２じはんにひるごはんをたべます", "sound": "ひるごはんをたべる" },
+      { "id": "get_home", "emoji": "🏠", "word": "いえにかえる", "hint": "４じはんにいえにかえります", "sound": "いえにかえる" },
+      { "id": "go_to_bed", "emoji": "😴", "word": "ねる", "hint": "１１じにねます", "sound": "ねる" },
+      { "id": "have_a_shower", "emoji": "🚿", "word": "シャワーをあびる", "hint": "あさにシャワーをあびます", "sound": "シャワーをあびる" },
+      { "id": "work", "emoji": "💼", "word": "はたらく", "hint": "オフィスではたらきます", "sound": "はたらく" },
+      { "id": "cook", "emoji": "👨‍🍳", "word": "りょうりする", "hint": "ゆうごはんをつくります", "sound": "りょうりする" },
+      { "id": "watch_tv", "emoji": "📺", "word": "テレビをみる", "hint": "ゆうがたにテレビをみます", "sound": "テレビをみる" },
+      { "id": "listen_to_music", "emoji": "🎵", "word": "おんがくをきく", "hint": "おんがくをききます", "sound": "おんがくをきく" },
+      { "id": "play_the_piano", "emoji": "🎹", "word": "ピアノをひく", "hint": "ピアノをひきます", "sound": "ピアノをひく" }
     ],
     "fr": [
       { "id": "get_up", "emoji": "🌅", "word": "se lever", "hint": "Je me lève à 7h", "sound": "se lever" },
@@ -82,15 +82,15 @@
       { "id": "go_to_bed_time", "emoji": "😴", "text": "What time do you go to bed?", "sound": "What time do you go to bed?" }
     ],
     "ja": [
-      { "id": "nine_oclock", "emoji": "🕘", "text": "9時です。", "sound": "くじです。" },
-      { "id": "nine_thirty", "emoji": "🕤", "text": "9時30分です。", "sound": "くじさんじゅっぷんです。" },
-      { "id": "nine_fortyfive", "emoji": "🕥", "text": "9時45分です。", "sound": "くじよんじゅうごふんです。" },
-      { "id": "ten_oclock", "emoji": "🕙", "text": "10時です。", "sound": "じゅうじです。" },
-      { "id": "ten_fifteen", "emoji": "🕥", "text": "10時15分です。", "sound": "じゅうじじゅうごふんです。" },
-      { "id": "what_time", "emoji": "❓", "text": "今何時ですか？", "sound": "いまなんじですか？" },
-      { "id": "get_up_time", "emoji": "🌅", "text": "何時に起きますか？", "sound": "なんじにおきますか？" },
-      { "id": "have_breakfast_time", "emoji": "🍳", "text": "何時に朝ごはんを食べますか？", "sound": "なんじにあさごはんをたべますか？" },
-      { "id": "go_to_bed_time", "emoji": "😴", "text": "何時に寝ますか？", "sound": "なんじにねますか？" }
+      { "id": "nine_oclock", "emoji": "🕘", "text": "くじです。", "sound": "くじです。" },
+      { "id": "nine_thirty", "emoji": "🕤", "text": "くじさんじゅっぷんです。", "sound": "くじさんじゅっぷんです。" },
+      { "id": "nine_fortyfive", "emoji": "🕥", "text": "くじよんじゅうごふんです。", "sound": "くじよんじゅうごふんです。" },
+      { "id": "ten_oclock", "emoji": "🕙", "text": "じゅうじです。", "sound": "じゅうじです。" },
+      { "id": "ten_fifteen", "emoji": "🕥", "text": "じゅうじじゅうごふんです。", "sound": "じゅうじじゅうごふんです。" },
+      { "id": "what_time", "emoji": "❓", "text": "いまなんじですか？", "sound": "いまなんじですか？" },
+      { "id": "get_up_time", "emoji": "🌅", "text": "なんじにおきますか？", "sound": "なんじにおきますか？" },
+      { "id": "have_breakfast_time", "emoji": "🍳", "text": "なんじにあさごはんをたべますか？", "sound": "なんじにあさごはんをたべますか？" },
+      { "id": "go_to_bed_time", "emoji": "😴", "text": "なんじにねますか？", "sound": "なんじにねますか？" }
     ],
     "fr": [
       { "id": "nine_oclock", "emoji": "🕘", "text": "Il est neuf heures.", "sound": "Il est neuf heures." },
@@ -127,13 +127,13 @@
       ]
     },
     "ja": {
-      "title": "カールの一日",
-      "content": "👨 カール・ウィルクは22歳で、コンピューターの億万長者です。💻 彼はネットストア24のディレクターで、インターネット上の24時間ショッピングサイトです。🌅 彼は6時に起きてシャワーを浴びます。🍳 彼は6時45分に朝ごはんを食べます。🚕 彼は7時15分に家を出て、タクシーで仕事に行きます。🥤 彼は12時45分にオフィスで昼ごはん（コカコーラとサンドイッチ）を食べます。💼 彼はたいてい遅くまで働きます。夕方7時30分に仕事を終えます。🍕 彼は時々ピザを買って家で食べます。8時15分に家に着きます。🖥️ 彼は決して夜に出かけません。9時15分から11時30分までコンピューターで仕事をします。😴 彼は11時45分に寝ます。",
-      "question": "カールは何時に起きますか？",
+      "title": "カールのいちにち",
+      "content": "👨 カール・ウィルクは２２さいで、コンピューターのおかねもちです。💻 かれはネットストア２４のディレクターで、インターネットの２４じかんショッピングサイトです。🌅 かれは６じにおきてシャワーをあびます。🍳 かれは６じ４５ぷんにあさごはんをたべます。🚕 かれは７じ１５ぷんにいえをでて、タクシーでしごとにいきます。🥤 かれは１２じ４５ぷんにオフィスでひるごはん（コカコーラとサンドイッチ）をたべます。💼 かれはたいていおそくまではたらきます。ゆうがた７じ３０ぷんにしごとをおえます。🍕 かれはときどきピザをかってうちでたべます。８じ１５ぷんにいえにつきます。🖥️ かれはぜったいよるにでかけません。９じ１５ぷんから１１じ３０ぷんまでコンピューターではたらきます。😴 かれは１１じ４５ぷんにねます。",
+      "question": "カールはなんじにおきますか？",
       "options": [
-        { "text": "6時", "emoji": "🌅", "correct": true },
-        { "text": "7時15分", "emoji": "🚕", "correct": false },
-        { "text": "8時15分", "emoji": "🏠", "correct": false }
+        { "text": "６じ", "emoji": "🌅", "correct": true },
+        { "text": "７じ１５ぷん", "emoji": "🚕", "correct": false },
+        { "text": "８じ１５ぷん", "emoji": "🏠", "correct": false }
       ]
     },
     "fr": {
@@ -179,17 +179,17 @@
     "ja": [
       {
         "type": "match",
-        "instruction": "毎日の活動と単語を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "instruction": "まいにちのかつどうとたんごをあわせましょう！ 🖐️ ドラッグ＆ドロップ！",
         "pairs": [
-          { "emoji": "🌅", "word": "起きる" },
-          { "emoji": "🍳", "word": "朝ごはんを食べる" },
-          { "emoji": "🏫", "word": "学校に行く" },
-          { "emoji": "😴", "word": "寝る" }
+          { "emoji": "🌅", "word": "おきる" },
+          { "emoji": "🍳", "word": "あさごはんをたべる" },
+          { "emoji": "🏫", "word": "がっこうにいく" },
+          { "emoji": "😴", "word": "ねる" }
         ]
       },
       {
         "type": "find",
-        "question": "寝ている人を見つけてください！ 😴",
+        "question": "ねているひとをみつけてください！ 😴",
         "target": "😴",
         "options": ["🌅", "🍳", "😴", "🏫"]
       }
@@ -234,19 +234,19 @@
   "grammar": {
     "en": {
       "title": "Grammar Spot",
-      "content": "• Positive: He gets up early.\n• Negative: He doesn't get up late.\n• Question: What time does he get up?\n• Short answer: Yes, he does. / No, he doesn't.\n• Adverbs: usually (90%), sometimes (40%), never (0%)\n• I work / He works / She works"
+      "content": "Let's learn 4 grammar points today!\n\n【1. Using 'usually', 'sometimes', and 'never'】\nThese words tell you how often we do something.\n'Usually' means most of the time.\n'Sometimes' means not all the time, but not never.\n'Never' means not at any time.\n\nExample: I usually get up at 7.00.\nExample: She sometimes has breakfast at home.\nExample: He never goes to bed late.\n\n【2. Present Simple (he, she, it)】\nFor 'he', 'she', and 'it', we add an -s to the verb.\n'He gets up at 7.00.' (not 'He get up')\n'She works in an office.' (not 'She work')\n\n【3. Questions in Present Simple (he, she, it)】\nTo make a question, we use 'does' at the start.\nThe verb goes back to its base form (without -s).\n'What time does he get up?' (not 'does he gets up')\n'Does she have breakfast at 8.00?' (not 'Does she has')\n\n【4. Negatives in Present Simple (he, she, it)】\nTo make a negative, we use 'does not' or 'doesn't' before the verb.\nThe verb goes back to its base form (without -s).\n'He doesn't get up late.' (not 'doesn't gets up')\n'She doesn't work at home.' (not 'doesn't works')\n\nDays of the week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday."
     },
     "ja": {
-      "title": "文法のポイント",
-      "content": "• 肯定文: He gets up early.（彼は早く起きます。）\n• 否定文: He doesn't get up late.（彼は遅く起きません。）\n• 疑問文: What time does he get up?（彼は何時に起きますか？）\n• 短い答え: Yes, he does. / No, he doesn't.\n• 頻度の副詞: usually（たいてい 90%）、sometimes（時々 40%）、never（決して〜ない 0%）\n• I work / He works / She works"
+      "title": "ぶんぽう ぽいんと",
+      "content": "きょうは よっつ の ぶんぽう を まなびます。\n\n【1. ひんど を あらわす ことば】\n『いつも』『たいてい』『ときどき』『ぜったいに～しない』 は、 どのくらい の ひんど で ことを するか を つたえる ことば です。\nれい: わたしは いつも ７じ に おきます。\nれい: かのじょは ときどき うち で あさごはん を たべます。\nれい: かれは ぜったいに おそく ねません。\n\n【2. どうし の かたち (かれ・かのじょ)】\nにほんご の どうし は、 『ます』 の かたち を つかって ていねい に あらわします。\n『おきます』 (『おきる』 では なく、 『おきます』 を つかいます)\n『はたらきます』 (『はたらく』 では なく、 『はたらきます』 を つかいます)\n\n【3. ぎもんぶん の つくりかた】\nぎもんぶん は、 ぶんの おわり に 『か』 を つけます。\nどうし は 『ます』 の かたち の まま です。\n『なんじ に おきますか？』\n『あさごはん を たべますか？』\n\n【4. ひていぶん の つくりかた】\nひていぶん は、 どうし の まえ に 『ません』 を つけます。\n『おきません』 (『おきます』 の ひてい)\n『はたらきません』 (『はたらきます』 の ひてい)\n\nようび も おぼえましょう！\nげつようび、 かようび、 すいようび、 もくようび、 きんようび、 どようび、 にちようび。"
     },
     "fr": {
-      "title": "Point de Grammaire",
-      "content": "• Positif: He gets up early.\n• Négatif: He doesn't get up late.\n• Question: What time does he get up?\n• Réponse courte: Yes, he does. / No, he doesn't.\n• Adverbes: usually (90%), sometimes (40%), never (0%)\n• I work / He works / She works"
+      "title": "Grammaire",
+      "content": "Apprenons 4 points de grammaire aujourd'hui !\n\n【1. Exprimer la fréquence】\nEn français, on utilise des mots comme 'toujours', 'souvent', 'parfois', 'jamais' pour dire à quelle fréquence on fait une action.\nExemple : Je me lève toujours à 7h00.\nExemple : Elle prend parfois son petit-déjeuner à la maison.\nExemple : Il ne se couche jamais tard.\n\n【2. Le verbe au présent (il, elle)】\nEn français, les verbes changent de forme selon la personne.\nPour 'il' et 'elle', on utilise la 3e personne du singulier.\n'Il se lève à 7h00.' (verbe 'se lever' conjugué)\n'Elle travaille dans un bureau.' (verbe 'travailler' conjugué)\n\n【3. Poser une question】\nPour poser une question, on peut utiliser 'est-ce que' au début de la phrase.\nLe verbe reste conjugué à la 3e personne.\n'Est-ce qu'il se lève à 7h00 ?'\n'Est-ce qu'elle prend le petit-déjeuner ?'\n\n【4. Faire une négation】\nPour faire une négation, on met 'ne' devant le verbe et 'pas' après.\n'Il ne se lève pas tard.'\n'Elle ne travaille pas à la maison.'\n\nLes jours de la semaine :\nlundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche."
     },
     "ko": {
       "title": "문법 포인트",
-      "content": "• 긍정문: He gets up early. (그는 일찍 일어납니다.)\n• 부정문: He doesn't get up late. (그는 늦게 일어나지 않습니다.)\n• 의문문: What time does he get up? (그는 몇 시에 일어나나요?)\n• 짧은 답변: Yes, he does. / No, he doesn't.\n• 빈도 부사: usually (보통 90%), sometimes (가끔 40%), never (절대 ~하지 않다 0%)\n• I work / He works / She works"
+      "content": "오늘은 문법 4가지를 배워볼게요.\n\n【1. 빈도 표현하기】\n한국어에서는 '항상', '보통', '가끔', '절대 ~하지 않다'와 같은 말로 얼마나 자주 하는지를 나타내요.\n예: 나는 항상 7시에 일어나요.\n예: 그녀는 가끔 집에서 아침을 먹어요.\n예: 그는 절대 늦게 잠자리에 가지 않아요.\n\n【2. 동사의 현재형 (그는, 그녀는)】\n한국어 동사는 '~아요/어요'를 붙여서 현재형을 만들어요.\n'일어나요' (일어나다 + 아요)\n'일해요' (일하다 + 여요)\n\n【3. 의문문 만들기】\n의문문은 문장 끝에 '~까요?', '~나요?'를 붙여서 만들어요.\n'몇 시에 일어나요?'\n'아침을 먹어요?'\n\n【4. 부정문 만들기】\n부정문은 동사 앞에 '안'을 넣거나, '~지 않아요'를 붙여서 만들어요.\n'일어나지 않아요.'\n'일하지 않아요.'\n\n요일도 같이 외워볼까요?\n월요일, 화요일, 수요일, 목요일, 금요일, 토요일, 일요일."
     }
   },
   "practice_conversations": {
@@ -282,31 +282,31 @@
     ],
     "ja": [
       {
-        "title": "時間を尋ねる",
+        "title": "じかんをたずねる",
         "lines": [
-          { "speaker": "A", "text": "今何時ですか？" },
-          { "speaker": "B", "text": "9時です。" },
+          { "speaker": "A", "text": "いまなんじですか？" },
+          { "speaker": "B", "text": "くじです。" },
           { "speaker": "A", "text": "ありがとうございます。" }
         ]
       },
       {
-        "title": "毎日の習慣",
+        "title": "まいにちのしゅうかん",
         "lines": [
-          { "speaker": "A", "text": "何時に起きますか？" },
-          { "speaker": "B", "text": "7時30分に起きます。" },
-          { "speaker": "A", "text": "何時に朝ごはんを食べますか？" },
-          { "speaker": "B", "text": "8時に朝ごはんを食べます。" }
+          { "speaker": "A", "text": "なんじにおきますか？" },
+          { "speaker": "B", "text": "７じ３０ぷんにおきます。" },
+          { "speaker": "A", "text": "なんじにあさごはんをたべますか？" },
+          { "speaker": "B", "text": "８じにあさごはんをたべます。" }
         ]
       },
       {
         "title": "カールについて",
         "lines": [
-          { "speaker": "A", "text": "彼は何時に起きますか？" },
-          { "speaker": "B", "text": "彼は6時に起きます。" },
-          { "speaker": "A", "text": "彼はタクシーで仕事に行きますか？" },
-          { "speaker": "B", "text": "はい、行きます。" },
-          { "speaker": "A", "text": "彼はレストランで昼ごはんを食べますか？" },
-          { "speaker": "B", "text": "いいえ、食べません。" }
+          { "speaker": "A", "text": "かれはなんじにおきますか？" },
+          { "speaker": "B", "text": "かれは６じにおきます。" },
+          { "speaker": "A", "text": "かれはタクシーでしごとにいきますか？" },
+          { "speaker": "B", "text": "はい、いきます。" },
+          { "speaker": "A", "text": "かれはレストランでひるごはんをたべますか？" },
+          { "speaker": "B", "text": "いいえ、たべません。" }
         ]
       }
     ],
@@ -377,8 +377,8 @@
       { "id": "thank_you", "emoji": "🙏", "expression": "Thank you very much.", "hint": "thanking", "response": "You're welcome." }
     ],
     "ja": [
-      { "id": "what_time", "emoji": "🕐", "expression": "今何時ですか？", "hint": "時間を尋ねる", "response": "9時です。" },
-      { "id": "thank_you", "emoji": "🙏", "expression": "ありがとうございます。", "hint": "感謝", "response": "どういたしまして。" }
+      { "id": "what_time", "emoji": "🕐", "expression": "いまなんじですか？", "hint": "じかんをたずねる", "response": "くじです。" },
+      { "id": "thank_you", "emoji": "🙏", "expression": "ありがとうございます。", "hint": "かんしゃ", "response": "どういたしまして。" }
     ],
     "fr": [
       { "id": "what_time", "emoji": "🕐", "expression": "Quelle heure est-il ?", "hint": "demander l'heure", "response": "Il est neuf heures." },
@@ -427,23 +427,22 @@
       { "day": "일요일", "svg": "<svg width='60' height='60' viewBox='0 0 60 60'><rect x='4' y='6' width='52' height='50' rx='6' fill='#ffffff' stroke='#3498db' stroke-width='2'/><rect x='4' y='6' width='52' height='14' rx='6' fill='#e74c3c'/><rect x='4' y='14' width='52' height='6' fill='#e74c3c'/><text x='30' y='40' text-anchor='middle' font-size='22' font-weight='bold' fill='#2c3e50'>일</text><text x='30' y='52' text-anchor='middle' font-size='9' fill='#7f8c8d'>17</text></svg>" }
     ]
   },
-"time_prepositions": {
-  "en": {
-    "title": "Prepositions: in, on, at",
-    "content": "• at: at nine o'clock, at ten thirty, at the weekend\n• on: on Sunday, on Monday morning, on Saturday evening\n• in: in the morning, in the afternoon, in the evening"
-  },
-  "fr": {
-    "title": "Prépositions: à, le",
-    "content": "• à: à neuf heures, à dix heures trente, le week-end\n• le: le dimanche, le lundi matin, le samedi soir\n• le matin, l'après-midi, le soir"
-  },
-  "ja": {
-    "title": "助詞: に",
-    "content": "• 9時に、10時30分に、週末に\n• 日曜日に、月曜日の朝に、土曜日の夕方に\n• 午前に、午後に、夕方に"
-  },
-  "ko": {
-    "title": "조사: ∼에",
-    "content": "• 9시에, 10시 30분에, 주말에\n• 일요일에, 월요일 아침에, 토요일 저녁에\n• 아침에, 오후에, 저녁에"
+  "time_prepositions": {
+    "en": {
+      "title": "Prepositions: in, on, at",
+      "content": "• at: at nine o'clock, at ten thirty, at the weekend\n• on: on Sunday, on Monday morning, on Saturday evening\n• in: in the morning, in the afternoon, in the evening"
+    },
+    "fr": {
+      "title": "Prépositions: à, le",
+      "content": "• à: à neuf heures, à dix heures trente, le week-end\n• le: le dimanche, le lundi matin, le samedi soir\n• le matin, l'après-midi, le soir"
+    },
+    "ja": {
+      "title": "じょし: に",
+      "content": "• くじに、１０じ３０ぷんに、しゅうまつに\n• にちようびに、げつようびのあさに、どようびのゆうがたに\n• ごぜんに、ごごに、ゆうがたに"
+    },
+    "ko": {
+      "title": "조사: ∼에",
+      "content": "• 9시에, 10시 30분에, 주말에\n• 일요일에, 월요일 아침에, 토요일 저녁에\n• 아침에, 오후에, 저녁에"
+    }
   }
-}
-  
 }
