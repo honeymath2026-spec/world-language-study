@@ -1,13 +1,13 @@
 {
   "title": {
-    "en": "Unit 14 - It's time to go!",
-    "ja": "ユニット14 - 出発の時間です！",
-    "fr": "Unité 14 - Il est temps d'y aller !",
-    "ko": "유닛 14 - 떠날 시간이에요!"
+    "en": "It's time to go!",
+    "ja": "しゅっぱつの じかんです！",
+    "fr": "Il est temps d'y aller !",
+    "ko": "떠날 시간이에요!"
   },
   "topic": {
     "en": "Present Continuous for future · Question word revision · Transport and travel · Going sightseeing",
-    "ja": "未来の現在進行形 · 疑問詞の復習 · 交通と旅行 · 観光",
+    "ja": "みらいの けいかく · しつもんの ことば · こうつう と りょこう · かんこう",
     "fr": "Présent continu pour le futur · Révision des mots interrogatifs · Transport et voyage · Visite touristique",
     "ko": "미래의 현재진행형 · 의문사 복습 · 교통과 여행 · 관광"
   },
@@ -25,16 +25,16 @@
       { "id": "passport", "emoji": "🛂", "word": "passport", "hint": "I have a passport", "sound": "passport" }
     ],
     "ja": [
-      { "id": "taxi", "emoji": "🚕", "word": "タクシー", "hint": "タクシーに乗ります", "sound": "takushii" },
-      { "id": "plane", "emoji": "✈️", "word": "飛行機", "hint": "飛行機で飛びます", "sound": "hikouki" },
-      { "id": "train", "emoji": "🚂", "word": "電車", "hint": "電車で旅行します", "sound": "densha" },
-      { "id": "bus", "emoji": "🚌", "word": "バス", "hint": "バスで旅行します", "sound": "basu" },
-      { "id": "ship", "emoji": "🚢", "word": "船", "hint": "船で旅行します", "sound": "fune" },
-      { "id": "bicycle", "emoji": "🚲", "word": "自転車", "hint": "自転車に乗ります", "sound": "jitensha" },
-      { "id": "motorbike", "emoji": "🏍️", "word": "オートバイ", "hint": "オートバイに乗ります", "sound": "ootobai" },
-      { "id": "underground", "emoji": "🚇", "word": "地下鉄", "hint": "地下鉄に乗ります", "sound": "chikatetsu" },
-      { "id": "ticket", "emoji": "🎫", "word": "チケット", "hint": "チケットを買います", "sound": "chiketto" },
-      { "id": "passport", "emoji": "🛂", "word": "パスポート", "hint": "パスポートを持っています", "sound": "pasupooto" }
+      { "id": "taxi", "emoji": "🚕", "word": "タクシー", "hint": "タクシーに のります", "sound": "タクシー" },
+      { "id": "plane", "emoji": "✈️", "word": "ひこうき", "hint": "ひこうきで とびます", "sound": "ひこうき" },
+      { "id": "train", "emoji": "🚂", "word": "でんしゃ", "hint": "でんしゃで りょこうします", "sound": "でんしゃ" },
+      { "id": "bus", "emoji": "🚌", "word": "バス", "hint": "バスで りょこうします", "sound": "バス" },
+      { "id": "ship", "emoji": "🚢", "word": "ふね", "hint": "ふねで りょこうします", "sound": "ふね" },
+      { "id": "bicycle", "emoji": "🚲", "word": "じてんしゃ", "hint": "じてんしゃに のります", "sound": "じてんしゃ" },
+      { "id": "motorbike", "emoji": "🏍️", "word": "オートバイ", "hint": "オートバイに のります", "sound": "オートバイ" },
+      { "id": "underground", "emoji": "🚇", "word": "ちかてつ", "hint": "ちかてつに のります", "sound": "ちかてつ" },
+      { "id": "ticket", "emoji": "🎫", "word": "チケット", "hint": "チケットを かいます", "sound": "チケット" },
+      { "id": "passport", "emoji": "🛂", "word": "パスポート", "hint": "パスポートを もっています", "sound": "パスポート" }
     ],
     "fr": [
       { "id": "taxi", "emoji": "🚕", "word": "taxi", "hint": "Je prends un taxi", "sound": "taxi" },
@@ -49,16 +49,16 @@
       { "id": "passport", "emoji": "🛂", "word": "passeport", "hint": "J'ai un passeport", "sound": "passeport" }
     ],
     "ko": [
-      { "id": "taxi", "emoji": "🚕", "word": "택시", "hint": "택시를 타요", "sound": "taeksi" },
-      { "id": "plane", "emoji": "✈️", "word": "비행기", "hint": "비행기를 타요", "sound": "bihaenggi" },
-      { "id": "train", "emoji": "🚂", "word": "기차", "hint": "기차를 타요", "sound": "gicha" },
-      { "id": "bus", "emoji": "🚌", "word": "버스", "hint": "버스를 타요", "sound": "beoseu" },
-      { "id": "ship", "emoji": "🚢", "word": "배", "hint": "배를 타요", "sound": "bae" },
-      { "id": "bicycle", "emoji": "🚲", "word": "자전거", "hint": "자전거를 타요", "sound": "jajeongeo" },
-      { "id": "motorbike", "emoji": "🏍️", "word": "오토바이", "hint": "오토바이를 타요", "sound": "otobai" },
-      { "id": "underground", "emoji": "🚇", "word": "지하철", "hint": "지하철을 타요", "sound": "jihacheol" },
-      { "id": "ticket", "emoji": "🎫", "word": "티켓", "hint": "티켓을 사요", "sound": "tiket" },
-      { "id": "passport", "emoji": "🛂", "word": "여권", "hint": "여권이 있어요", "sound": "yeogwon" }
+      { "id": "taxi", "emoji": "🚕", "word": "택시", "hint": "택시를 타요", "sound": "택시" },
+      { "id": "plane", "emoji": "✈️", "word": "비행기", "hint": "비행기를 타요", "sound": "비행기" },
+      { "id": "train", "emoji": "🚂", "word": "기차", "hint": "기차를 타요", "sound": "기차" },
+      { "id": "bus", "emoji": "🚌", "word": "버스", "hint": "버스를 타요", "sound": "버스" },
+      { "id": "ship", "emoji": "🚢", "word": "배", "hint": "배를 타요", "sound": "배" },
+      { "id": "bicycle", "emoji": "🚲", "word": "자전거", "hint": "자전거를 타요", "sound": "자전거" },
+      { "id": "motorbike", "emoji": "🏍️", "word": "오토바이", "hint": "오토바이를 타요", "sound": "오토바이" },
+      { "id": "underground", "emoji": "🚇", "word": "지하철", "hint": "지하철을 타요", "sound": "지하철" },
+      { "id": "ticket", "emoji": "🎫", "word": "티켓", "hint": "티켓을 사요", "sound": "티켓" },
+      { "id": "passport", "emoji": "🛂", "word": "여권", "hint": "여권이 있어요", "sound": "여권" }
     ]
   },
   "listen_repeat": {
@@ -75,16 +75,16 @@
       { "id": "where_going", "emoji": "🗺️", "text": "Where are you going?", "sound": "Where are you going?" }
     ],
     "ja": [
-      { "id": "collecting_tickets", "emoji": "🎫", "text": "彼女はチケットを受け取っています。", "sound": "Kanojo wa chiketto wo uketotte imasu." },
-      { "id": "meeting_friends", "emoji": "🤝", "text": "彼女はエドとルーシーに会います。", "sound": "Kanojo wa Edo to Ruushii ni aimasu." },
-      { "id": "seeing_doctor", "emoji": "🏥", "text": "彼女は医者に診てもらいます。", "sound": "Kanojo wa isha ni mite moraimasu." },
-      { "id": "leaving_early", "emoji": "🚪", "text": "彼女は早く仕事を終えます。", "sound": "Kanojo wa hayaku shigoto wo oemasu." },
-      { "id": "packing_bags", "emoji": "🧳", "text": "彼女は荷造りをしています。", "sound": "Kanojo wa nidukuri wo shite imasu." },
-      { "id": "flying_mexico", "emoji": "✈️", "text": "彼女はメキシコに飛びます。", "sound": "Kanojo wa Mekishiko ni tobimasu." },
-      { "id": "going_taxi", "emoji": "🚕", "text": "彼女はタクシーで空港に行きます。", "sound": "Kanojo wa takushii de kuukou ni ikimasu." },
-      { "id": "what_doing", "emoji": "❓", "text": "何をしていますか？", "sound": "Nani wo shite imasu ka?" },
-      { "id": "when_leaving", "emoji": "📅", "text": "いつ出発しますか？", "sound": "Itsu shuppatsu shimasu ka?" },
-      { "id": "where_going", "emoji": "🗺️", "text": "どこに行きますか？", "sound": "Doko ni ikimasu ka?" }
+      { "id": "collecting_tickets", "emoji": "🎫", "text": "かのじょは チケットを うけとっています。", "sound": "かのじょは チケットを うけとっています。" },
+      { "id": "meeting_friends", "emoji": "🤝", "text": "かのじょは エドと ルーシーに あいます。", "sound": "かのじょは エドと ルーシーに あいます。" },
+      { "id": "seeing_doctor", "emoji": "🏥", "text": "かのじょは いしゃに みてもらいます。", "sound": "かのじょは いしゃに みてもらいます。" },
+      { "id": "leaving_early", "emoji": "🚪", "text": "かのじょは はやく しごとを おわります。", "sound": "かのじょは はやく しごとを おわります。" },
+      { "id": "packing_bags", "emoji": "🧳", "text": "かのじょは にもつを つめています。", "sound": "かのじょは にもつを つめています。" },
+      { "id": "flying_mexico", "emoji": "✈️", "text": "かのじょは メキシコに ひこうきで いきます。", "sound": "かのじょは メキシコに ひこうきで いきます。" },
+      { "id": "going_taxi", "emoji": "🚕", "text": "かのじょは タクシーで くうこうに いきます。", "sound": "かのじょは タクシーで くうこうに いきます。" },
+      { "id": "what_doing", "emoji": "❓", "text": "なにを していますか？", "sound": "なにを していますか？" },
+      { "id": "when_leaving", "emoji": "📅", "text": "いつ しゅっぱつ しますか？", "sound": "いつ しゅっぱつ しますか？" },
+      { "id": "where_going", "emoji": "🗺️", "text": "どこに いきますか？", "sound": "どこに いきますか？" }
     ],
     "fr": [
       { "id": "collecting_tickets", "emoji": "🎫", "text": "Elle récupère ses billets.", "sound": "Elle récupère ses billets." },
@@ -99,16 +99,16 @@
       { "id": "where_going", "emoji": "🗺️", "text": "Où vas-tu ?", "sound": "Où vas-tu ?" }
     ],
     "ko": [
-      { "id": "collecting_tickets", "emoji": "🎫", "text": "그녀는 티켓을 받고 있어요.", "sound": "Geunyeoneun tigeseul batgo isseoyo." },
-      { "id": "meeting_friends", "emoji": "🤝", "text": "그녀는 에드와 루시를 만나요.", "sound": "Geunyeoneun Edeuwa Rusireul mannayo." },
-      { "id": "seeing_doctor", "emoji": "🏥", "text": "그녀는 의사를 만나요.", "sound": "Geunyeoneun uisareul mannayo." },
-      { "id": "leaving_early", "emoji": "🚪", "text": "그녀는 일찍 퇴근해요.", "sound": "Geunyeoneun iljjik toegeunhaeyo." },
-      { "id": "packing_bags", "emoji": "🧳", "text": "그녀는 짐을 싸고 있어요.", "sound": "Geunyeoneun jimeul ssago isseoyo." },
-      { "id": "flying_mexico", "emoji": "✈️", "text": "그녀는 멕시코로 날아가요.", "sound": "Geunyeoneun Meksikoro naragayo." },
-      { "id": "going_taxi", "emoji": "🚕", "text": "그녀는 택시로 공항에 가요.", "sound": "Geunyeoneun taeksiro gonghange gayo." },
-      { "id": "what_doing", "emoji": "❓", "text": "뭐 하고 있어요?", "sound": "Mwo hago isseoyo?" },
-      { "id": "when_leaving", "emoji": "📅", "text": "언제 떠나요?", "sound": "Eonje tteonayo?" },
-      { "id": "where_going", "emoji": "🗺️", "text": "어디로 가요?", "sound": "Eodiro gayo?" }
+      { "id": "collecting_tickets", "emoji": "🎫", "text": "그녀는 티켓을 받고 있어요.", "sound": "그녀는 티켓을 받고 있어요." },
+      { "id": "meeting_friends", "emoji": "🤝", "text": "그녀는 에드와 루시를 만나요.", "sound": "그녀는 에드와 루시를 만나요." },
+      { "id": "seeing_doctor", "emoji": "🏥", "text": "그녀는 의사를 만나요.", "sound": "그녀는 의사를 만나요." },
+      { "id": "leaving_early", "emoji": "🚪", "text": "그녀는 일찍 퇴근해요.", "sound": "그녀는 일찍 퇴근해요." },
+      { "id": "packing_bags", "emoji": "🧳", "text": "그녀는 짐을 싸고 있어요.", "sound": "그녀는 짐을 싸고 있어요." },
+      { "id": "flying_mexico", "emoji": "✈️", "text": "그녀는 멕시코로 비행기를 타요.", "sound": "그녀는 멕시코로 비행기를 타요." },
+      { "id": "going_taxi", "emoji": "🚕", "text": "그녀는 택시로 공항에 가요.", "sound": "그녀는 택시로 공항에 가요." },
+      { "id": "what_doing", "emoji": "❓", "text": "뭐 하고 있어요?", "sound": "뭐 하고 있어요?" },
+      { "id": "when_leaving", "emoji": "📅", "text": "언제 떠나요?", "sound": "언제 떠나요?" },
+      { "id": "where_going", "emoji": "🗺️", "text": "어디로 가요?", "sound": "어디로 가요?" }
     ]
   },
   "story_time": {
@@ -123,9 +123,9 @@
       ]
     },
     "ja": {
-      "title": "エリーの休暇の計画",
-      "content": "👩 エリーは休暇に興奮しています！ 📅 彼女は来週メキシコに行きます。 🎫 月曜日には旅行代理店でチケットを受け取ります。 🤝 火曜日には仕事の後にエドとルーシーに会って、買い物に行きます。 🏥 水曜日には11時に医者に診てもらい、それから母と昼食を食べます。 🚪 木曜日には早く仕事を終えて、荷造りをします。 🚕 金曜日の朝6時30分にタクシーで空港に行き、そこでエドとルーシーに会います。 ✈️ 9時30分にメキシコに飛びます。 🌴 「とても楽しみです！」とエリーは言います。",
-      "question": "エリーはどこに休暇に行きますか？",
+      "title": "エリーの きゅうかの けいかく",
+      "content": "👩 エリーは きゅうかに こうふんしています！ 📅 かのじょは らいしゅう メキシコに いきます。 🎫 げつようびには りょこうだいりてんで チケットを うけとります。 🤝 かようびには しごとの あとに エドと ルーシーに あって、かいものに いきます。 🏥 すいようびには １１じに いしゃに みてもらい、それから ははと ちゅうしょくを たべます。 🚪 もくようびには はやく しごとを おわって、にもつを つめます。 🚕 きんようびの あさ ６じ３０ぷんに タクシーで くうこうに いき、そこで エドと ルーシーに あいます。 ✈️ ９じ３０ぷんに メキシコに ひこうきで いきます。 🌴 「とても たのしみです！」と エリーは いいます。",
+      "question": "エリーは どこに きゅうかに いきますか？",
       "options": [
         { "text": "メキシコ", "emoji": "🌴", "correct": true },
         { "text": "カナダ", "emoji": "🍁", "correct": false },
@@ -185,27 +185,27 @@
     "ja": [
       {
         "type": "match",
-        "instruction": "交通機関と絵を合わせましょう！",
+        "instruction": "こうつうきかんと えを あわせましょう！",
         "pairs": [
-          { "emoji": "✈️", "word": "飛行機" },
-          { "emoji": "🚂", "word": "電車" },
+          { "emoji": "✈️", "word": "ひこうき" },
+          { "emoji": "🚂", "word": "でんしゃ" },
           { "emoji": "🚌", "word": "バス" },
-          { "emoji": "🚢", "word": "船" }
+          { "emoji": "🚢", "word": "ふね" }
         ]
       },
       {
         "type": "match",
-        "instruction": "疑問詞と質問を合わせましょう！",
+        "instruction": "しつもんの ことばと しつもんを あわせましょう！",
         "pairs": [
-          { "emoji": "❓", "word": "何をしていますか？" },
-          { "emoji": "📅", "word": "いつ出発しますか？" },
-          { "emoji": "🗺️", "word": "どこに行きますか？" },
-          { "emoji": "🤔", "word": "なぜ行くのですか？" }
+          { "emoji": "❓", "word": "なにを していますか？" },
+          { "emoji": "📅", "word": "いつ しゅっぱつ しますか？" },
+          { "emoji": "🗺️", "word": "どこに いきますか？" },
+          { "emoji": "🤔", "word": "なぜ いくのですか？" }
         ]
       },
       {
         "type": "find",
-        "question": "空港の交通機関を探しましょう！ ✈️",
+        "question": "くうこうの こうつうきかんを さがしましょう！ ✈️",
         "target": "✈️",
         "options": ["✈️", "🚂", "🚌", "🚢"]
       }
@@ -267,82 +267,22 @@
       }
     ]
   },
-  "grammar_spot": {
+  "grammar": {
     "en": {
-      "title": "Present Continuous for Future",
-      "rules": [
-        "The Present Continuous can express future plans.",
-        "We often say when (this afternoon, tomorrow, on Saturday, ...) with the Present Continuous.",
-        "Make questions with When + am/are/is + subject + -ing.",
-        "The Present Continuous can express present and future.",
-        "Compare: I'm reading about Mexico. (now) / I'm leaving next Friday. (future)"
-      ],
-      "examples": [
-        { "question": "I'm going to Mexico next week.", "answer": "future plan" },
-        { "question": "She's seeing the doctor on Wednesday.", "answer": "future plan" },
-        { "question": "We're leaving next Friday.", "answer": "future plan" },
-        { "question": "What are you doing tomorrow?", "answer": "future question" },
-        { "question": "When are you leaving?", "answer": "future question" },
-        { "question": "Where are you going?", "answer": "future question" },
-        { "question": "I'm reading about Mexico.", "answer": "present action" }
-      ]
+      "title": "Grammar Spot",
+      "content": "Let's learn 3 grammar points today!\n\n【1. Present Continuous for Future】\nWe use the Present Continuous to talk about future plans and arrangements.\nUse 'am/is/are' + verb-ing.\nExample: She is flying to Mexico next week.\nExample: We are meeting friends on Tuesday.\nExample: He is leaving work early on Thursday.\n\n【2. Questions for Future Plans】\nTo ask about future plans, use 'am/is/are' at the start or use question words.\nExample: Are you going to Mexico? → Yes, I am. / No, I'm not.\nExample: Where are you going? → I'm going to Mexico.\nExample: When are you leaving? → I'm leaving on Friday.\n\n【3. Question Words Review】\nWhat? (things and actions)\nWhere? (places)\nWhen? (times)\nWhy? (reasons)\nWho? (people)\n\nExample: What are you doing? → I'm packing.\nExample: Where are you going? → I'm going to the airport.\nExample: When are you leaving? → I'm leaving at 6.30.\nExample: Why are you going? → I'm going on holiday.\nExample: Who are you meeting? → I'm meeting Ed and Lucy.\n\nRemember! We use the Present Continuous to talk about future arrangements.\n✅ I am flying to Mexico. (arrangement)\n✅ She is meeting friends. (arrangement)"
     },
     "ja": {
-      "title": "未来の現在進行形",
-      "rules": [
-        "現在進行形は未来の計画を表現できます。",
-        "現在進行形と一緒にいつ（今日の午後、明日、土曜日に...）をよく言います。",
-        "When + am/are/is + 主語 + -ing で疑問文を作ります。",
-        "現在進行形は現在と未来の両方を表現できます。",
-        "比較：I'm reading about Mexico.（今）/ I'm leaving next Friday.（未来）"
-      ],
-      "examples": [
-        { "question": "来週メキシコに行きます。（I'm going to Mexico next week.）", "answer": "未来の計画" },
-        { "question": "彼女は水曜日に医者に診てもらいます。（She's seeing the doctor on Wednesday.）", "answer": "未来の計画" },
-        { "question": "私たちは次の金曜日に出発します。（We're leaving next Friday.）", "answer": "未来の計画" },
-        { "question": "明日何をしますか？（What are you doing tomorrow?）", "answer": "未来の疑問" },
-        { "question": "いつ出発しますか？（When are you leaving?）", "answer": "未来の疑問" },
-        { "question": "どこに行きますか？（Where are you going?）", "answer": "未来の疑問" },
-        { "question": "メキシコについて読んでいます。（I'm reading about Mexico.）", "answer": "現在の動作" }
-      ]
+      "title": "ぶんぽう の ポイント",
+      "content": "きょうは ３つの ぶんぽうを まなびましょう！\n\n【1. みらいの けいかく】\nこれからの けいかくを はなす ときに「〜します」を つかいます。\n「〜します」を つかいます。\nれい：かのじょは メキシコに ひこうきで いきます。\nれい：わたしたちは かようびに ともだちに あいます。\nれい：かれは もくようびに はやく しごとを おわります。\n\n【2. けいかくの しつもん】\nけいかくを きく ときは、ぶんの おわりに「か」を つけます。\nまたは しつもんの ことばを つかいます。\nれい：メキシコに いきますか？\nこたえ：はい、いきます。 / いいえ、いきません。\nれい：どこに いきますか？ → メキシコに いきます。\nれい：いつ しゅっぱつ しますか？ → きんようびに しゅっぱつ します。\n\n【3. しつもんの ことば】\nなに？（もの と こうどう）\nどこ？（ばしょ）\nいつ？（じかん）\nなぜ？（りゆう）\nだれ？（ひと）\n\nれい：なにを していますか？ → にもつを つめています。\nれい：どこに いきますか？ → くうこうに いきます。\nれい：いつ しゅっぱつ しますか？ → ６じ３０ぷんに しゅっぱつ します。\nれい：なぜ いきますか？ → きゅうかに いきます。\nれい：だれに あいますか？ → エドと ルーシーに あいます。\n\nおぼえてね！\n「〜します」を つかうと みらいの けいかくを はなせます。\n✅ わたしは メキシコに ひこうきで いきます。\n✅ かのじょは ともだちに あいます。"
     },
     "fr": {
-      "title": "Présent continu pour le futur",
-      "rules": [
-        "Le présent continu peut exprimer des plans futurs.",
-        "On dit souvent quand (cet après-midi, demain, samedi, ...) avec le présent continu.",
-        "Faites des questions avec When + am/are/is + sujet + -ing.",
-        "Le présent continu peut exprimer le présent et le futur.",
-        "Comparez : I'm reading about Mexico. (maintenant) / I'm leaving next Friday. (futur)"
-      ],
-      "examples": [
-        { "question": "Je vais au Mexique la semaine prochaine.", "answer": "plan futur" },
-        { "question": "Elle voit le médecin mercredi.", "answer": "plan futur" },
-        { "question": "Nous partons vendredi prochain.", "answer": "plan futur" },
-        { "question": "Qu'est-ce que tu fais demain ?", "answer": "question future" },
-        { "question": "Quand pars-tu ?", "answer": "question future" },
-        { "question": "Où vas-tu ?", "answer": "question future" },
-        { "question": "Je lis sur le Mexique.", "answer": "action présente" }
-      ]
+      "title": "Coin Grammaire",
+      "content": "Apprenons 3 points de grammaire aujourd'hui !\n\n【1. Présent Continu pour le futur】\nOn utilise le Présent Continu pour parler des projets et des arrangements futurs.\nUtilisez 'am/is/are' + verbe-ing.\nExemple : Elle prend l'avion pour le Mexique la semaine prochaine.\nExemple : Nous retrouvons des amis mardi.\nExemple : Il quitte le travail tôt jeudi.\n\n【2. Questions sur les projets futurs】\nPour poser des questions sur les projets, on met 'am/is/are' au début ou on utilise des mots interrogatifs.\nExemple : Tu vas au Mexique ? → Oui, je vais. / Non, je ne vais pas.\nExemple : Où vas-tu ? → Je vais au Mexique.\nExemple : Quand pars-tu ? → Je pars vendredi.\n\n【3. Révision des mots interrogatifs】\nQuoi ? (choses et actions)\nOù ? (lieux)\nQuand ? (temps)\nPourquoi ? (raisons)\nQui ? (personnes)\n\nExemple : Qu'est-ce que tu fais ? → Je fais mes valises.\nExemple : Où vas-tu ? → Je vais à l'aéroport.\nExemple : Quand pars-tu ? → Je pars à 6h30.\nExemple : Pourquoi y vas-tu ? → Je pars en vacances.\nExemple : Qui rencontres-tu ? → Je rencontre Ed et Lucy.\n\nSouviens-toi !\nOn utilise le Présent Continu pour parler des arrangements futurs.\n✅ Je prends l'avion pour le Mexique. (arrangement)\n✅ Elle rencontre des amis. (arrangement)"
     },
     "ko": {
-      "title": "미래의 현재진행형",
-      "rules": [
-        "현재진행형은 미래 계획을 표현할 수 있습니다.",
-        "현재진행형과 함께 '언제'(오늘 오후, 내일, 토요일에...)를 자주 말합니다.",
-        "When + am/are/is + 주어 + -ing 으로 의문문을 만듭니다.",
-        "현재진행형은 현재와 미래를 모두 표현할 수 있습니다.",
-        "비교: I'm reading about Mexico. (지금) / I'm leaving next Friday. (미래)"
-      ],
-      "examples": [
-        { "question": "나는 다음 주에 멕시코로 가요.", "answer": "미래 계획" },
-        { "question": "그녀는 수요일에 의사를 만나요.", "answer": "미래 계획" },
-        { "question": "우리는 다음 주 금요일에 떠나요.", "answer": "미래 계획" },
-        { "question": "내일 뭐 해요?", "answer": "미래 의문" },
-        { "question": "언제 떠나요?", "answer": "미래 의문" },
-        { "question": "어디로 가요?", "answer": "미래 의문" },
-        { "question": "멕시코에 대해 읽고 있어요.", "answer": "현재 동작" }
-      ]
+      "title": "문법 포인트",
+      "content": "오늘은 3가지 문법을 배워볼 거예요!\n\n【1. 미래의 계획】\n앞으로의 계획을 말할 때 '~할 거예요'를 사용해요.\n'~할 거예요'를 동사 앞에 붙여요.\n예: 그녀는 멕시코로 비행기를 타요.\n예: 우리는 화요일에 친구들을 만나요.\n예: 그는 목요일에 일찍 퇴근해요.\n\n【2. 계획에 대한 질문】\n계획을 물을 때는 문장 끝에 '요?'를 붙여요.\n또는 의문사를 사용해요.\n예: 멕시코에 가요?\n답: 네, 가요. / 아니요, 안 가요.\n예: 어디로 가요? → 멕시코로 가요.\n예: 언제 떠나요? → 금요일에 떠나요.\n\n【3. 의문사 복습】\n뭐? (것과 동작)\n어디? (장소)\n언제? (시간)\n왜? (이유)\n누구? (사람)\n\n예: 뭐 하고 있어요? → 짐을 싸고 있어요.\n예: 어디로 가요? → 공항에 가요.\n예: 언제 떠나요? → 6시 30분에 떠나요.\n예: 왜 가요? → 휴가를 가요.\n예: 누구를 만나요? → 에드와 루시를 만나요.\n\n기억하세요!\n'~할 거예요'를 사용하면 미래의 계획을 말할 수 있어요.\n✅ 저는 멕시코로 비행기를 타요.\n✅ 그녀는 친구들을 만나요."
     }
   },
   "transport_vocabulary": {
@@ -369,25 +309,25 @@
       ]
     },
     "ja": {
-      "title": "交通と旅行",
+      "title": "こうつう と りょこう",
       "transport": [
         { "word": "タクシー", "emoji": "🚕" },
-        { "word": "飛行機", "emoji": "✈️" },
-        { "word": "電車", "emoji": "🚂" },
+        { "word": "ひこうき", "emoji": "✈️" },
+        { "word": "でんしゃ", "emoji": "🚂" },
         { "word": "バス", "emoji": "🚌" },
-        { "word": "船", "emoji": "🚢" },
-        { "word": "自転車", "emoji": "🚲" },
+        { "word": "ふね", "emoji": "🚢" },
+        { "word": "じてんしゃ", "emoji": "🚲" },
         { "word": "オートバイ", "emoji": "🏍️" },
-        { "word": "地下鉄", "emoji": "🚇" },
-        { "word": "車", "emoji": "🚗" }
+        { "word": "ちかてつ", "emoji": "🚇" },
+        { "word": "くるま", "emoji": "🚗" }
       ],
       "verbs": [
-        { "verb": "荷造りする", "example": "荷物" },
-        { "verb": "予約する", "example": "ホテル" },
-        { "verb": "乗る", "example": "飛行機" },
-        { "verb": "過ごす", "example": "素晴らしい時間" },
-        { "verb": "到着する", "example": "ローマに" },
-        { "verb": "行く", "example": "観光" }
+        { "verb": "つめる", "example": "にもつ" },
+        { "verb": "よやくする", "example": "ホテル" },
+        { "verb": "のる", "example": "ひこうき" },
+        { "verb": "すごす", "example": "たのしい じかん" },
+        { "verb": "とうちゃくする", "example": "ローマに" },
+        { "verb": "いく", "example": "かんこう" }
       ]
     },
     "fr": {
@@ -469,13 +409,13 @@
       ]
     },
     "ja": {
-      "title": "観光",
+      "title": "かんこう",
       "conversations": [
         {
           "id": 1,
           "lines": [
-            { "speaker": "A", "text": "こんにちは。いかがなさいましたか？" },
-            { "speaker": "B", "text": "はい。町の地図をください。" },
+            { "speaker": "A", "text": "こんにちは。いかが なさいましたか？" },
+            { "speaker": "B", "text": "はい。まちの ちずを ください。" },
             { "speaker": "A", "text": "どうぞ。" },
             { "speaker": "B", "text": "ありがとうございます。" }
           ]
@@ -483,19 +423,19 @@
         {
           "id": 2,
           "lines": [
-            { "speaker": "C", "text": "市内のバスツアーに参加したいのですが。" },
-            { "speaker": "A", "text": "かしこまりました。次のバスは10時です。1時間かかります。" },
-            { "speaker": "C", "text": "バスはどこから出発しますか？" },
-            { "speaker": "A", "text": "プリンセスストリートのバス停から出発します。" }
+            { "speaker": "C", "text": "しないの バスツアーに さんかしたいのですが。" },
+            { "speaker": "A", "text": "かしこまりました。つぎの バスは １０じです。１じかん かかります。" },
+            { "speaker": "C", "text": "バスは どこから しゅっぱつ しますか？" },
+            { "speaker": "A", "text": "プリンセスストリートの バスていから しゅっぱつ します。" }
           ]
         },
         {
           "id": 3,
           "lines": [
-            { "speaker": "D", "text": "美術館を訪れたいのですが。開館時間はいつですか？" },
-            { "speaker": "A", "text": "毎日10時から5時までです。" },
-            { "speaker": "D", "text": "入場料はいくらですか？" },
-            { "speaker": "A", "text": "無料です。" }
+            { "speaker": "D", "text": "びじゅつかんを おとずれたいのですが。かいかんじかんは いつですか？" },
+            { "speaker": "A", "text": "まいにち １０じから ５じまでです。" },
+            { "speaker": "D", "text": "にゅうじょうりょうは いくらですか？" },
+            { "speaker": "A", "text": "むりょうです。" }
           ]
         }
       ]

@@ -1,13 +1,13 @@
 {
   "title": {
-    "en": "Unit 12 - Thank you very much!",
-    "ja": "ユニット12 - ありがとうございます！",
-    "fr": "Unité 12 - Merci beaucoup !",
-    "ko": "유닛 12 - 정말 감사합니다!"
+    "en": "Thank you very much!",
+    "ja": "ありがとうございます！",
+    "fr": "Merci beaucoup !",
+    "ko": "정말 감사합니다!"
   },
   "topic": {
     "en": "want and would like · Food and drink · In a restaurant · Going shopping",
-    "ja": "wantとwould like · 食べ物と飲み物 · レストランで · 買い物",
+    "ja": "ほしい と 〜がいい · たべもの と のみもの · レストランで · かいもの",
     "fr": "want et would like · Nourriture et boisson · Au restaurant · Faire du shopping",
     "ko": "want와 would like · 음식과 음료 · 레스토랑에서 · 쇼핑하기"
   },
@@ -25,16 +25,16 @@
       { "id": "fries", "emoji": "🍟", "word": "fries", "hint": "I eat fries", "sound": "fries" }
     ],
     "ja": [
-      { "id": "stamp", "emoji": "📮", "word": "切手", "hint": "切手を買います", "sound": "kitte" },
-      { "id": "dictionary", "emoji": "📖", "word": "辞書", "hint": "辞書を買います", "sound": "jisho" },
-      { "id": "magazine", "emoji": "📰", "word": "雑誌", "hint": "雑誌を読みます", "sound": "zasshi" },
-      { "id": "coffee", "emoji": "☕", "word": "コーヒー", "hint": "コーヒーを飲みます", "sound": "koohii" },
-      { "id": "cheese", "emoji": "🧀", "word": "チーズ", "hint": "チーズを食べます", "sound": "chiizu" },
-      { "id": "salad", "emoji": "🥗", "word": "サラダ", "hint": "サラダを食べます", "sound": "sarada" },
-      { "id": "soup", "emoji": "🍜", "word": "スープ", "hint": "スープを食べます", "sound": "suupu" },
-      { "id": "chicken", "emoji": "🍗", "word": "チキン", "hint": "チキンを食べます", "sound": "chikin" },
-      { "id": "fish", "emoji": "🐟", "word": "魚", "hint": "魚を食べます", "sound": "sakana" },
-      { "id": "fries", "emoji": "🍟", "word": "フライドポテト", "hint": "フライドポテトを食べます", "sound": "furaidopoteto" }
+      { "id": "stamp", "emoji": "📮", "word": "きって", "hint": "きってを かいます", "sound": "きって" },
+      { "id": "dictionary", "emoji": "📖", "word": "じしょ", "hint": "じしょを かいます", "sound": "じしょ" },
+      { "id": "magazine", "emoji": "📰", "word": "ざっし", "hint": "ざっしを よみます", "sound": "ざっし" },
+      { "id": "coffee", "emoji": "☕", "word": "コーヒー", "hint": "コーヒーを のみます", "sound": "コーヒー" },
+      { "id": "cheese", "emoji": "🧀", "word": "チーズ", "hint": "チーズを たべます", "sound": "チーズ" },
+      { "id": "salad", "emoji": "🥗", "word": "サラダ", "hint": "サラダを たべます", "sound": "サラダ" },
+      { "id": "soup", "emoji": "🍜", "word": "スープ", "hint": "スープを たべます", "sound": "スープ" },
+      { "id": "chicken", "emoji": "🍗", "word": "チキン", "hint": "チキンを たべます", "sound": "チキン" },
+      { "id": "fish", "emoji": "🐟", "word": "さかな", "hint": "さかなを たべます", "sound": "さかな" },
+      { "id": "fries", "emoji": "🍟", "word": "フライドポテト", "hint": "フライドポテトを たべます", "sound": "フライドポテト" }
     ],
     "fr": [
       { "id": "stamp", "emoji": "📮", "word": "timbre", "hint": "J'achète un timbre", "sound": "timbre" },
@@ -75,16 +75,16 @@
       { "id": "heres_your_change", "emoji": "💰", "text": "Here you are, and 25p change.", "sound": "Here you are, and 25p change." }
     ],
     "ja": [
-      { "id": "id_like_stamp", "emoji": "📮", "text": "切手をください。", "sound": "Kitte wo kudasai." },
-      { "id": "id_like_coffee", "emoji": "☕", "text": "コーヒーをください。", "sound": "Koohii wo kudasai." },
-      { "id": "id_like_dictionary", "emoji": "📖", "text": "辞書を買いたいです。", "sound": "Jisho wo kaitai desu." },
-      { "id": "would_you_like", "emoji": "❓", "text": "ブラックとホワイト、どちらがいいですか？", "sound": "Burakku to howaito, dochira ga ii desu ka?" },
-      { "id": "would_you_like_drink", "emoji": "🥤", "text": "飲み物はいかがですか？", "sound": "Nomimono wa ikaga desu ka?" },
-      { "id": "what_would_you_like", "emoji": "🤔", "text": "何がいいですか？", "sound": "Nani ga ii desu ka?" },
-      { "id": "yes_please", "emoji": "👍", "text": "はい、お願いします。", "sound": "Hai, onegaishimasu." },
-      { "id": "no_thanks", "emoji": "👎", "text": "いいえ、結構です。", "sound": "Iie, kekkou desu." },
-      { "id": "thank_you_very_much", "emoji": "🙏", "text": "ありがとうございます。", "sound": "Arigatou gozaimasu." },
-      { "id": "heres_your_change", "emoji": "💰", "text": "はい、どうぞ。25ペンスのお釣りです。", "sound": "Hai, douzo. 25 pensu no otsuri desu." }
+      { "id": "id_like_stamp", "emoji": "📮", "text": "きってを ください。", "sound": "きってを ください。" },
+      { "id": "id_like_coffee", "emoji": "☕", "text": "コーヒーを ください。", "sound": "コーヒーを ください。" },
+      { "id": "id_like_dictionary", "emoji": "📖", "text": "じしょを かいたいです。", "sound": "じしょを かいたいです。" },
+      { "id": "would_you_like", "emoji": "❓", "text": "ブラックと ホワイト、どちらが いいですか？", "sound": "ブラックと ホワイト、どちらが いいですか？" },
+      { "id": "would_you_like_drink", "emoji": "🥤", "text": "のみものは いかがですか？", "sound": "のみものは いかがですか？" },
+      { "id": "what_would_you_like", "emoji": "🤔", "text": "なにが いいですか？", "sound": "なにが いいですか？" },
+      { "id": "yes_please", "emoji": "👍", "text": "はい、おねがいします。", "sound": "はい、おねがいします。" },
+      { "id": "no_thanks", "emoji": "👎", "text": "いいえ、けっこうです。", "sound": "いいえ、けっこうです。" },
+      { "id": "thank_you_very_much", "emoji": "🙏", "text": "ありがとうございます。", "sound": "ありがとうございます。" },
+      { "id": "heres_your_change", "emoji": "💰", "text": "はい、どうぞ。２５ペンスのおつりです。", "sound": "はい、どうぞ。２５ペンスのおつりです。" }
     ],
     "fr": [
       { "id": "id_like_stamp", "emoji": "📮", "text": "Je voudrais un timbre, s'il vous plaît.", "sound": "Je voudrais un timbre, s'il vous plaît." },
@@ -123,13 +123,13 @@
       ]
     },
     "ja": {
-      "title": "エンリケの町への旅行",
-      "content": "👨 エンリケには買い物リストがあります。 📮 ベネズエラへの手紙に切手が欲しいです。 💰 お金を両替したいです。 🎵 ゲイリー・オールライトの新しいCDが欲しいです。 📧 アメリカのローザにメールを送りたいです。 📖 スペイン語/英語の辞書が欲しいです。 📰 PCワールドワイドのコンピュータ雑誌が欲しいです。 ☕ コーヒーが欲しいです。 🧀 チーズは欲しいですか？ いいえ、欲しくないです。 🥗 サラダが欲しいです。",
-      "question": "エンリケは何が欲しいですか？",
+      "title": "エンリケの まちへの たび",
+      "content": "👨 エンリケには かいものリストが あります。 📮 ベネズエラへの てがみに きってが ほしいです。 💰 おかねを りょうがえ したいです。 🎵 ゲイリー・オールライトの あたらしい シーディーが ほしいです。 📧 アメリカの ローザに メールを おくりたいです。 📖 スペインご／えいごの じしょが ほしいです。 📰 ピーシー ワールドワイドの コンピュータざっしが ほしいです。 ☕ コーヒーが のみたいです。 🧀 チーズは ほしいですか？ いいえ、ほしくないです。 🥗 サラダが いいです。",
+      "question": "エンリケは なにが ほしいですか？",
       "options": [
-        { "text": "切手と辞書", "emoji": "📮", "correct": true },
-        { "text": "CDと雑誌", "emoji": "🎵", "correct": false },
-        { "text": "コーヒーとサラダ", "emoji": "☕", "correct": false }
+        { "text": "きってと じしょ", "emoji": "📮", "correct": true },
+        { "text": "シーディーと ざっし", "emoji": "🎵", "correct": false },
+        { "text": "コーヒーと サラダ", "emoji": "☕", "correct": false }
       ]
     },
     "fr": {
@@ -185,27 +185,27 @@
     "ja": [
       {
         "type": "match",
-        "instruction": "場所と買えるものを合わせましょう！",
+        "instruction": "ばしょと かえるものを あわせましょう！",
         "pairs": [
-          { "emoji": "📮", "word": "郵便局" },
-          { "emoji": "📖", "word": "本屋" },
-          { "emoji": "📰", "word": "新聞販売店" },
-          { "emoji": "🎵", "word": "音楽店" }
+          { "emoji": "📮", "word": "ゆうびんきょく" },
+          { "emoji": "📖", "word": "ほんや" },
+          { "emoji": "📰", "word": "しんぶんはんばいてん" },
+          { "emoji": "🎵", "word": "おんがくてん" }
         ]
       },
       {
         "type": "match",
-        "instruction": "質問と答えを合わせましょう！",
+        "instruction": "しつもんと こたえを あわせましょう！",
         "pairs": [
-          { "emoji": "❓", "word": "飲み物はいかがですか？" },
-          { "emoji": "👍", "word": "はい、お願いします。" },
-          { "emoji": "👎", "word": "いいえ、結構です。" },
-          { "emoji": "🤔", "word": "何がいいですか？" }
+          { "emoji": "❓", "word": "のみものは いかがですか？" },
+          { "emoji": "👍", "word": "はい、おねがいします。" },
+          { "emoji": "👎", "word": "いいえ、けっこうです。" },
+          { "emoji": "🤔", "word": "なにが いいですか？" }
         ]
       },
       {
         "type": "find",
-        "question": "食べ物を探しましょう！ 🍟",
+        "question": "たべものを さがしましょう！ 🍟",
         "target": "🍟",
         "options": ["🍗", "🍟", "🥗", "🧀"]
       }
@@ -267,82 +267,22 @@
       }
     ]
   },
-  "grammar_spot": {
+  "grammar": {
     "en": {
-      "title": "want and would like",
-      "rules": [
-        "I'd like ('d = would) is more polite than I want.",
-        "We offer things using Would you like ...?",
-        "Would you like + noun (Would you like a coffee?)",
-        "Would you like + to + verb (Would you like to come to a party?)"
-      ],
-      "examples": [
-        { "question": "I'd like a coffee, please.", "answer": "polite request" },
-        { "question": "I'd like to buy a dictionary, please.", "answer": "polite request" },
-        { "question": "Would you like a cup of tea?", "answer": "No, thank you." },
-        { "question": "Would you like to come to a party on Saturday?", "answer": "Yes, please." }
-      ],
-      "comparison": [
-        { "question": "I want a coffee.", "answer": "less polite" },
-        { "question": "I'd like a coffee.", "answer": "more polite" }
-      ]
+      "title": "Grammar Spot",
+      "content": "Let's learn 3 grammar points today!\n\n【1. want (Desire)】\nWe use 'want' to talk about things we would like to have or do.\nUse 'want' + noun or 'want' + to + verb.\nExample: I want a stamp.\nExample: She wants to buy a dictionary.\nExample: He wants a cup of coffee.\n\n【2. would like (Polite requests)】\nWe use 'would like' to make polite requests or offers.\nUse 'would like' + noun or 'would like' + to + verb.\nExample: I would like a salad, please.\nExample: Would you like a drink?\nExample: I'd like to send an email.\n\n【3. Questions with want and would like】\nTo ask questions with 'want' and 'would like', put the verb at the start.\nExample: Do you want a stamp? → Yes, I do. / No, I don't.\nExample: Would you like coffee? → Yes, please. / No, thanks.\nExample: What would you like? → I'd like a salad, please.\n\nRemember! 'want' is more direct. 'would like' is more polite.\n✅ I want a coffee. (direct)\n✅ I would like a coffee. (polite)"
     },
     "ja": {
-      "title": "want と would like",
-      "rules": [
-        "I'd like ('d = would) は I want よりも丁寧な表現です。",
-        "Would you like ...? を使って何かを提案します。",
-        "Would you like + 名詞 (Would you like a coffee?)",
-        "Would you like + to + 動詞 (Would you like to come to a party?)"
-      ],
-      "examples": [
-        { "question": "コーヒーをください。（I'd like a coffee, please.）", "answer": "丁寧な要求" },
-        { "question": "辞書を買いたいです。（I'd like to buy a dictionary, please.）", "answer": "丁寧な要求" },
-        { "question": "お茶はいかがですか？（Would you like a cup of tea?）", "answer": "いいえ、結構です。" },
-        { "question": "土曜日のパーティーに来ませんか？（Would you like to come to a party on Saturday?）", "answer": "はい、お願いします。" }
-      ],
-      "comparison": [
-        { "question": "コーヒーが欲しい。（I want a coffee.）", "answer": "あまり丁寧ではない" },
-        { "question": "コーヒーをください。（I'd like a coffee.）", "answer": "より丁寧" }
-      ]
+      "title": "ぶんぽう の ポイント",
+      "content": "きょうは ３つの ぶんぽうを まなびましょう！\n\n【1. ほしい（のぞみ）】\nなにが ほしいか いうときに「ほしいです」を つかいます。\n「ほしいです」＋ めいし または 「ほしいです」＋ どうし を つかいます。\nれい：わたしは きってが ほしいです。\nれい：かのじょは じしょを かいたいです。\nれい：かれは コーヒーが のみたいです。\n\n【2. 〜が いいです（ていねいな いらい）】\nていねいに いらいする ときは「〜が いいです」を つかいます。\n「〜が いいです」＋ めいし または 「〜が いいです」＋ どうし を つかいます。\nれい：サラダが いいです。\nれい：のみものは いかがですか？\nれい：メールを おくりたいです。\n\n【3. しつもんの つくりかた】\nしつもんを つくるには、ぶんの おわりに「か」を つけます。\nれい：きってが ほしいですか？\nこたえ：はい、ほしいです。 / いいえ、ほしくないです。\nれい：コーヒーは いかがですか？\nこたえ：はい、おねがいします。 / いいえ、けっこうです。\nれい：なにが いいですか？\nこたえ：サラダが いいです。\n\nおぼえてね！\n「ほしいです」は ちょっと ちょくせつてき です。\n「〜が いいです」は もっと ていねい です。\n✅ コーヒーが ほしいです。（ちょくせつてき）\n✅ コーヒーが いいです。（ていねい）"
     },
     "fr": {
-      "title": "want et would like",
-      "rules": [
-        "I'd like ('d = would) est plus poli que I want.",
-        "On propose des choses en utilisant Would you like ...?",
-        "Would you like + nom (Would you like a coffee?)",
-        "Would you like + to + verbe (Would you like to come to a party?)"
-      ],
-      "examples": [
-        { "question": "Je voudrais un café, s'il vous plaît.", "answer": "demande polie" },
-        { "question": "Je voudrais acheter un dictionnaire, s'il vous plaît.", "answer": "demande polie" },
-        { "question": "Voudriez-vous une tasse de thé ?", "answer": "Non, merci." },
-        { "question": "Voudriez-vous venir à une fête samedi ?", "answer": "Oui, s'il vous plaît." }
-      ],
-      "comparison": [
-        { "question": "Je veux un café.", "answer": "moins poli" },
-        { "question": "Je voudrais un café.", "answer": "plus poli" }
-      ]
+      "title": "Coin Grammaire",
+      "content": "Apprenons 3 points de grammaire aujourd'hui !\n\n【1. vouloir (Désir)】\nOn utilise « vouloir » pour parler de ce qu'on aimerait avoir ou faire.\nUtilisez « vouloir » + nom ou « vouloir » + verbe.\nExemple : Je veux un timbre.\nExemple : Elle veut acheter un dictionnaire.\nExemple : Il veut une tasse de café.\n\n【2. voudrais (Demandes polies)】\nOn utilise « voudrais » pour faire des demandes ou offres polies.\nUtilisez « voudrais » + nom ou « voudrais » + verbe.\nExemple : Je voudrais une salade, s'il vous plaît.\nExemple : Voudriez-vous une boisson ?\nExemple : Je voudrais envoyer un email.\n\n【3. Questions avec vouloir et voudrais】\nPour poser des questions, on peut changer l'ordre des mots ou utiliser « est-ce que ».\nExemple : Veux-tu un timbre ? → Oui, je veux. / Non, je ne veux pas.\nExemple : Voudriez-vous du café ? → Oui, s'il vous plaît. / Non, merci.\nExemple : Que voudriez-vous ? → Je voudrais une salade, s'il vous plaît.\n\nSouviens-toi !\n« vouloir » est plus direct. « voudrais » est plus poli.\n✅ Je veux un café. (direct)\n✅ Je voudrais un café. (poli)"
     },
     "ko": {
-      "title": "want와 would like",
-      "rules": [
-        "I'd like ('d = would)은 I want보다 더 정중한 표현입니다.",
-        "Would you like ...?을 사용하여 무언가를 제안합니다.",
-        "Would you like + 명사 (Would you like a coffee?)",
-        "Would you like + to + 동사 (Would you like to come to a party?)"
-      ],
-      "examples": [
-        { "question": "커피 한 잔 주세요. (I'd like a coffee, please.)", "answer": "정중한 요청" },
-        { "question": "사전을 사고 싶어요. (I'd like to buy a dictionary, please.)", "answer": "정중한 요청" },
-        { "question": "차 한 잔 하시겠어요? (Would you like a cup of tea?)", "answer": "아니요, 괜찮아요." },
-        { "question": "토요일 파티에 오시겠어요? (Would you like to come to a party on Saturday?)", "answer": "네, 좋아요." }
-      ],
-      "comparison": [
-        { "question": "커피를 원해요. (I want a coffee.)", "answer": "덜 정중함" },
-        { "question": "커피 한 잔 주세요. (I'd like a coffee.)", "answer": "더 정중함" }
-      ]
+      "title": "문법 포인트",
+      "content": "오늘은 3가지 문법을 배워볼 거예요!\n\n【1. 원해요 (바람)】\n무엇을 원하는지 말할 때 '원해요'를 사용해요.\n'원해요' + 명사 또는 '원해요' + 동사를 사용해요.\n예: 저는 우표가 필요해요.\n예: 그녀는 사전을 사고 싶어요.\n예: 그는 커피를 마시고 싶어요.\n\n【2. ~면 좋겠어요 (공손한 요청)】\n공손하게 요청할 때 '~면 좋겠어요'를 사용해요.\n'~면 좋겠어요' + 명사 또는 '~면 좋겠어요' + 동사를 사용해요.\n예: 샐러드면 좋겠어요.\n예: 음료 드시겠어요?\n예: 이메일을 보내고 싶어요.\n\n【3. 의문문 만드는 법】\n의문문을 만들 때는 문장 끝에 '요?'를 붙여요.\n예: 우표가 필요해요?\n답: 네, 필요해요. / 아니요, 필요 없어요.\n예: 커피 드시겠어요?\n답: 네, 주세요. / 아니요, 괜찮아요.\n예: 무엇을 원하세요?\n답: 샐러드면 좋겠어요.\n\n기억하세요!\n'원해요'는 좀 더 직접적이에요.\n'~면 좋겠어요'는 더 공손해요.\n✅ 커피를 원해요. (직접적)\n✅ 커피면 좋겠어요. (공손)"
     }
   },
   "restaurant_menu": {
@@ -357,11 +297,11 @@
       "drinks": ["wine", "orange juice", "beer", "mineral water"]
     },
     "ja": {
-      "title": "ジョーズ・ダイナーのメニュー",
+      "title": "ジョーズ・ダイナーの メニュー",
       "starters": ["シーフードカクテル", "トマトスープ"],
       "burgers": ["ハンバーガー、サラダ、フライドポテト", "チーズバーガー、サラダ、フライドポテト"],
       "sandwiches": ["ハム", "チキン"],
-      "meat": ["ステーキとフライドポテト", "ローストチキンとサラダ"],
+      "meat": ["ステーキと フライドポテト", "ローストチキンと サラダ"],
       "side_orders": ["フライドポテト"],
       "desserts": ["アイスクリーム", "チョコレートケーキ"],
       "drinks": ["ワイン", "オレンジジュース", "ビール", "ミネラルウォーター"]
@@ -400,14 +340,14 @@
       ]
     },
     "ja": {
-      "title": "買い物",
+      "title": "かいもの",
       "phrases": [
-        { "question": "すみません！カメラのフィルムはどこで買えますか？", "response": "薬局で。はい、ここから200メートル、左側にあります。" },
-        { "question": "いかがなさいましたか？", "response": "いいえ、結構です。見ているだけです。" },
-        { "question": "すみません！このMサイズはありますか？", "response": "いいえ、申し訳ありません。在庫がありません。" },
-        { "question": "ジーンズをください。", "response": "はい。サイズは何ですか？" },
-        { "question": "はい、奥様。何がいいですか？", "response": "ジャガイモをください。他には？いいえ、結構です。いくらですか？" },
-        { "question": "すみません！新聞はありますか？", "response": "いいえ、ありません。どこで買えますか？駅で試してみてください。" }
+        { "question": "すみません！カメラの フィルムは どこで かえますか？", "response": "やっきょくで。はい、ここから ２００メートル、ひだりがわに あります。" },
+        { "question": "いかが なさいましたか？", "response": "いいえ、けっこうです。みているだけです。" },
+        { "question": "すみません！この エムサイズは ありますか？", "response": "いいえ、もうしわけありません。ざいこが ありません。" },
+        { "question": "ジーンズを ください。", "response": "はい。サイズは なんですか？" },
+        { "question": "はい、おくさま。なにが いいですか？", "response": "じゃがいもを ください。ほかには？いいえ、けっこうです。いくらですか？" },
+        { "question": "すみません！しんぶんは ありますか？", "response": "いいえ、ありません。どこで かえますか？えきで ためしてみてください。" }
       ]
     },
     "fr": {

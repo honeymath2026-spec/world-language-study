@@ -71,20 +71,35 @@
             top: 68px;
             z-index: 1000;
             border-bottom: 4px solid #f1c40f;
+            min-height: 70px;
         }
         header h2 { font-size: 1.5rem; font-weight: 700; color: #f1c40f; }
-        .nav-links { display: flex; gap: 6px; flex-wrap: wrap; }
-        .nav-links a {
-            color: #ecf0f1;
-            text-decoration: none;
-            padding: 6px 16px;
-            border-radius: 30px;
-            font-size: 0.85rem;
-            font-weight: 600;
-            background: rgba(255,255,255,0.1);
-            transition: 0.2s;
-        }
-        .nav-links a:hover { background: #f1c40f; color: #2c3e50; }
+        /* 수정된 .nav-links */
+.nav-links {
+    display: flex;
+    gap: 6px 12px; /* ✅ gap을 6px 12px로 변경 (행간, 열간) */
+    flex-wrap: wrap;
+    justify-content: flex-end; /* ✅ 오른쪽 정렬 */
+    flex: 1 1 auto;
+    max-width: 100%;
+}
+
+.nav-links a {
+    color: #ecf0f1;
+    text-decoration: none;
+    padding: 6px 16px;
+    border-radius: 30px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    background: rgba(255,255,255,0.1);
+    transition: 0.2s;
+    white-space: nowrap; /* ✅ 각 항목 줄바꿈 방지 */
+}
+
+.nav-links a:hover {
+    background: #f1c40f;
+    color: #2c3e50;
+}
 
         .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
 
@@ -512,6 +527,206 @@ section.reference .picture-word {
         }
         .back-to-dashboard:hover { background: #f1c40f; color: #2c3e50; transform: scale(1.05); }
 
+
+        /* ============================================================
+   📝 IRREGULAR VERBS - 겹침 방지
+   ============================================================ */
+
+#irregular-verbs .picture-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 16px;
+    padding: 10px 0;
+}
+
+#irregular-verbs .picture-card {
+    background: white;
+    border-radius: 20px;
+    padding: 16px 20px;
+    border: 2px solid #e8e0d6;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+#irregular-verbs .picture-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+    border-color: #f1c40f;
+    z-index: 2;
+}
+
+#irregular-verbs .picture-card .verb-emoji {
+    font-size: 2.5rem;
+    flex-shrink: 0;
+}
+
+#irregular-verbs .picture-card .verb-info {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+#irregular-verbs .picture-card .verb-infinitive {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #2c3e50;
+}
+
+#irregular-verbs .picture-card .verb-past {
+    font-size: 1rem;
+    color: #27ae60;
+    font-weight: 500;
+}
+
+/* ===== 반응형 ===== */
+@media (max-width: 768px) {
+    #irregular-verbs .picture-grid {
+        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+        gap: 12px;
+    }
+    
+    #irregular-verbs .picture-card {
+        padding: 12px 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    #irregular-verbs .picture-grid {
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
+    
+    #irregular-verbs .picture-card {
+        padding: 10px 14px;
+        flex-direction: column;
+        text-align: center;
+        gap: 6px;
+    }
+    
+    #irregular-verbs .picture-card .verb-emoji {
+        font-size: 2rem;
+    }
+    
+    #irregular-verbs .picture-card .verb-infinitive {
+        font-size: 1rem;
+    }
+    
+    #irregular-verbs .picture-card .verb-past {
+        font-size: 0.9rem;
+    }
+}
+
+
+/* ============================================================
+   📅 MONTHS - 겹침 방지 (수정)
+   ============================================================ */
+
+/* ✅ months 섹션의 picture-grid를 grid로 변경 */
+#months .picture-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)) !important;
+    gap: 16px !important;
+    padding: 10px 0 !important;
+    /* flex 관련 속성 제거 */
+    flex-wrap: unset !important;
+    justify-content: unset !important;
+}
+
+#months .picture-card {
+    background: white;
+    border-radius: 20px;
+    padding: 16px 12px;
+    border: 2px solid #e8e0d6;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    gap: 4px !important;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    text-align: center;
+    /* ✅ 너비 고정 해제 */
+    width: auto !important;
+    flex-shrink: unset !important;
+}
+
+#months .picture-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+    border-color: #f1c40f;
+    z-index: 2;
+}
+
+#months .picture-card .month-emoji {
+    font-size: 3rem;
+}
+
+#months .picture-card .month-name {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #2c3e50;
+}
+
+#months .picture-card .month-number {
+    font-size: 0.9rem;
+    color: #7f8c8d;
+    background: #f0f3f8;
+    padding: 2px 12px;
+    border-radius: 20px;
+    margin-top: 2px;
+}
+
+/* ===== 반응형 ===== */
+@media (max-width: 768px) {
+    #months .picture-grid {
+        grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)) !important;
+        gap: 12px !important;
+    }
+    
+    #months .picture-card {
+        padding: 12px 10px;
+    }
+    
+    #months .picture-card .month-name {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    #months .picture-grid {
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 10px !important;
+    }
+    
+    #months .picture-card {
+        padding: 10px 8px;
+    }
+    
+    #months .picture-card .month-emoji {
+        font-size: 2.2rem;
+    }
+    
+    #months .picture-card .month-name {
+        font-size: 0.9rem;
+    }
+    
+    #months .picture-card .month-number {
+        font-size: 0.75rem;
+        padding: 1px 8px;
+    }
+}
+
+
+
 /* ============================================================
    📚 STORY TIME - KIDS VERSION (줄바꿈 개선)
    ============================================================ */
@@ -525,11 +740,10 @@ section.reference .picture-word {
     line-height: 2.2;
 }
 
-/* 대사 하나하나를 카드처럼 */
+/* ============================================================
+   📖 내레이션 (일반 텍스트)
+   ============================================================ */
 .story-line {
-    display: flex;
-    align-items: flex-start;
-    gap: 14px;
     padding: 12px 18px;
     margin-bottom: 10px;
     background: white;
@@ -546,7 +760,59 @@ section.reference .picture-word {
     transform: translateX(6px);
 }
 
-/* 캐릭터 이름 (왼쪽) */
+/* ============================================================
+   💬 대화 문단 (화자 + 대화 내용을 한 문단으로)
+   ============================================================ */
+.dialogue-paragraph {
+    background: #e8f4fd;
+    border-radius: 30px;
+    padding: 16px 24px;
+    margin-bottom: 10px;
+    border: 2px solid #b8d4e8;
+    transition: 0.2s;
+}
+
+.dialogue-paragraph:hover {
+    border-color: #3498db;
+    background: #f0f7ff;
+    transform: translateX(6px);
+}
+
+/* 화자 (첫 번째 줄) */
+.speaker-text {
+    font-weight: 800;
+    color: #e67e22;
+    font-size: 1.3rem;
+    padding: 2px 14px;
+    border-radius: 30px;
+    background: #fef3e0;
+    display: inline-block;
+    margin-bottom: 4px;
+}
+
+/* 대화 내용 (두 번째 줄) */
+.dialogue-text {
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: #2c3e50;
+    font-style: italic;
+    padding-left: 8px;
+    word-break: keep-all;
+    line-height: 1.8;
+}
+
+/* 따옴표 */
+.quote-mark {
+    color: #3498db;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0 3px;
+}
+
+/* ============================================================
+   📖 기존 스타일 (내레이션용으로 유지)
+   ============================================================ */
+/* 캐릭터 이름 (왼쪽) - 내레이션용 */
 .story-line .story-speaker {
     font-weight: 800;
     color: #e67e22;
@@ -559,7 +825,7 @@ section.reference .picture-word {
     text-align: center;
 }
 
-/* 대사 내용 (오른쪽) */
+/* 대사 내용 (오른쪽) - 내레이션용 */
 .story-line .story-text {
     flex: 1;
     font-weight: 500;
@@ -580,8 +846,9 @@ section.reference .picture-word {
     display: inline-block;
 }
 
-
-/* 질문 박스 */
+/* ============================================================
+   ❓ 질문 박스
+   ============================================================ */
 .story-question {
     background: #ffffff;
     border-radius: 30px;
@@ -635,17 +902,17 @@ section.reference .picture-word {
     font-size: 1.8rem;
 }
 
-/* ===== Story Time 반응형 ===== */
+/* ============================================================
+   📱 반응형 - 태블릿 (768px 이하)
+   ============================================================ */
 @media (max-width: 768px) {
     .story-box {
         padding: 1.5rem;
         font-size: 1.2rem;
     }
 
+    /* 내레이션 */
     .story-line {
-        flex-direction: column;
-        align-items: stretch;
-        gap: 6px;
         padding: 14px 16px;
         font-size: 1.2rem;
     }
@@ -662,6 +929,23 @@ section.reference .picture-word {
         padding-left: 4px;
     }
 
+    /* 대화 문단 */
+    .dialogue-paragraph {
+        padding: 14px 18px;
+    }
+
+    .speaker-text {
+        font-size: 1.1rem;
+    }
+
+    .dialogue-text {
+        font-size: 1.2rem;
+    }
+
+    .quote-mark {
+        font-size: 1.6rem;
+    }
+
     .story-question p {
         font-size: 1.5rem;
     }
@@ -675,6 +959,9 @@ section.reference .picture-word {
     }
 }
 
+/* ============================================================
+   📱 반응형 - 모바일 (480px 이하)
+   ============================================================ */
 @media (max-width: 480px) {
     .story-box {
         padding: 1rem;
@@ -682,6 +969,7 @@ section.reference .picture-word {
         border-radius: 30px;
     }
 
+    /* 내레이션 */
     .story-line {
         padding: 10px 12px;
         font-size: 1rem;
@@ -696,6 +984,23 @@ section.reference .picture-word {
         font-size: 1rem;
     }
 
+    /* 대화 문단 */
+    .dialogue-paragraph {
+        padding: 12px 14px;
+    }
+
+    .speaker-text {
+        font-size: 0.95rem;
+    }
+
+    .dialogue-text {
+        font-size: 1rem;
+    }
+
+    .quote-mark {
+        font-size: 1.3rem;
+    }
+
     .story-question p {
         font-size: 1.2rem;
     }
@@ -705,7 +1010,6 @@ section.reference .picture-word {
         padding: 10px 18px;
     }
 }
-
         
         
 /* ============================================================
@@ -964,14 +1268,33 @@ section.reference .picture-word {
 
 
         @media (max-width: 768px) {
-            .course-nav { flex-direction: column; text-align: center; }
-            header { flex-direction: column; text-align: center; top: 115px; }
-            .picture-grid { grid-template-columns: repeat(2, 1fr); }
-            .family-grid { grid-template-columns: repeat(2, 1fr); }
-            .listen-item { flex-direction: column; text-align: center; }
-            .container { padding: 10px; }
-            section { padding: 1.5rem; }
-        }
+    .course-nav { flex-direction: column; text-align: center; }
+    
+    /* ✅ header 수정 */
+    header { 
+        flex-direction: column; 
+        text-align: center; 
+        top: 115px; 
+        align-items: stretch; /* ✅ 추가 */
+    }
+    
+    /* ✅ 제목 중앙 정렬 */
+    header h2 { 
+        text-align: center; 
+        margin-bottom: 6px; /* ✅ 추가 */
+    }
+    
+    /* ✅ 네비게이션 중앙 정렬 */
+    .nav-links {
+        justify-content: center; /* ✅ 중앙 정렬 */
+    }
+    
+    .picture-grid { grid-template-columns: repeat(2, 1fr); }
+    .family-grid { grid-template-columns: repeat(2, 1fr); }
+    .listen-item { flex-direction: column; text-align: center; }
+    .container { padding: 10px; }
+    section { padding: 1.5rem; }
+}
 
         @keyframes pulse {
             0%, 100% { opacity: 1; }
@@ -1603,11 +1926,22 @@ function renderPage(unit) {
     const irregular_verbs = unit.irregular_verbs?.[lang] || unit.irregular_verbs?.['en'] || [];
     const months = unit.months?.[lang] || unit.months?.['en'] || [];
     const ordinal_numbers = unit.ordinal_numbers?.[lang] || unit.ordinal_numbers?.['en'] || [];
+    const urlParams = new URLSearchParams(window.location.search);
+    const currentLang = urlParams.get('lang') || 'en';
+    
+    // 언어별 Unit 표기법
+    const unitLabels = {
+        'en': 'Unit',
+        'ja': 'ユニット', 
+        'fr': 'Unité',
+        'ko': '유닛'
+    };
+    
+    const title = unit.title?.[currentLang] || unit.title?.['en'] || `Unit ${unitNum}`;
+    const label = unitLabels[currentLang] || 'Unit';
 
+document.getElementById('unit-title').textContent = `🧸 ${label} ${unitNum}: ${title}`;
 
-
-    const title = unit.title?.[lang] || unit.title?.['en'] || `Unit ${unitNum}`;
-    document.getElementById('unit-title').textContent = `🧸 Unit ${unitNum}: ${title}`;
 
     // ============================================================
     // ✅ 동적 네비게이션 생성 (메인 + 참고 구분)
@@ -1719,69 +2053,97 @@ if (ordinal_numbers.length > 0) refNav.push({ id: 'ordinal-numbers', label: navL
     }
 
     // ---------- STORY TIME ----------
-    if (story.content) {
-        var storyLines = story.content.split('\n').filter(function(l) { return l.trim(); });
+if (story.content) {
+    var storyLines = story.content.split('\n').filter(function(l) { return l.trim(); });
+    
+    var linesHtml = storyLines.map(function(line, index, array) {
+        var text = line.trim();
         
-        var linesHtml = storyLines.map(function(line) {
-            var text = line.trim();
-            var match = text.match(/^([^:：]+)[:：]\s*(.+)/);
-            if (match) {
-                var speaker = match[1].trim();
-                var dialog = match[2].trim();
-                var emojiMap = {
-                    '센드라': '👩', 'Sandra': '👩',
-                    '히로': '👦', 'Hiro': '👦',
-                    '존': '👨', 'John': '👨',
-                    'Tom': '👦', 'Amy': '👧', 'Ben': '👦',
-                    'Melanie': '👩', 'Yves': '👨', 'Cath': '👩', 'George': '👨'
-                };
-                var emoji = emojiMap[speaker] || '💬';
-                return `
-                    <div class="story-line">
-                        <span class="story-speaker">${emoji} ${speaker}</span>
-                        <span class="story-text">${dialog}</span>
-                    </div>
-                `;
-            } else {
-                return `
-                    <div class="story-line" style="background: #f8f4ec; border-style: dashed; justify-content: center;">
-                        <span class="story-text" style="text-align: center; font-style: italic;">📖 ${text}</span>
-                    </div>
-                `;
+        // 화자 줄인지 확인 (말했습니다:, said:, a dit :, いいました： 등)
+        var isSpeakerLine = text.includes('말했습니다:') || text.includes('말했습니다:') ||
+                           text.includes('said:') || text.includes('said :') ||
+                           text.includes('a dit :') || text.includes('a dit:') ||
+                           text.includes('いいました：') || text.includes('いいました:');
+        
+        if (isSpeakerLine) {
+            // 화자만 추출 (따옴표 안의 대화 내용 제거)
+            var speaker = text.replace(/[""][^""]*[""]/g, '').trim();
+            
+            // 이모지 매핑
+            var emojiMap = {
+                '센드라': '👩', 'Sandra': '👩',
+                '히로': '👦', 'Hiro': '👦',
+                '존': '👨', 'John': '👨',
+                'Tom': '👦', 'Amy': '👧', 'Ben': '👦',
+                'Melanie': '👩', 'Yves': '👨', 'Cath': '👩', 'George': '👨',
+                '라라크 시장의 남자는': '😢', 'The man in Laraque market': '😢',
+                'L\'homme du marché de Laraque': '😢', 'ララック いちばの だんせいは': '😢'
+            };
+            var emoji = '💬';
+            for (var key in emojiMap) {
+                if (speaker.includes(key)) {
+                    emoji = emojiMap[key];
+                    break;
+                }
             }
-        }).join('');
+            
+            // 화자 줄은 speaker-text로 표시 (한 문단 내 첫 번째 줄)
+            return `
+                <div class="story-line dialogue-paragraph">
+                    <div class="speaker-text">${emoji} ${speaker}</div>
+            `;
+        }
+        
+        // 대화 내용 줄인지 확인 (따옴표로 시작)
+        if (text.startsWith('"') || text.startsWith('"')) {
+            var dialogueText = text.replace(/[""]/g, '').trim();
+            // 대화 내용은 dialogue-text로 표시 (한 문단 내 두 번째 줄)
+            return `
+                    <div class="dialogue-text">
+                        <span class="quote-mark">"</span>${dialogueText}<span class="quote-mark">"</span>
+                    </div>
+                </div>
+            `;
+        }
+        
+        // 일반 텍스트 줄 (내레이션)
+        return `
+            <div class="story-line" style="background: #f8f4ec; border-style: dashed; justify-content: center;">
+                <span class="story-text" style="text-align: center; font-style: italic;">📖 ${text}</span>
+            </div>
+        `;
+    }).join('');
 
-        html += `<section id="story">
+    html += `<section id="story">
     <h2>${t.story}</h2>
     <div class="story-box">
         <div style="text-align: center;">
             <span class="story-title">📖 ${story.title || '오늘의 이야기'}</span>
         </div>
         ${linesHtml}`;
+    
+    if (story.question) {
+        html += `
+            <div class="story-question">
+                <p>❓ ${story.question}</p>
+                <div id="story-options">`;
         
-        if (story.question) {
+        story.options.forEach(function(opt) {
             html += `
-                <div class="story-question">
-                    <p>❓ ${story.question}</p>
-                    <div id="story-options">`;
-            
-            story.options.forEach(function(opt) {
-                html += `
-                        <span class="story-option" data-correct="${opt.correct ? 'true' : 'false'}" onclick="checkStoryOption(this, '${opt.correct ? 'true' : 'false'}')">
-                            ${opt.emoji || '🔹'} ${opt.text}
-                        </span>
-                    `;
-            });
-            
-            html += `
-                    </div>
-                    <div id="story-feedback"></div>
+                    <span class="story-option" data-correct="${opt.correct ? 'true' : 'false'}" onclick="checkStoryOption(this, '${opt.correct ? 'true' : 'false'}')">
+                        ${opt.emoji || '🔹'} ${opt.text}
+                    </span>
+                `;
+        });
+        
+        html += `
                 </div>
-            `;
-        }
-        html += `</div></section>`;
+                <div id="story-feedback"></div>
+            </div>
+        `;
     }
-
+    html += `</div></section>`;
+}
     // ---------- FUN ACTIVITIES ----------
     if (activities.length > 0) {
         html += `<section id="activities"><h2>${t.activities}</h2><div class="activity-box">`;
@@ -2849,18 +3211,16 @@ if (everydayData && everydayData.title) {
 // ---------- IRREGULAR VERBS ----------
 if (irregular_verbs.length > 0) {
     html += `<section id="irregular-verbs" class="reference"><h2>${navLabels.irregular_verbs}</h2>
-        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:16px;">`;
+        <div class="picture-grid">`;
     irregular_verbs.forEach(function(item) {
         var safeInfinitive = item.infinitive.replace(/'/g, "\\'");
         var safePast = item.past.replace(/'/g, "\\'");
         html += `
-            <div class="picture-card" onclick="speakText('${safeInfinitive}')" style="text-align:left;padding:16px 20px;">
-                <div style="display:flex;align-items:center;gap:12px;width:100%;">
-                    <span style="font-size:2.5rem;">${item.emoji || '📝'}</span>
-                    <div style="flex:1;">
-                        <div style="font-weight:700;font-size:1.2rem;color:#2c3e50;">${item.infinitive}</div>
-                        <div style="font-size:0.95rem;color:#27ae60;">→ ${item.past}</div>
-                    </div>
+            <div class="picture-card" onclick="speakText('${safeInfinitive}')">
+                <span class="verb-emoji">${item.emoji || '📝'}</span>
+                <div class="verb-info">
+                    <span class="verb-infinitive">${item.infinitive}</span>
+                    <span class="verb-past">→ ${item.past}</span>
                 </div>
             </div>
         `;
@@ -2872,14 +3232,14 @@ if (irregular_verbs.length > 0) {
 // ---------- MONTHS ----------
 if (months.length > 0) {
     html += `<section id="months" class="reference"><h2>${navLabels.months}</h2>
-        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:16px;">`;
+        <div class="picture-grid">`;
     months.forEach(function(item) {
         var safeMonth = item.month.replace(/'/g, "\\'");
         html += `
             <div class="picture-card" onclick="speakText('${safeMonth}')">
-                <span class="picture-emoji" style="font-size:3rem;">${item.emoji || '📅'}</span>
-                <span class="picture-word" style="font-size:1.4rem;">${item.month}</span>
-                <span class="picture-hint">${item.number}</span>
+                <span class="month-emoji">${item.emoji || '📅'}</span>
+                <span class="month-name">${item.month}</span>
+                <span class="month-number">${item.number}</span>
             </div>
         `;
     });

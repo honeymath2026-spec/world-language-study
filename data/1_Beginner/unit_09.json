@@ -1,13 +1,13 @@
 {
   "title": {
     "en": "Happy birthday!",
-    "ja": "お誕生日おめでとう！",
+    "ja": "おたんじょうび おめでとう！",
     "fr": "Joyeux anniversaire !",
     "ko": "생일 축하해!"
   },
   "topic": {
     "en": "Saying years, was/were born, Past Simple – irregular verbs, When's your birthday?",
-    "ja": "年の言い方、was/were born、過去形 – 不規則動詞、誕生日はいつ？",
+    "ja": "としの いいかた、うまれた ときの いいかた、かこけい – ふきそくどうし、たんじょうびは いつ？",
     "fr": "Dire les années, was/were born, Passé Simple – verbes irréguliers, Quand est ton anniversaire ?",
     "ko": "연도 말하기, was/were born, 과거시제 – 불규칙 동사, 생일이 언제야?"
   },
@@ -26,17 +26,17 @@
       { "id": "born", "emoji": "👶", "word": "born", "hint": "I was born in 1990", "sound": "born" }
     ],
     "ja": [
-      { "id": "painter", "emoji": "🎨", "word": "画家", "hint": "彼は画家でした", "sound": "がか" },
-      { "id": "scientist", "emoji": "🔬", "word": "科学者", "hint": "彼女は科学者でした", "sound": "かがくしゃ" },
-      { "id": "singer", "emoji": "🎤", "word": "歌手", "hint": "彼女は歌手でした", "sound": "かしゅ" },
-      { "id": "writer", "emoji": "✍️", "word": "作家", "hint": "彼は作家でした", "sound": "さっか" },
-      { "id": "musician", "emoji": "🎵", "word": "音楽家", "hint": "彼は音楽家でした", "sound": "おんがくか" },
-      { "id": "actor", "emoji": "🎭", "word": "俳優", "hint": "彼は俳優でした", "sound": "はいゆう" },
-      { "id": "politician", "emoji": "🏛️", "word": "政治家", "hint": "彼女は政治家でした", "sound": "せいじか" },
-      { "id": "princess", "emoji": "👸", "word": "王女", "hint": "彼女は王女でした", "sound": "おうじょ" },
-      { "id": "racing_driver", "emoji": "🏎️", "word": "レーシングドライバー", "hint": "彼はレーシングドライバーでした", "sound": "レーシングドライバー" },
-      { "id": "birthday", "emoji": "🎂", "word": "誕生日", "hint": "お誕生日おめでとう！", "sound": "たんじょうび" },
-      { "id": "born", "emoji": "👶", "word": "生まれた", "hint": "私は1990年に生まれました", "sound": "うまれた" }
+      { "id": "painter", "emoji": "🎨", "word": "がか", "hint": "かれは がかでした", "sound": "がか" },
+      { "id": "scientist", "emoji": "🔬", "word": "かがくしゃ", "hint": "かのじょは かがくしゃでした", "sound": "かがくしゃ" },
+      { "id": "singer", "emoji": "🎤", "word": "かしゅ", "hint": "かのじょは かしゅでした", "sound": "かしゅ" },
+      { "id": "writer", "emoji": "✍️", "word": "さっか", "hint": "かれは さっかでした", "sound": "さっか" },
+      { "id": "musician", "emoji": "🎵", "word": "おんがくか", "hint": "かれは おんがくかでした", "sound": "おんがくか" },
+      { "id": "actor", "emoji": "🎭", "word": "はいゆう", "hint": "かれは はいゆうでした", "sound": "はいゆう" },
+      { "id": "politician", "emoji": "🏛️", "word": "せいじか", "hint": "かのじょは せいじかでした", "sound": "せいじか" },
+      { "id": "princess", "emoji": "👸", "word": "おうじょ", "hint": "かのじょは おうじょでした", "sound": "おうじょ" },
+      { "id": "racing_driver", "emoji": "🏎️", "word": "レーシングドライバー", "hint": "かれは レーシングドライバーでした", "sound": "レーシングドライバー" },
+      { "id": "birthday", "emoji": "🎂", "word": "たんじょうび", "hint": "おたんじょうび おめでとう！", "sound": "たんじょうび" },
+      { "id": "born", "emoji": "👶", "word": "うまれた", "hint": "わたしは １９９０ねんに うまれました", "sound": "うまれた" }
     ],
     "fr": [
       { "id": "painter", "emoji": "🎨", "word": "peintre", "hint": "Il était peintre", "sound": "peintre" },
@@ -78,15 +78,15 @@
       { "id": "when_were_they_born", "emoji": "❓", "text": "When were they born?", "sound": "When were they born?" }
     ],
     "ja": [
-      { "id": "he_was_painter", "emoji": "🎨", "text": "彼は画家でした。", "sound": "かれはがかでした。" },
-      { "id": "she_was_scientist", "emoji": "🔬", "text": "彼女は科学者でした。", "sound": "かのじょはかがくしゃでした。" },
-      { "id": "he_was_born_1452", "emoji": "👶", "text": "彼は1452年に生まれました。", "sound": "かれは1452ねんにうまれました。" },
-      { "id": "she_was_born_1867", "emoji": "👶", "text": "彼女は1867年に生まれました。", "sound": "かのじょは1867ねんにうまれました。" },
-      { "id": "i_was_born_1979", "emoji": "👶", "text": "私は1979年に生まれました。", "sound": "わたしは1979ねんにうまれました。" },
-      { "id": "when_were_you_born", "emoji": "❓", "text": "いつ生まれましたか？", "sound": "いつうまれましたか？" },
-      { "id": "when_was_he_born", "emoji": "❓", "text": "彼はいつ生まれましたか？", "sound": "かれはいつうまれましたか？" },
-      { "id": "when_was_she_born", "emoji": "❓", "text": "彼女はいつ生まれましたか？", "sound": "かのじょはいつうまれましたか？" },
-      { "id": "when_were_they_born", "emoji": "❓", "text": "彼らはいつ生まれましたか？", "sound": "かれらはいつうまれましたか？" }
+      { "id": "he_was_painter", "emoji": "🎨", "text": "かれは がかでした。", "sound": "かれは がかでした。" },
+      { "id": "she_was_scientist", "emoji": "🔬", "text": "かのじょは かがくしゃでした。", "sound": "かのじょは かがくしゃでした。" },
+      { "id": "he_was_born_1452", "emoji": "👶", "text": "かれは １４５２ねんに うまれました。", "sound": "かれは １４５２ねんに うまれました。" },
+      { "id": "she_was_born_1867", "emoji": "👶", "text": "かのじょは １８６７ねんに うまれました。", "sound": "かのじょは １８６７ねんに うまれました。" },
+      { "id": "i_was_born_1979", "emoji": "👶", "text": "わたしは １９７９ねんに うまれました。", "sound": "わたしは １９７９ねんに うまれました。" },
+      { "id": "when_were_you_born", "emoji": "❓", "text": "いつ うまれましたか？", "sound": "いつ うまれましたか？" },
+      { "id": "when_was_he_born", "emoji": "❓", "text": "かれは いつ うまれましたか？", "sound": "かれは いつ うまれましたか？" },
+      { "id": "when_was_she_born", "emoji": "❓", "text": "かのじょは いつ うまれましたか？", "sound": "かのじょは いつ うまれましたか？" },
+      { "id": "when_were_they_born", "emoji": "❓", "text": "かれらは いつ うまれましたか？", "sound": "かれらは いつ うまれましたか？" }
     ],
     "fr": [
       { "id": "he_was_painter", "emoji": "🎨", "text": "Il était peintre.", "sound": "Il était peintre." },
@@ -114,7 +114,7 @@
   "story_time": {
     "en": {
       "title": "We're millionaires!",
-      "content": "🇫🇷 In August 1999 three friends, Jacques Proust, Guy Fadat, and François Leclerc, were on holiday in the town of Laraque in France. 🛍️ On Sunday they went shopping in the market and they saw a dirty, old painting of the Virgin Mary. 💰 They bought it for 1,400 francs and they took it to Paris. 🖼️ In Paris, an expert said that the painting was by Leonardo da Vinci and it was worth 500,000,000 francs. 😢 The man in Laraque market said: 'I was happy to sell the painting but now I'm very upset. I don't want to think about it!'",
+      "content": "🇫🇷 In August 1999 three friends, Jacques Proust, Guy Fadat, and François Leclerc, were on holiday in the town of Laraque in France.\n🛍️ On Sunday they went shopping in the market and they saw a dirty, old painting of the Virgin Mary.\n💰 They bought it for 1,400 francs and they took it to Paris.\n🖼️ In Paris, an expert said that the painting was by Leonardo da Vinci and it was worth 500,000,000 francs.\n😢 The man in Laraque market said:\n\"I was happy to sell the painting but now I'm very upset. I don't want to think about it!\"",
       "question": "How much was the painting worth?",
       "options": [
         { "text": "500,000,000 francs", "emoji": "💰", "correct": true },
@@ -123,18 +123,18 @@
       ]
     },
     "ja": {
-      "title": "私たちは億万長者！",
-      "content": "🇫🇷 1999年8月、ジャック・プルースト、ギー・ファダ、フランソワ・ルクレールの3人の友人はフランスのララックの町で休暇を過ごしていました。🛍️ 日曜日に彼らは市場で買い物をし、聖母マリアの汚れた古い絵画を見つけました。💰 彼らはそれを1,400フランで買い、パリに持ち帰りました。🖼️ パリで専門家がその絵はレオナルド・ダ・ヴィンチの作品で、5億フランの価値があると言いました。😢 ララック市場の男性は言いました：「絵を売れて嬉しかったけど、今はとても動揺しています。考えたくありません！」",
-      "question": "その絵の価値はいくらでしたか？",
+      "title": "わたしたちは おくまんちょうじゃ！",
+      "content": "🇫🇷 １９９９ねん ８がつ、ジャック・プルースト、ギー・ファダ、フランソワ・ルクレールの ３にんの ともだちは フランスの ララックの まちで きゅうかを すごしていました。\n🛍️ にちようびに かれらは いちばで かいものを し、せいぼ マリアの きたない ふるい えを みつけました。\n💰 かれらは それを １,４００フランで かい、パリに もちかえりました。\n🖼️ パリで せんもんかが その えは レオナルド・ダ・ヴィンチの さくひんで、５おくフランの かちが あると いいました。\n😢 ララック いちばの だんせいは いいました：\n\"えを うれて うれしかったけど、いまは とても どうようしています。かんがえたく ありません！\"",
+      "question": "その えの かちは いくらでしたか？",
       "options": [
-        { "text": "5億フラン", "emoji": "💰", "correct": true },
-        { "text": "1,400フラン", "emoji": "🪙", "correct": false },
-        { "text": "10万フラン", "emoji": "💵", "correct": false }
+        { "text": "５おくフラン", "emoji": "💰", "correct": true },
+        { "text": "１,４００フラン", "emoji": "🪙", "correct": false },
+        { "text": "１０まんフラン", "emoji": "💵", "correct": false }
       ]
     },
     "fr": {
       "title": "Nous sommes millionnaires !",
-      "content": "🇫🇷 En août 1999, trois amis, Jacques Proust, Guy Fadat et François Leclerc, étaient en vacances dans la ville de Laraque en France. 🛍️ Le dimanche, ils sont allés faire du shopping au marché et ils ont vu un vieux tableau sale de la Vierge Marie. 💰 Ils l'ont acheté pour 1 400 francs et ils l'ont emporté à Paris. 🖼️ À Paris, un expert a dit que le tableau était de Léonard de Vinci et qu'il valait 500 000 000 francs. 😢 L'homme du marché de Laraque a dit : « J'étais heureux de vendre le tableau mais maintenant je suis très contrarié. Je ne veux pas y penser ! »",
+      "content": "🇫🇷 En août 1999, trois amis, Jacques Proust, Guy Fadat et François Leclerc, étaient en vacances dans la ville de Laraque en France.\n🛍️ Le dimanche, ils sont allés faire du shopping au marché et ils ont vu un vieux tableau sale de la Vierge Marie.\n💰 Ils l'ont acheté pour 1 400 francs et ils l'ont emporté à Paris.\n🖼️ À Paris, un expert a dit que le tableau était de Léonard de Vinci et qu'il valait 500 000 000 francs.\n😢 L'homme du marché de Laraque a dit :\n\"J'étais heureux de vendre le tableau mais maintenant je suis très contrarié. Je ne veux pas y penser !\"",
       "question": "Combien valait le tableau ?",
       "options": [
         { "text": "500 000 000 francs", "emoji": "💰", "correct": true },
@@ -144,7 +144,7 @@
     },
     "ko": {
       "title": "우리는 백만장자!",
-      "content": "🇫🇷 1999년 8월, 자크 프루스트, 기 파다, 프랑수아 르클레르 세 친구는 프랑스 라라크 마을에서 휴가를 보내고 있었습니다. 🛍️ 일요일에 그들은 시장에서 쇼핑을 하다가 성모 마리아의 더럽고 오래된 그림을 발견했습니다. 💰 그들은 그것을 1,400프랑에 사서 파리로 가져갔습니다. 🖼️ 파리에서 전문가가 그 그림은 레오나르도 다 빈치의 작품이며 5억 프랑의 가치가 있다고 말했습니다. 😢 라라크 시장의 남자는 말했습니다: \"그림을 팔아서 기뻤지만 지금은 매우 속상합니다. 생각하고 싶지 않아요!\"",
+      "content": "🇫🇷 1999년 8월, 자크 프루스트, 기 파다, 프랑수아 르클레르 세 친구는 프랑스 라라크 마을에서 휴가를 보내고 있었습니다.\n🛍️ 일요일에 그들은 시장에서 쇼핑을 하다가 성모 마리아의 더럽고 오래된 그림을 발견했습니다.\n💰 그들은 그것을 1,400프랑에 사서 파리로 가져갔습니다.\n🖼️ 파리에서 전문가가 그 그림은 레오나르도 다 빈치의 작품이며 5억 프랑의 가치가 있다고 말했습니다.\n😢 라라크 시장의 남자는 말했습니다:\n\"그림을 팔아서 기뻤지만 지금은 매우 속상합니다. 생각하고 싶지 않아요!\"",
       "question": "그 그림의 가치는 얼마였나요?",
       "options": [
         { "text": "5억 프랑", "emoji": "💰", "correct": true },
@@ -175,17 +175,17 @@
     "ja": [
       {
         "type": "match",
-        "instruction": "有名人と職業を合わせましょう！ 🖐️ ドラッグ＆ドロップ！",
+        "instruction": "ゆうめいじんと しょくぎょうを あわせましょう！ 🖐️ ドラッグ＆ドロップ！",
         "pairs": [
-          { "emoji": "🎨", "word": "画家" },
-          { "emoji": "🎤", "word": "歌手" },
-          { "emoji": "✍️", "word": "作家" },
-          { "emoji": "🎵", "word": "音楽家" }
+          { "emoji": "🎨", "word": "がか" },
+          { "emoji": "🎤", "word": "かしゅ" },
+          { "emoji": "✍️", "word": "さっか" },
+          { "emoji": "🎵", "word": "おんがくか" }
         ]
       },
       {
         "type": "find",
-        "question": "絵を描く人を見つけてください！ 🎨",
+        "question": "えを かく ひとを さがしてください！ 🎨",
         "target": "🎨",
         "options": ["🎨", "🎤", "✍️", "🎵"]
       }
@@ -230,23 +230,23 @@
   "grammar": {
     "en": {
       "title": "Grammar Spot",
-      "content": "• Past of 'to be': I was, You were, He/She/It was, We were, They were\n• was/were born: I was born in 1990.\n• Questions: When were you born? When was he born?\n• Negatives: He wasn't a painter. They weren't French.\n• Irregular verbs: go-went, see-saw, buy-bought, take-took, say-said"
+      "content": "Let's learn 4 grammar points today!\n\n【1. was / were (Past of 'be')】\nUse 'was' with I, he, she, it.\nUse 'were' with you, we, they.\nExample: He was a painter.\nExample: They were on holiday.\n\n【2. was born / were born】\nWe use this to talk about when someone started their life.\nUse 'was born' with I, he, she, it.\nUse 'were born' with you, we, they.\nExample: I was born in 1979.\nExample: When were you born?\n\n【3. Questions with was / were】\nTo make a question, put 'was' or 'were' at the start.\nExample: He was a writer. → Was he a writer?\nExample: They were in France. → Were they in France?\n\n【4. Short answers】\nYes, he was. / No, he wasn't.\nYes, they were. / No, they weren't.\nExample: Was he a painter? → Yes, he was.\nExample: Were they in Paris? → No, they weren't."
     },
     "ja": {
-      "title": "文法のポイント",
-      "content": "• 'to be'の過去形: I was, You were, He/She/It was, We were, They were\n• was/were born: 私は1990年に生まれました。\n• 疑問文: When were you born?（いつ生まれましたか？） When was he born?（彼はいつ生まれましたか？）\n• 否定文: He wasn't a painter.（彼は画家ではありませんでした。） They weren't French.（彼らはフランス人ではありませんでした。）\n• 不規則動詞: go-went, see-saw, buy-bought, take-took, say-said"
+      "title": "ぶんぽう の ポイント",
+      "content": "きょうは ４つの ぶんぽうを まなびましょう！\n\n【１. かこけい（でした）】\n「わたし」「かれ」「かのじょ」「それ」には「でした」を つかいます。\n「あなた」「わたしたち」「かれら」にも「でした」を つかいます。\nれい：かれは がかでした。\nれい：かれらは きゅうかに いました。\n\n【２. 「うまれました」の いいかた】\nだれかが いつ うまれたか いうときに つかいます。\nれい：わたしは １９７９ねんに うまれました。\nれい：あなたは いつ うまれましたか？\n\n【３. ぎもんぶんの つくりかた】\nぶんの おわりに「か」を つけると ぎもんぶんに なります。\nれい：かれは さっかでした。→ かれは さっかでしたか？\nれい：かれらは ふらんすに いました。→ かれらは ふらんすに いましたか？\n\n【４. こたえかた】\nはい、そうです。 / いいえ、ちがいます。\nれい：かれは がかでしたか？→ はい、そうです。\nれい：かれらは ぱりに いましたか？→ いいえ、ちがいます。"
     },
     "fr": {
-      "title": "Point de Grammaire",
-      "content": "• Passé de 'to be': I was, You were, He/She/It was, We were, They were\n• was/were born: Je suis né en 1990.\n• Questions: When were you born? (Quand es-tu né ?) When was he born? (Quand est-il né ?)\n• Négations: He wasn't a painter. (Il n'était pas peintre.) They weren't French. (Ils n'étaient pas français.)\n• Verbes irréguliers: go-went, see-saw, buy-bought, take-took, say-said"
+      "title": "Coin Grammaire",
+      "content": "Apprenons 4 points de grammaire aujourd'hui !\n\n【1. Le passé de « être »】\nUtilisez « était » avec je, il, elle, on.\nUtilisez « étaient » avec nous, vous, ils, elles.\nExemple : Il était peintre.\nExemple : Ils étaient en vacances.\n\n【2. Parler de sa naissance】\nOn utilise cette forme pour dire quand quelqu'un est né.\nExemple : Je suis né en 1979.\nExemple : Quand es-tu né ?\n\n【3. Poser des questions au passé】\nPour poser une question, on peut changer l'ordre des mots.\nExemple : Il était écrivain. → Était-il écrivain ?\nExemple : Ils étaient en France. → Étaient-ils en France ?\n\n【4. Réponses courtes】\nOui. / Non.\nExemple : Était-il peintre ? → Oui.\nExemple : Étaient-ils à Paris ? → Non."
     },
     "ko": {
       "title": "문법 포인트",
-      "content": "• 'to be'의 과거형: I was, You were, He/She/It was, We were, They were\n• was/were born: 저는 1990년에 태어났습니다.\n• 의문문: When were you born? (당신은 언제 태어났나요?) When was he born? (그는 언제 태어났나요?)\n• 부정문: He wasn't a painter. (그는 화가가 아니었습니다.) They weren't French. (그들은 프랑스인이 아니었습니다.)\n• 불규칙 동사: go-went, see-saw, buy-bought, take-took, say-said"
+      "content": "오늘은 4가지 문법을 배워볼 거예요!\n\n【1. 과거형 '였습니다'】\n'나', '그', '그녀', '그것'에는 '였습니다'를 사용해요.\n'너', '우리', '그들'에도 '였습니다'를 사용해요.\n예: 그는 화가였습니다.\n예: 그들은 휴가 중이었습니다.\n\n【2. '태어났습니다' 표현하기】\n누군가 언제 태어났는지 말할 때 사용해요.\n예: 저는 1979년에 태어났습니다.\n예: 당신은 언제 태어났나요?\n\n【3. 의문문 만드는 법】\n문장 끝에 '요?'를 붙이면 의문문이 됩니다.\n예: 그는 작가였습니다. → 그는 작가였습니까?\n예: 그들은 프랑스에 있었습니다. → 그들은 프랑스에 있었습니까?\n\n【4. 짧게 답하기】\n네, 그렇습니다. / 아니요, 그렇지 않습니다.\n예: 그는 화가였습니까? → 네, 그렇습니다.\n예: 그들은 파리에 있었습니까? → 아니요, 그렇지 않습니다."
     }
   },
   "irregular_verbs": {
-        "en": [
+    "en": [
       { "infinitive": "go", "past": "went", "emoji": "🏃" },
       { "infinitive": "see", "past": "saw", "emoji": "👀" },
       { "infinitive": "buy", "past": "bought", "emoji": "🛒" },
@@ -256,13 +256,13 @@
       { "infinitive": "think", "past": "thought", "emoji": "💭" }
     ],
     "ja": [
-      { "infinitive": "行く", "past": "行った", "emoji": "🏃" },
-      { "infinitive": "見る", "past": "見た", "emoji": "👀" },
-      { "infinitive": "買う", "past": "買った", "emoji": "🛒" },
-      { "infinitive": "取る", "past": "取った", "emoji": "🤲" },
-      { "infinitive": "言う", "past": "言った", "emoji": "💬" },
-      { "infinitive": "売る", "past": "売った", "emoji": "💰" },
-      { "infinitive": "思う", "past": "思った", "emoji": "💭" }
+      { "infinitive": "いく", "past": "いった", "emoji": "🏃" },
+      { "infinitive": "みる", "past": "みた", "emoji": "👀" },
+      { "infinitive": "かう", "past": "かった", "emoji": "🛒" },
+      { "infinitive": "とる", "past": "とった", "emoji": "🤲" },
+      { "infinitive": "いう", "past": "いった", "emoji": "💬" },
+      { "infinitive": "うる", "past": "うった", "emoji": "💰" },
+      { "infinitive": "おもう", "past": "おもった", "emoji": "💭" }
     ],
     "fr": [
       { "infinitive": "aller", "past": "allé", "emoji": "🏃" },
@@ -284,7 +284,7 @@
     ]
   },
   "months": {
-        "en": [
+    "en": [
       { "month": "January", "emoji": "🗓️", "number": 1 },
       { "month": "February", "emoji": "🗓️", "number": 2 },
       { "month": "March", "emoji": "🗓️", "number": 3 },
@@ -299,18 +299,18 @@
       { "month": "December", "emoji": "🗓️", "number": 12 }
     ],
     "ja": [
-      { "month": "1月", "emoji": "🗓️", "number": 1 },
-      { "month": "2月", "emoji": "🗓️", "number": 2 },
-      { "month": "3月", "emoji": "🗓️", "number": 3 },
-      { "month": "4月", "emoji": "🗓️", "number": 4 },
-      { "month": "5月", "emoji": "🗓️", "number": 5 },
-      { "month": "6月", "emoji": "🗓️", "number": 6 },
-      { "month": "7月", "emoji": "🗓️", "number": 7 },
-      { "month": "8月", "emoji": "🗓️", "number": 8 },
-      { "month": "9月", "emoji": "🗓️", "number": 9 },
-      { "month": "10月", "emoji": "🗓️", "number": 10 },
-      { "month": "11月", "emoji": "🗓️", "number": 11 },
-      { "month": "12月", "emoji": "🗓️", "number": 12 }
+      { "month": "１がつ", "emoji": "🗓️", "number": 1 },
+      { "month": "２がつ", "emoji": "🗓️", "number": 2 },
+      { "month": "３がつ", "emoji": "🗓️", "number": 3 },
+      { "month": "４がつ", "emoji": "🗓️", "number": 4 },
+      { "month": "５がつ", "emoji": "🗓️", "number": 5 },
+      { "month": "６がつ", "emoji": "🗓️", "number": 6 },
+      { "month": "７がつ", "emoji": "🗓️", "number": 7 },
+      { "month": "８がつ", "emoji": "🗓️", "number": 8 },
+      { "month": "９がつ", "emoji": "🗓️", "number": 9 },
+      { "month": "１０がつ", "emoji": "🗓️", "number": 10 },
+      { "month": "１１がつ", "emoji": "🗓️", "number": 11 },
+      { "month": "１２がつ", "emoji": "🗓️", "number": 12 }
     ],
     "fr": [
       { "month": "janvier", "emoji": "🗓️", "number": 1 },
@@ -376,37 +376,37 @@
       { "number": 31, "word": "thirty-first", "symbol": "31st", "emoji": "3️⃣1️⃣" }
     ],
     "ja": [
-      { "number": 1, "word": "第1", "symbol": "1st", "emoji": "🥇" },
-      { "number": 2, "word": "第2", "symbol": "2nd", "emoji": "🥈" },
-      { "number": 3, "word": "第3", "symbol": "3rd", "emoji": "🥉" },
-      { "number": 4, "word": "第4", "symbol": "4th", "emoji": "4️⃣" },
-      { "number": 5, "word": "第5", "symbol": "5th", "emoji": "5️⃣" },
-      { "number": 6, "word": "第6", "symbol": "6th", "emoji": "6️⃣" },
-      { "number": 7, "word": "第7", "symbol": "7th", "emoji": "7️⃣" },
-      { "number": 8, "word": "第8", "symbol": "8th", "emoji": "8️⃣" },
-      { "number": 9, "word": "第9", "symbol": "9th", "emoji": "9️⃣" },
-      { "number": 10, "word": "第10", "symbol": "10th", "emoji": "🔟" },
-      { "number": 11, "word": "第11", "symbol": "11th", "emoji": "1️⃣1️⃣" },
-      { "number": 12, "word": "第12", "symbol": "12th", "emoji": "1️⃣2️⃣" },
-      { "number": 13, "word": "第13", "symbol": "13th", "emoji": "1️⃣3️⃣" },
-      { "number": 14, "word": "第14", "symbol": "14th", "emoji": "1️⃣4️⃣" },
-      { "number": 15, "word": "第15", "symbol": "15th", "emoji": "1️⃣5️⃣" },
-      { "number": 16, "word": "第16", "symbol": "16th", "emoji": "1️⃣6️⃣" },
-      { "number": 17, "word": "第17", "symbol": "17th", "emoji": "1️⃣7️⃣" },
-      { "number": 18, "word": "第18", "symbol": "18th", "emoji": "1️⃣8️⃣" },
-      { "number": 19, "word": "第19", "symbol": "19th", "emoji": "1️⃣9️⃣" },
-      { "number": 20, "word": "第20", "symbol": "20th", "emoji": "2️⃣0️⃣" },
-      { "number": 21, "word": "第21", "symbol": "21st", "emoji": "2️⃣1️⃣" },
-      { "number": 22, "word": "第22", "symbol": "22nd", "emoji": "2️⃣2️⃣" },
-      { "number": 23, "word": "第23", "symbol": "23rd", "emoji": "2️⃣3️⃣" },
-      { "number": 24, "word": "第24", "symbol": "24th", "emoji": "2️⃣4️⃣" },
-      { "number": 25, "word": "第25", "symbol": "25th", "emoji": "2️⃣5️⃣" },
-      { "number": 26, "word": "第26", "symbol": "26th", "emoji": "2️⃣6️⃣" },
-      { "number": 27, "word": "第27", "symbol": "27th", "emoji": "2️⃣7️⃣" },
-      { "number": 28, "word": "第28", "symbol": "28th", "emoji": "2️⃣8️⃣" },
-      { "number": 29, "word": "第29", "symbol": "29th", "emoji": "2️⃣9️⃣" },
-      { "number": 30, "word": "第30", "symbol": "30th", "emoji": "3️⃣0️⃣" },
-      { "number": 31, "word": "第31", "symbol": "31st", "emoji": "3️⃣1️⃣" }
+      { "number": 1, "word": "だいいち", "symbol": "1st", "emoji": "🥇" },
+      { "number": 2, "word": "だいに", "symbol": "2nd", "emoji": "🥈" },
+      { "number": 3, "word": "だいさん", "symbol": "3rd", "emoji": "🥉" },
+      { "number": 4, "word": "だいよん", "symbol": "4th", "emoji": "4️⃣" },
+      { "number": 5, "word": "だいご", "symbol": "5th", "emoji": "5️⃣" },
+      { "number": 6, "word": "だいろく", "symbol": "6th", "emoji": "6️⃣" },
+      { "number": 7, "word": "だいなな", "symbol": "7th", "emoji": "7️⃣" },
+      { "number": 8, "word": "だいはち", "symbol": "8th", "emoji": "8️⃣" },
+      { "number": 9, "word": "だいきゅう", "symbol": "9th", "emoji": "9️⃣" },
+      { "number": 10, "word": "だいじゅう", "symbol": "10th", "emoji": "🔟" },
+      { "number": 11, "word": "だいじゅういち", "symbol": "11th", "emoji": "1️⃣1️⃣" },
+      { "number": 12, "word": "だいじゅうに", "symbol": "12th", "emoji": "1️⃣2️⃣" },
+      { "number": 13, "word": "だいじゅうさん", "symbol": "13th", "emoji": "1️⃣3️⃣" },
+      { "number": 14, "word": "だいじゅうよん", "symbol": "14th", "emoji": "1️⃣4️⃣" },
+      { "number": 15, "word": "だいじゅうご", "symbol": "15th", "emoji": "1️⃣5️⃣" },
+      { "number": 16, "word": "だいじゅうろく", "symbol": "16th", "emoji": "1️⃣6️⃣" },
+      { "number": 17, "word": "だいじゅうなな", "symbol": "17th", "emoji": "1️⃣7️⃣" },
+      { "number": 18, "word": "だいじゅうはち", "symbol": "18th", "emoji": "1️⃣8️⃣" },
+      { "number": 19, "word": "だいじゅうきゅう", "symbol": "19th", "emoji": "1️⃣9️⃣" },
+      { "number": 20, "word": "だいにじゅう", "symbol": "20th", "emoji": "2️⃣0️⃣" },
+      { "number": 21, "word": "だいにじゅういち", "symbol": "21st", "emoji": "2️⃣1️⃣" },
+      { "number": 22, "word": "だいにじゅうに", "symbol": "22nd", "emoji": "2️⃣2️⃣" },
+      { "number": 23, "word": "だいにじゅうさん", "symbol": "23rd", "emoji": "2️⃣3️⃣" },
+      { "number": 24, "word": "だいにじゅうよん", "symbol": "24th", "emoji": "2️⃣4️⃣" },
+      { "number": 25, "word": "だいにじゅうご", "symbol": "25th", "emoji": "2️⃣5️⃣" },
+      { "number": 26, "word": "だいにじゅうろく", "symbol": "26th", "emoji": "2️⃣6️⃣" },
+      { "number": 27, "word": "だいにじゅうなな", "symbol": "27th", "emoji": "2️⃣7️⃣" },
+      { "number": 28, "word": "だいにじゅうはち", "symbol": "28th", "emoji": "2️⃣8️⃣" },
+      { "number": 29, "word": "だいにじゅうきゅう", "symbol": "29th", "emoji": "2️⃣9️⃣" },
+      { "number": 30, "word": "だいさんじゅう", "symbol": "30th", "emoji": "3️⃣0️⃣" },
+      { "number": 31, "word": "だいさんじゅういち", "symbol": "31st", "emoji": "3️⃣1️⃣" }
     ],
     "fr": [
       { "number": 1, "word": "premier", "symbol": "1er", "emoji": "🥇" },

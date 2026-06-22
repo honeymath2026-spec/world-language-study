@@ -1,13 +1,13 @@
 {
   "title": {
-    "en": "Unit 13 - Here and now",
-    "ja": "ユニット13 - 今ここに",
-    "fr": "Unité 13 - Ici et maintenant",
-    "ko": "유닛 13 - 지금 여기에서"
+    "en": "Here and now",
+    "ja": "いま ここに",
+    "fr": "Ici et maintenant",
+    "ko": "지금 여기에서"
   },
   "topic": {
     "en": "Colours and clothes · Present Continuous · Questions and negatives · What's the matter?",
-    "ja": "色と服 · 現在進行形 · 疑問文と否定文 · どうしたの？",
+    "ja": "いろ と ふく · いま している こと · しつもん と ひてい · どうしたの？",
     "fr": "Couleurs et vêtements · Présent continu · Questions et négations · Qu'est-ce qui ne va pas ?",
     "ko": "색상과 옷 · 현재진행형 · 의문문과 부정문 · 무슨 일이야?"
   },
@@ -25,16 +25,16 @@
       { "id": "tie", "emoji": "🎀", "word": "tie", "hint": "I wear a tie", "sound": "tie" }
     ],
     "ja": [
-      { "id": "shirt", "emoji": "👔", "word": "シャツ", "hint": "シャツを着ます", "sound": "shatsu" },
-      { "id": "trousers", "emoji": "👖", "word": "ズボン", "hint": "ズボンを履きます", "sound": "zubon" },
-      { "id": "jacket", "emoji": "🧥", "word": "ジャケット", "hint": "ジャケットを着ます", "sound": "jaketto" },
-      { "id": "shoes", "emoji": "👟", "word": "靴", "hint": "靴を履きます", "sound": "kutsu" },
-      { "id": "dress", "emoji": "👗", "word": "ドレス", "hint": "ドレスを着ます", "sound": "doresu" },
-      { "id": "skirt", "emoji": "👘", "word": "スカート", "hint": "スカートを履きます", "sound": "sukaato" },
-      { "id": "jumper", "emoji": "🧶", "word": "セーター", "hint": "セーターを着ます", "sound": "seetaa" },
-      { "id": "hat", "emoji": "🧢", "word": "帽子", "hint": "帽子を被ります", "sound": "boushi" },
-      { "id": "boots", "emoji": "🥾", "word": "ブーツ", "hint": "ブーツを履きます", "sound": "buutsu" },
-      { "id": "tie", "emoji": "🎀", "word": "ネクタイ", "hint": "ネクタイを締めます", "sound": "nekutai" }
+      { "id": "shirt", "emoji": "👔", "word": "シャツ", "hint": "シャツを きます", "sound": "シャツ" },
+      { "id": "trousers", "emoji": "👖", "word": "ズボン", "hint": "ズボンを はきます", "sound": "ズボン" },
+      { "id": "jacket", "emoji": "🧥", "word": "ジャケット", "hint": "ジャケットを きます", "sound": "ジャケット" },
+      { "id": "shoes", "emoji": "👟", "word": "くつ", "hint": "くつを はきます", "sound": "くつ" },
+      { "id": "dress", "emoji": "👗", "word": "ドレス", "hint": "ドレスを きます", "sound": "ドレス" },
+      { "id": "skirt", "emoji": "👘", "word": "スカート", "hint": "スカートを はきます", "sound": "スカート" },
+      { "id": "jumper", "emoji": "🧶", "word": "セーター", "hint": "セーターを きます", "sound": "セーター" },
+      { "id": "hat", "emoji": "🧢", "word": "ぼうし", "hint": "ぼうしを かぶります", "sound": "ぼうし" },
+      { "id": "boots", "emoji": "🥾", "word": "ブーツ", "hint": "ブーツを はきます", "sound": "ブーツ" },
+      { "id": "tie", "emoji": "🎀", "word": "ネクタイ", "hint": "ネクタイを しめます", "sound": "ネクタイ" }
     ],
     "fr": [
       { "id": "shirt", "emoji": "👔", "word": "chemise", "hint": "Je porte une chemise", "sound": "chemise" },
@@ -49,16 +49,16 @@
       { "id": "tie", "emoji": "🎀", "word": "cravate", "hint": "Je porte une cravate", "sound": "cravate" }
     ],
     "ko": [
-      { "id": "shirt", "emoji": "👔", "word": "셔츠", "hint": "셔츠를 입어요", "sound": "syeocheu" },
-      { "id": "trousers", "emoji": "👖", "word": "바지", "hint": "바지를 입어요", "sound": "baji" },
-      { "id": "jacket", "emoji": "🧥", "word": "자켓", "hint": "자켓을 입어요", "sound": "jaket" },
-      { "id": "shoes", "emoji": "👟", "word": "신발", "hint": "신발을 신어요", "sound": "sinbal" },
-      { "id": "dress", "emoji": "👗", "word": "원피스", "hint": "원피스를 입어요", "sound": "wonpiseu" },
-      { "id": "skirt", "emoji": "👘", "word": "치마", "hint": "치마를 입어요", "sound": "chima" },
-      { "id": "jumper", "emoji": "🧶", "word": "스웨터", "hint": "스웨터를 입어요", "sound": "seuweteo" },
-      { "id": "hat", "emoji": "🧢", "word": "모자", "hint": "모자를 써요", "sound": "moja" },
-      { "id": "boots", "emoji": "🥾", "word": "부츠", "hint": "부츠를 신어요", "sound": "bucheu" },
-      { "id": "tie", "emoji": "🎀", "word": "넥타이", "hint": "넥타이를 매요", "sound": "nektai" }
+      { "id": "shirt", "emoji": "👔", "word": "셔츠", "hint": "셔츠를 입어요", "sound": "셔츠" },
+      { "id": "trousers", "emoji": "👖", "word": "바지", "hint": "바지를 입어요", "sound": "바지" },
+      { "id": "jacket", "emoji": "🧥", "word": "자켓", "hint": "자켓을 입어요", "sound": "자켓" },
+      { "id": "shoes", "emoji": "👟", "word": "신발", "hint": "신발을 신어요", "sound": "신발" },
+      { "id": "dress", "emoji": "👗", "word": "원피스", "hint": "원피스를 입어요", "sound": "원피스" },
+      { "id": "skirt", "emoji": "👘", "word": "치마", "hint": "치마를 입어요", "sound": "치마" },
+      { "id": "jumper", "emoji": "🧶", "word": "스웨터", "hint": "스웨터를 입어요", "sound": "스웨터" },
+      { "id": "hat", "emoji": "🧢", "word": "모자", "hint": "모자를 써요", "sound": "모자" },
+      { "id": "boots", "emoji": "🥾", "word": "부츠", "hint": "부츠를 신어요", "sound": "부츠" },
+      { "id": "tie", "emoji": "🎀", "word": "넥타이", "hint": "넥타이를 매요", "sound": "넥타이" }
     ]
   },
   "listen_repeat": {
@@ -75,16 +75,16 @@
       { "id": "good_time", "emoji": "😊", "text": "Are you having a good time?", "sound": "Are you having a good time?" }
     ],
     "ja": [
-      { "id": "wearing_tshirt", "emoji": "👕", "text": "彼はTシャツを着ています。", "sound": "Kare wa T-shatsu wo kite imasu." },
-      { "id": "reading_book", "emoji": "📖", "text": "彼女は本を読んでいます。", "sound": "Kanojo wa hon wo yonde imasu." },
-      { "id": "having_lunch", "emoji": "🍽️", "text": "彼らは昼食を食べています。", "sound": "Karera wa chushoku wo tabete imasu." },
-      { "id": "great_holiday", "emoji": "🌴", "text": "私たちは素晴らしい休暇を過ごしています。", "sound": "Watashitachi wa subarashii kyuka wo sugoshite imasu." },
-      { "id": "what_doing", "emoji": "❓", "text": "何をしていますか？", "sound": "Nani wo shite imasu ka?" },
-      { "id": "im_working", "emoji": "💼", "text": "仕事をしています。", "sound": "Shigoto wo shite imasu." },
-      { "id": "staying_hotel", "emoji": "🏨", "text": "ホテルに泊まっていますか？", "sound": "Hoteru ni tomatte imasu ka?" },
-      { "id": "not_staying", "emoji": "🏠", "text": "いいえ、ホテルには泊まっていません。", "sound": "Iie, hoteru ni wa tomatte imasen." },
-      { "id": "wearing_jeans", "emoji": "👖", "text": "ジーンズとTシャツを着ています。", "sound": "Jiinzu to T-shatsu wo kite imasu." },
-      { "id": "good_time", "emoji": "😊", "text": "楽しく過ごしていますか？", "sound": "Tanoshiku sugoshite imasu ka?" }
+      { "id": "wearing_tshirt", "emoji": "👕", "text": "かれは ティーシャツを きています。", "sound": "かれは ティーシャツを きています。" },
+      { "id": "reading_book", "emoji": "📖", "text": "かのじょは ほんを よんでいます。", "sound": "かのじょは ほんを よんでいます。" },
+      { "id": "having_lunch", "emoji": "🍽️", "text": "かれらは ちゅうしょくを たべています。", "sound": "かれらは ちゅうしょくを たべています。" },
+      { "id": "great_holiday", "emoji": "🌴", "text": "わたしたちは すばらしい きゅうかを すごしています。", "sound": "わたしたちは すばらしい きゅうかを すごしています。" },
+      { "id": "what_doing", "emoji": "❓", "text": "なにを していますか？", "sound": "なにを していますか？" },
+      { "id": "im_working", "emoji": "💼", "text": "しごとを しています。", "sound": "しごとを しています。" },
+      { "id": "staying_hotel", "emoji": "🏨", "text": "ホテルに とまっていますか？", "sound": "ホテルに とまっていますか？" },
+      { "id": "not_staying", "emoji": "🏠", "text": "いいえ、ホテルには とまっていません。", "sound": "いいえ、ホテルには とまっていません。" },
+      { "id": "wearing_jeans", "emoji": "👖", "text": "ジーンズと ティーシャツを きています。", "sound": "ジーンズと ティーシャツを きています。" },
+      { "id": "good_time", "emoji": "😊", "text": "たのしく すごしていますか？", "sound": "たのしく すごしていますか？" }
     ],
     "fr": [
       { "id": "wearing_tshirt", "emoji": "👕", "text": "Il porte un T-shirt.", "sound": "Il porte un T-shirt." },
@@ -99,16 +99,16 @@
       { "id": "good_time", "emoji": "😊", "text": "Tu passes un bon moment ?", "sound": "Tu passes un bon moment ?" }
     ],
     "ko": [
-      { "id": "wearing_tshirt", "emoji": "👕", "text": "그는 티셔츠를 입고 있어요.", "sound": "Geuneun T-syeocheureul ipgo isseoyo." },
-      { "id": "reading_book", "emoji": "📖", "text": "그녀는 책을 읽고 있어요.", "sound": "Geunyeoneun chaekeul ikgo isseoyo." },
-      { "id": "having_lunch", "emoji": "🍽️", "text": "그들은 점심을 먹고 있어요.", "sound": "Geudeureun jeomsimeul meokgo isseoyo." },
-      { "id": "great_holiday", "emoji": "🌴", "text": "우리는 멋진 휴가를 보내고 있어요.", "sound": "Urineun meotjin hyugareul bonaego isseoyo." },
-      { "id": "what_doing", "emoji": "❓", "text": "뭐 하고 있어요?", "sound": "Mwo hago isseoyo?" },
-      { "id": "im_working", "emoji": "💼", "text": "일하고 있어요.", "sound": "Ilhago isseoyo." },
-      { "id": "staying_hotel", "emoji": "🏨", "text": "호텔에 묵고 있어요?", "sound": "Hotere mukgo isseoyo?" },
-      { "id": "not_staying", "emoji": "🏠", "text": "아니요, 호텔에 묵고 있지 않아요.", "sound": "Aniyo, hotere mukgo itji anayo." },
-      { "id": "wearing_jeans", "emoji": "👖", "text": "청바지와 티셔츠를 입고 있어요.", "sound": "Cheongbajiwa T-syeocheureul ipgo isseoyo." },
-      { "id": "good_time", "emoji": "😊", "text": "즐거운 시간 보내고 있어요?", "sound": "Jeulgeoun sigan bonaego isseoyo?" }
+      { "id": "wearing_tshirt", "emoji": "👕", "text": "그는 티셔츠를 입고 있어요.", "sound": "그는 티셔츠를 입고 있어요." },
+      { "id": "reading_book", "emoji": "📖", "text": "그녀는 책을 읽고 있어요.", "sound": "그녀는 책을 읽고 있어요." },
+      { "id": "having_lunch", "emoji": "🍽️", "text": "그들은 점심을 먹고 있어요.", "sound": "그들은 점심을 먹고 있어요." },
+      { "id": "great_holiday", "emoji": "🌴", "text": "우리는 멋진 휴가를 보내고 있어요.", "sound": "우리는 멋진 휴가를 보내고 있어요." },
+      { "id": "what_doing", "emoji": "❓", "text": "뭐 하고 있어요?", "sound": "뭐 하고 있어요?" },
+      { "id": "im_working", "emoji": "💼", "text": "일하고 있어요.", "sound": "일하고 있어요." },
+      { "id": "staying_hotel", "emoji": "🏨", "text": "호텔에 묵고 있어요?", "sound": "호텔에 묵고 있어요?" },
+      { "id": "not_staying", "emoji": "🏠", "text": "아니요, 호텔에 묵고 있지 않아요.", "sound": "아니요, 호텔에 묵고 있지 않아요." },
+      { "id": "wearing_jeans", "emoji": "👖", "text": "청바지와 티셔츠를 입고 있어요.", "sound": "청바지와 티셔츠를 입고 있어요." },
+      { "id": "good_time", "emoji": "😊", "text": "즐거운 시간 보내고 있어요?", "sound": "즐거운 시간 보내고 있어요?" }
     ]
   },
   "story_time": {
@@ -123,12 +123,12 @@
       ]
     },
     "ja": {
-      "title": "休暇中のジョージ",
-      "content": "👨 ジョージは妻とタイで休暇を過ごしています。 👕 彼は白いTシャツを着ています。 📖 妻は本を読んでいます。 🍽️ 彼らは昼食を食べています。 🌴 「素晴らしい休暇を過ごしています」とジョージは言います。 👩 サディはミラノにいます。 💼 彼女はファッションショーで働いています。 🏨 「ホテルに泊まっていますか？」「いいえ、ホテルには泊まっていません。友達の家に泊まっています。」 👖 「何を着ていますか？」「ジーンズとTシャツを着ています。」",
-      "question": "ジョージは何を着ていますか？",
+      "title": "きゅうかちゅうの ジョージ",
+      "content": "👨 ジョージは つまと タイで きゅうかを すごしています。 👕 かれは しろい ティーシャツを きています。 📖 つまは ほんを よんでいます。 🍽️ かれらは ちゅうしょくを たべています。 🌴 「すばらしい きゅうかを すごしています」と ジョージは いいます。 👩 サディは ミラノに います。 💼 かのじょは ファッションショーで はたらいています。 🏨 「ホテルに とまっていますか？」「いいえ、ホテルには とまっていません。ともだちの いえに とまっています。」 👖 「なにを きていますか？」「ジーンズと ティーシャツを きています。」",
+      "question": "ジョージは なにを きていますか？",
       "options": [
-        { "text": "白いTシャツ", "emoji": "👕", "correct": true },
-        { "text": "黒いジャケット", "emoji": "🧥", "correct": false },
+        { "text": "しろい ティーシャツ", "emoji": "👕", "correct": true },
+        { "text": "くろい ジャケット", "emoji": "🧥", "correct": false },
         { "text": "ジーンズ", "emoji": "👖", "correct": false }
       ]
     },
@@ -185,27 +185,27 @@
     "ja": [
       {
         "type": "match",
-        "instruction": "色と単語を合わせましょう！",
+        "instruction": "いろと たんごを あわせましょう！",
         "pairs": [
-          { "emoji": "⬛", "word": "黒" },
-          { "emoji": "⬜", "word": "白" },
-          { "emoji": "🟥", "word": "赤" },
-          { "emoji": "🟦", "word": "青" }
+          { "emoji": "⬛", "word": "くろ" },
+          { "emoji": "⬜", "word": "しろ" },
+          { "emoji": "🟥", "word": "あか" },
+          { "emoji": "🟦", "word": "あお" }
         ]
       },
       {
         "type": "match",
-        "instruction": "質問と答えを合わせましょう！",
+        "instruction": "しつもんと こたえを あわせましょう！",
         "pairs": [
-          { "emoji": "❓", "word": "何をしていますか？" },
-          { "emoji": "💼", "word": "仕事をしています。" },
-          { "emoji": "🏨", "word": "ホテルに泊まっていますか？" },
-          { "emoji": "👖", "word": "何を着ていますか？" }
+          { "emoji": "❓", "word": "なにを していますか？" },
+          { "emoji": "💼", "word": "しごとを しています。" },
+          { "emoji": "🏨", "word": "ホテルに とまっていますか？" },
+          { "emoji": "👖", "word": "なにを きていますか？" }
         ]
       },
       {
         "type": "find",
-        "question": "色を探しましょう！ 🟥",
+        "question": "いろを さがしましょう！ 🟥",
         "target": "🟥",
         "options": ["⬛", "🟥", "🟦", "⬜"]
       }
@@ -267,94 +267,22 @@
       }
     ]
   },
-  "grammar_spot": {
+  "grammar": {
     "en": {
-      "title": "Present Continuous",
-      "rules": [
-        "We use the Present Continuous to say what is happening now.",
-        "We make the Present Continuous with am/are/is + verb + -ing.",
-        "Questions: put am/are/is before the subject.",
-        "Negatives: add not after am/are/is.",
-        "Short answers: Yes, I am. / No, I'm not."
-      ],
-      "examples": [
-        { "question": "I am studying English.", "answer": "affirmative" },
-        { "question": "You are wearing jeans.", "answer": "affirmative" },
-        { "question": "She is reading a book.", "answer": "affirmative" },
-        { "question": "We are working in class.", "answer": "affirmative" },
-        { "question": "They are having lunch.", "answer": "affirmative" },
-        { "question": "I'm not staying in a hotel.", "answer": "negative" },
-        { "question": "He isn't working.", "answer": "negative" },
-        { "question": "We aren't having breakfast.", "answer": "negative" },
-        { "question": "What are you wearing?", "answer": "question" },
-        { "question": "Where's she staying?", "answer": "question" }
-      ]
+      "title": "Grammar Spot",
+      "content": "Let's learn 3 grammar points today!\n\n【1. Present Continuous (Actions happening now)】\nWe use the Present Continuous to talk about actions happening at this moment.\nUse 'am/is/are' + verb-ing.\nExample: I am reading a book.\nExample: She is wearing a T-shirt.\nExample: They are having lunch.\n\n【2. Present Continuous Questions】\nTo make questions, put 'am/is/are' at the start.\nExample: Are you staying in a hotel? → Yes, I am. / No, I'm not.\nExample: What are you doing? → I'm working.\nExample: Is she wearing jeans? → Yes, she is. / No, she isn't.\n\n【3. Present Continuous Negatives】\nTo make negatives, add 'not' after 'am/is/are'.\nExample: I am not staying in a hotel.\nExample: He isn't wearing a jacket.\nExample: They aren't having dinner.\n\nRemember! Add -ing to the verb to make the Present Continuous.\n✅ I am reading. ❌ I am read.\n✅ She is wearing. ❌ She is wear."
     },
     "ja": {
-      "title": "現在進行形",
-      "rules": [
-        "現在進行形は、今まさに起こっていることを表します。",
-        "現在進行形は am/are/is + 動詞の-ing 形で作ります。",
-        "疑問文は am/are/is を主語の前に置きます。",
-        "否定文は am/are/is の後に not を付けます。",
-        "短い答え：Yes, I am. / No, I'm not."
-      ],
-      "examples": [
-        { "question": "私は英語を勉強しています。", "answer": "肯定" },
-        { "question": "あなたはジーンズを履いています。", "answer": "肯定" },
-        { "question": "彼女は本を読んでいます。", "answer": "肯定" },
-        { "question": "私たちは教室で勉強しています。", "answer": "肯定" },
-        { "question": "彼らは昼食を食べています。", "answer": "肯定" },
-        { "question": "私はホテルに泊まっていません。", "answer": "否定" },
-        { "question": "彼は働いていません。", "answer": "否定" },
-        { "question": "私たちは朝食を食べていません。", "answer": "否定" },
-        { "question": "何を着ていますか？", "answer": "疑問" },
-        { "question": "彼女はどこに泊まっていますか？", "answer": "疑問" }
-      ]
+      "title": "ぶんぽう の ポイント",
+      "content": "きょうは ３つの ぶんぽうを まなびましょう！\n\n【1. いま している こと】\nいま おこっている ことを はなす ときに つかいます。\n「〜しています」を つかいます。\nれい：わたしは ほんを よんでいます。\nれい：かのじょは ティーシャツを きています。\nれい：かれらは ちゅうしょくを たべています。\n\n【2. しつもんの つくりかた】\nしつもんを つくるには、ぶんの おわりに「か」を つけます。\nれい：ホテルに とまっていますか？\nこたえ：はい、とまっています。 / いいえ、とまっていません。\nれい：なにを していますか？ → しごとを しています。\nれい：かのじょは ジーンズを はいていますか？\nこたえ：はい、はいています。 / いいえ、はいていません。\n\n【3. ひていの つくりかた】\nひていを つくるには、「〜していません」を つかいます。\nれい：ホテルに とまっていません。\nれい：かれは ジャケットを きていません。\nれい：かれらは ゆうしょくを たべていません。\n\nおぼえてね！\nどうしの あとに「しています」を つけると いま している ことに なります。\n✅ わたしは よんでいます。\n✅ かのじょは きています。"
     },
     "fr": {
-      "title": "Présent continu",
-      "rules": [
-        "On utilise le présent continu pour dire ce qui se passe maintenant.",
-        "On forme le présent continu avec am/are/is + verbe + -ing.",
-        "Questions : placez am/are/is avant le sujet.",
-        "Négations : ajoutez not après am/are/is.",
-        "Réponses courtes : Yes, I am. / No, I'm not."
-      ],
-      "examples": [
-        { "question": "Je suis en train d'étudier l'anglais.", "answer": "affirmatif" },
-        { "question": "Tu portes un jean.", "answer": "affirmatif" },
-        { "question": "Elle lit un livre.", "answer": "affirmatif" },
-        { "question": "Nous travaillons en classe.", "answer": "affirmatif" },
-        { "question": "Ils déjeunent.", "answer": "affirmatif" },
-        { "question": "Je ne reste pas à l'hôtel.", "answer": "négatif" },
-        { "question": "Il ne travaille pas.", "answer": "négatif" },
-        { "question": "Nous ne prenons pas le petit-déjeuner.", "answer": "négatif" },
-        { "question": "Qu'est-ce que tu portes ?", "answer": "question" },
-        { "question": "Où est-ce qu'elle reste ?", "answer": "question" }
-      ]
+      "title": "Coin Grammaire",
+      "content": "Apprenons 3 points de grammaire aujourd'hui !\n\n【1. Présent Continu (Actions en cours)】\nOn utilise le Présent Continu pour parler de ce qui se passe maintenant.\nUtilisez 'am/is/are' + verbe-ing.\nExemple : Je lis un livre.\nExemple : Elle porte un T-shirt.\nExemple : Ils déjeunent.\n\n【2. Questions au Présent Continu】\nPour poser une question, on met 'am/is/are' au début.\nExemple : Tu restes à l'hôtel ? → Oui, je reste. / Non, je ne reste pas.\nExemple : Qu'est-ce que tu fais ? → Je travaille.\nExemple : Est-ce qu'elle porte un jean ? → Oui, elle porte. / Non, elle ne porte pas.\n\n【3. Négations au Présent Continu】\nPour faire une négation, on ajoute 'ne pas' après 'am/is/are'.\nExemple : Je ne reste pas à l'hôtel.\nExemple : Il ne porte pas de veste.\nExemple : Ils ne dînent pas.\n\nSouviens-toi !\nAjoutez -ing au verbe pour faire le Présent Continu.\n✅ Je lis. ❌ Je lire.\n✅ Elle porte. ❌ Elle porter."
     },
     "ko": {
-      "title": "현재진행형",
-      "rules": [
-        "현재진행형은 지금 일어나고 있는 일을 말할 때 사용합니다.",
-        "현재진행형은 am/are/is + 동사-ing 형태로 만듭니다.",
-        "의문문은 am/are/is를 주어 앞에 놓습니다.",
-        "부정문은 am/are/is 뒤에 not을 붙입니다.",
-        "짧은 답변: Yes, I am. / No, I'm not."
-      ],
-      "examples": [
-        { "question": "나는 영어를 공부하고 있어요.", "answer": "긍정" },
-        { "question": "당신은 청바지를 입고 있어요.", "answer": "긍정" },
-        { "question": "그녀는 책을 읽고 있어요.", "answer": "긍정" },
-        { "question": "우리는 교실에서 공부하고 있어요.", "answer": "긍정" },
-        { "question": "그들은 점심을 먹고 있어요.", "answer": "긍정" },
-        { "question": "나는 호텔에 묵고 있지 않아요.", "answer": "부정" },
-        { "question": "그는 일하고 있지 않아요.", "answer": "부정" },
-        { "question": "우리는 아침을 먹고 있지 않아요.", "answer": "부정" },
-        { "question": "뭐 입고 있어요?", "answer": "의문" },
-        { "question": "그녀는 어디에 묵고 있어요?", "answer": "의문" }
-      ]
+      "title": "문법 포인트",
+      "content": "오늘은 3가지 문법을 배워볼 거예요!\n\n【1. 지금 하고 있는 일】\n지금 일어나고 있는 일을 말할 때 사용해요.\n'~고 있어요'를 동사 뒤에 붙여요.\n예: 저는 책을 읽고 있어요.\n예: 그녀는 티셔츠를 입고 있어요.\n예: 그들은 점심을 먹고 있어요.\n\n【2. 묻는 방법】\n물어볼 때는 문장 끝에 '요?'를 붙여요.\n예: 호텔에 묵고 있어요?\n답: 네, 묵고 있어요. / 아니요, 묵고 있지 않아요.\n예: 뭐 하고 있어요? → 일하고 있어요.\n예: 그녀는 청바지를 입고 있어요?\n답: 네, 입고 있어요. / 아니요, 입고 있지 않아요.\n\n【3. 부정하는 방법】\n부정할 때는 동사 뒤에 '있지 않아요'를 붙여요.\n예: 호텔에 묵고 있지 않아요.\n예: 그는 자켓을 입고 있지 않아요.\n예: 그들은 저녁을 먹고 있지 않아요.\n\n기억하세요!\n동사 뒤에 '~고 있어요'를 붙이면 지금 하고 있는 일이 돼요.\n✅ 저는 읽고 있어요.\n✅ 그녀는 입고 있어요."
     }
   },
   "clothes_vocabulary": {
@@ -381,7 +309,7 @@
       "colours": ["black", "white", "red", "blue", "green", "grey", "yellow", "brown"]
     },
     "ja": {
-      "title": "服",
+      "title": "ふく",
       "items": [
         { "word": "シャツ", "emoji": "👔" },
         { "word": "セーター", "emoji": "🧶" },
@@ -391,16 +319,16 @@
         { "word": "ドレス", "emoji": "👗" },
         { "word": "ジャケット", "emoji": "🧥" },
         { "word": "コート", "emoji": "🧥" },
-        { "word": "靴", "emoji": "👟" },
+        { "word": "くつ", "emoji": "👟" },
         { "word": "ブーツ", "emoji": "🥾" },
         { "word": "サンダル", "emoji": "👡" },
         { "word": "スニーカー", "emoji": "👟" },
-        { "word": "靴下", "emoji": "🧦" },
-        { "word": "帽子", "emoji": "🧢" },
+        { "word": "くつした", "emoji": "🧦" },
+        { "word": "ぼうし", "emoji": "🧢" },
         { "word": "ネクタイ", "emoji": "🎀" },
-        { "word": "半ズボン", "emoji": "🩳" }
+        { "word": "はんズボン", "emoji": "🩳" }
       ],
-      "colours": ["黒", "白", "赤", "青", "緑", "灰色", "黄色", "茶色"]
+      "colours": ["くろ", "しろ", "あか", "あお", "みどり", "はいいろ", "きいろ", "ちゃいろ"]
     },
     "fr": {
       "title": "Vêtements",
@@ -479,28 +407,28 @@
     "ja": {
       "title": "どうしたの？",
       "problems": [
-        { "id": "cold", "emoji": "🥶", "word": "寒い" },
-        { "id": "hot", "emoji": "🥵", "word": "暑い" },
-        { "id": "hungry", "emoji": "🍽️", "word": "お腹が空いた" },
-        { "id": "thirsty", "emoji": "🥤", "word": "喉が渇いた" },
-        { "id": "tired", "emoji": "😴", "word": "疲れた" },
-        { "id": "bored", "emoji": "😒", "word": "退屈した" }
+        { "id": "cold", "emoji": "🥶", "word": "さむい" },
+        { "id": "hot", "emoji": "🥵", "word": "あつい" },
+        { "id": "hungry", "emoji": "🍽️", "word": "おなかが すいた" },
+        { "id": "thirsty", "emoji": "🥤", "word": "のどが かわいた" },
+        { "id": "tired", "emoji": "😴", "word": "つかれた" },
+        { "id": "bored", "emoji": "😒", "word": "たいくつした" }
       ],
       "suggestions": [
-        { "problem": "疲れた。", "suggestion": "早く寝たら？" },
-        { "problem": "喉が渇いた。", "suggestion": "冷たい飲み物を飲んだら？" },
-        { "problem": "疲れた。", "suggestion": "座ってリラックスしたら？" },
-        { "problem": "寒い。", "suggestion": "セーターを着たら？" },
-        { "problem": "暑い。", "suggestion": "泳ぎに行ったら？" },
-        { "problem": "退屈した。", "suggestion": "映画に行ったら？" },
-        { "problem": "お腹が空いた。", "suggestion": "サンドイッチを食べたら？" },
-        { "problem": "退屈した。", "suggestion": "ビデオを見たら？" },
-        { "problem": "暑い。", "suggestion": "シャワーを浴びたら？" }
+        { "problem": "つかれた。", "suggestion": "はやく ねたら？" },
+        { "problem": "のどが かわいた。", "suggestion": "つめたい のみものを のんだら？" },
+        { "problem": "つかれた。", "suggestion": "すわって リラックスしたら？" },
+        { "problem": "さむい。", "suggestion": "セーターを きたら？" },
+        { "problem": "あつい。", "suggestion": "およぎに いったら？" },
+        { "problem": "たいくつした。", "suggestion": "えいがに いったら？" },
+        { "problem": "おなかが すいた。", "suggestion": "サンドイッチを たべたら？" },
+        { "problem": "たいくつした。", "suggestion": "ビデオを みたら？" },
+        { "problem": "あつい。", "suggestion": "シャワーを あびたら？" }
       ],
       "conversation": [
         { "speaker": "A", "text": "どうしたの？" },
-        { "speaker": "B", "text": "疲れて喉が渇いた。" },
-        { "speaker": "A", "text": "お茶を飲んだら？" },
+        { "speaker": "B", "text": "つかれて のどが かわいた。" },
+        { "speaker": "A", "text": "おちゃを のんだら？" },
         { "speaker": "B", "text": "いいアイデアだね。" }
       ]
     },
