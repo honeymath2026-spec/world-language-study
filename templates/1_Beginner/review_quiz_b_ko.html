@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Review Quiz B: Beginner Units 05-08</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        :root {
+            --u5: #E67E22; --u6: #2980B9; --u7: #8E44AD; --u8: #1ABC9C;
+            --bg: #F4F7F6; --card: #ffffff; --text: #2C3E50;
+        }
+        body { font-family: 'Segoe UI', sans-serif; background-color: var(--bg); color: var(--text); line-height: 1.6; margin: 0; padding: 20px; }
+        .container { max-width: 950px; margin: 0 auto; padding-bottom: 100px; }
+        
+        .back-to-dashboard {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background-color: #7f8c8d;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 50px;
+            text-decoration: none;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            z-index: 1001;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+
+        .back-to-dashboard:hover {
+            transform: scale(1.1);
+            background-color: #3498db;
+        }
+
+        .grammar-notes { background: white; padding: 30px; border-radius: 15px; margin-bottom: 40px; border-top: 10px solid #34495e; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        .note-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 15px; }
+        .note-item { padding: 15px; border-radius: 10px; background: #f8f9fa; border-left: 4px solid #34495e; font-size: 0.9rem; }
+        .note-item h4 { margin: 0 0 8px 0; color: var(--text); border-bottom: 1px solid #ddd; padding-bottom: 5px; }
+
+        .quiz-section { background: white; padding: 30px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+        .section-title { font-size: 1.3rem; font-weight: bold; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; color: #2980b9; }
+        .question-item { margin-bottom: 15px; padding: 12px; border-radius: 8px; background: #fcfcfc; border: 1px solid #eee; }
+        .q-text { font-weight: 500; margin-bottom: 10px; display: block; }
+        
+        select { padding: 8px; border-radius: 5px; border: 1px solid #ccc; font-size: 0.95rem; width: 100%; max-width: 350px; cursor: pointer; }
+        .correct { background-color: #d4edda !important; border-color: #28a745 !important; }
+        .incorrect { background-color: #f8d7da !important; border-color: #dc3545 !important; }
+
+        .word-bank-container { background: #fff5f5; border: 1px solid #fed7d7; border-radius: 12px; padding: 20px; margin-bottom: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.02); }
+        .bank-header { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; }
+        .bank-title { color: #c53030; margin: 0; border-left: 4px solid #f56565; padding-left: 10px; font-size: 1.1rem; }
+        .bank-badge { font-size: 0.85rem; background: #f56565; color: white; padding: 4px 12px; border-radius: 20px; font-weight: 500; }
+        
+        .q-row { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 15px; font-size: 1rem; }
+
+        .mini-select { 
+            border: none; border-bottom: 2px solid #feb2b2; background: transparent; 
+            font-weight: bold; color: #c53030; padding: 2px 5px; cursor: pointer; outline: none;
+            font-size: 1rem; appearance: none; text-align: center;
+        }
+
+        .passage-box { background: #f0f4f8; padding: 15px; border-radius: 8px; margin-bottom: 15px; font-size: 0.9rem; border-left: 5px solid #2980b9; line-height: 1.4; }
+
+        .result-bar { position: fixed; bottom: 0; left: 0; right: 0; background: #2c3e50; color: white; padding: 20px; text-align: center; box-shadow: 0 -5px 20px rgba(0,0,0,0.2); display: flex; justify-content: center; align-items: center; gap: 40px; z-index: 1000; }
+        .score-display { font-size: 1.4rem; font-weight: bold; }
+        .score-val { color: #2ecc71; font-size: 2rem; }
+        .grade-btn { background: #2ecc71; color: white; border: none; padding: 12px 30px; border-radius: 30px; cursor: pointer; font-weight: bold; font-size: 1.1rem; }
+    </style>
+</head>
+<body>
+
+    <a href="../../index.html" class="back-to-dashboard">🏠 Back to Dashboard</a>
+
+<div class="container">
+
+    <header class="grammar-notes">
+        <h2><i class="fas fa-book-open"></i> Grammar & Vocabulary Notes: Beginner Units 05-08</h2>
+        <div class="note-grid">
+            <div class="note-item">
+                <h4>Unit 05: It's my life!</h4>
+                <p><b>Present Simple</b> (I/you/they). <b>Likes and dislikes</b>. <b>a/an</b>. <b>Languages & nationalities</b>. <b>Numbers & prices</b>.</p>
+            </div>
+            <div class="note-item">
+                <h4>Unit 06: Every day</h4>
+                <p><b>Present Simple</b> (he/she/it). <b>Adverbs of frequency</b> (usually, sometimes, never). <b>Time</b>. <b>Days of the week</b>.</p>
+            </div>
+            <div class="note-item">
+                <h4>Unit 07: Places I like</h4>
+                <p><b>Question words</b> (what, where, who, why, when, how). <b>This/That</b>. <b>It/Them</b>. <b>Adjectives</b>. <b>Can I...?</b></p>
+            </div>
+            <div class="note-item">
+                <h4>Unit 08: Where I live</h4>
+                <p><b>There is/are</b>. <b>Any</b>. <b>Prepositions of place</b> (in, on, under, next to). <b>Directions</b>.</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- SECTION 1: PRESENT SIMPLE (Units 5-6) -->
+    <section class="quiz-section">
+        <div class="section-title">1. PRESENT SIMPLE (Units 5-6)</div>
+        <div class="question-item">
+            <span class="q-text">1. I _____ tennis. (like - Unit 5)</span>
+            <select class="q-select" data-ans="like"><option value="">--Select--</option><option value="like">like</option><option value="likes">likes</option><option value="am liking">am liking</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">2. She _____ football. (not like - Unit 5)</span>
+            <select class="q-select" data-ans="doesn't like"><option value="">--Select--</option><option value="don't like">don't like</option><option value="doesn't like">doesn't like</option><option value="isn't like">isn't like</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">3. He _____ up at 6.00. (get - Unit 6)</span>
+            <select class="q-select" data-ans="gets"><option value="">--Select--</option><option value="get">get</option><option value="gets">gets</option><option value="getting">getting</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">4. _____ you like pizza? (Unit 5)</span>
+            <select class="q-select" data-ans="Do"><option value="">--Select--</option><option value="Do">Do</option><option value="Does">Does</option><option value="Are">Are</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">5. What time _____ he go to bed? (Unit 6)</span>
+            <select class="q-select" data-ans="does"><option value="">--Select--</option><option value="do">do</option><option value="does">does</option><option value="is">is</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 2: ADVERBS OF FREQUENCY (Unit 6) -->
+    <section class="quiz-section">
+        <div class="section-title">2. ADVERBS OF FREQUENCY (Unit 6)</div>
+        <div class="question-item">
+            <span class="q-text">1. I _____ get up at 7.00. (most of the time)</span>
+            <select class="q-select" data-ans="usually"><option value="">--Select--</option><option value="always">always</option><option value="usually">usually</option><option value="sometimes">sometimes</option><option value="never">never</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">2. She _____ has breakfast at home. (not all the time, but often)</span>
+            <select class="q-select" data-ans="sometimes"><option value="">--Select--</option><option value="always">always</option><option value="usually">usually</option><option value="sometimes">sometimes</option><option value="never">never</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">3. He _____ goes to bed late. (not at any time)</span>
+            <select class="q-select" data-ans="never"><option value="">--Select--</option><option value="always">always</option><option value="usually">usually</option><option value="sometimes">sometimes</option><option value="never">never</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">4. I _____ drink coffee in the morning. (100%)</span>
+            <select class="q-select" data-ans="always"><option value="">--Select--</option><option value="always">always</option><option value="usually">usually</option><option value="sometimes">sometimes</option><option value="never">never</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">5. They _____ eat pizza for lunch. (about 50%)</span>
+            <select class="q-select" data-ans="sometimes"><option value="">--Select--</option><option value="always">always</option><option value="usually">usually</option><option value="sometimes">sometimes</option><option value="never">never</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 3: VOCABULARY (Units 5-8) -->
+    <section class="quiz-section">
+        <div class="section-title">3. CORE WORD BUILDER (Word Bank)</div>
+
+        <div class="word-bank-container">
+            <div class="bank-header">
+                <h4 class="bank-title">Group 1: Sports & Food</h4>
+                <span class="bank-badge"><i class="fas fa-spell-check"></i> tennis, football, pizza, coffee</span>
+            </div>
+            <div class="q-row">1. I play 
+                <select class="mini-select q-data" data-ans="tennis"><option value="">......</option><option value="tennis">tennis</option><option value="football">football</option><option value="pizza">pizza</option><option value="coffee">coffee</option></select> with a racket.
+            </div>
+            <div class="q-row">2. I drink 
+                <select class="mini-select q-data" data-ans="coffee"><option value="">......</option><option value="tennis">tennis</option><option value="football">football</option><option value="pizza">pizza</option><option value="coffee">coffee</option></select> in the morning.
+            </div>
+            <div class="q-row">3. I eat 
+                <select class="mini-select q-data" data-ans="pizza"><option value="">......</option><option value="tennis">tennis</option><option value="football">football</option><option value="pizza">pizza</option><option value="coffee">coffee</option></select> for dinner.
+            </div>
+        </div>
+
+        <div class="word-bank-container">
+            <div class="bank-header">
+                <h4 class="bank-title">Group 2: Daily Routines</h4>
+                <span class="bank-badge"><i class="fas fa-spell-check"></i> get up, have breakfast, go to bed, work</span>
+            </div>
+            <div class="q-row">1. I 
+                <select class="mini-select q-data" data-ans="get up"><option value="">......</option><option value="get up">get up</option><option value="have breakfast">have breakfast</option><option value="go to bed">go to bed</option><option value="work">work</option></select> at 7.00 in the morning.
+            </div>
+            <div class="q-row">2. I 
+                <select class="mini-select q-data" data-ans="have breakfast"><option value="">......</option><option value="get up">get up</option><option value="have breakfast">have breakfast</option><option value="go to bed">go to bed</option><option value="work">work</option></select> at 8.00.
+            </div>
+            <div class="q-row">3. I 
+                <select class="mini-select q-data" data-ans="go to bed"><option value="">......</option><option value="get up">get up</option><option value="have breakfast">have breakfast</option><option value="go to bed">go to bed</option><option value="work">work</option></select> at 11.00.
+            </div>
+        </div>
+
+        <div class="word-bank-container">
+            <div class="bank-header">
+                <h4 class="bank-title">Group 3: Places & Furniture</h4>
+                <span class="bank-badge"><i class="fas fa-spell-check"></i> sofa, kitchen, bedroom, lamp</span>
+            </div>
+            <div class="q-row">1. There is a 
+                <select class="mini-select q-data" data-ans="sofa"><option value="">......</option><option value="sofa">sofa</option><option value="kitchen">kitchen</option><option value="bedroom">bedroom</option><option value="lamp">lamp</option></select> in the living room.
+            </div>
+            <div class="q-row">2. I cook in the 
+                <select class="mini-select q-data" data-ans="kitchen"><option value="">......</option><option value="sofa">sofa</option><option value="kitchen">kitchen</option><option value="bedroom">bedroom</option><option value="lamp">lamp</option></select>.
+            </div>
+            <div class="q-row">3. There is a 
+                <select class="mini-select q-data" data-ans="lamp"><option value="">......</option><option value="sofa">sofa</option><option value="kitchen">kitchen</option><option value="bedroom">bedroom</option><option value="lamp">lamp</option></select> on the table.
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 4: READING (UNITS 5-8) -->
+    <section class="quiz-section">
+        <div class="section-title">4. READING: CHOOSE THE BEST TITLE</div>
+        
+        <div class="passage-box">
+            Hello! My name's Gordon Wilson. I come from Aberdeen in Scotland, but now I live and work in London. I'm a waiter and I'm also a drama student. I work in an Italian restaurant. I eat Italian food and I drink Italian and French wine. I don't drink beer. I don't like it. I speak three languages – English, French, and a little Italian. I want to be an actor. (Unit 5)
+        </div>
+        <div class="question-item">
+            <span class="q-text">1. What is the best title?</span>
+            <select class="q-select" data-ans="Gordon Wilson"><option value="">--Select--</option><option value="Gordon Wilson">Gordon Wilson</option><option value="A Day in London">A Day in London</option><option value="Italian Food">Italian Food</option></select>
+        </div>
+
+        <div class="passage-box">
+            Karl Wilk is 22 and he is a computer millionaire. He gets up at six o'clock and he has a shower. He has breakfast at 6.45. He leaves home at 7.15 and he goes to work by taxi. He usually works late. He leaves work at 7.30 in the evening. He never goes out in the evening. He goes to bed at 11.45. (Unit 6)
+        </div>
+        <div class="question-item">
+            <span class="q-text">2. What is the main idea?</span>
+            <select class="q-select" data-ans="Karl's Day"><option value="">--Select--</option><option value="Karl's Day">Karl's Day</option><option value="A Computer Millionaire">A Computer Millionaire</option><option value="Working Late">Working Late</option></select>
+        </div>
+
+        <div class="passage-box">
+            My living room isn't very big, but I love it. There's a sofa, and there are two armchairs. There's a small table with a TV on it, and there are a lot of books. There's a CD player, and there are some CDs. There are pictures on the wall, and there are two lamps. It's a very comfortable room. (Unit 8)
+        </div>
+        <div class="question-item">
+            <span class="q-text">3. Choose the most suitable title:</span>
+            <select class="q-select" data-ans="My Living Room"><option value="">--Select--</option><option value="My Living Room">My Living Room</option><option value="My Favorite Books">My Favorite Books</option><option value="A Comfortable Room">A Comfortable Room</option></select>
+        </div>
+
+        <div class="passage-box">
+            Use 'this' for something near you. Use 'that' for something far away. Example: This is my house. (near) That is your car. (far) (Unit 7 Grammar)
+        </div>
+        <div class="question-item">
+            <span class="q-text">4. What is the best title?</span>
+            <select class="q-select" data-ans="This and That"><option value="">--Select--</option><option value="This and That">This and That</option><option value="Near and Far">Near and Far</option><option value="Grammar Rules">Grammar Rules</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 5: MATCH THE MAIN IDEA (Units 5-8) -->
+    <section class="quiz-section">
+        <div class="section-title">5. MATCH THE MAIN IDEA</div>
+        <div class="passage-box">"I like tennis. I don't like football. Do you like tennis? Yes, I do. No, I don't." (Unit 5)</div>
+        <div class="question-item">
+            <span class="q-text">Q1. Main Idea:</span>
+            <select class="q-select" data-ans="Talking About Likes"><option value="">--Select--</option><option value="Talking About Likes">Talking About Likes</option><option value="Playing Sports">Playing Sports</option></select>
+        </div>
+        <div class="passage-box">"What time do you get up? I get up at 7.30. What time do you have breakfast? I have breakfast at 8.00." (Unit 6)</div>
+        <div class="question-item">
+            <span class="q-text">Q2. Main Idea:</span>
+            <select class="q-select" data-ans="Daily Routine"><option value="">--Select--</option><option value="Daily Routine">Daily Routine</option><option value="Breakfast Time">Breakfast Time</option></select>
+        </div>
+        <div class="passage-box">"What is the capital of Australia? Where does the American President live? Who lives in Buckingham Palace?" (Unit 7)</div>
+        <div class="question-item">
+            <span class="q-text">Q3. Main Idea:</span>
+            <select class="q-select" data-ans="Asking Questions"><option value="">--Select--</option><option value="Asking Questions">Asking Questions</option><option value="Famous Places">Famous Places</option></select>
+        </div>
+        <div class="passage-box">"There's a sofa, and there are two armchairs. There's a small table with a TV on it." (Unit 8)</div>
+        <div class="question-item">
+            <span class="q-text">Q4. Main Idea:</span>
+            <select class="q-select" data-ans="Describing a Room"><option value="">--Select--</option><option value="Describing a Room">Describing a Room</option><option value="Living Room Furniture">Living Room Furniture</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 6: QUESTION WORDS (Unit 7) -->
+    <section class="quiz-section">
+        <div class="section-title">6. QUESTION WORDS (Unit 7)</div>
+        <div class="question-item"><span class="q-text">1. _____ is the capital of Australia?</span><select class="q-select" data-ans="What"><option value="">--Select--</option><option value="What">What</option><option value="Where">Where</option><option value="Who">Who</option><option value="Why">Why</option></select></div>
+        <div class="question-item"><span class="q-text">2. _____ does the American President live?</span><select class="q-select" data-ans="Where"><option value="">--Select--</option><option value="What">What</option><option value="Where">Where</option><option value="Who">Who</option><option value="Why">Why</option></select></div>
+        <div class="question-item"><span class="q-text">3. _____ lives in Buckingham Palace?</span><select class="q-select" data-ans="Who"><option value="">--Select--</option><option value="What">What</option><option value="Where">Where</option><option value="Who">Who</option><option value="Why">Why</option></select></div>
+        <div class="question-item"><span class="q-text">4. _____ do you like London? Because I love it!</span><select class="q-select" data-ans="Why"><option value="">--Select--</option><option value="What">What</option><option value="Where">Where</option><option value="Who">Who</option><option value="Why">Why</option></select></div>
+        <div class="question-item"><span class="q-text">5. _____ is your birthday? It's in May.</span><select class="q-select" data-ans="When"><option value="">--Select--</option><option value="What">What</option><option value="Where">Where</option><option value="When">When</option><option value="Why">Why</option></select></div>
+    </section>
+
+    <!-- SECTION 7: THERE IS / THERE ARE (Unit 8) -->
+    <section class="quiz-section">
+        <div class="section-title">7. THERE IS / THERE ARE (Unit 8)</div>
+        <div class="question-item"><span class="q-text">1. _____ a sofa in the living room.</span><select class="q-select" data-ans="There is"><option value="">--Select--</option><option value="There is">There is</option><option value="There are">There are</option><option value="Is there">Is there</option></select></div>
+        <div class="question-item"><span class="q-text">2. _____ two armchairs in the room.</span><select class="q-select" data-ans="There are"><option value="">--Select--</option><option value="There is">There is</option><option value="There are">There are</option><option value="Are there">Are there</option></select></div>
+        <div class="question-item"><span class="q-text">3. _____ a TV on the table?</span><select class="q-select" data-ans="Is there"><option value="">--Select--</option><option value="There is">There is</option><option value="There are">There are</option><option value="Is there">Is there</option></select></div>
+        <div class="question-item"><span class="q-text">4. _____ any pictures on the wall?</span><select class="q-select" data-ans="Are there"><option value="">--Select--</option><option value="There is">There is</option><option value="There are">There are</option><option value="Are there">Are there</option></select></div>
+        <div class="question-item"><span class="q-text">5. No, _____ any pictures.</span><select class="q-select" data-ans="there aren't"><option value="">--Select--</option><option value="there isn't">there isn't</option><option value="there aren't">there aren't</option><option value="there are">there are</option></select></div>
+    </section>
+
+    <!-- SECTION 8: GRAMMAR FOCUS (Units 5-8) -->
+    <section class="quiz-section">
+        <div class="section-title">8. GRAMMAR FOCUS</div>
+        <div class="question-item"><span class="q-text">1. I _____ Italian food. (like - Unit 5)</span><select class="q-select" data-ans="like"><option value="">--Select--</option><option value="like">like</option><option value="likes">likes</option><option value="am liking">am liking</option></select></div>
+        <div class="question-item"><span class="q-text">2. She _____ speak French. (Unit 5)</span><select class="q-select" data-ans="speaks"><option value="">--Select--</option><option value="speak">speak</option><option value="speaks">speaks</option><option value="speaking">speaking</option></select></div>
+        <div class="question-item"><span class="q-text">3. He _____ up at 6.00. (get - Unit 6)</span><select class="q-select" data-ans="gets"><option value="">--Select--</option><option value="get">get</option><option value="gets">gets</option><option value="getting">getting</option></select></div>
+        <div class="question-item"><span class="q-text">4. What time _____ she go to work? (Unit 6)</span><select class="q-select" data-ans="does"><option value="">--Select--</option><option value="do">do</option><option value="does">does</option><option value="is">is</option></select></div>
+        <div class="question-item"><span class="q-text">5. _____ is the CD player? (Unit 7)</span><select class="q-select" data-ans="Where"><option value="">--Select--</option><option value="What">What</option><option value="Where">Where</option><option value="Who">Who</option><option value="Why">Why</option></select></div>
+        <div class="question-item"><span class="q-text">6. _____ is your job? (Unit 7)</span><select class="q-select" data-ans="What"><option value="">--Select--</option><option value="What">What</option><option value="Where">Where</option><option value="Who">Who</option><option value="Why">Why</option></select></div>
+        <div class="question-item"><span class="q-text">7. There _____ a TV in the room. (Unit 8)</span><select class="q-select" data-ans="is"><option value="">--Select--</option><option value="is">is</option><option value="are">are</option><option value="am">am</option></select></div>
+        <div class="question-item"><span class="q-text">8. There _____ two lamps. (Unit 8)</span><select class="q-select" data-ans="are"><option value="">--Select--</option><option value="is">is</option><option value="are">are</option><option value="am">am</option></select></div>
+        <div class="question-item"><span class="q-text">9. Can I _____ a ham sandwich? (Unit 7)</span><select class="q-select" data-ans="have"><option value="">--Select--</option><option value="have">have</option><option value="has">has</option><option value="had">had</option></select></div>
+        <div class="question-item"><span class="q-text">10. _____ you like tennis? (Unit 5)</span><select class="q-select" data-ans="Do"><option value="">--Select--</option><option value="Do">Do</option><option value="Does">Does</option><option value="Are">Are</option></select></div>
+    </section>
+
+    <div class="result-bar">
+        <div class="score-display">Total Score: <span id="final-val" class="score-val">--</span> / 100</div>
+        <button class="grade-btn" onclick="gradeAll()">Submit & Grade</button>
+    </div>
+</div>
+
+<script>
+    function gradeAll() {
+        const allSelects = document.querySelectorAll('.q-select, .mini-select');
+        let correctCount = 0;
+
+        allSelects.forEach(sel => {
+            const userAnswer = sel.value;
+            const correctAnswer = sel.getAttribute('data-ans');
+
+            if (userAnswer === correctAnswer) {
+                correctCount++;
+                sel.style.backgroundColor = "#d4edda";
+                sel.style.borderColor = "#28a745";
+            } else {
+                sel.style.backgroundColor = "#f8d7da";
+                sel.style.borderColor = "#dc3545";
+            }
+        });
+
+        const totalQuestions = allSelects.length;
+        const finalScore = Math.round((correctCount / totalQuestions) * 100);
+        document.getElementById('final-val').innerText = finalScore;
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        alert(`Your score is ${finalScore} / 100. (${correctCount} / ${totalQuestions} correct)`);
+    }
+</script>
+
+</body>
+</html>

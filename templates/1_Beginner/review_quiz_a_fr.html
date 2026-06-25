@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de révision A : Débutant Unités 01-04</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        :root {
+            --u1: #E74C3C; --u2: #F39C12; --u3: #F1C40F; --u4: #2ECC71;
+            --bg: #F4F7F6; --card: #ffffff; --text: #2C3E50;
+        }
+        body { font-family: 'Segoe UI', sans-serif; background-color: var(--bg); color: var(--text); line-height: 1.6; margin: 0; padding: 20px; }
+        .container { max-width: 950px; margin: 0 auto; padding-bottom: 100px; }
+        
+        .back-to-dashboard {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background-color: #7f8c8d;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 50px;
+            text-decoration: none;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            z-index: 1001;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+
+        .back-to-dashboard:hover {
+            transform: scale(1.1);
+            background-color: #3498db;
+        }
+
+        /* Grammar Notes */
+        .grammar-notes { background: white; padding: 30px; border-radius: 15px; margin-bottom: 40px; border-top: 10px solid #34495e; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        .note-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 15px; }
+        .note-item { padding: 15px; border-radius: 10px; background: #f8f9fa; border-left: 4px solid #34495e; font-size: 0.9rem; }
+        .note-item h4 { margin: 0 0 8px 0; color: var(--text); border-bottom: 1px solid #ddd; padding-bottom: 5px; }
+
+        /* Quiz Styles */
+        .quiz-section { background: white; padding: 30px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+        .section-title { font-size: 1.3rem; font-weight: bold; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; color: #2980b9; }
+        .question-item { margin-bottom: 15px; padding: 12px; border-radius: 8px; background: #fcfcfc; border: 1px solid #eee; }
+        .q-text { font-weight: 500; margin-bottom: 10px; display: block; }
+        
+        select { padding: 8px; border-radius: 5px; border: 1px solid #ccc; font-size: 0.95rem; width: 100%; max-width: 350px; cursor: pointer; }
+        .correct { background-color: #d4edda !important; border-color: #28a745 !important; }
+        .incorrect { background-color: #f8d7da !important; border-color: #dc3545 !important; }
+
+        /* Word Bank Style */
+        .word-bank-container { background: #fff5f5; border: 1px solid #fed7d7; border-radius: 12px; padding: 20px; margin-bottom: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.02); }
+        .bank-header { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; }
+        .bank-title { color: #c53030; margin: 0; border-left: 4px solid #f56565; padding-left: 10px; font-size: 1.1rem; }
+        .bank-badge { font-size: 0.85rem; background: #f56565; color: white; padding: 4px 12px; border-radius: 20px; font-weight: 500; }
+        
+        .q-row { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 15px; font-size: 1rem; }
+
+        .mini-select { 
+            border: none; border-bottom: 2px solid #feb2b2; background: transparent; 
+            font-weight: bold; color: #c53030; padding: 2px 5px; cursor: pointer; outline: none;
+            font-size: 1rem; appearance: none; text-align: center;
+        }
+
+        /* Reading Passage */
+        .passage-box { background: #f0f4f8; padding: 15px; border-radius: 8px; margin-bottom: 15px; font-size: 0.9rem; border-left: 5px solid #2980b9; line-height: 1.4; }
+
+        /* Result Bar */
+        .result-bar { position: fixed; bottom: 0; left: 0; right: 0; background: #2c3e50; color: white; padding: 20px; text-align: center; box-shadow: 0 -5px 20px rgba(0,0,0,0.2); display: flex; justify-content: center; align-items: center; gap: 40px; z-index: 1000; }
+        .score-display { font-size: 1.4rem; font-weight: bold; }
+        .score-val { color: #2ecc71; font-size: 2rem; }
+        .grade-btn { background: #2ecc71; color: white; border: none; padding: 12px 30px; border-radius: 30px; cursor: pointer; font-weight: bold; font-size: 1.1rem; }
+    </style>
+</head>
+<body>
+
+    <a href="../../index.html" class="back-to-dashboard">🏠 Retour au tableau de bord</a>
+
+<div class="container">
+
+    <header class="grammar-notes">
+        <h2><i class="fas fa-book-open"></i> Notes de grammaire et vocabulaire : Débutant Unités 01-04</h2>
+        <div class="note-grid">
+            <div class="note-item">
+                <h4>Unité 01 : Bonjour !</h4>
+                <p><b>Verbe 'être'</b> (suis/es/est/sommes/êtes/sont). <b>Adjectifs possessifs</b> (mon, ton, son, ma, ta, sa). <b>Nombres 1-10</b>. <b>Pluriels</b> avec -s.</p>
+            </div>
+            <div class="note-item">
+                <h4>Unité 02 : Votre monde</h4>
+                <p><b>Son/Sa</b>. <b>Il est/Elle est</b>. <b>Demander le nom et l'origine</b>. <b>Nombres 11-30</b>.</p>
+            </div>
+            <div class="note-item">
+                <h4>Unité 03 : Informations personnelles</h4>
+                <p><b>Verbe 'être' négations et questions</b>. <b>Métiers</b>. <b>Réponses courtes</b>. <b>Questions avec mots interrogatifs</b>.</p>
+            </div>
+            <div class="note-item">
+                <h4>Unité 04 : Famille et amis</h4>
+                <p><b>Vocabulaire de la famille</b>. <b>Adjectifs possessifs</b> (son, sa, leur). <b>Avoir</b>.</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- SECTION 1: VERB 'TO BE' (Units 1-3) -->
+    <section class="quiz-section">
+        <div class="section-title">1. VERBE 'ÊTRE' (Unités 1-3)</div>
+        <div class="question-item">
+            <span class="q-text">1. Je _____ Sandra. (Unité 1)</span>
+            <select class="q-select" data-ans="suis"><option value="">-- Choisir --</option><option value="suis">suis</option><option value="est">est</option><option value="sont">sont</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">2. Quel _____ ton nom ? (Unité 1)</span>
+            <select class="q-select" data-ans="est"><option value="">-- Choisir --</option><option value="suis">suis</option><option value="est">est</option><option value="sont">sont</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">3. Il _____ d'Espagne. (Unité 2)</span>
+            <select class="q-select" data-ans="est"><option value="">-- Choisir --</option><option value="suis">suis</option><option value="est">est</option><option value="sont">sont</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">4. Ils _____ étudiants. (Unité 3)</span>
+            <select class="q-select" data-ans="sont"><option value="">-- Choisir --</option><option value="suis">suis</option><option value="est">est</option><option value="sont">sont</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">5. Elle _____ pas infirmière. (Unité 3)</span>
+            <select class="q-select" data-ans="est"><option value="">-- Choisir --</option><option value="suis">suis</option><option value="est">est</option><option value="sont">sont</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 2: POSSESSIVE ADJECTIVES & PRONOUNS (Units 1-4) -->
+    <section class="quiz-section">
+        <div class="section-title">2. ADJECTIFS POSSESSIFS (Unités 1-4)</div>
+        <div class="question-item">
+            <span class="q-text">1. C'est _____ nom. (mon/ton - Unité 1)</span>
+            <select class="q-select" data-ans="mon"><option value="">-- Choisir --</option><option value="mon">mon</option><option value="ton">ton</option><option value="son">son</option><option value="sa">sa</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">2. Quel est _____ nom ? (son/sa - Unité 2)</span>
+            <select class="q-select" data-ans="son"><option value="">-- Choisir --</option><option value="mon">mon</option><option value="ton">ton</option><option value="son">son</option><option value="sa">sa</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">3. _____ nom est Sandra. (son/sa - Unité 2)</span>
+            <select class="q-select" data-ans="Son"><option value="">-- Choisir --</option><option value="Son">Son</option><option value="Sa">Sa</option><option value="Mon">Mon</option><option value="Ton">Ton</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">4. _____ maison est à Londres. (leur/notre - Unité 4)</span>
+            <select class="q-select" data-ans="Leur"><option value="">-- Choisir --</option><option value="Leur">Leur</option><option value="Notre">Notre</option><option value="Mon">Mon</option><option value="Ton">Ton</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">5. _____ enfants sont étudiants. (leur/notre - Unité 4)</span>
+            <select class="q-select" data-ans="Leurs"><option value="">-- Choisir --</option><option value="Leurs">Leurs</option><option value="Nos">Nos</option><option value="Mes">Mes</option><option value="Tes">Tes</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 3: VOCABULARY (Units 1-4) -->
+    <section class="quiz-section">
+        <div class="section-title">3. CONSTRUCTEUR DE VOCABULAIRE (Banque de mots)</div>
+
+        <div class="word-bank-container">
+            <div class="bank-header">
+                <h4 class="bank-title">Groupe 1 : Salutations & Personnes</h4>
+                <span class="bank-badge"><i class="fas fa-spell-check"></i> bonjour, nom, ami, étudiant</span>
+            </div>
+            <div class="q-row">1. Quand vous rencontrez quelqu'un, vous dites 
+                <select class="mini-select q-data" data-ans="bonjour"><option value="">......</option><option value="bonjour">bonjour</option><option value="nom">nom</option><option value="ami">ami</option><option value="étudiant">étudiant</option></select>.
+            </div>
+            <div class="q-row">2. Le mot que les gens utilisent pour vous appeler est votre 
+                <select class="mini-select q-data" data-ans="nom"><option value="">......</option><option value="bonjour">bonjour</option><option value="nom">nom</option><option value="ami">ami</option><option value="étudiant">étudiant</option></select>.
+            </div>
+            <div class="q-row">3. Une personne qui apprend à l'école est un 
+                <select class="mini-select q-data" data-ans="étudiant"><option value="">......</option><option value="bonjour">bonjour</option><option value="nom">nom</option><option value="ami">ami</option><option value="étudiant">étudiant</option></select>.
+            </div>
+        </div>
+
+        <div class="word-bank-container">
+            <div class="bank-header">
+                <h4 class="bank-title">Groupe 2 : Famille</h4>
+                <span class="bank-badge"><i class="fas fa-spell-check"></i> mère, père, sœur, frère, enfants</span>
+            </div>
+            <div class="q-row">1. Elle est ma 
+                <select class="mini-select q-data" data-ans="mère"><option value="">......</option><option value="mère">mère</option><option value="père">père</option><option value="sœur">sœur</option><option value="frère">frère</option><option value="enfants">enfants</option></select>.
+            </div>
+            <div class="q-row">2. Il est mon 
+                <select class="mini-select q-data" data-ans="père"><option value="">......</option><option value="mère">mère</option><option value="père">père</option><option value="sœur">sœur</option><option value="frère">frère</option><option value="enfants">enfants</option></select>.
+            </div>
+            <div class="q-row">3. Ce sont mes 
+                <select class="mini-select q-data" data-ans="enfants"><option value="">......</option><option value="mère">mère</option><option value="père">père</option><option value="sœur">sœur</option><option value="frère">frère</option><option value="enfants">enfants</option></select>.
+            </div>
+        </div>
+
+        <div class="word-bank-container">
+            <div class="bank-header">
+                <h4 class="bank-title">Groupe 3 : Métiers</h4>
+                <span class="bank-badge"><i class="fas fa-spell-check"></i> médecin, infirmière, professeur, policier</span>
+            </div>
+            <div class="q-row">1. Une personne qui enseigne est un 
+                <select class="mini-select q-data" data-ans="professeur"><option value="">......</option><option value="médecin">médecin</option><option value="infirmière">infirmière</option><option value="professeur">professeur</option><option value="policier">policier</option></select>.
+            </div>
+            <div class="q-row">2. Une personne qui aide les malades est un 
+                <select class="mini-select q-data" data-ans="médecin"><option value="">......</option><option value="médecin">médecin</option><option value="infirmière">infirmière</option><option value="professeur">professeur</option><option value="policier">policier</option></select>.
+            </div>
+            <div class="q-row">3. Une personne qui travaille à l'hôpital est un 
+                <select class="mini-select q-data" data-ans="infirmière"><option value="">......</option><option value="médecin">médecin</option><option value="infirmière">infirmière</option><option value="professeur">professeur</option><option value="policier">policier</option></select>.
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 4: READING (UNITS 1-4) -->
+    <section class="quiz-section">
+        <div class="section-title">4. LECTURE : CHOISISSEZ LE MEILLEUR TITRE</div>
+        
+        <div class="passage-box">
+            Bonjour. Je suis Sandra. Comment t'appelles-tu ? Je m'appelle Luis. Sandra, voici Rick. Rick, voici Sandra. Bonjour, Rick. Bonjour, Sandra. Comment ça va ? Bien, merci. Et toi ? Très bien, merci. D'où viens-tu ? Je viens d'Espagne. Et toi ? Oh, je viens d'Espagne aussi. De Madrid. (Unité 2)
+        </div>
+        <div class="question-item">
+            <span class="q-text">1. Quel est le meilleur titre ?</span>
+            <select class="q-select" data-ans="Rencontrer de nouveaux amis"><option value="">-- Choisir --</option><option value="Rencontrer de nouveaux amis">Rencontrer de nouveaux amis</option><option value="Une journée à l'école">Une journée à l'école</option><option value="Ma famille">Ma famille</option></select>
+        </div>
+
+        <div class="passage-box">
+            Voici Sally Milton. Elle est mariée. Voici sa famille. Leur maison est à Londres. Elle est professeur. Son école est dans le centre-ville. Tom est le mari de Sally. Il est directeur de banque. Leurs enfants sont Kirsty et Nick. Ils sont étudiants à Camden College. (Unité 4)
+        </div>
+        <div class="question-item">
+            <span class="q-text">2. Quelle est l'idée principale ?</span>
+            <select class="q-select" data-ans="La famille de Sally"><option value="">-- Choisir --</option><option value="La famille de Sally">La famille de Sally</option><option value="La vie londonienne">La vie londonienne</option><option value="Les jours d'école">Les jours d'école</option></select>
+        </div>
+
+        <div class="passage-box">
+            Voici le groupe de pop 4 x 4. Melanie Ryan est d'Australie. Yves Lacoste est de France. Cath et George Walters sont d'Angleterre. Ils sont en tournée aux États-Unis. 'Nous sommes à New York. Nous sommes au Radio City Music Hall. C'est génial !' (Unité 3)
+        </div>
+        <div class="question-item">
+            <span class="q-text">3. Choisissez le titre le plus approprié :</span>
+            <select class="q-select" data-ans="Un groupe de pop"><option value="">-- Choisir --</option><option value="Un groupe de pop">Un groupe de pop</option><option value="Salle de concert">Salle de concert</option><option value="Tournée à New York">Tournée à New York</option></select>
+        </div>
+
+        <div class="passage-box">
+            Utilisez 'son' pour un garçon ou un homme. Utilisez 'sa' pour une fille ou une femme. Exemple : Son nom est Rick. Sa nom est Sandra. Utilisez 'il est' pour un garçon ou un homme. Utilisez 'elle est' pour une fille ou une femme. (Unité 2 Grammaire)
+        </div>
+        <div class="question-item">
+            <span class="q-text">4. Quel est le meilleur titre ?</span>
+            <select class="q-select" data-ans="Son et Sa"><option value="">-- Choisir --</option><option value="Son et Sa">Son et Sa</option><option value="Il et Elle">Il et Elle</option><option value="Règles de grammaire">Règles de grammaire</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 5: MATCH THE MAIN IDEA (Units 1-4) -->
+    <section class="quiz-section">
+        <div class="section-title">5. ASSOCIEZ L'IDÉE PRINCIPALE</div>
+        <div class="passage-box">"Bonjour. Je suis Sandra. Comment t'appelles-tu ? Je m'appelle Luis. Sandra, voici Rick. Rick, voici Sandra." (Unité 2)</div>
+        <div class="question-item">
+            <span class="q-text">Q1. Idée principale :</span>
+            <select class="q-select" data-ans="Présentations"><option value="">-- Choisir --</option><option value="Présentations">Présentations</option><option value="Dire au revoir">Dire au revoir</option></select>
+        </div>
+        <div class="passage-box">"A : Quel est son métier ? B : Il est professeur. A : Vient-il d'Amérique ? B : Non, il ne vient pas." (Unité 3)</div>
+        <div class="question-item">
+            <span class="q-text">Q2. Idée principale :</span>
+            <select class="q-select" data-ans="Demander des informations sur les métiers"><option value="">-- Choisir --</option><option value="Demander des informations sur les métiers">Demander des informations sur les métiers</option><option value="Demander des noms">Demander des noms</option></select>
+        </div>
+        <div class="passage-box">"Voici la famille de Sally. Elle est mariée. Son mari est Tom. Ils ont deux enfants, Kirsty et Nick." (Unité 4)</div>
+        <div class="question-item">
+            <span class="q-text">Q3. Idée principale :</span>
+            <select class="q-select" data-ans="La famille de Sally"><option value="">-- Choisir --</option><option value="La famille de Sally">La famille de Sally</option><option value="Le travail de Tom">Le travail de Tom</option></select>
+        </div>
+        <div class="passage-box">"Son nom est Rick. Sa nom est Sandra. Il vient des États-Unis. Elle vient d'Espagne." (Unité 2)</div>
+        <div class="question-item">
+            <span class="q-text">Q4. Idée principale :</span>
+            <select class="q-select" data-ans="Son et Sa"><option value="">-- Choisir --</option><option value="Son et Sa">Son et Sa</option><option value="D'où ils viennent">D'où ils viennent</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 6: PHRASAL VERBS & EXPRESSIONS (Units 1-4) -->
+    <section class="quiz-section">
+        <div class="section-title">6. EXPRESSIONS & VERBES</div>
+        <div class="question-item"><span class="q-text">1. _____ plus fort, s'il te plaît. Je ne t'entends pas. (Unité 3)</span><select class="q-select" data-ans="Parle"><option value="">-- Choisir --</option><option value="Parle">Parle</option><option value="Réveille">Réveille</option><option value="Lève">Lève</option><option value="Debout">Debout</option></select></div>
+        <div class="question-item"><span class="q-text">2. Veuillez _____ votre nom sur le formulaire. (Unité 3)</span><select class="q-select" data-ans="écrire"><option value="">-- Choisir --</option><option value="écrire">écrire</option><option value="remplir">remplir</option><option value="mettre">mettre</option><option value="prendre">prendre</option></select></div>
+        <div class="question-item"><span class="q-text">3. Je m'entends bien _____ mes amis. (Unité 1)</span><select class="q-select" data-ans="avec"><option value="">-- Choisir --</option><option value="avec">avec</option><option value="pour">pour</option><option value="chez">chez</option><option value="sans">sans</option></select></div>
+        <div class="question-item"><span class="q-text">4. Pouvez-vous me _____ votre numéro de téléphone ? (Unité 3)</span><select class="q-select" data-ans="donner"><option value="">-- Choisir --</option><option value="donner">donner</option><option value="dire">dire</option><option value="raconter">raconter</option><option value="parler">parler</option></select></div>
+        <div class="question-item"><span class="q-text">5. Je me _____ à 7h00 tous les jours. (Unité 3)</span><select class="q-select" data-ans="lève"><option value="">-- Choisir --</option><option value="lève">lève</option><option value="réveille">réveille</option><option value="debout">debout</option><option value="assois">assois</option></select></div>
+    </section>
+
+    <!-- SECTION 7: HAVE / HAS (Unit 4) -->
+    <section class="quiz-section">
+        <div class="section-title">7. AVOIR</div>
+        <div class="question-item"><span class="q-text">1. Ils _____ deux enfants. (Unité 4)</span><select class="q-select" data-ans="ont"><option value="">-- Choisir --</option><option value="ont">ont</option><option value="a">a</option><option value="sont">sont</option><option value="est">est</option></select></div>
+        <div class="question-item"><span class="q-text">2. Elle _____ une sœur. (Unité 4)</span><select class="q-select" data-ans="a"><option value="">-- Choisir --</option><option value="ont">ont</option><option value="a">a</option><option value="est">est</option><option value="sont">sont</option></select></div>
+        <div class="question-item"><span class="q-text">3. J'_____ un frère. (Unité 4)</span><select class="q-select" data-ans="ai"><option value="">-- Choisir --</option><option value="ont">ont</option><option value="a">a</option><option value="ai">ai</option><option value="est">est</option></select></div>
+        <div class="question-item"><span class="q-text">4. Tom et Sally _____ une maison à Londres. (Unité 4)</span><select class="q-select" data-ans="ont"><option value="">-- Choisir --</option><option value="ont">ont</option><option value="a">a</option><option value="sont">sont</option><option value="est">est</option></select></div>
+        <div class="question-item"><span class="q-text">5. Ma mère _____ une voiture. (Unité 4)</span><select class="q-select" data-ans="a"><option value="">-- Choisir --</option><option value="ont">ont</option><option value="a">a</option><option value="est">est</option><option value="sont">sont</option></select></div>
+    </section>
+
+    <!-- SECTION 8: GRAMMAR FOCUS (Units 1-4) -->
+    <section class="quiz-section">
+        <div class="section-title">8. FOCUS GRAMMAIRE</div>
+        <div class="question-item"><span class="q-text">1. _____ tu de Londres ? (Unité 1)</span><select class="q-select" data-ans="Es"><option value="">-- Choisir --</option><option value="Es">Es</option><option value="Est">Est</option><option value="Suis">Suis</option></select></div>
+        <div class="question-item"><span class="q-text">2. Elle _____ étudiante. (Unité 1)</span><select class="q-select" data-ans="est"><option value="">-- Choisir --</option><option value="est">est</option><option value="suis">suis</option><option value="sont">sont</option></select></div>
+        <div class="question-item"><span class="q-text">3. _____ est son nom ? (Unité 2)</span><select class="q-select" data-ans="Quel"><option value="">-- Choisir --</option><option value="Quel">Quel</option><option value="Où">Où</option><option value="Qui">Qui</option><option value="Comment">Comment</option></select></div>
+        <div class="question-item"><span class="q-text">4. _____ vient-elle ? (Unité 2)</span><select class="q-select" data-ans="D'où"><option value="">-- Choisir --</option><option value="Quoi">Quoi</option><option value="D'où">D'où</option><option value="Qui">Qui</option><option value="Comment">Comment</option></select></div>
+        <div class="question-item"><span class="q-text">5. _____ il professeur ? (Unité 3)</span><select class="q-select" data-ans="Est"><option value="">-- Choisir --</option><option value="Est">Est</option><option value="Sont">Sont</option><option value="Suis">Suis</option><option value="Fait">Fait</option></select></div>
+        <div class="question-item"><span class="q-text">6. Non, il _____ . (Unité 3)</span><select class="q-select" data-ans="n'est pas"><option value="">-- Choisir --</option><option value="n'est pas">n'est pas</option><option value="ne sont pas">ne sont pas</option><option value="ne suis pas">ne suis pas</option><option value="ne fait pas">ne fait pas</option></select></div>
+        <div class="question-item"><span class="q-text">7. _____ tu as une sœur ? (Unité 4)</span><select class="q-select" data-ans="Est-ce que"><option value="">-- Choisir --</option><option value="Est-ce que">Est-ce que</option><option value="Est-ce">Est-ce</option><option value="Es">Es</option><option value="Est">Est</option></select></div>
+        <div class="question-item"><span class="q-text">8. Elle _____ deux enfants. (Unité 4)</span><select class="q-select" data-ans="a"><option value="">-- Choisir --</option><option value="ont">ont</option><option value="a">a</option><option value="est">est</option><option value="sont">sont</option></select></div>
+        <div class="question-item"><span class="q-text">9. _____ ton nom ? (Unité 1)</span><select class="q-select" data-ans="Quel est"><option value="">-- Choisir --</option><option value="Quel est">Quel est</option><option value="Où est">Où est</option><option value="Qui est">Qui est</option><option value="Comment est">Comment est</option></select></div>
+        <div class="question-item"><span class="q-text">10. Je _____ fatigué. (Unité 3)</span><select class="q-select" data-ans="suis"><option value="">-- Choisir --</option><option value="suis">suis</option><option value="est">est</option><option value="sont">sont</option><option value="ai">ai</option></select></div>
+    </section>
+
+    <div class="result-bar">
+        <div class="score-display">Score total : <span id="final-val" class="score-val">--</span> / 100</div>
+        <button class="grade-btn" onclick="gradeAll()">Soumettre et noter</button>
+    </div>
+</div>
+
+<script>
+    function gradeAll() {
+        const allSelects = document.querySelectorAll('.q-select, .mini-select');
+        let correctCount = 0;
+
+        allSelects.forEach(sel => {
+            const userAnswer = sel.value;
+            const correctAnswer = sel.getAttribute('data-ans');
+
+            if (userAnswer === correctAnswer) {
+                correctCount++;
+                sel.style.backgroundColor = "#d4edda";
+                sel.style.borderColor = "#28a745";
+            } else {
+                sel.style.backgroundColor = "#f8d7da";
+                sel.style.borderColor = "#dc3545";
+            }
+        });
+
+        const totalQuestions = allSelects.length;
+        const finalScore = Math.round((correctCount / totalQuestions) * 100);
+        document.getElementById('final-val').innerText = finalScore;
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        alert(`Votre score est de ${finalScore} / 100. (${correctCount} / ${totalQuestions} correct)`);
+    }
+</script>
+
+</body>
+</html>

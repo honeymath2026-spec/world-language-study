@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎓 FINAL TEST: Beginner (Units 1-14)</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --secondary: #3498db;
+            --success: #27ae60;
+            --error: #e74c3c;
+            --bg: #f4f7f6;
+            --card: #ffffff;
+        }
+
+        .back-to-dashboard {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background-color: #7f8c8d;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 50px;
+            text-decoration: none;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            z-index: 1001;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+
+        .back-to-dashboard:hover {
+            transform: scale(1.1);
+            background-color: #3498db;
+        }
+
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: var(--bg); color: var(--primary); line-height: 1.6; margin: 0; padding: 20px; }
+        .container { max-width: 900px; margin: 0 auto; background: var(--card); padding: 40px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); }
+        h1 { text-align: center; color: var(--primary); border-bottom: 3px solid var(--secondary); padding-bottom: 10px; }
+        .section-title { background: var(--primary); color: white; padding: 10px 20px; border-radius: 5px; margin-top: 30px; font-weight: bold; }
+        
+        .question-block { margin-bottom: 20px; padding: 15px; border-bottom: 1px solid #eee; }
+        .question-text { font-weight: 600; margin-bottom: 10px; display: block; }
+        .q-select { padding: 8px; border-radius: 5px; border: 1px solid #ccc; width: 100%; max-width: 400px; font-size: 1rem; cursor: pointer; transition: 0.3s; }
+        
+        .passage { background: #f9f9f9; padding: 20px; border-left: 5px solid var(--secondary); margin: 20px 0; font-style: italic; }
+
+        .result-bar { position: fixed; bottom: 0; left: 0; width: 100%; background: var(--primary); color: white; padding: 20px; text-align: center; box-shadow: 0 -5px 15px rgba(0,0,0,0.2); display: flex; justify-content: center; align-items: center; gap: 20px; z-index: 1000; }
+        .score-display { font-size: 1.5rem; font-weight: bold; }
+        .grade-btn { background: var(--success); color: white; border: none; padding: 12px 30px; border-radius: 30px; font-size: 1.1rem; cursor: pointer; transition: 0.3s; }
+        .grade-btn:hover { background: #219150; transform: translateY(-2px); }
+
+        @media (max-width: 600px) {
+            .container { padding: 20px; }
+            .result-bar { flex-direction: column; gap: 10px; }
+        }
+    </style>
+</head>
+<body>
+
+<a href="../../index.html#final_test" class="back-to-dashboard">🏠 Back to Dashboard</a>
+
+<div class="container">
+    <h1>🎓 FINAL DIAGNOSTIC TEST</h1>
+    <p style="text-align:center;">Beginner Units 01 - 14 Total Review</p>
+
+    <div class="section-title">PART 1: Vocabulary (15 Questions)</div>
+    
+    <div class="question-block">
+        <span class="question-text">01. When you meet someone, you say ________.</span>
+        <select class="q-select" data-ans="hello">
+            <option value="">-- Choose --</option>
+            <option value="goodbye">goodbye</option>
+            <option value="hello">hello</option>
+            <option value="sorry">sorry</option>
+            <option value="thank you">thank you</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">02. She is my ________. She's my parent's daughter.</span>
+        <select class="q-select" data-ans="sister">
+            <option value="">-- Choose --</option>
+            <option value="brother">brother</option>
+            <option value="sister">sister</option>
+            <option value="mother">mother</option>
+            <option value="father">father</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">03. I want to buy a ________ for my letter.</span>
+        <select class="q-select" data-ans="stamp">
+            <option value="">-- Choose --</option>
+            <option value="stamp">stamp</option>
+            <option value="dictionary">dictionary</option>
+            <option value="magazine">magazine</option>
+            <option value="ticket">ticket</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">04. She ________ a T-shirt and jeans.</span>
+        <select class="q-select" data-ans="is wearing">
+            <option value="">-- Choose --</option>
+            <option value="wear">wear</option>
+            <option value="wears">wears</option>
+            <option value="is wearing">is wearing</option>
+            <option value="wearing">wearing</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">05. I ________ a student. I'm a teacher.</span>
+        <select class="q-select" data-ans="am not">
+            <option value="">-- Choose --</option>
+            <option value="am">am</option>
+            <option value="am not">am not</option>
+            <option value="is">is</option>
+            <option value="are">are</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">06. He can ________ a tractor.</span>
+        <select class="q-select" data-ans="drive">
+            <option value="">-- Choose --</option>
+            <option value="drive">drive</option>
+            <option value="drives">drives</option>
+            <option value="driving">driving</option>
+            <option value="drove">drove</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">07. My mother ________ a cake for my birthday.</span>
+        <select class="q-select" data-ans="makes">
+            <option value="">-- Choose --</option>
+            <option value="make">make</option>
+            <option value="makes">makes</option>
+            <option value="making">making</option>
+            <option value="made">made</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">08. I would like a cup of ________, please.</span>
+        <select class="q-select" data-ans="coffee">
+            <option value="">-- Choose --</option>
+            <option value="coffee">coffee</option>
+            <option value="hamburger">hamburger</option>
+            <option value="pizza">pizza</option>
+            <option value="salad">salad</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">09. There ________ a sofa in the living room.</span>
+        <select class="q-select" data-ans="is">
+            <option value="">-- Choose --</option>
+            <option value="is">is</option>
+            <option value="are">are</option>
+            <option value="am">am</option>
+            <option value="was">was</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">10. We ________ to the cinema last night.</span>
+        <select class="q-select" data-ans="went">
+            <option value="">-- Choose --</option>
+            <option value="go">go</option>
+            <option value="goes">goes</option>
+            <option value="went">went</option>
+            <option value="going">going</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">11. She ________ speak French very well.</span>
+        <select class="q-select" data-ans="can">
+            <option value="">-- Choose --</option>
+            <option value="can">can</option>
+            <option value="can't">can't</option>
+            <option value="could">could</option>
+            <option value="will">will</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">12. He ________ born in 1990.</span>
+        <select class="q-select" data-ans="was">
+            <option value="">-- Choose --</option>
+            <option value="was">was</option>
+            <option value="were">were</option>
+            <option value="is">is</option>
+            <option value="are">are</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">13. The book is ________ the table.</span>
+        <select class="q-select" data-ans="on">
+            <option value="">-- Choose --</option>
+            <option value="in">in</option>
+            <option value="on">on</option>
+            <option value="under">under</option>
+            <option value="next to">next to</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">14. I ________ a sandwich yesterday.</span>
+        <select class="q-select" data-ans="had">
+            <option value="">-- Choose --</option>
+            <option value="have">have</option>
+            <option value="has">has</option>
+            <option value="had">had</option>
+            <option value="having">having</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">15. The train leaves from ________ 3.</span>
+        <select class="q-select" data-ans="platform">
+            <option value="">-- Choose --</option>
+            <option value="platform">platform</option>
+            <option value="station">station</option>
+            <option value="gate">gate</option>
+            <option value="terminal">terminal</option>
+        </select>
+    </div>
+
+    <div class="section-title">PART 2: Grammar (15 Questions)</div>
+
+    <div class="question-block">
+        <span class="question-text">16. I ________ a student. My name is Tom.</span>
+        <select class="q-select" data-ans="am">
+            <option value="">-- Choose --</option>
+            <option value="am">am</option>
+            <option value="is">is</option>
+            <option value="are">are</option>
+            <option value="was">was</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">17. She ________ from Spain.</span>
+        <select class="q-select" data-ans="is">
+            <option value="">-- Choose --</option>
+            <option value="am">am</option>
+            <option value="is">is</option>
+            <option value="are">are</option>
+            <option value="was">was</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">18. They ________ students at Camden College.</span>
+        <select class="q-select" data-ans="are">
+            <option value="">-- Choose --</option>
+            <option value="am">am</option>
+            <option value="is">is</option>
+            <option value="are">are</option>
+            <option value="was">was</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">19. He ________ not a nurse. He's a doctor.</span>
+        <select class="q-select" data-ans="is">
+            <option value="">-- Choose --</option>
+            <option value="am">am</option>
+            <option value="is">is</option>
+            <option value="are">are</option>
+            <option value="was">was</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">20. I ________ to the gym every morning.</span>
+        <select class="q-select" data-ans="go">
+            <option value="">-- Choose --</option>
+            <option value="go">go</option>
+            <option value="goes">goes</option>
+            <option value="went">went</option>
+            <option value="going">going</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">21. She ________ coffee every morning.</span>
+        <select class="q-select" data-ans="drinks">
+            <option value="">-- Choose --</option>
+            <option value="drink">drink</option>
+            <option value="drinks">drinks</option>
+            <option value="drank">drank</option>
+            <option value="drinking">drinking</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">22. We ________ to the beach yesterday.</span>
+        <select class="q-select" data-ans="went">
+            <option value="">-- Choose --</option>
+            <option value="go">go</option>
+            <option value="goes">goes</option>
+            <option value="went">went</option>
+            <option value="going">going</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">23. I ________ a new phone last week.</span>
+        <select class="q-select" data-ans="bought">
+            <option value="">-- Choose --</option>
+            <option value="buy">buy</option>
+            <option value="buys">buys</option>
+            <option value="bought">bought</option>
+            <option value="buying">buying</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">24. She ________ TV right now.</span>
+        <select class="q-select" data-ans="is watching">
+            <option value="">-- Choose --</option>
+            <option value="watch">watch</option>
+            <option value="watches">watches</option>
+            <option value="watched">watched</option>
+            <option value="is watching">is watching</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">25. They ________ lunch at the moment.</span>
+        <select class="q-select" data-ans="are having">
+            <option value="">-- Choose --</option>
+            <option value="have">have</option>
+            <option value="has">has</option>
+            <option value="had">had</option>
+            <option value="are having">are having</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">26. I ________ speak French, but I can speak English.</span>
+        <select class="q-select" data-ans="can't">
+            <option value="">-- Choose --</option>
+            <option value="can">can</option>
+            <option value="can't">can't</option>
+            <option value="could">could</option>
+            <option value="will">will</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">27. ________ you help me, please?</span>
+        <select class="q-select" data-ans="Can">
+            <option value="">-- Choose --</option>
+            <option value="Can">Can</option>
+            <option value="Must">Must</option>
+            <option value="Should">Should</option>
+            <option value="Will">Will</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">28. There ________ two armchairs in the room.</span>
+        <select class="q-select" data-ans="are">
+            <option value="">-- Choose --</option>
+            <option value="is">is</option>
+            <option value="are">are</option>
+            <option value="am">am</option>
+            <option value="was">was</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">29. The cat is ________ the table.</span>
+        <select class="q-select" data-ans="under">
+            <option value="">-- Choose --</option>
+            <option value="in">in</option>
+            <option value="on">on</option>
+            <option value="under">under</option>
+            <option value="next to">next to</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">30. She ________ born in 1985.</span>
+        <select class="q-select" data-ans="was">
+            <option value="">-- Choose --</option>
+            <option value="was">was</option>
+            <option value="were">were</option>
+            <option value="is">is</option>
+            <option value="are">are</option>
+        </select>
+    </div>
+
+    <div class="section-title">PART 3: Reading Comprehension (10 Questions)</div>
+    
+    <div class="passage">
+        Hello! My name's Gordon Wilson. I come from Aberdeen in Scotland, but now I live and work in London. I'm a waiter and I'm also a drama student. I work in an Italian restaurant. I eat Italian food and I drink Italian and French wine. I don't drink beer. I don't like it. I speak three languages – English, French, and a little Italian. I want to be an actor. (Unit 5)
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">31. Where is Gordon from?</span>
+        <select class="q-select" data-ans="Scotland">
+            <option value="">-- Choose --</option>
+            <option value="Scotland">Scotland</option>
+            <option value="England">England</option>
+            <option value="France">France</option>
+            <option value="Italy">Italy</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">32. What is Gordon's job?</span>
+        <select class="q-select" data-ans="He's a waiter">
+            <option value="">-- Choose --</option>
+            <option value="He's a waiter">He's a waiter</option>
+            <option value="He's a doctor">He's a doctor</option>
+            <option value="He's a teacher">He's a teacher</option>
+            <option value="He's an actor">He's an actor</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">33. What does Gordon want to be?</span>
+        <select class="q-select" data-ans="An actor">
+            <option value="">-- Choose --</option>
+            <option value="A waiter">A waiter</option>
+            <option value="An actor">An actor</option>
+            <option value="A drama student">A drama student</option>
+            <option value="A businessman">A businessman</option>
+        </select>
+    </div>
+
+    <div class="passage">
+        Karl Wilk is 22 and he is a computer millionaire. He gets up at six o'clock and he has a shower. He has breakfast at 6.45. He leaves home at 7.15 and he goes to work by taxi. He usually works late. He leaves work at 7.30 in the evening. He never goes out in the evening. He goes to bed at 11.45. (Unit 6)
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">34. What time does Karl get up?</span>
+        <select class="q-select" data-ans="6.00">
+            <option value="">-- Choose --</option>
+            <option value="6.00">6.00</option>
+            <option value="6.45">6.45</option>
+            <option value="7.15">7.15</option>
+            <option value="7.30">7.30</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">35. How does Karl go to work?</span>
+        <select class="q-select" data-ans="By taxi">
+            <option value="">-- Choose --</option>
+            <option value="By bus">By bus</option>
+            <option value="By taxi">By taxi</option>
+            <option value="By train">By train</option>
+            <option value="By car">By car</option>
+        </select>
+    </div>
+
+    <div class="passage">
+        Ellie is excited about her holiday! She is going to Mexico next week. On Monday she's collecting her tickets from the travel agent. On Tuesday she's meeting Ed and Lucy after work. On Wednesday she's seeing the doctor at 11 o'clock. On Thursday she's leaving work early and she's packing her bags. On Friday at 6.30 in the morning she's going by taxi to the airport. At 9.30 they're flying to Mexico. (Unit 14)
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">36. Where is Ellie going on holiday?</span>
+        <select class="q-select" data-ans="Mexico">
+            <option value="">-- Choose --</option>
+            <option value="Mexico">Mexico</option>
+            <option value="Canada">Canada</option>
+            <option value="Australia">Australia</option>
+            <option value="Japan">Japan</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">37. What is Ellie doing on Tuesday?</span>
+        <select class="q-select" data-ans="Meeting Ed and Lucy">
+            <option value="">-- Choose --</option>
+            <option value="Meeting Ed and Lucy">Meeting Ed and Lucy</option>
+            <option value="Packing her bags">Packing her bags</option>
+            <option value="Seeing the doctor">Seeing the doctor</option>
+            <option value="Collecting tickets">Collecting tickets</option>
+        </select>
+    </div>
+
+    <div class="passage">
+        In August 1999, three friends were on holiday in France. They went shopping and saw a dirty, old painting. They bought it for 1,400 francs and took it to Paris. An expert said it was by Leonardo da Vinci and worth 500,000,000 francs! (Unit 9)
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">38. How much did the painting cost?</span>
+        <select class="q-select" data-ans="1,400 francs">
+            <option value="">-- Choose --</option>
+            <option value="1,400 francs">1,400 francs</option>
+            <option value="500,000,000 francs">500,000,000 francs</option>
+            <option value="100,000 francs">100,000 francs</option>
+            <option value="1,000 francs">1,000 francs</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">39. Who painted the picture?</span>
+        <select class="q-select" data-ans="Leonardo da Vinci">
+            <option value="">-- Choose --</option>
+            <option value="Leonardo da Vinci">Leonardo da Vinci</option>
+            <option value="Michelangelo">Michelangelo</option>
+            <option value="Raphael">Raphael</option>
+            <option value="Picasso">Picasso</option>
+        </select>
+    </div>
+
+    <div class="passage">
+        This is Sally Milton. She's married. This is her family. Their house is in London. She's a teacher. Her school is in the centre of town. Tom is Sally's husband. He's a bank manager. Their children are Kirsty and Nick. They're students at Camden College. (Unit 4)
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">40. Who is Tom?</span>
+        <select class="q-select" data-ans="Sally's husband">
+            <option value="">-- Choose --</option>
+            <option value="Sally's husband">Sally's husband</option>
+            <option value="Sally's brother">Sally's brother</option>
+            <option value="Kirsty's brother">Kirsty's brother</option>
+            <option value="Nick's father">Nick's father</option>
+        </select>
+    </div>
+
+    <div class="section-title">PART 4: Usage & Application (10 Questions)</div>
+
+    <div class="question-block">
+        <span class="question-text">41. A: "What's your name?" B: "________"</span>
+        <select class="q-select" data-ans="My name's Tom.">
+            <option value="">-- Choose --</option>
+            <option value="My name's Tom.">My name's Tom.</option>
+            <option value="I'm from London.">I'm from London.</option>
+            <option value="I'm a student.">I'm a student.</option>
+            <option value="I'm fine.">I'm fine.</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">42. A: "How are you?" B: "________"</span>
+        <select class="q-select" data-ans="I'm fine, thank you.">
+            <option value="">-- Choose --</option>
+            <option value="I'm fine, thank you.">I'm fine, thank you.</option>
+            <option value="I'm a teacher.">I'm a teacher.</option>
+            <option value="I'm from Spain.">I'm from Spain.</option>
+            <option value="I'm 25.">I'm 25.</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">43. A: "Where are you from?" B: "________"</span>
+        <select class="q-select" data-ans="I'm from London.">
+            <option value="">-- Choose --</option>
+            <option value="I'm from London.">I'm from London.</option>
+            <option value="I'm a teacher.">I'm a teacher.</option>
+            <option value="I'm fine.">I'm fine.</option>
+            <option value="I'm Tom.">I'm Tom.</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">44. A: "Can you help me?" B: "________"</span>
+        <select class="q-select" data-ans="Yes, I can.">
+            <option value="">-- Choose --</option>
+            <option value="Yes, I can.">Yes, I can.</option>
+            <option value="No, I can.">No, I can.</option>
+            <option value="Yes, I do.">Yes, I do.</option>
+            <option value="No, I don't.">No, I don't.</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">45. A: "Would you like a drink?" B: "________"</span>
+        <select class="q-select" data-ans="Yes, please.">
+            <option value="">-- Choose --</option>
+            <option value="Yes, please.">Yes, please.</option>
+            <option value="No, please.">No, please.</option>
+            <option value="Yes, I like.">Yes, I like.</option>
+            <option value="No, I don't.">No, I don't.</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">46. A: "What are you doing?" B: "________"</span>
+        <select class="q-select" data-ans="I'm reading a book.">
+            <option value="">-- Choose --</option>
+            <option value="I'm reading a book.">I'm reading a book.</option>
+            <option value="I read a book.">I read a book.</option>
+            <option value="I reading a book.">I reading a book.</option>
+            <option value="I have read a book.">I have read a book.</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">47. A: "I'm tired." B: "________"</span>
+        <select class="q-select" data-ans="Why don't you sit down?">
+            <option value="">-- Choose --</option>
+            <option value="Why don't you sit down?">Why don't you sit down?</option>
+            <option value="Why don't you go out?">Why don't you go out?</option>
+            <option value="Why don't you eat?">Why don't you eat?</option>
+            <option value="Why don't you work?">Why don't you work?</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">48. A: "What time is it?" B: "________"</span>
+        <select class="q-select" data-ans="It's nine o'clock.">
+            <option value="">-- Choose --</option>
+            <option value="It's nine o'clock.">It's nine o'clock.</option>
+            <option value="It's nine.">It's nine.</option>
+            <option value="It's 9.">It's 9.</option>
+            <option value="It's 9:00.">It's 9:00.</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">49. A: "Good morning!" B: "________"</span>
+        <select class="q-select" data-ans="Good morning!">
+            <option value="">-- Choose --</option>
+            <option value="Good morning!">Good morning!</option>
+            <option value="Good afternoon!">Good afternoon!</option>
+            <option value="Good evening!">Good evening!</option>
+            <option value="Good night!">Good night!</option>
+        </select>
+    </div>
+
+    <div class="question-block">
+        <span class="question-text">50. A: "Thank you very much!" B: "________"</span>
+        <select class="q-select" data-ans="You're welcome.">
+            <option value="">-- Choose --</option>
+            <option value="You're welcome.">You're welcome.</option>
+            <option value="Thank you too.">Thank you too.</option>
+            <option value="OK.">OK.</option>
+            <option value="Fine.">Fine.</option>
+        </select>
+    </div>
+
+    <div style="height: 150px;"></div>
+</div>
+
+<div class="result-bar">
+    <div class="score-display">Result: <span id="final-score">--</span> / 100</div>
+    <button class="grade-btn" onclick="checkAll()">Submit Final Test</button>
+</div>
+
+<script>
+    function checkAll() {
+        const selects = document.querySelectorAll('.q-select');
+        let correctCount = 0;
+        const totalQuestions = selects.length;
+
+        selects.forEach(sel => {
+            const userAnswer = sel.value;
+            const correctAnswer = sel.getAttribute('data-ans');
+
+            if (userAnswer === correctAnswer) {
+                correctCount++;
+                sel.style.backgroundColor = "#d4edda";
+                sel.style.borderColor = "#28a745";
+            } else {
+                sel.style.backgroundColor = "#f8d7da";
+                sel.style.borderColor = "#dc3545";
+            }
+        });
+
+        const finalScore = correctCount * 2;
+        
+        document.getElementById('final-score').innerText = finalScore;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        
+        let message = `Your score is ${finalScore} out of 100!`;
+        
+        if(finalScore >= 90) {
+            message += "\nExcellent! Master Level achieved! 🎉";
+        } else if(finalScore >= 70) {
+            message += "\nGreat job! You have a solid understanding. 👍";
+        } else if(finalScore >= 50) {
+            message += "\nGood effort! A bit more review would be helpful. 💪";
+        } else {
+            message += "\nKeep practicing! Let's review the units again. 📚";
+        }
+        
+        alert(message);
+    }
+</script>
+
+</body>
+</html>

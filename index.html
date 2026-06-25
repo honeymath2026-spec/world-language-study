@@ -574,13 +574,21 @@ function goToUnit(unit) {
 
 function goToQuiz(name, range) {
     const folder = getLevelFolder(currentLevel);
-    let fileName = '';
-    if (range === '01-04') fileName = 'review_quiz_a.html';
-    else if (range === '05-08') fileName = 'review_quiz_b.html';
-    else if (range === '09-12') fileName = 'review_quiz_c.html';
-    else if (range === '13-16') fileName = 'review_quiz_d.html';
+    const lang = currentLanguage;
     
-    window.location.href = `templates/${folder}/${fileName}?lang=${currentLanguage}&range=${range}`;
+    let baseName = '';
+    if (range === '01-04') baseName = 'review_quiz_a';
+    else if (range === '05-08') baseName = 'review_quiz_b';
+    else if (range === '09-12') baseName = 'review_quiz_c';
+    else if (range === '13-16') baseName = 'review_quiz_d';
+    
+    // 언어별 파일명
+    let fileName = baseName + '.html';
+    if (lang === 'ja') fileName = baseName + '_ja.html';
+    else if (lang === 'fr') fileName = baseName + '_fr.html';
+    else if (lang === 'ko') fileName = baseName + '_ko.html';
+    
+    window.location.href = `templates/${folder}/${fileName}?lang=${lang}&range=${range}`;
 }
 
 function goToSong(name, artist) {
@@ -602,7 +610,14 @@ function goToSong(name, artist) {
 
 function goToFinalTest() {
     const folder = getLevelFolder(currentLevel);
-    window.location.href = `templates/${folder}/final_test.html?lang=${currentLanguage}`;
+    const lang = currentLanguage;
+    
+    let fileName = 'final_test.html';
+    if (lang === 'ja') fileName = 'final_test_ja.html';
+    else if (lang === 'fr') fileName = 'final_test_fr.html';
+    else if (lang === 'ko') fileName = 'final_test_ko.html';
+    
+    window.location.href = `templates/${folder}/${fileName}?lang=${lang}`;
 }
 
 function goToDrillCenter() {

@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de révision C : Débutant Unités 09-12</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        :root {
+            --u9: #E67E22; --u10: #2980B9; --u11: #8E44AD; --u12: #1ABC9C;
+            --bg: #F4F7F6; --card: #ffffff; --text: #2C3E50;
+        }
+        body { font-family: 'Segoe UI', sans-serif; background-color: var(--bg); color: var(--text); line-height: 1.6; margin: 0; padding: 20px; }
+        .container { max-width: 950px; margin: 0 auto; padding-bottom: 100px; }
+        
+        .back-to-dashboard {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background-color: #7f8c8d;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 50px;
+            text-decoration: none;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            z-index: 1001;
+            font-weight: bold;
+            transition: transform 0.2s;
+        }
+
+        .back-to-dashboard:hover {
+            transform: scale(1.1);
+            background-color: #3498db;
+        }
+
+        .grammar-notes { background: white; padding: 30px; border-radius: 15px; margin-bottom: 40px; border-top: 10px solid #34495e; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        .note-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 15px; }
+        .note-item { padding: 15px; border-radius: 10px; background: #f8f9fa; border-left: 4px solid #34495e; font-size: 0.9rem; }
+        .note-item h4 { margin: 0 0 8px 0; color: var(--text); border-bottom: 1px solid #ddd; padding-bottom: 5px; }
+
+        .quiz-section { background: white; padding: 30px; border-radius: 15px; margin-bottom: 30px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+        .section-title { font-size: 1.3rem; font-weight: bold; margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; color: #2980b9; }
+        .question-item { margin-bottom: 15px; padding: 12px; border-radius: 8px; background: #fcfcfc; border: 1px solid #eee; }
+        .q-text { font-weight: 500; margin-bottom: 10px; display: block; }
+        
+        select { padding: 8px; border-radius: 5px; border: 1px solid #ccc; font-size: 0.95rem; width: 100%; max-width: 350px; cursor: pointer; }
+        .correct { background-color: #d4edda !important; border-color: #28a745 !important; }
+        .incorrect { background-color: #f8d7da !important; border-color: #dc3545 !important; }
+
+        .word-bank-container { background: #fff5f5; border: 1px solid #fed7d7; border-radius: 12px; padding: 20px; margin-bottom: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.02); }
+        .bank-header { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 20px; }
+        .bank-title { color: #c53030; margin: 0; border-left: 4px solid #f56565; padding-left: 10px; font-size: 1.1rem; }
+        .bank-badge { font-size: 0.85rem; background: #f56565; color: white; padding: 4px 12px; border-radius: 20px; font-weight: 500; }
+        
+        .q-row { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 15px; font-size: 1rem; }
+
+        .mini-select { 
+            border: none; border-bottom: 2px solid #feb2b2; background: transparent; 
+            font-weight: bold; color: #c53030; padding: 2px 5px; cursor: pointer; outline: none;
+            font-size: 1rem; appearance: none; text-align: center;
+        }
+
+        .passage-box { background: #f0f4f8; padding: 15px; border-radius: 8px; margin-bottom: 15px; font-size: 0.9rem; border-left: 5px solid #2980b9; line-height: 1.4; }
+
+        .result-bar { position: fixed; bottom: 0; left: 0; right: 0; background: #2c3e50; color: white; padding: 20px; text-align: center; box-shadow: 0 -5px 20px rgba(0,0,0,0.2); display: flex; justify-content: center; align-items: center; gap: 40px; z-index: 1000; }
+        .score-display { font-size: 1.4rem; font-weight: bold; }
+        .score-val { color: #2ecc71; font-size: 2rem; }
+        .grade-btn { background: #2ecc71; color: white; border: none; padding: 12px 30px; border-radius: 30px; cursor: pointer; font-weight: bold; font-size: 1.1rem; }
+    </style>
+</head>
+<body>
+
+    <a href="../../index.html" class="back-to-dashboard">🏠 Retour au tableau de bord</a>
+
+<div class="container">
+
+    <header class="grammar-notes">
+        <h2><i class="fas fa-book-open"></i> Notes de grammaire et vocabulaire : Débutant Unités 09-12</h2>
+        <div class="note-grid">
+            <div class="note-item">
+                <h4>Unité 09 : Joyeux anniversaire !</h4>
+                <p><b>was / were</b> (Passé de 'être'). <b>was born / were born</b> (né). <b>Passé Simple - verbes irréguliers</b> (aller, voir, acheter, prendre, dire, vendre, penser).</p>
+            </div>
+            <div class="note-item">
+                <h4>Unité 10 : Nous avons passé un bon moment !</h4>
+                <p><b>Passé Simple - questions et négations</b>. <b>Verbes réguliers avec -ed</b>. <b>Did / didn't</b>.</p>
+            </div>
+            <div class="note-item">
+                <h4>Unité 11 : Nous pouvons le faire !</h4>
+                <p><b>can / can't</b> (Capacité). <b>Demandes et offres</b> avec can. <b>Questions avec can</b>.</p>
+            </div>
+            <div class="note-item">
+                <h4>Unité 12 : Merci beaucoup !</h4>
+                <p><b>want</b> et <b>would like</b>. <b>Demandes polies</b>. <b>Vocabulaire de la nourriture et des boissons</b>.</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- SECTION 1: was / were (Unit 9) -->
+    <section class="quiz-section">
+        <div class="section-title">1. was / were (Unité 9)</div>
+        <div class="question-item">
+            <span class="q-text">1. Il _____ peintre. (Unité 9)</span>
+            <select class="q-select" data-ans="était"><option value="">-- Choisir --</option><option value="était">était</option><option value="étaient">étaient</option><option value="est">est</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">2. Ils _____ en vacances en France. (Unité 9)</span>
+            <select class="q-select" data-ans="étaient"><option value="">-- Choisir --</option><option value="était">était</option><option value="étaient">étaient</option><option value="sont">sont</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">3. Je _____ né en 1979. (Unité 9)</span>
+            <select class="q-select" data-ans="suis"><option value="">-- Choisir --</option><option value="suis">suis</option><option value="es">es</option><option value="est">est</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">4. Quand _____ tu né ? (Unité 9)</span>
+            <select class="q-select" data-ans="es"><option value="">-- Choisir --</option><option value="suis">suis</option><option value="es">es</option><option value="est">est</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">5. Elle _____ scientifique. (Unité 9)</span>
+            <select class="q-select" data-ans="était"><option value="">-- Choisir --</option><option value="était">était</option><option value="étaient">étaient</option><option value="est">est</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 2: Past Simple Regular Verbs (Unit 10) -->
+    <section class="quiz-section">
+        <div class="section-title">2. Passé Simple - Verbes Réguliers (Unité 10)</div>
+        <div class="question-item">
+            <span class="q-text">1. J'_____ au tennis hier. (jouer - Unité 10)</span>
+            <select class="q-select" data-ans="ai joué"><option value="">-- Choisir --</option><option value="joue">joue</option><option value="ai joué">ai joué</option><option value="jouant">jouant</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">2. Elle _____ à la maison. (rester - Unité 10)</span>
+            <select class="q-select" data-ans="est restée"><option value="">-- Choisir --</option><option value="reste">reste</option><option value="est restée">est restée</option><option value="restant">restant</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">3. Nous _____ la télé le soir. (regarder - Unité 10)</span>
+            <select class="q-select" data-ans="avons regardé"><option value="">-- Choisir --</option><option value="regardons">regardons</option><option value="avons regardé">avons regardé</option><option value="regardant">regardant</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">4. Il _____ sur son ordinateur. (travailler - Unité 10)</span>
+            <select class="q-select" data-ans="a travaillé"><option value="">-- Choisir --</option><option value="travaille">travaille</option><option value="a travaillé">a travaillé</option><option value="travaillant">travaillant</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">5. Ils _____ de la musique. (écouter - Unité 10)</span>
+            <select class="q-select" data-ans="ont écouté"><option value="">-- Choisir --</option><option value="écoutent">écoutent</option><option value="ont écouté">ont écouté</option><option value="écoutant">écoutant</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 3: Past Simple Questions & Negatives (Unit 10) -->
+    <section class="quiz-section">
+        <div class="section-title">3. Passé Simple - Questions & Négations (Unité 10)</div>
+        <div class="question-item">
+            <span class="q-text">1. _____ tu as passé un bon week-end ? (Unité 10)</span>
+            <select class="q-select" data-ans="Est-ce que"><option value="">-- Choisir --</option><option value="Est-ce que">Est-ce que</option><option value="Fais">Fais</option><option value="As">As</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">2. Je n'_____ pas joué au tennis. (négatif - Unité 10)</span>
+            <select class="q-select" data-ans="ai"><option value="">-- Choisir --</option><option value="ai">ai</option><option value="est">est</option><option value="suis">suis</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">3. Qu'_____ tu fait hier ? (Unité 10)</span>
+            <select class="q-select" data-ans="as"><option value="">-- Choisir --</option><option value="as">as</option><option value="es">es</option><option value="est">est</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">4. Elle n'_____ pas sortie. (négatif - Unité 10)</span>
+            <select class="q-select" data-ans="est"><option value="">-- Choisir --</option><option value="est">est</option><option value="a">a</option><option value="suis">suis</option></select>
+        </div>
+        <div class="question-item">
+            <span class="q-text">5. _____ tu resté à la maison ? (Unité 10)</span>
+            <select class="q-select" data-ans="Es"><option value="">-- Choisir --</option><option value="Es">Es</option><option value="As">As</option><option value="Est">Est</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 4: VOCABULARY (Units 9-12) -->
+    <section class="quiz-section">
+        <div class="section-title">4. CONSTRUCTEUR DE VOCABULAIRE (Banque de mots)</div>
+
+        <div class="word-bank-container">
+            <div class="bank-header">
+                <h4 class="bank-title">Groupe 1 : Métiers & Professions</h4>
+                <span class="bank-badge"><i class="fas fa-spell-check"></i> peintre, scientifique, chanteur, écrivain</span>
+            </div>
+            <div class="q-row">1. Une personne qui peint est un 
+                <select class="mini-select q-data" data-ans="peintre"><option value="">......</option><option value="peintre">peintre</option><option value="scientifique">scientifique</option><option value="chanteur">chanteur</option><option value="écrivain">écrivain</option></select>.
+            </div>
+            <div class="q-row">2. Une personne qui écrit des livres est un 
+                <select class="mini-select q-data" data-ans="écrivain"><option value="">......</option><option value="peintre">peintre</option><option value="scientifique">scientifique</option><option value="chanteur">chanteur</option><option value="écrivain">écrivain</option></select>.
+            </div>
+            <div class="q-row">3. Une personne qui chante est un 
+                <select class="mini-select q-data" data-ans="chanteur"><option value="">......</option><option value="peintre">peintre</option><option value="scientifique">scientifique</option><option value="chanteur">chanteur</option><option value="écrivain">écrivain</option></select>.
+            </div>
+        </div>
+
+        <div class="word-bank-container">
+            <div class="bank-header">
+                <h4 class="bank-title">Groupe 2 : Activités & Capacités</h4>
+                <span class="bank-badge"><i class="fas fa-spell-check"></i> tennis, natation, ordinateur, conduire</span>
+            </div>
+            <div class="q-row">1. Je peux jouer au 
+                <select class="mini-select q-data" data-ans="tennis"><option value="">......</option><option value="tennis">tennis</option><option value="natation">natation</option><option value="ordinateur">ordinateur</option><option value="conduire">conduire</option></select>.
+            </div>
+            <div class="q-row">2. Je peux utiliser un 
+                <select class="mini-select q-data" data-ans="ordinateur"><option value="">......</option><option value="tennis">tennis</option><option value="natation">natation</option><option value="ordinateur">ordinateur</option><option value="conduire">conduire</option></select>.
+            </div>
+            <div class="q-row">3. Je peux faire de la 
+                <select class="mini-select q-data" data-ans="natation"><option value="">......</option><option value="tennis">tennis</option><option value="natation">natation</option><option value="ordinateur">ordinateur</option><option value="conduire">conduire</option></select>.
+            </div>
+        </div>
+
+        <div class="word-bank-container">
+            <div class="bank-header">
+                <h4 class="bank-title">Groupe 3 : Shopping & Nourriture</h4>
+                <span class="bank-badge"><i class="fas fa-spell-check"></i> timbre, dictionnaire, café, salade</span>
+            </div>
+            <div class="q-row">1. Je veux acheter un 
+                <select class="mini-select q-data" data-ans="timbre"><option value="">......</option><option value="timbre">timbre</option><option value="dictionnaire">dictionnaire</option><option value="café">café</option><option value="salade">salade</option></select> pour ma lettre.
+            </div>
+            <div class="q-row">2. Je veux acheter un 
+                <select class="mini-select q-data" data-ans="dictionnaire"><option value="">......</option><option value="timbre">timbre</option><option value="dictionnaire">dictionnaire</option><option value="café">café</option><option value="salade">salade</option></select> pour mon étude de l'anglais.
+            </div>
+            <div class="q-row">3. Je voudrais une tasse de 
+                <select class="mini-select q-data" data-ans="café"><option value="">......</option><option value="timbre">timbre</option><option value="dictionnaire">dictionnaire</option><option value="café">café</option><option value="salade">salade</option></select>.
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 5: READING (UNITS 9-12) -->
+    <section class="quiz-section">
+        <div class="section-title">5. LECTURE : CHOISISSEZ LE MEILLEUR TITRE</div>
+        
+        <div class="passage-box">
+            En août 1999, trois amis étaient en vacances en France. Ils sont allés faire du shopping et ont vu un vieux tableau sale. Ils l'ont acheté pour 1 400 francs et l'ont emporté à Paris. Un expert a dit que le tableau était de Léonard de Vinci et qu'il valait 500 000 000 francs ! (Unité 9)
+        </div>
+        <div class="question-item">
+            <span class="q-text">1. Quel est le meilleur titre ?</span>
+            <select class="q-select" data-ans="Nous sommes millionnaires !"><option value="">-- Choisir --</option><option value="Nous sommes millionnaires !">Nous sommes millionnaires !</option><option value="Une journée à Paris">Une journée à Paris</option><option value="Acheter un tableau">Acheter un tableau</option></select>
+        </div>
+
+        <div class="passage-box">
+            Salut, Dan. As-tu passé un bon week-end ? Oui, j'ai passé. Qu'est-ce que tu as fait hier ? Hier matin, je me suis levé tôt et j'ai joué au tennis avec des amis. Es-tu sorti hier après-midi ? Non, je ne suis pas sorti. Je suis resté à la maison. J'ai regardé le football à la télé. (Unité 10)
+        </div>
+        <div class="question-item">
+            <span class="q-text">2. Quelle est l'idée principale ?</span>
+            <select class="q-select" data-ans="Le week-end de Dan"><option value="">-- Choisir --</option><option value="Le week-end de Dan">Le week-end de Dan</option><option value="Jouer au tennis">Jouer au tennis</option><option value="Regarder le football">Regarder le football</option></select>
+        </div>
+
+        <div class="passage-box">
+            Salut, Tessa ! Salut, Josh. Qu'est-ce que tu peux faire ? Je peux utiliser un ordinateur. Tu peux dessiner ? Non, je ne peux pas du tout dessiner. Tu peux parler français ? Oui, je peux parler français très bien. Tu peux faire des gâteaux ? Non, je ne peux pas. Ma grand-mère peut faire des gâteaux ! (Unité 11)
+        </div>
+        <div class="question-item">
+            <span class="q-text">3. Choisissez le titre le plus approprié :</span>
+            <select class="q-select" data-ans="Que peux-tu faire ?"><option value="">-- Choisir --</option><option value="Que peux-tu faire ?">Que peux-tu faire ?</option><option value="Parler français">Parler français</option><option value="Faire des gâteaux">Faire des gâteaux</option></select>
+        </div>
+
+        <div class="passage-box">
+            Enrique veut un timbre pour une lettre pour le Venezuela. Il veut changer son argent. Il veut le nouveau CD de Gary Alright. Il veut envoyer un email à Rosa. Il veut un dictionnaire espagnol/anglais. Il veut un magazine informatique PC Worldwide. Il voudrait une tasse de café. Il voudrait une salade. (Unité 12)
+        </div>
+        <div class="question-item">
+            <span class="q-text">4. Quel est le meilleur titre ?</span>
+            <select class="q-select" data-ans="La liste de courses d'Enrique"><option value="">-- Choisir --</option><option value="La liste de courses d'Enrique">La liste de courses d'Enrique</option><option value="Un voyage en ville">Un voyage en ville</option><option value="Café et salade">Café et salade</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 6: MATCH THE MAIN IDEA (Units 9-12) -->
+    <section class="quiz-section">
+        <div class="section-title">6. ASSOCIEZ L'IDÉE PRINCIPALE</div>
+        <div class="passage-box">"Il était peintre. Elle était scientifique. Je suis né en 1979. Quand es-tu né ?" (Unité 9)</div>
+        <div class="question-item">
+            <span class="q-text">Q1. Idée principale :</span>
+            <select class="q-select" data-ans="était et étaient"><option value="">-- Choisir --</option><option value="était et étaient">était et étaient</option><option value="Métiers">Métiers</option></select>
+        </div>
+        <div class="passage-box">"As-tu joué au tennis ? Oui, j'ai joué. As-tu regardé la télé ? Non, je n'ai pas regardé. Qu'est-ce que tu as fait ?" (Unité 10)</div>
+        <div class="question-item">
+            <span class="q-text">Q2. Idée principale :</span>
+            <select class="q-select" data-ans="Parler du passé"><option value="">-- Choisir --</option><option value="Parler du passé">Parler du passé</option><option value="Pratiquer des sports">Pratiquer des sports</option></select>
+        </div>
+        <div class="passage-box">"Peux-tu parler français ? Oui, je peux. Peux-tu dessiner ? Non, je ne peux pas. Peux-tu m'aider ?" (Unité 11)</div>
+        <div class="question-item">
+            <span class="q-text">Q3. Idée principale :</span>
+            <select class="q-select" data-ans="Demander des capacités"><option value="">-- Choisir --</option><option value="Demander des capacités">Demander des capacités</option><option value="Parler des langues">Parler des langues</option></select>
+        </div>
+        <div class="passage-box">"Je voudrais un timbre, s'il vous plaît. Voudriez-vous un verre ? Que voudriez-vous ?" (Unité 12)</div>
+        <div class="question-item">
+            <span class="q-text">Q4. Idée principale :</span>
+            <select class="q-select" data-ans="Demandes polies"><option value="">-- Choisir --</option><option value="Demandes polies">Demandes polies</option><option value="Acheter des timbres">Acheter des timbres</option></select>
+        </div>
+    </section>
+
+    <!-- SECTION 7: can / can't (Unit 11) -->
+    <section class="quiz-section">
+        <div class="section-title">7. can / can't (Unité 11)</div>
+        <div class="question-item"><span class="q-text">1. Je _____ utiliser un ordinateur.</span><select class="q-select" data-ans="peux"><option value="">-- Choisir --</option><option value="peux">peux</option><option value="ne peux pas">ne peux pas</option><option value="pouvais">pouvais</option></select></div>
+        <div class="question-item"><span class="q-text">2. Elle _____ parler français très bien.</span><select class="q-select" data-ans="peut"><option value="">-- Choisir --</option><option value="peut">peut</option><option value="ne peut pas">ne peut pas</option><option value="pouvait">pouvait</option></select></div>
+        <div class="question-item"><span class="q-text">3. Il _____ dessiner du tout. (négatif)</span><select class="q-select" data-ans="ne peut pas"><option value="">-- Choisir --</option><option value="peut">peut</option><option value="ne peut pas">ne peut pas</option><option value="pouvait">pouvait</option></select></div>
+        <div class="question-item"><span class="q-text">4. _____ tu jouer du piano ?</span><select class="q-select" data-ans="Peux"><option value="">-- Choisir --</option><option value="Peux">Peux</option><option value="Pourrais">Pourrais</option><option value="Fais">Fais</option></select></div>
+        <div class="question-item"><span class="q-text">5. Non, je _____ .</span><select class="q-select" data-ans="ne peux pas"><option value="">-- Choisir --</option><option value="peux">peux</option><option value="ne peux pas">ne peux pas</option><option value="pourrais">pourrais</option></select></div>
+    </section>
+
+    <!-- SECTION 8: want / would like (Unit 12) -->
+    <section class="quiz-section">
+        <div class="section-title">8. want / would like (Unité 12)</div>
+        <div class="question-item"><span class="q-text">1. Je _____ un timbre, s'il vous plaît.</span><select class="q-select" data-ans="voudrais"><option value="">-- Choisir --</option><option value="veux">veux</option><option value="voudrais">voudrais</option><option value="veut">veut</option></select></div>
+        <div class="question-item"><span class="q-text">2. Elle _____ acheter un dictionnaire.</span><select class="q-select" data-ans="veut"><option value="">-- Choisir --</option><option value="veut">veut</option><option value="voudrait">voudrait</option><option value="veulent">veulent</option></select></div>
+        <div class="question-item"><span class="q-text">3. _____ vous un verre ?</span><select class="q-select" data-ans="Voudriez"><option value="">-- Choisir --</option><option value="Voulez">Voulez</option><option value="Voudriez">Voudriez</option><option value="Faites">Faites</option></select></div>
+        <div class="question-item"><span class="q-text">4. Je voudrais _____ une salade.</span><select class="q-select" data-ans=""><option value="">-- Choisir --</option><option value="veux">veux</option><option value="aimerais">aimerais</option><option value="adore">adore</option></select></div>
+        <div class="question-item"><span class="q-text">5. Qu'_____ vous ?</span><select class="q-select" data-ans="aimeriez"><option value="">-- Choisir --</option><option value="voulez">voulez</option><option value="aimeriez">aimeriez</option><option value="êtes">êtes</option></select></div>
+    </section>
+
+    <!-- SECTION 9: GRAMMAR FOCUS (Units 9-12) -->
+    <section class="quiz-section">
+        <div class="section-title">9. FOCUS GRAMMAIRE</div>
+        <div class="question-item"><span class="q-text">1. Il _____ né en 1452. (Unité 9)</span><select class="q-select" data-ans="est"><option value="">-- Choisir --</option><option value="est">est</option><option value="sont">sont</option><option value="était">était</option></select></div>
+        <div class="question-item"><span class="q-text">2. Ils _____ en vacances en France. (Unité 9)</span><select class="q-select" data-ans="étaient"><option value="">-- Choisir --</option><option value="était">était</option><option value="étaient">étaient</option><option value="sont">sont</option></select></div>
+        <div class="question-item"><span class="q-text">3. J'_____ au tennis hier. (Unité 10)</span><select class="q-select" data-ans="ai joué"><option value="">-- Choisir --</option><option value="joue">joue</option><option value="ai joué">ai joué</option><option value="jouant">jouant</option></select></div>
+        <div class="question-item"><span class="q-text">4. Elle n'_____ pas restée à la maison. (négatif - Unité 10)</span><select class="q-select" data-ans="est"><option value="">-- Choisir --</option><option value="est">est</option><option value="a">a</option><option value="était">était</option></select></div>
+        <div class="question-item"><span class="q-text">5. Je _____ utiliser un ordinateur. (Unité 11)</span><select class="q-select" data-ans="peux"><option value="">-- Choisir --</option><option value="peux">peux</option><option value="pourrais">pourrais</option><option value="vais">vais</option></select></div>
+        <div class="question-item"><span class="q-text">6. _____ tu jouer du piano ? (Unité 11)</span><select class="q-select" data-ans="Peux"><option value="">-- Choisir --</option><option value="Peux">Peux</option><option value="Pourrais">Pourrais</option><option value="Fais">Fais</option></select></div>
+        <div class="question-item"><span class="q-text">7. Je _____ un timbre, s'il vous plaît. (Unité 12)</span><select class="q-select" data-ans="voudrais"><option value="">-- Choisir --</option><option value="veux">veux</option><option value="voudrais">voudrais</option><option value="veut">veut</option></select></div>
+        <div class="question-item"><span class="q-text">8. _____ vous un verre ? (Unité 12)</span><select class="q-select" data-ans="Voudriez"><option value="">-- Choisir --</option><option value="Voulez">Voulez</option><option value="Voudriez">Voudriez</option><option value="Faites">Faites</option></select></div>
+        <div class="question-item"><span class="q-text">9. Qu'_____ tu fait hier ? (Unité 10)</span><select class="q-select" data-ans="as"><option value="">-- Choisir --</option><option value="as">as</option><option value="es">es</option><option value="est">est</option></select></div>
+        <div class="question-item"><span class="q-text">10. Quand _____ tu né ? (Unité 9)</span><select class="q-select" data-ans="es"><option value="">-- Choisir --</option><option value="suis">suis</option><option value="es">es</option><option value="est">est</option></select></div>
+    </section>
+
+    <div class="result-bar">
+        <div class="score-display">Score total : <span id="final-val" class="score-val">--</span> / 100</div>
+        <button class="grade-btn" onclick="gradeAll()">Soumettre et noter</button>
+    </div>
+</div>
+
+<script>
+    function gradeAll() {
+        const allSelects = document.querySelectorAll('.q-select, .mini-select');
+        let correctCount = 0;
+
+        allSelects.forEach(sel => {
+            const userAnswer = sel.value;
+            const correctAnswer = sel.getAttribute('data-ans');
+
+            if (userAnswer === correctAnswer) {
+                correctCount++;
+                sel.style.backgroundColor = "#d4edda";
+                sel.style.borderColor = "#28a745";
+            } else {
+                sel.style.backgroundColor = "#f8d7da";
+                sel.style.borderColor = "#dc3545";
+            }
+        });
+
+        const totalQuestions = allSelects.length;
+        const finalScore = Math.round((correctCount / totalQuestions) * 100);
+        document.getElementById('final-val').innerText = finalScore;
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        alert(`Votre score est de ${finalScore} / 100. (${correctCount} / ${totalQuestions} correct)`);
+    }
+</script>
+
+</body>
+</html>
